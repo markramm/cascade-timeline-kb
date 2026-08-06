@@ -59,7 +59,7 @@ coverage:
     publication: theramm
 ---
 
-On April 17, 2026, *Stateline* reported that newly-confirmed DHS Secretary Markwayne Mullin — sworn in March 31, 2026 replacing the fired Kristi Noem — has scaled back several Trump-administration warehouse detention facility plans following state-level and city-level pushback. The reporting came four days after the April 13, 2026 response deadline on the Warren-Raskin inquiry to six detention contractors (see [[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]).
+On April 17, 2026, *Stateline* reported that newly-confirmed DHS Secretary Markwayne Mullin — Senate-confirmed March 23 and sworn in March 24, 2026, replacing the fired Kristi Noem — has scaled back several Trump-administration warehouse detention facility plans following state-level and city-level pushback. The reporting came four days after the April 13, 2026 response deadline on the Warren-Raskin inquiry to six detention contractors (see [[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]).
 
 ## Confirmed Scale-Backs
 
@@ -84,10 +84,11 @@ On April 17, 2026, *Stateline* reported that newly-confirmed DHS Secretary Markw
 
 The scale-backs coincide with a fresh DHS leadership:
 - **March 5, 2026**: Trump fires Kristi Noem as DHS Secretary, cites "a culmination of her many unfortunate leadership failures including the fallout in Minnesota, the ad campaign, the allegations of infidelity, the mismanagement of her staff, and her constant feuding with the heads of other agencies"
-- **March 31, 2026**: Noem's last day; Mullin sworn in
+- **March 23, 2026**: Senate confirms Mullin, 54-45
+- **March 24, 2026**: Mullin sworn in
 - **April 17, 2026**: Stateline characterizes the compromises as Mullin "reviews actions taken by his ousted predecessor"
 
-See [[2026-03-05--noem-fired-dhs-secretary]] — *needs entry*.
+See [[2026-03-05--trump-fires-noem-nominates-mullin-dhs-secretary]] and [[2026-03-24--mullin-sworn-in-as-dhs-secretary]].
 
 ## Relationship to the Warren-Raskin Inquiry
 
@@ -128,4 +129,5 @@ Three structural implications:
 - [[2026-01-09--pnk-social-circle-dhs-detention-sale]]
 - [[2026-03-25--choctaw-nation-purchases-durant-warehouse]]
 - [[warehouse-fungibility-and-the-detention-hedge]]
-- [[2026-03-05--noem-fired-dhs-secretary]] — *needs entry*
+- [[2026-03-05--trump-fires-noem-nominates-mullin-dhs-secretary]]
+- [[2026-03-24--mullin-sworn-in-as-dhs-secretary]]

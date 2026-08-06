@@ -148,7 +148,6 @@ In an April 16 CNBC interview, Mullin drew a direct contrast with Noem: "We do h
 ## Related Timeline Entries
 
 - [[2026-03-05--trump-fires-noem-nominates-mullin-dhs-secretary]] — Noem firing and Mullin nomination
-- [[2026-03-05--trump-fires-noem-dhs-mullin-appointed]] — parallel coverage of the firing
 - [[2026-03-06--noem-firing-aftermath-dhs-tenure-controversies]] — Five-controversy post-firing catalog
 - [[2026-03-07--shield-of-americas-summit-trump-doral-cartel-coalition]] — Noem's formal debut as Shield of the Americas envoy
 - [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]] — The Stateline exposé Mullin's pause made possible
