@@ -30,6 +30,8 @@ sources:
     tier: 2
 ---
 
+**Correction (2026-08-06):** the high-risk AI system obligations described below did NOT take binding effect as scheduled. Regulation (EU) 2026/1744, the "AI Act Omnibus," entered force July 27, 2026 and pushed the high-risk deadline (employment, credit, law enforcement, critical infrastructure AI) to December 2027 — see [[2026-07-27--eu-ai-omnibus-delays-high-risk-ai-deadline-to-december-2027]] for the corrected timeline. The facial-recognition bans and transparency requirements below DID take effect as scheduled August 2; only the high-risk-system compliance deadline moved.
+
 The EU AI Act becomes fully enforceable on August 2, 2026, activating binding requirements for high-risk AI systems, banning real-time public-space facial recognition (with narrow exceptions), and prohibiting police post-incident facial recognition and untargeted facial image scraping — the Clearview model specifically. Employment AI restrictions also take effect. No equivalent US federal framework exists; the transatlantic divergence is already shaping procurement decisions.
 
 The EU framework's enforcement lands in the same week Clearview AI secured FedRAMP "In Process" status at the High impact level in the US ([[2026-07-08--clearview-fedramp-cbp-facial-recognition-all-travelers]]) — the same surveillance model the EU is banning is simultaneously being cleared for streamlined federal procurement in the US, marking a concrete fork in Western biometric-surveillance governance rather than a rhetorical one.
