@@ -104,7 +104,7 @@ DiGenova's appointment consolidated a coordinated prosecutorial architecture spa
 
 **March 10, 2026.** CNN reported DOJ prosecutors leading the Brennan investigation were "facing increasing pressure from top Justice officials to bring criminal charges" after prior retaliatory prosecutions failed to produce indictments.
 
-**April 18, 2026.** Maria Medetis Long was removed from her role overseeing the Brennan probe. Per CBS and MSNBC reporting, she had told colleagues she had informed supervisors that the evidence was insufficient to bring charges against Brennan. The removal came after she resisted pressure to bring charges quickly.
+**April 18, 2026.** Maria Medetis Long — head of the National Security Section, U.S. Attorney's Office for the Southern District of Florida, and a career prosecutor who served across multiple administrations — was removed from her role overseeing the Brennan probe. Per CBS and MSNBC reporting, she had told U.S. Attorney Jason Reding Quiñones directly that she did not believe there was enough evidence to make a case, and had resisted pressure to bring charges quickly. A DOJ spokesperson confirmed she "remains employed by the Justice Department" and characterized the reassignment as routine; no subsequent public reporting on her career trajectory has surfaced as of August 2026. See [[medetis-long-maria]] for full biographical detail and documented research gaps.
 
 **April 18–20, 2026.** DOJ subpoenaed multiple witnesses — including "Obama officials" per Washington Post reporting — to testify before a federal grand jury in Washington, D.C. as cooperating witnesses.
 
