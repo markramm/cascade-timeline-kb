@@ -107,6 +107,10 @@ Nichols's ruling does not address the constitutional question of whether the Pre
 
 ## Research gaps
 
-- Notice of appeal filed by plaintiffs to D.C. Circuit not yet documented as of June 5, 2026.
 - DSCC v. Trump full docket number sequence (component case IDs for NAACP, LULAC) not yet pulled from PACER/RECAP.
 - The Massachusetts case's June 2 hearing outcome.
+
+## Update (2026-07-28): D.C. Circuit affirms on appeal
+
+A unanimous three-judge D.C. Circuit panel affirmed Nichols's ruling on July 28, 2026, rejecting the plaintiffs' appeal on the same procedural ground — the challenge was filed before federal agencies finalized their implementing policies, so there was no ripe injury to enjoin. The panel did not reach the merits of EO 14399's constitutionality. This resolves the "notice of appeal" research gap noted above: plaintiffs did appeal, and lost on the same ripeness theory that decided the case below. Confirmed independently via Courthouse News Service and Democracy Docket, beyond the single tier-3 source (The Federalist) the capture-ledger story was originally flagged against.
+
