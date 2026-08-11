@@ -40,6 +40,7 @@ sources:
     tier: 2
 coverage_notes:
   - 'news-headlines-digest-2026-06-14-full-lane-sweep — H1 (duplicate confirmed; coverage reference added 2026-06-14)'
+  - 'TIME, Aug 10 2026 ("As ICE Detention Expands, Deaths Reach a 22-Year High", https://time.com/article/2026/08/10/ice-detention-deaths-immigration/) confirms the reporting suppression remains in effect and reports FY26 death rate at 88.9 per 100,000 detainees in the first 3.5 months, up from 47.5 the prior year — added 2026-08-11'
 related:
   - 2026-03-30--adelanto-geo-fourth-death-california-record-seven-months
   - 2026-06-02--nj-sues-geo-group-delaney-hall-health-inspector-access
