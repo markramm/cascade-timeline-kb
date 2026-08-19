@@ -111,9 +111,13 @@ duration. USCRI attorneys had begun appearing in immigration court on **2026-08-
 "claiming to represent children they had not yet met and sparking confusion among judges
 and lawyers from the expired contract still providing representation" (AP).
 
-`cascade-search fedreg "Burke Law Group"` returns **exactly two** documents — the intent and
-the withdrawal. **There is no re-announcement**, and USAspending shows a **verified absence**
-of any federal award to the firm. The $150M ceiling was never obligated to anyone.
+`cascade-search fedreg "Burke Law Group"` returns the intent notice and the withdrawal
+as its top two results, and **no third Burke document and no re-announcement**. Stated
+precisely because the tool is a RELEVANCE-RANKED search, not a filter: the same query
+returns 20 rows, the remainder being unrelated NRC and USDA notices. The finding is
+"no re-announcement among the Burke-matching documents," which the ranking supports —
+not "the corpus contains exactly two documents," which it does not show.
+(Corrected by conductor QC, tick 3: the original read the row count as a filter result.)
 
 Plaintiffs' counsel in CLSEPA told the court that **"these half-baked plans are not
 sufficient to comply with this court's order."** Meanwhile Acacia confirmed its providers
