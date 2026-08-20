@@ -131,6 +131,33 @@ That distinction is the finding, not a technicality. A federal court has held th
 
 One further detail from the same docket: the injunction required plaintiffs to file a list of protected facilities with addresses. They moved to impound it rather than hand DHS a consolidated roster of protected churches. On February 26, 2026 Judge Saylor denied the motion, reasoning that church locations are "freely available to the public," while cautioning that retaliatory action would be contempt. The publicness that made the list unsealable is the same publicness this ROI invokes when it notes the tour "was advertised via open source." DHS meanwhile obtained repeated extensions to answer the complaint — the most recent to **April 13, 2026**, the day Darryl Pugh approved this report.
 
+## How much weight the ROI's own account carries
+
+Everything above about what happened inside that sanctuary comes from one source: UCA 9759's
+summary, written up by SA Herrgott. **There is no independent recording of that room.** The ROI
+itself says its account "is a summary and not a verbatim account."
+
+That matters more than it would in the abstract, because HSI affidavit practice in this exact
+enforcement context has a documented reliability problem. In Minnesota, under the same operation
+(Metro Surge), the same statute (18 U.S.C. § 111), and the same agency, **HSI Special Agent
+Richard Berger filed sworn affidavits in at least 25 cases and more than half have been dropped**
+— 19 Minnesota assault-on-officer prosecutions dismissed as of 2026-07-30. Magistrate Judge
+David Schultz, on the record: **"In all of them I became concerned with the veracity of his
+affidavits."** He called one "a fake affidavit," finding the prosecution's own video did not
+support the language used. See
+[[section-111-protest-dismissal-opinions-what-judges-said]] (verified across KSTP, CBS Minnesota,
+FOX 9, KFGO).
+
+This establishes **nothing false** about the Ann Arbor ROI. Berger is not its author and no court
+has questioned it. What it establishes is the evidentiary-weight question: where an HSI agent's
+uncorroborated characterization of events has been judicially found unreliable across two dozen
+sworn statements in the same operation, an uncorroborated characterization of a church sanctuary
+should be attributed as **what the agent wrote**, not reported as what occurred.
+
+Practical rule for any piece drawn from this entry: write "the agent's report states that…" and
+not "at the meeting, X said…". The distinction is small on the page and large if the account is
+ever contested.
+
 ## Open Questions
 
 - ~~The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request~~ **RESOLVED 2026-08-20**: Steven Schrank, per his signature on two FedWire/CHIPS financial summonses in the same discovery set. See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
