@@ -142,8 +142,7 @@ enforcement context has a documented reliability problem. In Minnesota, under th
 (Metro Surge), the same statute (18 U.S.C. § 111), and the same agency, **HSI Special Agent
 Richard Berger filed sworn affidavits in at least 25 cases and more than half have been dropped**
 — 19 Minnesota assault-on-officer prosecutions dismissed as of 2026-07-30. Magistrate Judge
-David Schultz, on the record: **"In all of them I became concerned with the veracity of his
-affidavits."** He called one "a fake affidavit," finding the prosecution's own video did not
+David Schultz, on the record: **"concerned with the veracity" of multiple Berger affidavits, and that Berger "did not have any personal knowledge of the events described in the affidavits that he has submitted to this court as sworn affidavits" (CBS Minnesota, 2026-08-06)** He called one "a fake affidavit," finding the prosecution's own video did not
 support the language used. See
 [[section-111-protest-dismissal-opinions-what-judges-said]] (verified across KSTP, CBS Minnesota,
 FOX 9, KFGO).
