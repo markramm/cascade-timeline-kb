@@ -43,6 +43,11 @@ sources:
     publisher: Planet Detroit
     date: '2026-02-01'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
+  - url: "https://theramm.transparencycascade.org/p/why-im-digging-into-data-colonialism"
+    title: "Why I'm Digging Into Data Colonialism"
 ---
 
 In September 2025, the Saline Township Planning Commission recommended denial of a rezoning request for what would become the Related Digital/Oracle/OpenAI "Stargate Michigan" data center campus (later nicknamed "The Barn"). The Township Board followed suit, voting 4-1 to deny the rezoning.

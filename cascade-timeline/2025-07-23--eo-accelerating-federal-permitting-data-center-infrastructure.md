@@ -66,7 +66,9 @@ capture_lanes:
   - Regulatory Capture
   - Executive Power Expansion
   - Environmental Capture
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/disarming-ai-what-does-it-mean-to
+    title: 'Disarming AI: What does it mean to "Disarm AI?"'
 ---
 
 ## Opening

@@ -28,6 +28,9 @@ sources:
     publisher: The Sun Times News
     date: '2026-08-05'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
 ---
 
 Residents of Augusta Township (Washtenaw County, MI) organized a successful referendum petition against the township board's approval of agricultural-to-industrial rezoning for Thor Equities' proposed $1B, 800-acre data center near Milan. The Planning Commission had recommended denial; the board overrode it, voting unanimously on July 22, 2025 to approve Ordinance No. 2025-02, rezoning 522.2 acres across seven parcels from Agricultural Residential to General Industrial. The referendum, organized as PACT (Protect Augusta Charter Township), appeared on the August 4 ballot. A moratorium ordinance had its second reading the same day; a full board recall campaign was also active. If the referendum passed, the rezoning would be voided.

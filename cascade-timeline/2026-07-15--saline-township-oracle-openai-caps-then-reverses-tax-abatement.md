@@ -36,6 +36,9 @@ sources:
     publisher: Crain's Detroit Business
     date: '2026-07-15'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
 ---
 
 Saline Township (Washtenaw County, MI, near Ann Arbor) approved a 12-year, 50% tax abatement on July 15, 2026 for "The Barn" — a 250-acre Oracle/OpenAI Stargate-affiliated AI campus developed by The Related Companies — but capped the abatement basis at the project's original $4.8 billion valuation rather than its current $43.1 billion stated valuation, cutting the annual subsidy roughly 9x (from an estimated $147M to under $20M) and adding a clawback provision recoverable if the project is never completed. The approval itself was compelled by a prior court order from an earlier Related lawsuit, but the township used the discretion it had to constrain the dollar amount.

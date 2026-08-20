@@ -44,7 +44,9 @@ sources:
   date: '2026-06-08'
   tier: 1
 related_events: []
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-leonardo-patent-that-turns-your
+    title: "The Leonardo Patent That Turns Your Devices Into a Location Fingerprint — and Forecasts Where You'll Go Next"
 ---
 
 On **February 25, 2025**, the USPTO granted **US Patent 12,236,780 B2**, "Systems and Methods for Electronic Signature Tracking **and Analysis**," to **Leonardo US Cyber and Security Solutions LLC** (the US arm of Italian-state-controlled defense prime Leonardo S.p.A.; inventor Todd Child, priority Sept 9, 2021). It is the second patent in the family behind **ELSAG SignalTrace**, the system that extends license-plate readers into person-tracking by fingerprinting the RF signals personal devices broadcast. The first patent — US 11,941,716 B2 (Mar 26, 2024) — covered *collecting and correlating* device signatures with plate reads. The '780 patent adds the "and Analysis," and that is the escalation.

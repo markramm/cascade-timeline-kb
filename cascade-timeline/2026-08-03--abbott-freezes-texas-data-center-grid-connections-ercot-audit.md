@@ -35,6 +35,9 @@ sources:
     publisher: "KERA News"
     date: '2026-08-04'
     tier: 1
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
+    title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
 Gov. Greg Abbott directed the Public Utility Commission of Texas and ERCOT on August 3, 2026 to audit every data center in the grid interconnection queue before approving new connections, immediately freezing large-load tie-ins statewide. ERCOT suspended its "Batch Zero Large Load" classification notifications that had been scheduled for August 7, halting grid access for active Texas projects from Meta, Google, Microsoft, Amazon, and xAI.

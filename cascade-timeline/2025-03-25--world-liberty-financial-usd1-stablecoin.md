@@ -55,6 +55,8 @@ coverage:
   - url: https://theramm.substack.com/p/what-world-liberty-didnt-submit
     title: "What World Liberty Didn't Submit"
     date: '2026-06-06'
+  - url: "https://theramm.transparencycascade.org/p/why-im-digging-into-data-colonialism"
+    title: "Why I'm Digging Into Data Colonialism"
     publication: theramm
 ---
 World Liberty Financial, a cryptocurrency venture co-founded by Trump's associates, announced the launch of USD1, a stablecoin pegged 1-to-1 to the U.S. dollar. The launch involves a strategic partnership with Binance and a $75 million investment from Justin Sun, raising significant concerns about potential conflicts of interest and regulatory compliance.

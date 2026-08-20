@@ -19,6 +19,9 @@ sources:
     publisher: Drop Site News (with Barn Raiser)
     date: '2026-07-29'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/michigan-the-primary-data-centers
+    title: "The Data Center Wedge. The Michigan Primary Data Centers Built"
 ---
 
 Drop Site News, reporting with Barn Raiser, documented July 29, 2026 that hyperscale data-center siting has become a wedge issue inside Michigan's 2026 Democratic primary. A resistance movement opposing warehouse-scale data-center development has grown in Traverse City as rural Michigan faces new siting pressure, with candidates Abdul El-Sayed and Haley Stevens taking divergent positions. The single-source (tier 2) report has not yet been independently corroborated; the specific county, permit, or rezoning flashpoint driving the Traverse City resistance is not yet confirmed.

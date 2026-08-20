@@ -27,6 +27,9 @@ sources:
     publisher: "Urban Milwaukee"
     date: '2026-08-07'
     tier: 2
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
+    title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
 The Wisconsin Public Service Commission voted August 7 to reject American Transmission Company's application to build $1.7 billion in grid infrastructure connecting a large data center at Port Washington (Ozaukee County), ordering ATC to restart the application from scratch. PSC Chair Summer Strand said design changes had been so extensive that regulators and the public could no longer assess what was actually being approved. The cost-shift exposure is explicit: roughly 10% of residential We Energies bills already flow to transmission costs, and ATC's cost-recovery structure would likely spread the new connection costs across all ratepayers. But the PSC has no authority to reassign those costs to the data center developer directly — only FERC can order that, leaving the underlying problem unresolved even after the restart. No hyperscaler has been publicly identified for the Port Washington project.

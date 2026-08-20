@@ -31,6 +31,9 @@ capture_lanes:
 - Financial Extraction
 - Legislative Capture
 - Regulatory Capture
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/why-im-digging-into-data-colonialism"
+    title: "Why I'm Digging Into Data Colonialism"
 ---
 
 By 2011, the ACLU and academic researchers have documented the systematic exploitation of incarcerated workers across the American prison system, revealing a labor regime that operates under the Thirteenth Amendment's explicit exception: "Neither slavery nor involuntary servitude, *except as a punishment for crime whereof the party shall have been duly convicted*, shall exist within the United States." That sixteen-word exception — inserted at the insistence of legislators who anticipated its use — enables a prison labor system in which approximately 800,000 incarcerated workers produce an estimated $11 billion in goods and services annually while earning between $0.12 and $0.40 per hour in most state systems, with some states paying nothing at all.

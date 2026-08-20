@@ -44,7 +44,9 @@ sources:
 capture_lanes:
   - Regulatory Capture
   - Environmental Capture
-coverage: []
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
+    title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
 ## Opening

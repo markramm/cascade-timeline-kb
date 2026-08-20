@@ -47,6 +47,8 @@ coverage:
     title: "The Pope Finished the Sentence"
   - url: https://theramm.transparencycascade.org/p/the-architecture-of-visibility
     title: "The Architecture of Visibility: How Meta Made Political Speech Disappear Without Banning It"
+  - url: https://theramm.transparencycascade.org/p/disarming-ai-what-does-it-mean-to
+    title: 'Disarming AI: What does it mean to "Disarm AI?"'
 ---
 
 <!-- PRIMARY TEXT VERIFIED 2026-05-27: full encyclical text obtained from vatican.va (Mark). DATE CORRECTION: the encyclical is SIGNED "15 May... 2026" (dateline: "Given in Rome, at Saint Peter's, on 15 May, in the year 2026"); presented/released ~May 25. This event entry's date (05-25) = presentation; signing = 05-15. Verbatim load-bearing passages now confirmed against primary text — see "Verified verbatim" block below. -->

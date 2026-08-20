@@ -37,6 +37,9 @@ sources:
     publisher: The University Record (U-M)
     date: '2026-03-18'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
 ---
 
 The University of Michigan finalized purchase of a 124-acre parcel on Textile Road in Ypsilanti Township, adjacent to a 20-acre parcel U-M already owned (144 acres combined), on the Huron River. The parcel is one of two sites U-M is reportedly still considering for a proposed data center — described by the university as a "high-performance computational research center" — developed jointly with Los Alamos National Laboratory. The other candidate site is at the Willow Run complex; as of this entry's sources, no final site had been confirmed.

@@ -38,6 +38,9 @@ sources:
     publisher: Bridge Michigan
     date: '2026-04-01'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
 ---
 
 The Ypsilanti Community Utilities Authority (YCUA) board voted unanimously to pass Resolution 26-08, a 12-month moratorium barring new water and sewer service connections, capacity reservations, infrastructure commitments, and preliminary approvals for hyperscale data centers, mid-sized data centers, AI computing facilities, and high-performance computational centers. During the moratorium period, YCUA will study water supply/demand capacity, wastewater treatment capability, financial impacts, infrastructure needs, environmental/sustainability effects, and emergency preparedness and system resilience.

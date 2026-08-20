@@ -39,6 +39,9 @@ sources:
     outlet: PJM Inside Lines
     date: '2025-12-17'
     tier: 1
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
+    title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
 ## Event

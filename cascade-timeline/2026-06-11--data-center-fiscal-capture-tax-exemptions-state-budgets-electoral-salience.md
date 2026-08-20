@@ -53,7 +53,9 @@ sources:
     tier: 1-equivalent
 related_events:
   - 2026-06-10--abbott-directive-puct-ercot-data-center-infrastructure-costs
-coverage: []
+coverage:
+  - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
+    title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
 # Data-Center Fiscal Capture Crystallizes: Tax Exemptions, State Budgets, and the Ballot

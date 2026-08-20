@@ -36,6 +36,11 @@ sources:
     publisher: BridgeDetroit
     date: '2026-04-24'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/michigan-the-primary-data-centers
+    title: "The Data Center Wedge. The Michigan Primary Data Centers Built"
+  - url: https://theramm.transparencycascade.org/p/the-washtenaw-county-data-center
+    title: "The Washtenaw County Data Center Tryptich"
 ---
 
 DTE Energy filed for a $474.3 million electric rate increase in April 2026, which would raise residential rates by 9.7% — more than double a separate 4.1% increase referenced in coverage of the same period. Paired with the filing, DTE indicated it could pause further rate-hike requests for two years (through 2028) if it secures a "constructive" outcome in the current rate case, the Oracle/OpenAI Saline Township data center comes online by the end of 2027 on schedule, and DTE receives unspecified additional regulatory approvals.
