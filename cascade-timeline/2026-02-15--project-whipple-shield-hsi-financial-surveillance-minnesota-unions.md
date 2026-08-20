@@ -107,11 +107,15 @@ Guilt by associational overlap, drawn as a chart, shown to the body that decides
 ## Open Questions
 
 - The full list of all 18 organizations on the grand jury "Conspiracy" slide
-- Whether any recipient of an administrative summons has moved to quash, and with what result
-- Which financial institutions complied and whether any refused or notified their customers
+- Whether any recipient of an administrative summons has moved to quash, and with what result — **checked 2026-08-20**: no public quash motion located (CourtListener full-text + news sweep both return verified absence); notable contrast with the structurally identical Sept-Oct 2025 DHS subpoenas to Google/Meta, which four Doe plaintiffs did move to quash in N.D. Cal. See [[whipple-shield-class-level-harm-deploy-disposition]]
+- Which financial institutions complied and whether any refused or notified their customers — **checked 2026-08-20**: no evidence found of any recipient organization notifying individual members/donors that their records were reviewed
 - The statutory authority claimed for the administrative summonses, and whether it supports records unrelated to customs or immigration violations
 - Whether comparable financial process issued in any other jurisdiction touched by this investigation
 - Whether the 94-page indictment survives the pending challenge to its predicate
+
+## Deploy Disposition (human-layer note)
+
+This entry's harm is **class-level, not individually nameable** — see [[whipple-shield-class-level-harm-deploy-disposition]] for the full confirm-the-absence writeup. Every union-PAC donor and community-org Venmo/PayPal user in the 2023-2026 window is inside the dataset and does not know it; manufacturing an individual victim would misstate an indiscriminate mechanism as a targeting story. The available on-record human voice is institutional: CWA Local 7250 President Kieran Knutson, CWA President Claude Cummings Jr., Minnesota AFL-CIO President Bernie Burnham, and Minneapolis Federation of Educators' Marcia Howard have all spoken on the record about their own organizations' records being taken; SEIU co-signed a joint statement. IFPTE and Voices for Racial Justice have not yet been located making a standalone statement.
 
 ## Cross-References
 
@@ -119,3 +123,4 @@ Guilt by associational overlap, drawn as a chart, shown to the body that decides
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[2025-12-04--bondi-weaponizes-tax-law-against-antifa]]
 - [[2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge]]
+- [[whipple-shield-class-level-harm-deploy-disposition]]
