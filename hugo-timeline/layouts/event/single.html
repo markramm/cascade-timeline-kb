@@ -23,9 +23,28 @@
     <aside class="spine" aria-label="Other events in {{ $year }}">
       <div class="spine-decade">{{ $year }}</div>
       <ul>
+        {{/* Show a WINDOW of siblings centred on the current event, not the whole
+             year. Listing every event in the year (previously `first 80`) meant
+             each event page carried up to 80 links of navigation identical to its
+             siblings' — a large share of the visible text was boilerplate shared
+             with hundreds of pages, the classic templated near-duplicate signal.
+             A centred window keeps the "what surrounded this" context that makes
+             the spine useful while cutting the shared surface sharply. The
+             "All of {year}" link below still reaches the full list. */}}
         {{ $yearTerm := site.GetPage (printf "/year/%s" $year) }}
         {{ if $yearTerm }}
-          {{ range first 80 (sort $yearTerm.Pages ".Params.date" "asc") }}
+          {{ $sorted := sort $yearTerm.Pages ".Params.date" "asc" }}
+          {{ $window := 12 }}
+          {{ $idx := 0 }}
+          {{ range $i, $pg := $sorted }}
+            {{ if eq $pg.RelPermalink $current.RelPermalink }}{{ $idx = $i }}{{ end }}
+          {{ end }}
+          {{ $half := div $window 2 }}
+          {{ $start := cond (gt (sub $idx $half) 0) (sub $idx $half) 0 }}
+          {{ if gt (add $start $window) (len $sorted) }}
+            {{ $start = cond (gt (sub (len $sorted) $window) 0) (sub (len $sorted) $window) 0 }}
+          {{ end }}
+          {{ range first $window (after $start $sorted) }}
             <li{{ if eq .RelPermalink $current.RelPermalink }} class="is-current"{{ end }}>
               <a href="{{ .RelPermalink }}">
                 <span class="mono">{{ dateFormat "01-02" .Params.date }}</span><br>
