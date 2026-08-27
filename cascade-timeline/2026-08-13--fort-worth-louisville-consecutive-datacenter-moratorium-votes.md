@@ -52,3 +52,17 @@ The distinction between the two votes is worth preserving against the "moratoriu
 Fort Worth's August 11 vote was 10-0 to *begin* the legal process, not to impose the pause. Under Texas law a commercial-development moratorium cannot activate until the council issues written findings that existing regulations are inadequate to prevent harm to public health, safety, or welfare — which puts the earliest effective date at **February 16, 2027**. The council also created an eleven-member Data Center and Infrastructure Commission and required new applicants to document PUC and ERCOT approvals; two companion measures passed 10-1.
 
 The distinction matters for reading the moratorium wave: a unanimous vote and an actual construction pause can be six months apart, and the headline count of localities that have "passed a moratorium" conflates jurisdictions where building has stopped with jurisdictions where a process has started.
+
+## What actually constrains Texas local action (added 2026-08-27)
+
+Research on the Texas state-versus-municipal question ([[research-texas-datacenter-state-vs-municipal-levers-2026-08-27]]) found the intuitive framing is wrong twice over.
+
+**Abbott's directives do not preempt or reinforce the municipal moratoria — they run on a different lever entirely.** The June 10 directive and August 3 grid-connection freeze operate through **ERCOT interconnection and PUCT ratepayer-cost rulemaking**; read directly, neither contains zoning or abatement language. Municipal moratoria and abatement fights sit on separate statutory footing (Local Gov't Code **Ch. 212** and **Ch. 312**) the directives never touch. Fort Worth in fact now *requires* applicants to document ERCOT/PUC approval as an input to its own zoning gate — treating the state lever as **additive, not a substitute**.
+
+**The real constraint is Dillon's Rule plus developer litigation.** Texas counties are creatures of statute with no inherent police power. **Hill County** passed the first Texas county data-center moratorium in about May 2026; developer **RCM Hill LLC** sued for **$100 million** (ultra vires, takings, and § 1983 claims); the county **rescinded within weeks** and paid roughly $100,000 in fees. **Tom Green County then dropped its own moratorium plans.**
+
+That sequence — not gubernatorial action — is why Bell County and Fort Worth are moving by amendment and process rather than outright bans. It is the most important fact in the Texas thread and is not otherwise in this corpus; it deserves its own timeline entry.
+
+**Dallas:** a five-member council memo dated **August 12, 2026** requested a hearing within 30 days on data-center zoning amendments — process-start stage, not a vote.
+
+**On the $130 billion "blocked or delayed projects" figure**, which circulates without qualification: it traces to **Data Center Watch (10a Labs)** and is a **Q1 2026 quarterly figure (January-March)**, not an annual total — 75 projects. Methodology is only partially disclosed (public-source tracking of media, filings, petitions), with no blocked-versus-delayed split, no Texas breakout, and the full report paywalled. **Cite it with its period and its limits or not at all.**
