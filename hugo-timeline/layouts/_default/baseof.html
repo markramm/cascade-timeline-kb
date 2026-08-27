@@ -67,6 +67,10 @@
            sitewide meta description). Year/decade terms are always indexed. */ -}}
 {{- $noindex := false -}}
 {{- if .Params.noindex -}}{{- $noindex = true -}}{{- end -}}
+{{- /* The 404 page should never be indexed. The status code is what actually
+       matters to Google, but there is no reason to invite indexing of the
+       not-found template. */ -}}
+{{- if eq .Kind "404" -}}{{- $noindex = true -}}{{- end -}}
 {{- /* Thin taxonomy pages: a term backed by only a handful of events is mostly
        navigation shared with its siblings, which reads to Google as a templated
        near-duplicate and lands in "Crawled - currently not indexed". Generation
