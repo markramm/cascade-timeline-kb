@@ -44,6 +44,23 @@ sources:
     publisher: arXiv
     date: '2019-04-19'
     tier: 0
+  - title: "IARPA Awards SRI International Multi-Year $12.5 Million Contract To Address Vulnerabilities In Current Biometric Security Systems"
+    url: https://www.prnewswire.com/news-releases/iarpa-awards-sri-international-multi-year-125-million-contract-to-address-vulnerabilities-in-current-biometric-security-systems-300480139.html
+    publisher: "PRNewswire (SRI International press release) — IARPA Odin, contract 2017-17022400004"
+    date: '2017-06-27'
+    tier: 2
+    note: 'Company press release — self-reported, but names contract number 2017-17022400004, PI Jeffrey Lubin, and partners Compact Imaging and Carnegie Mellon. Corroborated by Intelligence Community News and Biometric Update.'
+  - title: "WO 2018/175603 A1 — Robust biometric access control using physiological-informed multi-signal correlation"
+    url: https://patents.google.com/patent/WO2018175603A1/en
+    publisher: "WIPO (SRI International; inventor Gregory Kovacs; filed 2018-03-21; status ceased 2019)"
+    date: '2018-09-27'
+    tier: 0
+  - title: "US 12,072,440 B2 — Identification system for subject or activity identification using range and velocity data"
+    url: https://patents.google.com/patent/US12072440B2/en
+    publisher: "USPTO (SRI International; priority 2017-03-28; granted 2024-08-27; ACTIVE, expires 2039)"
+    date: '2024-08-27'
+    tier: 0
+    note: 'Radar-based identification of people and activities by gait/motion via CNN+LSTM. Inventors include Jeffrey Lubin, also PI on the IARPA Odin contract.'
   - title: "DHS LRBAA award 70RSAT19CB0000017 to SRI International — 'Automatic Speaker Verification for USCIS Applications' ($851,953)"
     url: https://github.com/micahflee/ice-contracts
     publisher: "DHS Office of Industry Partnership R&D catalog, via DDoSecrets / 'Department of Peace' leak (2023-03-01); derived dataset in kb-research/dhs-rd-pipeline"
@@ -63,5 +80,16 @@ On **October 29, 2018**, SRI International filed the priority application for wh
 **Why it belongs in the record.** The classification problem this research formalizes — sorting political speech into advocacy versus threat — is the same judgment later made administratively against protest activity: see [[2026-03-09--kyle-shideler-antifa-expert-witness-credentials-pro-israel-advocacy-background]], where an indictment's expert framing came from a think tank rather than academic or government credentialing, and [[2026-06-16--minnesota-us-attorney-indicts-15-direct-action-minnesota-antifa-ties]]. It sits in the vendor lineage alongside [[2009-01-01--dataminr-founded-real-time-social-media-surveillance]] and [[2011-01-01--geofeedia-founded-location-based-social-media-surveillance]] — the difference being that this one is not a startup but a defense-contracted research institute, and the funding line is documented in the paper's own acknowledgments.
 
 **A separate, documented DHS relationship.** SRI is not only an ONR/DARPA grantee. The DHS Office of Industry Partnership R&D catalog — leaked to DDoSecrets in March 2023 and indexed locally as `dhs-rd-pipeline` — records one SRI award: **LRBAA 70RSAT19CB0000017, "Automatic Speaker Verification for USCIS Applications," $851,953**, period of performance 2019-08-16 to 2020-08-15, under the topic "Identity Management." SRI proposed delivering a voice-biometric identity-verification system to USCIS "with unlimited Government rights," verifying identity against a voice sample "such as one collected during a visa application," and explicitly extending to "remote authentication via voice of either cooperative or **non-cooperative**" subjects. This is a different technology from the intent-classification work above and there is no evidence the two were connected. It is recorded here because it establishes that SRI was selling biometric identification capability into the immigration system in the same period. The award comes from a leaked dataset and should be confirmed against USASpending/FPDS before being relied on as tier 1.
+
+**The same institution, three agencies, overlapping years.** The intent-classification work is not an isolated federal engagement. In roughly the same period SRI was executing at least two other government identification programs:
+
+- **IARPA Odin** — a four-year, **$12.5M** contract (**2017-17022400004**, announced 2017-06-27) to develop "dynamic biometrics" detecting *presentation attacks*: attempts to spoof or evade fingerprint, iris, and face scanners. PI **Jeffrey Lubin**, with Compact Imaging and Carnegie Mellon as partners. The technical output is visible in **WO 2018/175603 A1**, which correlates photoplethysmography, ECG, ballistocardiography, Doppler-radar heartbeat and respiration, thermal, and iris/face signals to confirm a subject is living tissue. SRI's PI framed the target deployments as travel checkpoints and facility access points.
+- **DHS LRBAA** — the USCIS voice-biometric award described below.
+
+Separately, and still enforceable: **US 12,072,440 B2**, granted 2024-08-27 and running to **2039**, claims identification of *subjects and activities* from **radar** range-and-velocity data — matching gait and motion patterns against enrolled profiles using a CNN+LSTM, with no camera required. Its named applications are elder care and vehicle security. Jeffrey Lubin is among its inventors. Gait identification at range without line of sight is a capability whose stated civilian framing and surveillance utility diverge sharply, and unlike the abandoned intent-classification application, this one is live IP for another thirteen years.
+
+None of this establishes deployment against any person. What the cluster documents is that one nonprofit research institute was simultaneously funded by **ONR/DARPA** (intent classification), **IARPA** (biometric spoof detection), and **DHS** (voice biometrics for immigration) on the common problem of identifying people and reading their intent — and sought patent protection on the results.
+
+**A caution on portfolio research.** SRI holds roughly **11,664 patents**. Search engines attribute patents to it incorrectly: both "Distance Iris Recognition" (US 8,285,005) and "Assisted video surveillance of persons-of-interest" (US 9,111,147) surface in SRI-related searches and belong to **Honeywell/Gentex** and **MIT** respectively. Every patent cited here was verified against its own assignee field. Any future sweep must do the same.
 
 **Open questions** (tracked as research tasks): whether SRI holds DHS/ICE/CBP contracts; whether this technique or its authors moved into any fielded system; SRI's current ownership, leadership, and any financial ties to the current administration.
