@@ -67,8 +67,14 @@
            sitewide meta description). Year/decade terms are always indexed. */ -}}
 {{- $noindex := false -}}
 {{- if .Params.noindex -}}{{- $noindex = true -}}{{- end -}}
+{{- /* Thin taxonomy pages: a term backed by only a handful of events is mostly
+       navigation shared with its siblings, which reads to Google as a templated
+       near-duplicate and lands in "Crawled - currently not indexed". Generation
+       already skips terms under TERM_PAGE_MIN_EVENTS (3) entirely; this noindexes
+       the next band up so crawl budget goes to event pages instead. Kept as
+       noindex,follow so the links still pass through to the events. */ -}}
 {{- if and (eq .Kind "term") (or (eq .Type "actors") (eq .Type "tags")) -}}
-  {{- if lt (len .Pages) 3 -}}{{- $noindex = true -}}{{- end -}}
+  {{- if lt (len .Pages) 5 -}}{{- $noindex = true -}}{{- end -}}
 {{- end -}}
 {{- if and (eq .Kind "term") (eq .Type "lanes") -}}
   {{- if lt (len .Pages) 5 -}}{{- $noindex = true -}}{{- end -}}
