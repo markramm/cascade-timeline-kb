@@ -63,3 +63,26 @@ Within days of DROP going live, more than 345,000 deletion requests had been sub
 The most load-bearing item is the rationale the legislature itself put on the record. **SB 361**, signed October 2025, cites the concern that federal agencies were circumventing California's sanctuary and privacy protections by *purchasing* consumer data from brokers rather than seeking access to protected government databases. That is not a privacy-advocate inference; it is a state legislature naming the commercial-purchase workaround as the reason for the law. The same mechanism is documented across this corpus from the buyer's side: Maryland's attorney general complaint against Penlink and Thomson Reuters over geolocation data sold into ICE ([[2026-08-20--maryland-ag-complaint-penlink-thomson-reuters-geolocation-ice]]), DHS's no-bid Penlink PLX contract for warrantless real-time interception ([[2026-04-29--dhs-penlink-plx-no-bid-contract-warrantless-realtime-interception]]), ICE's bulk facial-recognition contracting through LexisNexis and Palantir ([[2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract]]), and HSI soliciting a private contractor for voter-registration files under a fraud-detection framing ([[2026-08-26--hsi-solicits-private-contractor-voter-registration-files-fraud-detection]]). New Jersey's own broker statute is the nearest state-level cousin ([[2026-06-30--new-jersey-enacts-costliest-data-broker-law-a5328]]).
 
 What SB 361's rationale does *not* settle is the question the original entry left open. Naming commercial purchase as the circumvention route establishes legislative intent; it does not establish that DROP deletion requests reach records already sold to or held by a federal purchaser. A statute can identify the leak and still not plug it, and nothing in the August activation or the two settlements demonstrates that a consumer deletion propagates past the point of federal acquisition.
+
+## The registry now names federal customers — pulled from the primary CSV (added 2026-08-27)
+
+SB 361 (2025), the **"Defending Californians' Data Act"** signed October 8, 2025, added a federal-agency-sale disclosure field to the broker registry. **The 2025 registry schema has no such column; 2026 does.** Pulling the actual registry CSV (cppa.ca.gov/data_broker_registry/registry.csv, **865 registered brokers**) confirms the field is populated:
+
+| Broker (registry legal name) | discloses selling to federal government |
+|---|---|
+| RELX / LexisNexis Risk Solutions FL Inc. | yes |
+| West Publishing Corp (Thomson Reuters) — filing **names "CLEAR" explicitly** | yes |
+| **Pen-Link Ltd.** — a NEW 2026 registrant, absent from 2025 | yes |
+
+All also disclose selling to **law enforcement**. **Palantir is genuinely absent** — likely outside the CCPA broker definition, since it sells analytics infrastructure rather than consumer data.
+
+**The granularity is category-level, not agency-specific:** brokers disclose "federal government" and "law enforcement," not "ICE" or "CBP". So the registry establishes *that* these vendors sell federally, and does not by itself establish *which* agency bought what. That distinction matters for anything downstream — it is a disclosure artifact, not a customer list.
+
+This is the same mechanism the Maryland AG complaint names ([[2026-08-20--maryland-ag-complaint-penlink-thomson-reuters-geolocation-ice]]), now with a state's own registry showing the vendors self-reporting it.
+
+**Three figures resolved rather than carried forward** ([[research-ca-data-broker-registry-federal-disclosure-2026-08-27]]):
+- **"$200/day/consumer"** — real but imprecise as usually stated. Cal. Civ. Code § 1798.99.82 has **two distinct $200 provisions**: (c) a flat per-day fine for failing to register at all, and (d) a per-day-per-consumer fine for deletion failure. Cite the right one.
+- **"600+ brokers"** — a floor; the actual current count is **865**. Use that.
+- **"260,000 queued requests"** — **did not survive.** No source corroborates it. The corpus's existing **345,000+** figure is better sourced; drop the 260,000.
+
+**No FOIA was needed.** The registry publishes exactly what the research ticket was going to request — a reminder that checking what is already public is the cheapest step in a records strategy.
