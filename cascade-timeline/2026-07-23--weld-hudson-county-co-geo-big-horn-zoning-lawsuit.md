@@ -15,11 +15,17 @@ actors:
   - Janet Carlson
   - Town of Hudson
   - GEO Group
+  - Matt Cole
 sources:
   - title: "Colorado town sued over ICE detention center"
     url: https://coloradosun.com/2026/07/23/colorado-town-hudson-sued-ice-detention-center-geo-group/
     publisher: Colorado Sun
     date: '2026-07-23'
+    tier: 1
+  - title: "Small Colorado town grapples with ICE detention center opening"
+    url: https://www.coloradopolitics.com/2026/07/29/small-colorado-town-grapples-with-ice-detention-center-opening/
+    publisher: Colorado Politics / Denver Gazette
+    date: '2026-07-29'
     tier: 1
   - title: "Faith leaders and community members sue Town of Hudson"
     url: https://www.cbsnews.com/colorado/news/hudson-lawsuit-ice-detention-center-big-horn-facility/
@@ -36,3 +42,5 @@ sources:
 Faith nonprofit Together Colorado filed suit July 23, 2026 in Weld County District Court against the Town of Hudson, challenging the 2,700-bed GEO Group "Big Horn" ICE detention facility as not a permitted use under Hudson's Land Development Code — no special use permit was ever sought or granted for the conversion. ICE had already signed the $528.6M five-year contract with GEO Group on July 9 ([[2026-07-09--geo-group-529m-hudson-colorado-big-horn-detention-contract]]) to convert the shuttered Hudson Correctional Facility, nearly doubling Colorado's ICE detention capacity. Town officials had claimed they lacked authority to intervene in a federally-contracted facility; the lawsuit directly contests that claim, with Weld County resident Janet Carlson joining as co-plaintiff.
 
 This is a legal theory distinct from the NEPA/environmental-review challenges that have paused warehouse conversions elsewhere (Surprise, AZ; Williamsport, MD) — it argues municipal zoning authority survives federal end-use, testing whether a town's own land-development code can constrain a facility already under signed federal contract, just two weeks after the deal closed. A ruling either way will bear directly on the dozens of other GEO Group and CoreCivic conversions moving through similar local-permitting gaps nationwide.
+
+**Local opposition is organized at the Town of Hudson level, not Weld County government.** No Weld County Board of County Commissioners hearing, vote, or statement on Big Horn has surfaced in reporting as of this entry. Hudson town officials (chamber of commerce, town manager, Mayor Pro-Tem Matt Cole) have consistently taken the position that the town "has no control over federal operations" and Cole publicly dismissed this lawsuit as "wasting taxpayer dollars" (Colorado Politics, 2026-07-29). Weld County's own institutional posture toward Big Horn — as opposed to Hudson's — remains a documented absence in current sourcing, not a confirmed neutral or supportive stance.
