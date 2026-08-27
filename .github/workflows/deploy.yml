@@ -56,6 +56,49 @@ jobs:
           # Stream output line-by-line so failures show in Actions log.
           script_stop: true
 
+      # Assert the LIVE site is actually serving the commit we just pushed.
+      #
+      # This is the check that was missing on 2026-08-11, when the VPS lost its
+      # git credential. `git fetch` failed on the host before deploy.sh ever
+      # ran, so three consecutive deploys "failed" in ~10s — but from outside,
+      # a 16-day-stale site looked identical to a fresh one, and nobody noticed
+      # until a sitemap question surfaced it 16 days later.
+      #
+      # A workflow that goes red is only useful if someone looks. This step
+      # makes the failure unambiguous and attributable: it fetches /build.json
+      # (written by generate_content.py at build time) and compares its commit
+      # to GITHUB_SHA. A deploy that silently no-ops now fails here loudly
+      # instead of passing quietly.
+      - name: Verify live site serves this commit
+        run: |
+          set -euo pipefail
+          echo "expecting commit: $GITHUB_SHA"
+          live_json="$(curl -sS --max-time 30 --retry 3 --retry-delay 10 \
+            https://capturecascade.org/build.json || echo '{}')"
+          echo "live build.json: $live_json"
+          live_commit="$(printf '%s' "$live_json" | sed -n 's/.*"commit":"\([a-f0-9]*\)".*/\1/p')"
+          if [ -z "$live_commit" ]; then
+            echo "::error title=No build stamp::https://capturecascade.org/build.json did not return a commit. Either the deploy did not land or the build stamp is missing."
+            exit 1
+          fi
+          if [ "$live_commit" != "$GITHUB_SHA" ]; then
+            echo "::error title=Live site is stale::capturecascade.org is serving $live_commit but this run pushed $GITHUB_SHA. The deploy reported success without updating the site."
+            {
+              echo "## ⚠️ Live site is NOT serving this commit"
+              echo ""
+              echo "| | commit |"
+              echo "|---|---|"
+              echo "| pushed | \`$GITHUB_SHA\` |"
+              echo "| live   | \`$live_commit\` |"
+              echo ""
+              echo "The deploy step reported success but the site did not update."
+              echo "Check the VPS: \`ssh deploy@<host> 'cd ~/cascade-kb && git log -1 && git remote -v'\`"
+            } >> "$GITHUB_STEP_SUMMARY"
+            exit 1
+          fi
+          echo "✓ live site is serving $live_commit"
+          echo "✓ capturecascade.org verified at \`$live_commit\`" >> "$GITHUB_STEP_SUMMARY"
+
       # Surface a failed deploy on the run summary so a broken build is visible
       # rather than silent. deploy.sh already rolls back on the VPS (the live
       # site keeps serving the previous container), so this is notification, not

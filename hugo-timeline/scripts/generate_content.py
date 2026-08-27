@@ -1008,6 +1008,37 @@ def write_robots() -> None:
     (ROOT / "static").mkdir(parents=True, exist_ok=True)
     (ROOT / "static" / "robots.txt").write_text(ROBOTS_TXT, encoding="utf-8")
 
+def write_build_stamp() -> None:
+    """Emit /build.json with the commit this site was built from.
+
+    Without this there is no way to ask the live site "are you current?".
+    On 2026-08-11 the VPS lost its git credential; three deploys then failed in
+    ~10s each and nobody noticed for 16 days, because a stale site and a fresh
+    one are indistinguishable from outside. The post-deploy CI check compares
+    this commit against the one just pushed, so a silent no-op deploy fails
+    loudly instead of passing quietly.
+    """
+    import subprocess, datetime as _dt
+    commit = "unknown"
+    try:
+        proc = subprocess.run(
+            ["git", "rev-parse", "HEAD"],
+            cwd=str(ROOT.parent), capture_output=True, text=True, timeout=15,
+        )
+        if proc.returncode == 0:
+            commit = proc.stdout.strip()
+    except Exception as e:  # noqa: BLE001 - build stamp must never break the build
+        print(f"  build.json: git unavailable ({e!s}), commit=unknown")
+    payload = {
+        "commit": commit,
+        "built_at": _dt.datetime.now(_dt.UTC).strftime("%Y-%m-%dT%H:%M:%SZ"),
+    }
+    (ROOT / "static").mkdir(parents=True, exist_ok=True)
+    (ROOT / "static" / "build.json").write_text(
+        json.dumps(payload, separators=(",", ":")), encoding="utf-8"
+    )
+    print(f"  build.json: commit={commit[:12]} built_at={payload['built_at']}")
+
 def write_master_sitemap() -> None:
     """Write a static sitemap-index pointing to the four section fragments
     that Hugo emits via custom output formats. Hugo's built-in sitemap
@@ -1114,6 +1145,7 @@ def main():
     build_lastmod_map(events)
     write_quality_report(events, slug_idx)
     write_robots()
+    write_build_stamp()
     write_master_sitemap()
     print("Done.")
 

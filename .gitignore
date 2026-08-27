@@ -50,3 +50,4 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+hugo-timeline/static/build.json
