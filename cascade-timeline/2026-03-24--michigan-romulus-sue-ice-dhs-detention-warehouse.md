@@ -59,6 +59,8 @@ capture_lanes:
 relocated_lanes:
   - State-Level Resistance
 coverage:
+  - url: https://theramm.transparencycascade.org/p/a-federal-agent-investigated-the
+    title: "A Federal Agent investigated the Collection Basket at Zion Lutheran in Ann Arbor"
   - url: https://theramm.substack.com/p/detention-pipeline-the-may-inflection
     title: "Detention Pipeline: The May Inflection"
     date: '2026-05-05'

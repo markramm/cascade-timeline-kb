@@ -54,7 +54,7 @@ coverage:
 ---
 
 
-Seven people die in ICE custody in December 2025, with four deaths occurring within a four-day span from December 12-15, making it the deadliest month of Trump's second term. The deaths occur as ICE holds a record 68,000+ people in detention, and 2025 becomes the deadliest year for ICE custody since 2004 with at least 30-32 total deaths.
+Seven people die in ICE custody in December 2025, with four deaths occurring within a four-day span from December 12-15, making it the deadliest month of Trump's second term. The deaths occur as ICE holds a record 68,000+ people in detention, and 2025 becomes the deadliest year for ICE custody since 2004, with 33 deaths in the calendar year (verified 2026-08-20 against ICE's own published death list; contemporaneous December reporting estimated 30-32, and the "32" figure that circulated widely is not supported by the final list).
 
 Among the dead: Jean Wilson Brutus (41, Haiti) died December 12 at University Hospital Newark after a medical emergency, having been in custody only one day. Fouad Saeed Abdulkadir (46, Eritrea), an imam, died after 215 days of detention at Moshannon Valley Processing Center in Pennsylvania. Nenko Stanev Gantchev (56, Bulgaria) died December 15 at North Lake Processing Center in Michigan. Dalvin Francisco Rodriguez (39, Nicaragua) was found without a pulse December 4 and pronounced dead 10 days later.
 
