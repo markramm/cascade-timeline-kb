@@ -211,3 +211,34 @@ The McMahon variant is structurally the **cleanest "paid director" case** — a 
 - [[create-tmtg-19-admin-investors-financial-flows-analysis-entry]] — open analytical task tracking the 19-appointee TMTG pattern
 - [[epic-inv4-trump-family-gulf-capital]] — parent investigation
 - [[investigation-map-april-2026]] — the four-investigation map
+
+**Conductor verification of the negative, 2026-08-28.** A "no filing exists" claim is a
+strong one, so McMahon's **complete** EDGAR filing history was re-pulled directly
+(`data.sec.gov/submissions/CIK0001593763.json`, reporting person "McMahon Linda E."). It
+returns **9 filings total with no paginated overflow** (`files: []`), so this is the whole
+record, not a first page:
+
+- TMTG-era: **Form 3** filed 2024-03-27 (period 2024-03-25) and **one Form 4** filed
+  2025-01-30 (period 2025-01-28, acc. `0001474506-25-000020`).
+- Everything else is 2013–2016 WWE-era (three Form 4s, a Form 3, three SC 13D/A).
+
+**No Form 4, Form 5, or amendment reporting any disposition of DJT exists — not on April 2,
+2025, not on any date, through 2026-08-28.**
+
+The single TMTG Form 4 was pulled at the XML level to check the transaction code, since a
+vesting or tax-withholding event misread as a sale is the specific error this check exists
+to prevent: `transactionCode = **A**`, `acquiredDisposedCode = **A**`, **25,946 shares at
+$0.00** — an award/grant, an acquisition, not a sale. That figure also reconciles exactly to
+the OGE 278e (6,486 vested + 19,460 unvested = 25,946), which independently confirms the
+filing describes the original grant.
+
+**Effect on the coordinated-sale reading: it weakens it.** Bondi's April 2, 2025 disposition
+stands as documented, but McMahon is a clean negative against a multi-appointee
+"Liberation Day" pattern — one appointee sold on that date, and the second appointee tested
+did not sell at all.
+
+**What this does NOT establish**, and the distinction matters: the absence of a Form 4 shows
+no *reportable* disposition, not that the divestment commitment was met by some
+Form-4-exempt route (a qualified blind trust or certificate of divestiture would not
+generate one), nor that it went unmet. That question is open and needs the Senate HELP
+ethics-agreement letter or an OGE FOIA — it is not answerable from EDGAR.
