@@ -76,9 +76,11 @@ Set that against the record already in the corpus:
 - A UCA attended a **publicly advertised ICEWatch training** in December 2025 and wrote that
   "there do not appear to be violations relating to 18 USC 111 or threats to public safety"
   (Doc. 212-12) — investigated, nothing found, surveillance continued.
-- HSI took financial records from SEIU, CWA, IFPTE, Voices for Racial Justice and the Sunrise
-  Movement Education Fund by warrantless administrative summons — organizations charged with
-  nothing.
+- HSI took financial records from SEIU, CWA, IFPTE, Voices for Racial Justice, and — named as two
+  separate entities on the summons — Sunrise Movement and the Sunrise Movement Education Fund, by
+  warrantless administrative summons — organizations charged with nothing. See
+  [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] for the
+  summons detail and the absence of any stated predicate for Sunrise Movement's inclusion.
 - A UCA sat in a church sanctuary in Ann Arbor and logged a Uganda hospital mission trip and a
   business card (Doc. 212-18).
 - The motion cites surveillance at a **"No Kings" protest** (Ex. 24) and at a **"Stop the War on
