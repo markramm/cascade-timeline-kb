@@ -3,7 +3,7 @@ type: timeline_event
 id: 2025-01-20--justin-sun-white-house-crypto-dinner
 date: 2025-01-20
 importance: 8
-title: 'DISPUTED FRAME: Justin Sun\'s $75M World Liberty Financial investment (date, venue, and White House framing all unsupported — see correction 2026-08-28)'
+title: "DISPUTED FRAME: Justin Sun $75M World Liberty Financial investment — date, venue, and White House framing unsupported (correction 2026-08-28)"
 location: "DISPUTED — body describes a Virginia golf club, not the White House"
 actors:
 - Justin Sun
