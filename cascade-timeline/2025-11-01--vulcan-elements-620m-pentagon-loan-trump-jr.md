@@ -62,3 +62,42 @@ The loan places Vulcan Elements at the base of the Trump family's vertically int
 5. **Anduril** (1789 Capital/Trump Jr.) — full autonomous weapons systems
 
 The $620 million Pentagon loan to the first link in this chain means taxpayer funds are flowing to a company backed by the president's son to produce components that ultimately feed into other companies backed by the president's sons, all procured by a military commanded by their father. The self-dealing is structural and systemic rather than transactional.
+
+## DATE CORRECTION — conductor, 2026-08-28
+
+**This entry's date (`2025-11-01`, carried in its filename and `date:` field) is wrong. The
+DoD announcement is dated `Nov. 21, 2025`.**
+
+Resolved from the primary. `war.gov` returns 403 to direct fetch, but the Wayback capture of
+the cited release (`web.archive.org/web/20260821043410/...Article/4339788/...`) carries the
+byline date **"Nov. 21, 2025"** in the release's own dateline.
+
+A worker fixing an unrelated error in [[1789-capital]] flagged the conflict rather than
+silently choosing a date, and declined day-precision it had not re-verified — the right call.
+The conflict was real, and the KB was the side that had it wrong.
+
+**Two further precision notes from the same primary text**, both of which this entry's title
+currently blurs:
+
+1. **It is a joint $700M *conditional loan commitment***, split as **$620M to Vulcan
+   Elements** and **$80M to ReElement Technologies**. This entry's title says "Awards Record
+   $620M Loan," which drops ReElement, drops the joint structure, and — most importantly —
+   drops **"conditional."** A conditional commitment is not a disbursed loan; this is the
+   same obligated/ceiling/appropriated/outlayed distinction that has bitten this corpus
+   before, and "Awards" overstates it.
+2. **All four cited press sources are dated December 3-4, 2025** — roughly two weeks after
+   the announcement. So there are (at least) three distinct dates in play here: the DoD
+   announcement (Nov 21), the press pickup (Dec 3-4), and whatever produced this entry's
+   Nov 1. **The Nov 1 date has no identified source** and should be treated as an error until
+   one is produced.
+
+**Not renaming the file in this pass** — the slug is an identifier and 1789-capital plus
+other entries link to it; a rename needs a coordinated cross-reference sweep, matching how
+the `23-year`/`22-year` slug question is being handled. The `date:` field and this correction
+are the authoritative record; a follow-up should carry the rename.
+
+**Third instance today of a date-type confusion**, which is now a pattern worth naming rather
+than fixing case by case: Bondi's transaction date read as her disclosure date; the Selig
+"nominee" title outliving his confirmation; and now an announcement date, a press-pickup
+date, and an unsourced third date collapsed into one entry. **Every date in this corpus
+should say what kind of date it is.**
