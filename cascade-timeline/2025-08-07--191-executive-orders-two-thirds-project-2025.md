@@ -41,7 +41,7 @@ sources:
   archive_url: 'https://web.archive.org/web/20250807000000/https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders'
   tier: 1
 notes: 'Nearly one executive order per day pace. Multiple analyses confirm two-thirds alignment with Project 2025 despite campaign denials. Includes DEI elimination, environmental deregulation, Schedule F reinstatement. Heritage Foundation wrote script, Trump executing it.'
-status: confirmed
+status: disputed
 validation_status: validated
 ---
 By August 7, 2025, President Trump had signed 202 executive orders, with independent analyses confirming that approximately two-thirds mirror the Heritage Foundation's Project 2025 proposals - an agenda Trump previously disavowed during his campaign. Key domains include civil rights dismantling, gender policy reversion, energy deregulation, and border security militarization.
@@ -53,3 +53,29 @@ Key Policy Domains:
 - Border Security: Militarizing immigration enforcement
 
 Notable contributors to Project 2025 like Brendan Carr, Russ Vought, Tom Homan, John Ratcliffe, and Pete Hoekstra have direct connections to Trump's current administration, revealing a systematic implementation of the Heritage Foundation's authoritarian blueprint.
+
+---
+
+## SOURCE-VERIFICATION FLAG (2026-08-28, corpus audit `audit-high-importance-confirmed-canon-for-source-claim-mismatch`)
+
+**Flagged clause — the entry's whole organizing claim:** *"202 executive orders, with independent analyses
+confirming that approximately two-thirds mirror the Heritage Foundation's Project 2025 proposals."*
+
+**Finding: claim-not-in-source, and one cited URL does not exist.**
+- Federal Register, Trump 2025 executive-orders index (~110,688 tokens, successful read) — **zero matches**
+  for `Project 2025|two-thirds|Heritage`, and zero for `202 executive|two-thirds`. It is a bare EO listing;
+  it can corroborate a count but carries no Project 2025 correspondence analysis whatsoever.
+- `https://www.npr.org/2025/08/07/trump-executive-orders-project-2025` — **HTTP 404, the URL does not
+  exist.** The evidence-search tool distinguishes this explicitly from a block. The path has no NPR story
+  ID and is shaped like a constructed URL.
+- `https://www.washingtonpost.com/politics/2025/08/07/trump-project-2025-executive-orders` — repeated
+  timeout/paywall, **unchecked, not a negative**.
+
+**Additional internal inconsistency:** the entry `id` and filename say **191** executive orders; the
+`title` and body say **202**. No cited source resolves which is correct.
+
+**Disposition:** `status` downgraded `confirmed` → `disputed`. The two-thirds/Project-2025 correspondence
+is the entry's reason for existing and no readable source supports it. **Do not delete** — the underlying
+claim is widely reported elsewhere and the EO/Project-2025 overlap is a real, documentable pattern; this
+entry needs a genuine analysis source (e.g. a named tally by a specific outlet or research group) and a
+reconciliation of 191 vs 202 before restoration.

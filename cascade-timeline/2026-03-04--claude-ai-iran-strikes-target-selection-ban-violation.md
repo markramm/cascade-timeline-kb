@@ -49,7 +49,7 @@ sources:
   outlet: Futurism
   date: '2026-03-05'
   tier: 2
-status: confirmed
+status: disputed
 capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
@@ -68,3 +68,32 @@ The use of Claude for target selection in active combat operations did not techn
 The disclosure that Claude selected more than 1,000 targets in a single day illuminated the practical gap between the policy debates occurring in Washington — framed around contractual red lines and supply-chain designations — and the actual operational deployment of AI in kinetic military action. Military sources confirmed that the Pentagon's dependence on Anthropic's technology had grown sufficiently deep during prior integrations that a six-month phase-out window was optimistic, and that operational commanders were not prepared to degrade their targeting capabilities in the midst of an active air campaign.
 
 The episode marked the first publicly confirmed large-scale use of commercial large language model AI in active target selection during combat operations, and raised fundamental questions about accountability, legal authorization, and the feasibility of any meaningful corporate or contractual guardrail on AI deployed within classified military systems.
+
+---
+
+## SOURCE-VERIFICATION FLAG (2026-08-28, corpus audit `audit-high-importance-confirmed-canon-for-source-claim-mismatch`)
+
+**Flagged clause — the headline number:** title *"Select 1,000+ Iran Strike Targets"*; body *"Claude
+generated approximately 1,000 prioritized targets in the first day of operations alone"*; closing *"Claude
+selected more than 1,000 targets in a single day."*
+
+**Finding: claim-not-in-source.** Six sources were read successfully and **none** contains any 1,000-target
+figure. Grep `1,000|1000 |thousand target|targets in the first`:
+- CBS News (~157,836 tok) — no match. Broader grep `1,000|thousand|target` returns only IDF/Lavender
+  targeting-system context, no count.
+- Futurism, *claude-anthropic-military-iran* (~36,638 tok) — no match.
+- CNBC (~212,930 tok) — no match.
+- Futurism, *ban-anthropic-military-pentagon-relying-iran* (~37,264 tok) — no match.
+- Democracy Now (~30,441 tok) — no match.
+- The RAMM, *The Pentagon Banned Claude* (~57,292 tok) — no match. **Our own published piece does not carry
+  the number either**, which locates the figure's entry point at this timeline entry, not upstream.
+- Washington Post (the likely originating report) — fetch failed, **unchecked, not a negative**.
+
+**What IS supported** across the readable sources: Claude's embedding in Palantir's Maven Smart System on
+classified networks, its use in the Iran campaign, and the simultaneous Anthropic blacklisting — the
+entry's actual structural finding.
+
+**Disposition:** `status` downgraded `confirmed` → `disputed`, because the count is in the title and is the
+figure a drafter would lift verbatim. **Do not delete** — the ban-while-using contradiction is real and
+well-sourced. Restore to `confirmed` only after the Washington Post piece is read directly and either
+carries the ~1,000 figure or supplies the correct one; if it does not, retitle without a number.
