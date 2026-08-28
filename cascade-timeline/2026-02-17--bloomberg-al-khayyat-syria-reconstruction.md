@@ -37,6 +37,16 @@ sources:
     publisher: Enab Baladi
     date: '2026-04'
     tier: 2
+  - title: "Deals Without Details: The Opaque Political Economy of Syria's New Mega-Projects"
+    url: https://www.arab-reform.net/publication/deals-without-details-the-opaque-political-economy-of-syrias-new-mega-projects/
+    publisher: Arab Reform Initiative (author Nader Atassi)
+    date: '2025-10-17'
+    tier: 2
+  - title: "Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name."
+    url: https://www.nytimes.com/2026/04/19/world/middleeast/syria-trump-al-khayyat.html
+    publisher: New York Times
+    date: '2026-04-19'
+    tier: 1
 capture_lanes:
   - International Kleptocracy
 ---
@@ -59,6 +69,17 @@ The Bloomberg reporting established:
 3. **The Syrian transitional government partnership architecture**: The contracts were awarded by the transitional government that succeeded the Assad regime's 2024 collapse. The partnerships establish the Al-Khayyat brothers as the single largest non-Syrian-government private-capital beneficiary of post-Assad reconstruction.
 
 4. **The Qatari state backing context**: Qatar, which had supported opposition groups during the Syrian civil war, positioned the Al-Khayyat / PIH reconstruction portfolio as aligned with Qatari regional economic strategy — converting wartime political positioning into peacetime commercial advantage.
+
+## What Kind of Figure the $12 Billion Is (added 2026-08-28)
+
+**Correction to this entry's original framing**: the sentence above — "$12 billion in Syrian government-backed reconstruction contracts" — should not be read as $12B in executed, disbursing contracts. Independent research (task-inv5-12b-syria-reconstruction-contracts; full decomposition in [[power-international-holding]]) found:
+
+- No other outlet indexed in Google News repeats Bloomberg's exact "$12 billion" figure attached to the Al-Khayyat brothers or PIH/UCC — a checked, if narrow, negative.
+- The single largest independently-corroborated component is a **$7 billion power-plant investment agreement** (5 GW gas & solar, ~May 2025), reported by Reuters, Doha News, and Daily Sabah as "signed," with White & Case LLP (deal counsel) calling it a "landmark US$7 billion investment" — this is the strongest claim to "signed" status among the components, though not confirmed as a fully disbursed/drawn contract.
+- The second-largest component, the **$4 billion Damascus International Airport redevelopment** (with Syria's General Authority for Civil Aviation), was first announced August 6, 2025 as part of an explicit **MOU-signing ceremony** (12 projects, $14B total, per the Arab Reform Initiative's independent analysis of that day) — trade-press headlines later refer to GACA and UCC Holding having "finalised" concession agreements, but the date and text of that claimed progression from MOU to signed contract were not independently verified in this pass (source pages blocked to automated fetch).
+- Smaller named components — a Siemens Energy power-sector agreement (confirmed MOU-stage via a Syrian Arab News Agency headline: "President al-Sharaa visits Siemens, witnesses signing of MoU"), a proposed $3.3B cotton-industry revival, and a telecommunications license bid — are explicitly **not** signed contracts.
+
+**The finding, stated plainly**: Bloomberg's $12B is best understood as a **pipeline/portfolio total blending a signed investment agreement, a deal that started as an MOU and may have since progressed to a signed concession on an unconfirmed date, and multiple items still at MOU/proposal/bid stage.** It should not be cited as $12 billion in money the Syrian government has already committed or paid out. See [[power-international-holding]] for the full deal-by-deal table, sourcing, and access-blocker log (Bloomberg's own article, Enab Baladi, MENAFN, and most trade press were bot-blocked or paywalled to this research pass; Arabic-language search was not conducted).
 
 ## Why the Bloomberg Story Mattered
 
@@ -91,7 +112,7 @@ This sequence is the clearest publicly documented foreign-policy-capture-through
 ## Related Entries
 
 - [[al-khayyat-brothers]]
-- [[power-international-holding]] — *needs entry*
+- [[power-international-holding]] — see this entry's "$12 Billion Syrian Reconstruction Pipeline — Decomposed" section for a contract-by-contract breakdown of the figure below
 - [[2025-12--caesar-act-repeal-fy2026-ndaa]]
 - [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]]
 - [[kushner-jared]]
