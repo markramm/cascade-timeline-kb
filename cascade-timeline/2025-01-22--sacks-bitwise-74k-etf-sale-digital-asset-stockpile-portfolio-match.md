@@ -49,7 +49,7 @@ sources:
     publisher: Decrypt
     date: '2025-03-03'
     tier: 2
-  - title: "Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile (EO 14096)"
+  - title: "Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile (EO 14233)"
     url: https://www.whitehouse.gov/presidential-actions/2025/03/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile/
     publisher: White House
     date: '2025-03-06'
@@ -67,7 +67,7 @@ coverage: []
 
 ## Opening Paragraph
 
-On January 22, 2025 — one day after Donald Trump's inauguration — White House AI and Crypto Czar David Sacks sold a $74,000 position in the Bitwise 10 Crypto Index Fund ETF. The sale was disclosed in Sacks's ethics documentation and confirmed publicly on March 3, 2025. Forty-four days later, on March 6, 2025, Trump signed Executive Order 14096 establishing the Strategic Bitcoin Reserve and the United States Digital Asset Stockpile — designating Bitcoin, Ethereum, Solana, XRP, and Cardano as the five reserve/stockpile assets. Those five assets are precisely the top holdings of the Bitwise 10 Crypto Index Fund. Sacks's venture firm Craft Ventures also held a direct equity investment in Bitwise Asset Management (the ETF's manager); Craft divested that position in January 2025. Senator Elizabeth Warren publicly asked whether Sacks knew about the forthcoming EO's asset selection when he sold.
+On January 22, 2025 — one day after Donald Trump's inauguration — White House AI and Crypto Czar David Sacks sold a $74,000 position in the Bitwise 10 Crypto Index Fund ETF. The sale was disclosed in Sacks's ethics documentation and confirmed publicly on March 3, 2025. Forty-four days later, on March 6, 2025, Trump signed Executive Order 14233 establishing the Strategic Bitcoin Reserve and the United States Digital Asset Stockpile — designating Bitcoin, Ethereum, Solana, XRP, and Cardano as the five reserve/stockpile assets. Those five assets are precisely the top holdings of the Bitwise 10 Crypto Index Fund. Sacks's venture firm Craft Ventures also held a direct equity investment in Bitwise Asset Management (the ETF's manager); Craft divested that position in January 2025. Senator Elizabeth Warren publicly asked whether Sacks knew about the forthcoming EO's asset selection when he sold.
 
 ## Key Facts
 
@@ -79,7 +79,7 @@ On January 22, 2025 — one day after Donald Trump's inauguration — White Hous
 
 **The portfolio-composition match:**
 - Bitwise 10 Crypto Index Fund's top five holdings as of early 2025: Bitcoin (BTC), Ethereum (ETH), Solana (SOL), XRP, Cardano (ADA)
-- EO 14096's designated Digital Asset Stockpile assets: Bitcoin (SBR), Ethereum, Solana, XRP, Cardano (all five in non-BTC Stockpile)
+- EO 14233's designated Digital Asset Stockpile assets: Bitcoin (SBR), Ethereum, Solana, XRP, Cardano (all five in non-BTC Stockpile)
 - Overlap: 100% — the five assets Sacks's Bitwise ETF tracked are the exact five assets Trump's EO designated; confirmed by Newsweek reporting and CoinDesk conflict-of-interest analysis
 
 **Warren's conflict-of-interest inquiry:**
@@ -99,7 +99,7 @@ The Bitwise sale is the most documentable single transaction in the Sacks pre-ap
 
 1. **Specific dollar amount and date** (confirmed in White House ethics disclosure): $74K sold January 22, 2025
 2. **Portfolio-composition match** (confirmed by Newsweek and CoinDesk): Bitwise's top five holdings = the Digital Asset Stockpile's five designated assets
-3. **Timing differential** (44 days): Sale preceded EO 14096 by exactly 44 days — long enough to avoid a same-day allegation but short enough to raise the advance-knowledge question Warren asked
+3. **Timing differential** (44 days): Sale preceded EO 14233 by exactly 44 days — long enough to avoid a same-day allegation but short enough to raise the advance-knowledge question Warren asked
 
 The significance is not the $74K amount — it is that the Bitwise ETF is a proxy for the exact asset basket the EO would designate. Any crypto czar with advance knowledge of the asset selection would have had a direct financial incentive to sell this specific instrument before the announcement. The question Warren raised — "did you know?" — is unanswerable from public documents. The White House ethics framework does not require disclosure of when policy decisions were internally contemplated, only when assets were sold. That gap is the structural vulnerability.
 
@@ -118,7 +118,7 @@ The significance is not the $74K amount — it is that the Bitwise ETF is a prox
 | March 2, 2025 | Trump's Truth Social post naming BTC, ETH, SOL, XRP, ADA as "Crypto Strategic Reserve" — first public signal of the five-asset selection |
 | March 3, 2025 | Sacks publicly confirms Bitwise ETF sale on X: "$74k position in the Bitwise ETF which I sold on January 22" |
 | March 5, 2025 | White House Counsel issues ethics waiver for Sacks covering digital asset policy |
-| **March 6, 2025** | **EO 14096 signed: designates same five assets (BTC = SBR; ETH, SOL, XRP, ADA = Digital Asset Stockpile)** — 44 days after the Bitwise sale |
+| **March 6, 2025** | **EO 14233 signed: designates same five assets (BTC = SBR; ETH, SOL, XRP, ADA = Digital Asset Stockpile)** — 44 days after the Bitwise sale |
 | March 6, 2025 | Warren sends letter to Sacks questioning the divestment timing |
 | March 14, 2025 | CNBC reports the full $200M divestment ethics memo; $74K Bitwise ETF sale confirmed in reporting |
 | September 17, 2025 | Warren and Stansbury launch formal congressional investigation into Sacks's ethics conflicts (expanded beyond Bitwise to full Craft portfolio) |
