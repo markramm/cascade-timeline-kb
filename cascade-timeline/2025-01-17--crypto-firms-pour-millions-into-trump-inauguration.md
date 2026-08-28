@@ -54,4 +54,4 @@ capture_lanes:
 - Digital and Tech Capture
 ---
 
-Cryptocurrency firms donated an unprecedented $18 million to Trump's 2025 inaugural fund, with Ripple's $4.9 million being the second-largest contribution overall. Major companies including Coinbase, Kraken, Circle, and Robinhood participated, signaling their expectation of a crypto-friendly regulatory landscape and potential policy influence.
+Cryptocurrency firms donated $18 million to Trump's 2025 inaugural fund (out of a $239 million total, per NYT/CNBC/WaPo reporting — not $245M+), with Ripple's $4.9 million being the second-largest contribution overall. Major companies including Coinbase, Kraken, Circle, and Robinhood participated, signaling their expectation of a crypto-friendly regulatory landscape and potential policy influence. This was a newly-organized industry's first major coordinated inaugural push, but not an "unprecedented" sector total in absolute terms: fossil fuel industry donors gave more — $19 million — to this same inaugural fund (Global Witness, Guardian, Common Dreams, July 2025, citing the same FEC disclosure).

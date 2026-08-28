@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 date: 2022-04-15
-title: 'Trump Endorses Vance Following Thiel''s $15 Million Strategic Political Investment'
+title: 'Trump Endorses Vance Following Thiel''s ~$15 Million Cumulative Investment in Protect Ohio Values'
 actors:
 - Donald Trump
 - J.D. Vance
@@ -39,10 +39,10 @@ capture_lanes:
 - International Kleptocracy
 location: 'Delaware, Ohio'
 ---
-In April 2022, Donald Trump endorsed J.D. Vance for the Ohio Senate race, a pivotal moment facilitated by Peter Thiel's unprecedented $15 million investment in the Protect Ohio Values SuperPAC. This financial backing marked the most expensive single Senate candidate support in state history, demonstrating the profound influence of tech billionaire oligarchs in contemporary political campaigns.
+In April 2022, Donald Trump endorsed J.D. Vance for the Ohio Senate race, a pivotal moment facilitated by Peter Thiel's investment in the Protect Ohio Values SuperPAC, which by that point totaled roughly $15 million across tranches — $10 million in March 2021 (Bloomberg, Cincinnati Enquirer, citing the SuperPAC's FEC disclosures) plus additional tranches through April 2022, including the $3.5 million reported the week of the endorsement (Bloomberg, 2022-04-20). This is a cumulative, multi-tranche total, not a single lump-sum "investment" concurrent with the endorsement. FEC bulk data (committee C00770495, itemized independent expenditures) puts Protect Ohio Values' total support-classified spending for Vance at $14,699,521 — consistent with press reporting once the ~$200K given via the Thiel-linked dark-money nonprofit "Per Aspera Policy" (CBS News) is added. Demonstrates the profound influence of tech billionaire oligarchs in contemporary political campaigns.
 
 Key Developments:
-- Thiel donated $15 million to Vance's campaign
+- Thiel's Protect Ohio Values SuperPAC gave roughly $15 million to support Vance's campaign, in tranches from March 2021 through April 2022 (not a single April 2022 donation)
 - Trump endorsed Vance despite previous criticisms
 - Strategic alignment between tech billionaires and Trump's political network
 
