@@ -56,6 +56,11 @@ sources:
   outlet: Bloomberg
   date: '2025-12-22'
   tier: 1
+- title: "FDIC BankFind Suite — Institution record, Erebor Bank, N.A. (CERT 59378, Charter 25357, established/insured 02/06/2026, chartering agency OCC)"
+  url: https://banks.data.fdic.gov/api/institutions?search=NAME:Erebor
+  outlet: Federal Deposit Insurance Corporation
+  date: '2026-08-28'
+  tier: 1
 capture_lanes:
 - Regulatory Capture
 - Corporate Capture
@@ -68,6 +73,6 @@ Erebor Bank was co-founded by Palmer Luckey (founder of Anduril Industries) and 
 
 Erebor's proposed business model targets technology companies, defense contractors, cryptocurrency firms, AI startups, payment service providers, and investment funds. The bank stated its goal is to become "the most regulated entity conducting and facilitating stablecoin transactions," with plans to hold stablecoins on its balance sheet, offer crypto-collateralized loans, and provide banking services via API. The OCC approval imposed conditions including a minimum 12% Tier 1 Leverage ratio for the first three years.
 
-The FDIC subsequently approved Erebor's deposit insurance application, and by December 2025 the bank raised $350 million at a $4.35 billion post-money valuation in a round led by Lux Capital with participation from Founders Fund and 8VC. By February 2026, Erebor received full charter approval from the Trump administration.
+The FDIC subsequently approved Erebor's deposit insurance application, and by December 2025 the bank raised $350 million at a $4.35 billion post-money valuation in a round led by Lux Capital with participation from Founders Fund and 8VC. On February 6, 2026, the OCC granted Erebor's final national bank charter — distinct from and beyond the conditional approval documented in this entry — and the bank opened for business February 9, 2026 with $635 million in capital. This final-charter date is independently corroborated by the FDIC's own institution record (Erebor Bank, N.A., CERT 59378, charter 25357, chartering/regulating agency OCC, establishment date 02/06/2026, active status) and by two subsequent quarters of FDIC Call Report financials, confirming this was final chartering and operation, not a continuation of conditional status. See [[erebor-bank]] for the full charter-status verification against primary OCC/FDIC records (2026-08-28 pass) and a separate timeline entry needed for the February 6, 2026 full-charter event itself.
 
 Senator Elizabeth Warren raised alarms about the approval, citing a troubling Erebor investor memo that allegedly suggested the bank's "political network" and "unique connectivity to banking regulators" would ensure fast approval. Warren wrote that if the charter "represented a corrupt political favor to the President's billionaire supporters in Silicon Valley, it would have to be terminated." The fast-tracked approval raises significant regulatory capture concerns: the Thiel network now controls financial infrastructure specifically designed to serve the defense-tech ecosystem that Thiel-backed companies (Palantir, Anduril, Mithril) dominate, creating a vertically integrated pipeline from venture capital to defense contracting to banking.
