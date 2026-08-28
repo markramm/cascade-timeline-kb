@@ -52,3 +52,7 @@ capture_lanes:
 - Executive Power Expansion
 ---
 The SEC settled a long-running enforcement action against Ripple Labs, agreeing to return $75 million of a $125 million fine and keeping $50 million, amid significant criticism from SEC Commissioner Caroline Crenshaw about undermining investor protections.
+
+**Correction / final disposition (added 2026-08-28).** The settlement described above was *proposed*, not effected. The agreed reduction required judicial approval, and **Judge Analisa Torres denied it — twice**, refusing to dissolve the injunction or cut the penalty (rulings reported through June and early July 2025; "Judge again denies request to slash Ripple's SEC penalty," Banking Dive, 2025-07-02). Both parties then abandoned their appeals and the original judgment stood: **Ripple paid the full $125 million** (Reuters, "SEC ends lawsuit against Ripple, company to pay $125 million fine," 2025-08-08).
+
+This entry and [[2025-03-19--sec-drops-case-against-crypto-firm-with-ties-to-trump-ceo-sa]] should not be cited for the proposition that Ripple recovered $75 million or "ended ahead." The accurate finding is narrower and sharper: the agency sought to hand back money it had already won, and an Article III judge refused. Where relief required a court's assent rather than agency discretion, it did not clear.
