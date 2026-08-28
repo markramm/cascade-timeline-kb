@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse
-date: '2026-01-27'
+date: '2026-01-16'
 title: "DHS Pays Fundrise $102.4M for 830,000 sqft Williamsport, MD Warehouse — Goldman Sachs Refinanced Seller via $352.7M Loan Portfolio; CBRE Brokered"
 importance: 9
 actors:
@@ -57,7 +57,9 @@ capture_lanes:
 - Retail-Investor Real Estate Platform
 ---
 
-In late January 2026, **Fundrise** — the retail-facing real-estate crowdfunding platform based in Washington, DC — sold an 830,000-square-foot warehouse in Williamsport, Maryland to the U.S. Department of Homeland Security for **$102.4 million**. The sale represented a ~33% markup over the property's prior valuation. The transaction was **brokered by CBRE Group** (the global commercial real-estate brokerage). The selling entity's asset was **previously refinanced by Goldman Sachs** as part of a documented **$352.7 million Goldman loan portfolio** covering 12 Fundrise properties (see [[goldman-352m-loan-portfolio]] in detention-industrial KB). The Williamsport facility is projected to hold approximately 1,500 ICE detention beds.
+> **Correction, 2026-08-27**: This entry's filename/id retains the January 27 date (the date the transaction was first *publicly reported*) for URL stability, since it is already wikilinked from published pieces. The actual **purchase/deed date is January 16, 2026** — the deed was recorded January 22 and reported January 27. Canon's `date:` field above has been corrected to 2026-01-16 to match. Source: signed memorandum opinion, *State of Maryland v. Mullin*, 1:26-cv-00733-BAH (D. Md.), ECF 43 at 2 ("On January 16, 2026, DHS and ICE purchased the Williamsport Warehouse... for $102.4 million"), corroborated by the deed's January 15, 2026 notarization and the REC's January 15 signature timestamp (after 4:00 p.m.). Planned capacity is also corrected below: ICE's own Record of Environmental Consideration states the facility is "designed to accommodate up to **542** detainees" — not the 1,500 previously stated here, which is the *ceiling* figure from a separate, later-stage internal comment ("could ultimately house 1,500 detainees") rather than the REC's operative design capacity.
+
+In mid-to-late January 2026, **Fundrise** — the retail-facing real-estate crowdfunding platform based in Washington, DC — sold an 830,000-square-foot warehouse in Williamsport, Maryland to the U.S. Department of Homeland Security for **$102.4 million**, with the deed dated January 16, 2026 (recorded January 22; first publicly reported January 27 — the date this entry's filename retains for URL stability). The sale represented a ~33% markup over the property's prior valuation. The transaction was **brokered by CBRE Group** (the global commercial real-estate brokerage). The selling entity's asset was **previously refinanced by Goldman Sachs** as part of a documented **$352.7 million Goldman loan portfolio** covering 12 Fundrise properties (see [[goldman-352m-loan-portfolio]] in detention-industrial KB). ICE's own Record of Environmental Consideration states the Williamsport facility is designed to accommodate **up to 542 detainees**; a separate internal DHS comment says the facility "could ultimately house" up to 1,500 if capacity is later expanded (a ceiling, not the REC's operative design figure).
 
 A judge has since **extended a restraining order against ICE detention operations at the Williamsport facility**; Maryland state officials have publicly challenged the site's conversion; and a separate April 15, 2026 NEPA-based judicial halt on construction is documented at [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]].
 
@@ -69,7 +71,7 @@ A judge has since **extended a restraining order against ICE detention operation
 - **Lender to seller**: Goldman Sachs (via $352.7M 12-property loan portfolio)
 - **Purchase price**: $102.4 million
 - **Markup**: ~33% over valuation
-- **Planned capacity**: ~1,500 ICE detention beds
+- **Planned capacity**: 542 detainees per ICE's Record of Environmental Consideration (design figure); up to 1,500 cited elsewhere as an unfinalized expansion ceiling
 - **Procurement vehicle**: WEXMAC-TITUS
 - **Status**: Contested — judicial restraining order in place; NEPA construction halt
 
@@ -120,7 +122,7 @@ For an investment bank, this is a structurally attractive pattern: the federal b
 
 ## Research Gaps
 
-- [ ] Specific deed date — sources indicate late January 2026 but the precise date varies across reports (January 22–29 range)
+- [x] ~~Specific deed date~~ — **Resolved 2026-08-27**: deed dated January 16, 2026 (recorded Jan 22, reported Jan 27), per signed opinion in *State of Maryland v. Mullin*, ECF 43.
 - [ ] Full list of the 12 Fundrise properties Goldman refinanced for $352.7M
 - [ ] Which other Fundrise properties from the $352.7M portfolio have been or are being marketed to DHS
 - [ ] Fundrise's retail-investor composition — what proportion of its user base is institutional vs. individual?
