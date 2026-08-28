@@ -2,13 +2,14 @@
 type: timeline_event
 id: 2026-06-08--salt-lake-city-county-sue-dhs-145m-warehouse-mega-detention
 date: '2026-06-08'
-title: "Salt Lake City and Salt Lake County Jointly Sue DHS Over $145M Warehouse Conversion to Mega-Detention"
-importance: 8
-status: confirmed
+importance: 3
+status: superseded
+title: "[DUPLICATE — see canonical] Salt Lake City and Salt Lake County Jointly Sue DHS Over $145M Warehouse Conversion"
 tags:
   - detention-industrial-complex
   - local-democratic-bypass
   - state-resistance
+  - duplicate-entry
 actors:
   - Salt Lake City
   - Salt Lake County
@@ -22,6 +23,6 @@ sources:
     tier: 1
 ---
 
-Salt Lake City and Salt Lake County filed a joint lawsuit against DHS and ICE on June 8, 2026 over DHS's $145.4 million purchase of an 833,280-square-foot warehouse slated for conversion into a mega-detention facility — a capacity described as more than twice the nearby Utah State Prison. The joint city-county suit represents the full combined legal weight of both a municipal and a county government opposing a single facility, a more aggressive posture than the single-jurisdiction NEPA and permit challenges documented elsewhere in the warehouse-conversion pipeline.
-
-This extends the pattern of joint or multi-jurisdiction legal challenges to the warehouse-to-detention buildout already tracked through Judge Hurson's Maryland NEPA precedent, which cascaded to parallel challenges in Arizona and New Jersey ([[2026-04-15--hurson-maryland-nepa-precedent-bexar-tx-warehouse-pause]]), and the Washington County MD NEPA lawsuit over the Williamsport warehouse — adding Utah as a new state in the growing map of local-government legal resistance to the same procurement pattern.
+> **Correction, 2026-08-27 — DUPLICATE, MERGED.** This entry duplicated the June 8, 2026 Salt Lake City/County lawsuit filing already recorded (and now canonical) at [[2026-06-08--salt-lake-city-county-sue-dhs-ice-warehouse-detention-conversion]]. This entry stated no specific bed count; the canonical entry's title/body use **"up to 10,000,"** matching the August 2026 court-filing-sourced reporting (KUER/Utah Public Radio) that this corpus treats as the surviving figure.
+>
+> This file is retained, rather than deleted, solely to preserve its distinct source (the official Salt Lake City blog post, already also cited on the canonical entry) per corpus discipline: preserve every distinct source even where entries duplicate, since the coverage trail is the audit record. **Do not treat this entry as a separate event or cite it independently.** See the canonical entry for the full writeup and downstream links (acquisition, sibling suits, June 21 offload announcement, August 19 abandonment).
