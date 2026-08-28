@@ -138,6 +138,16 @@ ran, blocking direct docket/complaint retrieval for either lawsuit. A follow-up 
 CourtListener access, or a FOIA for the NOFO/award-terms document, would close this gap. The
 claims above rest on two independently-reported, fully-fetched (not blocked) tier-1 accounts (AP
 News, Nextgov/Route Fifty) that both quote the same underlying conditions and dollar/percentage
-figures consistently, which is why `status: confirmed` is used despite the primary document not
-yet being in hand — but the primary NOFO/complaint text should still be located and cited
-directly in a follow-up pass.
+figures consistently. **That is why this entry is `status: reported` and NOT `confirmed`** —
+consistent tier-1 secondary reporting is good evidence, but the governing instrument is a
+document, and nobody in this corpus has read it. Upgrade to `confirmed` only once the FEMA
+NOFO / award-terms text or a complaint quoting it has been retrieved and cited directly.
+
+**Conductor note, 2026-08-28**: an earlier draft of this paragraph said `status: confirmed` was
+used, contradicting the frontmatter, which correctly reads `reported`. Corrected here so the
+stale sentence cannot be read as licence to upgrade. This entry replaced a deleted predecessor
+(`2026-06-15--trump-dhs-1b-grant-threat-force-state-voting-overhaul-midterms`) that was
+`importance: 9`, `status: confirmed`, and headlined on a "$1B DHS Grant Cutoff" its two cited
+sources did not contain — so the standard for calling anything here `confirmed` is deliberately
+high. Deletion rather than patching was the right call: the predecessor's date, title, sources,
+and central figure were each wrong, and git preserves it at commits `fc5d0880` / `58d6a749`.
