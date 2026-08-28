@@ -4,7 +4,7 @@ id: 2025-07-31--elon-musk-gives-millions-to-republican-super-pacs-ahead-of-t
 date: 2025-07-31
 title: Elon Musk Continues $277 Million Donation Spree Supporting Trump and Republican Candidates
 description: 'Musk became a top Republican mega-donor, with his America PAC spending $72 million supporting Trump''s campaign between July and September'
-status: confirmed
+status: disputed
 importance: 8
 location: 'Washington, D.C.'
 actors:
@@ -51,3 +51,5 @@ capture_lanes:
 - Electoral Manipulation
 ---
 Despite public tensions, Elon Musk donated $5 million to Trump's MAGA Inc. super PAC, part of a broader $277 million spending campaign to support Trump and Republican candidates in the 2024-2025 election cycle
+
+**Sourcing note (2026-08-28 audit):** the $5 million MAGA Inc. donation is confirmed verbatim in the cited NBC News article ("he also sent $5 million on the same day to MAGA Inc., Trump's super PAC"). The **$277 million headline aggregate is not found in any of the three cited sources** — NBC News (71,773 tokens, full article body reached) and the Bloomberg preview (paywall-truncated but its visible portion and raw page text both checked) both return zero matches for "277"; the NPR piece likewise has zero matches. Separately, the cited NPR source (`npr.org/2024/10/16/...`) is dated and reports on **2024** FEC filings — its "$75 million" and "$72 million... between July and September" figures describe the **2024** election cycle, not mid-2025, despite the entry's frontmatter listing its `date` as `2025-07-31` and this article's $72M figure appearing verbatim in the entry's `description` field as if contemporaneous. Status downgraded to `disputed` pending a source that actually carries the $277M total (a $277M cycle-to-date figure is a plausible/commonly-cited number in FEC-based year-end tallies, but it must be sourced, not assumed). Not deleted — the $5M MAGA Inc. donation and Musk's broader mega-donor status are real and separately confirmed.
