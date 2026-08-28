@@ -114,12 +114,12 @@ The notices themselves invert their own stated legal basis: Gonyea's citation of
 ## Research Gaps
 
 - [ ] Preliminary-injunction ruling has not issued; update this entry once Judge Contreras rules.
-- [ ] The surveillance chain used to locate Streever at an undisclosed NYC hotel is unresolved — travel records, financial data, or a commercial location-data broker would each represent a distinct mechanism. Tracked separately: [[foia-hsi-streever-hotel-tracking-fire-lawsuit-discovery]].
+- [x] **RESOLVED 2026-08-28**: the surveillance chain used to locate Streever at the NYC hotel is CBP inbound-arrival destination data, not a data broker or financial-record trace. ICE OPR Assistant Director Brent Goodwin's sworn declaration (filed 2026-08-05, docket entry 20, quoted in NPR's 2026-08-17 reporting) states agents "obtained the local hotel which Mr. Streever had listed with CBP for his inbound destination," after separately tracking his return flight to attempt an intercept at JFK. Full mechanism analysis and FOIA scoping: [[cbp-arrival-declaration-data-hsi-locate-streever-hotel]].
 - [ ] No FOIA'd count of total ICE OPR warning notices issued exists in the public record; DHS/ICE have not responded to records requests per Reason's August 7, 2026 reporting on the WSJ investigation.
-- [ ] The Alex Pretti shooting (Minneapolis, January 24, 2026) that prompted Streever's original email has not been independently verified/entered in this corpus as its own timeline event as of this writing.
+- [ ] The Alex Pretti shooting (Minneapolis, January 24, 2026) that prompted Streever's original email has not been independently verified/entered in this corpus as its own timeline event as of this writing. **New discrepancy found 2026-08-28**: this entry (following the complaint, ¶¶52-58, citing NYT) describes one victim, Alex Pretti; NPR's 2026-08-17 "DHS defends investigating agency critics" article independently states "federal immigration officials fatally shot **two** U.S. citizen observers in Minneapolis" in the same sentence describing Streever's trigger. Unresolved — do not use either the one-victim or two-victim count in a draft until the underlying Minneapolis incident gets its own verification pass.
 
 ## Related Entries
 
 - [[primary-source-ice-opr-warning-notice-gonyea-2026-06-23]] — the authenticated primary-source transcription of Gonyea's notice
 - [[verify-ice-warning-notice-policy-pattern-claim]] — the verification pass establishing the two-instance count and correcting the four-case overclaim
-- [[foia-hsi-streever-hotel-tracking-fire-lawsuit-discovery]] — open research task on the surveillance chain used to locate Streever
+- [[cbp-arrival-declaration-data-hsi-locate-streever-hotel]] — resolved mechanism note: CBP inbound-destination data, not a data broker or financial trace
