@@ -125,3 +125,7 @@ The instrument matters as much as the outcome. Conflating "documentary proof of 
 - [ ] Louisiana implementation status — confirm whether any 2026 secretary-of-state action has moved toward implementation since the Brennan Center's August 12, 2026-updated roundup
 - [ ] Confirm whether the DOJ's separate 30+ state voter-roll-list lawsuits (Utah, Oklahoma, Kentucky, West Virginia, New Jersey named) interact procedurally with any of the five states' proof-of-citizenship laws
 - [ ] Federal SAVE Act Senate floor schedule for September 2026 — no confirmed vote date found
+
+**Conductor verification, 2026-08-28.** The five-state correction was re-checked against the Brennan Center's own cited page rather than against this entry. Their text, verbatim: *"Including Arizona, which has had a proof-of-citizenship requirement for over 20 years, **5 states will have a show-your-papers requirement for all people registering or updating their registration for the 2026 midterms: Arizona, New Hampshire, South Dakota, Utah, and Wyoming.**"* Ohio appears in a **separate** sentence, grouped with Indiana and Mississippi as states whose 2025 laws "apply to **some** voters or registrants" — Ohio's arriving via a late amendment to a transportation bill.
+
+So the harvested lead substituted **Ohio for Arizona** and thereby merged two different categories: a universal registration requirement and a channel-specific one. **Confirmed: the worker's correction is right and the lead was wrong.**
