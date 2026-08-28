@@ -78,6 +78,21 @@ sources:
     publisher: GlobeNewswire (TMTG press release)
     date: '2025-03-07'
     tier: 1
+  - title: "McMahon, Linda E. — SEC EDGAR filer filing history (CIK 0001593763)"
+    url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001593763&type=&dateb=&owner=include&count=100
+    publisher: U.S. Securities and Exchange Commission (EDGAR)
+    date: '2026-08-28'
+    tier: 1
+  - title: "Form 4 — McMahon Linda E. / Trump Media & Technology Group Corp. (RSU grant, transaction code A, 25,946 units)"
+    url: https://www.sec.gov/Archives/edgar/data/1849635/000147450625000020/primary_doc.xml
+    publisher: U.S. Securities and Exchange Commission (EDGAR)
+    date: '2025-01-30'
+    tier: 1
+  - title: "Trump Media & Technology Group Corp. DEF 14A (2025 proxy statement) — director compensation table confirming McMahon's 2025 resignation and forfeiture of unvested compensation"
+    url: https://www.sec.gov/Archives/edgar/data/1849635/000114036125009143/ny20043827x3_def14a.htm
+    publisher: U.S. Securities and Exchange Commission (EDGAR) / Trump Media & Technology Group Corp.
+    date: '2025-03-18'
+    tier: 1
 coverage: []
 ---
 
@@ -161,12 +176,12 @@ The 278e lists total reportable assets in a range of approximately **$413 millio
 | Variant | Example | Pathway | Compensation Form | Divestment |
 |---|---|---|---|---|
 | **Consulting-merger** | [[bondi-pam]] | Renatus LLC pre-merger DWAC allocation (June 2023 – March 2024) | $3M in DWAC shares → 106,250 DJT shares + 31,250 DJTWW warrants | 90-day post-confirmation; sold April 2, 2025 (Liberation Day) |
-| **Paid director (this entry)** | Linda McMahon | TMTG independent-director board seat (March 2024 – March 2025) | $55,200 + $18,400/quarter cash + 6,486 vested RSUs (+ 19,460 unvested forfeited) | 90-day post-confirmation for vested RSUs only; unvested forfeited on departure |
+| **Paid director (this entry)** | Linda McMahon | TMTG independent-director board seat (March 2024 – March 2025) | $55,200 + $18,400/quarter cash + 6,486 vested RSUs (+ 19,460 unvested forfeited) | 90-day post-confirmation for vested RSUs only; unvested forfeited on departure March 3, 2025; **no Form 4 sale filed for the vested tranche as of Aug. 2026 — divestment mechanism, if any, unknown** |
 | **Declined-compensation** | [[patel-kash]] | TMTG founding-period board seat (March 2022 – entry into government) | ~26,000 RSU grant offered January 2025, publicly declined | N/A — compensation refused |
 
 The McMahon variant is structurally the **cleanest "paid director" case** — a bounded, documented compensation relationship treating the TMTG board seat as ongoing employment rather than a one-time consulting allocation or a legacy pre-IPO equity position. The director cash-retainer + RSU model is the compensation architecture most commonly used by S&P 500 boards; applying it to TMTG is structurally ordinary, but TMTG's majority-shareholder-is-the-sitting-President structure makes that director compensation an ongoing financial relationship with the head of the executive branch the appointee serves.
 
-**The Liberation Day sale-window question is open.** Bondi sold her DJT stock and DJTWW warrants on April 2, 2025 — the day Trump announced the tariff package that sent DJT shares into a 13% decline. That date fell within Bondi's 90-day divestment window. McMahon's 90-day window ran approximately March 3 – June 1, 2025, encompassing the same April 2 date. **Whether McMahon executed her required divestment on April 2 (as Bondi did) or on a different date within the window is a factually discrete question answerable from any OGE Periodic Transaction Report or SEC Form 4 filing — and the answer determines whether the Liberation-Day-window sale pattern is a one-off Bondi anomaly or a coordinated multi-appointee practice.**
+**The Liberation Day sale-window question is resolved negative.** Bondi sold her DJT stock and DJTWW warrants on April 2, 2025 — the day Trump announced the tariff package that sent DJT shares into a 13% decline. That date fell within Bondi's 90-day divestment window. McMahon's 90-day window ran approximately March 3 – June 1, 2025, encompassing the same April 2 date. **No matching Form 4 (or any other Section 16 filing) exists for McMahon reporting a sale on April 2, 2025 or any other date in 2025.** SEC EDGAR's complete filing history for McMahon's reporting-person CIK (0001593763) shows exactly two TMTG-related filings in the entire record: a Form 3 (initial ownership, filed 2024-03-27, upon joining the board) and one Form 4 (filed 2025-01-30, period of report 2025-01-28, transaction code **A** — award/grant of 25,946 RSUs, not a disposition). No Form 4, Form 5, or amendment reporting a sale appears at any point from confirmation (March 3, 2025) through the present (as of this research pass, August 2026). This is a verified absence from the single most authoritative source for the transaction (SEC EDGAR is the mandatory public repository for Section 16 filings; her CIK's complete history was pulled directly, not searched by keyword), not merely a failure to locate a filing. TMTG's own DEF 14A proxy statement (filed 2025-03-18, accession 0001140361-25-009143) confirms McMahon "resigned from [her] position[] on the Board in 2025 and, upon resigning, forfeited future cash and equity compensation" — language describing the automatic forfeiture of the 19,460 *unvested* RSUs, consistent with the 278e's own terms, and silent on the vested 6,486-share tranche. **The absence of any Form 4 sale filing means one of two things: McMahon's divestment, if it occurred, was executed through a mechanism that does not trigger Section 16 reporting (e.g., a transfer to a qualified blind trust, which is common for federal officials and exempt from Form 4 disclosure) — or the required divestment did not occur by the June 1, 2025 deadline.** No OGE Periodic Transaction Report for McMahon was located either (ProPublica's indexed disclosure page for McMahon carries no PTR). This finding weakens rather than strengthens the coordinated-sale hypothesis: it rules out the specific claim that McMahon sold on April 2 alongside Bondi, and it does not establish any alternative sale date. It surfaces a distinct, narrower question — a possible missed or non-public divestment — addressed in the Research Gaps below.
 
 **AFPI/TMTG overlap.** McMahon is the only documented Trump 2 Cabinet member who simultaneously held (a) a TMTG board seat producing active compensation and (b) the AFPI Chair position (which hosted the "73 AFPI alumni into Trump 2" personnel pre-deployment — see [[afpi-73-alumni-into-trump-2]]). The combination means a single actor sat at the top of both the institutional pre-deployment pipeline and the Trump-family public-company equity-compensation stream during the transition period. That dual-role-at-the-top overlap is structurally distinct from all other documented Cabinet-level TMTG exposures.
 
@@ -174,8 +189,9 @@ The McMahon variant is structurally the **cleanest "paid director" case** — a 
 
 ## Research Gaps
 
-- [ ] **Liberation Day sale test** — Did McMahon sell her 6,486 vested DJT shares on April 2, 2025 (the same date as Bondi)? Requires OGE Periodic Transaction Report or SEC Form 4 search.
-- [ ] **Full ethics-agreement letter text** — The 278e surfaces employment-agreement terms but not the complete Senate HELP Committee ethics-agreement letter, which would contain any additional recusal commitments (AFPI-adjacent, TKO-adjacent, ring-boy-lawsuit-adjacent).
+- [x] **Liberation Day sale test — RESOLVED NEGATIVE (2026-08-28).** McMahon did not sell on April 2, 2025 or any other 2025 date via a Form-4-reportable transaction; SEC EDGAR shows no such filing. See "Structural Significance" above for the full finding and its limits (blind-trust transfer cannot be ruled out from public records).
+- [ ] **Did McMahon divest by the June 1, 2025 ethics-agreement deadline at all, by any mechanism?** The Form 4 absence does not resolve whether a qualified-blind-trust transfer (SEC-16-exempt) occurred, or whether the divestment obligation went unmet. Requires: (a) the full Senate HELP Committee ethics-agreement letter (may specify a blind-trust mechanism), (b) any OGE post-employment compliance disclosure or GAO/IG review of Cabinet ethics-agreement compliance, (c) a FOIA to OGE for McMahon's compliance file (FOIA to OGE is in-bounds; this is not an RFC to an administration employee).
+- [ ] **Full ethics-agreement letter text** — The 278e surfaces employment-agreement terms but not the complete Senate HELP Committee ethics-agreement letter, which would contain any additional recusal commitments (AFPI-adjacent, TKO-adjacent, ring-boy-lawsuit-adjacent) and might specify the divestment mechanism.
 - [ ] **Q1 2025 cash retainer disposition** — Did McMahon receive or forfeit the $18,400 Q1 2025 cash retainer for January 1 – March 3, 2025 service? Answerable from TMTG's 10-K exec-comp disclosure or a subsequent OGE PTR.
 - [ ] **TKO Group divestment/recusal terms** — The 278e documents ~$50M+ TKO holdings with no visible divestment commitment. Any Department-of-Education-adjacent recusal tied to this position remains unknown.
 - [ ] **AFPI Chair disposition during tenure** — Formal resignation, leave of absence, or ongoing service? Not resolved on the face of the 278e.
