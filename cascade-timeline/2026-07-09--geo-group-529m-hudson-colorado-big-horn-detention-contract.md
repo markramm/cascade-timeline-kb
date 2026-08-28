@@ -35,8 +35,13 @@ sources:
     publisher: "Highlands REIT, Inc. (SEC EDGAR, CIK 0001661458)"
     date: '2026-07-13'
     tier: 1
-  - title: "USASpending award record, PIID 70CDCR26FR0000101"
+  - title: "USASpending award record, PIID 70CDCR26FR0000101 (delivery order)"
     url: https://www.usaspending.gov/award/360253970
+    publisher: "USASpending.gov (FPDS, contracting officer classification)"
+    date: '2026-07-09'
+    tier: 1
+  - title: "USASpending award record, PIID 70CDCR26D00000049 (parent IDIQ)"
+    url: https://www.usaspending.gov/award/360162052
     publisher: "USASpending.gov (FPDS, contracting officer classification)"
     date: '2026-07-09'
     tier: 1
@@ -47,7 +52,7 @@ sources:
     tier: 1
 ---
 
-ICE awarded The GEO Group, Inc. (recipient UEI JMLKZZ1NL2Z6) a sole-source ("only one source," not competed) task order — PIID 70CDCR26FR0000101 — on July 9, 2026 covering "detention and detention related services" at the Big Horn Detention Facility in Hudson, Colorado; the contracting officer classified it PSC S206 (Housekeeping-Guard) / NAICS 561612 (Security Guards and Patrol Services). Press reporting puts the five-year contract's value at $528.6 million. GEO's own investor release states the facility holds **1,188 beds** (not 1,200); combined with the existing 1,532-bed Aurora Contract Detention Facility, also GEO-operated, Colorado's total ICE detention capacity rises to roughly 2,720 beds — that combined figure, not Big Horn alone, is the source of the "2,720" number some coverage attaches to Big Horn directly.
+ICE awarded The GEO Group, Inc. (recipient UEI JMLKZZ1NL2Z6) a sole-source ("only one source," not competed) contract vehicle covering "detention and detention related services" at the Big Horn Detention Facility in Hudson, Colorado, structured as a single-award **Indefinite Delivery/Indefinite Quantity (IDIQ) contract, PIID 70CDCR26D00000049**, signed 2026-07-09; the contracting officer classified it PSC S206 (Housekeeping-Guard) / NAICS 561612 (Security Guards and Patrol Services). **Press reporting's "$528.6 million" figure is confirmed independently by USASpending — but it is the IDIQ's `base_and_all_options` ceiling ($528,678,643.44), not money spent or even obligated.** The parent IDIQ itself shows **$0 total obligation**; all funding so far runs through the first delivery order issued under it, **PIID 70CDCR26FR0000101** (signed 2026-07-15), which is a much smaller instrument: **$15,654,000 obligated**, against that single order's own `base_and_all_options` ceiling of **$106,502,322.60**. The order's own description states it "ESTABLISHES THE BASE PERIOD CLINS AND PROVIDES FUNDING FOR THE TRANSITION PERIOD" — i.e., this is startup/ramp-up funding, not the full five-year run. **Distinguish obligated from ceiling on this contract at every mention**: $528.6M is what ICE *could* spend across the IDIQ's full term if it exercises every option; $15.65M is what has actually been committed to date. GEO's own investor release states the facility holds **1,188 beds** (not 1,200); combined with the existing 1,532-bed Aurora Contract Detention Facility, also GEO-operated, Colorado's total ICE detention capacity rises to roughly 2,720 beds — that combined figure, not Big Horn alone, is the source of the "2,720" number some coverage attaches to Big Horn directly.
 
 **Ownership is not GEO.** GEO Group does not own the property. Title is held by **IVT PPD Hudson Associates, L.L.C.**, a subsidiary of **Highlands REIT, Inc.** (Chicago; SEC CIK 0001661458) — a nontraded Maryland REIT spun off in 2016 from InvenTrust Properties (formerly Inland American Real Estate Trust) to liquidate legacy assets, which never fully wound down. Highlands leased the property, per its own SEC 8-K, to **GEO Secure Services, LLC** — a GEO Group subsidiary, distinct from "The GEO Group, Inc.," the entity that holds the federal ICE contract. Full ownership-chain detail: [[highlands-reit]].
 
