@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-02-17--bloomberg-al-khayyat-syria-reconstruction
 date: '2026-02-17'
-title: "Bloomberg Reveals Al-Khayyat Brothers Won $12 Billion in Syrian Reconstruction Contracts in Two Months After Caesar Act Repeal"
+title: "Bloomberg Reports Al-Khayyat Brothers Assembled a ~$12 Billion Syrian Reconstruction Pipeline in Two Months After Caesar Act Repeal"
 importance: 9
 status: confirmed
 tags:
@@ -119,3 +119,35 @@ This sequence is the clearest publicly documented foreign-policy-capture-through
 - [[trump-ivanka]]
 - [[trump-donald]]
 - [[2025-06-13--trump-2025-annual-financial-disclosure-filed]]
+
+
+## Title corrected, conductor, 2026-08-28
+
+The title read **"Won $12 Billion in Syrian Reconstruction Contracts"** — the precise claim the
+correction above retracts. The body said "not executed contracts" while the headline said "won
+contracts," which is the worse of the two failures, because **a title travels without its body**:
+into search results, into `kb search` output, into a drafter's candidate list, and into a piece's
+framing, none of which carry the qualifying paragraph.
+
+Changed to **"Assembled a ~$12 Billion Syrian Reconstruction Pipeline."** Three deliberate edits:
+
+- **"Won contracts" → "assembled a pipeline"** — the verb was the load-bearing error. "Won"
+  asserts a completed competitive award; the record shows announcement ceremonies, MOUs, an
+  investment agreement, and at least one live bid.
+- **"Reveals" → "Reports"** — "reveals" endorses Bloomberg's framing as established fact. We
+  could not read Bloomberg's own text this pass (403/paywall), so we do not know whether Bloomberg
+  itself said "contracts."
+- **"~"** on the figure, since it is a rounded aggregate whose composition is reconstructed, not
+  confirmed.
+
+**The `id` and filename are unchanged** — a slug is an identifier, not a claim, and other entries
+link to it.
+
+**This is the same shape as the scope-drift-at-the-packaging-layer failure already documented**
+(where a brief's title claimed more than its source theme): the research was right and the label
+overstated it. Worth noting that it recurs at the *timeline-entry* layer too, not only at the
+brief layer — and that it survived a worker who was otherwise scrupulous about instrument types,
+because the correction discipline was applied to the body and never to the title.
+
+**Standing check for absorption**: when a correction retracts a claim, grep the entry's own title
+for that claim before closing.
