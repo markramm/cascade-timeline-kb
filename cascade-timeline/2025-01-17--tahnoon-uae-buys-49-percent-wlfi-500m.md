@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m
 date: '2025-01-17'
 title: "Tahnoon bin Zayed (UAE National Security Advisor) Lieutenants Buy 49% of Trump-Family World Liberty Financial for $500M — Days Before Inauguration; $187M to Trump Family, $31M to Witkoff Family"

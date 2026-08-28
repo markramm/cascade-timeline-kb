@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--bloomberg-government-fire-patel-fisa-reauth-bargaining-chip
 date: '2026-04-28'
 title: "Bloomberg Government Reports Patel Firing Becomes Bargaining Chip in FISA Section 702 Reauthorization Talks"

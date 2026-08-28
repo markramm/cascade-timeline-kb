@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-10--ice-defies-federal-judge-redetains-77yo-palestinian-omar-louisiana
 title: "ICE Defies Federal Judge's Release Order, Re-Detains 77-Year-Old Palestinian Lawful Resident Akram Omar for Deportation Flight"
 date: '2026-06-10'

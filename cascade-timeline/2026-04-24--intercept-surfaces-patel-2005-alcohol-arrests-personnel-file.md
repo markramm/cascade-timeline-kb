@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-24--intercept-surfaces-patel-2005-alcohol-arrests-personnel-file
 date: '2026-04-24'
 title: "Intercept Surfaces Patel's 2005 Personnel File Disclosing Two Prior Alcohol-Related Arrests"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--patel-iphone-fumble-shooting-aftermath-fox-2020-arrests-pitch
 date: '2026-04-28'
 title: "Patel Films Self Fumbling iPhone in WHCD Aftermath, Then Pitches Trump on 2020 Election Arrests via Fox News to Save Job"

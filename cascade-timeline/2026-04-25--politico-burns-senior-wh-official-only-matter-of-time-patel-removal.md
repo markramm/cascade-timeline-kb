@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-25--politico-burns-senior-wh-official-only-matter-of-time-patel-removal
 date: '2026-04-25'
 title: "Politico's Dasha Burns Reports Senior White House Official Says Patel Removal Is 'Only a Matter of Time'"

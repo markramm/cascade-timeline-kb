@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-24--doj-drops-powell-probe-clears-warsh-fed-confirmation
 date: '2026-04-24'
 title: "DOJ Abandons Criminal Probe of Fed Chair Powell, Clearing Warsh Confirmation as Fed Chair Successor"

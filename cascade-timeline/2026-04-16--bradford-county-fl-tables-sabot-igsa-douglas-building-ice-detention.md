@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-16--bradford-county-fl-tables-sabot-igsa-douglas-building-ice-detention
 date: '2026-04-16'
 title: "Bradford County FL Commissioners Table Sabot/Sheriff Smith ICE Detention Lease as Sabot/IGSA Model Fails First Public Test"

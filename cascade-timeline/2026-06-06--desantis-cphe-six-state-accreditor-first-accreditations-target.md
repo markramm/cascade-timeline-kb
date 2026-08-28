@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-06--desantis-cphe-six-state-accreditor-first-accreditations-target
 title: "DeSantis Launches Commission for Public Higher Education (CPHE): Six-State Accreditor; June 2026 First-Accreditation Target; DOE Recognition by June 2028"
 date: '2026-06-06'

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-10--sbc-advances-women-pastor-ban-elects-willy-rice-abuse-skeptic-president
 title: "Southern Baptist Convention Advances Constitutional Ban on Churches With Women Pastors (6,028–2,026) and Elects Abuse-Crisis Skeptic Willy Rice President"
 date: '2026-06-10'

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-17--atlantic-patel-mia-fitzgerald-fbi-staff-sources-drinking-absences
 date: '2026-04-17'
 title: "The Atlantic Publishes 'The FBI Director Is MIA' Citing 24+ Sources on Patel Drinking and Absences"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-24--intercept-palantir-irs-130-million-data-mining-contract
 date: '2026-04-24'
 title: "Intercept Reports Palantir Paid $130M+ by IRS for 'Massive-Scale' Data Mining of Federal Databases"

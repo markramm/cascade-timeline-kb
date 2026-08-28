@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-25--cole-allen-attempts-assassinate-trump-whcd-shooting
 date: '2026-04-25'
 title: "Gunman Cole Allen Attempts Assassination of Trump at White House Correspondents' Dinner; Secret Service Officer Shot"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-08--seventh-circuit-upholds-indiana-execution-press-ban-dignity-rationale
 title: "Seventh Circuit (2-1) Upholds Indiana's Total Press Ban on Execution Witnesses, Invoking 'Dignity'; AP and Coalition Lose First Amendment Challenge"
 date: '2026-06-08'

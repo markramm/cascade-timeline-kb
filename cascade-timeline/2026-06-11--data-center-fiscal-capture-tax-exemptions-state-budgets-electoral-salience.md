@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-11--data-center-fiscal-capture-tax-exemptions-state-budgets-electoral-salience
 title: "Data-Center Fiscal Capture Crystallizes Across States: Multibillion-Dollar Sales-Tax Exemptions Blow Holes in State Budgets as the Issue Reaches the Ballot (Lever/Capital&Main/Popular Information cluster)"
 date: '2026-06-11'

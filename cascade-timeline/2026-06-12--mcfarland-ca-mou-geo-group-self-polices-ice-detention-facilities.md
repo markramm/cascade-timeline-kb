@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-12--mcfarland-ca-mou-geo-group-self-polices-ice-detention-facilities
 title: "McFarland, California MOU Lets GEO Group Self-Police Its ICE Detention Facilities; Local Police Decline to Respond to Calls at Golden State and Central Valley Annexes"
 date: '2026-06-12'

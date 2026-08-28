@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-01-21--lunas-campos-el-paso-medical-examiner-rules-homicide-ice-camp-east-montana
 date: '2026-01-21'
 title: "El Paso Medical Examiner Rules Cuban ICE Detainee Geraldo Lunas Campos's Death a Homicide; Witness Says Guards Choked Him"

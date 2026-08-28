@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-05--surveillance-pricing-ban-multistate-cascade-ct-ny-co-veto
 title: "Surveillance-Pricing Bans Move Across the States: Connecticut Enacts, New York Approves, Colorado Vetoes — 24-State Cascade"
 date: '2026-06-05'

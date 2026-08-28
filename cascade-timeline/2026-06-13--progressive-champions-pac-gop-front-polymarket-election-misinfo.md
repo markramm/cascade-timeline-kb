@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-13--progressive-champions-pac-gop-front-polymarket-election-misinfo
 title: "'Progressive Champions PAC' Exposed as GOP Front via Bryant Bank / Rep. Gary Palmer Tie; Polymarket Ends Sponsorship of Influencer Election-Fraud Posts After Popular Information Reporting"
 date: '2026-06-13'

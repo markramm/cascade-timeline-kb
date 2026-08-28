@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-13--ice-hsi-attempt-raid-legal-aid-offices-migrant-children-files
 title: "ICE/HSI and HHS-OIG Agents Attempt to Enter Legal-Aid Offices Serving Unaccompanied Migrant Children, Demand Files; Denied Entry Without Warrant"
 date: '2026-06-13'

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2024-12-20--kushner-affinity-gets-1-5b-qia-lunate
 date: '2024-12-20'
 title: "Kushner's Affinity Partners Gets Additional $1.5 Billion from Qatar Investment Authority and Abu Dhabi's Lunate — Fund Period Extended to 2029; AUM Grows to $4.8 Billion"

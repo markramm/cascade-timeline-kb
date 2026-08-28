@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--comey-second-indictment-seashell-photo-trump-threat
 date: '2026-04-28'
 title: "Federal Grand Jury Indicts Former FBI Director Comey on 2 Counts Over '8647' Seashell Photo Alleged as Threat to Trump"

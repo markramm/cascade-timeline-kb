@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2025-08-14--goldman-tpg-352m-fundrise-industrial-portfolio-refinancing
 date: '2025-08-14'
 title: "Goldman Sachs and TPG Provide $352.7M Loan Against 12-Property Fundrise Industrial Portfolio — Hagerstown Crossroads (Williamsport) Among Collateral; Closed June 26, Six Months Before DHS Purchase"

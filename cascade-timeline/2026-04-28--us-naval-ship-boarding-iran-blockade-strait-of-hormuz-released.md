@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--us-naval-ship-boarding-iran-blockade-strait-of-hormuz-released
 date: '2026-04-28'
 title: "US Military Boards and Releases Cargo Ship Suspected of Iran Trade as Strait of Hormuz Blockade Continues Into Day 60"

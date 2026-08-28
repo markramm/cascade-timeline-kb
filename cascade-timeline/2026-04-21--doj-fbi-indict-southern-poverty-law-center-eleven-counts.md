@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts
 date: '2026-04-21'
 title: "DOJ Indicts Southern Poverty Law Center on 11 Counts Including Wire Fraud, Bank Fraud, Money Laundering"

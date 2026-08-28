@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-06-15--nwccu-splits-from-c-rac-rebrands-national-accreditor
 title: "NWCCU Splits From C-RAC, Moves to Rebrand as National Accreditor and Revise Standards"
 date: '2026-06-15'

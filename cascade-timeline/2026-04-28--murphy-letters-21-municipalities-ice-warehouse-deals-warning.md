@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--murphy-letters-21-municipalities-ice-warehouse-deals-warning
 date: '2026-04-28'
 title: "Sen. Chris Murphy Sends Warning Letters to 21 Municipalities Considering ICE Warehouse Detention Deals"

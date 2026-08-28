@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-26--ice-fy2026-removals-on-pace-460000-deportations-record
 date: '2026-04-26'
 title: "ICE FY2026 Removals on Pace to Exceed 460,000, Nearly 45% Above FY2025 and 85% Above FY2024"

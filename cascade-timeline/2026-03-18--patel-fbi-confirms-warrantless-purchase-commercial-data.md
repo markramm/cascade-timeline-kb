@@ -1,7 +1,8 @@
 ---
 id: 2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data
 title: "FBI Director Patel Confirms Under Oath the Bureau Purchases Commercially Available Data, Declining to Commit to a Warrant Requirement"
-type: timeline-event
+type: timeline_event
+status: reported
 date: '2026-03-18'
 location: "Washington, D.C. (Senate Select Committee on Intelligence)"
 actors:

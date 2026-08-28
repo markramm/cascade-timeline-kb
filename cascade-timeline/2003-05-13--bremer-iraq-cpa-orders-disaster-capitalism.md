@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 entry_type: timeline_event
 id: 2003-05-13--bremer-iraq-cpa-orders-disaster-capitalism
 date: 2003-05-13

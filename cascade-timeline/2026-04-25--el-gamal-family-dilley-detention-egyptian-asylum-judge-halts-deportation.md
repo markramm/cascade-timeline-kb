@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-25--el-gamal-family-dilley-detention-egyptian-asylum-judge-halts-deportation
 date: '2026-04-25'
 title: "Texas Federal Judge Halts Deportation of El Gamal Family After 10+ Months at Dilley Detention"

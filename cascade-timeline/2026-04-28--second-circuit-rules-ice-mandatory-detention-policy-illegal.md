@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-28--second-circuit-rules-ice-mandatory-detention-policy-illegal
 date: '2026-04-28'
 title: "Second Circuit Court of Appeals Rules ICE Mandatory Detention Policy Illegal, Setting Up Likely SCOTUS Showdown"

@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-29--congress-passes-fisa-702-45-day-extension-short-term
 date: '2026-04-29'
 title: "Congress Passes 45-Day FISA Section 702 Short-Term Extension After Three-Year Reauthorization Stalls in Senate"

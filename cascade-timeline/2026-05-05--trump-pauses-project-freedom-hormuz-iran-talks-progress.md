@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-05-05--trump-pauses-project-freedom-hormuz-iran-talks-progress
 date: '2026-05-05'
 title: "Trump Pauses 'Project Freedom' Strait of Hormuz Naval Operation Citing Iran Peace-Talks Progress; 14-Point Plan Under Review"

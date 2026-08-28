@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-04-20--patel-sues-atlantic-fitzpatrick-defamation-250-million
 date: '2026-04-20'
 title: "FBI Director Patel Sues The Atlantic and Reporter Fitzpatrick for $250M in Defamation"

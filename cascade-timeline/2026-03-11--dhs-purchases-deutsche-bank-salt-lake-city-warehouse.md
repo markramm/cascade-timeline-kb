@@ -1,4 +1,5 @@
 ---
+type: timeline_event
 id: 2026-03-11--dhs-purchases-deutsche-bank-salt-lake-city-warehouse
 date: '2026-03-11'
 title: "DHS Pays Deutsche Bank / DWS / RREEF $145.4M for Salt Lake City, UT Warehouse — 49% Markup; Two Cabinet Officials Hold Deutsche Bank Exposure Through Legacy Pensions and Assets"
