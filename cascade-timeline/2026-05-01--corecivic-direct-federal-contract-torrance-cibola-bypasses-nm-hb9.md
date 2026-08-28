@@ -76,3 +76,9 @@ This corrects and extends [[2026-05-20--new-mexico-immigrant-safety-act-hb9-take
 - [[2026-07-01--otero-county-nm-renews-igsa-defies-state-detention-ban]]
 - [[2026-07-09--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer]]
 - [[corecivic]]
+
+**Conductor verification of the contract record, 2026-08-27.** PIID `70CDCR26D00000029` confirmed independently against the USAspending API: **CORECIVIC, INC. / Department of Homeland Security / IDV / period beginning 2026-05-01**. The agency, recipient, instrument type, and start date all hold.
+
+**Two precision notes on the dollar figure.** The USAspending IDV record itself shows **$0 obligated** — normal for an unfunded base IDIQ, where money moves through task orders written against the vehicle rather than through the base. So **$135,421,013.76 is a ceiling (base and all options), not money spent**, and must never be reported as an amount ICE has paid. The obligated total will accrue on the task orders and should be pulled separately before any dollar claim is published.
+
+**Query method, so the next reader does not repeat a dead end.** This PIID does **not** resolve under contract award-type codes (`A/B/C/D`) — a search filtered that way returns zero, which reads like a verified absence and is not one. It is an **IDV** and resolves only under `IDV_*` award types. Separately, `usaspending --keywords 70CDCR26D00000029` returns a *different* award (`15M40026FA3500020`, a DOJ delivery order) because keyword mode is fuzzy full-text — a fuzzy match on an identifier is not confirmation of that identifier.
