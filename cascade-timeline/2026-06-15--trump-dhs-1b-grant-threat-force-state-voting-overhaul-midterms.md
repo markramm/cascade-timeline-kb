@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-15--trump-dhs-1b-grant-threat-force-state-voting-overhaul-midterms
 date: '2026-06-15'
-title: "DISPUTED SOURCING — \"$1B DHS Grant Cutoff\" Claim Not Found in Either Cited Source (see correction 2026-08-28)"
+title: 'DISPUTED SOURCING: the $1B DHS grant-cutoff claim appears in neither cited source (correction 2026-08-28)'
 importance: 9
 status: disputed
 tags:
