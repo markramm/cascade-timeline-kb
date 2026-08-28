@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
 date: '2026-02-15'
-title: "HSI Opens Project Whipple Shield, Using Warrantless Administrative Summonses to Take Union Financial and PAC Records Under a 'Domestic Terrorist Financing' Theory"
+title: "HSI Opens Project Whipple Shield, Using Warrantless Administrative Summonses Under Customs Authority to Take Years of Union and Nonprofit Financial Records Under a 'Domestic Terrorist Financing' Theory"
 importance: 9
 status: confirmed
 tags:
@@ -24,9 +24,16 @@ actors:
   - AFL-CIO
   - Sunrise Movement
   - Voices for Racial Justice
+  - International Federation of Professional and Technical Engineers
   - Direct Action Minnesota
   - Kevin Riach
+  - Steven Schrank
 sources:
+  - title: "US v. Sant, 0:26-cr-00115 (D. Minn.), Doc. 212 — full unsealed Report-of-Investigation set (attachments 212-1 through 212-31)"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.6_1.pdf
+    publisher: "US District Court, D. Minn., PACER/CourtListener RECAP archive"
+    date: '2026-08-13'
+    tier: 1
   - title: "As Minnesotans organized against ICE, DHS spied on meetings, subpoenaed bank records, court filings say"
     url: https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/
     publisher: KSTP 5 Eyewitness News
@@ -68,25 +75,25 @@ Roughly two weeks after opening [[2026-08-13--operation-puppet-master-hsi-infilt
 
 Where Puppet Master targeted an activist network, Whipple Shield targeted the money — and the people who supported the targets. HSI's stated purpose was to "uncover the funding sources behind the anti-ICE antifa ring targeting the Federal Whipple Building and the cell's organizational structure."
 
-It obtained years of financial records from labor unions and nonprofits using **administrative summonses** — subpoenas issued by the agency itself, with no warrant and no judge.
+It obtained years of financial records from labor unions and nonprofits using **HSI-issued administrative summonses** — issued by the agency itself, with no warrant and no judge, under 19 U.S.C. § 1509 (customs-summons authority, not an immigration or grand jury instrument — see "The mechanism, precisely" below).
 
 ## What Happened / Key Facts
 
 **The escalation is the structure.** Puppet Master, opened January 28 four days after a federal officer killed Alex Pretti, sought to "unmask the agitators conspiring to exploit the civil unrest to riot, destroy federal property, and assault personnel protecting these facilities." Whipple Shield, opened roughly two weeks later, extended to "sophisticated, organized campaigns" *supporting* those accused. Charge a handful publicly, then use the resulting investigative authorities to map everyone connected to defending them.
 
-**Records taken without a warrant.** Documented recipients of administrative summonses:
+**The mechanism, precisely.** HSI's own summons forms (HSI Form 3115, "Department of Homeland Security Summons — To Appear and/or Produce Records"), served on FedWire and the Clearing House Interbank Payment System, state their authority in plain text on the face of the document: **"Issued under authority of section 509, Tariff Act of 1930, as amended by Pub. L. No. 95-410 (19 U.S.C. § 1509); 44 F.R. 2217; Homeland Security Act of 2002."** That is a **customs-summons authority**, not 8 U.S.C. § 1225(d)(4) (an immigration-specific tool), not an IRS-style summons, and not a grand jury subpoena — no judicial officer approves it, and each form doubles as a nondisclosure order: "You are requested not to disclose the existence of this summons for an indefinite period of time." The PayPal/Venmo instrument used against Voices for Racial Justice is described in HSI's own ROI narrative as an "administrative subpoena" rather than a "summons" — the government's internal terminology is not fully consistent between the two instruments, though the underlying authority (agency-issued, no warrant) is the same. Both instruments were signed by **Steven Schrank, Special Agent in Charge, HSI Saint Paul** (the bank summonses) or served by named case agents (the PayPal/Venmo subpoena, SA Terri Botterbusch). Source: Doc. 212-6, 212-7, 212-8, 212-9, 212-10 (US v. Sant, 0:26-cr-00115, D. Minn.), read directly from the archived page images at 300dpi.
 
-- **SEIU** — financial records spanning 2023 to 2026, including "wire transfers from various financial institutions to and from the SEIU's bank account in Minneapolis"
-- **Communications Workers of America** — "financial statements from the CWA pertaining to its **donations and PAC spending**"
-- **International Federation of Professional and Technical Engineers**
-- **Voices for Racial Justice** — a Minneapolis racial-justice training organization founded in 1993; HSI subpoenaed **PayPal and Venmo** for payments to and from it
-- **Sunrise Movement** — the climate organization that held noise protests outside hotels housing immigration agents
+**Requested vs. produced — both are documented, not merely alleged.** These were not summonses issued and left unanswered. HSI's own ROIs record service and return:
 
-A union's political action committee spending is the most protected category of associational activity in American law. It was taken by agency summons, under a terrorism-financing theory, with no judicial officer in the loop.
+- **SEIU** — Summons HSI-MS-2026-037088, served on FedWire March 20, 2026, requesting "FEDWIRE Funds Service transfers" for four named SEIU entities (South St. Paul, two Minneapolis addresses, St. Paul) "from January 1, 2023, until present." FedWire's return was received April 8, 2026, and HSI's own ROI reports a "preliminary analysis" finding "numerous wire transactions... for various types of debits and credits to include annuity payments, strike payments, strike supplies, investments, union member dues, retiree dues, medical expenses, and pension fund expenses." The category is broader than the entry previously stated ("wire transfers from various financial institutions") — it is essentially the union's full FedWire transaction history for the period, not a targeted subset.
+- **CWA, IFPTE, and Sunrise Movement/Sunrise Movement Education Fund** — a **single summons** (HSI-MS-2026-037704, served on the Clearing House Interbank Payment System March 9, 2026) requested records for all four together: CWA (national headquarters and multiple named bank accounts — Northwest Savings Bank, United Business Bank, a Business DDA account, Truist), the **International Federation of Professional and Technical Engineers**, explicitly labeled on the summons as "(CWA)" — i.e., named as a CWA affiliate, not a separate target — and Sunrise Movement/Sunrise Movement Education Fund. The summons's own language requests **"any and all records"** on these entities from January 1, 2023 through March 9, 2026 — not a request narrowed to "donations and PAC spending." No PAC-specific or donation-specific framing appears on the face of the document; that characterization does not trace to the primary summons and has been removed.
+- **Voices for Racial Justice** — a Minneapolis racial-justice training organization; HSI's ROI (approved 4/2/2026, SA Terri Botterbusch) documents an administrative subpoena to PayPal/Venmo (HSI-MS-2026-037346 and -037348), served March 7, 2026, with results returned March 20, 2026. PayPal/Venmo's response is confirmed in the ROI as producing account holder details, a linked phone number, transaction records, and account summaries for at least two separate PayPal accounts tied to the organization — not merely a request pending response.
 
-**"The Conspiracy" slide.** HSI agents prepared a conspiracy diagram and presented it to the grand jury that returned a **94-page indictment**. The diagram depicted 18 unions, political organizations and community groups as part of the conspiracy, linked by **alleged overlapping membership** with Direct Action Minnesota (DAMN). The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 were placed inside an "antifa network" as **"council members."**
+A union's political action committee spending is among the most protected categories of associational activity in American law; what the record actually shows HSI took is broader still — a national union's full multi-year FedWire transaction ledger, taken by agency summons under a terrorism-financing theory, with no judicial officer in the loop.
 
-Guilt by associational overlap, drawn as a chart, shown to the body that decides whether to indict.
+**"The Conspiracy" slide.** HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury that returned a **94-page indictment** — HSI Agent Desmond Garcia testified about it directly (Ex. 4, 27:4-11). The diagram depicted 18 unions, political organizations and community groups radiating from a Direct Action Minnesota (DAMN) hub. **Correction**: the slide's own edge label on each of the 18 spokes reads only "Council Member" — asserting each organization's membership status relative to the DAMN hub, not overlapping membership between the 18 organizations themselves. That broader reading, which earlier reporting and earlier passes through this corpus both carried, is not what the exhibit itself depicts or asserts; see [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]] for the full corrected organization list. The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 are among the 18 "Council Member" spokes.
+
+Eighteen distinct organizations — a labor federation, a teachers' local, a veterans' group, a racial-justice group, a bicycle repair collective — rendered as spokes in a chart titled "The Conspiracy," under a government seal, shown to the body that decides whether to indict.
 
 **The government's characterization.** Prosecutors framed the work as a "domestic terrorist financing" probe into "a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations." DAMN was described as a network of "violent opportunists" operating "both online and in person."
 
@@ -96,20 +103,20 @@ Guilt by associational overlap, drawn as a chart, shown to the body that decides
 
 ## Why It Matters
 
-**This is the half of the story the coverage under-reports.** Operation Puppet Master got the headlines because undercover agents in church basements is a vivid image. Whipple Shield is the more consequential program: it reached organizations that were never accused of anything, took their banking and political-spending records without a judge, and rendered them to a grand jury as nodes in a terrorism conspiracy chart.
+**This is the half of the story the coverage under-reports.** Operation Puppet Master got the headlines because undercover agents in church basements is a vivid image. Whipple Shield is the more consequential program: it reached organizations that were never accused of anything, took years of their banking records without a judge, and rendered them to a grand jury as nodes in a terrorism conspiracy chart.
 
 **The predicate chain is the mechanism.** Emptywheel traced it: Bondi's high-profile "trophy arrests" supplied the conspiracy predicate for the Minnesota 15 indictment, which in turn supplied the investigative authorities for the broader infiltration. Prosecution operated as a surveillance-expansion wedge. Many of the underlying cases have since collapsed — at least eight prosecutions brought under the same directive were voluntarily dismissed — but the records they justified taking have already been taken.
 
-**Administrative summonses are the load-bearing tool.** Not warrants, not grand jury subpoenas — agency-issued process requiring no judicial finding. The distinction is what makes the volume possible, and it is the thing least likely to survive scrutiny. It is also the thing most portable to the next jurisdiction.
+**Administrative summonses are the load-bearing tool — and the specific authority is a customs statute, not an immigration one.** The bank-facing instruments (FedWire, CHIPS) invoke 19 U.S.C. § 1509, the Tariff Act of 1930's customs-summons power, retooled here for a domestic-terrorism-financing theory with no customs nexus stated on the form. Not a warrant, not a grand jury subpoena, not even the immigration-specific 8 U.S.C. § 1225(d)(4) — agency-issued process requiring no judicial finding, carrying its own indefinite nondisclosure order. The distinction is what makes the volume possible, and it is the thing least likely to survive scrutiny on a challenge that reaches its statutory basis. It is also the thing most portable to the next jurisdiction.
 
 **It reached beyond Minnesota.** The same investigation tasked HSI Detroit Metro Airport to put an undercover agent into a church sanctuary in Ann Arbor on two days' notice — see [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]], where the agent received the collection basket, counted the cash, and logged the QR code on the donation slip. A church collection basket entered a financial investigation whose stated subject was terrorist financing.
 
 ## Open Questions
 
-- The full list of all 18 organizations on the grand jury "Conspiracy" slide
-- Whether any recipient of an administrative summons has moved to quash, and with what result — **checked 2026-08-20**: no public quash motion located (CourtListener full-text + news sweep both return verified absence); notable contrast with the structurally identical Sept-Oct 2025 DHS subpoenas to Google/Meta, which four Doe plaintiffs did move to quash in N.D. Cal. See [[whipple-shield-class-level-harm-deploy-disposition]]
-- Which financial institutions complied and whether any refused or notified their customers — **checked 2026-08-20**: no evidence found of any recipient organization notifying individual members/donors that their records were reviewed
-- The statutory authority claimed for the administrative summonses, and whether it supports records unrelated to customs or immigration violations
+- The full list of all 18 organizations on the grand jury "Conspiracy" slide — **resolved 2026-08-13** by direct 300dpi visual read of Doc. 212-3; full list in [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
+- Whether any recipient of an administrative summons has moved to quash, and with what result — **checked 2026-08-20, re-checked 2026-08-28**: no public quash motion located (CourtListener at daily rate cap on 08-28 re-check — tooling-limited, not re-verified as absent that day; general web search also rate-limited on a subset of engines that day, so today's attempt is not a fresh independent confirmation, only a repeat of the 08-20 finding). Notable contrast with the structurally identical Sept-Oct 2025 DHS subpoenas to Google/Meta, which four Doe plaintiffs did move to quash in N.D. Cal. See [[whipple-shield-class-level-harm-deploy-disposition]]
+- Which financial institutions complied and whether any refused or notified their customers — **checked 2026-08-20**: no evidence found of any recipient organization notifying individual members/donors that their records were reviewed. HSI's own ROIs confirm FedWire and PayPal/Venmo *did* comply and produce records (212-5, 212-10); CHIPS's response for CWA/IFPTE/Sunrise (212-9) has not yet been read in equivalent detail — its response letter exists in the document set but its production contents were not confirmed in this pass
+- The statutory authority claimed for the administrative summonses, and whether it supports records unrelated to customs or immigration violations — **resolved 2026-08-28**: 19 U.S.C. § 1509 (Tariff Act of 1930 § 509, as amended), stated on the face of the FedWire and CHIPS summons forms themselves (Doc. 212-6, 212-8). This is customs-summons authority with no customs nexus stated on the form for a domestic-terrorism-financing theory — the statutory mismatch itself is now documented, not just suspected. Whether a court would sustain that authority for this use remains untested; no challenge has been located.
 - Whether comparable financial process issued in any other jurisdiction touched by this investigation
 - Whether the 94-page indictment survives the pending challenge to its predicate
 
@@ -124,3 +131,4 @@ This entry's harm is **class-level, not individually nameable** — see [[whippl
 - [[2025-12-04--bondi-weaponizes-tax-law-against-antifa]]
 - [[2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge]]
 - [[whipple-shield-class-level-harm-deploy-disposition]]
+- [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
