@@ -47,7 +47,7 @@ On March 7, 2026, ICE awarded **KVG LLC** — a Gettysburg, Pennsylvania-registe
 - **Purchase context**: DHS bought the warehouse from Fundrise for $102.4M, January 27, 2026 ([[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]])
 - **Initial contract value**: $113 million
 - **Option-expanded ceiling through 2029**: ~$641.8 million
-- **Planned capacity**: 1,500 detainees, turning over every 3–7 days
+- **Planned capacity**: **542** per ICE's own Record of Environmental Consideration; **1,500** appears in planning material as an unfinalized ceiling. Both figures are real and describe different things — see the correction note below. Turnover every 3–7 days.
 - **Potential annual throughput**: ~182,500 people
 - **Current infrastructure at site**: four toilets, two water fountains
 
@@ -129,3 +129,7 @@ The pattern is not accidental. Incumbents in the detention-industrial complex (C
 - [[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]
 - [[2026-04-15--the-mercenaries-gardaworld-kvg-and]] (RAMM published article)
 - [[warehouse-fungibility-and-the-detention-hedge]]
+
+**Correction, 2026-08-27 — Williamsport capacity.** This entry stated planned capacity flatly as **1,500**. ICE's own **Record of Environmental Consideration** gives **542**; the 1,500 figure is an unfinalized ceiling from planning material, not the assessed capacity. Both numbers are real and are not interchangeable — verified in the signed opinion in *State of Maryland v. Mullin* (D. Md. 1:26-cv-00733, ECF 43, Judge Hurson), which a canon-repair pass read directly.
+
+Sibling entries were corrected in that pass; this one sat outside its four named defects and was flagged for follow-up. Closed here so no downstream piece picks up the bare 1,500. **Any capacity claim for this facility must say which figure it is using and why.**
