@@ -36,7 +36,7 @@ capture_lanes:
 status: confirmed
 ---
 
-Around 30,000 union members—half of New Orleans' workforce and virtually all its unionized workers—strike on November 8, 1892, after the Board of Trade refuses to negotiate with the predominantly Black Teamsters union while offering contracts to white-dominated Scalesmen and Packers unions. Streetcars stop running, utility workers defy the governor's demands and labor committee's advice to join the strike, and the city's natural gas supply fails along with the electrical grid, plunging New Orleans into darkness. The strike represents the first time in U.S. history that Black and white workers carry out a general strike together, demonstrating that interracial working-class solidarity can overcome Deep South racism when workers refuse to break ranks along racial lines. The victory proves temporary but historically significant, showing both the possibility and fragility of multiracial labor organizing in the Jim Crow era.
+Around 30,000 union members—half of New Orleans' workforce and virtually all its unionized workers—strike on November 8, 1892, after the Board of Trade refuses to negotiate with the predominantly Black Teamsters union while offering contracts to white-dominated Scalesmen and Packers unions. Streetcars stop running, utility workers defy the governor's demands and labor committee's advice to join the strike, and the city's natural gas supply fails along with the electrical grid, plunging New Orleans into darkness. The strike represents what labor historians identify as the first **formally organized, citywide** general strike sustained by explicit interracial labor solidarity — the Triple Alliance — in the Deep South, demonstrating that interracial working-class solidarity can overcome Deep South racism when workers refuse to break ranks along racial lines. The victory proves temporary but historically significant, showing both the possibility and fragility of multiracial labor organizing in the Jim Crow era.
 
 The strike emerges from the Workingmen's Amalgamated Council, a central labor council representing more than 30,000 workers across 49 unions affiliated with the American Federation of Labor. Three racially integrated unions—the Teamsters, Scalesmen, and Packers—form the "Triple Alliance," with many members being African American. The Alliance struck on October 24, 1892, demanding a 10-hour work day (down from 16 hours), overtime pay, and preferential union shop. The unions had achieved remarkable organizational success following a May 1892 streetcar drivers' strike that won a shorter workday and closed shop, driving many New Orleans workers to seek AFL assistance and leading to the formation of 30 new labor unions before summer's end.
 
@@ -45,3 +45,21 @@ Employers utilize race-based appeals to try to divide the workers and turn publi
 The striking workers refuse to break ranks along racial lines. Large majorities of the Scalesmen and Packers unions pass resolutions affirming their commitment to stay out until employers sign a contract with the Teamsters on the same terms offered to other unions. This solidarity across racial lines in the Deep South proves unprecedented and strategically decisive. After brief negotiations, the Triple Alliance and Board of Trade reach an agreement: the union wins a wage increase, overtime pay, and a ten-hour day, though the Board refuses to concede a preferential union shop. At the time, the strike is considered a success, demonstrating that Black and white workers could maintain solidarity, avoid violence, win most demands, avoid military repression, and overcome racial hatred.
 
 However, racial unity on the New Orleans docks collapses in the economic depression beginning in 1893. Race riots break out in 1894 and 1895 as white workers try to oust Black workers from all waterfront work, revealing how economic crisis can destroy interracial solidarity when employers and political leaders actively promote racial division. The 1892 general strike thus represents both a remarkable achievement—proving interracial labor solidarity possible even in the Jim Crow South—and a cautionary tale about its fragility. The strike demonstrates that when workers unite across racial lines and maintain discipline, they can defeat even powerful employer associations, but also that such unity requires constant reinforcement and remains vulnerable to economic pressure, media propaganda, and employers' deliberate exploitation of racism. The New Orleans general strike stands as the high-water mark of Gilded Age interracial labor organizing, an achievement not replicated in the South for decades, showing what might have been possible if the labor movement had prioritized racial solidarity over craft exclusionism and accommodation to Jim Crow.
+
+
+## Sourcing correction, 2026-08-28 — attribution added to a superlative the corpus asserted flatly
+
+The entry stated in its own voice that this was *"the first time in U.S. history that Black and
+white workers carry out a general strike together."* **The entry's own cited source does not assert
+that.** Wikipedia quotes a *contemporary observer's* exclamation ("Never in the history of the
+world...") — a rhetorical remark, and a different and broader claim than a historical first.
+
+**No genuine counterexample was found**, so the underlying point stands. The 1877 Great Railroad
+Strike had scattered cross-racial participation in some cities (St. Louis, Galveston) but was a
+spontaneous, fragmented multi-city uprising, in most places largely white and often racially
+exclusionary — not a coordinated general strike.
+
+**What changed is the voice, not the substance**: the claim is now scoped to what the record
+supports (formally organized, citywide, sustained interracial solidarity via the Triple Alliance,
+in the Deep South) and framed as **what labor historians identify** rather than as a flat corpus
+assertion. A superlative should carry whoever is making it.

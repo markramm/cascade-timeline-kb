@@ -50,8 +50,28 @@ capture_lanes:
 ---
 
 
-President Jimmy Carter signed the Airline Deregulation Act into law on October 24, 1978, marking the first time in U.S. history that an industry was deregulated and removing federal control over airline fares, routes, and market entry. In 1977, Carter had appointed Cornell economics professor Alfred Kahn to chair the Civil Aeronautics Board (CAB), where Kahn implemented his neoliberal vision that government regulation stifled competition and increased consumer prices. The legislation was pushed by Democrats led by Senator Edward Kennedy, with strong support from Kennedy aide Stephen Breyer (later Supreme Court Justice), in the hope of bringing more affordable air travel to millions of Americans through market competition.
+President Jimmy Carter signed the Airline Deregulation Act into law on October 24, 1978, marking the first **comprehensive** deregulation of a major regulated **passenger** industry in U.S. history — and the first to abolish the regulating agency itself (the Civil Aeronautics Board) and removing federal control over airline fares, routes, and market entry. In 1977, Carter had appointed Cornell economics professor Alfred Kahn to chair the Civil Aeronautics Board (CAB), where Kahn implemented his neoliberal vision that government regulation stifled competition and increased consumer prices. The legislation was pushed by Democrats led by Senator Edward Kennedy, with strong support from Kennedy aide Stephen Breyer (later Supreme Court Justice), in the hope of bringing more affordable air travel to millions of Americans through market competition.
 
 The immediate effects of deregulation proved devastating for airline workers and industry stability. Between 1978 and mid-2001, eight major carriers—Eastern, Midway, Braniff, Pan Am, Continental, Northwest Airlines, Frontier, and TWA—and more than 100 smaller airlines went bankrupt or were liquidated as exposure to competition led to heavy losses and conflicts with labor unions. While a 1996 Government Accountability Office report found that average fares per passenger mile were about 9% lower in 1994 than in 1979, these savings came at enormous cost to workers as airlines slashed wages, benefits, and working conditions to compete. Carter's broader deregulation agenda under Kahn's influence extended to multiple industrial sectors, permanently reducing wages and accelerating the financialization process begun during the Nixon presidency.
 
 Most historians trace the birth of neoliberalism to Ronald Reagan, with Democrats joining during the Clinton years, but airline deregulation under Carter represents the actual starting point of neoliberal policy dominance in American governance. Some scholars argue that "the birth date of neoliberalism" should be October 24, 1978, the day Carter signed the Airline Deregulation Act. The legislation demonstrated that Democratic Party leaders had embraced market fundamentalism and abandoned New Deal commitments to regulated capitalism and worker protection. Many industries followed the airlines into deregulation or privatization—telecommunications, financial services, banking, prisons—with the same pattern repeating: labor gets hollowed out, monopolies emerge through consolidation, service quality deteriorates, and consumer protections disappear. The Act revealed how antiregulatory ideology could bridge left and right political coalitions, as antibureaucratic sentiment from 1960s counterculture movements merged with corporate libertarianism to dismantle the regulatory state, fundamentally restructuring the relationship between government, markets, and workers in favor of capital.
+
+
+## Sourcing correction, 2026-08-28 — superlative tightened, not struck
+
+The entry read *"the first time in U.S. history that an industry was deregulated."* **As worded
+that is contradicted by the entry's own cited sources**: the **Air Cargo Deregulation Act, signed
+1977-11-09 — roughly eleven months earlier** — deregulated air *freight* under the same CAB
+framework, and the Natural Gas Policy Act partially deregulated natural gas the same month as the
+airline act (October 1978).
+
+**The narrow version is both accurate and stronger**, and is now in the text: the Airline
+Deregulation Act was the first **comprehensive** deregulation of a major regulated **passenger**
+industry, and the first to **abolish the regulating agency entirely** (the CAB sunset in 1985).
+That is the template trucking (1980) and rail (1980) followed — which is the actual argument the
+entry is making.
+
+Found by a superlative-verification sweep applying the discipline in
+[[how-a-thesis-organized-corpus-fails-seven-shapes-2026]]. Air cargo deregulation independently
+confirmed as a distinct documented event (*Transportation Research Part A*, 1982, "Deregulation of
+the air cargo industry," doi:10.1016/0191-2607(82)90088-7).
