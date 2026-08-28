@@ -4,7 +4,7 @@ id: 2026-06-18--ferc-section-206-show-cause-orders-large-load-interconnection-rm
 date: '2026-06-18'
 title: "FERC issues Federal Power Act Section 206 show-cause orders to all six RTOs/ISOs on large-load interconnection — RM26-4-000 rulemaking itself remains un-acted-on"
 importance: 7
-status: confirmed
+status: reported
 tags:
   - investigation-6
   - datacenter
@@ -105,3 +105,31 @@ This entry rests on **convergent secondary-source headlines and article summarie
 - [[datacenter-permitting-deregulation-2025]]
 - [[wright-chris]]
 - [[epic-inv6-energy-systems-convergent-demand-shock]]
+
+
+## Conductor note, 2026-08-28 — status set to `reported`, and what IS primary-verified
+
+**Downgraded `confirmed` → `reported`** to match the entry's own sourcing disclosure. The body
+states plainly that it "rests on convergent secondary-source headlines and article summaries, not
+on the primary FERC order text" — an entry cannot be `confirmed` on that basis. The disclosure
+itself is exemplary and is why the downgrade is a one-word fix rather than a rewrite.
+
+Context for the strictness: a canon sourcing audit the same day found **two of twelve**
+high-importance `confirmed` entries asserting claims their sources do not contain. `confirmed` has
+to mean something.
+
+**What IS primary-verified**, checked by the conductor against the Federal Register directly:
+FERC's own **Unified Regulatory Agenda (2026-08-14, 91 FR / doc 2026-16616)** lists
+**"Interconnection of Large Loads to the Interstate Transmission System," RIN 1902-AG47**, at
+**ANPRM stage** with **"Next Action Undetermined, 11/00/26."** A `fedreg` search returns **no NPRM
+and no final rule** for this docket. So the entry's core structural claim — *FERC did not proceed
+by rulemaking* — is confirmed from a primary source, independent of the law-firm alerts.
+
+**What remains secondary-sourced**: the Section 206 show-cause orders themselves (four independent
+outlets — McGuireWoods, White & Case, RTO Insider, Utility Dive — agreeing on the June 18-19 date
+and the Section 206 characterization), the exact docket numbers, the precise compliance deadline,
+and any dissents. ferc.gov 403s (Cloudflare; not on evidence-search's allow-list), so no claim
+here rests on a successfully-read ferc.gov page.
+
+**To restore `confirmed`**: pull the primary order text from a non-blocked browser session or a
+legal database and cite the docket numbers directly.
