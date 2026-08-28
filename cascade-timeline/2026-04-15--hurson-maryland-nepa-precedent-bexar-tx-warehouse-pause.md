@@ -27,7 +27,7 @@ actors:
   - Jalen McKee-Rodriguez
   - Kris Mayes
   - Mikie Sherrill
-  - Matthew Platkin
+  - Jennifer Davenport
   - Department of Homeland Security
   - ICE
 sources:
@@ -136,7 +136,7 @@ The "Surprise" RAMM article (May 7, 2026) documents the Mayes lawsuit and Roxbur
 ## Research Gaps
 
 - [ ] Case number and judge assignment for any Bexar/San Antonio NEPA filing (if the city has filed beyond press-conference announcement)
-- [ ] Whether the Hurson ruling is expressly cited by case number in any subsequent AG filing (Mayes, Platkin)
+- [ ] Whether the Hurson ruling is expressly cited by case number in any subsequent AG filing (Mayes, Davenport)
 - [ ] Post-Mullin status of Williamsport: whether the 542 scale-back modified the construction scope or only the contractual number
 - [ ] Exact date when Bexar City Attorney Segovia's complaint was filed or formally announced
 
@@ -150,3 +150,7 @@ The "Surprise" RAMM article (May 7, 2026) documents the Mayes lawsuit and Roxbur
 - [[official-capacity-vs-operational-density]] — mechanism documenting the 542/1,500 dual-number pattern across all four cluster sites
 - [[warehouse-fungibility-and-the-detention-hedge]] — the procurement layer; NEPA litigation is the primary accountability check on top of the acquisition pattern
 - [[wexmac-titus-warehouse-census]] — full warehouse census; all 11 documented acquisitions share the same NEPA compliance gap
+
+**Correction, 2026-08-27 — New Jersey Attorney General.** This entry listed **Matthew Platkin** as an actor and named him in a research gap. Platkin left office on **2026-01-20**, three months before this entry's date; **Jennifer Davenport** is the 63rd Attorney General of New Jersey, serving under Gov. Mikie Sherrill. Corrected to Davenport in both places.
+
+**Not a corpus-wide defect — a succession boundary.** A synthesis pass flagged canon as inconsistent because some entries say Platkin and others Davenport. Checked all six: five are correct for their own dates. Entries dated **before 2026-01-20 should say Platkin**; entries on or after should say Davenport. Only this one was wrong. Future workers should not "fix" the Platkin references on earlier entries.
