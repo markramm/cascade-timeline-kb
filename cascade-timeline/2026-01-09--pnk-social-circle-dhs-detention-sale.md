@@ -70,7 +70,7 @@ capture_lanes:
 
 In early January 2026, a Delaware entity called PNK S1 LLC — a subsidiary of PNK Group, the Russian-founded industrial real-estate developer owned by Andrey Sharkov — sold a 1.2-million-square-foot warehouse at 1365 E. Hightower Trail in Social Circle, Walton County, Georgia, to the U.S. Department of Homeland Security for $128.5M (some sources report $128.6M). PNK had acquired the property from Walton Leaf LLC for $29,392,500 in 2023. The gross gain of ~$99M in under three years represents approximately a 4x return. The closing occurred within four days of bid to deed — an acceleration unprecedented for typical federal property acquisitions, which normally take months to a year.
 
-Social Circle's 5,500 residents learned their town had been selected as a mass-detention site through media reports *after* the deed was recorded. No public hearings, no local government consultation, no voter approval preceded the transaction. Industrial zoning originally drafted to attract warehouses became the legal pathway for a 10,000-bed detention facility. ICE projects 10,000 beds for the converted site — making Social Circle among the three largest immigration detention facilities in the country, on par with Tremont, PA ([[2026-01-29--blue-owl-tremont-dhs-detention-deed]] *needs entry*).
+Social Circle's 5,500 residents learned their town had been selected as a mass-detention site through media reports *after* the deed was recorded. No public hearings, no local government consultation, no voter approval preceded the transaction. Industrial zoning originally drafted to attract warehouses became the legal pathway for a 10,000-bed detention facility. ICE projects 10,000 beds for the converted site — making Social Circle among the three largest immigration detention facilities in the country, on par with Tremont, PA ([[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]]).
 
 ## Transaction Details
 
@@ -142,5 +142,5 @@ The Sharkov / Russian-origin / Monaco-residence background adds a foreign-nation
 - [[modcorr-llc]]
 - [[warehouse-fungibility-and-the-detention-hedge]]
 - [[2025-07-29--modcorr-leases-pnk-allenwood-modular-prison-factory]]
-- [[2026-01-29--blue-owl-tremont-dhs-detention-deed]] — *(needs entry — Blue Owl parallel)*
+- [[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]] — Blue Owl parallel (corrected 2026-08-27; entry already existed under this filename, the prior wikilink pointed at a nonexistent slug)
 - [[2026-04-21--blue-owl-system-ramm-published]] — *(needs entry — RAMM coverage)*
