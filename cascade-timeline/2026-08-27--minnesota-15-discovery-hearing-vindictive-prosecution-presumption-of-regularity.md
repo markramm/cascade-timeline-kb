@@ -120,9 +120,18 @@ interval as fact on this sourcing.**
 ## Why This Event Matters
 
 The corpus already holds this prosecution (`Metro Surge` appears across ~234 files; `Minnesota 15`
-across ~20). **What is new here is the doctrinal move**: a defense attempt to pierce the presumption of
-regularity on an institutional-pattern theory, plus the government's on-record concession that part of
-its stated investigative predicate is conduct it does not attribute to these defendants.
+across ~20). **What is new here is narrower than it first appeared, and the narrowing is the point.** The three
+named operations are already canon (see the corrected gap below) and **two pieces are already drafted
+from them** — "The Surveillance Started Before the Killings" (4,116 words, with Amy) and "A Federal
+Agent Investigated the Collection Basket". **This corpus is ahead of the general coverage on this
+story, not behind it.**
+
+**What is genuinely new is the doctrinal move**: a defense attempt to pierce the presumption of
+regularity on an **institutional-pattern** theory — that the DOJ forfeited it across cases, not through
+misconduct in this one — plus the government's on-record concession that part of its stated
+investigative predicate is conduct it does not attribute to these defendants. **Check the forfeiture
+argument against [[2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony]] before treating it
+as new; it may already be captured there.**
 
 **Structural parallel worth tracking, not asserting.** The Ypsilanti federal prosecution
 ([[2026-06-10--ypsilanti-raid-eight-defendant-federal-indictment-unsealed]]) shows the same shape —
@@ -135,8 +144,16 @@ moves is short. Claim the moves, not the movers.**
 
 - [ ] **Pull the docket.** Case number not in this reporting. D. Minn., indicted June 2026, Magistrate
       Judge David Schultz. **Cite by exact docket number, never by caption.**
-- [ ] **Operation Keyhole / Operation Puppet Master / Project Whipple Shield** — what each is. Named in
-      produced documents; scope not public. **The most valuable open thread here.**
+- [x] ~~**Operation Keyhole / Operation Puppet Master / Project Whipple Shield** — what each is.~~
+      **ALREADY ANSWERED IN CANON — corrected 2026-08-29.** I wrote this gap without checking, and it
+      was wrong. **Keyhole is a Certified Undercover Operation — the AUTHORIZATION layer; Puppet Master
+      is a case "accepted under CUC Op Keyhole."** Not three parallel operations but a hierarchy. See
+      [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]] (importance 10),
+      [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]], and
+      [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] (warrantless
+      administrative summonses under **customs** authority for union/nonprofit financial records, on a
+      "domestic terrorist financing" theory). **MPR's "not many details are available" describes the
+      public record, not this corpus** — the detail came from court filings we already worked.
 - [ ] **Verify Sant's Nov. 28 date** against the Metro Surge declaration date and the produced material.
 - [ ] **Read the September 2025 presidential memo** directly rather than through the characterization.
 - [ ] **The Illinois dismissal** — court, judge, docket, and the actual misconduct findings.
