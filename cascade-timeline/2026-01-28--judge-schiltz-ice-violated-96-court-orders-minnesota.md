@@ -65,3 +65,42 @@ U.S. District Court Chief Judge Patrick Schiltz, a George W. Bush appointee, iss
 The violations stemmed from ICE's practice of rapidly moving detainees to out-of-state detention centers and failing to return them to Minnesota for court-ordered bond hearings. In one case, the U.S. Attorney's office revealed it was taking ICE four days to return a detainee to Minnesota. When ICE missed a court-ordered deadline to hold a bond hearing or release Juan Hugo Tobay Robles, Schiltz scheduled a contempt hearing and ordered Acting ICE Director Todd Lyons to testify. ICE released the immigrant the day before the scheduled hearing, which Schiltz then cancelled.
 
 Schiltz warned: "ICE is not a law unto itself. ICE has every right to challenge the orders of this Court, but, like any litigant, ICE must follow those orders unless and until they are overturned or vacated." The judge noted the violations caused "significant hardship" to numerous detained aliens, "many of whom have lawfully lived and worked in the United States for years and done absolutely nothing wrong." DHS responded by attacking Schiltz as "just another activist judge who is clearly more concerned about politics than the safety of the Minnesotans." University of Minnesota expert Tim Johnson called the pattern of defiance "unprecedented."
+
+## CORRECTION — 2026-08-29. The DHS quote in this entry is NOT VERBATIM. Do not cite it as written.
+
+**This entry carries:** DHS called Schiltz *"just another activist judge who is clearly more concerned
+about politics than the safety of the Minnesotans."*
+
+**A primary-source fact-check pass (2026-08-29) fetched Fox 9's article — the cited source — and found
+a different statement.** The actual quote, from **DHS Assistant Secretary Tricia McLaughlin**, by name:
+
+> "Despite the diatribe from **this** activist judge... We will not be deterred by activists either in
+> the streets or on the bench."
+
+**"just another activist judge" is not what was said. The phrase "safety of the Minnesotans" does not
+appear in the source at all.** CNBC, also cited, separately notes ICE/DOJ did not respond to its
+requests for comment that day.
+
+**Use the McLaughlin quote, attributed to her by name and title.** It is stronger than the paraphrase
+it replaces — *"activists either in the streets or on the bench"* is the actual claim being made, and
+it says more than the invented version did.
+
+### How this propagated, which is the part worth learning from
+
+**A prior fact-check pass "CLEARED" this quote for a draft by checking it against THIS ENTRY.** The
+draft's own log reads: *"DHS's 'just another activist judge' quote. CLEARED against cascade-kb
+2026-01-28 event verbatim."*
+
+**That is the exact failure the standing rule exists to prevent: verify against sources, not the KB.**
+Checking a quote against our own note does not verify it — **it launders the error into a "verified"
+fact**, and here it did so across four artifacts and one published piece.
+
+**Corrected downstream (2026-08-29):**
+- `drafts/drafts/dhs-surveillance-integration-ai-inventory.md` — caught by the primary-source pass;
+  `readiness: revision-needed`
+- `drafts/drafts/crimes-against-humanity.md` — carries the SHORT form, *"just another activist judge."*
+  **Still not verbatim.** Flagged.
+- **`substack-published/2026-02-20--guards-compressed-his-neck-until.md` — PUBLISHED**, carrying the
+  short form: *"DHS responded by calling him 'just another activist judge.'"* **This is live and needs
+  Mark's decision.** The paraphrase is close to the sense of McLaughlin's actual words ("this activist
+  judge") but **it is inside quotation marks, and a quotation mark means verbatim.**
