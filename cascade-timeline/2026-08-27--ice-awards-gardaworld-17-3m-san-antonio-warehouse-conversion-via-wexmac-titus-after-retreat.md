@@ -107,9 +107,38 @@ shape as the 2017 DHS OIG § 1509 findings that CBP agreed to fix and the practi
 - [ ] **Read the award record directly** — obligated vs. potential value, competition status, the
       blank solicitation field, PSC/NAICS codes. **PSC/NAICS are the contracting officer's own
       classification and are the strongest evidence available on this beat.**
-- [ ] **Mullin's exact words on 2026-06-25.** *"No longer using"* is Saltbox's characterization.
-      **Get the hearing transcript.** The precise formulation decides whether this is a contradiction
-      or a carve-out.
+- [x] ~~**Mullin's exact words on 2026-06-25.**~~ **SEARCHED 2026-08-30 — NOT AVAILABLE. The
+      transcript is not published, and this is a documented absence rather than a failed search.**
+
+      **Method**: govinfo's API is the authoritative source for congressional hearing transcripts
+      (collection `CHRG`) and **it works from this environment with `DEMO_KEY`** — that is worth
+      recording on its own, since several other government hosts are blocked here.
+      - A `CHRG` search for `Mullin homeland security appropriations detention` returns **63 results**;
+        the Mullin hits are his **2026-03-18 nomination hearing**, not an appropriations hearing.
+      - A `CHRG` search for `"Homeland Security" appropriations 2027` returns **307 results** with **no
+        June 2026 DHS appropriations hearing.**
+      - **This is NOT merely publication lag.** The most recent 119th-Congress transcripts published
+        include **2026-06-30, 2026-07-14, 2026-07-15, 2026-07-29 and 2026-09-30** — so transcripts
+        from the same period and later ARE available. **A June 25 hearing transcript should be there
+        and is not.**
+
+      **What this means, stated precisely**: the transcript is **not in govinfo as of 2026-08-30.**
+      Hearing transcripts are often published months after the hearing and appear unevenly, so this
+      is **a not-yet-published finding, not evidence the hearing did not occur.**
+
+      **CONSEQUENCE FOR ANY PIECE: *"no longer using"* remains SALTBOX'S CHARACTERIZATION and must be
+      attributed to Saltbox — not quoted as Mullin's words.** The corpus has not seen him say it.
+      **Do not put quotation marks around "no longer using" and attribute them to the Secretary.**
+
+- [ ] **Remaining routes to the exact words**, in order of expected yield:
+      1. **The subcommittee's own video/webcast archive** — `appropriations.house.gov` returned HTTP
+         200 from here and hosts hearing video; a witness statement PDF may also be posted.
+      2. **Mullin's prepared written testimony**, usually posted the day of the hearing — **but note a
+         prepared statement is not the same as what he said in the exchange**, and the "no longer
+         using" line reads like an answer to a question, not prepared text.
+      3. **The Warren/Shaheen correspondence** that preceded it — senators' letters are published on
+         their own sites and often quote the testimony back.
+      4. **A CQ/Politico Pro transcript** if available.
 - [ ] **The GAO Fort Bliss review** — report number and findings.
 - [ ] **Whether Warren or Shaheen has responded** to the August award.
 - [ ] **The $313M DHS delivery order** (70CDCR26FR0000043) — larger and separate; what is it?
