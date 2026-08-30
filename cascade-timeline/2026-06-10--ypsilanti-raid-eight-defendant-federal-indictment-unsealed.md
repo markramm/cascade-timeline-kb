@@ -131,3 +131,70 @@ See [[ypsilanti-raid-participation-and-referral-um-police-armored-vehicle-nessel
 
 - [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] — the governing discipline for this entry
 - [[ypsilanti-raid-participation-and-referral-um-police-armored-vehicle-nessel-fbi-briefing]] — open questions
+
+## MLive reporting adds defendant-level detail — recorded 2026-08-30
+
+**Source**: MLive / Advance Local Express Desk, **"3 takeaways on FBI raid of pro-Palestinian
+vandalism arrests," 2026-06-13** (aggregating MLive's own original reporting). Tier 1.
+**Supplied by Mark; body read in full.**
+
+### Defendants who appeared in court 2026-06-10, with ages and cities
+
+**All four indicted 2026-05-20 and held pending unassigned detention hearings set for 1 p.m. Friday:**
+
+| Name | Age | City |
+|---|---|---|
+| **Colin Hunter Weger** | 24 | Ann Arbor |
+| **Jonathan Hongru Zou** | 22 | Ann Arbor |
+| **Paige Elizabeth Feyock** | 26 | Ann Arbor |
+| **Zainab Aliasgar Hakim** | 23 | Canton |
+
+**A fifth, Mariam Muhammed Odeh, 24, of Dearborn, was RELEASED on a $10,000 UNSECURED bond**,
+arraignment set for **2026-07-01**, E.D. Mich. **An unsecured bond requires no money up front — it is
+a promise to pay if the defendant fails to appear. Do not describe it as posting $10,000.**
+
+**A later MLive headline in the same cluster reports "4 released on bond after FBI raids" — so the
+detention posture CHANGED after 2026-06-10. Any piece must state the posture as of a date, not as a
+standing fact.**
+
+### Three facts new to this corpus
+
+1. **Six of the eight are current or former University of Michigan students**; a seventh **was a
+   researcher in 2023-24.** **This was not previously established here** and it is the sharpest
+   available fact about who was charged.
+2. **This was the SECOND FBI raid in Ypsilanti since 2025.** **The corpus holds NO entry for the
+   first one.** That is a documented gap — see research gaps below.
+3. **Odeh was a former staffer for U.S. Senate candidate Abdul El-Sayed**, who told MLive he **"had no
+   clue"** about her actions in the case. **El-Sayed appears in 24 corpus files; this connection is
+   new.** **Attribute the quote to him and do not extend it — a campaign's disavowal of a former
+   staffer is not evidence about the staffer.**
+
+### The raid tactics, and how to handle them
+
+MLive: the warrants were executed with **armored vehicles, flash-bang grenades, and heavily armed
+agents**, in a residential neighborhood. Residents describe a **"familiar sense of alarm."**
+
+**Federal officials defended the operations as necessary for safety and evidence preservation;
+critics argue the intensity was disproportionate to the alleged crimes. Report both — MLive does.**
+
+### Framing caution
+
+**MLive repeatedly characterizes the underlying conduct as "vandalism" and "property crimes."** This
+corpus has already established that **"property damage" is not a defensible summary** of what the
+indictment alleges — which includes a hit-list allegation, *"has to be neutralized,"* and jars thrown
+into homes with children present. **Those are untested allegations selected by the prosecution, and
+must be labeled as such. But adopting MLive's "property crimes" framing understates the charging
+document, just as adopting the prosecution's framing overstates the proof.** Neither is the piece's
+own voice.
+
+**None of the eight has been convicted of anything.**
+
+### Research gaps this opens
+
+- [ ] **THE FIRST YPSILANTI FBI RAID — no corpus entry exists.** MLive's linked piece
+      *"2nd FBI raid in Ypsilanti since 2025 sparks familiar sense of alarm"* is the pointer.
+      **Date, target, case, and whether it connects to this one. Highest-value gap here.**
+- [ ] **"Student group may have funded pro-Palestine vandalism"** — a separate MLive takeaways piece
+      on the indictment. **A funding allegation is a materially different claim; read it directly.**
+- [ ] **Current detention posture** — four were released on bond per a later MLive headline. **Get the
+      docket, not the headline.**
