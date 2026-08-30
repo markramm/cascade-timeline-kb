@@ -77,3 +77,32 @@ would be filed).
 tooling-limited negative, not an absence. A direct docket search after the cap resets is the
 fastest route. Full detail:
 [[research-california-city-permits-appeal-dignity-not-detention-strategy-2026-08-28]].
+
+## Sourcing flag RESOLVED, 2026-08-30
+
+The clause is confirmed. The suit is **Dignity Not Detention Coalition and John Doe v. City of
+California City** (CoreCivic, Inc. also a defendant), **E.D. Cal. No. 1:25-cv-01292-JLT-CDB**,
+Judge Jennifer L. Thurston. Docket:
+https://www.courtlistener.com/docket/71518011/dignity-not-detention-coalition-v-city-of-california-city/
+
+**"Federal" is right but incomplete — worth a wording fix.** The action began as a **Petition for
+Writ of Mandate in Kern County Superior Court** (case BCV-25-103365), filed 2025-10-01, then
+**removed to federal court the same day** by the defendants (28 U.S.C. § 1441). So it is a federal
+lawsuit now, by removal — not one that originated there. Suggest revising the clause to: "a lawsuit
+over whether the facility opened without proper local permits, filed in Kern County Superior Court
+in October 2025 and removed to federal court, remains pending (E.D. Cal. 1:25-cv-01292)."
+
+**Status, not "pending" in the simple sense.** DNDC's request for a TRO was **denied** by Judge
+Thurston on 2025-11-07 (Doc. #33). The case did not close — it continued, and DNDC itself moved to
+**remand it back to state court** in June 2026 (Doc. #63, filed by Grisel Ruiz among others). The
+docket remains open (no termination date) with unread activity as recently as 2026-08-27, one day
+after the City Council's separate 4-1 denial of DNDC's administrative appeals. Whether that Aug 27
+filing responds to the Council vote is not yet known — its content hasn't been retrieved.
+
+**This 2025-10-01 suit and the 2026 administrative appeals (Planning Commission July 7, City
+Council Aug 26) are two different, sequential proceedings arguing the same CUP-vs-correctional-use
+theory, not the same action.** No source found cites one within the other.
+
+Full detail, full docket chronology, and remaining gaps (notably: the substantive text of the TRO
+denial, which may already contain a merits ruling on the CUP theory, has not been retrieved):
+[[track-california-city-pending-lawsuit-dignity-not-detention-strategy]].
