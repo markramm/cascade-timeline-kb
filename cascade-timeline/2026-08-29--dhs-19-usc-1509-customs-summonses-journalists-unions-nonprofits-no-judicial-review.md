@@ -181,8 +181,10 @@ accountability-mechanism story** — and it is checkable against the report itse
       RECAP is a mirror of what people have fetched, not a register of what exists.
 - [ ] **The NYT February 2026 "hundreds of administrative subpoenas" report** — read it directly and
       establish whether it counts § 1509 specifically or a broader category.
-- [ ] **The Philadelphia-suburbs Meta case and the Reddit case** — dockets, and whether either
-      produced any ruling before withdrawal.
+- [ ] **The MontCo Community Watch docket** — the REAL § 1509 Philadelphia-suburbs case (EFF tracker,
+      ACLU-PA case page). **Subpoenaed 2025-09-11, withdrawn after a hearing 2026-01-16** — note the
+      Guardian's "January 2025" is a YEAR off; it is **January 2026**. Docket not yet located.
+- [ ] **The Reddit case** — docket, and whether it produced any ruling before withdrawal.
 
 ## WHAT THIS CORPUS ALREADY HELD — read before drafting, we are ahead of the Guardian on three points
 
@@ -206,9 +208,34 @@ not 8 U.S.C. § 1225(d)(4) immigration authority, not an IRS-style summons, not 
 carries a **conductor correction dated 2026-08-20** establishing this, and it is the more precise
 claim:
 
-- The **Doe/LBRRN** account-holder — the Philadelphia-suburbs ICE-monitoring account the Guardian
-  mentions — **could and did move to quash**: DHS's subpoena to Meta was dated **2025-09-03**; the
-  motion followed **2025-09-19**, sixteen days later.
+- The **Doe/LBRRN** account-holder **could and did move to quash**: DHS's subpoena to Meta was dated
+  **2025-09-03**; the motion followed **2025-09-19**, sixteen days later.
+
+  **CORRECTION 2026-08-30 — the conductor's error, caught by the § 1509 fact-check.** I originally
+  wrote that Doe/LBRRN *was* "the Philadelphia-suburbs ICE-monitoring account the Guardian mentions."
+  **It is not, and it is not even a § 1509 case.** A checker pulled the actual motion-to-quash PDF
+  from RECAP, docket **3:25-mc-80288 (N.D. Cal.)**: it invokes **8 U.S.C. § 1225(d)** throughout,
+  **never mentions § 1509 or the Tariff Act in 27 pages**, and its fact pattern is **Long Beach,
+  California** — **LBRRN = Long Beach Rapid Response Network**, centred on an "Officer Simeon"
+  incident.
+
+  **The source note I drew from says "8 U.S.C. § 1225(d) / 19 U.S.C. § 1509" — naming BOTH authorities
+  — and never says Philadelphia. I resolved that ambiguity in the wrong direction and added a
+  geography that was not in the source.** Two failures at once: **collapsing two statutes into one**,
+  and **inferring a location.**
+
+  **Why it matters beyond the geography**: § 1225(d) is *immigration* authority — **precisely what
+  the § 1509 forms do NOT cite.** So using this docket as the § 1509 comparison case argues against
+  the very distinction the thread rests on.
+
+  **A real § 1509 Philadelphia-suburbs case does exist** — "MontCo Community Watch," per EFF's
+  tracker and ACLU-PA's case page — **but its docket number was not located** (search rate limit;
+  recorded as an access blocker, not an absence). **Do not cite a docket for it until one is
+  obtained.**
+
+  **The notice-not-standing MECHANISM still holds** — a party who learns of a summons in time can
+  move to quash; one who does not, cannot. **But Doe/LBRRN illustrates it under § 1225(d), not
+  § 1509, and any piece using it must say so.**
 - The **Whipple Shield unions did not** — **not because they lacked standing**, which they doctrinally
   likely had, **but because nothing in the record notified them in time relative to compliance.**
 
