@@ -179,13 +179,42 @@ critics argue the intensity was disproportionate to the alleged crimes. Report b
 
 ### Framing caution
 
-**MLive repeatedly characterizes the underlying conduct as "vandalism" and "property crimes."** This
-corpus has already established that **"property damage" is not a defensible summary** of what the
-indictment alleges — which includes a hit-list allegation, *"has to be neutralized,"* and jars thrown
-into homes with children present. **Those are untested allegations selected by the prosecution, and
-must be labeled as such. But adopting MLive's "property crimes" framing understates the charging
-document, just as adopting the prosecution's framing overstates the proof.** Neither is the piece's
-own voice.
+**CORRECTED 2026-08-30 — Mark is right and my earlier instruction was wrong.**
+
+I had written that MLive's "vandalism / property crimes" framing **understates** the charging
+document. **Checking the indictment's own contents, it does not.**
+
+**What is actually charged** (18 U.S.C. §§ 371, 875(c)-adjacent threat counts, **1512(b)** witness
+tampering, **2232(a)** destruction of property to prevent seizure):
+- **Conspiracy to transmit a threat** — up to 5 years
+- **Conspiracy to tamper with a witness** — up to 20 years
+- **Destruction of property to prevent seizure** — Sepulveda alone, up to 5 years
+
+**What is NOT charged, and what is NOT alleged anywhere in the 63 pages:** searched for `injured`,
+`injury`, `hospitaliz*`, `assault`, `bodily`, `harmed` — **zero occurrences.** **No count alleges
+that any person was physically harmed. There is no assault count. There is no injury count.**
+
+**The physical conduct alleged is property conduct**: spray paint, inverted triangles, red
+handprints, caulked doors, bike-locked entryways, broken windows, and **jars containing an
+unspecified "blue substance and food compost"** thrown through a window — one of which **"landed in a
+bedroom"** (¶ 66). **"Butyric acid" appears in DOJ's press release, not as a charged element.**
+
+**So the honest characterization is: alleged property crimes plus alleged THREATS and alleged witness
+tampering.** The threat and tampering counts are real, they carry the serious penalty exposure (20
+years), and they are what makes this more than a vandalism case — **but they are charges about
+SPEECH AND OBSTRUCTION, not about injury to a person.**
+
+**MLive's "property crimes" frame is reasonable for the physical conduct. It is incomplete only in
+omitting the threat and tampering counts** — which is a different criticism from "it understates the
+violence," and the earlier version of this note made the wrong one.
+
+**The prosecution's selected quotes** — the hit-list line, *"has to be neutralized,"* the poisoning
+and burning messages — **are allegations about what defendants SAID, offered to prove intent. They
+are untested, they are prosecution-selected, and no count alleges any of it was carried out against a
+person.** Label them as charged allegations about statements. **Do not let them stand in for injury
+that is not alleged.**
+
+**None of the eight has been convicted of anything.**
 
 **None of the eight has been convicted of anything.**
 
