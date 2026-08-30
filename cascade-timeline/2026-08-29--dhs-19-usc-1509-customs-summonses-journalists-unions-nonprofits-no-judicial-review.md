@@ -184,6 +184,67 @@ accountability-mechanism story** — and it is checkable against the report itse
 - [ ] **The Philadelphia-suburbs Meta case and the Reddit case** — dockets, and whether either
       produced any ruling before withdrawal.
 
+## WHAT THIS CORPUS ALREADY HELD — read before drafting, we are ahead of the Guardian on three points
+
+Checked 2026-08-30. **The Guardian is not the origin of this thread here; it is national corroboration
+of a mechanism this corpus documented from primary sources first.** Three things we hold that the
+Guardian does not:
+
+**1. THE SUMMONS FORMS THEMSELVES, quoted verbatim from the document.**
+[[2026-08-28-whipple-shield-verified-from-summons-forms]] — **HSI Form 3115** states its own authority
+in plain text:
+
+> *"Issued under authority of section 509, Tariff Act of 1930, as amended by Pub. L. No. 95-410
+> (19 U.S.C. § 1509); 44 F.R. 2217; Homeland Security Act of 2002."*
+
+**We read the instrument; the Guardian describes it.** That entry also establishes what it is **not** —
+not 8 U.S.C. § 1225(d)(4) immigration authority, not an IRS-style summons, not a grand jury subpoena.
+**Cite the form, not the newspaper, for what the authority is.**
+
+**2. A SHARPER MECHANISM THAN "NO JUDICIAL OVERSIGHT": THE ASYMMETRY IS NOTICE, NOT STANDING.**
+[[standing-to-resist-an-administrative-subpoena-why-unions-did-not-move-to-quash-when-doe-plaintiffs-did]]
+carries a **conductor correction dated 2026-08-20** establishing this, and it is the more precise
+claim:
+
+- The **Doe/LBRRN** account-holder — the Philadelphia-suburbs ICE-monitoring account the Guardian
+  mentions — **could and did move to quash**: DHS's subpoena to Meta was dated **2025-09-03**; the
+  motion followed **2025-09-19**, sixteen days later.
+- The **Whipple Shield unions did not** — **not because they lacked standing**, which they doctrinally
+  likely had, **but because nothing in the record notified them in time relative to compliance.**
+
+**"No judge in the loop" is true but incomplete. The operative variable is WHO FOUND OUT, AND WHEN,
+RELATIVE TO COMPLIANCE.** A challengeable summons that nobody learns about is unchallenged, not
+unchallengeable. **The note explicitly requires distinguishing CANNOT from DID NOT — do not write
+"the unions couldn't fight it."**
+
+**3. THE AGGREGATE THAT SIZES THE PATTERN.**
+[[litigation-surface-search-strategy-and-the-wider-pattern]], citing **Just Security's tracker
+(2026-07-20)**: **550+ § 111 charges** nationally against people connected to protests or immigration
+enforcement · **at least 213** dismissed, dropped, or acquitted · **at least 16 grand jury subpoenas
+blocked or withdrawn, 12 of them to perceived political opponents** · and grand-jury **"no bills,"**
+which the tracker calls *"almost unheard of for most career federal prosecutors."*
+
+**That aggregate is the denominator the Guardian piece lacks** — it says the scale is unknowable, and
+for § 1509 specifically that is right, but the adjacent § 111 record is measured.
+
+### What the Guardian genuinely ADDS
+
+- **The evasion sequence in one case**: warrant refused twice by a judge → withdrawn → § 1509 summons
+  for the same data weeks later. **That is new and it is the strongest single fact on the thread.**
+- **T-Mobile complied**; Google refused. **A named telecom handing over 10,000+ call and text records
+  on a journalist is new.**
+- **Two former DHS insiders on the record** — a former DHS lawyer and the **2014-17 DHS Inspector
+  General** — calling it improper. **Insider attribution this thread did not previously have.**
+- **The 2017 OIG report** and its agreed reforms — see
+  [[pull-2017-dhs-oig-report-1509-summons-misuse-and-the-agreed-reforms]].
+- **The recipient breadth**: Democracy Now, Megyn Kelly, Milwaukee Journal-Sentinel, Brendan
+  Gutenschwager.
+
+**Drafting note.** The corpus rule is that our edge is holding the whole sequence when other outlets
+hold single incidents ([[feedback_prior_coverage_is_not_a_fence]]). **This is that case exactly:
+Levine has the national frame; we have the form, the notice mechanism, the union case, and the
+§ 111 denominator. Acknowledge and credit the Guardian, then assemble what only this corpus can.**
+
 ## Related Entries
 
 - [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
