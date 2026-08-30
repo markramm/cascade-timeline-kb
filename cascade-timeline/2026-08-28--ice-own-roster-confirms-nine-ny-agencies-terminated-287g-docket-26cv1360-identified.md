@@ -87,3 +87,46 @@ This extends [[2026-08-27--ny-287g-compliance-deadline-passes-state-sues-renssel
 - Nassau County's compliance status is still not sourced to a primary Nassau County document or statement; ICE's own August 25 roster showing both Nassau agreements still listed is now in tension with secondary reporting that Blakeman announced compliance August 26 — the two are not necessarily contradictory (a one-day-later termination is plausible) but neither has been directly confirmed against a Nassau County primary source or an updated ICE roster snapshot.
 - No post-August-25 confirmation was sought this pass for whether Rensselaer's mandamus proceeding (People v. Bourgault) has produced any court order; the complaint was filed August 27 and Index No. was UNASSIGNED as of the document reviewed.
 - The 287(g) model for the four small agencies (Otsego, Mohawk Village PD, Camden PD, Allegany Village PD) could not be determined, since none appears on ICE's current roster at all (a terminated agreement's model isn't visible from a roster that only lists currently active MOAs); the AG's original July 24 termination-letter PDF may specify model per-agency and was not re-checked this pass for that detail.
+
+---
+
+## CORRECTION, 2026-08-30 — the docket number is right; the case name and the subject matter are not
+
+This entry ended by saying the docket number was "sourced to the state's pleading pending a direct
+pull once CourtListener's cap resets." **The cap reset, the direct pull happened, and it came back
+different in two ways.** That caveat did its job — this is what it was for.
+
+**Verified directly against CourtListener, 2026-08-30:**
+
+1. **The case is *United States v. Russo*, not *United States v. State of New York*.** N.D.N.Y.
+   1:26-cv-01360, docketed 2026-07-13 on transfer from W.D.N.Y. (original 1:26-cv-01283, filed
+   2026-06-22). Defendant Michael Russo was dismissed 2026-07-10 but **the caption never updated**,
+   which is why a party citing the case by name can be both accurate as to number and wrong as to
+   caption.
+
+2. **The Aug 3 order (ECF 53) adjudicates New York's Face Covering Act / Identification Act — NOT
+   the Local Cops, Local Crimes Act's 287(g) ban.** This is the material error. The state's
+   complaint at ¶35 describes it as "a recent challenge to the Local Cops, Local Crimes Act's ban
+   on 287(g) agreements." **That characterization is the Assistant AG's, and it does not match the
+   order.** Whether an actual 287(g) challenge exists is now an OPEN question; docket
+   **1:26-cv-01281, State of New York v. DOJ** is a plausible home for one and could not be read
+   (AWS WAF blocked every attempt).
+
+**What this changes about sourcing discipline.** The original source was strong by every normal
+test — an attorney's citation, under signed verification, in a NYSCEF-stamped filing. It was still
+wrong about what the cited order decided. **A party's own filing is authoritative for what that
+party alleges, and not authoritative for what a different court's docket says.** Signed verification
+attests to good faith, not to accuracy about a third document.
+
+**The number alone is not an identifier.** Reproduced this pass: querying the bare string
+`1:26-cv-01360` returns **four unrelated cases in four districts** (C.D. Ill., E.D.N.Y., S.D. Ind.,
+N.D.N.Y.). Docket numbers are unique only *within* a district. Cite number + court, then confirm the
+filing date and the parties before use.
+
+**The caption decoy documented in this entry is now confirmed a third time.** A fourth was ruled out
+by reading rather than by caption: 1:26-cv-01527 is an unrelated SUNY/CUNY financial-aid case.
+
+**Everything else in this entry stands** — the ICE roster parse, the nine-of-twelve termination
+count, and *Bourgault v. Hochul* (1:26-cv-01637), which was verified cleanly and directly from the
+docket. Superseding entry:
+[[2026-08-29--ny-287g-docket-verified-united-states-v-russo-nassau-still-on-ice-roster]].
