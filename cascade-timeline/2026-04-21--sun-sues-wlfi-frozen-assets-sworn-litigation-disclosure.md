@@ -125,3 +125,35 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 - [[investigation-map-april-2026]]
 
 **Note on the sibling event**: World Liberty Financial's May 5, 2026 defamation countersuit against Sun (per task `write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) is a **separate filing with its own docket, its own allegations (short-selling, a "scorched-earth pressure campaign"), and its own sworn claims** — genuinely severable from this entry. It is documented as its own timeline event, not folded into this one; the countersuit task remains open for a separate worker.
+
+---
+
+**Conductor QC, 2026-08-31.** **Docket independently re-verified** via a separate CourtListener v4
+query: **`Sun v. World Liberty Financial LLC` | court `cand` | filed 2026-04-21`** — court, party,
+and filing date all match.
+
+**And the verification surfaced exactly the trap that makes case-number discipline necessary.** The
+same query returned **three different cases sharing the number `3:26-cv-03360`**: this one in
+`cand`, *Mursalov v. Field Office Director, ICE San Diego* in `casd` (filed 2026-06-02), and
+*LUCE v. PFIZER INC* in `flnd` (filed 2026-04-03). **A case number is only unique within its
+district.** Any citation to this docket must carry **N.D. Cal.** — a bare "3:26-cv-03360" points at
+three unrelated matters, one of them an ICE detention case that would look plausible in this corpus.
+
+**The allegation framing is right throughout** — twelve separate hedges in the body, and the opening
+paragraph states it flatly: *"Everything below attributed to 'the complaint' or 'Sun alleges' is one
+party's sworn pleading, not an adjudicated fact."* **A verified complaint attests to the filer's
+good faith, not to the accuracy of its claims about anyone else.** That matters most for the named
+allegation against **Chase Herro**, which is written strictly as Sun's unproven assertion.
+
+**The figure conflict was flagged, not resolved — correct.** The complaint's own **$45 million**
+differs from the **$75 million** cumulative figure used elsewhere in this KB's Sun coverage. They
+trace to different documents (the April 2026 complaint vs. earlier reporting on cumulative
+position). **Not interchangeable, and not silently merged.**
+
+**Correctly kept separate from the May 5 countersuit** — a genuinely severable filing with its own
+docket. The sibling ticket remains open and cross-referenced rather than absorbed.
+
+**Sourcing note**: CourtListener hit its shared throttle (~7.5-hour message) *after* the primary
+docket was captured, and web tiers were rate-limited fleet-wide. Two tier-1 sources stand, one of
+them **the court record itself** — which independently corroborates the filing the secondary source
+describes, rather than restating it.
