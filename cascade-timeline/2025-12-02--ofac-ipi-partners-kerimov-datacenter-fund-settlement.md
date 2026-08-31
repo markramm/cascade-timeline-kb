@@ -65,3 +65,31 @@ OFAC found the violations non-egregious and not voluntarily self-disclosed; aggr
 **Corpus connection — not identical to the Beale Infrastructure chain, but adjacent**: IPI Partners was acquired by **Blue Owl Capital** in a deal announced October 7, 2024 and closed January 6, 2025 — after the sanctioned-investment conduct in this settlement (2017–2022) but the same corporate lineage that later produced **Beale Infrastructure**, Blue Owl's AI-datacenter development platform (De Soto, KS campus; see `beale-infrastructure.md`). The settlement does not establish that Kerimov's capital touched any specific named property later folded into Beale or any other post-acquisition Blue Owl datacenter asset — IPI Fund I (the vehicle Kerimov/Definition invested in) is not shown in available sources to be the same vehicle behind Beale's De Soto project. This is a real, primary-source-confirmed instance of sanctioned Russian oligarch capital sitting inside a US datacenter private-equity fund for four years past designation — the first such instance found in this investigation beyond the PNK/Sharkov thread — but it predates and is corporately distinct from the Blue Owl/Beale AI-buildout entity that inherited IPI's brand and platform.
 
 See also: [[task-inv6-russian-capital-us-datacenter-realestate-hunt]] (the research ticket that surfaced this), `sharkov-andrey.md` (the PNK/Sharkov anchor case this ticket radiated from), `beale-infrastructure.md` (the Blue Owl/IPI-descended AI-datacenter developer), `musk-elon.md` (Heritage Trust's separate SpaceX stake).
+
+
+---
+
+**Conductor verification, 2026-08-31 — the OFAC release was pulled and read directly.** Every element
+of this entry checks out against Treasury's own enforcement release
+(`ofac.treasury.gov/media/934786`, HTTP 200, PDF read in full):
+
+- **$11,485,352** settlement · **December 2, 2025** · IPI Partners, LLC, "a Chicago-based private
+  equity firm that specializes in buying, developing, and operating data centers."
+- **Suleiman Kerimov**, designated **April 6, 2018**; IPI "continued to maintain those investments
+  for four years after" designation.
+- **Definition Services, Inc.** (BVI) signed a subscription **2017-09-28** for **$25 million**, then
+  **a second $25 million** commitment — the release's own words: *"For the entire investment
+  commitment in the IPI Fund, totaling $50 million."* **The $50M figure is correct**, and it is a
+  **commitment**, not a capital call or an outlay.
+- **Heritage Trust** — the release calls it *"a Delaware-based Kerimov family trust"* holding
+  **~$1.3 billion** when OFAC issued a Notification of Blocked Property.
+
+**Two figure types worth keeping distinct** (added by the conductor): the **base civil monetary
+penalty was $14,356,690**; the **settlement of $11,485,352** reflects OFAC's General Factors
+mitigation. A settlement is not a penalty schedule amount, and neither is a measure of the money
+involved — which was the $50M commitment.
+
+**The Blue Owl / Beale caveat above is correctly constructed and should not be softened.** It names
+the corporate lineage and then explicitly refuses the inference — twice — that Kerimov capital
+touched De Soto. The acquisition (announced 2024-10-07, closed 2025-01-06) **postdates the sanctioned
+conduct (2017-2022)**, and no source ties IPI Fund I to the Beale vehicle. Adjacency is not identity.
