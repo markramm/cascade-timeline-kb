@@ -64,9 +64,17 @@ U.S. District Court Chief Judge Patrick Schiltz, a George W. Bush appointee, iss
 
 The violations stemmed from ICE's practice of rapidly moving detainees to out-of-state detention centers and failing to return them to Minnesota for court-ordered bond hearings. In one case, the U.S. Attorney's office revealed it was taking ICE four days to return a detainee to Minnesota. When ICE missed a court-ordered deadline to hold a bond hearing or release Juan Hugo Tobay Robles, Schiltz scheduled a contempt hearing and ordered Acting ICE Director Todd Lyons to testify. ICE released the immigrant the day before the scheduled hearing, which Schiltz then cancelled.
 
-Schiltz warned: "ICE is not a law unto itself. ICE has every right to challenge the orders of this Court, but, like any litigant, ICE must follow those orders unless and until they are overturned or vacated." The judge noted the violations caused "significant hardship" to numerous detained aliens, "many of whom have lawfully lived and worked in the United States for years and done absolutely nothing wrong." DHS responded by attacking Schiltz as "just another activist judge who is clearly more concerned about politics than the safety of the Minnesotans." University of Minnesota expert Tim Johnson called the pattern of defiance "unprecedented."
+Schiltz warned: "ICE is not a law unto itself. ICE has every right to challenge the orders of this Court, but, like any litigant, ICE must follow those orders unless and until they are overturned or vacated." The judge noted the violations caused "significant hardship" to numerous detained aliens, "many of whom have lawfully lived and worked in the United States for years and done absolutely nothing wrong." DHS responded by attacking Schiltz through Assistant Secretary Tricia McLaughlin, who dismissed "the diatribe from this activist judge" and said the department "will not be deterred by activists either in the streets or on the bench." [Corrected 2026-08-31 — see the CORRECTION section below; the previously-carried "just another activist judge who is clearly more concerned about politics than the safety of the Minnesotans" is NOT what was said.] University of Minnesota expert Tim Johnson called the pattern of defiance "unprecedented."
 
-## CORRECTION — 2026-08-29. The DHS quote in this entry is NOT VERBATIM. Do not cite it as written.
+## CORRECTION — 2026-08-29, body text repaired 2026-08-31. The DHS quote originally carried here was NOT VERBATIM.
+
+**2026-08-31 update:** the correction below was written 2026-08-29 and was accurate and thorough — but
+it was appended while **the body text above still asserted the fabricated quote.** For two days this
+entry stated the wrong quote in its narrative and disclaimed it in an appendix. Anything reading the
+body first — a person skimming, a grep, a worker pulling context — got the error.
+
+**The body is now corrected in place.** A correction notice below the error does not fix the error;
+it only documents it. **Fix the assertion, then keep the notice as the record.**
 
 **This entry carries:** DHS called Schiltz *"just another activist judge who is clearly more concerned
 about politics than the safety of the Minnesotans."*
