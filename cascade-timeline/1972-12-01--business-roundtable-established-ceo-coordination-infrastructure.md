@@ -22,6 +22,12 @@ capture_lanes:
 - Corporate Capture
 - Executive Power Expansion
 sources:
+- title: Business Roundtable official "About Us" page (organization's own primary statement — inaugural chair name/term)
+  url: https://www.businessroundtable.org/about-us
+  outlet: Business Roundtable (self-published)
+  date: '2026-08-31'
+  tier: 1
+  verified: true
 - title: Business Roundtable - Wikipedia
   url: https://en.wikipedia.org/wiki/Business_Roundtable
   outlet: Wikipedia
@@ -40,7 +46,12 @@ sources:
   date: '2022-05-01'
   verified: true
   tier: 2
-notes: The Roundtable was formed through merger of three organizations - the March Group, Construction Users Anti-Inflation Roundtable, and Labor Law Study Committee. Treasury Secretary Connally and Federal Reserve Chair Burns urged GE's Jones and Alcoa's Harper to create a high-level CEO organization to collaborate with government. Unlike the Chamber of Commerce, BRT members are exclusively CEOs, enabling direct coordination.
+- title: Business Roundtable Organizational Profile (contradicts Wikipedia on merger sequence — see Research Notes)
+  url: https://www.influencewatch.org/organization/business-roundtable/
+  outlet: InfluenceWatch
+  date: '2020-04-08'
+  tier: 2
+notes: 'The Roundtable was formed through merger of three organizations - the March Group, Construction Users Anti-Inflation Roundtable, and Labor Law Study Committee. Treasury Secretary Connally and Federal Reserve Chair Burns urged GE''s Jones and Alcoa''s Harper to create a high-level CEO organization to collaborate with government. Unlike the Chamber of Commerce, BRT members are exclusively CEOs, enabling direct coordination. UPGRADE PASS FINDING: Business Roundtable''s own "About Us" page (self-published, Tier-1 as an organizational primary statement) confirms "Since 1972" and names W.B. Murphy of Campbell Soup as inaugural chair, term October 1, 1972 – June 1, 1973 — a specific, previously undocumented detail. It does NOT independently corroborate this entry''s December 1, 1972 date, the March Group/CUAIR/LLSC merger, or the Connally/Burns/Jones/Harper actors (its founding-history sub-page renders via JavaScript and returned no text content to available fetch tools — a genuine access blocker, not a negative finding). Two Tier-2 secondary accounts DISAGREE on the merger mechanics: Wikipedia gives a single-event merger of all three predecessor bodies on October 13, 1972, naming Alcoa''s John D. Harper and GE''s Fred Borch (not Reginald Jones, who succeeded Borch as GE chairman in 1972-73) as March Group co-founders; InfluenceWatch gives a two-stage sequence (CUAIR + Labor Law Study Committee merge in 1972, March Group joins in 1973) and does not name individuals. Both cite the same BRT "About Us" page as their source, which could not be independently rendered in this pass to adjudicate between them. This entry''s December 1, 1972 date and its Jones/Harper/Connally/Burns actor list should be treated as UNVERIFIED pending either a rendered copy of BRT''s own history page or contemporaneous 1972 news coverage (New York Times archive access blocked by DataDome bot-detection; Washington Post archive 403s) — see task work log.'
 status: confirmed
 ---
 
