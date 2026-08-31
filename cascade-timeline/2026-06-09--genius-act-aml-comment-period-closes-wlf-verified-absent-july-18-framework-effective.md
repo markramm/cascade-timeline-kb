@@ -106,7 +106,23 @@ This extends and closes the verified-absence monitoring track from: `genius-act-
 | International Bancshares Corporation | April 27, 2026 | Filed with attachment; Mexico-US border corridor bank; substantive position not yet extracted | 1 |
 | Coinbax Inc. | April 22, 2026 | Position not fully extracted | 2 |
 
-**Post-closure enumeration update (June 10, 2026)**: Regulations.gov metadata indicates approximately **338 comments** received at docket close — substantially higher than the ~36 pre-closure industry-tracker figure, consistent with a significant final-sprint surge in the June 3–9 window. Direct portal access remains 403-blocked; 338 figure sourced from web-search metadata, not authenticated docket pull.
+**SUPERSEDED — authenticated pull, 2026-08-31.** An `api.regulations.gov` enumeration (DEMO_KEY,
+which worked this session where prior sessions hit 403) returned **78 comments** for this docket —
+**not 338**. The 338 figure below was explicitly self-flagged as "sourced from web-search metadata,
+not authenticated docket pull," and that caveat proved correct.
+
+**Provenance of each figure, so nobody re-swaps them blindly:**
+- **36** — pre-closure industry-tracker figure, secondary.
+- **338** — web-search metadata, unauthenticated. **Retired.**
+- **78** — authenticated `api.regulations.gov` enumeration, 2026-08-31, by a single pass.
+  **This conductor could NOT independently re-confirm it**: a verification attempt the same day
+  returned **HTTP 429**, the API rate-limited (plausibly by that pass's own enumeration). So 78 is
+  the best-sourced figure on record and rests on **one** authenticated pull, not two.
+
+**Do not cite 338.** Cite 78 with its as-of date, or re-run the enumeration when the rate limit
+clears and upgrade the provenance.
+
+~~**Post-closure enumeration update (June 10, 2026)**: Regulations.gov metadata indicates approximately **338 comments** received at docket close — substantially higher than the ~36 pre-closure industry-tracker figure, consistent with a significant final-sprint surge in the June 3–9 window. Direct portal access remains 403-blocked; 338 figure sourced from web-search metadata, not authenticated docket pull.
 
 **Confirmed final-sprint filers (June 9, 2026)** — documented from public web sources:
 
