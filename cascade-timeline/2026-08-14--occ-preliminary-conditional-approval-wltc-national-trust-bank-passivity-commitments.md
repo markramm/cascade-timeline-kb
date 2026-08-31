@@ -94,3 +94,16 @@ Function, not intent: whatever the OCC's supervisory rationale, the conversion t
 - [[2026-02-09--ncrc-afref-comment-letters-wltc-charter]]
 - [[2026-04-01--occ-12-cfr-5-20-amendment-trust-bank-chartering-rule-effective]]
 - [[2026-08-17--treasury-genius-act-section-3-stablecoin-nprm-criminal-penalties]]
+
+
+**Date correction, 2026-08-31 — the OCC document carries TWO dates for the same instrument.** A
+research pass found that Corporate Decision #1385 states the passivity commitments were made "in a
+letter dated **July 13, 2026**" (in the Regulation W / asset-purchase discussion) while its Conclusion
+relies on "the passivity commitments dated **June 13, 2026**, which are attached as an exhibit."
+**Both appear verbatim in the primary document, in different sections. This is an internal
+inconsistency in the OCC's own text, not a transcription error on either side, and it is unresolved
+by anything in the document.** Cite it as such — do not silently pick one. (This conductor initially
+wrote June 13 as settled; a literal-string grep for "June 13, 2026" returns zero on extracted text
+because a line break falls between "13," and "2026" — the whitespace-normalized text carries both.)
+The document also spells the entity both "StringZ Holding RSC (DE) LLC" (3×) and "StringZ Holdings
+RSC (DE) LLC" (1×).
