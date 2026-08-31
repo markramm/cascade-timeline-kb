@@ -20,8 +20,6 @@ actors:
 - Marco Rubio
 - Donald Trump
 - Timothy Dolan
-- Sean Feucht
-- Mark Driscoll
 - White House
 tags:
 - christian-nationalism
@@ -77,3 +75,60 @@ Crowd figures diverge by source type: Daily Citizen (organizer-aligned) reported
 Freedom 250 does not appear as its own entity in the IRS Exempt Organizations Business Master File (ProPublica Nonprofit Explorer API, queried 2026-08-31) — its funding and legal structure remain undocumented in public nonprofit-registry records, distinguishing it from "America250 Org Inc" (EIN 84-2144791), the separate congressionally-chartered semiquincentennial commission.
 
 **Cross-track read**: the event's documented cross-track convergence is a Catholic bishop's in-person keynote sharing an official program with named NAR/apostolic figures (Sheets, Engle, Maldonado) and a Jewish rabbi's reflection — a broader and more specific convergence than "Hegseth and Barron," since Hegseth never appeared in person. The administration figures' participation via pre-recorded video, rather than physical co-presence, is itself a documentable pattern: it achieves public coalition-signaling without the security, logistics, and optics exposure of shared physical space — worth tracking as a recurring move in future coalition-event entries, not asserted here as unique to this event.
+
+---
+
+## Conductor QC, 2026-08-31
+
+**Absorbed with two small fixes; the pass itself is a model of the disciplines this corpus keeps
+writing down.**
+
+**Fix 1 — removed Sean Feucht and Mark Driscoll from `actors:`.** The body correctly establishes they
+were **never on the program** — organizers told The Roys Report "we did not invite him to Rededicate
+250, and he is not speaking at our event." But `actors:` is what an entity-index query returns, so
+listing them there would surface both as participants in an event they did not attend. **Their role
+is a documented non-appearance, and the body is the right place for it.** They remain fully covered
+below, including Driscoll's own ministry's claim of an invitation and the organizers' verbatim denial.
+
+**Fix 2 — added the cross-links this entry had none of** (see Related Entries).
+
+### What this pass got right, worth naming
+
+- **The title itself carries the finding**: "Barron keynote in person, Hegseth/Vance/Rubio/Trump by
+  video." The ticket's premise was a Hegseth–Barron shared stage. **It never happened**; every
+  administration figure appeared by pre-recorded video only.
+- **The crowd figure names who counted**: organizer-aligned Daily Citizen "hundreds of thousands" vs.
+  six independent outlets converging on "thousands," with the organizer source explicitly labeled
+  non-neutral and no NPS methodology located for either.
+- **The permit gap is stated as an access-mechanism gap, not an absence** — `ncrpermits.nps.gov` is
+  interactive-search-only. That distinction is the corpus's most-repeated discipline and it held.
+- **It replaced a weak cross-track claim with a stronger, better-sourced one.** The dispatch pointed
+  at a Feucht/Driscoll adjacency merged from a duplicate ticket. The pass found that thread is a
+  *separate May 16 rally* — and that the real documented NAR/apostolic presence on the official stage
+  is **Dutch Sheets, Lou Engle, and Guillermo Maldonado**, already connected to this corpus's
+  Wallnau/Paula White work.
+- **It corrected a quote's provenance**: the "NAR dream come true" line is **Bunni Pounds's own
+  Facebook framing** quoted by Religion Dispatches — not RD's editorial judgment about this event.
+  That is the [[feedback_quote_attributed_to_wrong_side]] shape, caught before it entered canon.
+
+### The structural observation, correctly bounded
+
+Administration figures by video, religious figures in person. The pass logs this as a **generic
+risk-management move** — same coalition signal without the security and optics exposure of physical
+co-presence — and explicitly does **not** assert it as coordination unique to this event. That is
+[[feedback_limited_move_sets_produce_repeated_plays]] applied correctly: claim the move, not the
+movers, in one line rather than paragraphs of hedging. Worth watching across future coalition-event
+entries.
+
+### Top follow-up
+
+**The NPS special-event permit** is the single highest-value open item — it would give organizer of
+record, expected attendance, and scale from a primary document. The portal has no per-event URL; a
+FOIA to NPS National Mall and Memorial Parks is the fallback and is **in bounds** (a documentary
+request, not an RFC).
+
+## Related Entries
+
+- `cascade-research/notes/coalition-event-2026-05-12--5000-churches-claim-sanctuary-status-resistance-track` — the resistance-side coalition track (a research note, not a timeline entry)
+- [[wallnau-lance]] · [[white-cain-paula]] — the apostolic network Sheets/Engle/Maldonado connect to
+
