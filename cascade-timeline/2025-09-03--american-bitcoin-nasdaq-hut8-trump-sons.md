@@ -14,6 +14,12 @@ actors:
 - Gryphon Digital Mining
 - ADQ Abu Dhabi
 - Taqa
+- Anchorage Lending CA, LLC
+- Richard Busch
+- Michael Broukhim
+- Asher Genoot
+- Justin Mateen
+- Paul Sacks
 tags:
 - american-bitcoin
 - abtc-nasdaq
@@ -62,6 +68,21 @@ sources:
   url: https://www.sec.gov/Archives/edgar/data/1755953/000121390025070721/ea0251352-425_gryphon.htm
   outlet: U.S. Securities and Exchange Commission
   date: '2025'
+  tier: 1
+- title: "American Bitcoin Corp. Section 16 filings (Forms 3/4), CIK 0001755953"
+  url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0001755953&type=4&dateb=&owner=include&count=100
+  outlet: U.S. Securities and Exchange Commission (EDGAR)
+  date: '2026-08-31'
+  tier: 1
+- title: "American Bitcoin Corp. Form 10-Q for period ended September 30, 2025"
+  url: https://www.sec.gov/Archives/edgar/data/1755953/000119312525281390/abtc-20250930.htm
+  outlet: U.S. Securities and Exchange Commission
+  date: '2025-11-14'
+  tier: 1
+- title: "Donald Trump Jr. (Trump Donald J. JR) Section 16 filer profile, CIK 0002016181"
+  url: https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=0002016181&type=4&dateb=&owner=include&count=40
+  outlet: U.S. Securities and Exchange Commission (EDGAR)
+  date: '2026-08-31'
   tier: 1
 - title: "American Bitcoin — Wikipedia"
   url: https://en.wikipedia.org/wiki/American_Bitcoin
@@ -169,10 +190,63 @@ American Bitcoin is the **Trump-family operational confirmation that the preside
 4. **Rapid speed to market** — six months from founding to Nasdaq listing is unusually fast and suggests pre-positioned deal structuring
 5. **The Hut 8 majority-ownership structure** provides operational scale (1,020 MW energy capacity) that small Trump-family ventures could not independently establish
 
+## SEC Form 4/3 Insider-Trading Filings Since Listing (as of August 31, 2026)
+
+Direct pull from EDGAR (issuer CIK **0001755953**, "American Bitcoin Corp.," formerly Gryphon Digital Mining, Inc. through 2025-09-03, formerly Akerna Corp. through 2024-02-13). Every Section 16 filing (Form 3 and Form 4) associated with this CIK since the September 3, 2025 merger/listing was pulled and read individually from the underlying XML (not from the EDGAR index summary and not from any aggregator). **Filing date and transaction date are reported separately below because they differ** — transaction dates lag filing dates by 0-9 days in this set, and several filings bundle transactions from two different trading days into one filing.
+
+**Finding: no Form 3 or Form 4 has been filed by Eric Trump or Donald Trump Jr. as a reporting owner of American Bitcoin Corp.** EDGAR full-text search for the phrase "Eric Trump" restricted to CIK 0001755953 across forms 3/4/5 returns zero hits. Donald Trump Jr. does hold an individual EDGAR filer CIK (0002016181, "Trump Donald J. JR") and has filed Form 3/4s as a reporting person — but only for **GrabAGun Digital Holdings, Colombier Acquisition Corp. III, PSQ Holdings, Inc., and Trump Media & Technology Group Corp.** None of his filings under that CIK name American Bitcoin as issuer. Eric Trump has no individually registered EDGAR filer CIK searchable under "Trump Eric" or "Eric Trump." This is a **verified absence from the primary Section-16 filing record**, not evidence that the Trump brothers hold no economic interest — the company's own Q3 2025 10-Q (filed 2025-11-14, CIK 0001755953, accession 0001193125-25-281390) describes an 80%/20% Class B/Class A split between Hut 8 Corp. ("Parent," holding 732,224,903 Class B shares) and the legacy American Data Centers shareholder base, but the 10-Q's body text contains **no occurrence of the word "Trump"** — the 20% minority stake is not broken out by named individual anywhere in that filing. Whether Eric Trump and/or Donald Trump Jr. hold their reported "co-founder" equity through a vehicle that itself falls under Section 16 reporting thresholds, or through a stake too small/indirect to trigger individual reporting-person status, is not resolved by the documents pulled for this task — see Research Gaps below.
+
+**Named individual reporting owners who HAVE filed Form 3/4s for ABTC since the merger** (officers and directors, per their own filings — none are Trump family members):
+
+| Reporting owner | Role (per filing) | Filing date | Transaction date | Code | Security | Shares | Price | Notes |
+|---|---|---|---|---|---|---|---|---|
+| Anchorage Lending CA, LLC | Director / 10% owner | 2025-09-05 | 2025-09-03 | S (sale) | Class A Common Stock | 1,250,170 | $7.36 | first of three same-day sales |
+| Anchorage Lending CA, LLC | Director / 10% owner | 2025-09-05 | 2025-09-03 | S (sale) | Class A Common Stock | 1,103,035 | $8.45 | second of three |
+| Anchorage Lending CA, LLC | Director / 10% owner | 2025-09-05 | 2025-09-03 | S (sale) | Class A Common Stock | 181,285 | $9.20 | third; post-transaction holding drops to 1 share |
+| Hut 8 Corp. | Director / 10% owner | 2025-09-12 | 2025-09-03 | Form 3 (initial statement) | — | — | — | no transaction, initial ownership statement |
+| Richard Busch | Director | 2025-09-12 | 2025-09-03 | Form 3 | — | 724,975 (holding) | — | initial statement |
+| Michael Broukhim | Director | 2025-09-12 | 2025-09-03 | Form 3 | — | 116,721 (holding) | — | initial statement |
+| Asher Genoot | Director, Executive Chairman | 2025-09-12 | 2025-09-03 | Form 3 | — | — | — | initial statement |
+| Matthew Prusak | President, Interim CFO | 2025-09-12 | 2025-09-03 | Form 3 | — | — | — | initial statement |
+| Michael Ho | Director, CEO | 2025-09-12 | 2025-09-03 | Form 3 | — | — | — | initial statement |
+| Justin Mateen | Director | 2025-09-12 | 2025-09-03 | Form 3 | — | 724,975 (holding) | — | initial statement |
+| Michael Broukhim | Director | 2025-12-09 | 2025-12-05 | J (other, per Form 4 footnote) | Class A Common Stock | 13,386 | — | acquired (A) |
+| Richard Busch | Director | 2025-12-18 | 2025-12-16 | P (open-market purchase) | Class A Common Stock | 175,000 | $1.66 | acquired |
+| Richard Busch | Director | 2025-12-23 | 2025-12-22 | P (open-market purchase) | Class A Common Stock | 101,000 | $1.98 | acquired |
+| Michael Ho | Director, CEO | 2026-01-02 | 2025-12-30 | P (purchase, derivative) | Class B Common Stock | 23,199,205 | $1.40 | derivative-security transaction |
+| Asher Genoot | Director, Executive Chairman | 2026-01-02 | 2025-12-30 | P (purchase, derivative) | Class B Common Stock | 23,199,205 | $1.40 | derivative-security transaction |
+| Michael Broukhim | Director | 2026-02-26 | 2026-02-24 | A (award) | Restricted Stock Units | 270,701 | $0 | equity award, not a market purchase |
+| Richard Busch | Director | 2026-02-26 | 2026-02-24 | A (award) | Restricted Stock Units | 254,778 | $0 | equity award, not a market purchase |
+| Matthew Prusak | President, Interim CFO | 2026-02-26 | 2026-02-24 | A (award) | Restricted Stock Units | 477,708 | $0 | equity award, not a market purchase |
+| Justin Mateen | Director | 2026-02-26 | 2026-02-24 | A (award) | Restricted Stock Units | 254,778 | $0 | equity award, not a market purchase |
+| Richard Busch | Director | 2026-03-05 | 2026-03-03 | P (open-market purchase) | Class A Common Stock | 240,000 | $0.96 | acquired |
+| Richard Busch | Director | 2026-03-05 | 2026-03-04 | P (open-market purchase) | Class A Common Stock | 90,000 | $1.15 | acquired, same filing as above |
+| Justin Mateen | Director | 2026-03-05 | 2026-03-03 | P (open-market purchase) | Class A Common Stock | 1,800,000 | $1.03 | acquired |
+| Richard Busch | Director | 2026-03-09 | 2026-03-05 | P (open-market purchase) | Class A Common Stock | 68,000 | $1.15 | acquired |
+| Richard Busch | Director | 2026-06-16 | 2026-06-15 | P (open-market purchase) | Class A Common Stock | 450,000 | $0.87 | acquired |
+| Michael Broukhim | Director | 2026-06-24 | 2026-06-22 | M (option/RSU exercise) | Class A Common Stock + RSUs | 270,701 | $0 | RSU vesting/exercise, not a market transaction |
+| Richard Busch | Director | 2026-06-24 | 2026-06-22 / 2026-06-24 | M then J | Class A Common Stock + RSUs | 254,778 acquired, then 254,778 disposed | $0 | RSU vesting (M) followed two days later by a J-coded disposition |
+| Justin Mateen | Director | 2026-06-24 | 2026-06-22 | M (RSU exercise) | Class A Common Stock + RSUs | 254,778 | $0 | RSU vesting/exercise |
+| Richard Busch | Director | 2026-07-30 | 2026-07-29 | A (award) | Restricted Stock Units | 46,404 | $0 | equity award |
+| Michael Broukhim | Director | 2026-07-30 | 2026-07-29 | A (award) | Restricted Stock Units | 49,304 | $0 | equity award |
+| Justin Mateen | Director | 2026-07-30 | 2026-07-29 | A (award) | Restricted Stock Units | 46,404 | $0 | equity award |
+| Paul Sacks | Interim CFO | 2026-08-07 | 2026-08-04 | Form 3 (initial statement) | — | — | — | no transaction; new-officer initial statement |
+| Justin Mateen | Director | 2026-08-07 | 2026-08-05 | P (open-market purchase) | Class A Common Stock | 144,543 | $6.3964 | acquired |
+| Justin Mateen | Director | 2026-08-07 | 2026-08-06 | P (open-market purchase) | Class A Common Stock | 162,438 | $6.1873 | acquired, same filing as above |
+
+Transaction-code key used above: **P** = open-market purchase, **S** = open-market sale, **A** = equity award/grant (no cash changes hands), **M** = exercise/conversion of a derivative security (e.g., RSU vesting into common stock), **J** = other transaction type specified in a filing footnote. An award (A) or an exercise (M) is not the same event as an open-market purchase (P) and none should be characterized as "buying" without the code attached.
+
+**On the only large sale in the record** — Anchorage Lending CA, LLC's three same-day dispositions on 2025-09-03, the day trading opened — no Trump-family individual is the reporting owner (Anchorage Lending is a crypto-lending/custody firm and pre-merger investor), and no dated crypto-policy announcement was found in this KB's timeline in the surrounding days that the sale could be checked against. No correlation is asserted for this transaction.
+
+**On the apparent date-proximity between some director Form 4s and unrelated Trump-crypto policy timeline entries** — e.g., the 2026-02-24/26 RSU awards to Broukhim/Busch/Prusak/Mateen fall in the same window as this KB's separate entry [[2026-02-26--american-bitcoin-trump-family-59m-loss-stock-collapse]] (ABTC's own $59M-loss/stock-collapse report), and the 2026-03-03/03-04 open-market purchases by Busch and Mateen fall on the same calendar dates as [[2026-03-03--senate-republicans-block-trump-emoluments-crypto-resolutions]] and [[2026-03-04--trump-sides-with-crypto-firms-stablecoin-yield-conflict]] — **none of these three policy-timeline entries concern American Bitcoin specifically** (the emoluments/stablecoin entries are about World Liberty Financial), and none of the reporting owners transacting on those dates is a Trump family member. These are noted as adjacencies observed while cross-referencing dates, not as documented correlations — a correlation claim requires both a dated filing AND a dated public event concerning the *same* entity, which this set does not meet. Whether Eric Trump or Donald Trump Jr. have any economic exposure to these RSU-award or purchase dates through an undisclosed indirect vehicle is an open question the primary-source record here does not answer.
+
+**Typed access note**: `data.sec.gov` and `www.sec.gov` EDGAR endpoints responded normally throughout (HTTP 200) when queried with a company-identifying User-Agent header; no 403s or rate-limiting encountered. One `efts.sec.gov` full-text-search query for "Eric Trump" scoped to CIK 0001755953 returned zero hits — reported above as a verified absence, not a tooling block, since the search endpoint itself returned a valid (200) empty result set.
+
 ## Research Gaps
 
 - [ ] **ABTC stock price trajectory** since September 3, 2025 — performance and volatility
-- [ ] **Eric Trump and Donald Trump Jr.'s specific equity holdings** — Form 4 insider-trading filings since listing
+- [x] **Eric Trump and Donald Trump Jr.'s specific equity holdings — Form 4 insider-trading filings since listing** — RESOLVED (2026-08-31): neither has filed a Section 16 Form 3/4 as a reporting owner of American Bitcoin Corp. (CIK 0001755953). Don Jr. has an EDGAR filer CIK (0002016181) but it is not linked to ABTC as issuer; Eric Trump has no discoverable individual EDGAR filer CIK. New gap opened below.
+- [ ] **NEW: how is the Trump brothers' reported ~20% (with legacy American Data Centers shareholders) minority equity stake actually held?** — the Q3 2025 10-Q's related-party/equity disclosures do not name Eric Trump or Donald Trump Jr. and do not break out the Class A minority stake by individual holder. Determine whether the stake sits in a holding LLC (which would itself need to be identified and checked for its own Section 16 status), whether it falls below individual reporting thresholds, or whether "co-founder"/"Chief Strategy Officer" titles as used in press materials do not correspond to Section 16 "officer" status under SEC rules.
 - [ ] **Hut 8's broader corporate structure** — its own ownership, any UAE or other sovereign capital in its cap table
 - [ ] **ADQ and Taqa conversations outcome** — as of late 2025 / early 2026, have any specific agreements been signed?
 - [ ] **American Data Centers' current operational scope** — was it folded into American Bitcoin or does it operate independently?
