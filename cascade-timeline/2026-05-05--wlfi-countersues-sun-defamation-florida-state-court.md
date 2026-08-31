@@ -200,3 +200,45 @@ into sworn pleadings exposed to Rule-11-equivalent sanctions risk under Florida 
   personal-leverage captured-X register
 - [[world-liberty-financial]] — *needs organization profile*
 - [[investigation-map-april-2026]]
+
+---
+
+**Conductor QC, 2026-08-31.** **Two premise corrections, both correct, both stated rather than
+written around.**
+
+**1. "Countersuit" is a misnomer in the strict sense, and the venue split is the real finding.**
+WLFI did not file a counterclaim in Sun's N.D. Cal. federal docket — it filed a **separate action in
+the Eleventh Judicial Circuit Court, Miami-Dade County, Florida.** A different sovereign's court, a
+different forum from the federal diversity venue Sun chose.
+
+**That has an operational consequence for this corpus.** CourtListener/RECAP covers **federal**
+dockets. **A Florida state case is not in it, and never will be** — so a zero result there says
+nothing whatever about this filing. Verifying it requires a **direct Miami-Dade Clerk of Courts
+docket search**. Recording that is worth more than the entry itself: it prevents a future pass from
+running the CourtListener path, finding nothing, and reporting an absence. **The state-court case
+number remains an open gap and is correctly logged as one.**
+
+**2. The "inadvertent-public-record" framing in the ticket title is unsupported.** Both CoinDesk and
+Protos were fetched in full and grepped for *inadvertent* / *accidental* / *unseal*; both describe
+**deliberate redaction**, not accidental disclosure. **Flagged in the entry rather than quietly
+dropped** — which matters, because the phrase was in the ticket's own slug and would otherwise
+propagate.
+
+**Date kinds kept apart.** The filing date is **May 4, 2026** (both outlets, independently); **May 5
+is a press-pickup date** for some secondary coverage. The frontmatter follows the ticket's May 5
+framing while the body states May 4 as the actual filing date, with both explained. **A press-pickup
+date is not a filing date**, and this is the third time today that distinction has done real work.
+
+**Allegation discipline holds — ten hedges in the body.** WLFI's claims (short-selling, ~$300M to
+Binance-linked wallets, straw purchases, influencer/bot activity) are written as **unproven
+pleadings**. Critically, **a defamation action asserting Sun's statements were false does not make
+them false**, and the entry does not let the countersuit read as a rebuttal of Sun's own allegations.
+Both sides remain pleadings.
+
+**Scope correctly held**: an **August 20-21, 2026 arbitration-denial ruling** in the *separate* N.D.
+Cal. case was noted and **deliberately not folded in** — different case, different event, outside
+this entry's May 2026 scope. Flagged as a candidate follow-on.
+
+**Sourcing note**: CourtListener was rate-limited fleet-wide again (~7.2h window, matching the ~7.5h
+throttle the sibling entry hit). **Moot here** — federal-only coverage would not have held this case
+regardless. **A structural reason beats another query.**
