@@ -123,7 +123,7 @@ This was the second round of PRC sanctions to hit 8VC-network entities in 12 mon
 - Valuation: $1B (Series B, July 2024, a16z-led); $4B (Series C, February 2025, Elad Gil-led)
 - Total funding: $775M+ (through Series C)
 - 8VC governance: Cap-table participant in Series B and Series C; a16z (American Dynamism fund) is co-investor and took Series B lead role; 8VC is a minority investor
-- Taiwan connection: Saronic MOU with Taiwan's National Chung-Shan Institute of Science & Technology (NCSIST); specific contract value not publicly confirmed
+- Taiwan connection: Saronic and Taiwan's National Chung-Shan Institute of Science & Technology (NCSIST) signed an MOU, reported April 24-26, 2026 (five months after this sanction event) — trade-press coverage (Taiwan News, Taipei Times, Ocean News & Technology, Janes) characterizes it as "collaborate on AI systems," not a vessel sale. No dollar figure, no named platform, and no DSCA notification or Taiwan MND procurement record confirming a specific weapons system was found as of a follow-up pass on 2026-08-31 — see [[dsca-taiwan-mnd-confirmation-epirus-saronic-2026-08-31]]. The MOU postdates this sanction and cannot be its basis.
 
 ---
 
@@ -162,3 +162,4 @@ The December 2024 Saronic sanction did not dampen investor appetite: Saronic clo
 - [[lonsdale-joe]] — 8VC managing partner, Epirus co-founder, X post primary source for portfolio-cluster framing
 - [[gulf-sovereign-lp-base-defense-ai-vc-funds-cross-investigation-bridge]] — Gulf sovereign LP base cross-investigation; Anduril convergence-point analysis
 - [[profile-saronic-technologies-2022-autonomous-maritime-a16z-american-dynamism-8vc-cross-network-coordination]] — Saronic org profile (cascade-research)
+- [[dsca-taiwan-mnd-confirmation-epirus-saronic-2026-08-31]] — 2026-08-31 follow-up: Saronic-NCSIST MOU dated (Apr 2026); Epirus-Taiwan remains a bounded negative; DSCA notification index blocked (403)
