@@ -77,3 +77,45 @@ Even stripped of the "companion bill" and "state pilot" framing, the sequence do
 
 - [[detention-pipeline/kb/industry/county-fights/charleston-county-sc-racial-profiling-ice]] (source KB entry with fuller H.4764 timeline and ACLU-SC advocacy detail)
 - [[2026-04-16--moriarty-charges-ice-agent-morgan-assault-minnesota]] (contemporaneous 287(g)-adjacent state/federal friction, opposite valence)
+
+---
+
+**Conductor QC, 2026-08-31.** **The sponsorship correction is verified verbatim at the primary
+source.** I fetched the GPO bill text directly (`govinfo.gov/content/pkg/BILLS-119s4405is/html/`,
+HTTP 200):
+
+> "IN THE SENATE OF THE UNITED STATES — **April 28, 2026** — **Mrs. Blackburn (for herself and Mr.
+> Graham) introduced the following bill**; which was read twice and referred to the Committee on the
+> Judiciary"
+
+**Blackburn is the sponsor; Graham is a cosponsor.** The dispatch framing and the ticket slug both
+said otherwise, tracing to a secondary headline. **The primary text settles it.**
+
+**The bill's own title independently confirms the mechanism distinction** that defeats the
+"companion" claim: *"To authorize an **increase in the Edward Byrne Memorial Justice Assistance
+Grant allocation** for jurisdictions that enter into a 287(g) agreement."* That is a **funding
+incentive**. H.4764 is a **compulsory mandate** ("shall enter into an agreement"). Two different
+instruments — **not comparable text, therefore not companion bills**, and GovTrack's `related_bills`
+field for S. 4405 is empty.
+
+**The surname trap was real and was caught.** GovTrack's cosponsor list for this bill contains a
+**second, unrelated South Carolina legislator surnamed Graham** — exactly the collision the dispatch
+warned about, in exactly the state where "Graham" is least safe as an identifier. The entry pins
+Lindsey O. Graham by bioguide ID. **A surname is not an identification.**
+
+**Both of the ticket's hypotheses were tested and rejected, and the rejection is the finding.**
+"Companion bill" fails on mechanism; "state as federal pilot" fails for want of any connective
+evidence beyond four weeks' separation. **No source — including the sponsors' own statements —
+describes S. 4405 as modeled on H.4764.** Graham's quoted rationale is about rewarding cooperating
+jurisdictions financially, not replicating a state mandate.
+
+**And the replacement reading is the stronger one**: two different tools from a short menu of
+available legislative moves — **state mandate, federal incentive** — pursuing a shared policy goal
+on parallel tracks. **Claim the moves, not the movers.** That survives scrutiny in a way "policy
+laundering pipeline" would not have.
+
+**Status stated precisely, which most bill entries get wrong.** H.4764 **passed the SC House 84-26**
+(April 2, third reading), was **referred to Senate Judiciary** April 7, and was **excluded from the
+sine die resolution**; the session recessed May 14. **It is not law and did not pass the Senate** —
+and because SC runs a 2025-2026 biennium, **it is not formally dead either.** S. 4405 was introduced
+and referred, with no further action found.
