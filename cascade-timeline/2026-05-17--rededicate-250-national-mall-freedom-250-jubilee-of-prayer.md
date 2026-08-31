@@ -70,7 +70,7 @@ Secretary of Defense Pete Hegseth, Vice President JD Vance, Secretary of State M
 
 Sean Feucht and Mark Driscoll were never on Freedom 250's official program, at either the April 22 pre-event lineup (Religion News Service) or the final program page. Driscoll's Real Faith ministry had claimed an invitation to the main session (April 12 email, per The Roys Report); organizers told The Roys Report "we did not invite him to Rededicate 250, and he is not speaking at our event." Feucht instead organized a separate, free rally titled "Let Us Worship" on the National Mall the evening before, May 16, featuring Driscoll alongside Greg Locke and Eric Metaxas (Metaxas also appears on Freedom 250's own official program for "Historical Narration" — not reconciled whether he appeared at both events).
 
-Crowd figures diverge by source type: Daily Citizen (organizer-aligned) reported "hundreds of thousands"; independent wire and press coverage (AP, The Guardian, Washington Post, DW, NBC4 Washington, WUSA9) converged on "thousands" in same-day/next-day headlines. No NPS or independently-sourced crowd-count methodology was located for either figure. No NPS special-event permit record was retrieved for this entry — the National Mall permit portal (ncrpermits.nps.gov) is interactive-search-only with no direct per-event lookup found; this is an access-mechanism gap, not a finding that no permit exists, and is the top follow-up item for anyone building on this entry.
+Crowd figures diverge by source type: Daily Citizen (organizer-aligned) reported "hundreds of thousands"; independent wire and press coverage (AP, The Guardian, Washington Post, DW, NBC4 Washington, WUSA9) converged on "thousands" in same-day/next-day headlines. No NPS or independently-sourced crowd-count methodology was located for either figure. No NPS special-event permit record was retrieved for this entry. A follow-up pass (2026-08-31) confirmed the precise access mechanism rather than the portal alone: `ncrpermits.nps.gov` is a Microsoft Power Pages/Dynamics 365 portal whose substantive views (the applicant's own submitted-applications list, and per-category special-event "constraint" calendars) are gated behind a login.gov-authenticated applicant session or render only via client-side JS against an ASP.NET postback form — neither reachable by direct fetch. The Wayback Machine's CDX index shows zero historical captures of any content page on that domain beyond the bare homepage, confirming crawlers (including Wayback's own) cannot reach the gated views either. The static NAMA park website's permit pages (`permits-notices.htm`, `permitsandreservations.htm`) are boilerplate applicant instructions, not a public register of issued permits. This is an access-mechanism gap, not a finding that no permit exists. A FOIA request to NPS National Mall and Memorial Parks has been drafted (not sent) in [[follow-up-nps-permit-rededicate-250-national-mall]], parked pending Mark's fee-category certification and routing.
 
 Freedom 250 does not appear as its own entity in the IRS Exempt Organizations Business Master File (ProPublica Nonprofit Explorer API, queried 2026-08-31) — its funding and legal structure remain undocumented in public nonprofit-registry records, distinguishing it from "America250 Org Inc" (EIN 84-2144791), the separate congressionally-chartered semiquincentennial commission.
 
@@ -123,9 +123,13 @@ entries.
 ### Top follow-up
 
 **The NPS special-event permit** is the single highest-value open item — it would give organizer of
-record, expected attendance, and scale from a primary document. The portal has no per-event URL; a
-FOIA to NPS National Mall and Memorial Parks is the fallback and is **in bounds** (a documentary
-request, not an RFC).
+record, expected attendance, and scale from a primary document. **Update, 2026-08-31**: a follow-up
+pass confirmed the portal is not merely missing a per-event URL but is architecturally gated (a
+Power Pages/Dynamics 365 portal requiring an authenticated applicant login for the one view that
+would show this) and that zero content pages beyond the bare homepage were ever crawlable, per the
+Wayback CDX index. A FOIA to NPS National Mall and Memorial Parks has been **drafted** (see
+[[follow-up-nps-permit-rededicate-250-national-mall]]) and is parked pending Mark sending it — it
+remains **in bounds** (a documentary request, not an RFC).
 
 ## Related Entries
 
