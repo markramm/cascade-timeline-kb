@@ -33,10 +33,15 @@ sources:
     publisher: Biometric Update
     date: '2026-08-20'
     tier: 2
-  - title: "ICE Undercover Operations Handbook, April 14, 2008"
-    url: https://www.scribd.com/document/1056479089/Ice-Undercover-Operations-1
-    publisher: US Immigration and Customs Enforcement (public copy)
+  - title: "ICE Undercover Operations Handbook, April 14, 2008 (OI HB 08-04)"
+    url: https://web.archive.org/web/20210127034742/https://unicornriot.ninja/wp-content/uploads/2018/06/ice-undercover-operations.pdf
+    publisher: "ICE Office of Investigations; archived copy of a FOIA-released document first published by Unicorn Riot, 2018"
     date: '2008-04-14'
+    tier: 1
+  - title: "Government's Consolidated Response to Defendant's Motion for Discovery"
+    url: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.227.0_1.pdf"
+    publisher: "US District Court, D. Minn., Doc. 227, SAUSA Sommer Honeycutt, filed 2026-08-21"
+    date: '2026-08-21'
     tier: 1
 capture_lanes:
   - Civil Rights Suppression
@@ -128,17 +133,52 @@ That matters for what can be asked for: Keyhole should not be an ephemeral coden
 be an application, a certification decision, an authorization scope, financial audit records, and
 a list of investigations accepted under it.
 
-Defense attorney **Kevin Riach** has specifically asked the government to produce additional
-records concerning Keyhole after finding the reference in the case-opening report.
+**Confirmed directly from the 2008 Handbook's own text (2026-08-31 pass)**: certified undercover
+operations are reauthorized every 6 months by the Director of OI/HSI, advised by an Undercover
+Review Committee, and "auditors from OPR/MIU will conduct a comprehensive independent audit of
+each undercover operation every 2 years," retained as part of the operation's permanent records
+(§7.4.4). "MIU" is ICE's own Management Inspection Unit, under ICE's Office of Professional
+Responsibility — a different office from CBP's OPR. This confirms, from the interpretive document
+itself rather than press paraphrase, that a written certification record and at least one biennial
+audit report should exist if Keyhole has been running long enough to complete a 2-year cycle.
+
+Defense attorney **Kevin Riach**, in the Sant defendants' Motion for Discovery (Doc. 212, filed
+2026-08-13), specifically asked the government to produce "reports generated pursuant to CUC
+Operation Keyhole," citing "the absence from the disclosures of any documentation regarding the
+approval, authorization, scope or purpose of Operation Keyhole."
+
+**The government's response (Doc. 227, filed 2026-08-21) does not answer this request.** Read in
+full text: the government's 37-page consolidated opposition argues categorically against the
+defendants' Rule 16, Brady, and selective-prosecution theories, but contains no occurrence of
+"Keyhole," "CUC," or the five specifically-withheld Project Whipple Shield ROIs the same motion
+named (20, 41, 104, 112, 133). This is a non-response, not a refusal, and should be characterized
+precisely as that: as of the most recent filing, the Keyhole production request has not been
+rebutted, distinguished, or engaged. No ruling from Magistrate Judge David Schultz has issued as of
+2026-08-31. A third filer — the Cato Institute / Society for the Rule of Law and Democracy / FIRE
+amicus brief (Doc. 234-1, filed 2026-08-25) — has independently named "Operation Keyhole" in its
+own text, characterizing it collectively with Puppet Master and Whipple Shield as evidence NSPM-7
+"was used ... to surveil dissent"; that brief adds no new documentary fact about Keyhole beyond
+what the ROI already stated.
+
+See [[keyhole-certification-handbook-and-docket-watch-2026-08-31]] for the full docket-watch and
+Handbook-retrieval writeup, including a drafted (not sent) FOIA for the OPR/MIU audit and
+reauthorization records.
 
 ## What we do NOT know — state this before publishing
 
-- What Keyhole authorized, when it was certified, and by whom
+- The specific date Keyhole was certified, and the name of the certifying official (the
+  Handbook establishes that this authority sits with the Director of OI/HSI or a designee, as a
+  matter of the governing framework — but not who actually signed Keyhole's certification)
 - What other investigations were accepted under it, in Minnesota or elsewhere
 - Whether the Ann Arbor operation, the Clearview searches, or the church recordings ran on
   Keyhole's authorization
 - Whether Keyhole is regional or national
 - Whether the "action team" volunteering constitutes inducement — the records do not establish it
+- Whether a current (post-2008) version of the Undercover Operations Handbook exists — no
+  successor was locatable via ICE's own site, DHS's site, DHS OIG, oversight.gov, or the Internet
+  Archive's index of ice.gov (zero URLs containing "undercover" have ever been captured on
+  ice.gov). That is consistent with undercover policy being non-public by design, per the 2008
+  Handbook's own confidentiality language — it does not mean no update happened.
 
 Every one of those is a question the documents raise and do not answer. The honest claim is that
 the named operations sit inside an unnamed structure, not that the structure is nationwide.
@@ -159,3 +199,4 @@ contribution is that we hold the primary document and can verify the sentence di
 - [[prosecution-as-surveillance-wedge]]
 - [[criminalizing-dissent-the-descending-gradient]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
+- [[keyhole-certification-handbook-and-docket-watch-2026-08-31]]
