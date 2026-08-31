@@ -75,3 +75,53 @@ not assert a relationship the record does not establish.**
 ## Related Entries
 
 - [[2026-07-09--ice-batavia-hard-sided-expansion-after-new-york-jail]]
+
+---
+
+## RESOLVED against the primary record, 2026-08-31 — all three flagged questions answered
+
+This entry deliberately held `status: reported` and named exactly what was missing: *"No SAM.gov
+solicitation number, no USAspending award, and no contracting-officer classification has been
+obtained."* A research pass obtained all three. **The caution was correct on every count.**
+
+**The solicitation number in circulation is the wrong instrument.** Secondary reporting attached this
+story to `70CMSW26R00000012`. That is ICE's **nationwide, competitively-awarded SACC construction
+IDIQ** (NAICS 236220); its current amendment names **Port Isabel SHU** and **Ft. Benning**, and its
+description **never mentions Batavia or Akima**.
+
+**The actual action** is a **Notice of Intent to sole-source a MODIFICATION** to an existing IDIQ —
+parent PIID **`70CDCR25D00000011`**, held by **Akima Infrastructure Protection, LLC** (UEI
+`WGN2KJJD27Q3`), published 2026-08-27, for a **temporary structure housing up to 100 detainees** at
+the Batavia SPC. NAICS 561612; PSC S206.
+
+**Answering this entry's three cautions in order:**
+
+1. **The "$10–25 million" figure has NO obligation record.** USAspending shows **zero awards** to the
+   recipient in the 2026-08-25–08-31 window; **no modification has been executed.** The range appears
+   to be extrapolation from existing Batavia service task orders ($23.4M and $9.4M) that cover
+   **different scope** — detention and transport services, not this structure. **The caution against
+   repeating it as spending was exactly right; it is not even an award value yet.**
+
+2. **"No-bid" needs a qualifier.** ICE's notice cites **"FAR 6.103-1"** — but FAR 6.103 carries no
+   such substantive content; the quoted language ("only one responsible source and no other supplies
+   or services will satisfy agency requirements") is verbatim the title of **FAR 6.302-1**. Recorded
+   as-written rather than silently corrected: a citation error in a sole-source notice is a fact
+   about the notice. **And the base IDIQ was itself 8(a)-competed (4 offers received)** — Akima is an
+   Alaska Native Corporation, but this action is an **incumbent-continuity modification to an
+   already-competed vehicle**, not a fresh ANC unlimited-ceiling sole-source. **Do not publish
+   "no-bid" without that.**
+
+3. **"Bypassing local review"** — the **SEQRA emergency-action bypass** is an available mechanism
+   (attributed to Genesee County planning director Oltramari), but **no evidence was found that DHS
+   has invoked it.** Availability is not invocation.
+
+**Procedural posture as of 2026-08-31**: the capability-statement window closed **2026-08-28** — that
+is **not** a GAO protest deadline, and since no modification has been executed, a protest of the
+eventual award remains structurally live. A GAO docket search was **Akamai-blocked: an access block,
+not a verified absence of a filed protest.**
+
+**Possible duplication with [[2026-07-09--ice-batavia-hard-sided-expansion-after-new-york-jail-ban]]**:
+both cite the same ~100-bed figure and may describe **one project surfacing through two disclosure
+channels**, not two expansions. Not resolved here; flagged so no downstream piece sums them.
+
+Full working record: `cascade-research/notes/procurement-batavia-akima-sole-source-70cmsw26r00000012.md`.
