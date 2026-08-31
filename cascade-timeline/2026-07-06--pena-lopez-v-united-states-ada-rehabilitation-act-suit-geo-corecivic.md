@@ -82,6 +82,6 @@ California City Detention Facility already sits under a separate, active federal
 
 - [[2026-07-30--federal-monitor-finds-corecivic-california-city-sustained-medical-failure]]
 - [[2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield]]
-- [[2026-06-12--mcfarland-ca-mou-geo-group-self-polices-ice-detention-facilities]]
+- [[2026-06-12--mcfarland-ca-mou-mpd-no-investigative-duty-prea-incidents-geo-facilities]]
 - [[geo-group]]
 - [[corecivic]]

@@ -24,7 +24,7 @@ sources:
 related:
   - 2026-06-26--felix-alcorta-rodriguez-twentieth-ice-custody-death-2026
   - 2026-05-27--ap-investigation-ice-detention-suicides-record-fy-pace-corecivic-geo-facilities
-  - 2026-06-12--mcfarland-ca-mou-geo-group-self-polices-ice-detention-facilities
+  - 2026-06-12--mcfarland-ca-mou-mpd-no-investigative-duty-prea-incidents-geo-facilities
   - 2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure
 ---
 
