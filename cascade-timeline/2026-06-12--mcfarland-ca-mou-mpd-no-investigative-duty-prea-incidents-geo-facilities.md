@@ -1,7 +1,7 @@
 ---
 type: timeline_event
-id: 2026-06-12--mcfarland-ca-mou-geo-group-self-polices-ice-detention-facilities
-title: "McFarland, California MOU Lets GEO Group Self-Police Its ICE Detention Facilities; Local Police Decline to Respond to Calls at Golden State and Central Valley Annexes"
+id: 2026-06-12--mcfarland-ca-mou-mpd-no-investigative-duty-prea-incidents-geo-facilities
+title: "McFarland, California MOU Relieves City Police of Any Investigative Duty for PREA Sexual-Assault Incidents at GEO's Golden State and Central Valley Annexes"
 date: '2026-06-12'
 date_range: '2026-06-12'
 lane: detention-pipeline
@@ -20,6 +20,7 @@ tags:
   - detention-pipeline
   - geo-group
   - private-prisons
+  - prea-carveout
   - self-policing
   - privatized-police-power
   - oversight-gap
@@ -53,7 +54,7 @@ related_events:
 coverage: []
 ---
 
-# McFarland, CA MOU Lets GEO Group Self-Police Its ICE Detention Facilities
+# McFarland, CA MOU: MPD Has No Investigative Duty for PREA Incidents at GEO Facilities
 
 ## What Happened
 
@@ -86,3 +87,27 @@ It is the same accountability-evasion architecture documented elsewhere in the c
 
 - [[2026-06-02--nj-sues-geo-group-delaney-hall-health-inspector-access]] — GEO oversight-access counterpart (different state, same "who can look inside" question)
 - [[2026-06-12--eighteenth-ice-detention-death-of-2026-denny-adan-gonzalez-deadliest-year]] — detention-conditions / mortality context
+
+
+---
+
+**Conductor correction, 2026-08-31 — the TITLE, ID, and FILENAME were corrected, not just the body.**
+
+The primary-document pull (above) established that the MOU's general framing is **the opposite** of
+"GEO self-polices" — the City's own staff report describes **MPD providing GEO-reimbursed** arrest,
+detention, transport, and prosecution-referral services. The supported claim is narrower and sits in
+**Section 5**: for a **PREA/sexual-assault** incident, *"the MPD shall have no responsibility other
+than providing the event number and documenting the notification… and shall not be responsible for
+further response or investigation."*
+
+**The body carried that correction while the title, id, and filename still asserted the broad
+version.** A reader, a grep, or a drafter pulling this entry by title would have taken the
+overclaim — the failure recorded this morning in
+[[a-correction-notice-below-the-error-does-not-fix-the-error]], and it recurred here inside a single
+day. **Retitled and renamed; the prior filename was
+`2026-06-12--mcfarland-ca-mou-geo-group-self-polices-ice-detention-facilities.md`.**
+
+**The narrower finding is the stronger one.** "A private operator polices itself" is a familiar
+claim. *"The outside police department's investigative obligation is contractually removed for
+exactly one category — sexual assault — inside a closed facility"* is specific, verbatim-sourced, and
+harder to wave away.
