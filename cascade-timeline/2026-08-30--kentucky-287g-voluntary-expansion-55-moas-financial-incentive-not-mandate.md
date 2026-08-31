@@ -87,3 +87,50 @@ The task's underlying instinct — that "voluntary expansion" is structurally di
 - [[2026-04-28--graham-blackburn-287g-expansion-act-sc-h4764-not-a-companion]] (the "voluntary vs. incentivized vs. mandatory" distinction was first established here for South Carolina/federal; this entry applies the same discipline to Kentucky)
 - `kentucky-hb47-mandatory-287g-legislation` (detention-pipeline KB — the dead mandate track)
 - `kentucky-ice-detention-overview-2025-2026` (detention-pipeline KB — the separate 11-jail ICE detention-contract dataset, and full Kentucky enforcement context)
+
+---
+
+**Conductor QC, 2026-08-31 — the roster was re-downloaded and re-counted independently, and every
+figure reproduces.**
+
+I pulled ICE's own file from the same endpoint (`ice.gov/file-download/download/public/208609`,
+HTTP 200, 273,956 bytes, confirmed **Microsoft Excel 2007+** despite the `.pdf`-styled link),
+unzipped the XLSX and parsed the sheet XML directly:
+
+| Measure | This entry | My independent parse |
+|---|---:|---:|
+| Kentucky MOAs | 55 | **55** |
+| Kentucky distinct agencies | 53 | **53** |
+| Task Force Model | 50 | **50** |
+| Jail Enforcement Model | 3 | **3** |
+| Warrant Service Officer | 2 | **2** |
+| National TFM / WSO / JEM | 1,682 / 547 / 182 | **1,682 / 547 / 182** |
+
+**The national breakdown matching is the strongest validation available** — it means the parse
+covered the whole file, not a filtered subset, so the Kentucky figures are counted from the same
+complete roster ICE publishes.
+
+**This is what "parse the primary list, do not cite anyone's total" produces.** The entry
+demonstrates the cost of the alternative in the same breath: **KY Center for Economic Policy's public
+page still shows 24 agencies** — roughly 18 months stale against the primary roster. Citing that
+secondary tally would have understated participation by more than half.
+
+**The dataset conflation in the ticket's own framing is correctly caught.** "36 LE + 11 jails" merges
+**two different ICE datasets** — the 287(g) agreement roster and the separate detention/IGSA
+jail-contract list. **Only 3 of Kentucky's 53 agencies hold a Jail Enforcement Model MOA.** Reporting
+the three support types separately, rather than as one headline number, is what makes this usable:
+they are materially different authorities.
+
+**The "voluntary" test is the finding, and it holds the SC precedent's triad.** Voluntary at signing
+— no statute compels it, and **HB47/SB86 both died without a floor vote**. But **incomplete as a
+label**: DHS's OBBBA-funded salary reimbursement plus performance bonuses took effect 2025-10-01, and
+**36 of 55 Kentucky signings occurred in 2026 alone versus 19 in 2025.** The pace roughly doubled
+after the incentive landed, **with no mandate ever passing.**
+
+**That is a second state confirming the mechanism triad** established on South Carolina today —
+voluntary / incentivized / mandatory — and it points the same way: **the incentive track alone is
+sufficient; the mandate track keeps failing.** Two states is a pattern worth naming and not yet a
+national claim.
+
+**Date kinds held**: roster **retrieved 2026-08-30** (stated, as it must be — this file changes
+continuously), incentive **effective 2025-10-01**, signings counted by **signing year**.
