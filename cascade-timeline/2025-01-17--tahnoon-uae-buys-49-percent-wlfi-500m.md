@@ -23,6 +23,7 @@ actors:
 - Fiacc Larkin
 - MGX
 - United Arab Emirates
+- Ro Khanna
 tags:
 - world-liberty-financial
 - wlfi
@@ -101,6 +102,16 @@ sources:
   outlet: Abu Dhabi Global Market FSRA
   date: '2026'
   tier: 1
+- title: "Ranking Member Ro Khanna Presses World Liberty Financial for Information on Trump Family Crypto Corruption (letter to Zach Witkoff, Feb. 4, 2026)"
+  url: https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wlf.pdf
+  outlet: House Select Committee on the Strategic Competition Between the U.S. and the CCP (Democrats)
+  date: '2026-02-04'
+  tier: 1
+- title: "SEC EDGAR full-text search — 'Aryam' and 'Aryam Investment', verified zero hits"
+  url: https://efts.sec.gov/LATEST/search-index?q=%22Aryam+Investment%22
+  outlet: SEC EDGAR full-text search
+  date: '2026-08-31'
+  tier: 1
 status: confirmed
 capture_lanes:
 - Emoluments
@@ -127,7 +138,7 @@ Days before Donald Trump's January 20, 2025 inauguration, entities controlled by
   - **$31 million** to entities tied to the **Witkoff family**
   - **$31 million** to entities tied to co-founders **Zak Folkman** and **Chase Herro**
   - **~$1 million** not publicly accounted for in first-tranche reporting
-- **Second-tranche allocation ($250M due July 15, 2025)**: **undetermined in WSJ reporting**; the article states "The Wall Street Journal has yet to determine the specific allocation of the remaining $250 million investment Aryam is supposed to make by July 15, 2025." This is a live research gap.
+- **Second-tranche allocation ($250M, tranche due date July 15, 2025)**: **remains undetermined as of 2026-08-31**. WSJ's original reporting (Jan. 31, 2026) stated it could not determine the allocation. As of this pass, no subsequent reporting, court filing, or congressional exhibit has published it either — see "Second-Tranche Status" below for what was checked.
 - **Public disclosure**: February 1, 2026 (via Wall Street Journal), approximately one year after signing
 
 ## The Aryam Investment 1 Corporate Vehicles
@@ -208,9 +219,12 @@ Steve Witkoff's ProPublica disclosure (see [[witkoff-steve]]) documents **World 
 
 ## Congressional Oversight Response
 
+- **February 4, 2026**: Rep. Ro Khanna (Ranking Member, House Select Committee on the Strategic Competition Between the United States and the CCP) sends a document-and-information demand letter to WLFI co-founder Zach Witkoff, and a separate letter to Benjamin Wallace, U.S. Attorney for the District of Delaware, flagging that Aryam Investment 1's Delaware entity is domiciled in his district. The letter to WLFI directly quotes the same WSJ line this entry cites — "the Wall Street Journal was unable to determine 'how the second half of Aryam's investment, which was due by July 15, 2025, may have been distributed'" — and demands WLFI "describe how the second half of Aryam Investment 1's investment was distributed, including by specifying the recipients of any funds ... and the corresponding dates," with a response deadline of **March 1, 2026**. This is a **primary-source demand letter, not an exhibit containing the answer** — it independently corroborates the $187M/$31M first-tranche figures already in this entry but does not resolve the second-tranche question. (Source: Select Committee press release + letter PDF, fetched 2026-08-31.)
 - **February 5, 2026**: House Democrats launch formal investigation into WLFI / $500M UAE stake (see [[2026-02-19--house-democrats-probe-world-liberty-financial-uae-bank]])
 - **February 19, 2026**: Investigation expanded to include WLFI's UAE bank charter pursuit
 - **February–March 2026**: Various Democratic letters and probes; Republican senators have not joined
+- **No public WLFI response to the March 1, 2026 Khanna letter deadline was located** as of 2026-08-31 — checked via the Select Committee's own press-release archive, which shows no follow-up release characterizing a response. This is an absence in the searched record, not a confirmed non-response; the Committee may hold non-public correspondence.
+- **August 5 and July 10, 2026**: Sen. Elizabeth Warren separately presses Commerce Secretary Howard Lutnick over eased UAE AI-chip export controls following the WLFI investment (CNBC, per evidence-search news-tier hit; distinct line of inquiry from the tranche-allocation question — focused on export-control policy linkage, not fund distribution)
 - **No Senate Banking Committee** action on WLFI as of April 2026
 - **No SEC enforcement** action on WLFI disclosure adequacy as of April 2026
 - **No DOJ emoluments** investigation publicly documented
@@ -229,7 +243,8 @@ See [[trump-2-personnel-pipelines]] for the Pipeline 2 context — Witkoff and t
 
 - [x] **RESOLVED (April 2026)**: The corporate vehicle is **Aryam Investment 1**, with two twin entities in Delaware and Abu Dhabi registered in early December 2024, managed by G42 executives (Peng Xiao, Martin Edelman, Fiacc Larkin). Not registered with ADGM or UAE SCA. Operates in parallel to, not through, MGX or ADIA.
 - [x] **PARTIALLY RESOLVED (April 2026)**: First-tranche allocation — $187M Trump + $31M Witkoff + $31M Folkman/Herro + ~$1M unaccounted (all from first $250M tranche). Second $250M tranche allocation **remains undetermined** per WSJ reporting.
-- [ ] **New gap**: Full allocation of the second $250M tranche (due July 15, 2025) — to which WLFI entities and principals did it flow?
+- [ ] **CHECKED, STILL OPEN (2026-08-31)**: Full allocation of the second $250M tranche (tranche due date July 15, 2025) — to which WLFI entities and principals did it flow? Checked: SEC EDGAR full-text search (`efts.sec.gov`, company-identifying UA) for "Aryam" and "Aryam Investment" — **verified zero hits**, both queries; House Select Committee on the CCP's Feb. 4, 2026 demand letter to WLFI (primary source, retrieved directly) — asks the identical question, does not answer it, and no public WLFI response was located as of this pass; CourtListener federal-docket search on "World Liberty Financial" — one WLFI-named docket found (*Sun v. World Liberty Financial LLC*, N.D. Cal. 3:26-cv-03360, filed Apr. 21, 2026) but its cause is 28 U.S.C. § 1332 diversity breach-of-contract, unrelated to Aryam or the tranche on inspection of the docket text — ruled out, not adjacency-cited; general-web search tier (evidence-search `web`, local SearXNG) was **rate-limited fleet-wide across every retry this session** (`RateLimited`, 79-80/84 engines responsive but the handful covering news aggregators throttled) — a tooling-limited negative, not a content-exhausted one; WebSearch tool returned a session-budget exhaustion error before any query executed. **Remains genuinely undetermined in the public record as of 2026-08-31** — this is not adjacency-constructed, it is what the primary sources available this pass show.
+- [ ] **CHECKED, STILL OPEN (2026-08-31)**: On-chain forensic tracing of Aryam-to-WLFI token-distribution wallets and Aqua 1 Foundation on-chain activity. No wallet address for either entity's WLFI-related transactions is documented anywhere in the cascade-research or cascade-timeline corpus (confirmed by full-corpus grep this pass) or in any source reviewed. Etherscan's holder-chart and search UI require JavaScript execution WebFetch cannot perform (confirmed directly against a live Etherscan page this pass — the tool receives only the static shell, "Sorry, we are unable to generate the token holders chart" placeholder, no holder data). No dedicated blockchain-explorer client exists in evidence-search's source roster (`$ES limits` reviewed). This sub-question requires either an authenticated/JS-capable browser session against Etherscan/BscScan with a specific contract address as starting point, or a primary source (exchange disclosure, court exhibit, WLFI's own on-chain treasury statement) that names a wallet address — none of which this pass could supply. **Naming any wallet as Aryam- or Aqua-1-controlled without such a basis would be the exact fabrication error this task explicitly warns against; none is asserted here.**
 - [ ] **New gap**: Whether CFIUS was notified of the Aryam-WLFI transaction; whether Treasury or DOJ ever reviewed the Reg S treatment for the offshore purchaser; whether any FinCEN BSA SAR was filed by WLFI's banking counterparties
 - [ ] The specific timing of the 500,000-AI-chip agreement and which U.S. government official signed it — was it a formal Export Control Reform Act action, a Commerce Department deemed-export waiver, or a private-sector commercial arrangement under U.S. government sanction?
 - [ ] Whether the G42 20% allocation is documented in public contract or is a private arrangement
