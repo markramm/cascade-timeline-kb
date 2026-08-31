@@ -37,9 +37,12 @@ sources:
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
+- Theological Legitimation
 ---
 
 Following a 1969 Mississippi-based lawsuit against the IRS in which federal courts issue a preliminary injunction denying tax exemption to private schools that are segregated by race, the IRS adopts a non-discrimination policy applying to private schools on July 10, 1970. The policy, though it takes eight years to be fully implemented, represents a turning point in federal enforcement against segregation academies that have proliferated throughout the South since Brown v. Board of Education.
+
+**Date-kind note (added 2026-08-31):** the January 1970 preliminary injunction in *Green v. Kennedy*, 309 F. Supp. 1127 (D.D.C. 1970), and this July 10, 1970 administrative policy announcement are two distinct dated acts — a court order and a subsequent IRS press announcement implementing it — not one event. This entry's own July 10, 1970 date is the administrative-announcement date; the underlying court injunction predates it by roughly six months. See `themes/tax-trigger-founding-thread-1970-1971-1978-religious-right-mobilization.md` for the full dated sequence (injunction → policy → BJU notification → *Green v. Connally* decision → *Coit v. Green* SCOTUS affirmance → BJU revocation → 1978 proposed rule) and for the attributed tax-trigger causal thesis this entry is evidence for.
 
 In May 1969, a group of black parents in Holmes County, Mississippi, sued the Treasury Department to stop three segregation academies from obtaining tax-exempt status. Historian Randall Balmer, studying the origins of conservative Christians' rise in the United States, points to this lawsuit as a turning point. The resulting court order forces the IRS to reverse its 1967 policy that had allowed tax deductions for contributions to any segregated academy.
 

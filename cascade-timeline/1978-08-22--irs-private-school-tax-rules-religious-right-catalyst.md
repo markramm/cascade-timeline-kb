@@ -38,9 +38,12 @@ sources:
 status: confirmed
 capture_lanes:
 - Civil Rights Suppression
+- Theological Legitimation
 ---
 
 In August 1978, the IRS proposes new rules tightening tax-exempt status requirements for private elementary and secondary schools under IRC 501(c)(3) and begins holding hearings to determine whether segregated Christian academies should be eligible for tax exemption. The announcement triggers the mass political mobilization that creates the modern Religious Right movement.
+
+**Public reaction and outcome (added 2026-08-31, sourced this pass):** the proposed rule generates a mass letter-writing campaign — reported as "more than 100,000 letters of protest" per Wikipedia's segregation-academy article and "over 150,000 letters... mostly from Christians" per Wikipedia's Christian Right article. **The two counts disagree and neither was traced to a primary IRS or contemporaneous-news source this pass; report the range, not a single figure, until a primary count is located.** Congress subsequently bars the IRS from implementing the rule (specific appropriations mechanism not independently verified this pass). This is the specific act — a *generalized, prospective* rule extending the *Green v. Connally*/*Bob Jones* enforcement standard to any private school, rather than case-specific enforcement against named litigated schools — that produced mass mobilization where the 1970-1976 targeted enforcement had not. See `themes/tax-trigger-founding-thread-1970-1971-1978-religious-right-mobilization.md` for the full dated sequence, the attributed tax-trigger thesis (proponents: Balmer, Butler, FitzGerald; dissent: Williams), and a test of whether this event coheres with the 1964 and 1970 "founding trio" framing (finding: 1970 and 1978 cohere as one causal chain; 1964 is background context, not a peer dated event).
 
 Paul Weyrich, conservative activist and founding father of the Religious Right, later states explicitly: "What got us going as a political movement was the attempt on the part of the Internal Revenue Service (IRS) to rescind the tax-exempt status of Bob Jones University because of its racially discriminatory policies." Weyrich explains: "It shattered the Christian community's notion that Christians could isolate themselves inside their own institutions and teach what they pleased."
 
