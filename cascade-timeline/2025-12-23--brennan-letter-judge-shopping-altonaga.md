@@ -134,8 +134,13 @@ assignment across the district's other divisions and judges.
 
 - [[2026-04-20--digenova-appointed-brennan-probe-medetis-long-removed]] — the
   April 2026 consolidation event this letter anticipated four months earlier;
-  contains a fuller "Sequence of Events" section independently corroborating
-  the December 22 date and the Wainstein/Altonaga/Cannon facts.
+  contains a fuller "Sequence of Events" section stating the same December 22
+  date and Wainstein/Altonaga/Cannon facts. **NOT independent corroboration
+  (conductor correction, 2026-09-01):** that entry attaches no source to those
+  specific facts, and its own source list includes this same CNN article. A KB
+  entry agreeing with another KB entry that draws on the same reporting is one
+  source cited twice, not two sources agreeing. **The December 22 send date and
+  the Wainstein/Altonaga/Cannon facts rest on CNN alone.**
 - [[prosecutorial-revenge-faction]] — theme note documenting the four-node
   prosecutorial architecture and the Cannon forum-selection strategy this
   letter surfaced.
