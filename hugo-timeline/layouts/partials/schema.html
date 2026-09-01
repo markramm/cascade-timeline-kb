@@ -32,6 +32,16 @@
     {{- with .date -}}{{- $cit = merge $cit (dict "datePublished" .) -}}{{- end -}}
     {{- $sourcesList = $sourcesList | append $cit -}}
   {{- end -}}
+  {{- /* `about` is a CreativeWork, NOT an Event. A timeline entry is a DOCUMENTED
+       OCCURRENCE in an archive, not an attendable happening. schema.org/Event models
+       a scheduled event with a venue and attendees, so Google requires `location` on
+       it — a field ~4,700 of these entries have no honest value for, and synthesising
+       one ("United States") would be markup that lies to satisfy a validator. These
+       pages were never eligible for Event rich results anyway. CreativeWork +
+       temporalCoverage states what this actually is: a record of something that
+       happened on a date. The top-level Article type, citation list, and site-level
+       Dataset markup — what Dataset Search and the LLM indexers consume — are
+       unchanged. */ -}}
   {{- $data = merge $data (dict
     "@type" "Article"
     "headline" $title
@@ -43,9 +53,9 @@
     "isPartOf" $partOf
     "keywords" (.Params.tags | default slice)
     "about" (dict
-      "@type" "Event"
+      "@type" "CreativeWork"
       "name" $title
-      "startDate" $eventDate
+      "temporalCoverage" $eventDate
       "description" $desc
     )
     "mentions" $actorsList
