@@ -68,7 +68,7 @@ This is a documented, court-decided outcome — not a party's allegation — tha
 ## Research Gaps
 
 - [ ] The $150 million damages figure attributed to the suit was not independently verified against the complaint text (Dkt. 3, state-court complaint, or the amended complaint) in this research pass — only against secondary/press characterization. A follow-up pull of Dkt. 3 or the amended complaint would close this gap.
-- [ ] The appeal (11th Circuit, per Dkt. 197 notice) was not researched beyond confirming it was filed and that it stays the case; its docket number, panel, and any subsequent activity are unresearched.
+- [x] **Appeal docket number resolved 2026-09-01 (conductor)**: the Eleventh Circuit appeal is **No. 26-11795**, *Laura Loomer v. Bill Maher* — confirmed via the CourtListener search API (`type=r`, HTTP 200, 115,387 bytes), which returns it alongside the district docket `5:24-cv-00625` (M.D. Fla.). **The panel and subsequent appellate activity remain unresearched.**
 - [ ] WebSearch was unavailable for this research pass (session budget exhausted) after initial primary-document retrieval; only one secondary source (the ticket's own Dean Blundell entry point, fetched directly) was cross-checked against the primary order. Broader press-coverage survey was not attempted.
 - [ ] The original state-court complaint (Dkt. 3, filed 2024-11-19) was located in the docket but not retrieved/read in full; only the civil cover sheet snippet was checked.
 
