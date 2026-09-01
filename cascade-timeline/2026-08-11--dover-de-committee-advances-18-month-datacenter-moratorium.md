@@ -59,7 +59,7 @@ Dover's own moratorium proposal does not depend on or reference state preemption
 Dover's committee vote is the third distinct Delaware sub-state data-center action within four weeks, and the first in an *incorporated municipality* rather than a county:
 
 1. **Kent County Levy Court**, July 21, 2026 — permanent zoning ordinance (300-foot residential setbacks, closed-loop cooling, natural screening), industrial zones only. See [[2026-07-21--kent-county-de-first-data-center-ordinance]]. Kent County's rules do not apply within Dover or any other incorporated municipality in the county (Dover is the Kent County seat but a legally distinct municipal actor).
-2. **New Castle County** adopted similar siting rules in spring 2026, per Spotlight Delaware's August 13 reporting (not yet an independent entry in this KB — flagged as a gap below).
+2. **New Castle County** passed its own data-center siting ordinance 12-0 on March 10, 2026 — chronologically the *first* of the three Delaware sub-state actions, not concurrent with Dover's. See [[2026-03-10--new-castle-county-de-data-center-siting-ordinance]], which also tests Spotlight Delaware's "similar to Kent County's" framing directly against both ordinances' terms: it holds at the level of shared subject matter (county-level siting/buffer/cooling standards confined to unincorporated territory) but not at the level of specific numeric standards. That entry also names the "controversial data center project" this entry's sources left unnamed: Starwood Digital Ventures' "Project Washington," near Delaware City, which New Castle's council exempted from its own new ordinance via a same-night floor amendment.
 3. **Dover City Council Committee of the Whole**, August 11, 2026 — this entry: a proposed 18-month moratorium, committee-advanced only.
 
 A fourth, separate Kent County-area action — **Harrington, DE**, an incorporated municipality within Kent County — denied (rather than passed) a data-center-enabling ordinance on **August 17, 2026** (the council vote date; press accounts ran Aug 18-19), unanimously rejecting Ordinance 25-08 (adding data centers as a conditional use in the Manufacturing zone) despite a developer's $1M community-benefits offer. See [[2026-08-17--harrington-de-city-council-denies-data-center-conditional-use-ordinance]] for the full write-up, sourced to the city's own agenda packet plus WBOC and Spotlight Delaware reporting.
@@ -73,7 +73,7 @@ Dover fits the corpus's now-standard finding for the August wave: convergent, no
 - [ ] No ordinance number or ordinance text exists yet — Hall had not finalized language as of Aug 13 reporting. Track for the anticipated September introduction / October full-council vote and write a follow-on entry once adopted (status will change from PROPOSED to ADOPTED or the vote will fail).
 - [ ] Exact committee vote tally not reported by either source (both describe it as "unanimous" without a number).
 - [ ] The name(s) of the "at least one" (Spotlight Delaware) or "at least two" (Delaware Public Media) entities that approached the city about data center projects — both sources report city officials declined to disclose them. Do not name any entity not in the source text.
-- [ ] New Castle County's spring 2026 data-center siting ordinance is referenced by Spotlight Delaware but has no independent timeline entry in this KB — candidate for a separate write-task.
+- [x] New Castle County's spring 2026 data-center siting ordinance — now written up at [[2026-03-10--new-castle-county-de-data-center-siting-ordinance]]; vote confirmed as March 10, 2026 (not "earlier this spring" vaguely, and not concurrent with Dover's August action) via Delaware Public Media's contemporaneous report.
 - [x] Harrington, DE's denial of a data-center-enabling ordinance — now written up at [[2026-08-17--harrington-de-city-council-denies-data-center-conditional-use-ordinance]]; vote date confirmed as August 17, 2026 (not Aug 18 as this entry originally flagged) via the city's own CivicWeb agenda packet.
 - [ ] Governor Meyer's August 26, 2026 signature on data-center cost/energy legislation — headline-level only in this pass (WHYY, NBC10, CleanTechnica); primary bill text and mechanism (does it cover HB 445/HB 233, or add new terms) not verified.
 - [ ] No Dover-specific permit dataset was located to test for a grandfather-rush filing pattern; revisit once/if the city publishes one, and once an effective date exists to test against.
@@ -81,6 +81,7 @@ Dover fits the corpus's now-standard finding for the August wave: convergent, no
 ## Related Entries
 
 - [[2026-07-21--kent-county-de-first-data-center-ordinance]]
+- [[2026-03-10--new-castle-county-de-data-center-siting-ordinance]]
 - [[2026-08-13--fort-worth-louisville-consecutive-datacenter-moratorium-votes]]
 - [[2026-08-11--walker-county-ga-datacenter-moratorium-180-days-study-committee]]
 - [[2026-08-17--harrington-de-city-council-denies-data-center-conditional-use-ordinance]]
