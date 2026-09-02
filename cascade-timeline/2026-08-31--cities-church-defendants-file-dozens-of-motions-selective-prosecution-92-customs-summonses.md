@@ -102,3 +102,16 @@ were not read directly. The pastor's name and ICE title are carried from canon
 ([[2026-01-18--anti-ice-protesters-disrupt-st-paul-church-service]]), not from this reporting.
 The Star Tribune report is cited as independent confirmation of the filing; its full text was not
 retrievable (HTTP 429) at the time of writing.
+
+**Own-words pass (2026-09-02).** The defendants' own accounts were gathered and verified at
+primary sources after this entry was written: `own-words-pass-cities-church-prosecution-defendants-2026`
+in cascade-research. All three named defendants are **deployable as witnesses**. Georgia Fort
+narrated her own arrest on livestream — *"This is all stemming from the fact that I filmed a
+protest as a member of the media"* — and later described the prosecution's effect on her work:
+*"I also worry that if I return to Cities Church to cover the ongoing protests taking place
+there, I will be arrested again."* Nekima Levy Armstrong, who defends the protest as a protest
+rather than as coverage, puts the theology against the church's: *"The core of the gospel message
+is to love thy neighbor as you love yourself. And ICE has been doing the opposite of that."*
+Note that the three are not one voice — two say they were there as journalists, one as an
+organizer — and that Lemon's widely-quoted "we do not prosecute journalists for doing their job"
+line is his **legal motion's** language, not his own speech.
