@@ -34,3 +34,19 @@ The pause lands atop a site with an already-documented capture history: the $313
 **Update (2026-07-08):** KJZZ and Arizona Capitol Times report the joint legal agreement formalizing the pause, confirming it requires DHS to complete a full NEPA review before construction proceeds. Of 11 warehouses DHS purchased nationally for $1.07 billion under this program, Surprise's is now one of only a small number without confirmed active conversion plans — only the El Paso facility (Camp East Montana) has confirmed conversion plans proceeding as of this update.
 
 **Update (2026-06-17, prior to the NEPA pause): residents move to disincorporate the city.** Frustrated by the Surprise City Council's refusal to formally oppose the facility, activists filed a disincorporation petition with the Maricopa County Board of Supervisors, seeking to transfer municipal control to the county on the theory the county would be more willing to fight the conversion. Separately, ICE had scaled the project back from 1,500 to 542 beds, with an October earliest opening date and DHS agreeing to pay the city $300,000 annually in lieu of lost property taxes. The facility sits roughly 300 yards from residential homes and about a mile from a high school whose student population is over 60% Hispanic — the demographic proximity is a documented part of residents' organizing case, independent of the chemical-storage-proximity legal theory Mayes's NEPA suit relies on.
+
+**Update (2026-07-08) — the NEPA scope is 1,500 beds, not the 542 DHS promised the city.** The
+stipulated order signed July 8 bars DHS from converting the warehouse or detaining anyone until the
+environmental assessment concludes, and requires **DHS status reports to the court every 60 days**,
+the first due approximately **September 6, 2026**. Arizona retains the right to seek a preliminary
+injunction once the assessment is released, and no NEPA completion deadline has been announced.
+
+The capacity discrepancy is the finding: **the environmental assessment is scoped for 1,500 beds —
+nearly three times the 542-bed cap DHS verbally committed to the City of Surprise in March 2026.**
+The verbal commitment recorded in the June 17 update above is the number the city was given; the
+number being environmentally reviewed is the original build-out. Over **8,000 community comments**
+have been filed against the facility. The Rinchem chemical warehouse directly across the street
+stores hazardous materials with no confirmed evacuation plan — the proximity underlying Mayes's
+NEPA theory.
+
+*Coverage: daily-capture-reports ledger story `2026-07-08--surprise-az-ice-warehouse-nepa-paused-capacity-gap` (detention-watch), 2026-09-02 consume pass. Source: noiceinsurprise.com facts-and-timeline compilation (tier 2, community-advocacy compilation — the 1,500-bed NEPA scope and 60-day reporting schedule warrant confirmation against the stipulated order itself before the discrepancy is published).*
