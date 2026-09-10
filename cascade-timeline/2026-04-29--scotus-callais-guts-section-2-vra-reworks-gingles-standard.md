@@ -49,7 +49,8 @@ related_events:
   - 2026-06-12--vra-gutted-southern-states-race-to-redraw-maps-eliminating-majority-black-districts
   - 2023-06-08--allen-v-milligan
   - 1982-06-29--vra-1982-extension-results-test-section-2-strengthened
-coverage: []
+coverage:
+  - daily-capture-reports/headline/2026-04-29--scotus-callais-vra-section2-gutted-april-2026.md  # ledger dup, consumed 2026-09-01
 ---
 
 In a 6-3 decision authored by Justice Samuel Alito on April 29, 2026, the Supreme Court held in *Louisiana v. Callais* (No. 24-109) that Louisiana's majority-minority congressional district was an unconstitutional racial gerrymander even though it had been drawn to comply with Section 2 of the Voting Rights Act. The majority fundamentally reworked the 1986 *Thornburg v. Gingles* standard, holding that compliance with Section 2 cannot itself justify race-conscious mapping — collapsing the legal mechanism that for forty years required the creation of majority-minority districts in Deep South states. Justice Elena Kagan's dissent, joined by Justices Sonia Sotomayor and Ketanji Brown Jackson, called the ruling an evisceration of a still-necessary civil rights protection.

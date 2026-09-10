@@ -29,6 +29,8 @@ sources:
     publisher: Chattanooga Times Free Press
     date: '2026-07-15'
     tier: 2
+coverage:
+  - daily-capture-reports/datacenter/2026-07-14--new-york-hochul-data-center-moratorium-eo62-july-2026.md  # ledger dup, consumed 2026-09-01
 ---
 
 Governor Kathy Hochul signed Executive Order 62 on July 15, 2026, imposing the nation's first statewide moratorium on new hyperscale data centers (50 megawatts or larger) for up to one year while state regulators develop energy, water, and environmental rules. The 50 MW threshold targets exactly the facility class driving ratepayer cost-shift concern nationally. New York's market scale — the largest state economy yet to act — makes this the single highest-consequence action in the datacenter-resistance wave the timeline has tracked county-by-county since June.
