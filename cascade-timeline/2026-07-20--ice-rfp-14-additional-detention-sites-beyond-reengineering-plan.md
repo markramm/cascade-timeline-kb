@@ -42,6 +42,7 @@ related_events:
   - 2026-07-09--ice-solicits-in-house-detention-construction-contract-abandoning-navy-wexmac
 coverage:
   - daily-capture-reports/headline/2026-07-20--ice-14-site-expansion-beyond-reengineering-plan.md
+  - daily-capture-reports/headline/2026-07-17--ice-10-billion-own-land-construction-contractors-scout-sites.md  # SAM.gov solicitation detail, consumed 2026-09-12
   - daily-capture-reports/headline/2026-07-20--ice-detention-reengineering-14-site-expansion.md
 ---
 
@@ -50,3 +51,14 @@ Government documents obtained by TIME show that ICE issued a request for proposa
 The significance is that this sits *outside* the Detention Reengineering Initiative already documented here on June 23 — the plan targeting 100,000 beds by September 30 through 24 warehouse conversions. A separate 14-site RFP running in parallel indicates the buildout was expanding beyond its own announced program while that program was still in progress. Read against the August 19 entry recording the Reengineering Initiative stalling program-wide at 11 purchased sites and $1.074 billion spent, the July RFP marks the high-water mark of the expansion before it hit its constraint.
 
 Litigation was already tracking the buildout at this point: a federal judge halted the Williamsport, Maryland facility in April over sewage concerns, with additional suits ongoing in Arizona, New Jersey, and Michigan. The standardized 26-cell design across fourteen geographically scattered sites is the detail worth holding — it describes a replicable unit rather than a set of site-specific responses, which is what distinguishes an infrastructure program from a procurement.
+
+**Update (2026-09-12): the solicitation behind this reporting, and what it became.** The RFP TIME
+described was posted on SAM.gov on July 17, 2026 as solicitation **70CDCR26R00000026** — a
+construction program worth **up to $10 billion**, structured as a hybrid firm-fixed-price and
+labor-hour IDIQ with a 120-month ordering period. Beyond the 14 reserved locations, it prices 208
+cells ("Secure Housing Units") at eight existing Service Processing Centers at roughly $24-42
+million each, about $247 million combined. Notably, the winning contractor is directed to **scout
+potential acquisition sites and draft feasibility packages** — putting site selection for the next
+decade of detention buildout in the hands of the firm that profits from building it. Phase-1 bids
+closed September 11, 2026; see
+[[2026-09-11--ice-10b-detention-solicitation-phase-1-bids-due]].

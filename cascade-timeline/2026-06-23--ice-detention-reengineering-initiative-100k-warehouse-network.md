@@ -46,7 +46,8 @@ related_events:
   - 2026-04-09--hrw-details-ice-warehouse-detention-abuses
   - 2026-01-15--bradford-county-fl-commissioners-advance-sabot-igsa-3000-bed-proposal
   - 2025-01-08--gsa-secret-lease-gilroy-holsclaw-ice-detention-elmwood-capital-ecg6-llc
-coverage: []
+coverage:
+  - daily-capture-reports/headline/2026-09-07--ice-detention-reengineering-initiative-sept30-deadline-38b.md  # Sept-30 deadline status: 92,600 beds / 24 conversions / 10 turnkey, full activation by Nov 30; consumed 2026-09-12 []
 ---
 
 ICE's "Detention Reengineering Initiative" targets a detention capacity of 100,000 beds by September 30, 2026, built around 24 warehouse-converted facilities: 16 "processing centers" of 1,000–1,500 beds (designed for 3–7 day stays) and 8 large-scale centers of 7,000–10,000 beds. The buildout is backed by $45 billion of an $85 billion DHS appropriation. Counties enter through GEO Group and piggybacked U.S. Marshals Service contracts — Charlton County, Georgia earns roughly $230,000 per year from its arrangement, equivalent to about 20 percent of the county's employee salaries. Communities in Jackson County (MO), Marana (AZ), and elsewhere are organizing to block siting, and the ACLU documents record in-custody deaths as the expansion accelerates.
