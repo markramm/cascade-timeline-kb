@@ -43,6 +43,8 @@ sources:
   outlet: Washington Post
   date: '2026-04-02'
   tier: 1
+related_events:
+- 2026-08-08--senate-confirms-blanche-attorney-general-50-49
 status: confirmed
 capture_lanes:
 - Law Enforcement Weaponization
@@ -94,3 +96,9 @@ The firing reveals the paradox of weaponized institutions under authoritarian le
 The installation of Blanche—literally Trump's personal defense lawyer—as acting AG represents further erosion of the fiction that DOJ operates independently from the White House. Where Bondi at least had prosecutorial credentials and an establishment veneer, Blanche's primary qualification is having personally defended Trump in criminal proceedings. The principal-agent relationship is now explicit.
 
 The consideration of Lee Zeldin—a former congressman with minimal legal experience whose background is in military prosecution—suggests Trump prioritizes loyalty and political alignment over legal competence for the AG role, having learned that even a loyal lawyer like Bondi couldn't override judicial independence and grand jury refusals.
+
+## Update (2026-09-12): the Senate ratified the arrangement
+
+Zeldin did not get the job. Blanche served as acting Attorney General for roughly four months and was then **confirmed to the post permanently, 50-49, in an overnight vote on August 8, 2026**, sworn in August 10. Collins and Murkowski were the only Republican no votes; every Democrat opposed; McConnell was absent; Cassidy, a holdout until the day before, cast the deciding vote.
+
+This strengthens rather than dates the analysis above. What read in April as an emergency installation — the President's personal defense lawyer running the department that prosecutes on the public's behalf — has now passed through advice and consent and become the settled arrangement, by a single vote. See [[2026-08-08--senate-confirms-blanche-attorney-general-50-49]].
