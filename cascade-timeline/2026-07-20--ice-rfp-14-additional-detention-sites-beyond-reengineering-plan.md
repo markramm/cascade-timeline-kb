@@ -52,13 +52,16 @@ The significance is that this sits *outside* the Detention Reengineering Initiat
 
 Litigation was already tracking the buildout at this point: a federal judge halted the Williamsport, Maryland facility in April over sewage concerns, with additional suits ongoing in Arizona, New Jersey, and Michigan. The standardized 26-cell design across fourteen geographically scattered sites is the detail worth holding — it describes a replicable unit rather than a set of site-specific responses, which is what distinguishes an infrastructure program from a procurement.
 
-**Update (2026-09-12): the solicitation behind this reporting, and what it became.** The RFP TIME
-described was posted on SAM.gov on July 17, 2026 as solicitation **70CDCR26R00000026** — a
-construction program worth **up to $10 billion**, structured as a hybrid firm-fixed-price and
-labor-hour IDIQ with a 120-month ordering period. Beyond the 14 reserved locations, it prices 208
-cells ("Secure Housing Units") at eight existing Service Processing Centers at roughly $24-42
-million each, about $247 million combined. Notably, the winning contractor is directed to **scout
-potential acquisition sites and draft feasibility packages** — putting site selection for the next
-decade of detention buildout in the hands of the firm that profits from building it. Phase-1 bids
-closed September 11, 2026; see
-[[2026-09-11--ice-10b-detention-solicitation-phase-1-bids-due]].
+**Update (2026-09-12).** A SAM.gov pull found that the notice numbered 70CDCR26R00000026
+("Turn-key Detention Facilities") is a DIFFERENT procurement from the one TIME described here: it
+is a services acquisition for four contractor-owned, contractor-operated facilities in the Denver,
+Miami, Philadelphia and Seattle AORs, carries no dollar figure and names none of the 14 sites. See
+[[2026-09-11--ice-turnkey-detention-solicitation-four-aors-deadline-extended]], which records that
+correction.
+
+The $10 billion government-owned-land construction program described in the ledger capture for
+July 17 — eight Secure Housing Unit projects totalling 208 cells at roughly $24-42M each, plus 14
+reserved locations, with the winning contractor directed to scout acquisition sites and draft
+feasibility packages — is a real and separate thread, but it has **not** been matched to a SAM.gov
+notice number. Project Saltbox and TIME are the sourcing. **Do not attach 70CDCR26R00000026 to it.**
+Finding the actual notice number for the construction program is an open task.
