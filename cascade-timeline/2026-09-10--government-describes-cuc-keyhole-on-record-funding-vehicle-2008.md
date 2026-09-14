@@ -46,6 +46,7 @@ related_events:
   - 2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity
   - 2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony
   - 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
+  - 2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor
 coverage: []
 ---
 
@@ -69,5 +70,15 @@ The government states the other five active investigations are unrelated to thes
 **What this resolves, and what it does not.** This corpus recorded in January that Puppet Master was "accepted under CUC Op Keyhole" and flagged the undisclosed boundary as the finding — while stating plainly that nothing established Keyhole as a national political-surveillance operation. That discipline holds up. On the government's account Keyhole is regional, not national; predates this administration by sixteen years; and is an accounting-and-assets vehicle rather than a program with a political mission. If accurate, the honest reading is that the nesting is less sinister than the sentence made it look, and the corpus's refusal to overclaim was correct.
 
 Three things nonetheless remain live. First, this is the government's characterization in an adversarial filing resisting discovery, not a produced record — no certification memorandum, reauthorization document or audit has been disclosed. Second, the account is internally notable: an operation certified in 2008 for narcotics and child-exploitation work absorbed two domestic political-surveillance investigations in January and March 2026, which is a fact about what the vehicle was used for regardless of what it was built for. Third, Defendant Sant contests the premise of the filing itself — his opposition (Doc. 258) notes that AUSA Tory Sailer emailed defense counsel Jill Brisbois on September 1 saying he "looked into this further yesterday and learned to [sic] operational purpose of the Keyhole is not how it was characterized at the hearing," and argues the government offers no plausible explanation for why this information was unavailable before. Sant has asked for an **evidentiary hearing on the scope and purpose of Operation Keyhole**; Schultz said he will rule on that request after the supplemental briefing, and gave Sant seven days from the September 10 filing to respond.
+
+**The exclusivity claim checks out against our own documents.** The brief says Keyhole is
+administered exclusively by the SAC HSI St. Paul (MN/ND/SD). This corpus documents an HSI
+undercover agent inside a church sanctuary in Ann Arbor, Michigan on April 8, 2026, on a
+Minnesota-originated tasking — which looked like a tension. It is not: that ROI carries case number
+`DD02PR26MS0003`, while every Minnesota document in the set carries `MS02…`. On the most economical
+reading of the prefix as an office code, the Ann Arbor operation was opened under a Detroit field
+office case number and therefore outside St. Paul's CUC. Stated as a reading rather than a fact —
+no HSI numbering key has been located. See
+[[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]].
 
 **Sourcing note.** Every figure and date above is quoted or paraphrased directly from Doc. 263, retrieved from RECAP and read in full (8 pages, 38 occurrences of "Keyhole"). Nothing here is inferred from press coverage. The government's factual assertions are recorded as its assertions; none has been independently verified against a produced document, and the defense has not yet responded.

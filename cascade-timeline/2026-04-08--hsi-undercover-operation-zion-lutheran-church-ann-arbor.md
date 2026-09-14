@@ -164,11 +164,56 @@ ever contested.
 - ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SAs Jacob Marquis, Katherine Wespetal, Timothy Gorman, and Terri Botterbusch as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - ~~Whether UCA 9759 is the same undercover agent reported by The Intercept as having offered to "build items" for direct action to a Sunrise organizer after a January 31 training~~ **RESOLVED 2026-08-20, negative**: ROI 212-11 (the Jan 31 Sunrise Movement training) shows the "build items" offer was made by **UCA 9833**, not UCA 9759. UCA 9759's only other confirmed appearance is alongside UCA 5022 at a Feb 2 50501 Minnesota meeting. They are distinct operatives.
 - Whether Zion Lutheran or the Southeast Michigan Synod has taken or is considering legal action — still open.
+- ~~Whether this operation ran on CUC Op Keyhole's authorization~~ **RESOLVED 2026-09-14 — almost certainly NOT.** See the case-number section below.
 - ~~Whether any Ann Arbor voice (Pastors Debner/Cherney, a Zion Lutheran member, or the Southeast Michigan Synod) has spoken publicly, on the record, about this surveillance~~ **CHECKED 2026-08-20, verified absence**: no named Ann Arbor voice has yet gone on record. Michigan Advance's flagship story (read in full) contains no church quote despite the reporter visiting the building; RNS, Word&Way, and four other outlets covering the broader multi-church pattern mention Ann Arbor only via the ROI. Attendee detail (Uganda mission trip, business card, Romulus protest) should continue to be sourced as quoted-from-the-surveillance-document, not rendered as witness testimony, until this changes. See [[verified-absence-no-named-ann-arbor-voice-on-record-zion-lutheran-surveillance-2026]]. Re-check periodically — story is still developing.
 - ~~The remaining page of this ROI (page 3 of 3) and the rest of the ~30 unsealed reports~~ **RESOLVED 2026-08-20**: All 31 attachments to Doc. 212 retrieved and archived with SHA-256. See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]] for the full roster, accountability chain, and newly surfaced material (SAC Saint Paul named, Isaac Sant named directly in the government's own surveillance ROIs, "The Conspiracy" org chart, financial-subpoena detail on SEIU/CWA/Sunrise/Voices for Racial Justice, and additional church/union-hall operations at St. John the Evangelist Episcopal, Prince of Peace Roseville, and the United Labor Center).
+
+
+## Whether this ran on Keyhole: the case number answers it
+
+Added 2026-09-14, after the government described CUC Keyhole on the record in *US v. Sant*
+(Doc. 263, filed 2026-09-10; see
+[[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]]).
+
+That filing states CUC Keyhole is administered **exclusively by the Special Agent in Charge, HSI
+St. Paul**, whose area of responsibility is Minnesota, North Dakota and South Dakota (historically
+Iowa and Nebraska). Michigan is not in it. That appeared to sit awkwardly against an HSI undercover
+agent operating in an Ann Arbor church sanctuary on a Minnesota-originated tasking.
+
+**The case numbers resolve it without needing a new records request.** Across the documents this
+corpus holds:
+
+| Case number | Operation | Documents |
+|---|---|---|
+| `MS02PR26MS0003` | Operation Puppet Master | the Keyhole acceptance ROI |
+| `MS02PR26MS0004` | Project Whipple Shield | Prince of Peace, Workers Assembly, St. John's, the church-plaintiffs non-compliance motion |
+| **`DD02PR26MS0003`** | **this operation** | ROI `DD02PR26MS0003-002`, "April 8, 2026 Breaking the Ice Undercover Operation" |
+
+Every Minnesota document carries an `MS02…` prefix. This ROI carries **`DD02…`**. The most
+economical reading is that the leading pair is an office code — `MS` for the St. Paul/Minnesota
+office, `DD` for Detroit — and that the Ann Arbor operation was opened under a **Detroit field
+office case number**, which is exactly why it would not sit inside St. Paul's certified undercover
+operation.
+
+On that reading there is **no contradiction** in the government's exclusivity claim. The Minnesota
+investigation reached into Michigan by collateral tasking, and Detroit opened its own file to
+receive it; the funding vehicle stayed in St. Paul. Note the shared suffix — `26MS0003` appears in
+both `MS02PR26MS0003` and `DD02PR26MS0003` — which is consistent with Detroit docketing the matter
+as Minnesota-originated.
+
+**This is inference from three observed prefixes, not a documented key.** No HSI case-numbering
+reference has been located, and the corpus has an open, blocked ticket on a fourth prefix
+(`MS05DR26MS0004`, a `DR` rather than `PR` series with an `05` rather than `02` office code,
+carrying the December 2025 pre-Puppet-Master surveillance) precisely because the numbering scheme
+is not understood. Per the discipline recorded on that ticket — *do not assert what a case number
+means without a document saying so* — this section states the reading and its basis rather than
+treating it as established. What **is** established is the bare fact that the Ann Arbor ROI carries
+a different case number than every Minnesota document in the set.
 
 ## Cross-References
 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[evidentiary-layer-control-after-federal-killings]]
 - [[2025-03-15--hsi-agent-fatally-shoots-ruben-ray-martinez-south-padre-island]]
+- [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]]
+- [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
