@@ -26,6 +26,8 @@ sources:
     publisher: SCOTUSblog
     date: '2026-06-29'
     tier: 1
+coverage:
+  - daily-capture-reports/headline/2026-06-29--chatrie-scotus-geofence-fourth-amendment-data-broker-threat.md  # consumed 2026-09-14
 ---
 
 On **June 29, 2026**, the Supreme Court ruled in *Chatrie v. United States* that individuals have a Fourth Amendment expectation of privacy in location data revealing their physical movements, and that even short-term surveillance of those movements is a search requiring a warrant. The ruling — the Court's first major digital-surveillance decision since *Carpenter v. United States* (2018) — directly constrains law-enforcement and immigration agencies that have used **geofence warrants** (sweeping demands to providers like Google for the location data of every device in an area) without individualized warrant requirements.

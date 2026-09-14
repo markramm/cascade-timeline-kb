@@ -24,6 +24,8 @@ sources:
     publisher: NBC News
     date: '2026-07-08'
     tier: 1
+coverage:
+  - daily-capture-reports/headline/2026-07-07--doj-election-officials-prosecution-threat-noncitizen-voting.md  # consumed 2026-09-14
 ---
 
 DOJ Civil Rights Division chief Harmeet Dhillon sent letters to all 50 states and D.C. on July 7, threatening criminal prosecution of election officials if noncitizen voters remain on the rolls — a coercive escalation after courts rejected DOJ's civil legal route in 11+ district-court losses. Simultaneously, DOJ announced federal election monitors for 15 jurisdictions across six states, concentrated in Democratic-leaning cities: Boston, Maricopa, Detroit, Ramsey County (MN), Fairfax, and East Lansing. Courts in Michigan, Oregon, California, Massachusetts, and Rhode Island have already blocked DOJ's compelled voter-roll access — this is the executive branch doubling down via criminal threat after losing repeatedly in court.
