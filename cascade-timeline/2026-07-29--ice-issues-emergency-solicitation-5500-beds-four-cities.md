@@ -28,6 +28,8 @@ sources:
     publisher: Yahoo Finance
     date: '2026-07-29'
     tier: 2
+coverage:
+  - daily-capture-reports/headline/2026-07-29--ice-reengineering-four-facility-solicitation-july-2026.md  # re-capture, consumed 2026-09-14
 ---
 
 ICE published a solicitation on July 29 seeking contractors to stand up turnkey detention facilities near Seattle (1,500 beds), Denver (1,500), the Philadelphia field-office area (1,800), and Miami (700) — all required to be operational within 30 days of contract award. Each facility must include five immigration courtrooms and ICE attorney offices, embedding immigration courts inside the detention facility itself. The sub-week response window signals a no-competition IGSA acquisition method. The expansion is part of the administration's $38.3B build-out targeting 92,600 total detention beds, alongside eight planned mega-centers of up to 10,000 detainees each.

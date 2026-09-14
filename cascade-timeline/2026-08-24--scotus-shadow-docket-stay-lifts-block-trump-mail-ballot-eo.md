@@ -6,6 +6,7 @@ title: "SCOTUS Shadow-Docket Stay 6-3 Lifts Block on Trump Mail-Ballot EO Ten We
 importance: 10
 status: confirmed
 coverage:
+  - daily-capture-reports/headline/2026-08-24--scotus-lifts-mail-ballot-eo-injunction.md  # consumed 2026-09-14
   - ledger: daily-capture-reports
     story: headline/2026-08-25--scotus-emergency-stay-mail-ballot-trump-eo-6-3-talwani-tro
     note: "Ledger re-captured this ruling on 2026-08-25 (one day after the canonical event date) with a SCOTUSblog emergency-docket source. Dropped as duplicate; canon entry is authoritative and better-sourced (4 sources). The ledger story adds the Talwani TRO thread as context — worth checking whether that TRO has its own canon entry."

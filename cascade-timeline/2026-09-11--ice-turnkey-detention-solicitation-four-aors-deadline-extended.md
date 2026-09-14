@@ -53,6 +53,7 @@ sources:
     date: '2026-07-10'
     tier: 1
 related_events:
+  - 2026-07-29--ice-issues-emergency-solicitation-5500-beds-four-cities
   - 2026-07-20--ice-rfp-14-additional-detention-sites-beyond-reengineering-plan
   - 2026-06-23--ice-detention-reengineering-initiative-100k-warehouse-network
   - 2026-08-19--ice-detention-reengineering-initiative-stalls-program-wide-11-purchased-sites
@@ -82,6 +83,21 @@ This entry originally described a **"$10 billion, 14-site construction solicitat
 - **No mobile courtrooms.** The only related language is the requirement to provide EOIR and other administrative space.
 
 The $10B/14-site/Guantánamo material is real reporting about a **different** procurement — the government-owned-land construction program TIME documented in July, recorded separately at [[2026-07-20--ice-rfp-14-additional-detention-sites-beyond-reengineering-plan]]. Two ICE detention procurements were running in parallel and the secondary coverage conflated them. This entry now describes only what 70CDCR26R00000026 actually is.
+
+**The July predecessor, and the bed counts.** Canon already holds
+[[2026-07-29--ice-issues-emergency-solicitation-5500-beds-four-cities]] — an ICE solicitation
+published 2026-07-29 for turnkey facilities in the **same four locations**: Seattle (1,500 beds),
+Denver (1,500), the Philadelphia field-office area (1,800) and Miami (700) — **5,500 beds total** —
+each required to include **five immigration courtrooms and ICE attorney offices**, with a
+sub-week response window. Those bed counts do not appear in the September notice text and are
+recorded here from that entry, not from this solicitation.
+
+That July posting, the July 10 Sources Sought (70CDCR26RFI000020) and this September RFP are three
+stages of one acquisition covering the same four AORs. It also supplies the substance behind this
+notice's bare requirement that the contractor "provide and maintain required ICE, IHSC, OPLA,
+USCIS, EOIR … spaces": in the July version that means five courtrooms per facility. **Immigration
+courts inside privately owned detention buildings, on a ten-year vehicle** — that is the structural
+fact this chain establishes, and it does not depend on any disputed figure.
 
 ## The full solicitation PDF, read directly
 
