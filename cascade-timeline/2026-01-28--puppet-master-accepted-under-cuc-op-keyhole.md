@@ -191,6 +191,35 @@ outlets that broke and drove the Minnesota story — NYT, Guardian, KSTP, Minnes
 AP, Democracy Now — has reported it. Credit Biometric Update for surfacing it; the corpus
 contribution is that we hold the primary document and can verify the sentence directly.
 
+## UPDATE 2026-09-10: the government answered
+
+The non-response ended. After the August 27 discovery hearing the government moved for leave to
+file supplemental briefing (Doc. 257, Sept 1), Schultz granted it (Doc. 259, Sept 2), and the
+**Government's Supplemental Brief (Doc. 263, filed Sept 10)** describes Keyhole on the record.
+
+Its account: a certified undercover operation administered exclusively by the SAC, **HSI St. Paul**
+(MN/ND/SD, historically IA/NE), **first certified December 22, 2008**, whose function is financial —
+sharing undercover assets across investigations. **77 separate investigations** since 2008, spanning
+narcotics, child sexual abuse, financial and counter-proliferation work. Recertified by the HSI EAD
+**June 29, 2026**; next review due **December 31, 2026**. Six active investigations as of June, one
+being Whipple Shield. **Puppet Master approved for inclusion January 2026; Whipple Shield March
+2026**; Puppet Master had ceased undercover activity under Keyhole by June.
+
+**This substantially deflates the "much bigger question" framed above, and that should be said
+plainly.** On the government's account Keyhole is regional not national, predates this
+administration by sixteen years, and is an accounting vehicle rather than a program with a
+political mission. The discipline in the "What we do NOT know" section below was correct: the
+corpus declined to claim a nationwide political-surveillance operation, and the record now says it
+was not one.
+
+What remains live: this is an adversarial characterization resisting discovery, not a produced
+certification record or audit; the vehicle's *use* — absorbing two domestic political-surveillance
+investigations in January and March 2026 — is a separate fact from its design; and Sant contests
+the filing's premise, citing an AUSA email and asking for an **evidentiary hearing on Keyhole's
+scope and purpose**, which Schultz will rule on after briefing.
+
+Full detail: [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]].
+
 ## Cross-References
 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
