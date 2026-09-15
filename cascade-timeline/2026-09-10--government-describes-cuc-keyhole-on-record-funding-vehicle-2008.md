@@ -47,7 +47,9 @@ related_events:
   - 2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony
   - 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
   - 2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
+    title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
 ---
 
 On September 10, 2026 the government filed a supplemental brief (Doc. 263) describing CUC Operation Keyhole on the record for the first time. It came after an August 27 discovery hearing at which, in the government's own words, "it became clear how important 'Operation Keyhole' is to the defendants' motion for discovery." The government moved for leave on September 1; Magistrate Judge David Schultz granted it September 2 and set a September 11 deadline.

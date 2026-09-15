@@ -67,7 +67,9 @@ sources:
     tier: 3
 capture_lanes:
   - Civil Rights Suppression
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
+    title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
 ---
 
 ## Opening
