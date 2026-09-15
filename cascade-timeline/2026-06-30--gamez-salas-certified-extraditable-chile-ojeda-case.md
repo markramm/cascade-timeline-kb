@@ -38,7 +38,7 @@ sources:
     tier: 1
 capture_lanes:
   - Carceral (Alien Enemies Act deportation predicate)
-  - Data Colonialism / Techno-Feudalism (foreign-force-projection substrate)
+  - Data Colonialism and Techno-Feudalism (foreign-force-projection substrate)
 coverage: []
 ---
 

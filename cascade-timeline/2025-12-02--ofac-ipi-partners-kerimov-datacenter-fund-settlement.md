@@ -49,7 +49,7 @@ status: confirmed
 capture_lanes:
 - AI-Datacenter Buildout
 - Russian Capital in US Procurement Surface
-- Sanctions Evasion / Financial Opacity
+- Sanctions Evasion and Financial Opacity
 ---
 
 On December 2, 2025, OFAC announced a $11,485,352 civil settlement with **IPI Partners, LLC**, a Chicago-based private equity firm specializing in buying, developing, and operating US data centers, for 51 apparent violations of Ukraine-/Russia-related sanctions (31 C.F.R. part 589).
