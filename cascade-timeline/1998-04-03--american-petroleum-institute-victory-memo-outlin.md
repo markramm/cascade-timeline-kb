@@ -37,7 +37,7 @@ sources:
   tier: 1
   outlet: Govinfo
 status: confirmed
-id: '1998-04-03--american-petroleum-institute-"victory"-memo-outlin'
+id: 1998-04-03--american-petroleum-institute-victory-memo-outlin
 priority_id: claude-priority-climate-denial-fossil-fuel-network
 capture_lanes:
 - Military-Industrial Complex

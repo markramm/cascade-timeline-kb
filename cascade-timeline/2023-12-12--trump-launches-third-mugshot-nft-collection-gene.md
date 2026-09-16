@@ -29,7 +29,7 @@ tags:
 - crypto
 - revenue
 - digital-assets
-id: 2023-12-12--trump-launches-third-'mugshot'-nft-collection-gene
+id: 2023-12-12--trump-launches-third-mugshot-nft-collection-gene
 capture_lanes:
 - Electoral Manipulation
 - Financial Capture

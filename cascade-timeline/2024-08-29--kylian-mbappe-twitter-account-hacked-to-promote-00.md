@@ -5,7 +5,7 @@ actors:
 - Unknown Hackers
 - Sahil Arora
 date: 2024-08-29
-id: 2024-08-29--kylian-mbapp\u00e9-twitter-account-hacked-to-promote-00
+id: 2024-08-29--kylian-mbappe-twitter-account-hacked-to-promote-00
 importance: 8
 status: confirmed
 sources:

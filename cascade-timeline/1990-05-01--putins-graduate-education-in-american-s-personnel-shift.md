@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-id: 1990-05-01--putin's-graduate-education-in-american-s-personnel-shift
+id: 1990-05-01--putins-graduate-education-in-american-s-personnel-shift
 date: 1990-05-01
 title: 'Putin''s Transition from KGB to St. Petersburg Government: Early Regulatory
   Personnel Shift'

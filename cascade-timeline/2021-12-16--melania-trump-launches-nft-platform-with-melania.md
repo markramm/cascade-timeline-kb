@@ -35,7 +35,7 @@ sources:
   outlet: Prnewswire
 importance_score: 7
 status: confirmed
-id: '2021-12-16--melania-trump-launches-nft-platform-with-"melania'''
+id: 2021-12-16--melania-trump-launches-nft-platform-with-melania
 priority_id: RT-EXP-086A8162-nft-pump-and-dump-networks
 capture_lanes:
 - Financial Capture

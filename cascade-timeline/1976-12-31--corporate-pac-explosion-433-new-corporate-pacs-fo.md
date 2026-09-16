@@ -36,7 +36,7 @@ status: confirmed
 connections: []
 contradictions: []
 verification_status: verified
-id: 1976-12-31--corporate-pac-explosion:-433-new-corporate-pacs-fo
+id: 1976-12-31--corporate-pac-explosion-433-new-corporate-pacs-fo
 capture_lanes:
 - Judicial Capture
 - Corporate Capture
