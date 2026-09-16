@@ -47,11 +47,15 @@ related_events:
   - 2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge
 coverage:
   - daily-capture-reports/feed/2026-09-09--seiu-ca-president-huerta-felony-arrest-ice-raid-la.md
+related_research:
+  - docket-record-united-states-v-huerta-2-25-mj-03504-2-25-cr-00841
 ---
 
 On **July 27, 2026** the U.S. Attorney's Office for the Central District of California moved to dismiss its case against **David Huerta**, president of SEIU California, **more than a year** after arresting him at an ICE raid on a downtown Los Angeles clothing wholesaler and charging him with a felony.
 
-The charge did not fail at trial. It **degraded in stages**. Huerta was arrested in **June 2025** and charged with felony obstruction of a federal officer — a case announced on social media with considerable fanfare. In **October 2025** the Justice Department quietly reduced it to a **misdemeanor**. In July 2026 it moved to drop the matter altogether. At no point did a court rule the charge invalid; the government withdrew it.
+The charge did not fail at trial. It **degraded in stages**. Huerta was arrested in **June 2025** and charged — via a magistrate complaint, case 2:25-mj-03504, filed June 8 — with **felony conspiracy to impede a federal officer under 18 U.S.C. § 372**, a case announced on social media with considerable fanfare. In **October 2025** the Justice Department quietly reduced it to a **Class A misdemeanor Information (case 2:25-cr-00841-SB) charging 18 U.S.C. §§ 1501, 2(a) — Obstruction, Resistance, or Opposition of a Federal Officer**, and Huerta pleaded not guilty at arraignment on November 25, 2025. In July 2026 it moved to drop the matter altogether. At no point did a court rule the charge invalid; the government withdrew it. **The statute numbers are confirmed directly from the charging documents** (the complaint's docket-entry text and the Information's PDF text layer), not press paraphrase — see [[docket-record-united-states-v-huerta-2-25-mj-03504-2-25-cr-00841]].
+
+**Precision on the July 27 dismissal**: Courthouse News, quoting the government's filing directly, reports this was a dismissal **without prejudice**, with prosecutors stating they expected to move for dismissal **with prejudice** (barring refiling) within 30 days if Huerta continued to comply with his pretrial release terms. Whether that second, with-prejudice motion was actually filed is not confirmed in this corpus as of this entry's last update.
 
 Huerta's response names what the interval cost: "**There was never a real case, only an attempt to punish and silence me for exercising my constitutional rights.**" His attorneys, Abbe Lowell and Marilyn Bednarski, said the case "**sought to silence criticism of the administration's improper immigration actions.**" The U.S. Attorney's office, in dismissing, offered: "**We don't arrest people for peacefully protesting.**"
 
