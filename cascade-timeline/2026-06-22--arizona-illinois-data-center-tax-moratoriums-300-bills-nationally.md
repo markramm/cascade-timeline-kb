@@ -46,9 +46,28 @@ related_events:
   - 2026-06-10--abbott-directive-puct-ercot-data-center-infrastructure-costs
   - 2025-11-01--pjm-capacity-auction-record-data-center-40-percent-costs
   - 2025-07-23--eo-accelerating-federal-permitting-data-center-infrastructure
-coverage: []
+coverage:
+  - daily-capture-reports/datacenter/2026-06-10--arizona-data-center-tax-incentive-3yr-pause-hobbs-2026.md
 ---
 
 Arizona enacted a three-year moratorium on its data center sales-tax exemption beginning July 1, 2026 (running through June 30, 2029), and Illinois Governor JB Pritzker suspended new-development incentives effective the same date. Texas's governor separately directed the Public Utility Commission to ensure data centers pay full infrastructure and interconnection costs so residential ratepayers are not burdened, while Virginia's governor amended ratepayer-protection bills that critics say weakened them. Good Jobs First and MultiState document more than 300 data center bills filed across 30-plus states in 2026 — a policy shift from incentive-focused recruitment to regulatory oversight. Texas's existing exemptions cost an estimated $1.3 billion per year and Virginia's roughly $1.6 billion per year.
 
 This is the state-legislative front of the data-center fiscal-capture pattern ([[2026-06-11--data-center-fiscal-capture-tax-exemptions-state-budgets-electoral-salience]]): the moment the cost-shift onto ratepayers and state budgets became electorally salient enough that even hosting states began clawing back the giveaways. It runs alongside the Texas PUC infrastructure-cost directive ([[2026-06-10--abbott-directive-puct-ercot-data-center-infrastructure-costs]]) and against the federal permitting-acceleration push ([[2025-07-23--eo-accelerating-federal-permitting-data-center-infrastructure]]), with the PJM record capacity auction ([[2025-11-01--pjm-capacity-auction-record-data-center-40-percent-costs]]) as the cost signal driving the backlash.
+
+**Update (2026-09-16 consume pass) — the Arizona signing date and the annual cost.** A capture-ledger
+story on the Arizona half of this entry was dispositioned as a duplicate rather than promoted, but it
+carries two facts this entry did not: Governor **Katie Hobbs signed the budget bill on June 10, 2026**
+(this entry is dated to the June 22 MultiState/NRDC policy roundup, which reported the moratorium
+already enacted), and the paused exemption is worth approximately **$38 million per year** to the
+state, per Arizona Capitol Times. The moratorium bars the Arizona Commerce Authority from accepting
+new applications through June 30, 2029.
+
+**The application rush is the part worth tracking.** Axios Phoenix reported (2026-07-08) that in the
+two weeks between the signing and the July 1 effective date, developers filed nearly as many
+exemption applications as in the previous thirteen years combined. A moratorium with a announced
+future start date is an incentive to file before it lands — so the pause's first measurable effect
+was a surge in exactly the applications it was meant to stop. The identities of those last-minute
+applicants have not been pulled and are an open lead; so is whether the $38M figure reconciles
+against Arizona Commerce Authority reporting.
+
+*Source: daily-capture-reports ledger story `2026-06-10--arizona-data-center-tax-incentive-3yr-pause-hobbs-2026` (datacenter-watch), 2026-09-16 consume pass.*
