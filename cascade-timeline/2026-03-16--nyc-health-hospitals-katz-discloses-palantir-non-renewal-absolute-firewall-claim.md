@@ -60,11 +60,10 @@ Secondary reporting (via The Intercept) describes a clause said to permit Palant
 
 ## Research gaps
 
-- **Conductor QC 2026-09-17 — AFSC citation struck.** The American Friends Service Committee newsroom
-  post was carried as a tier-2 `sources:` entry. The originating ticket is explicit that AFSC is **"a
-  compiled secondary source — use it as a lead-map to primary documents, never as a citation."** It
-  was frontmatter-only (no body claim rested on it) and fully redundant to The Intercept's tier-1
-  reporting of the same disclosure, so removal costs nothing. Kept as a lead, not a source.
+- **Source note, 2026-09-17 — AFSC citation removed.** The American Friends Service Committee newsroom
+  post had been listed as a tier-2 source. It is a compiled secondary source, useful as a map to
+  primary documents but not as a citation. No claim in this entry rested on it, and The Intercept's
+  tier-1 reporting covers the same disclosure. Kept as a lead, not a source.
 - The NYC H+H–Palantir contract itself has not been obtained; the "de-identify PHI...for purposes other than research" clause is unverified secondary-source language, not contract text.
 - The Council hearing video/minutes were located (Legistar item T2026-1374) but not independently transcribed in this pass; Katz's quotes here are as reported by The Intercept, not fetched from a primary transcript.
 - Becker's Hospital Review coverage was reached only via search-result extract (direct fetch blocked, HTTP 403); no url recorded per the no-fabricated-URL discipline.
