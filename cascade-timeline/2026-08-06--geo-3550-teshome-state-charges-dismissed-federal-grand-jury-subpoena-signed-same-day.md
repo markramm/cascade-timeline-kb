@@ -111,8 +111,20 @@ MiCOURT case search, not from any party's or outlet's characterization):
   followed a **pre-examination hearing** held that day before Hearing Officer J. Cedric Simpson (the
   case had been calendared for a "Probable Cause Conference" on 08/06/2026 after an earlier
   07/30/2026 date was removed from the calendar). An "Order of Acquittal/Dismissal or Remand" was
-  generated the same day, all counts, and the LEIN entry for the embezzlement count was ordered
-  removed the following day, 08/07/2026.
+  generated the same day, all counts. **The LEIN removal was GENERATED on 08/06 and SENT TO the
+  police department on 08/07** — two dated steps of one action, not an 08/07 order. That two-step
+  split is the most likely origin of Drop Site's August 7 date: 08/07 is the only date in the
+  register that a reader skimming the event list could mistake for the disposition.
+- **Pre-filing chronology, from the register** (independently confirmed 2026-09-17): complaint
+  **authorized 06/04/2026**, **complaint issued 06/11/2026**, **warrant signed and issued 06/12/2026**
+  (Judge Nancy M. Wang). So roughly a week separates authorization from warrant. The register also
+  records **"CO-DEFENDANT NAMED IN COMPLAINT"** — confirming from the court record what had only been
+  reported: a second person was charged in the same complaint. That co-defendant is **not named here**;
+  no source names them and this corpus does not restore a name the record and the reporting both
+  withhold.
+- **Bond**: personal, $5,000, set 06/26/2026. Teshome **stood mute** at arraignment (the court enters
+  a not-guilty plea), **waived the 14-day rule**, and **appeared in custody** represented by retained
+  counsel. Age given in the register as **27**.
 - **This register does not state the dismissal's substantive legal grounds** — "dismissed by
   party" / "on motion of defendant" describes the procedural posture (the case ended on a defense
   motion the court granted, not a jury verdict or a motion by the prosecution), not the reasoning.
@@ -125,7 +137,15 @@ inconsistent dates across secondary reporting: Drop Site's article body text sai
 release and a second Drop Site passage said August 6; Mondoweiss described the subpoena as signed
 "the same day," August 6. **The court's own register of actions gives 08/06/2026 as both the
 disposition date on each count and the case's closed date.** August 6 is correct; Drop Site's August
-7 reference is a reporting error. The dismissal and the subpoena signature are dated the same
+7 reference is a reporting error — and the register shows exactly what it is: the LEIN-removal
+transmittal to the police department, the only 08/07 event on the docket.
+
+**Independently re-read 2026-09-17 by a second reader** directly from MiCOURT (the register is
+JavaScript-rendered and not reachable by a plain fetch). Every field above was confirmed against the
+record: case ID, closed date 08/06/2026, Judge of Record **Perry, Miriam A.**, both counts
+`EMBEZZLEMENT-AGENT OR TRUSTEE-$1000-20,000 (7501744A)` and `FALSE PRETENSES-$1000.00-$19,999.99
+(7502184A)`, both **FELONY**, both showing officer/agency **CAVANAUGH/RYAN - UNIV. OF MICHIGAN**,
+both disposed **DISMISSED BY PARTY** on 08/06/2026, offense date 06/01/2023 on each. The dismissal and the subpoena signature are dated the same
 calendar day in the primary court record and in Mondoweiss's account of the subpoena; this is a real
 same-day finding, not an artifact of loose reporting, and it no longer rests on three outlets citing
 one GEO press release — the court docket is an independent, primary confirmation.
