@@ -1,68 +1,68 @@
 ---
-type: timeline_event
 id: 2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor
-date: '2026-04-08'
 title: "HSI Inserts Undercover Agent Into Ann Arbor Church Sanctuary; ROI Names Reporting Agent Erin Herrgott and Approving RAC Darryl Pugh"
-importance: 9
-status: confirmed
+type: timeline_event
 tags:
-  - operation-puppet-master
-  - romulus-mi
-  - detention-industrial
-  - protest-criminalization
-  - domestic-surveillance
-  - church-surveillance
-  - michigan
-  - ann-arbor
-  - collateral-tasking
-  - named-operators
-  - first-amendment
-  - dhs
-actors:
-  - Erin Herrgott
-  - Callum Robinet
-  - F. Dennis Saylor IV
-  - Darryl Pugh
-  - Homeland Security Investigations
-  - Department of Homeland Security
-  - Zion Lutheran Church
-  - Jim Debner
-  - Greer Cherney
-  - Kevin Riach
+- operation-puppet-master
+- romulus-mi
+- detention-industrial
+- protest-criminalization
+- domestic-surveillance
+- church-surveillance
+- michigan
+- ann-arbor
+- collateral-tasking
+- named-operators
+- first-amendment
+- dhs
 sources:
-  - title: "HSI Report of Investigation, Case DD02PR26MS0003, ROI DD02PR26MS0003-002, 'April 8, 2026 Breaking the Ice Undercover Operation'"
-    url: "https://www.courtlistener.com/docket/0-26-cr-00115/"
-    publisher: "US District Court, District of Minnesota — Case 0:26-cr-00115-KMM-DTS, Doc. 212-18, filed 08/13/26"
-    date: '2026-08-13'
-    tier: 1
-  - title: "Documents show undercover DHS presence at Ann Arbor ICE resistance event in April"
-    url: https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/
-    publisher: Michigan Advance
-    date: '2026-08-18'
-    tier: 1
-  - title: "DHS, probing anti-ICE activists, spied on at least five Midwest churches, court records indicate"
-    url: https://religionnews.com/2026/08/19/despite-government-surveillance-of-their-churches-minnesota-congregations-remain-defiant/
-    publisher: Religion News Service
-    date: '2026-08-19'
-    tier: 1
-  - title: "In Worship and in Court, Churches Respond to DHS Spying in Their Buildings"
-    url: https://wordandway.org/2026/08/17/in-worship-and-in-court-churches-respond-to-dhs-spying-in-their-buildings/
-    publisher: Word&Way
-    date: '2026-08-17'
-    tier: 2
-  - title: "New England Synod, ELCA v. Department of Homeland Security — preliminary injunction granted Feb 13 2026 (RFRA)"
-    url: https://clearinghouse.net/case/46829/
-    publisher: "US District Court, District of Massachusetts, 4:25-cv-40102 (Judge F. Dennis Saylor IV) — via Civil Rights Litigation Clearinghouse"
-    date: '2026-02-13'
-    tier: 1
-  - title: "Breaking the ICE: Lessons from the Resistance in Minnesota — A Countrywide Speaking Tour"
-    url: https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour
-    publisher: CrimethInc.
-    date: '2026-03-23'
-    tier: 3
-capture_lanes:
-  - Civil Rights Suppression
+- title: "HSI Report of Investigation, Case DD02PR26MS0003, ROI DD02PR26MS0003-002, 'April 8, 2026 Breaking the Ice Undercover Operation'"
+  url: "https://www.courtlistener.com/docket/0-26-cr-00115/"
+  date: '2026-08-13'
+  publisher: "US District Court, District of Minnesota — Case 0:26-cr-00115-KMM-DTS, Doc. 212-18, filed 08/13/26"
+  tier: 1
+- title: "Documents show undercover DHS presence at Ann Arbor ICE resistance event in April"
+  url: https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/
+  date: '2026-08-18'
+  publisher: Michigan Advance
+  tier: 1
+- title: "DHS, probing anti-ICE activists, spied on at least five Midwest churches, court records indicate"
+  url: https://religionnews.com/2026/08/19/despite-government-surveillance-of-their-churches-minnesota-congregations-remain-defiant/
+  date: '2026-08-19'
+  publisher: Religion News Service
+  tier: 1
+- title: "In Worship and in Court, Churches Respond to DHS Spying in Their Buildings"
+  url: https://wordandway.org/2026/08/17/in-worship-and-in-court-churches-respond-to-dhs-spying-in-their-buildings/
+  date: '2026-08-17'
+  publisher: Word&Way
+  tier: 2
+- title: "New England Synod, ELCA v. Department of Homeland Security — preliminary injunction granted Feb 13 2026 (RFRA)"
+  url: https://clearinghouse.net/case/46829/
+  date: '2026-02-13'
+  publisher: "US District Court, District of Massachusetts, 4:25-cv-40102 (Judge F. Dennis Saylor IV) — via Civil Rights Litigation Clearinghouse"
+  tier: 1
+- title: "Breaking the ICE: Lessons from the Resistance in Minnesota — A Countrywide Speaking Tour"
+  url: https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour
+  date: '2026-03-23'
+  publisher: CrimethInc.
+  tier: 3
+importance: 9
+date: '2026-04-08'
+status: confirmed
 coverage: []
+actors:
+- Erin Herrgott
+- Callum Robinet
+- F. Dennis Saylor IV
+- Darryl Pugh
+- Homeland Security Investigations
+- Department of Homeland Security
+- Zion Lutheran Church
+- Jim Debner
+- Greer Cherney
+- Kevin Riach
+capture_lanes:
+- Civil Rights Suppression
 ---
 
 ## Opening
@@ -91,7 +91,7 @@ Per Religion News Service, the report "includes information on Michigan church m
 
 **The attendance figures are consistent, not contradictory.** Page 2 records approximately 20 individuals seated when UCA 9759 arrived at 1745. Page 3 records that "by the beginning of the presentation, there were approximately 75 to 100 individuals in attendance." The agent arrived fifteen minutes early; the room filled. The 75-100 figure reported by Michigan Advance and RNS is the ROI's own.
 
-**What the agent recorded during the presentation.** Four presenters, three female and one male. UCA 9759 "recognized the male presenter as Callum ROBINET also known as 'Juliet'" — recognized, implying prior identification from elsewhere in the investigation. Robinet is named in a federal investigative file and is not among the fifteen defendants.
+**What the agent recorded during the presentation.** Four presenters, three female and one male. UCA 9759 "recognized the male presenter as Callum ROBINET also known as 'Juliet'" — recognized, implying prior identification from elsewhere in the investigation. Robinet is defendant No. 4 in the June 11, 2026 indictment (Doc. 1, caption: "CALLUM ROBINET (4), a.k.a. Juliet K, a.k.a. Juliet, a.k.a. Cal") — indicted two months after this event. **CORRECTED 2026-09-16**; an earlier version of this entry said he was not among the fifteen defendants, an error traced to searching the defense discovery motion rather than the indictment.
 
 The presenters described the events leading to the deaths of Renee Good and Alex Pretti; the formation of "Rapid Response Networks" operating over Signal to locate and identify ICE agents in greater Minneapolis; and protests at the Bishop Henry Whipple Federal Building — the building for which Project Whipple Shield is named — including one where protesters "deployed copious amounts of sex toys."
 
@@ -164,7 +164,7 @@ ever contested.
 - ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SAs Jacob Marquis, Katherine Wespetal, Timothy Gorman, and Terri Botterbusch as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - ~~Whether UCA 9759 is the same undercover agent reported by The Intercept as having offered to "build items" for direct action to a Sunrise organizer after a January 31 training~~ **RESOLVED 2026-08-20, negative**: ROI 212-11 (the Jan 31 Sunrise Movement training) shows the "build items" offer was made by **UCA 9833**, not UCA 9759. UCA 9759's only other confirmed appearance is alongside UCA 5022 at a Feb 2 50501 Minnesota meeting. They are distinct operatives.
 - Whether Zion Lutheran or the Southeast Michigan Synod has taken or is considering legal action — still open.
-- ~~Whether this operation ran on CUC Op Keyhole's authorization~~ **RESOLVED 2026-09-14 — almost certainly NOT.** See the case-number section below.
+- ~~Whether this operation ran on CUC Op Keyhole's authorization~~ **RESOLVED 2026-09-14 — almost certainly NOT.** See the case-number section below. **Reopened in part 2026-09-16**: the operative was a Puppet Master UCA; see "Who UCA 9759 was."
 - ~~Whether any Ann Arbor voice (Pastors Debner/Cherney, a Zion Lutheran member, or the Southeast Michigan Synod) has spoken publicly, on the record, about this surveillance~~ **CHECKED 2026-08-20, verified absence**: no named Ann Arbor voice has yet gone on record. Michigan Advance's flagship story (read in full) contains no church quote despite the reporter visiting the building; RNS, Word&Way, and four other outlets covering the broader multi-church pattern mention Ann Arbor only via the ROI. Attendee detail (Uganda mission trip, business card, Romulus protest) should continue to be sourced as quoted-from-the-surveillance-document, not rendered as witness testimony, until this changes. See [[verified-absence-no-named-ann-arbor-voice-on-record-zion-lutheran-surveillance-2026]]. Re-check periodically — story is still developing.
 - ~~The remaining page of this ROI (page 3 of 3) and the rest of the ~30 unsealed reports~~ **RESOLVED 2026-08-20**: All 31 attachments to Doc. 212 retrieved and archived with SHA-256. See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]] for the full roster, accountability chain, and newly surfaced material (SAC Saint Paul named, Isaac Sant named directly in the government's own surveillance ROIs, "The Conspiracy" org chart, financial-subpoena detail on SEIU/CWA/Sunrise/Voices for Racial Justice, and additional church/union-hall operations at St. John the Evangelist Episcopal, Prince of Peace Roseville, and the United Labor Center).
 
@@ -210,6 +210,15 @@ means without a document saying so* — this section states the reading and its 
 treating it as established. What **is** established is the bare fact that the Ann Arbor ROI carries
 a different case number than every Minnesota document in the set.
 
+## Who UCA 9759 was, and who it recognized (added 2026-09-16)
+
+Verified by OCR of the primary exhibits, 2026-09-16:
+
+- **UCA 9759 is a Minnesota Puppet Master operative, not a Detroit agent.** Doc. 212-16 (case `MS02PR26MS0003`, Operation Puppet Master; Feb 2, 2026 50501 Minnesota meeting) records that UCA 5022 "arrived at the Augsburg Park library at approximately 5:45 p.m. with UCA 9759." The Ann Arbor ROI's synopsis asks Detroit for "local support for Undercover Operatives"; the details say HSI DMA SAs "inserted" UCA 9759. Consistent reading: Detroit supplied field support, Saint Paul's operative went in. This weakens the "Detroit case number means outside Keyhole" reading above: the paperwork may be Detroit's while the operative was St. Paul's.
+- **The recognized presenter was an active surveillance target.** Doc. 212-23 (case `MS02PR26MS0004`, Whipple Shield; approved 4/2/2026) documents physical surveillance of SANT, DOYLE and ROBINET at the March 28 "No Kings" protest, including agents following Robinet from his residence. Eleven days later UCA 9759 recognized him on sight in Ann Arbor.
+- **What is NOT established:** Doc. 212-18 never names Puppet Master, Whipple Shield or Keyhole. Its case title is truncated in the form field ("Collateral from [Saint Paul, MN] to [Detroit Metropolitan..."), so an originating case reference may exist in the unseen portion. Whether UCA 9759's undercover identity was resourced through CUC Keyhole is unknown; Doc. 263 says Keyhole shares undercover assets across investigations, which makes the question worth asking, not answered.
+- **Docket check (2026-09-16):** Doc. 212 lists Ex. 16 and Ex. 18 only in a string cite of surveilled venues and Ex. 23 only for No Kings crowd size; it never mentions UCA 9759 or connects Ann Arbor to either operation. Docs. 227, 257, 258, 259, 263, 266 do not mention Ann Arbor, Michigan, Detroit or Zion Lutheran. The 9759/Robinet linkage appears to be unreported in the public docket and coverage.
+
 ## Cross-References
 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
@@ -217,3 +226,4 @@ a different case number than every Minnesota document in the set.
 - [[2025-03-15--hsi-agent-fatally-shoots-ruben-ray-martinez-south-padre-island]]
 - [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]]
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
+- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
