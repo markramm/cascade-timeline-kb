@@ -35,7 +35,7 @@ sources:
     note: "Adversarial-party source (labor union campaigning against the deployment); read for facts-alleged, not as neutral reporting. Corroborates Palantir attribution and describes the tool's function independently of Becker's."
 ---
 
-Beginning in **2023** (exact month not stated in the source located), HCA Healthcare — the largest for-profit hospital chain in the US — deployed a centralized nurse-scheduling tool built on Palantir software, marketed internally as **Timpani** (mobile companion "Timpani Mobile," accessed via the **HCA Inspire** app). HCA's own house publication (HCA Healthcare Magazine, 2025-04-25) states the tool launched **across nine sites** in 2023 and by publication date had **~7,000 colleagues using it daily**, with **26,000+ mobile downloads** as of mid-March 2025 and planned expansion to **over 100 sites by end of 2025**. HCA's own article does not name Palantir as the vendor; that attribution comes from independent trade coverage (Becker's Hospital Review) and is independently corroborated by National Nurses United, which names HCA specifically as a Palantir/Timpani/HCA Inspire user in two 2026 press releases (see [[2026-04-13--nnu-protests-palantir-hca-frist-gala-nashville]]).
+Beginning in **2023** (exact month not stated in the source located), HCA Healthcare — the largest for-profit hospital chain in the US — deployed a centralized nurse-scheduling tool built on Palantir software, marketed internally as **Timpani** (mobile companion "Timpani Mobile," accessed via the **HCA Inspire** app). HCA's own house publication (HCA Healthcare Magazine, 2025-04-25) states the tool launched **across nine sites** in 2023 and by publication date had **~7,000 colleagues using it daily**, with **26,000+ mobile downloads** as of mid-March 2025 and planned expansion to **over 100 sites by end of 2025**. HCA's own article does not name Palantir as the vendor; that attribution comes from independent trade coverage (Becker's Hospital Review) and is independently corroborated by National Nurses United, which names HCA specifically as a Palantir/Timpani/HCA Inspire user in two 2026 press releases (see [[2026-04-18--nnu-protests-palantir-hca-frist-gala-nashville]]).
 
 ## What the tool does, per HCA and per NNU
 
@@ -53,7 +53,7 @@ NNU's account, from nurses working under the system: Timpani is **"a centralized
 
 ## Related entries
 
-- [[2026-04-13--nnu-protests-palantir-hca-frist-gala-nashville]] — the labor protest campaign against this deployment.
+- [[2026-04-18--nnu-protests-palantir-hca-frist-gala-nashville]] — the labor protest campaign against this deployment.
 - [[2026-03-16--nyc-health-hospitals-katz-discloses-palantir-non-renewal-absolute-firewall-claim]] — the separate NYC H+H/Palantir relationship; do not collapse the two.
 - [[procurement-deep-dive-palantir-hca-healthcare-contract-and-the-one-in-five-americans-denominator]] — full sourcing chain and the "1 in 5" denominator retirement (done, 2026-09-15).
 - [[2003-06-26--hca-medicare-fraud-settlement]] / [[2006-11-17--hca-completes-33-billion-lbo-frist-family-largest-buyout-in-history]] — HCA's prior canon presence (Frist-family entity history, unrelated to this Palantir deployment).

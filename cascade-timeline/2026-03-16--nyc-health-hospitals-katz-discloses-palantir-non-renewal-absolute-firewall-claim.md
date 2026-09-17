@@ -61,7 +61,7 @@ Secondary reporting (via The Intercept) describes a clause said to permit Palant
 - [[2025-02-13--clark-minor-appointed-hhs-cto-from-palantir]] — the federal-personnel half of the Palantir/health-data story: a 12-year Palantir veteran running HHS IT, including CMS's Medicaid data, contemporaneous with this NYC-level contract dispute.
 - [[2026-07-17--ice-medicaid-palantir-illegal-data-transfer]] — the documented instance of Medicaid data reaching Palantir's ICE-facing ELITE app, which is what makes Katz's firewall assurance the live wire.
 - [[2026-04-01--immigrationos-palantir-tracking-us-citizens-medicaid-irs-dmv]] — the broader federal data-consolidation architecture Katz's assurance sits against.
-- [[2026-04-13--nnu-protests-palantir-hca-frist-gala-nashville]] — the separate, private-sector HCA/Timpani relationship; a different customer, product, and question from NYC H+H's Medicaid-billing contract. Do not collapse the two.
+- [[2026-04-18--nnu-protests-palantir-hca-frist-gala-nashville]] — the separate, private-sector HCA/Timpani relationship; a different customer, product, and question from NYC H+H's Medicaid-billing contract. Do not collapse the two.
 
 ## Research gaps
 
