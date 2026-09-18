@@ -57,6 +57,7 @@ related_events:
   - 2026-08-04--corecivic-536m-contract-reopen-appleton-mn-prairie-correctional
   - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
   - 2026-08-19--ice-detention-reengineering-initiative-stalls-program-wide-11-purchased-sites
+  - 2026-09-01--fetterman-letter-ice-venturella-236k-owed-moshannon-valley-ems
 coverage:
   - daily-capture-reports/detention/2026-09-09--clearfield-pa-moshannon-valley-geo-contract-renewal-hearing.md
 ---
