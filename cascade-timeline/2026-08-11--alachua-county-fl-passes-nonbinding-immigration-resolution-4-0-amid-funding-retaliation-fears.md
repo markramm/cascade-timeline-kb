@@ -35,6 +35,7 @@ related_events:
   - 2026-09-10--sonoma-sanctuary-coalition-pickets-sheriffs-foundation-fundraiser-over-ice-notifications
 coverage:
   - daily-capture-reports/detention/2026-08-11--alachua-county-fl-anti-ice-resolution-4-0-aug-2026.md
+  - daily-capture-reports/detention/2026-08-11--alachua-county-fl-anti-ice-resolution-resisting.md
 ---
 
 The Alachua County, Florida Commission voted **4-0 on August 11, 2026** to pass a **non-binding resolution** on law-enforcement practices in handling immigrants, affirming the county's commitment to constitutional protections and community trust and raising concern about the **potential expansion of federal detention facilities**. Commissioner **Mary Alford** was absent, attending the Supervisor of Elections' Canvassing Board.
