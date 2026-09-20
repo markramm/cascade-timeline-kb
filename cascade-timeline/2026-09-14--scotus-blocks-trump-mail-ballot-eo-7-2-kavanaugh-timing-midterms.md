@@ -52,8 +52,38 @@ coverage:
   - daily-capture-reports/headline/2026-09-14--scotus-blocks-trump-mail-ballot-restrictions-sept14.md
 ---
 
-On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system before ballots could be mailed, with non-compliant ballot mail subject to rejection. **Justice Brett Kavanaugh**, writing for the majority, held that applying the rules to an election already underway was unlawful because state and local election officials had insufficient time to implement the changes — mail ballots had already gone out in several states, North Carolina first. Voters face no new federal mail-voting hurdle this cycle.
+On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system before ballots could be mailed, with non-compliant ballot mail subject to rejection. **Justice Brett Kavanaugh**, in a concurrence (the underlying order was per curiam), reasoned that applying the rules to an election already underway was unlawful because state and local election officials had insufficient time to implement the changes — mail ballots had already gone out in several states, North Carolina first. Voters face no new federal mail-voting hurdle this cycle.
 
 The ground the majority chose is the whole story. A 7-2 vote in a case this administration has driven to the emergency docket three times ([[2026-09-03--doj-third-scotus-emergency-application-usps-mail-ballot-rule]]) reads like a rout, but Kavanaugh's opinion does not say USPS lacks the authority to impose ballot-design pre-clearance; it says USPS cannot impose it *this late*. That distinction leaves the rules available for a future cycle, filed with more lead time, and it is the same Purcell-shaped reasoning the Court used in August to lift Judge Indira Talwani's first block as premature ([[2026-08-28--scotus-lifts-talwani-block-mail-voting-order-usps-rule-effective-nc-first-to-comply]]) — premature then, too late now, with the substance untouched in both directions. Talwani's September 4 preliminary injunction had rested on the same clock, citing a final rule issued fewer than seventy days before the election ([[2026-09-04--talwani-preliminary-injunction-usps-mail-ballot-rule-seventy-days-before-election]]).
 
 What this closes is the 2026 exposure. What it leaves open is whether an executive order restricting mail voting through postal rulemaking is lawful at all — a question the corpus has now tracked through six months of litigation ([[2026-03-31--trump-executive-order-restricts-mail-voting-usps-voter-lists]]) without a merits answer. The administration retains the vehicle; it has only lost the calendar.
+
+## Correction, 2026-09-20 — Kavanaugh CONCURRED; he did not write for the majority
+
+**Corrected above.** This entry originally said Kavanaugh was "writing for the majority." He was
+not. The underlying order was **per curiam/unsigned**; Kavanaugh wrote a **concurrence.** Verified
+independently against SCOTUSblog and CNBC during a draft fact-check pass, both characterizing the
+opinion identically.
+
+This is exactly the conflict the entry itself flagged when it was written: the two capture stories
+behind it gave incompatible accounts, one calling the opinion a concurrence and one saying he wrote
+for the majority, and this entry followed the second. **The entry's own caution was right and its
+choice was wrong** — the lesson is to resolve such a conflict against the Court's own record before
+publishing canon, not to pick the more specific-sounding account.
+
+The distinction is not cosmetic and it cuts toward this entry's own analysis: a *concurrence*
+sketching a "fair prospect" that USPS holds statutory authority is one justice's view, not a
+holding, which makes the rule's survival for 2028 **more** open than a majority opinion would leave
+it, not less.
+
+**Also established 2026-09-20, and material to this entry's framing:** the case is **No. 26A305,
+*USPS v. California***, and the September 14 action was a **denial of the administration's
+emergency application to lift the Talwani injunction** — not a ruling on the merits. Kavanaugh's
+stated ground was APA arbitrary-and-capricious: officials lacked time to implement, while there
+was "at least a fair prospect" USPS possesses the authority.
+
+**And the entry is incomplete on the record around it.** A separate ruling by **Judge Nichols
+(D.D.C.) on 2026-09-13 in *DSCC v. Trump*** granted a preliminary injunction holding the **Postal
+Reorganization Act does not give USPS this authority at all** — the statutory-authority question
+SCOTUS expressly did not reach. Nichols is the same judge who denied relief on ripeness grounds in
+May. That reversal is not yet recorded in this corpus and should be its own entry.
