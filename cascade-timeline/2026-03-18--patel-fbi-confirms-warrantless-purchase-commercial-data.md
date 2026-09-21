@@ -37,6 +37,8 @@ coverage:
     title: "Harden Your Android: The Settings That Make You Expensive"
   - url: https://theramm.transparencycascade.org/p/harden-your-iphone-the-settings-that
     title: "Harden Your iPhone: The Settings That Make You More Expensive"
+  - path: daily-capture-reports/headline/2026-03-18--kash-patel-fbi-buys-location-data-congress.md
+    note: "Re-capture of the same March 18 testimony; dropped as duplicate 2026-09-21. Adds the Wyden exchange framing and the March 13 Wyden-Lee Government Surveillance Reform Act introduction date (canon carries the bill at 2026-03-12 -- the one-day discrepancy is unresolved and worth a check before either date is cited)."
 sources:
   - title: "ICE surveillance, data brokers, and Congress (FBI Director Patel confirms warrantless purchase of commercially-available data)"
     url: https://www.npr.org/2026/03/25/nx-s1-5752369/ice-surveillance-data-brokers-congress-anthropic

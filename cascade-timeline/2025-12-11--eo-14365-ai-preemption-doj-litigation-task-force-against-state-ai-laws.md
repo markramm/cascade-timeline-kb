@@ -45,6 +45,9 @@ sources:
     publisher: DLA Piper
     date: '2025-12-12'
     tier: 1-equivalent
+coverage:
+  - path: daily-capture-reports/headline/2026-01-09--doj-ai-litigation-task-force-challenges-state-ai-laws.md
+    note: "The EO's implementation step: Bondi formally established the task force 2026-01-09 with herself as chair, operations opening 01-10. Dropped as duplicate of the EO entry 2026-09-21. Adds the $42.45B BEAD-funding conditionality lever via NTIA Policy Notice, and a 109-enacted-state-AI-laws-by-July-2026 counter-figure. If the implementation step is later judged a distinct event, this is the substrate for it."
 ---
 
 On December 11, 2025, President Trump signed Executive Order 14365, "Ensuring a National Policy Framework for Artificial Intelligence," the capstone of the administration's drive to establish a "minimally burdensome national standard" and block states from regulating AI. Its mechanisms: (1) a **DOJ "AI Litigation Task Force"** — to be stood up within 30 days — dedicated solely to challenging state AI laws in court on interstate-commerce and federal-preemption grounds; (2) **conditional federal funding** — states enacting or enforcing "onerous" AI laws may lose access to certain federal grants; (3) **administrative preemption** via a federal policy framework plus a Commerce directive to identify "potentially unconstitutional" state AI laws by March 11, 2026. Carve-outs preserve state laws on child-safety, AI compute/datacenter infrastructure, and state procurement. David Sacks (AI & Crypto Czar; [[2024-12-05--sacks-named-ai-crypto-czar]]) was the driving figure; Trump framed it against the "meddling of 50 States." NPR noted the preemption push "may not be legal."

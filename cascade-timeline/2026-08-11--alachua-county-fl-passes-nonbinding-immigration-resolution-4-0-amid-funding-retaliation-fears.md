@@ -36,6 +36,7 @@ related_events:
 coverage:
   - daily-capture-reports/detention/2026-08-11--alachua-county-fl-anti-ice-resolution-4-0-aug-2026.md
   - daily-capture-reports/detention/2026-08-11--alachua-county-fl-anti-ice-resolution-resisting.md
+  - daily-capture-reports/detention/2026-08-11--alachua-county-anti-ice-resolution-gainesville-facility-rumor.md  # THIRD re-capture of the same 4-0 vote; dropped as duplicate 2026-09-21. Adds the Gainesville City Commission July 16 postponement (still unscheduled) and names GINI as drafter
 ---
 
 The Alachua County, Florida Commission voted **4-0 on August 11, 2026** to pass a **non-binding resolution** on law-enforcement practices in handling immigrants, affirming the county's commitment to constitutional protections and community trust and raising concern about the **potential expansion of federal detention facilities**. Commissioner **Mary Alford** was absent, attending the Supervisor of Elections' Canvassing Board.

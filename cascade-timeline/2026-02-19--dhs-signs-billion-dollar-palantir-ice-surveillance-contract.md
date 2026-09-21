@@ -42,6 +42,8 @@ coverage:
     title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
   - path: daily-capture-reports/headline/2026-02-19--dhs-palantir-1b-ai-analytics-blanket-purchase-agreement-2026.md
     note: "BPA detail — 5-year term, Gotham/Foundry named, task orders pre-approved to $1B ceiling without separate competition; $81M ICE 2025 + $97M ICE 2026 pre-BPA, $1.8B DHS/ICE total since Jan 2025. Consumed 2026-09-20 as duplicate."
+  - path: daily-capture-reports/headline/2026-02-01--dhs-palantir-1b-no-bid-ai-surveillance-contract.md
+    note: "SECOND re-capture of the $1B DHS-Palantir BPA (after the 02-19 story dropped 2026-09-20), this one dated 2026-02-01 -- the ledger has now captured one award at three different dates. Dropped as duplicate 2026-09-21. Names ImmigrationOS and ELITE as included platforms. CAUTION: one of its four cited sources is capturecascade.org itself, so its zero-Privacy-Impact-Assessments claim is this corpus citing itself, not independent corroboration -- see canon 2026-05-13 for that finding's own sourcing."
 ---
 DHS signed a $1 billion blanket purchase agreement with Palantir for immigration surveillance across ICE and CBP without competitive bidding. Palantir's technology enables mass data integration across multiple government databases, creating comprehensive surveillance profiles of immigrants and their communities. The no-bid nature of the contract and Palantir's close ties to Trump allies raise serious conflict-of-interest concerns.
 

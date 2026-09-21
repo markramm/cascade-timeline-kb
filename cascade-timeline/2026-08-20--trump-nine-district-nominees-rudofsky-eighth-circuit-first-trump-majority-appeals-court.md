@@ -30,6 +30,9 @@ sources:
     publisher: JD Journal
     date: '2026-08-20'
     tier: 2
+coverage:
+  - path: daily-capture-reports/headline/2026-08-12--rudofsky-nominated-8th-circuit-vra-section-2.md
+    note: "Same nomination captured at its 2026-08-12 announcement date rather than the 08-20 nine-nominee batch; dropped as duplicate 2026-09-21. Adds the substantive hook canon states less fully -- Rudofsky's 2022 Arkansas NAACP ruling that private plaintiffs lack standing under VRA Section 2, affirmed by an 8th Circuit panel -- plus a Senate Judiciary hearing-schedule and pre-midterm confirmation-window thread."
 ---
 
 Trump named **nine new judicial nominees to federal district courts** across six states —

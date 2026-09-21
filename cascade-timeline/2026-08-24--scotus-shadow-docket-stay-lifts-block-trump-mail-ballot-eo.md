@@ -10,6 +10,9 @@ coverage:
   - ledger: daily-capture-reports
     story: headline/2026-08-25--scotus-emergency-stay-mail-ballot-trump-eo-6-3-talwani-tro
     note: "Ledger re-captured this ruling on 2026-08-25 (one day after the canonical event date) with a SCOTUSblog emergency-docket source. Dropped as duplicate; canon entry is authoritative and better-sourced (4 sources). The ledger story adds the Talwani TRO thread as context — worth checking whether that TRO has its own canon entry."
+  - ledger: daily-capture-reports
+    story: headline/2026-08-24--scotus-6-3-lifts-injunction-trump-mail-in-voting-order
+    note: "THIRD ledger capture of this same ruling (after the 08-24 and 08-25 stories already listed). Dropped as duplicate 2026-09-21. Cites the SCOTUS slip opinion PDF (26A124) directly and names the three provisions allowed to proceed -- DHS citizenship-list compilation/sharing, AG prosecution priority against state officials issuing ballots to ineligible voters, USPS mail-ballot design rulemaking -- while noting the USPS eligibility-verification provision was NOT addressed and remains blocked. That provision-level breakdown is the one thing the three captures add over canon."
 tags:
   - judicial-capture
   - shadow-docket
