@@ -48,6 +48,7 @@ related_events:
   - 2026-08-19--ice-detention-reengineering-initiative-stalls-program-wide-11-purchased-sites
 coverage:
   - daily-capture-reports/detention/2026-09-22--clearfield-county-moshannon-valley-igsa-extension-vote-sept-22.md
+  - daily-capture-reports/detention/2026-09-22--clearfield-county-moshannon-contract-extension-vote-22sep2026.md
 ---
 
 The **Clearfield County Board of Commissioners** voted **2-1** on **September 22, 2026** to approve a **six-month extension** of the county's Intergovernmental Service Agreement with ICE and **GEO Group** for the **Moshannon Valley Processing Center** — the largest immigration detention facility in the Northeast. **Tim Winters** and **John Sobel** voted in favor; **Dave Glass** voted against. Dozens of people from across Pennsylvania protested at the meeting. The expiring agreement was a five-year IGSA; the extension **modifies the staffing plan and changes the contracting officer**, while, per a copy of the document obtained through a public-records request, "all other terms and conditions remain unchanged."

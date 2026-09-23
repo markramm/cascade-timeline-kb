@@ -35,6 +35,7 @@ related_events:
   - 2026-07-22--ccno-northwest-ohio-board-blocks-public-comment
 coverage:
   - daily-capture-reports/feed/2026-09-15--ice-purges-final-order-detainees-from-public-locator-guantanamo.md
+  - daily-capture-reports/feed/2026-09-15--ice-removes-thousands-detainee-locator-final-removal-orders.md
 ---
 
 On **September 15, 2026**, ICE stopped disclosing the locations of **thousands of detainees subject to final orders of removal**, removing them from its **Online Detainee Locator System** without announcement. An **Associated Press** investigation published **September 21** established the change, sourced to current and former officials familiar with the practice. Among those no longer findable are **eight Somali men** held at the U.S. military base at **Guantanamo Bay**. Their ACLU attorney, **My Khanh Ngo**, said the change could make it "nearly impossible" for people to challenge their removals in court.

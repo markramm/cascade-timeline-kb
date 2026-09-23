@@ -42,6 +42,7 @@ related_events:
   - 2026-04-08--ice-data-reveals-1300-collateral-arrests-operation-metro-surge
 coverage:
   - daily-capture-reports/feed/2026-09-20--ice-agent-shoots-venezuelan-doordash-driver-austin-tx.md
+  - daily-capture-reports/feed/2026-09-20--ice-austin-shooting-wilber-garces-no-body-camera-conflicting-accounts.md
 ---
 
 An ICE agent shot **Wilber Rafael Garces Perez**, 28, a Venezuelan asylum seeker, in the torso on **September 20, 2026** in **Austin, Texas**, while he was making a food delivery. Video captured gunshots at the intersection of Anderson Square and Research Boulevard; subsequent footage showed Garces Perez handcuffed on the ground with a gunshot wound in his back. His attorney, **Kate Lincoln-Goldfinch**, said he is married to a woman with legal status. DHS said he entered the United States during the Biden administration and was subject to a final order of removal. **Homeland Security Investigations** and the **FBI** opened a federal investigation; the **Travis County District Attorney** separately called for an independent probe. Austin's mayor said ICE was "fomenting" chaos.
