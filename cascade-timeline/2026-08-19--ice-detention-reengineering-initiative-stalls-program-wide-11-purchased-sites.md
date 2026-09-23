@@ -33,6 +33,9 @@ sources:
     publisher: Spotlight PA
     date: '2026-04-01'
     tier: 1
+coverage:
+  - id: 2026-09-03--dhs-moves-to-offload-seven-ice-warehouses-pivots-to-shuttered-prisons
+    note: "SUCCESSOR STATE, not a duplicate. This entry records the program stalled with no restart timeline; by early September DHS was moving to OFFLOAD seven of the eleven sites (Romulus MI; Social Circle and Flowery Branch GA; Hamburg and Tremont PA; Salt Lake City; Roxbury NJ) and had pivoted to reopening shuttered prisons and soliciting private-contractor bids. A stalled program holds its assets; this one is selling them. NOTE the spend figure diverges across sources -- this entry says $1.074B, the successor's sources say $700M and 'over $1 billion' -- and no reconciliation to a defined denominator exists yet."
 ---
 
 By August 2026 the ICE Detention Reengineering Initiative — the program to convert purchased commercial warehouses into a national detention network, targeted at a new detention model by September 30, 2026 — had stalled program-wide rather than site by site. ICE bought eleven warehouses in the first three months of 2026 across Arizona, Georgia, Maryland, Michigan, New Jersey, Pennsylvania, Texas, and Utah, spending a combined **$1.074 billion**. DHS then paused further purchases while it scrutinized contracts signed under former Secretary Kristi Noem, and Secretary **Markwayne Mullin**, sworn in late March 2026, inherited the eleven-site portfolio with no publicly stated restart timeline. Roughly eight additional purchase deals that had not closed were scuttled outright, in places including Kansas City, Missouri.

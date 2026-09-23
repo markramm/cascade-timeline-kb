@@ -50,6 +50,7 @@ related_events:
 coverage:
   - daily-capture-reports/headline/2026-09-14--scotus-7-2-blocks-trump-mail-ballot-eo-sept14.md
   - daily-capture-reports/headline/2026-09-14--scotus-blocks-trump-mail-ballot-restrictions-sept14.md
+  - daily-capture-reports/headline/2026-09-14--scotus-blocks-trump-usps-mail-ballot-rule-midterms.md  # THIRD re-capture of the 09-14 ruling; dropped as duplicate 2026-09-22. Adds the SAVE Act backstory (the USPS order followed Congress failing to pass proof-of-citizenship registration) and names Utah GOP election officials among the warning state officials. Does not state the 7-2 count canon carries
 ---
 
 On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system before ballots could be mailed, with non-compliant ballot mail subject to rejection. **Justice Brett Kavanaugh**, in a concurrence (the underlying order was per curiam), reasoned that applying the rules to an election already underway was unlawful because state and local election officials had insufficient time to implement the changes — mail ballots had already gone out in several states, North Carolina first. Voters face no new federal mail-voting hurdle this cycle.

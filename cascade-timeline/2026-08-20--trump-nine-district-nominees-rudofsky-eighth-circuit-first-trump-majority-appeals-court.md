@@ -33,6 +33,8 @@ sources:
 coverage:
   - path: daily-capture-reports/headline/2026-08-12--rudofsky-nominated-8th-circuit-vra-section-2.md
     note: "Same nomination captured at its 2026-08-12 announcement date rather than the 08-20 nine-nominee batch; dropped as duplicate 2026-09-21. Adds the substantive hook canon states less fully -- Rudofsky's 2022 Arkansas NAACP ruling that private plaintiffs lack standing under VRA Section 2, affirmed by an 8th Circuit panel -- plus a Senate Judiciary hearing-schedule and pre-midterm confirmation-window thread."
+  - path: daily-capture-reports/headline/2026-09-16--trump-judicial-confirmation-rush-8th-circuit-midterms.md
+    note: "SECOND re-capture of the Rudofsky/8th-Circuit thread (after the 08-12 story dropped 2026-09-21), this one framed as the confirmation-race status as of 2026-09-16. Dropped as duplicate 2026-09-22. Adds a set of countable status figures worth verifying if used: 54 judges confirmed since January 2025, at least 11 more sought, 13 nominations in a nine-day August-recess span, six Judiciary Committee appearances in one September session, a 53-47 Senate, and zero of 179 appeals-court seats currently vacant. The zero-vacancy figure is the structurally interesting one -- it means every new circuit judge requires a retirement first."
 ---
 
 Trump named **nine new judicial nominees to federal district courts** across six states —
