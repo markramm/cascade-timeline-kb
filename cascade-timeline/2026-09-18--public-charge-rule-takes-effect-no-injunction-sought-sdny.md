@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-09-18--public-charge-rule-takes-effect-no-injunction-sought-sdny
 date: '2026-09-18'
-title: "Expanded Public Charge Rule Takes Effect Unchallenged by Injunction — Neither SDNY Coalition Sought Emergency Relief"
+title: "Expanded Public Charge Rule Takes Effect With No Injunction — No Emergency Motion on Either SDNY Docket"
 importance: 8
 status: confirmed
 lane: immigration-system-capture
@@ -90,3 +90,5 @@ The final rule text confirms the mechanism of expansion is deregulatory in a spe
 
 - [[2025-11-18--trump-reinstates-public-charge-rule-immigrant-wealth-test]]
 - [[2026-09-14--twenty-two-states-sue-block-expanded-public-charge-rule-before-sept-18]]
+
+**Conductor note (2026-09-24): basis of the no-motion finding.** This is an absence finding, drawn from the CourtListener/RECAP copies of both dockets as updated through September 23. A RECAP docket can lag or omit entries. Contemporaneous reporting (Spectrum News, September 18; CNN, September 14) describes the suits only as seeking to block the rule and mentions no TRO or PI motion, and the rule took effect with no order. Before this is stated as settled in a published piece, confirm it against the PACER docket or the plaintiffs' own filings list.
