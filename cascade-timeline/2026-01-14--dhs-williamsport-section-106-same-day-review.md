@@ -62,7 +62,7 @@ federal law in question does not give the County any opportunity to overrule tha
 Project Salt Box's March 11, 2026 investigation, reporting independently and citing the same
 January 14 letter, adds detail the county's own release did not include: the letter offered a
 **30-day public comment window**, and that window "expired after the property had already changed
-hands" — i.e., after the January 16 purchase closed, eight days into the nominal comment period.
+hands." The purchase closed on January 16, two days after the letter's date, so nearly all of the 30-day window was still to run when the property changed hands.
 Salt Box also reports that DHS's own Section 106 review, in identifying the "area of potential
 effect," had noted an adjacent 19th-century farmhouse (the Van Lear-era structure on the former
 Taylor Farm tract) as a historic resource, then found it ineligible for protection on the reasoning
