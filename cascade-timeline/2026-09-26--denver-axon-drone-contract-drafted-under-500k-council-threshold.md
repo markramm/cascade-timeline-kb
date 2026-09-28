@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-09-26--denver-axon-drone-contract-drafted-under-500k-council-threshold
 date: '2026-09-26'
-title: "Denver's Draft $496,012 Axon Drone Contract Structured Just Under the $500K Council-Vote Threshold — Second Time in a Year"
+title: "Denver's Draft $496,012 Axon Drone Contract Priced Just Under the $500K Council-Vote Threshold — Second Time in a Year"
 importance: 7
 status: confirmed
 lane: surveillance-infrastructure
