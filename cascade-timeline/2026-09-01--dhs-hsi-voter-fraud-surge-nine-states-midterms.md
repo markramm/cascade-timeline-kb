@@ -28,7 +28,7 @@ sources:
     date: '2026-09-10'
     tier: 1
   - title: "DHS ramping up voter fraud investigations ahead of midterms"
-    url: https://abcnews.com/Politics/dhs-ramping-voter-fraud-investigations-ahead-midterms/story?id=135602188
+    url: https://abcnews.com/Politics/dhs-ramping-voter-fraud-investigations-ahead-midterm-elections/story?id=136174863
     publisher: ABC News
     date: '2026-09-01'
     tier: 1
