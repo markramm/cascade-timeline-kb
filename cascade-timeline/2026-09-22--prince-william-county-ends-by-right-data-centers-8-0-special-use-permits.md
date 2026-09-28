@@ -37,6 +37,7 @@ related_events:
   - 2026-09-16--house-passes-ratepayer-protection-act-417-3-consider-not-mandate
 coverage:
   - daily-capture-reports/datacenter/2026-09-22--prince-william-county-ends-by-right-data-center-approvals-8-0-vote.md
+  - daily-capture-reports/datacenter/2026-09-22--prince-william-county-ends-by-right-data-center-development-8-0.md
 ---
 
 On **Tuesday, September 22, 2026**, the **Prince William County (Va.) Board of County Supervisors** voted **8-0** to adopt a zoning text amendment ending **by-right data center development** countywide. Future data center projects must obtain a **special use permit** and come before the board. The **Data Center Opportunity Zone Overlay District**, established in **May 2016**, will be drastically reduced; existing and under-construction data centers, and projects whose site plans have passed quality control, have a **90-day** window to remain in the overlay. Brentsville District Supervisor **Tom Gordy** initiated the directive in March. Chair **Deshundra Jefferson** said she "felt the need for the board to seek legal guidance ahead of the vote."
