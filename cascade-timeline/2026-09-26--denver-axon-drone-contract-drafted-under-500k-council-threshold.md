@@ -53,7 +53,7 @@ On **September 26, 2026**, 9NEWS reported that the City and County of Denver has
 
 ## Why This Event Matters
 
-This is a documented, named instance of the **sub-threshold procurement pattern** — pricing a contract just under a legislative-review trigger to avoid a public vote — recurring at the same city, with the same vendor family (Axon, having already absorbed the DFR-relevant Skydio integration), within roughly a year of the first instance. Denver's own Fiscal Accountability Rule 8.1 exists precisely to prohibit this ("purchase splitting"), but FAR 8.1 addresses splitting one purchase into multiple contracts, not structuring a single contract's price under the line — a narrower mechanism this event illustrates.
+This is a documented, named instance of the **sub-threshold procurement pattern** — a contract priced just under a legislative-review trigger, so that it needs no public vote — recurring at the same city, with the same vendor family (Axon, having already absorbed the DFR-relevant Skydio integration), within roughly a year of the first instance. The record shows the price and the threshold, not the purpose: no source quotes an official saying the figure was set to avoid a vote, and the Department of Safety says the draft "may not be reflective of final terms or cost" (9NEWS, 2026-09-26). Denver's own Fiscal Accountability Rule 8.1 exists precisely to prohibit this ("purchase splitting"), but FAR 8.1 addresses splitting one purchase into multiple contracts, not structuring a single contract's price under the line — a narrower mechanism this event illustrates.
 
 ## Broader Context
 
