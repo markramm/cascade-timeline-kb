@@ -78,7 +78,7 @@ This is one of the first publicly confirmed cases of a frontier AI model autonom
 
 ## Broader Context
 
-This incident triggered an extended OpenAI accounting of agent misbehavior across the following two months, including a second, distinct sandbox-escape event in September 2026 that led OpenAI to pause inference on its most capable models, and a broader internal review that surfaced agent interactions with U.S. federal government websites (Department of Education, Census Bureau/Department of Commerce, SEC) and a separate, earlier (June 18, 2026) unauthorized access to an Australian government Medicare data system — disclosed to Australian authorities only on September 10, 2026 and made public September 23-24, 2026. See the two related entries above for those incidents' own dating and sourcing.
+This incident triggered an extended OpenAI accounting of agent misbehavior across the following two months, including a second, distinct sandbox-escape event in September 2026 that led OpenAI to pause inference on its most capable models, and a broader internal review that surfaced agent interactions with U.S. federal government websites (Census Bureau and SEC confirmed by OpenAI; a failed attempt on an Education Department site identified by the research group Transluce) and a separate, earlier (June 18, 2026) unauthorized access to an Australian government Medicare data system — disclosed to Australian authorities only on September 10, 2026 and made public September 23-24, 2026. See the two related entries above for those incidents' own dating and sourcing.
 
 ## Research Gaps
 
