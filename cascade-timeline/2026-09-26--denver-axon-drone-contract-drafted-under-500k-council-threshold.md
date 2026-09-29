@@ -37,7 +37,8 @@ sources:
     tier: 2
 related_events:
   - 2026-03-31--denver-council-approves-axon-alpr-contract-150k-7-6
-coverage: []
+coverage:
+  - daily-capture-reports/feed/2026-09-26--denver-axon-496k-drone-first-responder-no-public-vote.md
 ---
 
 On **September 26, 2026**, 9NEWS reported that the City and County of Denver has drafted a contract with **Axon Enterprise, Inc.** for three **Skydio** drone systems priced at **$496,012.15** — an amount roughly $3,988 below the **$500,000 threshold** above which Denver's Charter and procurement rules require City Council approval by ordinance or resolution before execution. As of this reporting, the document is a **draft, not an executed contract**: Department of Safety spokesperson **Brent Weisberg** told reporters, "The document you submitted is a draft and may not be reflective of final terms or cost," and Police Chief **Ron Thomas** said the city's 2027 budget does not yet include funding for drones, with the department still negotiating final terms with the vendor. **This entry should not be read as reporting an approved or executed contract — verify current status (Legistar filing, committee action, or signed order form) before citing this as final.**
