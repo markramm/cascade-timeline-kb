@@ -39,7 +39,7 @@ On April 3, 2026, Sen. Mitch McConnell (R-KY) joined Democratic lawmakers in pub
 
 ## Related Vote
 
-The Senate also delivered a bipartisan rebuke to Trump by voting to terminate the national emergency powers he had used to impose sweeping tariffs on Brazil. Five Republican senators — Collins, Murkowski, Tillis, McConnell, and Paul — joined all Democrats in the vote, reflecting growing GOP unease with the economic impacts of the administration's tariff regime.
+Earlier, on October 28, 2025, the Senate delivered a bipartisan rebuke to Trump by voting 52-48 to pass S.J.Res.81, terminating the national emergency he had used to impose 50% tariffs on Brazil. Five Republican senators — Collins, Murkowski, Tillis, McConnell, and Paul — joined all Democrats (CNN, NPR, 2025-10-28; Congress.gov S.J.Res.81). The vote was not on April 3, 2026; this section previously read as if it were. (Corrected 2026-09-29, conductor QC, from a flag raised in the Collins vote-record dossier; no April 2026 Brazil-tariff vote was found.)
 
 ## Context
 
