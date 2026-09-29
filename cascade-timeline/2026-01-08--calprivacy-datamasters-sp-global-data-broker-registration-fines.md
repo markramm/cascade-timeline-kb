@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-id: 2026-01-08--calprivacy-datamasters-splobal-data-broker-registration-fines
+id: 2026-01-08--calprivacy-datamasters-sp-global-data-broker-registration-fines
 date: '2026-01-08'
 title: "CalPrivacy Fines Data Brokers Datamasters $45,000 and S&P Global $62,600 for Registration Failures"
 importance: 5
