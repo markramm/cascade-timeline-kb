@@ -87,7 +87,7 @@ The material support statute (18 U.S.C. 2339A) required no proof of terroristic 
 
 - Elizabeth and Ines Soto, a married couple, operated a small printing press and ran the Emma Goldman Book Club, a local anarchist reading group. They made and distributed zines. They were convicted of terrorism.
 - Savanna Batten helped create and distribute anarchist zines. Convicted of terrorism.
-- Seth Sikes (who pleaded guilty earlier) found the event on Discord, drove alone, knew no one, expected fireworks. Convicted of terrorism.
+- Seth Sikes found the event on Discord, drove alone, knew no one, expected fireworks -- but Sikes was not a trial defendant. He pleaded guilty to material support on 2025-11-19, four months before this verdict ([[2025-11-19--seven-prairieland-defendants-plead-guilty-material-support]]); his conviction came via that plea, not this jury. He testified at trial as a cooperating witness.
 - Sanchez-Estrada moved pamphlets. Was not present at the protest. Convicted of concealing documents, facing 40 years.
 - Cooperating witnesses testified they expected a "noise demonstration." The jury convicted them anyway.
 
