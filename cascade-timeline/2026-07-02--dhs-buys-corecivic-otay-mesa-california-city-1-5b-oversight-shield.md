@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 date: '2026-07-02'
-title: "DHS Buys CoreCivic's Two Largest CA Detention Centers for $1.5B, Keeps CoreCivic as Operator, Sidesteps Federal Oversight"
+title: "DHS Buys CoreCivic's Two Largest CA Detention Centers for $1.5B, Keeps CoreCivic as Operator, Insulates Facilities from State Private-Detention Bans"
 importance: 9
 status: confirmed
 tags:
@@ -31,9 +31,9 @@ sources:
     tier: 2
 ---
 
-The federal government closed a $1.5 billion purchase of CoreCivic's two largest California detention facilities on July 2, 2026: Otay Mesa (1,994 beds, San Diego, $739.2M) and California City (2,560 beds, Kern County, $732.6M) — shifting 4,554 ICE beds from private ownership to direct DHS ownership while leaving CoreCivic in place as day-to-day operator under existing ICE contracts. Mother Jones reports the transaction was structured to shield the facilities from the congressional and inspector-general oversight mechanisms that apply to government-owned facilities — a claim not yet independently confirmed via the specific statutory mechanism, but consistent with the administration's broader strategy of reducing dependence on named private contractors while retaining their operational labor. On July 7, California City's Planning Commission voted 2-1 to uphold the facility's site-plan approvals over a Dignity Not Detention Coalition appeal, with Commissioner Ralph Cantrell dissenting and citing the commission's own ignorance of the DHS sale before the hearing; a separate lawsuit over whether the facility opened without proper local permits was reported as pending — **but see the sourcing flag below; this clause is UNVERIFIED as of 2026-08-28.**
+The federal government closed a $1.5 billion purchase of CoreCivic's two largest California detention facilities on July 2, 2026: Otay Mesa (1,994 beds, San Diego, $739.2M) and California City (2,560 beds, Kern County, $732.6M) — shifting 4,554 ICE beds from private ownership to direct DHS ownership while leaving CoreCivic in place as day-to-day operator under existing ICE contracts. Mother Jones reports the transaction was structured to insulate the facilities from state efforts to outlaw or restrict private detention — direct federal ownership makes the argument that "a state law cannot trump federal ownership" — not from congressional or inspector-general oversight, which the article does not address. On July 7, California City's Planning Commission voted 2-1 to uphold the facility's site-plan approvals over a Dignity Not Detention Coalition appeal, with Commissioner Ralph Cantrell dissenting and citing the commission's own ignorance of the DHS sale before the hearing; a separate lawsuit over whether the facility opened without proper local permits was reported as pending — **but see the sourcing flag below; this clause is UNVERIFIED as of 2026-08-28.**
 
-This deal-structuring pattern — direct federal ownership paired with continued reliance on the same contractor workforce — extends the accountability-erosion pattern the timeline already tracks in the Warren-Raskin congressional inquiry into detention contractors ([[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]) and lands the same week ICE records its 17th custody death of 2026, roughly one every six days.
+This deal-structuring pattern — direct federal ownership paired with continued reliance on the same contractor workforce — extends the accountability-erosion pattern the timeline already tracks in the Warren-Raskin congressional inquiry into detention contractors ([[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]) and lands amid at least 21 deaths in ICE custody so far in 2026, per Andrew Free's tracker as reported by Mother Jones.
 
 
 ---
@@ -106,3 +106,5 @@ theory, not the same action.** No source found cites one within the other.
 Full detail, full docket chronology, and remaining gaps (notably: the substantive text of the TRO
 denial, which may already contain a merits ruling on the CUP theory, has not been retrieved):
 [[track-california-city-pending-lawsuit-dignity-not-detention-strategy]].
+
+Corrected 2026-10-01: title and body changed from "sidesteps federal/congressional/IG oversight" (not supported by Mother Jones) to "insulates the facilities from state efforts to outlaw private detention," per Mother Jones's own text; "17th custody death... one every six days" changed to "at least 21 deaths," per Andrew Free's tracker as reported by Mother Jones.

@@ -26,6 +26,8 @@ sources:
     tier: 2
 ---
 
-A Marion County/Indianapolis City-County Council committee voted 10-3 along party lines on July 13-14 to advance a moratorium on new data center approvals through the end of 2027. Council President Maggie Lewis authored the ordinance; Mayor Joe Hogsett released a statement of support. Projects already approved (Metrobloks, Sabey, DC Blox) are grandfathered. The full council vote is set for August 10. Indianapolis had faced roughly a year of resident pressure on data center density, power draw, and water-use concerns.
+A Marion County/Indianapolis City-County Council committee voted 10-3 along party lines on July 13-14 to advance a moratorium on new data center approvals through the end of 2027. Council President Maggie Lewis authored the ordinance; Mayor Joe Hogsett released a statement of support. The full council vote is set for August 10. Indianapolis had faced roughly a year of resident pressure on data center density, power draw, and water-use concerns.
 
-Indiana already has at least 17 counties with active data center moratoriums as of the WFYI statewide tracker — Indianapolis, as the state's capital and largest city, joining that count marks the moratorium wave's arrival at the political core of the state rather than only its rural and suburban counties, a distinction that changes the wave's statewide legislative salience.
+Indiana already has at least 17 counties with active data center moratoriums as of the WFYI statewide tracker, with two more (Marshall and Cass) having enacted outright bans rather than temporary pauses — Indianapolis, as the state's capital and largest city, joining that count marks the moratorium wave's arrival at the political core of the state rather than only its rural and suburban counties, a distinction that changes the wave's statewide legislative salience.
+
+Corrected 2026-10-01: cut an unsourced claim that already-approved projects (Metrobloks, Sabey, DC Blox) would be "grandfathered" under the ordinance — the cited WFYI article does not address the status of those projects under the moratorium, and the cited WTHR article was unreachable (403, no archive available) to check.

@@ -19,6 +19,8 @@ sources:
     tier: 2
 ---
 
-Escambia County, FL commissioners voted unanimously 5-0 to adopt a resolution declaring data centers "are not permitted under the county's land development code and are not appropriate development in the county," with a formal ordinance codifying the ban scheduled for a public hearing August 6. Neighboring Santa Rosa County passed a comparable measure the same day, suggesting coordinated regional resistance across the Florida Panhandle.
+Escambia County, FL commissioners voted unanimously 5-0 to adopt a resolution declaring data centers "are not permitted under the county's land development code and are not appropriate development in the county," with a formal ordinance to codify the ban still to come. Neighboring Santa Rosa County passed its own 12-month moratorium the same day, suggesting coordinated regional resistance across the Florida Panhandle.
 
-If the August 6 ordinance passes, Escambia becomes one of the first Florida counties to move from a temporary moratorium to a formal land-code prohibition — a structurally different and more durable outcome than the roughly dozen Florida county moratorium votes the timeline has tracked in 2026, which pause new applications for a fixed term rather than declare the use categorically impermissible.
+If the ordinance passes, Escambia becomes one of the first Florida counties to move from a temporary moratorium to a formal land-code prohibition — a structurally different and more durable outcome than the roughly dozen Florida county moratorium votes the timeline has tracked in 2026, which pause new applications for a fixed term rather than declare the use categorically impermissible.
+
+Corrected 2026-10-01: cut an unsupported "scheduled for a public hearing August 6" detail (not in the cited WUWF source) and corrected Santa Rosa County's measure from "a comparable measure" to "its own 12-month moratorium" — the source describes Santa Rosa's action as a 12-month moratorium, not a permanent ban.

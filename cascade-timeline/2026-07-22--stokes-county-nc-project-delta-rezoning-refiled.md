@@ -11,7 +11,6 @@ tags:
   - local-resistance
 actors:
   - Engineered Land Solutions
-  - DC Blox
   - Stokes County
 sources:
   - title: "Stokes Data Center Developer Submits New Rezoning Application"
@@ -26,6 +25,8 @@ sources:
     tier: 2
 ---
 
-Engineered Land Solutions refiled a rezoning application for "Project Delta" in Stokes County, NC, seeking to convert approximately 1,845 acres near the Dan River from residential-agricultural to heavy manufacturing conditional use for a hyperscale campus. The original January approval was voided after the hearing notice violated statutory timing rules. The county commission had already rejected a moratorium. DC Blox has been confirmed as tenant at a town hall, but the hyperscaler behind the project remains undisclosed to residents despite sustained community organizing.
+Engineered Land Solutions refiled a rezoning application for "Project Delta" in Stokes County, NC, near the Dan River, seeking to convert land from residential-agricultural to heavy manufacturing conditional use for a hyperscale campus. The original January approval was voided following a legal challenge. The county commission had already rejected a moratorium. The hyperscaler behind the project remains undisclosed to residents despite sustained community organizing.
 
 The undisclosed-hyperscaler pattern recurs here as it did at Palm Beach County's "Project Tango" ([[2026-07-15--palm-beach-county-rejects-project-tango-data-center]]) — a named front-company or tenant carries the public application while the actual corporate customer stays hidden, a structural feature of 2026 datacenter siting that limits communities' ability to evaluate a project's real financial backing and negotiating leverage before rezoning is approved.
+
+Corrected 2026-10-01: cut the "1,845 acres" acreage figure and "DC Blox confirmed as tenant at a town hall" — the cited BPR article gives no acreage figure and does not mention DC Blox; the cited WFMY article remained unreachable (HTTP 403, no archive available) on retry. Softened "the hearing notice violated statutory timing rules" to what BPR actually reports: the original approval "was voided following a legal challenge," with no specific mechanism stated.

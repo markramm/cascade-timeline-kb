@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-07-15--hamilton-county-tn-one-year-data-center-moratorium
 date: '2026-07-15'
-title: "Hamilton County, TN Commissioners Vote Unanimously for One-Year Data Center Moratorium"
+title: "Hamilton County, TN Commissioners Vote for One-Year Data Center Moratorium"
 importance: 6
 status: reported
 tags:
@@ -25,6 +25,8 @@ sources:
     tier: 2
 ---
 
-Hamilton County, Tennessee commissioners voted unanimously on July 15 for a one-year moratorium on new data centers in unincorporated areas of the county. County Mayor Weston Wamp directed the Planning Department to develop permanent data center zoning regulations by March 2027, before the moratorium expires. No specific hyperscaler is publicly named as the trigger. Chattanooga, the county seat, sits at the intersection of Tennessee Valley Authority electricity infrastructure and Southern connectivity corridors that have made it an AI-campus target.
+Hamilton County, Tennessee commissioners voted on July 15 for a one-year moratorium on new data centers in unincorporated areas of the county; all commissioners present voted in favor, with two commissioners (Greg Beck, District 5, and Chairman Ken Smith, District 3) absent. Mayor Weston Wamp proposed a six-month progress review to check in on the county's work toward permanent data center zoning regulations. No specific hyperscaler is publicly named as the trigger. Chattanooga, the county seat, sits at the intersection of Tennessee Valley Authority electricity infrastructure and Southern connectivity corridors that have made it an AI-campus target.
 
 Hamilton joins Loudon County, TN's earlier six-month moratorium ([[2026-06-30--loudon-county-tn-six-month-data-center-moratorium]]) as the second Tennessee county to pause new data-center approvals in 2026 — both moratoriums cite the same TVA-infrastructure exposure, suggesting the state's TVA service territory is emerging as a distinct regional front in the national datacenter-moratorium wave.
+
+Corrected 2026-10-01: corrected "unanimously" — the cited Local 3 News article says two commissioners (Greg Beck, Ken Smith) were absent from the vote ("All commissioners voted in favor of the resolution with the exception of two absent commissioners"), so it was not a unanimous vote of the full commission. Also corrected the "March 2027" zoning-regulation deadline, which neither source states; Local 3 News describes a six-month progress review instead.

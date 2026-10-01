@@ -24,6 +24,8 @@ sources:
     tier: 2
 ---
 
-Missoula County commissioners adopted a temporary moratorium — up to one year — on new or expanding data center facilities on July 11, citing public health and environmental concerns while the county updates its land-use regulations. The move is part of a national wave of local-government resistance: at least 17 Indiana counties have moratoriums, Washington County, MD adopted a yearlong moratorium July 1, and Linn County, IA passed an 18-month moratorium.
+Missoula County commissioners adopted a temporary moratorium — up to one year — on new or expanding data center facilities on July 11, citing public health and environmental concerns while the county updates its land-use regulations. The unanimous vote applies countywide (excluding Missoula city limits, which has its own zoning) and follows a proposed data center in Bonner after the property owner withdrew support; all 30 public commenters favored the moratorium. County staff must initiate a study within 30 days to verify an emergency exists.
 
-Missoula extends the moratorium wave's geographic reach into Montana and the Mountain West, a region with comparatively little prior datacenter-siting activity in the timeline's coverage — its inclusion alongside the Midwest, Mid-Atlantic, and Southeast moratorium clusters documented through July 2026 confirms the pattern is genuinely national rather than concentrated in a handful of hyperscaler-target regions.
+Missoula extends the moratorium wave's geographic reach into Montana and the Mountain West, a region with comparatively little prior datacenter-siting activity in the timeline's coverage. Other Montana counties (Butte-Silver Bow, Yellowstone) are separately pursuing ballot initiatives requiring voter approval for data center construction.
+
+Corrected 2026-10-01: cut references to 17 Indiana counties, a Washington County, MD moratorium, and an 18-month Linn County, IA moratorium — neither cited source (Route Fifty, Daily Interlake) discusses those jurisdictions; both are Montana-only coverage.

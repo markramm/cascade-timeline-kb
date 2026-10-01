@@ -12,7 +12,6 @@ tags:
 actors:
   - City of Wilmington
   - Amazon Web Services
-  - Jeffery Hopkins
 sources:
   - title: "Federal Judge Orders Wilmington to Redo Key Ordinances Tied to Amazon's $4B Data Center Project"
     url: https://www.wcpo.com/news/local-news/federal-judge-orders-wilmington-to-redo-key-ordinances-tied-to-amazons-4-billion-data-center-project
@@ -26,6 +25,8 @@ sources:
     tier: 2
 ---
 
-Federal Judge Jeffery Hopkins ordered the City of Wilmington (Clinton County, OH) to redo three ordinances — on generator noise, rezoning, and data centers as permitted land use — before it can consider Amazon Web Services' proposed $4 billion data center site plan. The court found the city violated Ohio's open meetings law when it passed the ordinances in 2025 without adequate public notice. The order was issued July 14; Wilmington City Council scheduled a public hearing on the three affected ordinances for August 20, creating a procedural delay of at least two to three months before the site plan can advance.
+A federal court ordered the City of Wilmington (Clinton County, OH) to redo three ordinances — on generator noise, rezoning, and data centers as permitted land use — before it can consider Amazon Web Services' proposed $4 billion data center site plan. The court found the city violated Ohio's open meetings law when it passed the ordinances without adequate public notice. The order was issued July 14; Wilmington City Council scheduled a public hearing on the three affected ordinances for August 20, creating a procedural delay of at least two to three months before the site plan can advance.
 
 This is a rare instance of a federal court, rather than a local council vote, halting a hyperscaler siting process — the open-meetings-violation theory is a legal template distinct from the moratorium and zoning-denial mechanisms the timeline has tracked at dozens of other jurisdictions, since it attacks the procedural validity of ordinances already passed rather than blocking a new application.
+
+Corrected 2026-10-01: removed the judge's name ("Jeffery Hopkins") and the claim the ordinances were "passed in 2025" — neither cited source (WCPO, WYSO) names the judge or states a year for when the ordinances were originally passed.

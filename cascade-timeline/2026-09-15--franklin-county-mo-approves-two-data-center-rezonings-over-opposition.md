@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-09-15--franklin-county-mo-approves-two-data-center-rezonings-over-opposition
 date: '2026-09-15'
-title: "Franklin County MO Commissioners Unanimously Rezone Two Farms for Data Centers, Overriding Their Own Planning Commission"
+title: "Franklin County MO Commissioners Rezone Two Farms for Data Centers, Overriding Their Own Planning Commission"
 importance: 7
 status: confirmed
 tags:
@@ -40,10 +40,12 @@ coverage:
   - daily-capture-reports/datacenter/2026-09-15--franklin-county-mo-data-center-rezoning-vote-2026.md
 ---
 
-Franklin County, Missouri commissioners voted **unanimously** on **September 15, 2026** to rezone two agricultural properties to industrial use for data-center development: **Diamond Farm** in Villa Ridge — a 600-plus-acre site near Interstate 44 marketed as the **Gateway Digital Campus** — and **Crooked Creek Farm** south of Pacific, which developer **Beltline** plans as the Meramec Valley Technology Park. Residents packed a meeting at East Central College for hours of public comment on noise, environmental impact and electricity demand.
+Franklin County, Missouri commissioners voted on **September 15, 2026** to rezone two agricultural properties to industrial use for data-center development: **Diamond Farm** in Villa Ridge — a 600-plus-acre site near Interstate 44 marketed as the **Gateway Digital Campus** — and **Crooked Creek Farm** south of Pacific, which developer **Beltline** plans as the Meramec Valley Technology Park. Residents packed a meeting for hours of public comment on noise, environmental impact and electricity demand.
 
-**The override is the finding.** The county's own **Planning and Zoning Commission had approved Diamond Farms and rejected Crooked Creek.** The commissioners approved both, unanimously — reversing the advisory body's split judgment in the direction of the applicants on the parcel their own planners had turned down. This is a recurring shape in the data-center siting record: the technical review body says no, and the elected body that can be lobbied says yes.
+**The override is the finding.** The county's own **Planning and Zoning Commission had approved Diamond Farms and rejected Crooked Creek.** The commissioners approved both — reversing the advisory body's split judgment in the direction of the applicants on the parcel their own planners had turned down. This is a recurring shape in the data-center siting record: the technical review body says no, and the elected body that can be lobbied says yes.
 
-It runs against the county-level resistance the timeline has tracked through 2026 — moratoria in Linn County IA ([[2026-07-01--linn-county-ia-18-month-data-center-moratorium-vote]]), Hall County GA ([[2026-08-26--hall-county-ga-unanimous-dual-moratorium-data-centers-and-detention-centers]]), and a denied rezoning in Citrus County FL ([[2026-06-18--citrus-county-fl-data-center-moratorium-holder-rezoning-denied]]) — and alongside St. Joseph County IN's TIF delay the day before ([[2026-09-14--st-joseph-county-in-council-delays-microsoft-tif-expansion-vote-to-september-22]]). Franklin County is the counter-case: packed hearing, unanimous approval anyway.
+It runs against the county-level resistance the timeline has tracked through 2026 — moratoria in Linn County IA ([[2026-07-01--linn-county-ia-18-month-data-center-moratorium-vote]]), Hall County GA ([[2026-08-26--hall-county-ga-unanimous-dual-moratorium-data-centers-and-detention-centers]]), and a denied rezoning in Citrus County FL ([[2026-06-18--citrus-county-fl-data-center-moratorium-holder-rezoning-denied]]) — and alongside St. Joseph County IN's TIF delay the day before ([[2026-09-14--st-joseph-county-in-council-delays-microsoft-tif-expansion-vote-to-september-22]]). Franklin County is the counter-case: packed hearing, approval anyway.
 
 **Not established.** No hyperscaler end-user is named in any source for either site; the ledger's field read "Unknown" and that remains correct. Whether a PILOT or TIF abatement accompanied either rezoning is unknown, as is the proposed scale in megawatts or square feet. Leads are open on all three. **Sourcing note**: two sources carried in the capture ledger (Fox2Now, DataCenterDynamics) returned **HTTP 403 on 2026-09-16** and were replaced with live KSDK and Missouri Times reporting located the same day; the Gateway Digital Campus name, the 600-acre figure and the Beltline/Meramec Valley attribution come from that replacement sourcing, not from the ledger.
+
+Corrected 2026-10-01: cut "unanimously"/"unanimous" from the title and body (three instances) and cut "at East Central College" as the hearing venue — neither reachable source (First Alert 4, The Missouri Times) states a vote count or names a venue. KSDK remains unreachable (HTTP 403, retried 2026-10-01); the vote count and venue are unconfirmed, not established as false.

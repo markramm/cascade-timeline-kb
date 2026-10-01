@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
 date: '2026-09-02'
-title: "ICE Posts $5M Pre-Solicitation to Build Recurring Nationwide Voter-File Acquisition Pipeline"
+title: "ICE Posts $5M Request for Information to Build Recurring Nationwide Voter-File Acquisition Pipeline"
 importance: 9
 status: confirmed
 tags:
@@ -45,8 +45,10 @@ coverage:
   - daily-capture-reports/feed/2026-09-02--ice-5-million-national-voter-database-contract-all-50-states.md
 ---
 
-ICE's Homeland Security Investigations office posted a pre-solicitation notice on September 2, 2026 seeking a private contractor — at up to $5 million — to collect, compile, and deliver voter registration and voting-history files from all U.S. jurisdictions, as part of a DHS voter-fraud detection effort. The structural significance is in the word *recurring*: the contract would convert voter-file acquisition from an ad hoc, state-by-state demand into standardized infrastructure, with annual acquisition cycles, secure transfer protocols, and the capacity to scale nationwide. Voting history would cover general, primary, runoff, and special federal elections. The solicitation states that party-affiliation data would be "limited," while reserving HSI's right to request that data from the contractor regardless.
+ICE's Homeland Security Investigations office posted a request for information (RFI) on or around August 25, 2026 (its public comment period closed August 28) seeking a private contractor — at up to $5 million — to collect, compile, and deliver voter registration and voting-history files from all U.S. jurisdictions, as part of a DHS voter-fraud detection effort. The structural significance is in the word *recurring*: the contract would convert voter-file acquisition from an ad hoc, state-by-state demand into standardized infrastructure, with annual acquisition cycles, secure transfer protocols, and the capacity to scale nationwide. Voting history would cover general, primary, runoff, and special federal elections. The RFI states that party-affiliation data would be "limited," while reserving HSI's right to request that data from the contractor regardless.
 
 This is a distinct effort from the DOJ-led national voter database already documented in this timeline, and the distinction matters: DOJ's approach demanded files from states directly and has been losing in court, including a first appellate loss in the Sixth Circuit and a dismissal by a Trump appointee in Maryland. Routing acquisition through a private contractor moves the same data into the same hands while changing who does the asking — a procurement action rather than a demand on a state election official, and one that does not require any state's cooperation to be renewed each year. EPIC, Protect Democracy, and CREW have sued the administration over the broader voter-data compilation effort.
 
 The immigration-enforcement agency is the acquiring party. That places voter files inside the same agency that holds the LexisNexis-to-Palantir bulk pipeline documented in August 2026, and the pattern this timeline tracks is the convergence: the enforcement apparatus and the election apparatus drawing on one accumulating data substrate, assembled through contracts rather than statute.
+
+Corrected 2026-10-01: corrected "pre-solicitation notice" to "request for information (RFI)" throughout the body and title, and corrected the posting date from September 2, 2026 to on or around August 25, 2026 — all three cited sources (Democracy Docket, 404 Media, FedScoop) date the posting to late August and call it an RFI, not a pre-solicitation notice. The filename and id were left unchanged per the correction rules governing filename/id stability; flagged separately for Mark since the filename/frontmatter date (2026-09-02) and the term "presolicitation" in the filename do not match the sourced event.

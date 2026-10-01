@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-07-16--trump-election-speech-usps-ballot-barcode-reinstated
 date: '2026-07-16'
-title: "Trump Primetime Address Pushes SAVE America Act on Unsupported Claims; DC Circuit Reinstates USPS Ballot Barcode Rule"
+title: "Trump Primetime Address Pushes SAVE America Act on Unsupported Claims"
 importance: 9
 status: reported
 tags:
@@ -36,6 +36,8 @@ sources:
     tier: 2
 ---
 
-In a July 16 primetime national address, Trump claimed China had acquired 220 million US voter files, that 250,000-270,000 noncitizens are illegally registered across four key states, and that voting machines are vulnerable — claims immediately rebutted by election officials and fact-checkers as unsupported by new evidence. Arizona's Secretary of State said on the record: "I have seen zero new facts." Trump used the speech to demand passage of the SAVE America Act requiring nationwide proof-of-citizenship registration and photo ID. The next day, the DC Circuit reinstated (as a stay, not a final ruling) the USPS rule requiring states to submit voter lists and serialized ballot barcodes before federal ballots are mailed — the first appellate-level win for the administration's election-infrastructure agenda, directly threatening mail-in ballot processing in California, Oregon, and other states that have refused to hand over voter rolls.
+In a July 16 primetime national address, Trump claimed China had acquired 220 million US voter files, that 250,000-270,000 noncitizens are illegally registered across four key states, and that voting machines are vulnerable — claims immediately rebutted by election officials and fact-checkers as unsupported by new evidence. Arizona's Secretary of State said on the record: "I have seen zero new facts." Trump used the speech to demand passage of the SAVE America Act requiring nationwide proof-of-citizenship registration and photo ID.
 
-The speech and the ruling arrived one day apart and functioned together: an unsupported-claims primetime push for the SAVE America Act ([[2026-06-30--save-act-dies-in-senate-ndaa-state-citizenship-proof-laws-spread]]) paired with the first successful court validation of a parallel enforcement mechanism (the USPS ballot barcode rule) that doesn't require the SAVE Act's passage to constrain mail-in voting in non-compliant states.
+The speech was an unsupported-claims primetime push for the SAVE America Act ([[2026-06-30--save-act-dies-in-senate-ndaa-state-citizenship-proof-laws-spread]]).
+
+Corrected 2026-10-01: cut the paragraph claiming the DC Circuit reinstated, as a stay, a USPS rule requiring serialized ballot barcodes — none of the four cited sources (NPR, ABC News, NBC News, Votebeat) contain any DC Circuit ruling, USPS rule, or ballot-barcode content; the title was changed to match. The entry's remaining core claim (the primetime speech and its unsupported claims) is still supported by all four sources.
