@@ -38,6 +38,8 @@ actors:
   - Steve Christy
   - Rex Scott
   - Laura Conover
+coverage:
+  - daily-capture-reports/datacenter/2026-09-22--pima-county-120day-data-center-moratorium.md  # consumed 2026-09-30 as duplicate (overlap 0.58)
 ---
 
 The Pima County Board of Supervisors voted 3-2 on September 22, 2026 to impose a 120-day moratorium on new data center development in unincorporated Pima County, under Resolution 2026-56. Chair Jennifer Allen made the motion and Vice Chair Matt Heinz seconded it; Supervisors Steve Christy (District 4) and Rex Scott (District 1) dissented. The moratorium exempts projects that already have permits for site improvements — grading, paving, flood control, construction — in hand, but halts new permits for the duration. The board took up the resolution after an executive session of more than an hour with County Attorney Laura Conover.
