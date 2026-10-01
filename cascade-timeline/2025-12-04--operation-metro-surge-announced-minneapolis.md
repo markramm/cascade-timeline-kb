@@ -74,7 +74,7 @@ On January 6, 2026, DHS dramatically escalated the operation, deploying 2,000 fe
 
 The operation's full scope and consequences:
 
-**Scale:** At least 3,789 arrests documented through FOIA data released in March 2026, though the White House claimed over 4,000. The majority of arrestees were from Ecuador and Mexico, contradicting the initial framing that the operation targeted Somali fraud networks. Internal data showed only 578 of the claimed arrests could be documented -- roughly 14% of the administration's public claims.
+**Scale:** At least 3,789 arrests documented through FOIA data released in March 2026, though the White House claimed over 4,000. The majority of arrestees were from Ecuador and Mexico, contradicting the initial framing that the operation targeted Somali fraud networks. A crowdsourced observer count of 578 arrests (Minnesota Reformer, Feb. 23, 2026) was roughly 14% of the administration's public claim of more than 4,000; the Reformer described that data as incomplete.
 
 **Fatal violence:** Federal agents killed two American civilians during the operation. Renee Good, a legal observer, was shot and killed on January 7, 2026. Alex Pretti was also killed by federal agents. Both were U.S. citizens. The DOJ Civil Rights Division refused to investigate the Good killing, triggering mass resignations of senior DOJ officials.
 
