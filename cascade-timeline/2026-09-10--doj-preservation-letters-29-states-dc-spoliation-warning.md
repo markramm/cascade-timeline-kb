@@ -36,7 +36,7 @@ related_events:
   - 2026-08-17--minnesota-judge-dismisses-doj-voter-roll-suit-fishing-expedition-0-23
   - 2026-08-06--aclu-doj-voter-database-12-states-complied-5-suits-dismissed
   - 2026-06-24--sixth-circuit-doj-first-appellate-loss-voter-rolls-michigan
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
 coverage:
   - daily-capture-reports/headline/2026-09-10--doj-voter-file-preservation-order-30-state-lawsuit.md
 ---

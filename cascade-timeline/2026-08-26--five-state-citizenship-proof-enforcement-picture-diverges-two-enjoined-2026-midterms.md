@@ -108,7 +108,7 @@ The instrument matters as much as the outcome. Conflating "documentary proof of 
 ## Related Entries
 
 - [[2026-06-30--save-act-dies-in-senate-ndaa-state-citizenship-proof-laws-spread]] — prior canon entry naming only SD/UT; this entry supersedes its enumeration
-- [[2026-07-22--house-passes-save-act-via-ndaa-217-209-eac-headless]] — second House passage this entry sits downstream of
+- [[2026-07-23--house-passes-save-act-via-ndaa-216-212-eac-headless]] — second House passage this entry sits downstream of
 - [[2026-07-09--trump-purges-election-assistance-commission-save-act-backdoor]] — EAC quorum loss
 - [[2026-07-10--trump-fires-eac-commissioners-hicks-hovland-after-humphreys-executor]]
 - [[2026-03-08--trump-withholds-signature-save-act-voting-overhaul]]

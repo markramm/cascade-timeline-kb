@@ -49,7 +49,7 @@ related_events:
   - 2026-06-04--dhs-approves-eo-14399-save-citizenship-lists-operational-june-30
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2026-09-14--taylor-warns-save-tool-becoming-centralized-federal-voter-database
-  - 2026-07-15--aclu-sues-doj-national-voter-database-nvra-blackout-deadline
+  - 2026-04-24--aclu-common-cause-sue-doj-block-national-voter-database
 coverage:
   - daily-capture-reports/headline/2026-09-25--scotus-save-voter-database-midterms-sept25.md
   - daily-capture-reports/feed/2026-09-25--scotus-save-database-voter-citizenship-lifted.md

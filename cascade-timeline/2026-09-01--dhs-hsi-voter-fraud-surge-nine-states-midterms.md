@@ -34,7 +34,7 @@ sources:
     tier: 1
 related_events:
   - 2026-08-26--hsi-solicits-private-contractor-voter-registration-files-fraud-detection
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
   - 2026-09-10--doj-preservation-letters-29-states-dc-spoliation-warning
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful

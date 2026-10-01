@@ -40,7 +40,7 @@ sources:
 related_events:
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
-  - 2026-07-15--aclu-sues-doj-national-voter-database-nvra-blackout-deadline
+  - 2026-04-24--aclu-common-cause-sue-doj-block-national-voter-database
   - 2026-06-24--sixth-circuit-doj-first-appellate-loss-voter-rolls-michigan
 coverage:
   - daily-capture-reports/feed/2026-09-14--trump-voter-database-save-decentralization-2026.md

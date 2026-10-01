@@ -229,6 +229,12 @@ def write_event(ev: dict, slug_idx: dict[str, str]) -> None:
         "capture_lanes": ev.get("capture_lanes", []) or [],
         "coverage": ev.get("coverage", []) or [],
     }
+    # An event that replaced an earlier, misdated/duplicate id records that id
+    # in `previous_ids`. Emit Hugo aliases so the old /event/<old-id>/ URL
+    # still resolves — Hugo writes a redirect page at each alias path.
+    previous_ids = ev.get("previous_ids") or []
+    if previous_ids:
+        fm["aliases"] = [f"/event/{old}/" for old in previous_ids]
     out = CONTENT / "event" / f"{slug}.md"
     out.parent.mkdir(parents=True, exist_ok=True)
     yaml_fm = yaml.safe_dump(fm, sort_keys=False, allow_unicode=True, default_flow_style=False).strip()

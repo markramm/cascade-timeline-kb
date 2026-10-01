@@ -39,7 +39,7 @@ sources:
     tier: 2
 related_events:
   - 2026-07-30--ice-widens-airport-arrests-legally-present-migrants-tsa-checkpoint
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
   - 2026-06-08--ice-awards-thundercat-9-9m-itin-data-subscription-after-courts-blocked-irs-channel
 coverage:
   - daily-capture-reports/feed/2026-05-07--drey-dossier-national-id-nobody-voted-for.md

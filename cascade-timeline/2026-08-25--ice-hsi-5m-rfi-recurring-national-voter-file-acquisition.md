@@ -1,7 +1,7 @@
 ---
 type: timeline_event
-id: 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
-date: '2026-09-02'
+id: 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
+date: '2026-08-25'
 title: "ICE Posts $5M Request for Information to Build Recurring Nationwide Voter-File Acquisition Pipeline"
 importance: 9
 status: confirmed
@@ -35,6 +35,7 @@ sources:
     publisher: FedScoop
     date: '2026-09-02'
     tier: 2
+previous_ids: ["2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition"]
 related_events:
   - 2026-02-17--doj-secret-voter-file-agreements-37-million-voters
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
@@ -51,4 +52,4 @@ This is a distinct effort from the DOJ-led national voter database already docum
 
 The immigration-enforcement agency is the acquiring party. That places voter files inside the same agency that holds the LexisNexis-to-Palantir bulk pipeline documented in August 2026, and the pattern this timeline tracks is the convergence: the enforcement apparatus and the election apparatus drawing on one accumulating data substrate, assembled through contracts rather than statute.
 
-Corrected 2026-10-01: corrected "pre-solicitation notice" to "request for information (RFI)" throughout the body and title, and corrected the posting date from September 2, 2026 to on or around August 25, 2026 — all three cited sources (Democracy Docket, 404 Media, FedScoop) date the posting to late August and call it an RFI, not a pre-solicitation notice. The filename and id were left unchanged per the correction rules governing filename/id stability; flagged separately for Mark since the filename/frontmatter date (2026-09-02) and the term "presolicitation" in the filename do not match the sourced event.
+Corrected 2026-10-01: corrected "pre-solicitation notice" to "request for information (RFI)" throughout the body and title, and corrected the posting date from September 2, 2026 to on or around August 25, 2026 — all three cited sources (Democracy Docket, 404 Media, FedScoop) date the posting to late August and call it an RFI, not a pre-solicitation notice. Renamed 2026-10-01 from 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition.

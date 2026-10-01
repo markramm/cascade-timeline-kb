@@ -52,7 +52,7 @@ sources:
 related_events:
   - 2025-09-09--doj-demands-voter-data-centralized-database
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
-  - 2026-07-15--aclu-sues-doj-national-voter-database-nvra-blackout-deadline
+  - 2026-04-24--aclu-common-cause-sue-doj-block-national-voter-database
   - 2026-08-06--aclu-doj-voter-database-12-states-complied-5-suits-dismissed
   - 2026-09-10--doj-preservation-letters-29-states-dc-spoliation-warning
 coverage:

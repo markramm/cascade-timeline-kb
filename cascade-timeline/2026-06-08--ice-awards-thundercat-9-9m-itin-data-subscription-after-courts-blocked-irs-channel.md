@@ -52,7 +52,7 @@ related_events:
   - 2026-03-25--npr-documents-data-broker-loophole-purchase-instead-of-warrant-fisa-702
   - 2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data
   - 2026-03-25--72-lawmakers-demand-dhs-oig-probe-warrantless-location-purchases
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
 coverage:
   - daily-capture-reports/headline/2026-06-05--ice-buys-itin-immigrant-tax-ids-from-data-broker-evading-court-order.md
 ---

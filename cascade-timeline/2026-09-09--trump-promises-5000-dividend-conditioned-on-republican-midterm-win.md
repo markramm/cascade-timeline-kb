@@ -38,7 +38,7 @@ sources:
     tier: 1
 related_events:
   - 2026-09-03--doj-third-scotus-emergency-application-usps-mail-ballot-rule
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
 ---
 
 Speaking at the Republican Party's midterm convention in Dallas on the evening of September 9, 2026, Donald Trump promised a $5,000 "dividend" to every adult citizen, payable only if Republicans hold both the Senate and the House in the November 3 midterms. "I'm asking you to pretend that I'm on the ballot," he told the audience. The proposal would cost more than $1 trillion and would require congressional appropriation; Vice President JD Vance subsequently narrowed it, saying wealthy Americans would not qualify and suggesting tariff revenue as the financing source. Trump said the money must be spent in the United States.

@@ -24,7 +24,7 @@ sources:
     tier: 1
 related_events:
   - 2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract
-  - 2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition
+  - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
 coverage:
   - daily-capture-reports/headline/2026-09-02--ice-zerofox-doxing-mitigation-ai-hides-agent-identities.md
 ---

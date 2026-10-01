@@ -26,3 +26,4 @@ types:
       - verification
       - claims
       - event_date_claim
+      - previous_ids
