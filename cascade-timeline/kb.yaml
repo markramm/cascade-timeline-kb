@@ -1,3 +1,14 @@
+# Claim binding (2026-10-01; capture-pipeline fix, see daily-capture-reports/_routines/ARCHITECTURE.md):
+#   claims:        every factual claim in the title and body, bound to the verbatim span it came from:
+#                  {id, type, value, qualifier, span, url, read, source_kind, outcome, checked}
+#                  outcome = verified | span-missing | value-mismatch | unreachable
+#                  (computed by tcp-skills daily-capture/scripts/check_sourcing.py --claims)
+#   verification:  source-verified | captured | disputed  (computed, never chosen)
+#                  An entry WITHOUT this field is `captured`: everything written before 2026-10-01 stays
+#                  valid. `status: confirmed` is written for new capture promotions only when
+#                  source-verified; otherwise `reported`. Existing statuses are not downgraded en masse.
+#   event_date_claim: id of the claim whose span states the event date.
+# Entries use `type: timeline_event`; this file's `event` type documents the shared field set.
 types:
   event:
     description: "Historical event documenting institutional capture, corruption, or democratic erosion"
@@ -12,3 +23,6 @@ types:
       - participants
       - sources
       - tags
+      - verification
+      - claims
+      - event_date_claim
