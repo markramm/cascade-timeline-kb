@@ -51,6 +51,7 @@ related_events:
   - 2026-09-14--taylor-warns-save-tool-becoming-centralized-federal-voter-database
   - 2026-04-24--aclu-common-cause-sue-doj-block-national-voter-database
 coverage:
+  - daily-capture-reports/feed/2026-09-25--scotus-save-system-noncitizen-voters-2026-midterms-limited-impact.md
   - daily-capture-reports/headline/2026-09-25--scotus-save-voter-database-midterms-sept25.md
   - daily-capture-reports/feed/2026-09-25--scotus-save-database-voter-citizenship-lifted.md
 ---

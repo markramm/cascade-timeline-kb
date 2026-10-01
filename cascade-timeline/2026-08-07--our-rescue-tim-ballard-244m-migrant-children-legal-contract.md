@@ -73,6 +73,9 @@ sources:
     publisher: "The Washington Post"
     date: '2026-08-11'
     tier: 1
+coverage:
+  - path: daily-capture-reports/feed/2026-08-01--trump-defunds-immigration-legal-aid-our-rescue-contract-2026.md
+    note: "Mother Jones survey of legal-aid groups: attempted cancellation of around $267 million in legal-aid spending (c1), RAICES 159 layoffs (c3), and the $158 million Our Rescue award (c6). Context for this entry; dropped as duplicate 2026-10-01."
 ---
 
 On **August 7, 2026**, HHS's Office of Refugee Resettlement signed contract **7571MN26C00029** — **"Legal Services Bridge 2.0"** — obligating **$158,124,790** to **Our Rescue**, the Utah anti-trafficking nonprofit founded as Operation Underground Railroad by Tim Ballard and now led by **Derek Benner**, the former head of ICE Homeland Security Investigations. The federal contracting record codes the award **"NOT COMPETED,"** solicitation procedures **"ONLY ONE SOURCE,"** **one offer received**, under **FAR 6.302-2 — "unusual and compelling urgency."** Its NAICS code is **541110, "Offices of Lawyers."** Queried by UEI across all contract and grant types back to FY2008, **Our Rescue had never held a federal award of any kind**; this contract is its entire federal history, and it is roughly **three times the organization's total annual revenue**.

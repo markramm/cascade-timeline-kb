@@ -29,6 +29,8 @@ summary: >-
   long-term location data but says nothing clear about what the government may BUY. Patel's
   on-the-record statement makes the FBI's reliance on purchased commercial data official.
 coverage:
+  - path: daily-capture-reports/headline/2026-03-18--fbi-kash-patel-data-broker-location-purchase-congress-march2026.md
+    note: "Further re-capture of the same March 18 testimony (TechCrunch); dropped as duplicate 2026-10-01."
   - url: https://theramm.transparencycascade.org/p/no-warrant-required-how-a-social
     title: "No Warrant Required: How a Social Media Post Becomes a Federal Threat"
   - url: https://theramm.transparencycascade.org/p/make-yourself-expensive-a-field-guide

@@ -28,6 +28,9 @@ sources:
     publisher: "National Immigration Project"
     date: '2026-08-04'
     tier: 2
+coverage:
+  - path: daily-capture-reports/headline/2026-07-31--ice-july-2026-record-arrests-49571.md
+    note: "NPR (Aug 26) reports 49,571 July arrests from Deportation Data Project data (c1), against June 43,021 (c3), a third July arrest count beside the 46,000 and 51,000 recorded here; unresolved. Dropped as duplicate 2026-10-01."
 ---
 
 ICE detained more than 46,000 people in July 2026 — the highest single-month total of the Trump second term — as Enforcement and Removal Operations widened its target set across visa overstays and illegal entry. ICE in-custody deaths reached at least 24 for 2026, including 41-year-old Salvadoran national Edwin Lopez-Cornejo, who died at GEO Group's Delaney Hall facility in Newark, NJ on August 1. The 2026 pace is tracking to exceed 2025, already the deadliest year on record for ICE custody.

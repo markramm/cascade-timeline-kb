@@ -38,6 +38,8 @@ capture_lanes:
 - Immigration System Capture
 - Corporate Capture
 coverage:
+  - path: daily-capture-reports/headline/2026-02-19--palantir-dhs-1billion-bpa-ice-cbp-2026.md
+    note: "Further re-capture of the same $1B BPA award (SiliconANGLE); dropped as duplicate 2026-10-01."
   - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
     title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
   - path: daily-capture-reports/headline/2026-02-19--dhs-palantir-1b-ai-analytics-blanket-purchase-agreement-2026.md
