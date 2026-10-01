@@ -37,7 +37,9 @@ related_events:
   - 2026-05-27--ap-investigation-ice-detention-suicides-record-fy-pace-corecivic-geo-facilities
   - 2026-05-30--marshall-project-ice-coercive-voluntary-departure-conditions-sevenfold-surge
   - 2026-04-08--ice-appeals-pa-dep-orders-tremont-upper-bern
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 ---
 
 A detainee at GEO Group's Moshannon Valley Processing Center in Clearfield County, Pennsylvania was placed in solitary confinement and then transferred to Louisiana's Winn Correctional Center after a disciplinary report charged him with "inciting a group demonstration" — ICE's high-offense tier. The protest had arisen spontaneously after a fellow detainee vomited green bile during mealtime; DHS had publicly denied any hunger strike was occurring. Spotlight PA obtained the actual disciplinary report naming the charge. Women at the facility — at 1,876 beds the largest ICE facility in the Northeast — report sexual assault, denied care for pregnancy complications, and widespread medical neglect.

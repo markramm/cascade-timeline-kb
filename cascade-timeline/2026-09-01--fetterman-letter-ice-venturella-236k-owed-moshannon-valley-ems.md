@@ -43,7 +43,9 @@ sources:
     tier: 2
 capture_lanes:
   - Immigration System Capture
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 related_events:
   - 2026-09-09--clearfield-county-tables-moshannon-six-month-extension-vote-sept-22
   - 2026-03-19--mullin-committee-vote-8-7-fetterman-decisive

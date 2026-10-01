@@ -60,6 +60,8 @@ related_events:
   - 2026-09-01--fetterman-letter-ice-venturella-236k-owed-moshannon-valley-ems
 coverage:
   - daily-capture-reports/detention/2026-09-09--clearfield-pa-moshannon-valley-geo-contract-renewal-hearing.md
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 ---
 
 On September 9, 2026, DHS and GEO Group asked Clearfield County, Pennsylvania to sign a six-month "as-is" extension of the intergovernmental service agreement governing the Moshannon Valley Processing Center, nineteen days before the five-year agreement expires on September 28. Commissioners tabled the matter to September 22. Chairman Tim Winters said GEO Group's legal division was "backed up working on other contracts"; Commissioner John Sobel called last-minute federal agreements "aggravating but it isn't as unusual as people think."

@@ -67,6 +67,8 @@ related_events:
 coverage:
   - daily-capture-reports/headline/2026-09-11--ice-10b-solicitation-phase1-bids-due.md
   - daily-capture-reports/headline/2026-07-17--ice-10-billion-own-land-construction-contractors-scout-sites.md
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 ---
 
 ICE's Office of Acquisition Management issued RFP **70CDCR26R00000026**, "Turn-key Detention Facilities," as a Combined Synopsis/Solicitation, first posted to SAM.gov on August 28, 2026 (8:46 p.m. ET; August 29 UTC) with proposals due September 11. Amendment A0002, posted the evening of September 10, extended the proposal deadline to **September 14, 2026 at 5:00 p.m. ET**, and stated that a further amendment (A0003) would issue September 11 to incorporate the government's answers to industry questions and revised attachments.

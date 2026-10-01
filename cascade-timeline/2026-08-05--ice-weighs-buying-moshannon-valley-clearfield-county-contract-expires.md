@@ -27,6 +27,8 @@ sources:
     tier: 2
 coverage:
   - daily-capture-reports/detention/2026-08-01--moshannon-valley-clearfield-county-contract-expiration-sept-28.md  # consumed 2026-09-14
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 ---
 
 Clearfield County, Pennsylvania's intergovernmental service agreement with ICE and GEO Group for the Moshannon Valley Processing Center — the largest ICE detention facility in the Northeast, with capacity for 1,876 people — is set to expire September 28, 2026, and neither the county nor GEO Group has received a renewal proposal from ICE. Instead, ICE published a request for information in mid-July on "turn-key detention services" for central Pennsylvania, and local activists believe ICE is weighing either a direct contract with GEO Group that bypasses the county, or purchasing the facility outright. Clearfield County currently earns $200,000 per year from the arrangement.

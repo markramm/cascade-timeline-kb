@@ -31,6 +31,9 @@ sources:
     publisher: "ValleyNewsLive"
     date: '2026-08-04'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will
+    title: "The County Gets $200,000. Nobody Will Tell It What It's Giving Up."
 ---
 
 ICE and CoreCivic signed a 5-year, $536 million contract to reopen the Prairie Correctional Facility in Appleton, Swift County, Minnesota — a private prison that has sat closed since 2010 — as the state's first dedicated immigrant detention center. The facility will hold 1,600 beds, with detainee intake beginning in Q4 2026 and full capacity reached by Q2 2027. The contract runs at approximately $75 million per year, roughly $67 per bed per day. Minnesota has until now had no dedicated ICE detention facility, instead shipping detainees out of state or housing them in local jails. As of the signing, no organized local-government opposition has been reported — this is a completed deal, not a fight in progress. Rep. Angie Craig has pressed the administration on the contract.
