@@ -23,7 +23,7 @@ sources:
   - title: "ICE Pays Nearly $10 Million to Maintain a Warehouse It's Legally Barred From Using"
     url: https://www.projectsaltbox.com/p/ice-pays-nearly-10-million-to-maintain
     publisher: Project Salt Box
-    date: '2026-09-19'
+    date: '2026-09-08'
     tier: 2
   - title: "Judge orders pause on ICE detention center construction in Maryland"
     url: https://www.washingtonpost.com/immigration/2026/03/11/ice-warehouse-detention-center-lawsuit/
