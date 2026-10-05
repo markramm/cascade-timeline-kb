@@ -28,6 +28,9 @@ sources:
     publisher: "The Hill"
     date: '2026-09-23'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 The Democratic Senatorial Campaign Committee, DCCC, DGA, Senate Minority Leader Chuck Schumer and House Minority Leader Hakeem Jeffries filed a lawsuit late Wednesday, September 23, 2026, asking a federal court to bar the Trump administration from deploying armed officers "in the vicinity of open polling places, including dropboxes, curbside voting locations" or anywhere votes are collected, counted, or certified — a request covering early voting through post-election ballot-curing, for the November 2026 midterms. Five days earlier, on Friday, September 18, 2026, the NAACP and eight other civil rights and labor organizations filed a separate suit against DHS, ICE, DOJ and the FBI alleging the same threatened deployment violates the Voting Rights Act, citing an immigration checkpoint federal agents set up on a road leading to a majority-Black-and-Latino Lee County, Florida polling precinct as evidence the threat is not hypothetical.

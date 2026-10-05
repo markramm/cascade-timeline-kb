@@ -44,6 +44,8 @@ related_events:
   - 2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract
 coverage:
   - daily-capture-reports/feed/2026-09-02--ice-5-million-national-voter-database-contract-all-50-states.md
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 ICE's Homeland Security Investigations office posted a request for information (RFI) on or around August 25, 2026 (its public comment period closed August 28) seeking a private contractor — at up to $5 million — to collect, compile, and deliver voter registration and voting-history files from all U.S. jurisdictions, as part of a DHS voter-fraud detection effort. The structural significance is in the word *recurring*: the contract would convert voter-file acquisition from an ad hoc, state-by-state demand into standardized infrastructure, with annual acquisition cycles, secure transfer protocols, and the capacity to scale nationwide. Voting history would cover general, primary, runoff, and special federal elections. The RFI states that party-affiliation data would be "limited," while reserving HSI's right to request that data from the contractor regardless.

@@ -40,6 +40,8 @@ related_events:
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
 coverage:
   - daily-capture-reports/headline/2026-09-01--dhs-hsi-voter-fraud-surge-nine-states.md
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 DHS launched what an internal directive calls a "coordinated criminal voter fraud surge initiative" on September 1, 2026, running through mid-October — straddling the November 3 midterms. Homeland Security Investigations offices in nine states were directed to pursue investigative leads, conduct field interviews, and support timely prosecutorial review: **California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin**. Agents were tasked in part with identifying naturalized citizens who may have registered or voted before completing naturalization.

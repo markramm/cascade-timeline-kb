@@ -217,6 +217,9 @@ related_events:
   - "2025-09-09--doj-demands-voter-data-centralized-database"
   - "2026-06-04--dhs-approves-eo-14399-save-citizenship-lists-operational-june-30"
   - "2026-09-14--taylor-warns-save-tool-becoming-centralized-federal-voter-database"
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 In a 12-day span ending September 30, DOJ announced charges against 16 individuals on September 18, four additional cases on September 24, charges and guilty pleas involving 12 more on September 28, then 10 Minnesota charges on September 30 — bringing total election-misconduct cases to 90, including 50 alleged noncitizen voters. But AG Blanche said 'I don't think we can say there's a pattern we've identified.' DHS Secretary Mullin claimed the agency has 1,600 voter fraud cases investigating and 300,000 more; those 1,600 investigations yielded approximately 160 arrests. The scale of actual fraud found is minuscule against votes cast: Nevada's administration-claimed 1,500 noncitizen voters turned out to be zero; Maricopa County's 60 flagged resulted in eight charged. On September 25 the Supreme Court temporarily allowed an expanded SAVE database for voter-eligibility checks; the move is subject to ongoing litigation.

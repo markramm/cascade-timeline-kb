@@ -54,6 +54,8 @@ related_events:
   - 2026-09-10--doj-preservation-letters-29-states-dc-spoliation-warning
 coverage:
   - daily-capture-reports/headline/2026-09-10--ice-polling-places-lawsuit-lulac-unidosus-denver.md
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 The League of United Latin American Citizens, UnidosUS, Common Cause and the City and County of Denver filed suit in the U.S. District Court for the District of Columbia on September 10, 2026, seeking to block armed ICE officers from entering polling places during the November 3 midterms. Defendants are DHS, Secretary Markwayne Mullin, ICE, and ICE acting Director David Venturella. Democracy Forward is counsel.

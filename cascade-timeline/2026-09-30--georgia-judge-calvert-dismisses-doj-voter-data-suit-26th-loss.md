@@ -122,6 +122,9 @@ related_events:
   - "2026-04-06--doj-voter-data-campaign-reaches-31-suits-30-states-dc"
   - "2026-06-24--appeals-court-blocks-doj-michigan-voter-data-seizure"
   - "2026-01-26--bondi-voter-rolls-request-minnesota-ice-enforcement"
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 U.S. District Judge Victoria Marie Calvert dismissed a Justice Department lawsuit Wednesday against Georgia Secretary of State Brad Raffensperger, ruling that Title III of the Civil Rights Act did not apply to all records, only those that are public, and did not supersede state voter privacy regulations. The case is the Trump administration's 26th loss in its nationwide effort to obtain unredacted voter rolls. Calvert found 'there is no explicit manifestation of Congress's intent to preempt states' voter privacy laws.' Raffensperger said: 'I will always protect the sensitive personal information of Georgians, in accordance with the law and the Constitution,' and added: 'I will not give in and break the law for anyone. Period.' Cases remain pending in Delaware, Hawaii, Idaho, and Utah. At least 12 states, including Texas, Ohio, Indiana, Louisiana, and Wyoming, voluntarily complied with DOJ requests. Raffensperger had shared the public part of the voter roll and information about how Georgia removes ineligible or outdated registrations in December.

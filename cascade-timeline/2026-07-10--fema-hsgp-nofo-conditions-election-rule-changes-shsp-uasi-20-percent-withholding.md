@@ -41,6 +41,9 @@ sources:
     date: '2026-08-21'
     tier: 1
     note: "36,520 tokens fetched successfully, full text read. Names the $1 billion figure explicitly as the NOFO's total HSGP program size (not a withheld/cut-off amount), lists all five conditions verbatim from the complaint, and quotes El Paso County Attorney Christina Sanchez and the complaint's APA/separation-of-powers argument."
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 On or around **July 10, 2026**, FEMA published a Notice of Funding Opportunity (NOFO) for the

@@ -38,6 +38,8 @@ sources:
 coverage:
   - url: https://theramm.transparencycascade.org/p/the-save-database-at-97
     title: "The SAVE Database at 97%: How a 3% Error Rate Could Become Millions of Ignored Votes"
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now."
 ---
 
 On **June 22, 2026**, U.S. District Judge **Sparkle L. Sooknanan** (D.D.C.) granted summary judgment to a coalition led by the League of Women Voters and represented by Democracy Forward (with CREW and the Fair Elections Center), ruling the Trump administration's upgraded **SAVE** (Systematic Alien Verification for Entitlements) database unlawful and ordering DHS to **set aside and vacate** its 2025 modifications. The modifications — built out by **DOGE** and DHS/USCIS — integrated Social Security citizenship data, enabled partial-Social-Security-number searches, and gave bulk free access to state and local election officials, who had already used it to wrongly remove U.S. citizens from voter rolls ahead of the 2026 midterms. The court found violations of the **Social Security Act** (SSN disclosure prohibition), the **Privacy Act of 1974**, and the **Administrative Procedure Act**. Sooknanan wrote that the government "knowingly trampled on the privacy rights of American citizens in a manner that threatens the sacred right to vote."
