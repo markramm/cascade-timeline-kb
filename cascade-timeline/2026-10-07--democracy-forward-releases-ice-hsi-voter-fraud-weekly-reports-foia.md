@@ -196,9 +196,15 @@ sources:
     publisher: Internet Archive
     date: '2026-10-08'
     tier: 1
+corrections:
+- date: '2026-10-08'
+  was: "The release says the request was submitted in April 2026. ICE's cover letter describes the requests as dated July 27, 2026 (presented as an unresolved conflict)"
+  now: "The requests were submitted April 23, 2026; ICE's July 27 description is the cover letter's only"
+  why: "DFF v. DHS, 1:26-cv-02624 (D.D.C.), Doc. 21 (Joint Status Report, Sept 15, 2026) ¶1: 'records submitted on April 23, 2026. See Compl. (ECF No. 1)'"
+  found_by: "HSI case file 2026-10-08"
 ---
 
-Democracy Forward published records it obtained from ICE's Homeland Security Investigations through the Freedom of Information Act: a 166-page production that it describes as containing a series of weekly reports. The release says the request was submitted in April 2026. ICE's cover letter describes the requests as dated July 27, 2026, and carries the caption of Democracy Forward Foundation's FOIA suit, 1:26-cv-02624-BAH. ICE Bates-stamped 166 pages.
+Democracy Forward published records it obtained from ICE's Homeland Security Investigations through the Freedom of Information Act: a 166-page production that it describes as containing a series of weekly reports. The requests were submitted on April 23, 2026, according to the joint status report in the case (Democracy Forward Foundation v. DHS, 1:26-cv-02624, Doc. 21 ¶1), consistent with Democracy Forward's release ("April 2026"). ICE's cover letter describes the requests as dated July 27, 2026, a date the government's own filing does not support, and carries the caption of Democracy Forward Foundation's FOIA suit, 1:26-cv-02624-BAH. ICE Bates-stamped 166 pages.
 
 The production also contains an HSI St. Paul consolidated report. Its entry for case MS02PR26MS0004 records that 15 agitators were arrested on federal conspiracy charges. In United States v. Sant, HSI's case-opening report for case MS02PR26MS0004 carries the case title Project Whipple Shield, and HSI St. Paul opened it in accordance with National Security Presidential Memorandum–7. The St. Paul report also lists Operation Puppet Box (MS02PR26MS0007), in which "UCAs are maintaining daily communication with" a redacted person. In Sant, the government told the court that as of June 2026 six active investigations used CUC Keyhole, one of them Project Whipple Shield.
 

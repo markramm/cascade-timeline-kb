@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2025-07-01--dhs-ends-sensitive-locations-policy-churches-schools
-date: 2025-07-01
+date: '2025-01-21'
 title: DHS ends sensitive locations policy allowing ICE arrests at churches and schools
 importance: 8
 tags:
@@ -53,6 +53,12 @@ _merge_timestamp: '2025-09-05T23:46:55.901872'
 capture_lanes:
 - Regulatory Capture
 - Legislative Capture
+corrections:
+- date: '2026-10-08'
+  was: "date: 2025-07-01"
+  now: "date: 2025-01-21 (the id and file name keep 2025-07-01 so existing links resolve)"
+  why: "https://www.cbsnews.com/news/trump-immigration-ice-arrests-sensitive-locations/ — CBS News, published January 21, 2025: 'Trump officials revoke Biden policy that barred ICE arrests near sensitive locations'; the entry's own CNN, CBS, Axios and El Paso Matters sources are all dated 2025-01-21"
+  found_by: "HSI case file 2026-10-08"
 ---
 
 The Department of Homeland Security ended a long-standing policy that restricted ICE agents' ability to arrest undocumented people at sensitive locations including houses of worship, schools, and hospitals. DHS stated "Criminals will no longer be able to hide in America's schools and churches to avoid arrest," marking a significant escalation in enforcement tactics that breaks with decades of precedent.

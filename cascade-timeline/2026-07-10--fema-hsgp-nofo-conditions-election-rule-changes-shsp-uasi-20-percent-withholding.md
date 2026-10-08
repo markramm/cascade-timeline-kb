@@ -34,7 +34,7 @@ sources:
     publisher: AP News
     date: '2026-07-23'
     tier: 1
-    note: "202,331 tokens fetched successfully, full text read. Confirms the four conditions and the 'at least 20%' HSGP withholding threshold; covers the 25+ state lawsuit filed in Rhode Island."
+    note: "202,331 tokens fetched successfully, full text read. Reports the 'at least 20%' HSGP withholding threshold (the NOFO itself says 'an amount equal to 20%'); covers the 25+ state lawsuit filed in Rhode Island."
   - title: "Counties and cities sue over counterterrorism grant rule changes"
     url: https://www.nextgov.com/defense/2026/08/counties-and-cities-sue-over-counterterrorism-grant-rule-changes/415574/
     publisher: Nextgov/FCW (Route Fifty)
@@ -44,6 +44,12 @@ sources:
 coverage:
   - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
     title: "The Election is a Homeland Security Investigations Case Now."
+corrections:
+- date: '2026-10-08'
+  was: "States that do not comply risk FEMA withholding at least 20% of their HSGP award, or canceling the award altogether"
+  now: "FEMA will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until proof of compliance is verified; a holdback released on verified compliance, not 'at least 20%' and not described in the holdback clause as cancellation"
+  why: "fema-hsgp-nofo-fy2026-dhs-26-gpd-067-election-conditions-2026-07-09.pdf (archived) — 'For each state and UASI, FEMA will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until the recipient submits proof of compliance'; the 20% holdback is 'a separate drawdown condition'"
+  found_by: "HSI case file 2026-10-08"
 ---
 
 On or around **July 10, 2026**, FEMA published a Notice of Funding Opportunity (NOFO) for the
@@ -61,8 +67,7 @@ requirements FEMA characterized as "critical, common-sense steps to protect U.S.
 5. Apply the same SAVE citizenship-verification requirement to **poll workers and election-system
    operators**.
 
-States that do not comply risk FEMA withholding **at least 20% of their HSGP award**, or
-canceling the award altogether. Reuters broke the story on **July 10, 2026**; further reporting
+Under the NOFO, FEMA "will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until the recipient submits proof of compliance with the FY 2026 Election Security NPA requirements" and the Department verifies it (DHS-26-GPD-067). Reuters broke the story on **July 10, 2026**; further reporting
 followed from NYT, Axios, Democracy Docket, and Just Security. This is roughly a month after —
 and a distinct instrument from — DHS's SAVE database becoming operational for direct voter-roll
 purge activity ([[2026-06-04--dhs-approves-eo-14399-save-citizenship-lists-operational-june-30]])
@@ -84,8 +89,7 @@ withhold from any single state, and **not** an amount that has actually been wit
 other specific aggregate dollar figure, was withheld or cut off.
 
 The actual **leverage mechanism** disclosed in reporting is a **percentage**, not a dollar
-figure: states that do not comply risk losing **at least 20%** of their individual HSGP award, or
-the award being canceled entirely. AP News's July 23, 2026 report on the 25-state lawsuit uses
+figure: FEMA withholds from drawdown **an amount equal to 20%** of the recipient's total HSGP award until proof of compliance is verified (a holdback, not a cut-off). AP News's July 23, 2026 report on the 25-state lawsuit (which says "at least 20%") uses
 "billions of dollars" only in the broader sense of total federal disaster/homeland-security
 funding at stake nationwide across many states and programs — not as a citation to a specific
 DHS grant-cutoff figure tied to this NOFO. **Distinguish: NOFO ceiling ($1B, nationwide, all

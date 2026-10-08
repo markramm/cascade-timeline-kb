@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-08-28--dhs-hires-election-denial-activist-karen-disalvo-drafted-grant-threat-letter
 date: '2026-08-28'
-title: "DHS Hires Election-Denial Activist Karen DiSalvo, Reported Drafter of the Letter Threatening States' Security Funding Over Election Policy"
+title: "DHS Reported to Have Hired Election-Denial Activist Karen DiSalvo; the Letter Democracy Docket Tied to Her Is Mullin's Aug. 24 Letter to the White House Transparency Task Force"
 importance: 8
 status: confirmed
 tags:
@@ -20,54 +20,25 @@ sources:
     publisher: "Democracy Docket (Matt Cohen and Yunior Rivas; summarized by Zachary Roth)"
     date: '2026-08-30'
     tier: 1
+corrections:
+- date: '2026-10-08'
+  was: "DiSalvo drafted the DHS letter, published online that week, threatening states with the loss of security funding if they do not adopt the administration's preferred election policies"
+  now: "The PDF with author field 'Disalvo, Karen' is Mullin's August 24, 2026 letter to the White House Transparency Task Force on election-infrastructure supply-chain vulnerabilities; it is addressed to the White House, not to states, and describes the grant condition (full awards require post-election manual counts) rather than threatening states"
+  why: "dhs-mullin-letter-white-house-transparency-task-force-2026-08-24.pdf (archived) — pdfinfo: Author 'Disalvo, Karen', CreationDate Mon Aug 24 16:44:26 2026 EDT; text opens 'White House Transparency Task Force: We are in receipt of your latest request for the production of documents'"
+  found_by: "HSI case file 2026-10-08"
 ---
 
-Democracy Docket reported on **Friday, August 28, 2026** that the Department of Homeland Security
-has **hired Karen DiSalvo, a leading election-denial activist, to a senior position** — and that
-DiSalvo **drafted the DHS letter, published online that week, threatening states with the loss of
-security funding if they do not adopt the administration's preferred election policies.**
+Democracy Docket reported on **Friday, August 28, 2026** that the Department of Homeland Security has **hired Karen DiSalvo, a leading election-denial activist, to a senior position**, and that DiSalvo drafted a DHS letter published online that week which the outlet described as threatening states over voting audits. DiSalvo is described as **a close associate of Heather Honey**, the Pennsylvania activist whom the same DHS office hired the previous year, also first reported by Democracy Docket.
 
-DiSalvo is described as **a close associate of Heather Honey**, the Pennsylvania anti-voting
-activist whom the **same DHS office** hired the previous year, also first reported by Democracy
-Docket.
+## What the document is
 
-## Why this lands on an open corpus ticket
+The PDF whose metadata names DiSalvo is DHS Secretary Markwayne Mullin's **August 24, 2026 letter to the White House Transparency Task Force** (a response to the Task Force's request for documents, providing "an unclassified overview of relevant election infrastructure supply chain vulnerabilities"). Its PDF author field reads "Disalvo, Karen," with a creation date of August 24, 2026 (Microsoft Word for Microsoft 365). It is addressed to the White House, not to states. It does state the grant condition in one passage ("To receive full grant awards, states must demonstrate that they have conducted random post-election manual counts of paper ballots"), so it describes the funding condition rather than threatening states with it. The funding conditions on states are in FEMA's separate homeland security grant notice: see [[2026-07-10--fema-hsgp-nofo-conditions-election-rule-changes-shsp-uasi-20-percent-withholding]] and the open ticket [[rebuild-dhs-fema-election-grant-conditioning-on-shsp-uasi-primary-documents]].
 
-The corpus already carries **[[rebuild-dhs-fema-election-grant-conditioning-on-shsp-uasi-primary-documents]]**,
-a task chasing the primary documents behind DHS/FEMA conditioning of homeland-security grants
-(SHSP/UASI) on election policy. **That ticket has been parked awaiting primary-document retrieval.**
+## What is and is not established
 
-**This reporting supplies the missing human link**: a named drafter, inside the office, hired from
-the movement whose positions the letter encodes. **If it holds, the conditioning instrument and the
-activist network are not adjacent facts — they are the same fact.**
+- **Documented:** the PDF's author field and creation date (archived: `dhs-mullin-letter-white-house-transparency-task-force-2026-08-24.pdf`). An author field shows whose Word profile produced the file; it is not a signature and does not by itself establish who decided the letter's content.
+- **Reported, single source:** DiSalvo's hire and "senior position" (Democracy Docket). Her actual title and office are not in a federal source in this entry.
+- **Characterisation:** "election-denial activist" is Democracy Docket's; a piece should attribute it or substantiate it independently.
+- **Honey:** hired the previous year; see [[honey-heather]].
 
-**Two activists from the same movement in the same DHS office, one drafting the grant-threat letter,
-is a staffing pattern, not a coincidence** — and it is the third stage of the sequence documented at
-[[complicity-as-retention-purge-loyalty-test-complicity-2026]]: the people who remain are the ones
-who will execute the policy.
-
-## What is NOT established — and this needs care because it names a private individual
-
-- **DiSalvo's actual title and office.** "A senior position" is the report's phrasing. **Get the
-  position from a federal source** — a directory, an org chart, an appointment record.
-- **The drafting attribution.** Democracy Docket reports its reporters "used some cyber-sleuthing"
-  to determine DiSalvo drafted the letter. **That is almost certainly document metadata.** It is a
-  reasonable method and it is not the same as an admission or a signature. **Get the letter and
-  examine its properties before this corpus asserts authorship.**
-- **The letter itself.** Published online that week per the report; **not retrieved here.** Its text,
-  date, signatory, and recipients are all unestablished in this entry.
-- **The Honey hire**, also Democracy Docket's reporting, from the prior year. The corpus holds
-  **one** file mentioning Honey. Verify independently.
-
-**Do not characterize DiSalvo's or Honey's views beyond what a source states.** "Election-denial
-activist" is Democracy Docket's characterization; it is well-founded in their reporting but it is
-theirs, and a piece should either attribute it or substantiate it independently.
-
-## Next step
-
-**Get the letter.** It is the single document that connects the hire, the grant-conditioning
-instrument, and the parked ticket — and its metadata is the basis for the drafting claim. One
-document closes three open threads.
-
-Related: [[2026-08-28--scotus-lifts-talwani-block-mail-voting-order-usps-rule-effective-nc-first-to-comply]]
-(same roundup).
+Related: [[2026-08-28--scotus-lifts-talwani-block-mail-voting-order-usps-rule-effective-nc-first-to-comply]] (same roundup).

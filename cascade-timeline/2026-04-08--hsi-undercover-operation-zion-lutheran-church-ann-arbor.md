@@ -89,6 +89,11 @@ corrections:
   now: "CrimethInc. announced the \"Breaking the ICE\" tour on March 23, 2026: a public schedule of two dozen events in 23 cities, two concurrent in New York City. Venues were filled in as the tour went on; the first version listed Ann Arbor for April 8 with no venue, and the updated listing gave Zion Lutheran Church Sanctuary, 1501 West Liberty Street, 6 pm."
   why: "https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour; Wayback 2026-03-24 snapshot — count is 24 events in 23 cities; Mar 23 listing had no Ann Arbor venue"
   found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request ... RESOLVED 2026-08-20: Steven Schrank"
+  now: "Schrank is documented as SAC Saint Paul on March 7 and 9, 2026 (summons signature blocks); the nearest document to the April 6 collateral request is the March 9 signature; whether he was in post on April 6 is not established"
+  why: "us-v-sant-0-26-cr-00115-doc-212-8-roi.pdf (archived): summons dated 3/9/2026, 'Name Steven Schrank', 19 U.S.C. § 1509; Sant Doc. 271 pp.13-14 on acting SACs detailed from Atlanta and Kansas City"
+  found_by: "HSI case file 2026-10-08"
 verification: captured
 claims:
 - id: c0
@@ -219,7 +224,7 @@ ever contested.
 
 ## Open Questions
 
-- ~~The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request~~ **RESOLVED 2026-08-20**: Steven Schrank, per his signature on two FedWire/CHIPS financial summonses in the same discovery set. See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
+- ~~The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request~~ **PARTLY RESOLVED**: Steven Schrank signed two financial summonses as SAC Saint Paul on March 7 and March 9, 2026 (Docs. 212-6, 212-8); no document places him in post on April 6, 2026, when the collateral request originated, and Sant's defence filing (Doc. 271 pp.13-14) says Schrank and Mark Zito were detailed to St. Paul as acting SACs from Atlanta and Kansas City (a defence assertion, not government-confirmed). See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - Whether the other "Breaking the ICE" tour stops drew comparable collateral tasking — still open; the retrieved 31-document set contains no other collateral-case ROIs.
 - ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SAs Jacob Marquis, Katherine Wespetal, Timothy Gorman, and Terri Botterbusch as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - ~~Whether UCA 9759 is the same undercover agent reported by The Intercept as having offered to "build items" for direct action to a Sunrise organizer after a January 31 training~~ **RESOLVED 2026-08-20, negative**: ROI 212-11 (the Jan 31 Sunrise Movement training) shows the "build items" offer was made by **UCA 9833**, not UCA 9759. UCA 9759's only other confirmed appearance is alongside UCA 5022 at a Feb 2 50501 Minnesota meeting. They are distinct operatives.

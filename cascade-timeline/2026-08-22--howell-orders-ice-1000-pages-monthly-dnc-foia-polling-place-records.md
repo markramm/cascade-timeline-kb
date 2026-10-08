@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-08-22--howell-orders-ice-1000-pages-monthly-dnc-foia-polling-place-records
 date: '2026-08-22'
-title: "Judge Howell Orders ICE to Process 1,000 Pages/Month of Polling-Place FOIA Records"
+title: "Judge Howell Calls ICE's June 2027 FOIA Timeline 'an Unacceptable Delay' in DNC Polling-Place Case"
 importance: 8
 status: confirmed
 tags:
@@ -34,8 +34,19 @@ sources:
     publisher: Law & Crime
     date: '2026-08-22'
     tier: 1
+corrections:
+- date: '2026-10-08'
+  was: "Judge Howell Orders ICE to Process 1,000 Pages/Month of Polling-Place FOIA Records"
+  now: "Judge Howell Calls ICE's June 2027 FOIA Timeline 'an Unacceptable Delay' in DNC Polling-Place Case; the 1,000-pages-per-month order was July 13, 2026"
+  why: "https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:491057753 — Aug 22, 2026 minute order (calls ICE's 'approximately June 2027' estimate 'an unacceptable delay'; directs OSD/Joint Staff searches by Aug 28, DHS HQ custodian list by Aug 25); https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:485986612 — July 13 minute order sets 'at least 1,000 pages per month'"
+  found_by: "HSI case file 2026-10-08"
+- date: '2026-10-08'
+  was: "of approximately 10,698 pages ICE identified as potentially responsive, the agency had produced only 576 pages ... it has since asked Howell for even faster production, every two days"
+  now: "ICE produced 576 pages of press clippings on Aug 7; about 10,698 pages remained as of the Aug 21 status report; the 'every two days' request is not supported (the July 31 order floated batches every 10 days)"
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.290191/gov.uscourts.dcd.290191.24.0.pdf (576 pages, Aug 7 production) and Doc. 25 joint status report, Aug 21, 2026 (10,698 remaining)"
+  found_by: "HSI case file 2026-10-08"
 ---
 
-U.S. District Judge Beryl Howell on August 22 ordered ICE, DOJ, FBI, and DOD to process at least 1,000 pages per month of documents sought by the DNC in a FOIA lawsuit over potential federal agent deployment to polling places, drop boxes, and election offices ahead of November's midterms. Howell called ICE's projected June 2027 disclosure timeline "an unacceptable delay given the proximity of the 2026 midterm elections" — a schedule that would have completed production roughly seven months after the election it concerns. The order continues a monthly-processing requirement Howell first imposed in mid-July after the government reversed an earlier claim that no responsive records existed.
+On August 22, 2026, U.S. District Judge Beryl Howell wrote in a minute order in the DNC's FOIA suit over the deployment of military and law-enforcement personnel to polling places, drop boxes and election offices that ICE's projection that "initial processing will be complete by approximately June 2027" was "an unacceptable delay given the proximity of the 2026 midterm elections," a schedule that would have finished production roughly seven months after the election. She directed the Defense Department's Office of the Secretary of Defense/Joint Staff to complete supplemental searches and begin processing by August 28, DHS headquarters to send the DNC a list of custodians by August 25, and the parties to give estimates of pages remaining and completion dates in their September 4 joint status report. The 1,000-pages-per-month processing requirement was set earlier, by Howell's July 13 minute order, not on August 22.
 
-The production record so far is the sharpest fact in the ruling: of approximately 10,698 pages ICE identified as potentially responsive, the agency had produced only 576 pages — and those were press clippings, not the underlying records the DNC sought. At the original pace, more than 8,000 of those pages would have remained unreleased until after election day. The DNC filed the underlying FOIA suit in March 2026 against DOJ, DHS, and DOD; it has since asked Howell for even faster production, every two days, a motion DOJ opposes and that remains pending. The case sits downstream of Deputy AG Todd Blanche's July endorsement of ICE agents at 2026 polling places ([[2026-07-15--dag-blanche-endorses-ice-agents-polling-places-2026-midterms]]), where Blanche declined to commit to following anti-intimidation law — this order is the discovery fight over what federal agencies have actually planned. It also runs alongside a parallel election-records dispute, the RNC's FOIA demand for Michigan poll workers' home addresses and medical records, which Secretary of State Jocelyn Benson partially denied ([[2026-08-03--rnc-foia-michigan-poll-worker-personal-data-benson-partial-denial]]) — the same election cycle producing records fights pointed in opposite directions, one seeking to expose federal deployment plans, the other seeking to expose poll workers' personal data.
+The production record is the sharpest fact in the case. ICE reported 11,103 potentially responsive pages in July; the August 21 joint status report put about 10,698 pages still remaining, and ICE's first production on August 7 was 576 pages of what the DNC calls unannotated press clippings rather than the underlying records. The DNC filed the suit on March 10, 2026 against DOJ, DHS and DOD. The case sits downstream of Todd Blanche's March CPAC remark and July 15 refusal to rule out federal agents at polling places ([[2026-07-15--dag-blanche-endorses-ice-agents-polling-places-2026-midterms]]); this order is the discovery fight over what federal agencies have actually planned.
