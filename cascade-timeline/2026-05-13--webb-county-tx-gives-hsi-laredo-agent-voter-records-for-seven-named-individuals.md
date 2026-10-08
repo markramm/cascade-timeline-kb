@@ -120,7 +120,7 @@ sources:
     tier: 2
 ---
 
-HSI Special Agent Jose G. Melero III (DSAC Laredo) emailed Webb County Elections Administrator Jose L. Castillo on May 12, 2026, "as discussed over the phone," asking for voter registration documents and voter records for seven listed individuals, and for a day to meet in person. On May 13, 2026 a Webb County staff member replied with scanned PDF attachments and wrote: "all the voter information you requested."
+An HSI Special Agent in the Laredo office (DSAC Laredo) emailed Webb County Elections Administrator Jose L. Castillo on May 12, 2026, "as discussed over the phone," asking for voter registration documents and voter records for seven listed individuals, and for a day to meet in person. On May 13, 2026 a Webb County staff member replied with scanned PDF attachments and wrote: "all the voter information you requested."
 
 The chain contains no subpoena, court order or records-request form. The attachments are voter-registration applications and county voter-record printouts. Castillo said: "There's nothing there. But I get it, you've got to do your job." Daily Dots reports that he has since directed HSI to Texas's public-records process. Democracy Forward obtained the chain through its own open-records request to Webb County and posted it.
 
