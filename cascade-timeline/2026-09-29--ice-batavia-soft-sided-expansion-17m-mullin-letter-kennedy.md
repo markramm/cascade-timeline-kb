@@ -156,6 +156,9 @@ related_events:
   - "2026-05-07--ice-custody-deaths-reach-17-152-new-detention-facilities-39-states-2026-record-pace"
   - "2026-07-13--santa-clara-gilroy-ice-facility-construction-halted"
   - "2026-09-21--dhs-awards-7-3b-idiq-detention-contracts-five-states"
+coverage:
+  - url: https://spectrumlocalnews.com/nys/buffalo/immigration/2026/10/02/trump-admin--moving-forward-with--17-million-expansion-of-ice-detention-facility-in-batavia
+    title: Trump admin. moving forward with $17 million expansion of ICE detention facility in Batavia
 ---
 
 DHS Secretary Mullin's September 29 letter to Rep. Tim Kennedy confirms ICE plans to build a soft-sided facility at Batavia — spending up to $8.8 million from the One Big Beautiful Bill Act to house up to 100 migrant women — with a two-year total of nearly $17 million to build and operate. Construction has not started; the project is to conclude by next July. Mullin's letter also catalogues 32 positions needed for medical care, including 17 nurses, at the 650-bed facility. ICE has arrested nearly 6,300 migrants across upstate New York since Trump's return; Mullin says 28 percent of Batavia detainees have criminal records, while ICE's own data shows 75 percent of upstate NY arrests have no criminal history. The expansion is in response to a New York law banning county jails from holding ICE detainees. A no-bid contract was awarded to Akima Infrastructure Protection.

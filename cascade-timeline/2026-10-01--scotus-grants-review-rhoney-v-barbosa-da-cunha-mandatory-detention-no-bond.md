@@ -88,6 +88,9 @@ sources:
   publisher: CNN (via KEYT)
   date: '2026-10-01'
   tier: 1
+coverage:
+  - url: https://www.aclu.org/press-releases/aclu-comment-on-supreme-court-agreeing-to-hear-challenge-over-trump-mandatory-detention-policy
+    title: ACLU Comment on Supreme Court Agreeing to Hear Challenge Over Trump Mandatory Detention Policy
 ---
 
 The Supreme Court on Thursday said it will consider whether the Trump administration can detain tens of thousands of immigrants during their removal proceedings without access to bond hearings. The case is known as Rhoney v. Barbosa da Cunha.
