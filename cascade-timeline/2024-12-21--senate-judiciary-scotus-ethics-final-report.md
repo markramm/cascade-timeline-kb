@@ -4,7 +4,7 @@ id: 2024-12-21--senate-judiciary-scotus-ethics-final-report
 date: '2024-12-21'
 title: "Senate Judiciary Democrats release final investigative report on SCOTUS ethics crisis — 20-month probe of Thomas, Alito, Scalia gifts and recusal patterns"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - senate-judiciary
   - supreme-court-ethics
@@ -58,6 +58,58 @@ capture_lanes:
   - Judicial Capture
   - Legislative Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "At least three undisclosed private jet trips identified beyond the ProPublica-documented inventory (flights including May 2017 St. Louis–Kalispell MT–Dallas, and March 2019 Washington DC–Savannah GA)"
+  now: "Two undisclosed gifts \"never before known to the public until the Committee's investigation\": a July 2021 private jet trip to Saranac, New York, and an October 2021 private jet and yacht trip to New York City, sponsored by Harlan Crow (Senate Judiciary Committee release, Dec. 21, 2024). Three unreported Crow jet trips (St. Louis–Kalispell, May 2017; Washington DC–Savannah, March 2019; DC–San Jose, June 2021) had become public earlier, from Crow's subpoena production released June 13, 2024"
+  why: "https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court — Thomas: 'failed to disclose gifts on two occasions never before known to the public until the Committee's investigation, including a July 2021 private jet trip to Saranac, New York, and an October 2021 private jet and yacht trip to New York City'; the 2017/2019 flights were released June 13, 2024 (CNBC, NPR)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "3. Financial disclosure forms and enforcement must be strengthened ... when recusal is declined"
+  now: "3. Further investigation, ideally with the cooperation of the justices, is needed to understand how these ethical lapses occurred and how to address them"
+  why: "https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court — the release lists three recommendations: enforceable code of conduct; Judicial Conference reform; further investigation; no disclosure-form or external-recusal-review recommendation"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Senate Republicans block unanimous-consent request to pass SCERT legislation"
+  now: "(Senate Republicans had blocked Durbin's unanimous-consent request to pass the SCERT Act in June 2024, six months earlier; no later attempt was found.)"
+  why: "https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court — 'In June 2024, Durbin and other Committee Democrats went to the Senate floor and asked for unanimous consent ... Senate Republicans blocked Durbin's UC request'; SCERT introduced by Whitehouse, cosponsored by Durbin and every Committee Democrat; no December 2024/January 2025 attempt found"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The release on December 21, 2024 — 13 days before Trump's January 20, 2025 inauguration and the Republican Senate majority taking control — was deliberate."
+  now: "The release on December 21, 2024 came 13 days before Republicans took the Senate majority on January 3, 2025, and 30 days before Trump's January 20, 2025 inauguration; no cited source says the timing was deliberate."
+  why: "https://www.courthousenews.com/senate-dems-scotus-ethics-report-highlights-key-findings-but-few-results/ (Dec 21, 2024: Democrats 'on Saturday published' the report; 'Republicans are set to take the Senate majority in January') ; arithmetic: Dec 21 to Jan 3 = 13 days, to Jan 20 = 30 days, to Jan 23 = 33 days; no source states the timing was deliberate"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "issued subpoenas (authorized November 30, 2023) to Harlan Crow and Leonard Leo, and received partial compliance from Crow in 2024"
+  now: "was authorized on November 30, 2023 to subpoena Leonard Leo, Harlan Crow and Crow's holding companies; Leo was subpoenaed on April 11, 2024, and Crow made a negotiated production on June 6, 2024 that Durbin deemed sufficient"
+  why: "Senate Judiciary Committee majority staff report, 'An Investigation of the Ethics Challenge at the Supreme Court' (Dec 21, 2024), pp. 2-3 and 51-53 — Nov 30, 2023 authorization to subpoena Leo, Crow and Crow's holding companies; Leo subpoenaed April 11, 2024 (no compliance); Crow negotiated production June 6, 2024; the report names Singer (jet), Arkley (lodging), cost estimate $23,776.11 per passenger; $100,000, Argentina and $2.4 billion are not in the report"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "never before known to the public until the Committee's investigation"
+  qualifier: "gifts"
+  span: "failed to disclose gifts on two occasions never before known to the public until the Committee's investigation"
+  url: https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "Congress must establish an enforceable code of conduct"
+  qualifier: ""
+  span: "Congress must establish an enforceable code of conduct due to the Court's abdication of its ethical responsibilities to do so."
+  url: https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: attribution
+  value: "Senate Republicans blocked Durbin's UC request"
+  qualifier: "June 2024"
+  span: "In June 2024, Durbin and other Committee Democrats went to the Senate floor and asked for unanimous consent (UC) for the Senate to pass the SCERT Act. Senate Republicans blocked Durbin's UC request."
+  url: https://www.judiciary.senate.gov/press/releases/senate-judiciary-committee-releases-revealing-investigative-report-on-ethical-crisis-at-the-supreme-court
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
@@ -67,16 +119,15 @@ On December 21, 2024, the Democratic majority staff of the U.S. Senate Committee
 ## What Happened / Key Facts
 
 - **Release date**: December 21, 2024 (Saturday). Final weeks of the 118th Congress; last major action under Durbin's Judiciary chairmanship before Republican majority control of the Senate began January 3, 2025
-- **Investigative scope**: 20 months, launched April 2023 after ProPublica's first Thomas/Crow story. The committee conducted document requests, issued subpoenas (authorized November 30, 2023) to Harlan Crow and Leonard Leo, and received partial compliance from Crow in 2024 (some travel records produced; Crow's legal team maintained the "personal hospitality" exemption framing) and no compliance from Leo (who publicly refused to cooperate)
+- **Investigative scope**: 20 months, launched April 2023 after ProPublica's first Thomas/Crow story. The committee conducted document requests, was authorized on November 30, 2023 to subpoena Leonard Leo, Harlan Crow and Crow's holding companies; Leo was subpoenaed on April 11, 2024, and Crow made a negotiated production on June 6, 2024 that Durbin deemed sufficient (some travel records produced; Crow's legal team maintained the "personal hospitality" exemption framing) and no compliance from Leo (who publicly refused to cooperate)
 - **Thomas findings**:
   - "No comparison in modern American history" framing for the totality of gifts
-  - At least three undisclosed private jet trips identified beyond the ProPublica-documented inventory (flights including May 2017 St. Louis–Kalispell MT–Dallas, and March 2019 Washington DC–Savannah GA)
+  - Two undisclosed gifts "never before known to the public until the Committee's investigation": a July 2021 private jet trip to Saranac, New York, and an October 2021 private jet and yacht trip to New York City, sponsored by Harlan Crow (Senate Judiciary Committee release, Dec. 21, 2024). Three unreported Crow jet trips (St. Louis–Kalispell, May 2017; Washington DC–Savannah, March 2019; DC–San Jose, June 2021) had become public earlier, from Crow's subpoena production released June 13, 2024
   - Thomas's June 2024 amended 2019 disclosure adding Bali and Bohemian Grove trips did not cure the 2017 and 2019 undisclosed flights
   - Thomas's attorney Elliot Berke's "personal hospitality exemption" legal position is inconsistent with 5 U.S.C. § 13104(a)(2)(A), which excludes from disclosure only "food, lodging, or entertainment received as personal hospitality of an individual" — not transportation
 - **Alito findings**:
-  - July 2008 Alaska fishing trip with Paul Singer at King Salmon Lodge: would have cost over $100,000 if chartered commercially; funded by Singer, organized by Leonard Leo
-  - Singer had subsequent business before the Court including the 2014 Argentina debt case where Alito voted with the 7-1 majority in Singer's favor
-  - Singer's hedge fund was ultimately paid $2.4 billion
+  - July 2008 Alaska fishing trip: Leonard Leo facilitated the trip, Paul Singer provided private-jet travel (his attorneys estimated the pro rata round-trip cost at $23,776.11 per passenger), and Robin Arkley II provided lodging at King Salmon Lodge; the report finds Alito broke federal law by not disclosing it (report pp. 51-53)
+  - (Per ProPublica's June 2023 reporting, not the report: Singer later had business before the Court; the Argentina-case and $2.4 billion figures are not findings of the report.)
   - Alito's July 2023 Wall Street Journal position that Congress lacks authority over Supreme Court ethics described as a separation-of-powers overclaim
   - Flag incidents (Jan 2021 upside-down and 2023 Appeal to Heaven) flagged but not central to the gifts-focused findings
 - **Scalia findings**:
@@ -86,9 +137,8 @@ On December 21, 2024, the Democratic majority staff of the U.S. Senate Committee
 - **Recommendations**:
   1. Congress must establish a binding, enforceable Code of Conduct for the Supreme Court
   2. The Judicial Conference of the United States's internal operations must be reformed
-  3. Financial disclosure forms and enforcement must be strengthened
-  4. Recusal procedures requiring external review when recusal is declined
-- **Operational status of recommendations (as of April 2026)**: none enacted. The Supreme Court Ethics, Recusal, and Transparency Act (SCERT) introduced repeatedly by Durbin has not passed; the 119th Congress's Republican Judiciary majority under Sen. Chuck Grassley has not advanced similar legislation
+  3. Further investigation, ideally with the cooperation of the justices, is needed to understand how these ethical lapses occurred and how to address them
+- **Operational status of recommendations (as of April 2026)**: none enacted. The Supreme Court Ethics, Recusal, and Transparency Act (SCERT), introduced by Sen. Whitehouse and cosponsored by Durbin and every Committee Democrat, has not passed; the 119th Congress's Republican Judiciary majority under Sen. Chuck Grassley has not advanced similar legislation
 
 ## Why This Event Matters
 
@@ -104,14 +154,14 @@ The report's central political finding is not the gifts inventory but the struct
 
 ### 3. Timing with respect to the power transition
 
-The release on December 21, 2024 — 13 days before Trump's January 20, 2025 inauguration and the Republican Senate majority taking control — was deliberate. Durbin's last major investigative action before losing the Judiciary gavel was to create the record. The report is a baseline that subsequent congressional investigations (under Republican leadership disinclined to extend it, or under any future Democratic majority) will have to either build on or disavow.
+The release on December 21, 2024 came 13 days before Republicans took the Senate majority on January 3, 2025, and 30 days before Trump's January 20, 2025 inauguration; no cited source says the timing was deliberate. Durbin's last major investigative action before losing the Judiciary gavel was to create the record. The report is a baseline that subsequent congressional investigations (under Republican leadership disinclined to extend it, or under any future Democratic majority) will have to either build on or disavow.
 
 ## Immediate Consequences
 
-- **December 2024-January 2025**: Republicans in both chambers decline to engage with the report's findings. Senate Republicans block unanimous-consent request to pass SCERT legislation
+- **December 2024-January 2025**: Republicans in both chambers decline to engage with the report's findings. (Senate Republicans had blocked Durbin's unanimous-consent request to pass the SCERT Act in June 2024, six months earlier; no later attempt was found.)
 - **January 3, 2025**: Durbin loses Judiciary chairmanship; Sen. Chuck Grassley (R-IA) takes majority control
 - **January 2025**: Judicial Conference of the United States declines to refer Thomas for DOJ investigation despite the report's documentary record
-- **January 23, 2025**: Three days after Trump's inauguration, Alito's Court colleagues — including Thomas, who was named in the report 17 weeks earlier — grant the stay in *McHenry v. Texas Top Cop Shop* (see [[2025-01-23--scotus-stays-texas-top-cop-shop-cta-injunction]]). Alito, as the Fifth Circuit's assigned Circuit Justice, referred the stay application to the full Court. Both Thomas and Alito are in the 8-justice majority
+- **January 23, 2025**: Three days after Trump's inauguration, Alito's Court colleagues — including Thomas, who was named in the report 33 days earlier — grant the stay in *McHenry v. Texas Top Cop Shop* (see [[2025-01-23--scotus-stays-texas-top-cop-shop-cta-injunction]]). Alito, as the Fifth Circuit's assigned Circuit Justice, referred the stay application to the full Court. Both Thomas and Alito are in the 8-justice majority
 - **April 2026**: no binding ethics legislation. The report remains the definitive congressional record; the Code of Conduct remains non-binding
 
 ## Related Entries

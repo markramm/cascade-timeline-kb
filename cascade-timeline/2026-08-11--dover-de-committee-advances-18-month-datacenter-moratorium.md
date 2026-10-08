@@ -31,6 +31,48 @@ sources:
 capture_lanes:
   - Data Colonialism
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Dover's committee vote is the third distinct Delaware sub-state data-center action within four weeks, and the first in an *incorporated municipality* rather than a county:"
+  now: "Spotlight Delaware reports that New Castle and Kent counties and \"a handful of municipalities around the state\" have passed measures regulating where data centers can be located, and that Dover appears to be the first Delaware municipality considering a temporary halt on data center reviews. Delaware's county and municipal actions so far (they are not all within four weeks of each other; New Castle County's vote was March 10, 2026):"
+  why: "https://spotlightdelaware.org/2026/08/13/dover-data-center-moratorium-gains-steam-amid-statewide-concerns-over-the-industry/ — 'New Castle and Kent counties and a handful of municipalities around the state have passed measures regulating where data centers can be located'; 'Dover appears to be the first municipality in Delaware considering a policy to halt the review of data center projects for a period of time'; New Castle's vote was March 10, five months earlier"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The two contemporaneous tier-1 reports (Delaware Public Media, Spotlight Delaware) agree the Committee of the Whole vote was unanimous to send the measure forward, though neither reports an exact tally"
+  now: "Spotlight Delaware reports the Committee of the Whole voted unanimously to send the measure forward; Delaware Public Media reports only that the committee \"backs\" the freeze and does not describe the vote as unanimous; neither reports an exact tally"
+  why: "https://www.delawarepublic.org/politics-government/2026-08-13/dover-committee-backs-18-month-freeze-on-data-centers — says only the committee 'backs a potential 18-month freeze' and gives no 'unanimous' or tally; Spotlight Delaware alone says 'voted unanimously to bring to the full council'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "both officials tied the pause to pending state legislation — House Bill 445, which would require large energy users including data centers to supply their own power generation in some form (\"bring your own generation\"). Anderson said he wants to see HB 445's effects before Dover considers data centers at the city level."
+  now: "Councilman David Anderson told Delaware Public Media the freeze was needed to \"digest all the changes that are occurring with technology and with the state law that passed recently,\" and said he wants to see the impact of House Bill 445, which would require large energy users such as data centers to produce their own power in some way, before Dover considers data centers at the city level. Councilwoman Donyale Hall and electric director Paul Waddell did not cite HB 445; per Spotlight Delaware they said the city needs a more comprehensive study of data centers' impacts on its electrical infrastructure and other utilities before adopting a permanent policy."
+  why: "https://www.delawarepublic.org/politics-government/2026-08-13/dover-committee-backs-18-month-freeze-on-data-centers — only Councilman Anderson mentions HB 445 ('Anderson adds he'd like to see that bill's impact before considering data centers at the city level'); Spotlight Delaware: Hall and Waddell said Dover needs a more comprehensive study before a permanent policy"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "Dover appears to be the first municipality in Delaware considering a policy to halt the review of data center projects for a period of time"
+  qualifier: "Delaware"
+  span: "Dover appears to be the first municipality in Delaware considering a policy to halt the review of data center projects for a period of time"
+  url: https://spotlightdelaware.org/2026/08/13/dover-data-center-moratorium-gains-steam-amid-statewide-concerns-over-the-industry/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "voted unanimously to bring to the full council"
+  qualifier: ""
+  span: "voted unanimously to bring to the full council an ordinance that would pause official reviews of data center proposals"
+  url: https://spotlightdelaware.org/2026/08/13/dover-data-center-moratorium-gains-steam-amid-statewide-concerns-over-the-industry/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: "Anderson adds he'd like to see that bill's impact before considering data centers at the city level"
+  qualifier: ""
+  span: "Anderson adds he'd like to see that bill's impact before considering data centers at the city level"
+  url: https://www.delawarepublic.org/politics-government/2026-08-13/dover-committee-backs-18-month-freeze-on-data-centers
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
@@ -40,12 +82,12 @@ On Tuesday, August 11, 2026, Dover, Delaware's City Council Committee of the Who
 ## What Happened / Key Facts
 
 - **Instrument**: a single proposed ordinance establishing an 18-month pause on the "acceptance, processing, review, approval and issuance of permits" for new data centers, citywide, within Dover city limits. During the pause the city would conduct a "comprehensive review" of impacts on electrical infrastructure, water, and other utilities before adopting a permanent policy.
-- **Status**: PROPOSED, advanced out of committee. Not adopted, not effective. The two contemporaneous tier-1 reports (Delaware Public Media, Spotlight Delaware) agree the Committee of the Whole vote was unanimous to send the measure forward, though neither reports an exact tally (committee size not stated in either source). No ordinance number has been assigned as of the sourcing date; Hall was still "refining language" per city-staff feedback at the time of the vote.
+- **Status**: PROPOSED, advanced out of committee. Not adopted, not effective. Spotlight Delaware reports the Committee of the Whole voted unanimously to send the measure forward; Delaware Public Media reports only that the committee "backs" the freeze and does not describe the vote as unanimous; neither reports an exact tally (committee size not stated in either source). No ordinance number has been assigned as of the sourcing date; Hall was still "refining language" per city-staff feedback at the time of the vote.
 - **Sponsor**: Councilwoman Donyale Hall presented the proposal to committee. Councilman David Anderson also spoke to it in Delaware Public Media's coverage but is not named as sponsor in either source — Spotlight Delaware names Hall as the one who "presented the idea to the committee." City Council President Fred Neil and Dover's electric director Paul Waddell both spoke at the meeting; Waddell said the city needs a fuller study of impacts on electrical infrastructure before a permanent policy.
 - **Grandfather/carveout clause**: none reported in either source. Both articles describe the pause as applying to new applications; neither mentions an exemption for pending projects. Hall and Waddell said the city has "already been approached about at least one small-to-medium-sized data center project" (Delaware Public Media reports Anderson said "at least two entities" had inquired) but both declined to name the entity or entities, so it is not possible to determine from public reporting whether any pending application would be grandfathered.
 - **Grandfather rush**: no permit data was located for Dover specifically (unlike Fort Worth's ArcGIS permit dataset, used in the parallel Texas research this task inherits method from). Given the ordinance is not yet adopted and carries no confirmed effective date, a "rush before the deadline" test does not yet apply — there is no deadline yet, only an anticipated October full-council vote. This is a gap, not a negative finding; if Dover publishes a permit dataset, apply the Fort Worth method against any October effective date once set.
 - **Local rationale (rate context)**: Anderson linked the proposed freeze to Dover's own recent residential electric rate increase, passed earlier in 2026 to cover a $7 million budget deficit, which "faced public opposition." He said explicitly: "We have commitments and limited resources, and we need to plan so that our rate payers aren't stuck with a huge bill for somebody else's work."
-- **State-law context cited by sponsors**: both officials tied the pause to pending state legislation — House Bill 445, which would require large energy users including data centers to supply their own power generation in some form ("bring your own generation"). Anderson said he wants to see HB 445's effects before Dover considers data centers at the city level.
+- **State-law context cited by sponsors**: Councilman David Anderson told Delaware Public Media the freeze was needed to "digest all the changes that are occurring with technology and with the state law that passed recently," and said he wants to see the impact of House Bill 445, which would require large energy users such as data centers to produce their own power in some way, before Dover considers data centers at the city level. Councilwoman Donyale Hall and electric director Paul Waddell did not cite HB 445; per Spotlight Delaware they said the city needs a more comprehensive study of data centers' impacts on its electrical infrastructure and other utilities before adopting a permanent policy.
 - **Local reception**: Spotlight Delaware reports the proposal was "a rare moment of unity between the city government and members of the public" at the meeting. Resident Bill Faust supported the pause to avoid "another monster" of overloaded electricity/water systems. Linda Parkowski, executive director of the Kent Economic Partnership (a business-development group), voiced the opposing note in the room — not opposing the pause outright but warning the city to move faster than the full 18-month window, saying: "We don't want to send a signal out that we're not open for business, and that could be how this is interpreted."
 
 ## Delaware state-level context
@@ -56,7 +98,7 @@ Dover's own moratorium proposal does not depend on or reference state preemption
 
 ## Delaware's wider county/municipal pattern
 
-Dover's committee vote is the third distinct Delaware sub-state data-center action within four weeks, and the first in an *incorporated municipality* rather than a county:
+Spotlight Delaware reports that New Castle and Kent counties and "a handful of municipalities around the state" have passed measures regulating where data centers can be located, and that Dover appears to be the first Delaware municipality considering a temporary halt on data center reviews. Delaware's county and municipal actions so far (they are not all within four weeks of each other; New Castle County's vote was March 10, 2026):
 
 1. **Kent County Levy Court**, July 21, 2026 — permanent zoning ordinance (300-foot residential setbacks, closed-loop cooling, natural screening), industrial zones only. See [[2026-07-21--kent-county-de-first-data-center-ordinance]]. Kent County's rules do not apply within Dover or any other incorporated municipality in the county (Dover is the Kent County seat but a legally distinct municipal actor).
 2. **New Castle County** passed its own data-center siting ordinance 12-0 on March 10, 2026 — chronologically the *first* of the three Delaware sub-state actions, not concurrent with Dover's. See [[2026-03-10--new-castle-county-de-data-center-siting-ordinance]], which also tests Spotlight Delaware's "similar to Kent County's" framing directly against both ordinances' terms: it holds at the level of shared subject matter (county-level siting/buffer/cooling standards confined to unincorporated territory) but not at the level of specific numeric standards. That entry also names the "controversial data center project" this entry's sources left unnamed: Starwood Digital Ventures' "Project Washington," near Delaware City, which New Castle's council exempted from its own new ordinance via a same-night floor amendment.

@@ -4,7 +4,7 @@ id: 1987-11-18--iran-contra-minority-report-cheney-unitary-executive
 date: '1987-11-18'
 title: "Iran-Contra Minority Report: Cheney, Addington Lay Groundwork for Unitary-Executive Doctrine That Shapes Bush II and Trump II"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - iran-contra
@@ -41,11 +41,58 @@ capture_lanes:
   - Executive Power Expansion
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "(6 House Republicans: Cheney, Hyde, Broomfield, DeWine, McCollum, McEwen; 2 Senate Republicans: Hatch, McClure)"
+  now: "(6 House Republicans: Cheney, Broomfield, Hyde, Courter, McCollum, DeWine; 2 Senate Republicans: McClure, Hatch)"
+  why: "https://archive.org/details/reportofcongress87unit — contents: 'The Minority Views of Mr. Cheney, Mr. Broomfield, Mr. Hyde, Mr. Courter, Mr. McCollum, Mr. DeWine, Sen. McClure, and Sen. Hatch'; McEwen was not on the committee"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- The administration \"undermined the rule of law, deliberately evaded statutes, and made false statements to Congress.\""
+  now: "- \"[F]undamental processes of governance were disregarded and the rule of law was subverted\"; \"the common ingredients of the Iran and Contra policies were secrecy, deception, and disdain for the law\"; and the committees \"condemn[ed] without reservation the making of false statements to Congress.\""
+  why: "https://archive.org/details/reportofcongress87unit Executive Summary (S. Rept. 100-216) — 'fundamental processes of governance were disregarded and the rule of law was subverted'; 'secrecy, deception, and disdain for the law'; 'pervasive dishonesty and inordinate secrecy'; 'condemn without reservation the making of false statements to congress'; the event's quoted phrases do not appear"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the Boland Amendments represent an example of Congress's propensity to make rapid, ill-considered changes in statutes providing authority to the President.\""
+  now: "the report charged that \"Congressional Democrats tried to use vaguely worded and constantly changing laws to impose policies in Central America that went well beyond the law itself,\" and faulted the Administration for deciding \"to work within the letter of the law covertly instead of forcing a public and principled confrontation.\""
+  why: "https://archive.org/details/reportofcongress87unit ; https://nsarchive.gwu.edu/document/18221-national-security-archive-doc-05-minority-report — neither quoted sentence is in the report; Minority Views Ch. 1 says 'Congressional Democrats tried to use vaguely worded and constantly changing laws ...'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The Report was largely drafted by American Enterprise Institute political scientist Michael Malbin, working with Cheney, his staffer David Addington, and a small circle of Republican committee staff."
+  now: "The Report was largely written by political scientist Michael J. Malbin, whom Cheney had placed on the committee's minority staff and whom the report credits as \"Minority Editor/Writer\" (Savage, 2016; NYRB, 2006). David Addington, a committee staffer contributed by another Republican lawmaker, worked with the minority and went to work for Cheney at the Pentagon in 1989 (Savage)."
+  why: "https://charliesavage.com/2016/02/takeover-document-the-iran-contra-minority-report/ — Addington was 'a staffer on the committee contributed by another Republican lawmaker who quickly went to work for Cheney, first as a key aide at his Pentagon in 1989'; report credits Malbin as 'Minority Editor/Writer' (p. 432); NYRB 2006 'whom Cheney had appointed to the Iran-Contra committee staff'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Mr. Courter"
+  qualifier: ""
+  span: "The Minority Views of Mr. Cheney, Mr. Broomfield, Mr. Hyde, Mr. Courter, Mr. McCollum, Mr. DeWine, Sen. McClure, and Sen. Hatch"
+  url: "https://archive.org/download/reportofcongress87unit/reportofcongress87unit_djvu.txt"
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "secrecy, deception, and disdain for the law"
+  qualifier: ""
+  span: "The common ingredients of the Iran and Contra policies were secrecy, deception, and disdain for the law."
+  url: "https://archive.org/download/reportofcongress87unit/reportofcongress87unit_djvu.txt"
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: "quote"
+  value: "contributed by another Republican lawmaker"
+  qualifier: ""
+  span: "a staffer on the committee contributed by another Republican lawmaker who quickly went to work for Cheney"
+  url: https://charliesavage.com/2016/02/takeover-document-the-iran-contra-minority-report/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On November 18, 1987, Representative Dick Cheney (R-WY), together with seven other Republican members of the House and Senate Select Committees Investigating the Iran-Contra Affair, filed a 155-page Minority Report disputing the majority's conclusions that the Reagan administration had engaged in "pervasive dishonesty" in violating the Boland Amendment. The Minority Report argued instead that the Boland Amendment was an unconstitutional encroachment on the President's Article II foreign-affairs and commander-in-chief powers — and that the administration's conduct was, within that framing, constitutionally legitimate. The Report was largely drafted by American Enterprise Institute political scientist Michael Malbin, working with Cheney, his staffer David Addington, and a small circle of Republican committee staff. Two decades later, Cheney (by then Vice President) and Addington (by then his chief of staff and legal counsel) would use substantially the same legal theory — elaborated in the John Yoo OLC memos and the 2001-08 OLC opinions — as the framework for the post-9/11 executive-power revolution. The Minority Report is, as Charlie Savage and others have argued, the doctrinal rehearsal for the unitary-executive presidency.
+On November 18, 1987, Representative Dick Cheney (R-WY), together with seven other Republican members of the House and Senate Select Committees Investigating the Iran-Contra Affair, filed a 155-page Minority Report disputing the majority's conclusions that the Reagan administration had engaged in "pervasive dishonesty" in violating the Boland Amendment. The Minority Report argued instead that the Boland Amendment was an unconstitutional encroachment on the President's Article II foreign-affairs and commander-in-chief powers — and that the administration's conduct was, within that framing, constitutionally legitimate. The Report was largely written by political scientist Michael J. Malbin, whom Cheney had placed on the committee's minority staff and whom the report credits as "Minority Editor/Writer" (Savage, 2016; NYRB, 2006). David Addington, a committee staffer contributed by another Republican lawmaker, worked with the minority and went to work for Cheney at the Pentagon in 1989 (Savage). Two decades later, Cheney (by then Vice President) and Addington (by then his chief of staff and legal counsel) would use substantially the same legal theory — elaborated in the John Yoo OLC memos and the 2001-08 OLC opinions — as the framework for the post-9/11 executive-power revolution. The Minority Report is, as Charlie Savage and others have argued, the doctrinal rehearsal for the unitary-executive presidency.
 
 ## What Happened / Key Facts
 
@@ -56,14 +103,13 @@ The Reagan administration had run two linked covert operations in defiance of th
 
 The Majority Report (10 Democrats and 4 Republicans, 423 pages) concluded:
 
-- The administration "undermined the rule of law, deliberately evaded statutes, and made false statements to Congress."
+- "[F]undamental processes of governance were disregarded and the rule of law was subverted"; "the common ingredients of the Iran and Contra policies were secrecy, deception, and disdain for the law"; and the committees "condemn[ed] without reservation the making of false statements to Congress."
 - The diversion of Iran arms profits to the Contras violated both the Boland Amendment and the Arms Export Control Act.
-- The pattern "represented a fundamental violation of our constitutional system."
+- The affair was "characterized by pervasive dishonesty and inordinate secrecy."
 
-The Minority Report (6 House Republicans: Cheney, Hyde, Broomfield, DeWine, McCollum, McEwen; 2 Senate Republicans: Hatch, McClure), released on the same day, rejected both the constitutional and factual framings:
+The Minority Report (6 House Republicans: Cheney, Broomfield, Hyde, Courter, McCollum, DeWine; 2 Senate Republicans: McClure, Hatch), released on the same day, rejected both the constitutional and factual framings:
 
-- **Constitutional**: The Boland Amendment infringed Article II commander-in-chief authority; "the Boland Amendments represent an example of Congress's propensity to make rapid, ill-considered changes in statutes providing authority to the President."
-- **Foreign affairs power**: "The President has broad constitutional authority over foreign affairs and the conduct of foreign policy, and the U.S. has always pursued foreign policy through a variety of public and covert means."
+- **Constitutional**: The Boland Amendment infringed Article II commander-in-chief authority; "the report charged that "Congressional Democrats tried to use vaguely worded and constantly changing laws to impose policies in Central America that went well beyond the law itself," and faulted the Administration for deciding "to work within the letter of the law covertly instead of forcing a public and principled confrontation."
 - **Factual**: The administration's errors were "mistakes in judgment, and nothing more."
 
 The Minority Report's constitutional analysis cited:
@@ -77,8 +123,8 @@ The Minority Report's constitutional analysis cited:
 The Minority Report is the doctrinal crystallization of the theory that would govern the Bush II administration's post-9/11 legal architecture. The direct personnel line:
 
 - **Cheney** — Iran-Contra Committee minority leader (1987) → Secretary of Defense (1989-93) → Vice President (2001-09).
-- **Addington** — Cheney staffer on Iran-Contra Committee (1987) → Deputy General Counsel, OVP (1989-93) → Counsel and Chief of Staff to VP Cheney (2001-09). Addington was the principal legal architect of the post-9/11 executive-power agenda.
-- **Malbin** — Principal author of the Minority Report → AEI senior fellow, continuing to publish on executive-power doctrine through the 2000s.
+- **Addington** — Iran-Contra Committee minority staffer (1987), contributed by another Republican member → Cheney aide at the Pentagon (1989) → Counsel and Chief of Staff to VP Cheney (2001-09). Addington was the principal legal architect of the post-9/11 executive-power agenda.
+- **Malbin** — Principal author of the Minority Report (credited as Minority Editor/Writer).
 - **Orrin Hatch** — Senate Judiciary Committee ranking member/chairman for two decades, central in confirmation of unitary-executive-friendly judges.
 
 The Minority Report's core claims were reasserted in:

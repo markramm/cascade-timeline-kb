@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2018-11-28--kesma-hungarian-media-consolidation
 date: 2018-11-28
-title: "KESMA: Orbán Issues Decree Creating Single Foundation Absorbing 476 Hungarian Media Outlets by Sovereign Exemption from Competition Review"
+title: "Orbán Allies Donate 476 Hungarian Media Outlets to a Single Foundation, KESMA; a December 5 Government Decree Exempts the Merger From Competition Review"
 importance: 10
-status: confirmed
+status: reported
 actors:
   - Viktor Orbán
   - Lőrinc Mészáros
@@ -111,11 +111,79 @@ sources:
     tier: 1
     note: "DIRECT — Current (2025) profile of KESMA: approximately 470-500 outlets; television, radio, print, digital holdings; state advertising dominance; editorial coordination confirmed"
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "title: \"KESMA: Orbán Issues Decree Creating Single Foundation Absorbing 476 Hungarian Media Outlets by Sovereign Exemption from Competition Review\""
+  now: "Orbán Allies Donate 476 Hungarian Media Outlets to a Single Foundation, KESMA; a December 5 Government Decree Exempts the Merger From Competition Review (KESMA founded Sept 11, 2018; 476 outlets transferred without compensation; Government Decree 229/2018 of Dec 5, 2018)"
+  why: "https://theorangefiles.hu/the-central-european-press-and-media-foundation/ ; https://gvh.hu/en/press_room/press_releases/press-releases-2020/the-gvh-cannot-examine-the-kesma-merger- — no decree created KESMA; Nov 28 is the donation date, Dec 5 the decree"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "filed documents effecting the simultaneous transfer of 476 Hungarian media outlets"
+  now: "filed eight sets of documents at Hungarian company courts recording that the owners of eight media companies had decided to donate them to the Central European Press and Media Foundation (KESMA); by that afternoon more than 200 titles were the foundation's property, and once all donations pledged that week were finalized it would own 476 media outlets (IPI; Index; Átlátszó, Nov. 30, 2018)"
+  why: "https://ipi.media/the-rise-of-kesma-how-orbans-allies-bought-up-hungarys-media/ ; Index 2018-11-28 ; Atlatszo 2018-11-30 — Kertész filed eight sets of documents; 476 is the total pledged that week"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Matolcsy had purchased Origo in November 2018 for €11.06 million using an MKB Bank loan, then donated it to KESMA within the same month."
+  now: "Matolcsy donated New Wave Media Group, the owner of Origo, to KESMA in 2018; the €11.06 million MKB Bank loan financed New Wave's late-2015 purchase of Origo from Magyar Telekom (IPI)."
+  why: "https://ipi.media/the-rise-of-kesma-how-orbans-allies-bought-up-hungarys-media/ — paragraphs 39-40: €11.06M MKB loan financed New Wave's late-2015 purchase of Origo; Matolcsy bought New Wave and donated it the following month"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "state advertising contracts provided 87% of revenues at several prominent KESMA entities — a ratio that exceeded those entities' total combined turnover."
+  now: "87% (HUF 17.5 billion) of all state advertising contracts went to KESMA-affiliated outlets, exceeding their combined turnover; in 2017 the share was 83% (State Media Monitor)."
+  why: "https://statemediamonitor.com/2025/09/kesma/ — 87% (HUF 17.5bn) is KESMA outlets' share of all state advertising contracts in 2018, not a share of outlet revenue"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "**All 19 county-level regional daily newspapers** — every county in Hungary has exactly one regional daily; all 19 are published by KESMA."
+  now: "**All 18 county-based daily newspapers** — KESMA's outlets include every county daily in Hungary (The Orange Files, Jan. 2019); Pest County has had no county daily since Pest Megyei Hírlap closed in 1995."
+  why: "https://theorangefiles.hu/the-central-european-press-and-media-foundation/ — 'all 18 county-based daily newspapers'; Pest County has had no county daily since 1995"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "September 11, 2018"
+  qualifier: "founded"
+  span: "was founded on September 11, 2018"
+  url: https://theorangefiles.hu/the-central-european-press-and-media-foundation/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: attribution
+  value: "eight sets of documents"
+  qualifier: ""
+  span: "had filed eight sets of documents at various Hungarian company courts"
+  url: https://ipi.media/the-rise-of-kesma-how-orbans-allies-bought-up-hungarys-media/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "€11.06 million"
+  qualifier: "MKB Bank loan"
+  span: "Origo's acquisition by New Wave in late 2015 was financed by a loan worth €11.06 million by MKB Bank."
+  url: https://ipi.media/the-rise-of-kesma-how-orbans-allies-bought-up-hungarys-media/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: figure
+  value: "87%"
+  qualifier: "HUF 17.5 billion"
+  span: "in 2018, 87% (HUF 17.5 billion) of all state advertising contracts went to KESMA-affiliated outlets, exceeding their combined turnover"
+  url: https://statemediamonitor.com/2025/09/kesma/
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: figure
+  value: "18"
+  qualifier: "county-based daily newspapers"
+  span: "all 18 county-based daily newspapers"
+  url: https://theorangefiles.hu/the-central-european-press-and-media-foundation/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On November 28, 2018, lawyer József Tamás Kertész filed documents effecting the simultaneous transfer of 476 Hungarian media outlets — newspapers, radio stations, television channels, online portals, and regional dailies — from approximately ten oligarch-controlled holding companies to a single newly-formed nonprofit foundation, the Central European Press and Media Foundation (Közép-Európai Sajtó és Média Alapítvány, KESMA), incorporated September 11, 2018. The transfers were donations: no financial compensation changed hands. Within one week, on December 5, 2018, the Orbán government issued Government Decree 229/2018, designating the KESMA merger a matter of "national strategic importance" and exempting it from review by the Hungarian Competition Authority (GVH) under Article 24/A of Act LVII of 1996. The GVH closed its procedure the following day, citing lack of jurisdiction. The Hungarian Constitutional Court subsequently upheld the decree's legality in June 2020. No independent competition review of the largest media merger in Hungarian history has ever taken place.
+On November 28, 2018, lawyer József Tamás Kertész filed eight sets of documents at Hungarian company courts recording that the owners of eight media companies had decided to donate them to the Central European Press and Media Foundation (KESMA); by that afternoon more than 200 titles were the foundation's property, and once all donations pledged that week were finalized it would own 476 media outlets (IPI; Index; Átlátszó, Nov. 30, 2018) — newspapers, radio stations, television channels, online portals, and regional dailies — from approximately ten oligarch-controlled holding companies to a single newly-formed nonprofit foundation, the Central European Press and Media Foundation (Közép-Európai Sajtó és Média Alapítvány, KESMA), incorporated September 11, 2018. The transfers were donations: no financial compensation changed hands. Within one week, on December 5, 2018, the Orbán government issued Government Decree 229/2018, designating the KESMA merger a matter of "national strategic importance" and exempting it from review by the Hungarian Competition Authority (GVH) under Article 24/A of Act LVII of 1996. The GVH closed its procedure the following day, citing lack of jurisdiction. The Hungarian Constitutional Court subsequently upheld the decree's legality in June 2020. No independent competition review of the largest media merger in Hungarian history has ever taken place.
 
 ---
 
@@ -133,7 +201,7 @@ The seven primary donors and their contributions:
 
 **Árpád Habony** (Orbán's chief strategic adviser, without formal government title): Donated 888.hu (the primary right-wing digital news portal), Lokál (free daily newspaper, 150,000 circulation), and Lokál Extra (door-to-door distributed newspaper, 1.16 million circulation).
 
-**Ádám Matolcsy** (son of Magyar Nemzeti Bank Governor György Matolcsy): Donated New Wave Media Group, which owned Origo.hu — formerly Hungary's most-visited online news portal, originally owned by Magyar Telekom, editorially neutered after 2014. Matolcsy had purchased Origo in November 2018 for €11.06 million using an MKB Bank loan, then donated it to KESMA within the same month.
+**Ádám Matolcsy** (son of Magyar Nemzeti Bank Governor György Matolcsy): Donated New Wave Media Group, which owned Origo.hu — formerly Hungary's most-visited online news portal, originally owned by Magyar Telekom, editorially neutered after 2014. Matolcsy donated New Wave Media Group, the owner of Origo, to KESMA in 2018; the €11.06 million MKB Bank loan financed New Wave's late-2015 purchase of Origo from Magyar Telekom (IPI).
 
 **Mária Schmidt** (director of the House of Terror Museum, Orbán's chief historical adviser): Donated the weekly magazine Figyelő.
 
@@ -181,7 +249,7 @@ KESMA was not a spontaneous creation. It was the consolidation instrument placed
 
 As of 2025, KESMA coordinates approximately **470–500 media outlets** across Hungary. The Euromedia Ownership Monitor (2025 edition) documents:
 
-- **All 19 county-level regional daily newspapers** — every county in Hungary has exactly one regional daily; all 19 are published by KESMA. In non-urban areas, these are the primary and often only print news source.
+- **All 18 county-based daily newspapers** — KESMA's outlets include every county daily in Hungary (The Orange Files, Jan. 2019); Pest County has had no county daily since Pest Megyei Hírlap closed in 1995. In non-urban areas, these are the primary and often only print news source.
 - **All local radio stations outside Budapest and its agglomeration** — KESMA controls the full local radio landscape in provincial Hungary.
 - **Television**: Hír TV (24-hour news, the former flagship of both the Simicska empire and subsequently KESMA), and the broader Echo TV acquisition.
 - **Online portals**: Origo.hu (formerly Hungary's most-visited portal), Mandiner.hu, Ripost.hu, 888.hu, and dozens of smaller sites.
@@ -189,7 +257,7 @@ As of 2025, KESMA coordinates approximately **470–500 media outlets** across H
 
 By the State Media Monitor's 2025 assessment, KESMA is "by far the most powerful single media actor in Hungary's highly concentrated information market." The combined pro-government media ecosystem — KESMA plus public broadcaster MTVA plus TV2 Group plus unaffiliated but aligned outlets — controls approximately **80% of Hungary's media by reach**, with dominance concentrated most heavily in rural and non-urban areas where KESMA's regional dailies and local radio face no competition.
 
-**State advertising dependence**: In 2020, Mérték Media Monitor calculated that 37% of Hungary's total state advertising budget (approximately €135 million of €365 million) flowed to KESMA outlets. A further 49% went to public broadcaster MTVA and other pro-government outlets. In 2018, at the moment of KESMA's formation, state advertising contracts provided 87% of revenues at several prominent KESMA entities — a ratio that exceeded those entities' total combined turnover.
+**State advertising dependence**: In 2020, Mérték Media Monitor calculated that 37% of Hungary's total state advertising budget (approximately €135 million of €365 million) flowed to KESMA outlets. A further 49% went to public broadcaster MTVA and other pro-government outlets. In 2018, at the moment of KESMA's formation, 87% (HUF 17.5 billion) of all state advertising contracts went to KESMA-affiliated outlets, exceeding their combined turnover; in 2017 the share was 83% (State Media Monitor).
 
 **Editorial coordination**: Investigations by Mérték Media Monitor and Direkt36 have confirmed systematic editorial coordination across KESMA outlets. The clearest documented example: 19 KESMA-member websites published identical news stories about the independent outlet Átlátszó, with text distributed via the state news agency MTI. Post-formation internal analysis confirmed that KESMA's centralized management structure gave leadership "unprecedented leverage over thousands of journalists." The Gábor Liszkay-to-József Tamás Kertész-to-Liszkay board succession (2018–2022) maintained continuous editorial control by figures with direct Orbán network ties.
 
@@ -235,7 +303,7 @@ The Constitutional Court's June 2020 ruling that the decree was constitutional e
 
 ### The Financing Architecture
 
-The Matolcsy/Origo donation illustrates the financial engineering underlying the "donations": Ádám Matolcsy borrowed €11.06 million from MKB Bank to purchase Origo in November 2018, then donated Origo to KESMA within weeks. MKB Bank itself had been acquired by the Hungarian state in 2014 and was subsequently privatized in a manner that concentrated ownership among Orbán-aligned business figures. The loan-to-donate structure meant the final beneficial owner of the loan decision — effectively the state-connected banking network — financed an acquisition whose proceeds immediately entered the KESMA nonprofit structure, where they could not be reclaimed. KESMA's first annual report showed a consolidated net asset value of €21.9 million with €36.7 million profit — a 144% return-on-assets ratio, derived substantially from the government advertising contracts that followed the merger.
+The Matolcsy/Origo donation illustrates the financial engineering underlying the "donations": Ádám Matolcsy donated New Wave Media Group, the owner of Origo, to KESMA in 2018; the €11.06 million MKB Bank loan financed New Wave's late-2015 purchase of Origo from Magyar Telekom (IPI). MKB Bank itself had been acquired by the Hungarian state in 2014 and was subsequently privatized in a manner that concentrated ownership among Orbán-aligned business figures. The loan-to-donate structure meant the final beneficial owner of the loan decision — effectively the state-connected banking network — financed an acquisition whose proceeds immediately entered the KESMA nonprofit structure, where they could not be reclaimed. KESMA's first annual report showed a consolidated net asset value of €21.9 million with €36.7 million profit — a 144% return-on-assets ratio, derived substantially from the government advertising contracts that followed the merger.
 
 ---
 

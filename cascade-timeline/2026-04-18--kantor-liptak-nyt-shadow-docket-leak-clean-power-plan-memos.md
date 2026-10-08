@@ -4,7 +4,7 @@ id: 2026-04-18--kantor-liptak-nyt-shadow-docket-leak-clean-power-plan-memos
 date: '2026-04-18'
 title: "NYT publishes Kantor/Liptak investigation of leaked 2016 SCOTUS memos documenting the origins of the modern shadow (interim) docket"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - shadow-docket
   - interim-docket
@@ -83,6 +83,74 @@ capture_lanes:
   - Judicial Capture
   - Executive Power Expansion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "The NYT reporting characterizes this as Roberts invoking an incorrect legal standard for stay relief and fixating on red-state/fossil-fuel harm while ignoring countervailing government and public harm"
+  now: "Georgetown law professor Steve Vladeck, analyzing the memos, argues that Roberts invoked the wrong legal standard for stay relief and fixated on the supposed harm to the red-state plaintiffs and the fossil-fuel industry while ignoring the harms to the government and the public (per Slate and Above the Law, citing Vladeck's newsletter; SCOTUSblog's Taraleigh Davis disputes this)"
+  why: "https://slate.com/news-and-politics/2026/04/supreme-court-leak-john-roberts-the-worst.html ; https://abovethelaw.com/2026/04/the-shadow-docket-memos-are-damning-so-naturally-the-right-is-talking-about-the-leak/ ; stevevladeck.com newsletter 'Chief Justice Roberts and the Clean Power Plan' — the 'wrong standard' critique is Steve Vladeck's, not the NYT's; SCOTUSblog disputes it"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Scalia (who died five days after the Clean Power Plan stay, on February 13, 2016)"
+  now: "Scalia (who died on February 13, 2016, four days after the Court granted the Clean Power Plan stay on February 9, 2016)"
+  why: "https://stateimpact.npr.org/pennsylvania/2016/02/15/what-scalias-death-means-for-obamas-clean-power-plan ; https://www.scotusblog.com/2026/04/what-the-new-york-times-got-wrong-and-right-about-the-emergency-docket/ — stay granted Feb 9, 2016; Scalia died Feb 13, 2016 (four days later)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "SCOTUSblog published both an \"analysis of what the Times got right\" and a narrower \"critique of what it got wrong\" within days,"
+  now: "SCOTUSblog's SCOTUStoday newsletter summarized the Times story on April 20, and on April 21 it published a commentary by Taraleigh Davis, \"What the New York Times got wrong – and right – about the emergency docket,\" arguing the Times \"is wrong about most of this\" and agreeing only that halting a major regulation before any appellate ruling was new,"
+  why: "https://www.scotusblog.com/2026/04/what-the-new-york-times-got-wrong-and-right-about-the-emergency-docket/ (Taraleigh Davis, Apr 21, 2026, one commentary: 'The Times is wrong about most of this'; agrees only that halting a major regulation before any appellate ruling was new) ; https://www.scotusblog.com/2026/04/a-leak-from-the-interim-docket/ (SCOTUStoday, Apr 20: Morning Reads summary only)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "focused on the leak as breach of confidentiality rather than on memo content, per Above the Law's characterization (\"the hand-wringing about the 'gravest, most unforgivable sin' was a way for the legal establishment to avoid talking about what the opinion actually said\")"
+  now: "focused on the leak as breach of confidentiality rather than on memo content; Above the Law reports conservative commentators answered the memos with \"Never mind the substance. WHO LEAKED IT?\", citing Jonathan Adler's post suggesting the documents came from Sotomayor's chambers and Mollie Hemingway's \"Another major Supreme Court leak to a left-wing media outlet\" (Above the Law, April 20, 2026)"
+  why: "https://abovethelaw.com/2026/04/the-shadow-docket-memos-are-damning-so-naturally-the-right-is-talking-about-the-leak/ (Kathryn Rubino, Apr 20, 2026) — the 'gravest, most unforgivable sin' line describes the 2022 Dobbs leak; for 2026 it reports 'Never mind the substance. WHO LEAKED IT?'; Dobbs investigation ended with a Jan 19, 2023 report that could not identify the leaker (supremecourt.gov)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Kennedy's memo evinces discomfort; Breyer seeks delay and fuller briefing; Kagan and Sotomayor press on the inadequacy of the record; Alito supports Roberts but with a procedural framing;"
+  now: "Kennedy concurs on the ground that, if a stay is inevitable, it might as well issue now; Breyer seeks delay and fuller briefing; Kagan and Sotomayor press on the inadequacy of the record; Alito writes that failing to stay the rule would render the Court's ability to provide meaningful judicial review, \"and by extension our institutional legitimacy,\" \"a nullity\" (Adler, Reason/Volokh);"
+  why: "https://reason.com/volokh/2026/04/18/leaked-supreme-court-memos-reveal-why-court-stayed-clean-power-plan-setting-important-shadow-docket-precedent-in-the-process/ (Adler, Apr 18, 2026) — Alito: failure to stay 'threatens to render our ability to provide meaningful judicial review--and by extension our institutional legitimacy--a nullity'; Kennedy 'concurs on the grounds that, if a stay of the CPP is inevitable ..., it might as well issue now'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Vladeck"
+  qualifier: "the"
+  span: "Vladeck has already laid out Roberts' errors and contortions of the law"
+  url: https://slate.com/news-and-politics/2026/04/supreme-court-leak-john-roberts-the-worst.html
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "Feb. 9, 2016"
+  qualifier: "stay granted"
+  span: "On Feb. 9, 2016, by a 5-4 vote, the Supreme Court granted the stay."
+  url: https://www.scotusblog.com/2026/04/what-the-new-york-times-got-wrong-and-right-about-the-emergency-docket/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: "The Times is wrong about most of this"
+  qualifier: ""
+  span: "The Times is wrong about most of this"
+  url: https://www.scotusblog.com/2026/04/what-the-new-york-times-got-wrong-and-right-about-the-emergency-docket/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: "Never mind the substance. WHO LEAKED IT?"
+  qualifier: "the"
+  span: "Never mind the substance. WHO LEAKED IT?"
+  url: https://abovethelaw.com/2026/04/the-shadow-docket-memos-are-damning-so-naturally-the-right-is-talking-about-the-leak/
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: quote
+  value: "our institutional legitimacy"
+  qualifier: ""
+  span: "A failure to stay this rule threatens to render our ability to provide meaningful judicial review--and by extension our institutional legitimacy--a nullity."
+  url: https://reason.com/volokh/2026/04/18/leaked-supreme-court-memos-reveal-why-court-stayed-clean-power-plan-setting-important-shadow-docket-precedent-in-the-process/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
@@ -92,14 +160,14 @@ On April 18, 2026, the New York Times published "The Inside Story of Five Days T
 ## What Happened / Key Facts
 
 - **Publication**: New York Times, April 18, 2026 (Saturday), bylined Jodi Kantor and Adam Liptak
-- **Source material**: 16 pages of leaked memos from six justices — Roberts, Alito, Kennedy, Breyer, Kagan, Sotomayor. Memos from Thomas, Scalia (who died five days after the Clean Power Plan stay, on February 13, 2016), and Ginsburg are not in the leaked tranche and may not exist or may have been withheld by the leaker
+- **Source material**: 16 pages of leaked memos from six justices — Roberts, Alito, Kennedy, Breyer, Kagan, Sotomayor. Memos from Thomas, Scalia (who died on February 13, 2016, four days after the Court granted the Clean Power Plan stay on February 9, 2016), and Ginsburg are not in the leaked tranche and may not exist or may have been withheld by the leaker
 - **Date of underlying memos**: February 2016, spanning five days leading up to the February 9, 2016 order staying the Clean Power Plan
 - **Case**: *West Virginia v. EPA* stay application (emergency stay of Clean Power Plan); decided 5-4 (Roberts, Kennedy, Thomas, Scalia, Alito in majority; Ginsburg, Breyer, Sotomayor, Kagan in dissent)
-- **Structural finding**: Roberts drove the stay on an expedited track citing a BBC interview and an EPA blog-post quotation as evidentiary support for irreparable-harm claims to fossil-fuel-state interests. The NYT reporting characterizes this as Roberts invoking an incorrect legal standard for stay relief and fixating on red-state/fossil-fuel harm while ignoring countervailing government and public harm
+- **Structural finding**: Roberts drove the stay on an expedited track citing a BBC interview and an EPA blog-post quotation as evidentiary support for irreparable-harm claims to fossil-fuel-state interests. Georgetown law professor Steve Vladeck, analyzing the memos, argues that Roberts invoked the wrong legal standard for stay relief and fixated on the supposed harm to the red-state plaintiffs and the fossil-fuel industry while ignoring the harms to the government and the public (per Slate and Above the Law, citing Vladeck's newsletter; SCOTUSblog's Taraleigh Davis disputes this)
 - **Roberts quote (from memos)**: "a rule designed to transform a substantial swath of the nation's economy should be tested by this Court before it is presented as a fait accompli"
 - **Legal scholarship framing**: The NYT and secondary commentary characterize the February 2016 order as the "birth" of the modern shadow (interim) docket. Before 2016, emergency stays from the Supreme Court were rare and typically confined to individual-litigant matters (capital punishment, injunctions against specific executions). The Clean Power Plan stay extended shadow-docket relief to major regulatory programs before any circuit court had reached the merits
 - **Trump-2 connection (explicit in NYT reporting)**: "the secretive track that the Supreme Court has since used to make many major decisions, including granting President Trump more than 20 key victories on issues from immigration to agency power"
-- **Justices' internal dynamics documented**: Kennedy's memo evinces discomfort; Breyer seeks delay and fuller briefing; Kagan and Sotomayor press on the inadequacy of the record; Alito supports Roberts but with a procedural framing; Roberts brushes past objections and moves the order forward in five days
+- **Justices' internal dynamics documented**: Kennedy concurs on the ground that, if a stay is inevitable, it might as well issue now; Breyer seeks delay and fuller briefing; Kagan and Sotomayor press on the inadequacy of the record; Alito writes that failing to stay the rule would render the Court's ability to provide meaningful judicial review, "and by extension our institutional legitimacy," "a nullity" (Adler, Reason/Volokh); Roberts brushes past objections and moves the order forward in five days
 
 ## Why This Event Matters
 
@@ -142,9 +210,9 @@ These dynamics are not documented by the Kantor/Liptak memos, but they are the i
 
 ## Immediate Consequences
 
-- **Legal-commentary response**: SCOTUSblog published both an "analysis of what the Times got right" and a narrower "critique of what it got wrong" within days, indicating the legal academy takes the leak seriously as primary-source material
-- **Right-wing response**: focused on the leak as breach of confidentiality rather than on memo content, per Above the Law's characterization ("the hand-wringing about the 'gravest, most unforgivable sin' was a way for the legal establishment to avoid talking about what the opinion actually said")
-- **Institutional**: no Supreme Court internal investigation has been publicly announced as of April 23, 2026. (Compare: the 2022 Dobbs draft leak, which triggered a still-unresolved formal marshal's investigation)
+- **Legal-commentary response**: SCOTUSblog's SCOTUStoday newsletter summarized the Times story on April 20, and on April 21 it published a commentary by Taraleigh Davis, "What the New York Times got wrong – and right – about the emergency docket," arguing the Times "is wrong about most of this" and agreeing only that halting a major regulation before any appellate ruling was new, indicating the legal academy takes the leak seriously as primary-source material
+- **Right-wing response**: focused on the leak as breach of confidentiality rather than on memo content; Above the Law reports conservative commentators answered the memos with "Never mind the substance. WHO LEAKED IT?", citing Jonathan Adler's post suggesting the documents came from Sotomayor's chambers and Mollie Hemingway's "Another major Supreme Court leak to a left-wing media outlet" (Above the Law, April 20, 2026)
+- **Institutional**: no Supreme Court internal investigation has been publicly announced as of April 23, 2026. (Compare: the 2022 Dobbs draft leak, whose Marshal's investigation ended with a January 19, 2023 report saying it could not identify the leaker)
 - **Political**: the NYT piece contributes material for ongoing Senate Judiciary and Senate Finance Committee oversight inquiries into shadow-docket ethics and institutional transparency
 
 ## Related Entries

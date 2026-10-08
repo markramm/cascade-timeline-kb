@@ -1,10 +1,10 @@
 ---
 type: timeline_event
 id: 2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention
-date: 2025-03-26
+date: '2025-03-11'
 title: "Trump Nominates Anduril Senior Director Michael Obadal as Army Under Secretary; Plans to Retain $250K-$500K Anduril Stock"
 importance: 9
-status: confirmed
+status: reported
 actors:
   - Donald Trump
   - Michael Obadal
@@ -47,19 +47,74 @@ capture_lanes:
 coverage:
   - url: https://theramm.substack.com/p/the-recusal-that-wasnt
     title: "The Recusal That Wasn't"
+corrections:
+- date: '2026-10-08'
+  was: "Sen. Elizabeth Warren (D-MA) publicly flagged the conflict of interest in an April 15, 2025 letter, noting the Army's largest active contracts at the time of the nomination involved Anduril's Lattice OS — Anduril's command-and-control software — which became the subject of the **$20 billion Army enterprise contract awarded to Anduril in March 2026**, approximately twelve months after the Obadal nomination announcement."
+  now: "Sen. Elizabeth Warren (D-MA), in a May 7, 2025 letter to Obadal released May 8 ahead of his Senate Armed Services Committee hearing, noted that Anduril had recently been awarded a $22 billion contract to produce headsets for the Army and asked him to divest his Anduril equity and recuse from Anduril matters. On March 13-14, 2026 the Army awarded Anduril an enterprise contract vehicle worth up to $20 billion (DefenseScoop)."
+  why: "https://www.warren.senate.gov/newsroom/press-releases/warren-demands-army-under-secretary-nominee-divest-stock-holdings-in-anduril-and-other-defense-contractors ; https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf — Warren's letter is addressed to Obadal alone, dated May 7, 2025, released May 8; no April 15 letter; no 'Lattice' or 'largest vendor' language"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Obadal joined Anduril after retiring from the Army in approximately 2022"
+  now: "Obadal retired from the Army in 2023 and has been a senior director at Anduril since January 2023 (The Intercept, May 1, 2025)"
+  why: "https://theintercept.com/2025/05/01/trump-army-anduril-mike-obadal-ethics/ — 'retired from a career in the Army in 2023'; 'a senior director at Anduril since 2023, according to his LinkedIn profile'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Obadal stated in his ethics agreement that he plans to retain his **vested Anduril stock valued at $250,000-$500,000** through the Senate confirmation process."
+  now: "Obadal's April 11, 2025 ethics agreement said he would retain his vested Anduril restricted stock units after confirmation (valued at $250,000-$500,000 per Breaking Defense; he later amended the agreement to say he held no vested units)."
+  why: "https://extapps2.oge.gov (Obadal ethics agreement, April 11, 2025, amended Aug 15, 2025) ; https://theintercept.com/2025/05/01/trump-army-anduril-mike-obadal-ethics/ — 'I will retain my vested restricted stock units'; commitment not to participate in matters affecting Anduril without a § 208(b)(1) waiver; the $250K-$500K figure is from Breaking Defense (May 2025); no 'federal ethics counsel confirmed' statement"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "date: '2025-03-26' (Breaking Defense / WaPo date) and 'In March 2025, President Trump nominated'"
+  now: "The White House sent the nomination to the Senate on March 11, 2025 (Defense Daily, March 12, 2025; ExecutiveGov, March 13, 2025; Senate PN26-35); the Senate confirmed Obadal 51-47 on September 18, 2025. NOTE: file id still carries 2025-03-26."
+  why: "https://www.defensedaily.com/army-vet-anduril-exec-michael-obadal-nominated-to-be-army-under-secretary/army/ ; https://www.executivegov.com/articles/michael-obadal-army-under-secretary-nomination"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "does not fit the narrow definition of a 'particular matter' and therefore does not trigger recusal obligations"
+  qualifier: ""
+  span: "Army work that does not fit the narrow definition of a 'particular matter' and therefore does not trigger recusal obligations"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: date
+  value: "2023"
+  qualifier: "retired from the Army"
+  span: "retired from a career in the Army in 2023"
+  url: https://theintercept.com/2025/05/01/trump-army-anduril-mike-obadal-ethics/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: attribution
+  value: "retain his restricted stock units that have already vested"
+  qualifier: ""
+  span: "Obadal says he will retain his restricted stock units that have already vested"
+  url: https://theintercept.com/2025/05/01/trump-army-anduril-mike-obadal-ethics/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: "quote"
+  value: "submitted Obadal's nomination"
+  qualifier: ""
+  span: "The White House said Tuesday that it has submitted Obadal's nomination to the U.S. Senate"
+  url: https://www.executivegov.com/articles/michael-obadal-army-under-secretary-nomination
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-In March 2025, President Trump nominated **Michael Obadal**, a senior director at Anduril Industries (former U.S. Army colonel with 27 years of service), to be **Under Secretary of the Army** — the Army's number-two civilian role with portfolio responsibility for Army acquisition, financial management, and installations. Obadal stated in his ethics agreement that he plans to retain his **vested Anduril stock valued at $250,000-$500,000** through the Senate confirmation process. Sen. Elizabeth Warren (D-MA) publicly flagged the conflict of interest in an April 15, 2025 letter, noting the Army's largest active contracts at the time of the nomination involved Anduril's Lattice OS — Anduril's command-and-control software — which became the subject of the **$20 billion Army enterprise contract awarded to Anduril in March 2026**, approximately twelve months after the Obadal nomination announcement.
+On March 11, 2025, the White House sent the Senate President Trump's nomination of **Michael Obadal**, a senior director at Anduril Industries (former U.S. Army colonel with 27 years of service), to be **Under Secretary of the Army** — the Army's number-two civilian role with portfolio responsibility for Army acquisition, financial management, and installations. Obadal's April 11, 2025 ethics agreement said he would retain his vested Anduril restricted stock units after confirmation (valued at $250,000-$500,000 per Breaking Defense; he later amended the agreement to say he held no vested units). Sen. Elizabeth Warren (D-MA), in a May 7, 2025 letter to Obadal released May 8 ahead of his Senate Armed Services Committee hearing, noted that Anduril had recently been awarded a $22 billion contract to produce headsets for the Army and asked him to divest his Anduril equity and recuse from Anduril matters. On March 13-14, 2026 the Army awarded Anduril an enterprise contract vehicle worth up to $20 billion (DefenseScoop).
 
 ## What Happened
 
-Obadal joined Anduril after retiring from the Army in approximately 2022, serving as a senior director focused on Army-customer-facing capabilities. The Anduril-to-Army-Under-Secretary nomination created the most legally cleanly stated procurement-conflict in the Trump-2 surveillance-cluster cohort:
+Obadal retired from the Army in 2023 and has been a senior director at Anduril since January 2023 (The Intercept, May 1, 2025), serving as a senior director focused on Army-customer-facing capabilities. The Anduril-to-Army-Under-Secretary nomination created the most legally cleanly stated procurement-conflict in the Trump-2 surveillance-cluster cohort:
 
-1. **Stock retention**: Obadal's ethics agreement (filed with the Office of Government Ethics) discloses retention of vested Anduril equity in the $250,000-$500,000 range. Federal ethics counsel confirmed Obadal would seek recusal from "particular matters" involving Anduril during his tenure as Army Under Secretary, but he would not divest the equity.
+1. **Stock retention**: In his April 11, 2025 ethics agreement, Obadal wrote that upon confirmation he would resign from Anduril and forfeit unvested restricted stock units but retain vested ones; because he would still hold Anduril equity, he committed not to participate personally and substantially in any particular matter with a direct and predictable effect on Anduril's financial interests unless he first obtained a waiver under 18 U.S.C. § 208(b)(1) (OGE-posted ethics agreement; The Intercept, May 1, 2025). In an August 15, 2025 amendment he removed the reference to vested units, stating he held no vested Anduril restricted stock units as of the agreement's date.
 2. **Active Army-Anduril contract footprint at nomination**: At the time of Obadal's March 2025 nomination, Anduril held active contracts with the Army including the **$22B Integrated Visual Augmentation System (IVAS) headset program transferred from Microsoft to Anduril in February 2025** (per [[2025-02-11--anduril-takes-over-microsoft-ivas-22b-army-headset]]) and the autonomous-targeting / Lattice OS portfolio. The pre-nomination Army-Anduril contract footprint was already in the multi-billion-dollar range.
-3. **Sen. Warren's April 15, 2025 letter** to Anduril and to OGE raised the recusal-scope question explicitly: how can the Army Under Secretary, whose statutory portfolio includes Army acquisition, recuse from particular matters when the Army's largest single command-and-control contracted vendor is the nominee's former employer with retained equity?
+3. **Sen. Warren's May 7, 2025 letter** to Obadal raised the recusal-scope question: recusal alone was insufficient "particularly when the conflict arises from Army work that does not fit the narrow definition of a 'particular matter' and therefore does not trigger recusal obligations." She asked him to divest his Anduril equity, recuse from Anduril matters, and divest other defense-contractor stock.
 
 The Senate Armed Services Committee confirmation hearing process proceeded through 2025; Obadal's confirmation timeline and final vote are documented in subsequent timeline entries (research-gap pending).
 

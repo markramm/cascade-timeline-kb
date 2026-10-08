@@ -59,6 +59,22 @@ capture_lanes:
   - Regulatory Capture
   - Executive Power Expansion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "operationally unresolved fifteen-plus months after Wright's directive and twenty-two-plus months after the EO itself"
+  now: "operationally unresolved about ten months after the Secretary of Energy's October 23, 2025 ANOPR directive and about thirteen months after the July 23, 2025 executive order (as of FERC's August 14, 2026 Unified Agenda, which lists RM26-4-000's next action as \"Undetermined\")"
+  why: "https://www.federalregister.gov/documents/2026/08/14/2026-16616/regulatory-agenda — RIN 1902-AG47 abstract: 'On October 23, 2025, The Secretary of the Department of Energy proposed an Advance Notice of Proposed Rulemaking (Docket No. RM26-4-000)'; EO is July 23, 2025"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "October 23, 2025"
+  qualifier: "Secretary of the Department of Energy proposed an"
+  span: "On October 23, 2025, The Secretary of the Department of Energy proposed an Advance Notice of Proposed Rulemaking"
+  url: https://www.federalregister.gov/documents/2026/08/14/2026-16616/regulatory-agenda
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -82,7 +98,7 @@ FERC did not close Docket RM26-4-000 with a NOPR or final rule in June 2026 as t
 
 **FERC chose enforcement-by-proceeding over rulemaking-by-rule.** The Wright directive of October 23, 2025 compelled FERC to act on a generally-applicable rulemaking (RM26-4-000) by April 30, 2026. FERC missed that deadline (documented in [[2026-04-16--ferc-rm26-4-000-misses-april-30-deadline-intent-to-act-june-2026]]), then in June 2026 answered the underlying policy problem — inconsistent, slow large-load interconnection processes — through a different, narrower mechanism: individual Section 206 proceedings against each grid operator's tariff. This is not a "paper action": RTOs are visibly filing real compliance responses (cost-allocation proposals, new queue designs) through August 2026. But it is also not the rule Wright's directive specifically ordered. The distinction matters because Section 206 proceedings produce RTO-specific outcomes (PJM's rules may end up different from MISO's or CAISO's), rather than the single national standard the ANOPR contemplated — a fragmentation outcome, not the "quick, efficient, and legally durable" uniform standard FERC's own April 2026 order language promised.
 
-**The compliance clock has already slipped.** The August 4, 2026 report of all ISOs/RTOs jointly requesting a three-month extension indicates the 60-day compliance window (running from roughly mid/late June to mid/late August 2026) was not met industry-wide. Combined with RM26-4-000's own "Undetermined" next-action status, the datacenter-interconnection-reform lever of the July 23, 2025 EO package remains **operationally unresolved fifteen-plus months after Wright's directive and twenty-two-plus months after the EO itself** — not reversed, not abandoned, but still in a procedurally live, unresolved state.
+**The compliance clock has already slipped.** The August 4, 2026 report of all ISOs/RTOs jointly requesting a three-month extension indicates the 60-day compliance window (running from roughly mid/late June to mid/late August 2026) was not met industry-wide. Combined with RM26-4-000's own "Undetermined" next-action status, the datacenter-interconnection-reform lever of the July 23, 2025 EO package remains **operationally unresolved about ten months after the Secretary of Energy's October 23, 2025 ANOPR directive and about thirteen months after the July 23, 2025 executive order (as of FERC's August 14, 2026 Unified Agenda, which lists RM26-4-000's next action as "Undetermined")** — not reversed, not abandoned, but still in a procedurally live, unresolved state.
 
 ## Access limitations (disclosed)
 

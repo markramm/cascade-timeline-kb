@@ -4,7 +4,7 @@ id: 1978-10-25--fisa-executive-power-statute-bargain
 date: '1978-10-25'
 title: "Foreign Intelligence Surveillance Act as Executive-Power Bargain: Statutory Authorization in Exchange for Court Review Becomes Template"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - legislative-capture
@@ -40,6 +40,45 @@ capture_lanes:
   - Legislative Capture
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "- **§1803**: Creation of the Foreign Intelligence Surveillance Court (11 district judges designated by the Chief Justice) and the FISA Court of Review."
+  now: "- **§103 (50 U.S.C. §1803)**: Creation of the Foreign Intelligence Surveillance Court (seven district court judges from seven judicial circuits, publicly designated by the Chief Justice) and the three-judge FISA Court of Review (Pub. L. 95-511, §103(a)-(b), 92 Stat. 1783)."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf — §103(a): 'seven district court judges from seven of the United States judicial circuits'; the court reached 11 judges only in 2001 (USA PATRIOT Act §208)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- **§101-104**: Definitions and authorizations for electronic surveillance of \"foreign powers\" and \"agents of foreign powers.\"\n- **§105**: Application to FISA Court, showing probable cause that the target is a foreign power or agent thereof."
+  now: "- **§101**: Definitions, including \"foreign power\" and \"agent of a foreign power.\"\n- **§102**: Attorney General authorization of electronic surveillance without a court order in limited cases.\n- **§104**: The application to the FISA Court.\n- **§105**: Issuance of the order, once the judge finds probable cause that the target is a foreign power or agent of one."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf — table of contents: Sec. 101 Definitions; 102 Authorization for electronic surveillance; 103 Designation of judges; 104 Application for an order; 105 Issuance of an order"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: " Bell's OLC under Harold Hongju Koh (future State Department Legal Adviser) produced the initial implementing regulations."
+  now: ""
+  why: "https://www.presidency.ucsb.edu/documents/department-justice-nomination-john-m-harmon-be-assistant-attorney-general ; https://1997-2001.state.gov/about_state/biography/koh.html — John M. Harmon headed Carter's OLC (1977-81); Koh was a law student in 1978 and joined OLC in 1983"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Mathias, Church, and Bayh all lost their seats by 1980, removing"
+  now: "Church and Bayh lost their seats in the November 1980 election (Mathias served until he retired in January 1987), removing"
+  why: "Senate Historical Office / Bioguide M000222 — Mathias retired in January 1987, he did not lose his seat; Church and Bayh lost in November 1980; the cited Church Committee Book II (1976) predates FISA and cannot support a 1978-2017 grant rate"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "seven district court judges"
+  qualifier: "from seven judicial circuits"
+  span: "The Chief Justice of the United States shall publicly designate seven district court judges from seven of the United States judicial circuits"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "Sec. 105. Issuance of an order."
+  qualifier: "of"
+  span: "Sec. 105. Issuance of an order."
+  url: https://www.govinfo.gov/content/pkg/STATUTE-92/pdf/STATUTE-92-Pg1783.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -60,9 +99,11 @@ FISA's enactment followed a six-year negotiation triggered by:
 
 The Act's core structure:
 
-- **§101-104**: Definitions and authorizations for electronic surveillance of "foreign powers" and "agents of foreign powers."
-- **§105**: Application to FISA Court, showing probable cause that the target is a foreign power or agent thereof.
-- **§1803**: Creation of the Foreign Intelligence Surveillance Court (11 district judges designated by the Chief Justice) and the FISA Court of Review.
+- **§101**: Definitions, including "foreign power" and "agent of a foreign power."
+- **§102**: Attorney General authorization of electronic surveillance without a court order in limited cases.
+- **§104**: The application to the FISA Court.
+- **§105**: Issuance of the order, once the judge finds probable cause that the target is a foreign power or agent of one.
+- **§103 (50 U.S.C. §1803)**: Creation of the Foreign Intelligence Surveillance Court (seven district court judges from seven judicial circuits, publicly designated by the Chief Justice) and the three-judge FISA Court of Review (Pub. L. 95-511, §103(a)-(b), 92 Stat. 1783).
 - **§1809**: Criminal penalties for unauthorized surveillance.
 - **Exclusivity provision**: FISA and Title III together constituted "the exclusive means by which electronic surveillance... may be conducted."
 
@@ -81,7 +122,7 @@ FISA as structural template has three notable features:
 
 The pattern across all these: Congress provides statutory legitimation; executive accepts procedural constraints as the price; subsequent interpretation and implementation substantially erode the procedural constraints while preserving the statutory authorization.
 
-2. **FISA Court's asymmetric visibility.** The FISA Court meets in secret, rules in secret, and its opinions are (mostly) classified. The government's applications are ex parte — no adversary counsel. Public statistics on grant/denial rates are presented in ways that minimize the denial fraction. The Court's 1978-2017 cumulative grant rate on warrant applications was above 99.9 percent. The 2013 Snowden disclosures revealed that the FISA Court had interpreted Section 215 of the PATRIOT Act to authorize bulk collection of all domestic telephone metadata — an interpretation that would have been politically impossible if articulated publicly but which was the Court's operative position from at least 2006.
+2. **FISA Court's asymmetric visibility.** The FISA Court meets in secret, rules in secret, and its opinions are (mostly) classified. The government's applications are ex parte — no adversary counsel. Public statistics on grant/denial rates are presented in ways that minimize the denial fraction. The 2013 Snowden disclosures revealed that the FISA Court had interpreted Section 215 of the PATRIOT Act to authorize bulk collection of all domestic telephone metadata — an interpretation that would have been politically impossible if articulated publicly but which was the Court's operative position from at least 2006.
 
 3. **Section 702 as post-FISA expansion.** The FISA Amendments Act of 2008 (codified at 50 U.S.C. §1881a) created "Section 702" authority for programmatic collection targeting non-U.S. persons reasonably believed to be outside the U.S. Section 702 has become the principal instrument of modern mass surveillance — UPSTREAM and PRISM programs run on Section 702 authority. The "programmatic" (rather than individualized) nature of Section 702 warrant applications dramatically expanded the scope of court-approved surveillance beyond what FISA's 1978 drafters contemplated. Every reauthorization of Section 702 since 2008 has further entrenched the programmatic approach.
 
@@ -91,9 +132,9 @@ Critically for the "authority migration" pattern (Worker U): FISA is a canonical
 
 ## Broader Context
 
-FISA's principal Senate authors — Edward Kennedy (D-MA), Frank Church (D-ID), Birch Bayh (D-IN), Charles Mathias (R-MD) — were all institutionalist liberals who believed statutory procedure was the right response to intelligence-community abuses. Kennedy continued to defend FISA through its subsequent expansions even as many of his original co-sponsors grew uncomfortable. Mathias, Church, and Bayh all lost their seats by 1980, removing the strongest institutional-memory defenders of the 1978 bargain.
+FISA's principal Senate authors — Edward Kennedy (D-MA), Frank Church (D-ID), Birch Bayh (D-IN), Charles Mathias (R-MD) — were all institutionalist liberals who believed statutory procedure was the right response to intelligence-community abuses. Kennedy continued to defend FISA through its subsequent expansions even as many of his original co-sponsors grew uncomfortable. Church and Bayh lost their seats in the November 1980 election (Mathias served until he retired in January 1987), removing the strongest institutional-memory defenders of the 1978 bargain.
 
-Griffin Bell, Carter's Attorney General, was the principal administration negotiator. Bell's OLC under Harold Hongju Koh (future State Department Legal Adviser) produced the initial implementing regulations.
+Griffin Bell, Carter's Attorney General, was the principal administration negotiator.
 
 ## Research Gaps
 

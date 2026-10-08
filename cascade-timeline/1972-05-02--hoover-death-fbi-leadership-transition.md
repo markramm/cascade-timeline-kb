@@ -4,7 +4,7 @@ id: 1972-05-02--hoover-death-fbi-leadership-transition
 date: '1972-05-02'
 title: J. Edgar Hoover Dies in Office After 48 Years, Ending Longest FBI Directorship and Enabling Oversight Possibility
 importance: 9
-status: confirmed
+status: reported
 actors:
   - J. Edgar Hoover
   - L. Patrick Gray
@@ -37,6 +37,22 @@ sources:
 capture_lanes:
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Hoover became the first non-military federal official to lie in state at the U.S. Capitol Rotunda."
+  now: "Congress ordered Hoover's body to lie in state in the U.S. Capitol Rotunda, an honor \"afforded to no other civil servant before or since\"; elected officials, beginning with Henry Clay in 1852, had lain in state there before him."
+  why: "https://www.fbi.gov/news/stories/the-hoover-legacy-40-years-after ; https://history.house.gov/Institution/Lie-In-State/Lie-In-State-Honor/ — FBI.gov says 'no other civil servant'; the House list shows civilian elected officials (Clay 1852, Lincoln, Stevens, Sumner, Dirksen 1969) before Hoover"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "afforded to no other civil servant before or since"
+  qualifier: ""
+  span: "an honor afforded to no other civil servant before or since"
+  url: https://www.fbi.gov/news/stories/the-hoover-legacy-40-years-after
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -83,7 +99,7 @@ Hoover's death removes the personal operator who had built and sustained the int
 
 ## Broader Context
 
-Hoover's funeral was attended by Nixon, Congressional leaders, and foreign intelligence officials. Hoover became the first non-military federal official to lie in state at the U.S. Capitol Rotunda. The public ceremony obscured what internal FBI officials understood — that the death was the most significant institutional event in the Bureau's 64-year history. Subsequent FBI directors (Kelley 1973-1978, Webster 1978-1987, Sessions 1987-1993, Freeh 1993-2001, Mueller 2001-2013, Comey 2013-2017, Wray 2017-2025) have each had institutional authority that depends on formal appointment and statutory term, not on personal leverage of Hoover's kind.
+Hoover's funeral was attended by Nixon, Congressional leaders, and foreign intelligence officials. Congress ordered Hoover's body to lie in state in the U.S. Capitol Rotunda, an honor the FBI says has been "afforded to no other civil servant before or since" (FBI.gov); elected officials, beginning with Henry Clay in 1852, had lain in state there before him (House Historian). The public ceremony obscured what internal FBI officials understood — that the death was the most significant institutional event in the Bureau's 64-year history. Subsequent FBI directors (Kelley 1973-1978, Webster 1978-1987, Sessions 1987-1993, Freeh 1993-2001, Mueller 2001-2013, Comey 2013-2017, Wray 2017-2025) have each had institutional authority that depends on formal appointment and statutory term, not on personal leverage of Hoover's kind.
 
 ## Research Gaps
 

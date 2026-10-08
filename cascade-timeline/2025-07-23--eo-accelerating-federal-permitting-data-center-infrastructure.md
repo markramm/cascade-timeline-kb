@@ -4,7 +4,7 @@ id: 2025-07-23--eo-accelerating-federal-permitting-data-center-infrastructure
 date: '2025-07-23'
 title: "Trump signs Executive Order 'Accelerating Federal Permitting of Data Center Infrastructure' — 100 MW threshold, NEPA categorical-exclusion creation directive, <50% federal-financial-assistance carve-out from NEPA 'major Federal action'"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - investigation-6
   - datacenter
@@ -69,6 +69,53 @@ capture_lanes:
 coverage:
   - url: https://theramm.transparencycascade.org/p/disarming-ai-what-does-it-mean-to
     title: 'Disarming AI: What does it mean to "Disarm AI?"'
+corrections:
+- date: '2026-10-08'
+  was: "### Federal land authorization (Section 3)"
+  now: "### Federal lands availability (Section 9)"
+  why: "https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure — Sec. 3 Encouraging Qualifying Projects (Commerce); Sec. 4 Revocation of EO 14141; Sec. 9 Federal Lands Availability (Interior/Energy offer authorizations for identified sites; Defense identifies sites and leases land)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "loans, loan guarantees, grants, tax incentives, equity investments, political-risk insurance, credit guarantees — for Qualifying Projects, with the implicit purpose that the support stay under 50% of project cost so as not to trigger NEPA \"major Federal action\" treatment under Section 5(c)."
+  now: "\"which could include loans and loan guarantees, grants, tax incentives, and offtake agreements,\" for Qualifying Projects, and directs all relevant agencies to identify existing financial support that can be used to assist them. Section 3 itself says nothing about keeping support under 50% of project cost; the 50% presumption is in Section 5(c)."
+  why: "https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure — Sec. 3: 'loans and loan guarantees, grants, tax incentives, and offtake agreements'; 'equity', 'political-risk insurance' and 'credit guarantee' do not appear; the 50% figure is in Sec. 5(c) only"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "to \"expedite the permitting of Qualifying Projects.\""
+  now: "to \"assist in expediting permitting on Federal and non-Federal lands,\" in each case as the statutes \"impact the development of Qualifying Projects\" (and other relevant applicable laws)."
+  why: "https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure — Sec. 7(a): 'shall assist in expediting permitting on Federal and non-Federal lands by developing or modifying regulations promulgated under the Clean Air Act ...'; the quoted phrase 'expedite the permitting of Qualifying Projects' does not appear"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "This single sentence is the largest operational rollback in the order: it removes from NEPA jurisdiction every datacenter project where federal subsidies, loan guarantees, grants, or tax incentives stay under half of project cost — which is to say, virtually all of them."
+  now: "The order adds a presumption: \"for purposes of this order,\" federal financial assistance under 50 percent of total project costs is presumed not to be substantial federal control, consistent with the existing statutory exclusion at 42 U.S.C. 4336e(10)(B)(iii). A project that needs other federal actions, such as permits or federal land, can still trigger NEPA review; no cited source counts how many projects fall under the presumption."
+  why: "https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure — Sec. 5(c): assistance for which an agency lacks substantial project-specific control 'shall not be considered a major Federal action'; 'For purposes of this order,' assistance under 50 percent of total project costs 'shall be presumed not to constitute substantial Federal control and responsibility'; the exclusion already exists in 42 U.S.C. 4336e(10)(B)(iii); projects needing other federal actions can still trigger NEPA"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: "quote"
+  value: "Federal Lands Availability"
+  qualifier: ""
+  span: "Federal Lands Availability"
+  url: https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "loans and loan guarantees, grants, tax incentives, and offtake agreements"
+  qualifier: ""
+  span: "which could include loans and loan guarantees, grants, tax incentives, and offtake agreements"
+  url: https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "assist in expediting permitting on Federal and non-Federal lands"
+  qualifier: ""
+  span: "shall assist in expediting permitting on Federal and non-Federal lands by developing or modifying regulations"
+  url: https://www.federalregister.gov/documents/2025/07/28/2025-14212/accelerating-federal-permitting-of-data-center-infrastructure
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -85,7 +132,7 @@ The order defines a "Qualifying Project" as a Data Center Project or Covered Com
 
 - **10-day deadline (Section 5(a))**: Each relevant agency must identify to the Council on Environmental Quality any categorical exclusions already established or adopted under NEPA, reliance on which by agencies could facilitate construction of Qualifying Projects.
 - **New CX creation (Section 5(b))**: CEQ shall coordinate with relevant agencies to establish *new* categorical exclusions covering Qualifying Project actions that "normally do not have a significant effect on the human environment."
-- **The <50% federal-financial-assistance carve-out (Section 5(c))**: "Federal financial assistance representing less than 50 percent of total project costs shall be presumed not to constitute substantial Federal control and responsibility" — meaning such projects are presumptively not "major Federal action" under NEPA's reference to 42 U.S.C. § 4336e(10)(B)(iii). This single sentence is the largest operational rollback in the order: it removes from NEPA jurisdiction every datacenter project where federal subsidies, loan guarantees, grants, or tax incentives stay under half of project cost — which is to say, virtually all of them.
+- **The <50% federal-financial-assistance carve-out (Section 5(c))**: "Federal financial assistance representing less than 50 percent of total project costs shall be presumed not to constitute substantial Federal control and responsibility" — meaning such projects are presumptively not "major Federal action" under NEPA's reference to 42 U.S.C. § 4336e(10)(B)(iii). The order adds a presumption: "for purposes of this order," federal financial assistance under 50 percent of total project costs is presumed not to be substantial federal control, consistent with the existing statutory exclusion at 42 U.S.C. 4336e(10)(B)(iii). A project that needs other federal actions, such as permits or federal land, can still trigger NEPA review; no cited source counts how many projects fall under the presumption.
 
 ### EPA directives under Clean Air Act, Clean Water Act, CERCLA, TSCA (Section 7)
 
@@ -96,17 +143,17 @@ Section 7(a) directs the EPA Administrator (Lee Zeldin) to develop or modify reg
 - the Comprehensive Environmental Response, Compensation, and Liability Act / CERCLA (42 U.S.C. 9601 et seq.)
 - the Toxic Substances Control Act / TSCA (15 U.S.C. 2601 et seq.)
 
-to "expedite the permitting of Qualifying Projects." Section 7(b) requires EPA to develop guidance within 180 days on the reuse of Brownfield and Superfund sites for Qualifying Projects.
+to "assist in expediting permitting on Federal and non-Federal lands," in each case as the statutes "impact the development of Qualifying Projects" (and other relevant applicable laws). Section 7(b) requires EPA to develop guidance within 180 days on the reuse of Brownfield and Superfund sites for Qualifying Projects.
 
-### Federal land authorization (Section 3)
+### Federal lands availability (Section 9)
 
-Directs the Departments of the Interior, Energy, and Defense to identify and authorize Qualifying Project siting on appropriate federal lands. Implementation surfaced one day later with the DOE's [[2025-07-24--doe-announces-four-federal-sites-ai-data-centers]] selection of Idaho National Laboratory, Oak Ridge Reservation, Paducah Gaseous Diffusion Plant, and Savannah River Site.
+Section 9(a) has Interior and Energy offer authorizations for sites that the Secretary of the Interior or the Secretary of Energy identifies; Section 9(b) has the Secretary of Defense identify suitable sites on military installations and competitively lease available land for Qualifying Projects. Implementation surfaced one day later with the DOE's [[2025-07-24--doe-announces-four-federal-sites-ai-data-centers]] selection of Idaho National Laboratory, Oak Ridge Reservation, Paducah Gaseous Diffusion Plant, and Savannah River Site.
 
-### Commerce financial-support program (Section 4)
+### Commerce financial-support initiative (Section 3)
 
-Directs the Secretary of Commerce (Howard Lutnick) to launch an initiative providing financial support — loans, loan guarantees, grants, tax incentives, equity investments, political-risk insurance, credit guarantees — for Qualifying Projects, with the implicit purpose that the support stay under 50% of project cost so as not to trigger NEPA "major Federal action" treatment under Section 5(c).
+Directs the Secretary of Commerce (Howard Lutnick) to launch an initiative providing financial support — "which could include loans and loan guarantees, grants, tax incentives, and offtake agreements," for Qualifying Projects, and directs all relevant agencies to identify existing financial support that can be used to assist them. Section 3 itself says nothing about keeping support under 50% of project cost; the 50% presumption is in Section 5(c).
 
-### Revocation of prior framework
+### Revocation of prior framework (Section 4)
 
 The order expressly revokes the Biden-era January 2025 datacenter EO that had required environmental reviews and alignment with clean-energy goals.
 
@@ -122,7 +169,7 @@ The EO contains **no explicit FERC, interconnection, or energy-emergency provisi
 
 The July 23 EO is one of three orders signed the same day: this permitting EO, an EO on AI exports tasking Commerce/Lutnick with the "American AI Exports Program," and an EO on AI ideological-bias. All three accompany the *AI Action Plan* document released the same day. The package is the operational counterpart to Trump's January 20, 2025 [[2025-01-20--ethics-infrastructure-dismantled]] day-one rescission of ethics constraints on non-PAS appointees inside the agencies (EPA, DOE, Interior, Commerce) that now execute the datacenter buildout — the personnel layer was cleared before the policy layer was constructed.
 
-The named architects: **Howard Lutnick (Commerce)** runs the financial-support program (Section 4) and the AI-exports program; his sons Brandon and Kyle continue to operate Cantor Fitzgerald and Newmark Group, where Newmark brokers data-center real-estate deals (see [[lutnick-howard]]). **Chris Wright (Energy)** — Liberty Energy founder, vice-chair of Burgum's National Energy Dominance Council — directs FERC's large-load rulemaking and runs the DOE federal-site selection (Section 3). **Doug Burgum (Interior)** chairs the National Energy Dominance Council and personally signs off on all wind/solar approvals on federal land (Secretary's Order, July 17, 2025), creating an asymmetric environment where fossil-fuel and AI-datacenter permits flow while renewable-energy permits stall at the Secretary's desk. **David Sacks (AI & Crypto Czar)** — Founders Fund / Craft Ventures — drafted the AI Action Plan and shaped the EO's directive structure before stepping down March 2026.
+The named architects: **Howard Lutnick (Commerce)** runs the financial-support program (Section 3) and the AI-exports program; his sons Brandon and Kyle continue to operate Cantor Fitzgerald and Newmark Group, where Newmark brokers data-center real-estate deals (see [[lutnick-howard]]). **Chris Wright (Energy)** — Liberty Energy founder, vice-chair of Burgum's National Energy Dominance Council — directs FERC's large-load rulemaking and runs the DOE federal-site selection (Section 9). **Doug Burgum (Interior)** chairs the National Energy Dominance Council and personally signs off on all wind/solar approvals on federal land (Secretary's Order, July 17, 2025), creating an asymmetric environment where fossil-fuel and AI-datacenter permits flow while renewable-energy permits stall at the Secretary's desk. **David Sacks (AI & Crypto Czar)** — Founders Fund / Craft Ventures — drafted the AI Action Plan and shaped the EO's directive structure before stepping down March 2026.
 
 The 100 MW threshold and the <50% federal-financial-assistance carve-out are also operationally beneficial to crypto miners pivoting to AI/HPC hosting (Marathon → MARA, Riot, Core Scientific, CleanSpark) — entities whose energy-demand footprint is functionally identical to AI datacenters from the grid's perspective.
 

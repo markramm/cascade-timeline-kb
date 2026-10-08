@@ -4,7 +4,7 @@ id: 2026-03-16--puct-project-58484-4cp-transmission-cost-draft-report
 date: '2026-03-16'
 title: "PUCT issues draft report in Project 58484 recommending Texas shift from 4CP to multi-peak transmission cost methodology — final rules required by December 31, 2026"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - investigation-6
   - texas
@@ -47,6 +47,66 @@ capture_lanes:
 coverage:
   - url: "https://theramm.transparencycascade.org/p/the-electric-bill-how-texas-consumers"
     title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
+corrections:
+- date: '2026-10-08'
+  was: "The number of customers actively participating in 4CP avoidance programs increased from 418 in 2022 to 1,080 in 2024, per PUCT staff findings."
+  now: "ERCOT reported that the number of large customers responding to 4CP rose from 418 in 2022 to 1,080 in 2024 (ERCOT, 2024 Annual Report on Demand Response, as cited in NRG's February 25, 2025 remarks to the PUCT)."
+  why: "https://www.nrg.com/assets/documents/energy-policy/ercot-transmission-costs-and-rate-design-remarks-on-feb-25-2025.pdf — 'ERCOT has reported that the number of large customers responding to 4CP has escalated rapidly, increasing from 418 in 2022 to 1,080 in 2024' (fn.12: ERCOT 2024 Annual Report on Demand Response); not PUCT staff findings"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "meaning the disparity has widened as 4CP avoidance has become more widespread."
+  now: "meaning the disparity has widened. NRG, a market participant, presented these figures in remarks to the PUCT on February 25, 2025, drawn from CenterPoint rate-case schedules (PUCT Docket Nos. 56211 and 49421); they are not findings of the March 2026 draft report."
+  why: "https://www.nrg.com/assets/documents/energy-policy/ercot-transmission-costs-and-rate-design-remarks-on-feb-25-2025.pdf pp.3-4 — the 33%/49%, 34%/46.6% and $66.76/kW-year figures are NRG's, drawn from CenterPoint rate-case schedules (Docket Nos. 56211, 49421), in remarks of Feb 25, 2025, thirteen months before the draft report; fn.10: actual 4CP rates for the largest DSPs range from $40,000 to $76,000 per MW-year"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "ERCOT is projected to invest $14.9 billion in new, repaired, and upgraded transmission lines in 2025-2027, compared to $7.2 billion in 2022-2024 — a 50% increase driven in significant part by large-load interconnection requests."
+  now: "ERCOT forecasts that the amount of new, repaired, and upgraded transmission lines will rise 50% in 2025-2027 compared with 2022-2024, with investment of $14.9 billion against $7.2 billion in the prior three years, more than double (Texas Public Policy Foundation, January 2026, citing ERCOT), driven in significant part by large-load interconnection requests."
+  why: "https://www.texaspolicy.com/wp-content/uploads/2026/01/2026-01-LP-Transmission-Costs-BennettPiracci.pdf p.3 — 'ERCOT forecasts that the total amount of new, repaired, and upgraded lines will increase 50% in 2025, 2026, and 2027 compared to 2022, 2023, and 2024, with investment totaling $14.9 billion, compared to $7.2 billion the prior three years'; the cited NRG PDF says only '$14.90 billion in transmission projects have been approved'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The draft report is the first formal PUCT determination that the 4CP methodology is inadequate — confirming what SB 6 presumed when it mandated the review."
+  now: "In the draft report, Commission Staff found that the 4CP framework \"does not capture winter scarcity events\" and lets sophisticated large customers cut their transmission charges \"without a commensurate reduction in the system costs they cause\"; Staff put six draft recommendations out for comment ahead of a final report, and the Commission has not adopted them (K&L Gates, March 30, 2026) — consistent with what SB 6 presumed when it mandated the review."
+  why: "https://www.klgates.com/Request-for-Comments-on-Texas-PUCT-Draft-Report-Regarding-Transmission-Cost-Recovery-in-the-ERCOT-Region-3-30-2026 — Staff 'found that this framework does not capture winter scarcity events'; 'draft recommendations' due for comment April 13, 2026 'prior to the issuance of a final report'; 'if adopted'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The gap's widening from 2018 to 2023 corresponds precisely to the growth of organized 4CP avoidance participation (418 → 1,080 participants)."
+  now: "NRG tied two separate series together, calling the impact \"apparent\": the CenterPoint gap widened from 2018 to 2023, and ERCOT's count of large customers responding to 4CP rose from 418 in 2022 to 1,080 in 2024. The series cover different years and are not aligned year by year."
+  why: "https://www.nrg.com/assets/documents/energy-policy/ercot-transmission-costs-and-rate-design-remarks-on-feb-25-2025.pdf p.4 — 'the impact is apparent'; the responder counts cover 2022-2024 and the allocation gap covers 2018 vs 2023"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "1,080 in 2024"
+  qualifier: "large customers responding to 4CP"
+  span: "the number of large customers responding to 4CP has escalated rapidly, increasing from 418 in 2022 to 1,080 in 2024"
+  url: https://www.nrg.com/assets/documents/energy-policy/ercot-transmission-costs-and-rate-design-remarks-on-feb-25-2025.pdf
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "49%"
+  qualifier: "allocated of transmission costs"
+  span: "residential consumers used 33% of the electricity but were allocated 49% of the transmission costs"
+  url: https://www.nrg.com/assets/documents/energy-policy/ercot-transmission-costs-and-rate-design-remarks-on-feb-25-2025.pdf
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "$14.9 billion"
+  qualifier: "investment"
+  span: "with investment totaling $14.9 billion, compared to $7.2 billion the prior three years"
+  url: https://www.texaspolicy.com/wp-content/uploads/2026/01/2026-01-LP-Transmission-Costs-BennettPiracci.pdf
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: "does not capture winter scarcity events"
+  qualifier: "Commission Staff found"
+  span: "Commission Staff found that this framework does not capture winter scarcity events"
+  url: https://www.klgates.com/Request-for-Comments-on-Texas-PUCT-Draft-Report-Regarding-Transmission-Cost-Recovery-in-the-ERCOT-Region-3-30-2026
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -59,9 +119,9 @@ On March 16, 2026, the Public Utility Commission of Texas (PUCT) issued a draft 
 
 **The 4CP avoidance problem**: Under the current methodology, ERCOT charges wholesale transmission costs to distribution service providers (DSPs) based on each DSP's load share during four summer coincident peak intervals (June, July, August, September — one peak per month). Large flexible loads — primarily crypto miners and some data centers — systematically curtail consumption during predicted peak windows to minimize their 4CP "tag" and avoid proportional transmission charges. The PUCT draft report finds this mechanism "does not capture winter scarcity events" and allows sophisticated customers to reduce charges without reducing actual system costs.
 
-**Documented residential cost-shift**: In the CenterPoint Energy Houston Electric service territory in 2023, residential customers used 33% of system electricity but were allocated 49% of transmission costs — a 16-percentage-point overallocation gap. In 2018, the gap was 12.6 percentage points (34% usage / 46.6% allocation), meaning the disparity has widened as 4CP avoidance has become more widespread. The number of customers actively participating in 4CP avoidance programs increased from 418 in 2022 to 1,080 in 2024, per PUCT staff findings.
+**Documented residential cost-shift**: In the CenterPoint Energy Houston Electric service territory in 2023, residential customers used 33% of system electricity but were allocated 49% of transmission costs — a 16-percentage-point overallocation gap. In 2018, the gap was 12.6 percentage points (34% usage / 46.6% allocation), meaning the disparity has widened. NRG, a market participant, presented these figures in remarks to the PUCT on February 25, 2025, drawn from CenterPoint rate-case schedules (PUCT Docket Nos. 56211 and 49421); they are not findings of the March 2026 draft report. ERCOT reported that the number of large customers responding to 4CP rose from 418 in 2022 to 1,080 in 2024 (ERCOT, 2024 Annual Report on Demand Response, as cited in NRG's February 25, 2025 remarks to the PUCT).
 
-**A 500 MW large load can avoid $33.4 million per year** in transmission charges by successfully curtailing during the four 15-minute peak intervals — at the current ERCOT transmission rate of $66.76/kW-year. This is the per-project order of magnitude of the cost shifted to other ratepayers.
+**A 500 MW large load can avoid $33.4 million per year** in transmission charges by successfully curtailing during the four 15-minute peak intervals — at the ERCOT transmission rate of $66.76/kW-year cited by NRG in February 2025 (NRG notes that actual 4CP rates for the largest delivery service providers range from $40,000 to $76,000 per MW-year). This is the per-project order of magnitude of the cost shifted to other ratepayers.
 
 **Six draft recommendations**:
 1. Shift from 4CP to "a methodology utilizing a greater number of coincident peaks"
@@ -71,7 +131,7 @@ On March 16, 2026, the Public Utility Commission of Texas (PUCT) issued a draft 
 5. Mandate annual updates to transmission cost recovery factor class allocation values (instead of only updating during rate proceedings)
 6. Impose minimum demand charges "based on contracted peak demand" for 10–15 years for large loads
 
-**ERCOT transmission investment context**: ERCOT is projected to invest $14.9 billion in new, repaired, and upgraded transmission lines in 2025-2027, compared to $7.2 billion in 2022-2024 — a 50% increase driven in significant part by large-load interconnection requests. As of November 2025, the ERCOT interconnection queue contained approximately 226 GW (later revised to ~445 GW of large load requests) with 77% from data centers.
+**ERCOT transmission investment context**: ERCOT forecasts that the amount of new, repaired, and upgraded transmission lines will rise 50% in 2025-2027 compared with 2022-2024, with investment of $14.9 billion against $7.2 billion in the prior three years, more than double (Texas Public Policy Foundation, January 2026, citing ERCOT), driven in significant part by large-load interconnection requests. As of November 2025, the ERCOT interconnection queue contained approximately 226 GW (later revised to ~445 GW of large load requests) with 77% from data centers.
 
 **Residential dollar quantification gap**: No proceeding document in Project 58484, no PUCT staff analysis, and no stakeholder filing identified in available sources quantifies the aggregate annual dollar amount that Texas residential customers would save from the 4CP methodology reform. This is the specific number needed to close the Texas entry in the five-state ratepayer cost-shift map. The per-project avoidance figure ($33.4M/year per 500 MW) provides a floor estimate, but the aggregate residential-bill impact requires PUCT actuarial modeling not yet published.
 
@@ -86,9 +146,9 @@ On March 16, 2026, the Public Utility Commission of Texas (PUCT) issued a draft 
 
 ## Why This Event Matters
 
-The 4CP avoidance problem is the ERCOT-specific mechanism through which data centers and crypto miners have shifted transmission infrastructure costs onto residential ratepayers. Unlike PJM states, where the cost-shift operates through capacity-market pricing and ratebase inclusion, ERCOT's deregulated structure routes the shift through the 4CP wholesale transmission charge allocation. The draft report is the first formal PUCT determination that the 4CP methodology is inadequate — confirming what SB 6 presumed when it mandated the review.
+The 4CP avoidance problem is the ERCOT-specific mechanism through which data centers and crypto miners have shifted transmission infrastructure costs onto residential ratepayers. Unlike PJM states, where the cost-shift operates through capacity-market pricing and ratebase inclusion, ERCOT's deregulated structure routes the shift through the 4CP wholesale transmission charge allocation. In the draft report, Commission Staff found that the 4CP framework "does not capture winter scarcity events" and lets sophisticated large customers cut their transmission charges "without a commensurate reduction in the system costs they cause"; Staff put six draft recommendations out for comment ahead of a final report, and the Commission has not adopted them (K&L Gates, March 30, 2026) — consistent with what SB 6 presumed when it mandated the review.
 
-The residential cost-shift in CenterPoint's territory (33% of energy use / 49% of transmission charges) is the quantified evidence that the mechanism is producing outsized residential overcharges. The gap's widening from 2018 to 2023 corresponds precisely to the growth of organized 4CP avoidance participation (418 → 1,080 participants). The six draft recommendations address both the methodology flaw and the forward-looking large-load cost-allocation gap, but the final rules are not yet adopted.
+The residential cost-shift in CenterPoint's territory (33% of energy use / 49% of transmission charges) is the quantified evidence that the mechanism is producing outsized residential overcharges. NRG tied two separate series together, calling the impact "apparent": the CenterPoint gap widened from 2018 to 2023, and ERCOT's count of large customers responding to 4CP rose from 418 in 2022 to 1,080 in 2024. The series cover different years and are not aligned year by year. The six draft recommendations address both the methodology flaw and the forward-looking large-load cost-allocation gap, but the final rules are not yet adopted.
 
 This is a watch task: the December 31, 2026 final-rule deadline has not passed, and the six draft recommendations remain proposals subject to stakeholder comment and Commission revision. The dollar magnitude of residential savings from any adopted methodology change is not yet quantified in any public document.
 

@@ -4,7 +4,7 @@ id: 2026-09-01--fetterman-letter-ice-venturella-236k-owed-moshannon-valley-ems
 date: '2026-09-01'
 title: "Fetterman Letter Demands ICE Pay $236,124.91 Owed to Moshannon Valley EMS, Sets Sept 15 Response Deadline"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - detention-pipeline
   - moshannon-valley
@@ -51,6 +51,40 @@ related_events:
   - 2026-03-19--mullin-committee-vote-8-7-fetterman-decisive
   - 2026-05-13--venturella-geo-group-executive-named-acting-ice-director
   - 2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure
+corrections:
+- date: '2026-10-08'
+  was: "he spent 12 years at GEO Group — the same company that owns and operates the Moshannon Valley Processing Center generating the EMS calls at issue — before being named acting ICE director on May 13, 2026."
+  now: "he left ICE in 2012 to join GEO Group — the same company that owns and operates the Moshannon Valley Processing Center generating the EMS calls at issue — and returned to the agency in 2025 (CNN via KVIA, May 12, 2026). DHS announced on May 12, 2026 that he would become acting ICE director, and he took office on June 1, 2026."
+  why: "CNN via KVIA, May 12, 2026 (Venturella left ICE 2012 for GEO, returned 2025; DHS announced May 12; took office June 1); Washington Post, June 4, 2026 — cited letter PDF names Venturella only as 'Senior Official Performing the Duties of the Director'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The letter sits inside a nine-month arc already in canon"
+  now: "The letter sits inside an eleven-month arc already in canon"
+  why: "https://www.fetterman.senate.gov/wp-content/uploads/2026/09/2026.09.01_Fetterman-Letter-to-ICE-Delayed-Payments-to-Medical-Service-Providers.pdf — the letter dates the VA/ICE contract termination Oct 3, 2025; Oct 2025 to Sept 2026 is eleven months"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "where Clearfield County absorbs uncompensated EMS costs while receiving a flat $200,000 annual intermediary fee."
+  now: "where the uncompensated cost falls on a rural EMS provider while Clearfield County, the contract intermediary, receives a $200,000-a-year administrative fee from GEO Group (Spotlight PA, Oct 2025)."
+  why: "https://www.fetterman.senate.gov/wp-content/uploads/2026/09/2026.09.01_Fetterman-Letter-to-ICE-Delayed-Payments-to-Medical-Service-Providers.pdf — unpaid bills are owed to MVEMS; Spotlight PA (Oct 2025): GEO pays the county a $200,000 administrative fee"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "October 3, 2025"
+  qualifier: "VA and ICE terminated"
+  span: "On October 3, 2025, the Veterans Affairs Administration (VA) and ICE abruptly terminated this decades-long contract."
+  url: https://www.fetterman.senate.gov/wp-content/uploads/2026/09/2026.09.01_Fetterman-Letter-to-ICE-Delayed-Payments-to-Medical-Service-Providers.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: figure
+  value: "$236,124.91"
+  qualifier: "MVEMS"
+  span: "As of August 20, 2025, ICE owes MVEMS $236,124.91 in overdue payments, because of the reimbursement freeze."
+  url: https://www.fetterman.senate.gov/wp-content/uploads/2026/09/2026.09.01_Fetterman-Letter-to-ICE-Delayed-Payments-to-Medical-Service-Providers.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening paragraph
@@ -96,15 +130,15 @@ This is a HARM/accountability thread (medical nonpayment threatening EMS solvenc
 
 ## The letter's recipient, in context
 
-David J. Venturella is not a neutral bureaucratic addressee. Per [[2026-05-13--venturella-geo-group-executive-named-acting-ice-director]], he spent 12 years at GEO Group — the same company that owns and operates the Moshannon Valley Processing Center generating the EMS calls at issue — before being named acting ICE director on May 13, 2026. Per [[2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure]], he separately issued a June 4, 2026 memo ending ICE's post-release death-reporting requirement, reversing a 2021 transparency rule. Fetterman's demand for a "statistical impact report" on payment-delay harms therefore goes to the same official who, three months earlier, narrowed what the agency is required to publicly report about detainee harm. This entry does not allege a causal connection between the two acts — it notes the structural fact that the transparency-narrowing official and the accountability-demand recipient are the same person.
+David J. Venturella is not a neutral bureaucratic addressee. Per [[2026-05-13--venturella-geo-group-executive-named-acting-ice-director]], he left ICE in 2012 to join GEO Group — the same company that owns and operates the Moshannon Valley Processing Center generating the EMS calls at issue — and returned to the agency in 2025 (CNN via KVIA, May 12, 2026). DHS announced on May 12, 2026 that he would become acting ICE director, and he took office on June 1, 2026. Per [[2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure]], he separately issued a June 4, 2026 memo ending ICE's post-release death-reporting requirement, reversing a 2021 transparency rule (Washington Post, June 4, 2026). Fetterman's demand for a "statistical impact report" on payment-delay harms therefore goes to the same official who, three months earlier, narrowed what the agency is required to publicly report about detainee harm. This entry does not allege a causal connection between the two acts — it notes the structural fact that the transparency-narrowing official and the accountability-demand recipient are the same person.
 
 ## Why This Event Matters
 
-This is a named, dated, dollar-denominated congressional demand landing directly on the mechanism this corpus has tracked since the October 2025 VA/ICE contract termination: a federal detention system that generates emergency medical calls it has no functioning system to pay for, pushed onto rural providers with no scale to absorb the float. MVEMS's $236,124.91 receivable is not an isolated billing dispute — it is the same fiscal-asymmetry pattern documented in [[2026-09-09--clearfield-county-tables-moshannon-six-month-extension-vote-sept-22]], where Clearfield County absorbs uncompensated EMS costs while receiving a flat $200,000 annual intermediary fee. Fetterman's letter converts that pattern into a specific, falsifiable federal accountability question — a number, a deadline, a named recipient — that ICE either answers or does not.
+This is a named, dated, dollar-denominated congressional demand landing directly on the mechanism this corpus has tracked since the October 2025 VA/ICE contract termination: a federal detention system that generates emergency medical calls it has no functioning system to pay for, pushed onto rural providers with no scale to absorb the float. MVEMS's $236,124.91 receivable is not an isolated billing dispute — it is the same fiscal-asymmetry pattern documented in [[2026-09-09--clearfield-county-tables-moshannon-six-month-extension-vote-sept-22]], where the uncompensated cost falls on a rural EMS provider while Clearfield County, the contract intermediary, receives a $200,000-a-year administrative fee from GEO Group (Spotlight PA, Oct 2025). Fetterman's letter converts that pattern into a specific, falsifiable federal accountability question — a number, a deadline, a named recipient — that ICE either answers or does not.
 
 ## Broader Context
 
-The letter sits inside a nine-month arc already in canon: VA/ICE contract termination (2025-10-03) → IHSC portal announcement (2026-01-13) → missed April 30, 2026 launch → still non-functional as of September 2026 → this letter (2026-09-01) → public announcement (2026-09-11) → deadline (2026-09-15, unmet as of this writing). The Clearfield County commissioners' own six-month extension vote was tabled to September 22, 2026, the same week this letter's deadline lapsed — placing local officials' decision on whether to keep signing for the facility directly alongside a live, unanswered federal accountability demand about the facility's unpaid medical bills.
+The letter sits inside an eleven-month arc already in canon: VA/ICE contract termination (2025-10-03) → IHSC portal announcement (2026-01-13) → missed April 30, 2026 launch → still non-functional as of September 2026 → this letter (2026-09-01) → public announcement (2026-09-11) → deadline (2026-09-15, unmet as of this writing). The Clearfield County commissioners' own six-month extension vote was tabled to September 22, 2026, the same week this letter's deadline lapsed — placing local officials' decision on whether to keep signing for the facility directly alongside a live, unanswered federal accountability demand about the facility's unpaid medical bills.
 
 ## Research Gaps
 

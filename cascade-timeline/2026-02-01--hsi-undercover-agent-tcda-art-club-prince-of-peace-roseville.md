@@ -31,7 +31,7 @@ sources:
   tier: 1
 importance: 8
 date: '2026-02-01'
-status: confirmed
+status: reported
 coverage: []
 actors:
 - Homeland Security Investigations
@@ -43,6 +43,35 @@ actors:
 - Prince of Peace Lutheran Church (Roseville)
 capture_lanes:
 - Civil Rights Suppression
+corrections:
+- date: '2026-10-08'
+  was: "seventeen minutes after the meeting ended at 5:00"
+  now: "39 minutes after the 3:00-5:00 p.m. meeting ended"
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf (Doc. 212-21, OCR): 'held from 3:00 p.m. to 5:00 p.m.'; 'at approximately 5:39 p.m., Special Agents ... conducted a debrief of UCA 9843'; interview concluded about 6:08 p.m."
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a separate intelligence workup of vehicle registrations from the church parking lot was compiled and appended to the case file alongside them — meaning attendees' license plates, not just their faces, were run and matched to the meeting."
+  now: "an intel workup of the registrations of \"vehicles in attendance for the meeting\" and the photo sheets were placed in the case file; the ROI does not say where the plates were recorded."
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf pp.4-5 — 'The intel workup of the registrations and the photos that were shown to UCA9843 ... were placed into the electronic case file'; 'intel workup of vehicles in attendance for the meeting'; the ROI never mentions a parking lot"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "5:39 p.m."
+  qualifier: "debrief"
+  span: "On February 1, 2026, at approximately 5:39 p.m., Special Agents (SA) James Cutbirth and Jacob Marquis conducted a debrief of UCA 9843."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "vehicles in attendance for the meeting"
+  qualifier: "intel workup"
+  span: "The intel workup of vehicles in attendance for the meeting and the photo sheets A through E have been added"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -71,23 +100,23 @@ Doc. 227 also records Kennedy speaking at an April 18, 2026 event and discussing
 
 **Tradecraft at the meeting itself.** UCA 9843 entered through a side door, followed a hallway, and reached a meeting room that was the last door on the left. Attendees were required to turn off phone Bluetooth and switch devices to airplane mode; some placed phones in Faraday bags. UCA 9843 recalled roughly ten people present.
 
-**The debrief and its verbatim caveat.** SAs James Cutbirth and Jacob Marquis debriefed UCA 9843 at approximately 5:39 p.m., seventeen minutes after the meeting ended at 5:00. The ROI states explicitly: "The summary is not intended to be a verbatim account of the interview and does not memorialize all statements made during the interview." Everything below is filtered through that caveat.
+**The debrief and its verbatim caveat.** SAs James Cutbirth and Jacob Marquis debriefed UCA 9843 at approximately 5:39 p.m., 39 minutes after the 3:00-5:00 p.m. meeting ended. The ROI states explicitly: "The summary is not intended to be a verbatim account of the interview and does not memorialize all statements made during the interview." Everything below is filtered through that caveat.
 
 **Individuals described.** Every other attendee UCA 9843 described to the debriefing agents is redacted in the filed document — physical description, pronouns, hair color, vehicle, and any inferred identity are blacked out line by line. The exception is "Cam Kennedy" — per the correction above, defendant Cameron Kennedy. The ROI describes him as a white male, roughly 160 pounds, brown hair, a self-proclaimed anarchist known to attend "Left Jab" — described in the ROI as "a leftist martial arts group that teaches classes on how to 'unarrest' and 'swarm' law enforcement in order to free individuals that have been taken into custody." He discussed TCDA finances: approximately $5,000 raised for a January 23 blockade from about 100 donors, with the bulk of the money coming from 20-30 people; he is recorded as "the main person pushing for funds" and wanting "to stockpile materials to assist with other organizations." He is also recorded describing the situation as "on the precipice of a revolution," calling conservatives "the regime," and saying his neighborhood street has an informal blockade that slows any vehicle attempting to pass, including ICE vehicles.
 
 **Topics discussed**, per the ROI: communications strategy (including a comment, attributed to a redacted speaker, about the importance of reaching people "who are radicalized but don't realize it yet"), financing via an "open collective" go-fund-style platform, and marketing via social media and text messaging. No specific "direct action" was discussed, per the report's own account. Attendees agreed to bring two to three action items to a follow-up meeting on February 5, 2026, to establish TCDA's stated purpose. Discussion also touched "doxing," frustration with ICE agents' individual conduct records, and an "ICE Agent of the Day" Instagram strategy that attendees applauded. TCDA members discussed "re-vetting" membership out of stated concern about infiltration — the same meeting an undercover federal agent was, at that moment, sitting inside.
 
-**The photo array.** After the debrief, UCA 9843 was shown photographs labeled A through E, referenced in the case file as "1 February 2026 for a list of the pictures shown to UCA – Prince of Peace Roseville – Registration Plates," and asked to identify attendees against them. UCA 9843 made identifications, redacted in the unsealed copy. An agent's note specifies these photo sheets were the only materials shown during the debrief, and that a separate intelligence workup of vehicle registrations from the church parking lot was compiled and appended to the case file alongside them — meaning attendees' license plates, not just their faces, were run and matched to the meeting.
+**The photo array.** After the debrief, UCA 9843 was shown photographs labeled A through E, referenced in the case file as "1 February 2026 for a list of the pictures shown to UCA – Prince of Peace Roseville – Registration Plates," and asked to identify attendees against them. UCA 9843 made identifications, redacted in the unsealed copy. An agent's note specifies these photo sheets were the only materials shown during the debrief, and that an intel workup of the registrations of "vehicles in attendance for the meeting" and the photo sheets were placed in the case file; the ROI does not say where the plates were recorded.
 
 **Action items sent to attendees afterward** (per the ROI, presumably captured because UCA 9843 was on the distribution list): review "open collective" and alternative fund-handling systems; share campaign ideas; share media connections and platform roles; set up a Proton email address. The debrief concluded at 6:08 p.m.
 
 ## Why It Matters
 
-**A church parking lot's registrations were matched to a photo-identification procedure — a heavier-weight investigative tool than the plate-logging alone seen at St. John's (see [[2026-04-14--hsi-surveillance-st-johns-church-st-paul-plate-collection]]).** This is not passive collection; it is active attendee identification, conducted the same evening, using both an undercover witness and a photo array — closer to a lineup procedure than a surveillance log.
+**The registrations of vehicles in attendance were worked up alongside a photo-identification procedure — a heavier-weight investigative tool than the plate-logging alone seen at St. John's (see [[2026-04-14--hsi-surveillance-st-johns-church-st-paul-plate-collection]]).** This is not passive collection; it is active attendee identification, conducted the same evening, using both an undercover witness and a photo array — closer to a lineup procedure than a surveillance log.
 
 **The earliest-dated Whipple Shield church operation in the discovery set — and a date that precedes the case that documents it.** The ROI's own case-header field states Project Whipple Shield (case MS02PR26MS0004) was opened February 11, 2026. This meeting occurred February 1, 2026 — ten days before that case-opening date. Either the surveillance was conducted under a different, unlisted case number and folded into Whipple Shield's file after the fact, or the case-opened date on this particular ROI's header is itself in error. This entry does not resolve which; it is flagged as an unexplained discrepancy in the primary record, not smoothed into either account. (Compare Doc. 212-12, where December 2025 activity folded into a Puppet Master ROI carries internal citations to a separate case, `MS05DR26MS0004`.)
 
-**The redaction pattern tracks charging status.** The only individual left unredacted is a person the government later indicted and identifies by name in its own brief for this meeting. The couple UCA 9843 believed had arranged access to the church, and every other uncharged attendee, are redacted. The finding is not that one pseudonym slipped through; it is that uncharged attendees of a church meeting had their faces and license plates run and matched, and remain in the file.
+**The redaction pattern tracks charging status.** The only individual left unredacted is a person the government later indicted and identifies by name in its own brief for this meeting. The couple UCA 9843 believed had arranged access to the church, and every other uncharged attendee, are redacted. The finding is not that one pseudonym slipped through; it is that uncharged attendees of a church meeting had their faces shown to an undercover agent and their vehicle registrations worked up, and remain in the file.
 
 ## What This Does NOT Establish
 

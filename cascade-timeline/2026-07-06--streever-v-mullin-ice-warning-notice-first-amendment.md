@@ -4,7 +4,7 @@ id: 2026-07-06--streever-v-mullin-ice-warning-notice-first-amendment
 date: '2026-07-06'
 title: "David Streever Sues DHS Secretary Mullin Over ICE 'Warning Notice' Served on His Wife for a Critical Email — Same-Day Second Notice to Syracuse's Paigelynne Gonyea, Two Documented Instances"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - first-amendment
   - ice-opr
@@ -83,11 +83,63 @@ capture_lanes:
   - Surveillance State
   - Enforcement Impunity
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "DHS separately confirmed to reporters it was still investigating Gonyea's speech five months after the fact (complaint ¶104)."
+  now: "On June 28, 2026, a DHS spokesperson, asked about the warning notice directed at Streever, told journalists that \"ICE investigates all credible threats towards its employees and officers, including threats to the ICE Director. As a matter of policy, we do not comment on any ongoing investigations\" (complaint ¶104). Court filings later showed that agents closed the Streever investigation on June 30, 2026 (NPR, Aug. 17, 2026)."
+  why: "https://www.courthousenews.com/wp-content/uploads/2026/07/streever-dhs-ice-house-visit-lawsuit.pdf — complaint ¶104: the June 28 DHS spokesperson statement concerned Streever's email, and was a no-comment policy statement"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "and DHS separately told NPR she had \"committed a federal crime by publishing an ICE officer's address online\" though her post contained no address."
+  now: "and DHS separately told NPR she had committed a federal crime by publishing an ICE officer's address online, without giving NPR evidence (NPR, June 26, 2026). DHS instead gave AP a redacted screenshot of a different Instagram post reading \"The killer's name is Jonathan Ross of\"; Gonyea says she does not believe she posted it and that her post calling for Ross to be indicted contains no address (NPR, July 6, 2026)."
+  why: "https://www.pbs.org/newshour/nation/new-york-man-suing-after-ice-sent-officers-to-his-home-over-an-email ; NPR 2026-06-26 and 2026-07-06 — DHS told NPR she committed a crime but gave no evidence; DHS gave AP a different, redacted post; whether any post had an address is disputed"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "textbook protected petition-and-speech activity under *Tinker*-line precedent, per FIRE's framing of the case."
+  now: "speech and petitioning that FIRE's complaint pleads as protected by the First Amendment's Free Speech and Petition Clauses and not a true threat, citing Houston v. Hill, New York Times v. Sullivan, Watts v. United States and Counterman v. Colorado (Verified Complaint, Streever v. Mullin, D.D.C. 1:26-cv-02356)."
+  why: "https://www.fire.org/cases/streever-v-mullin-et-al ; verified complaint — no mention of Tinker; complaint cites Houston v. Hill, NYT v. Sullivan, Watts, Counterman and pleads Free Speech and Petition Clauses"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Streever's wife had not disclosed the hotel name to anyone, and the complaint states Streever had \"no idea\" how agents located it."
+  now: "Streever's wife had not informed the ICE agents, or anyone else, of the name of the hotel where he intended to stay (complaint ¶94), and FIRE's case page says Streever \"has no idea how federal agents knew where he was staying.\""
+  why: "https://www.courthousenews.com/wp-content/uploads/2026/07/streever-dhs-ice-house-visit-lawsuit.pdf — ¶94: wife had not informed the ICE agents, or anyone else, of the hotel name; 'no idea' is FIRE's case-page wording (fire.org), not the complaint's"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The corpus documents exactly **two** instances"
+  now: "The corpus documents two instances"
+  why: "https://www.pbs.org/newshour/nation/new-york-man-suing-after-ice-sent-officers-to-his-home-over-an-email — AP: Streever 'one of at least two residents ... served with a federal warning in June'; complaint ¶99 'not the only recipient'; no source gives a total"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "As a matter of policy, we do not comment on any ongoing investigations"
+  qualifier: ""
+  span: "its employees and officers, including threats to the ICE Director. As a matter of policy, we do not comment on any ongoing investigations"
+  url: https://www.courthousenews.com/wp-content/uploads/2026/07/streever-dhs-ice-house-visit-lawsuit.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "had not informed the ICE agents, or anyone else, of the name of the hotel"
+  qualifier: ""
+  span: "Streever's wife had not informed the ICE agents, or anyone else, of the name of the hotel where Streever intended to stay."
+  url: https://www.courthousenews.com/wp-content/uploads/2026/07/streever-dhs-ice-house-visit-lawsuit.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: attribution
+  value: "at least two"
+  qualifier: "residents served with a federal warning"
+  span: "Streever is one of at least two residents of upstate New York who was served with a federal warning in June"
+  url: https://www.pbs.org/newshour/nation/new-york-man-suing-after-ice-sent-officers-to-his-home-over-an-email
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
 
-David Streever, a Rochester, New York writer and journalist, sued Department of Homeland Security Secretary Markwayne Mullin and named ICE and Homeland Security Investigations (HSI) personnel in federal court on July 6, 2026 (*Streever v. Mullin*, D.D.C. 1:26-cv-02356), after ICE agents served his wife with an "OPR WARNING NOTICE" over an email Streever had sent five months earlier criticizing then-Acting ICE Director Todd Lyons. The same two agents, on the same day, served a substantially identical notice on Paigelynne Gonyea, a Syracuse poll worker, over an Instagram post. FIRE (the Foundation for Individual Rights and Expression) represents Streever and filed a motion for a preliminary injunction the day after the complaint. The corpus documents exactly **two** instances of this specific mechanism — an in-person ICE Office of Professional Responsibility "Warning Notice" served on an individual over online or emailed criticism of the agency — both from June 23, 2026, both from the same two-agent team.
+David Streever, a Rochester, New York writer and journalist, sued Department of Homeland Security Secretary Markwayne Mullin and named ICE and Homeland Security Investigations (HSI) personnel in federal court on July 6, 2026 (*Streever v. Mullin*, D.D.C. 1:26-cv-02356), after ICE agents served his wife with an "OPR WARNING NOTICE" over an email Streever had sent five months earlier criticizing then-Acting ICE Director Todd Lyons. The same two agents, on the same day, served a substantially identical notice on Paigelynne Gonyea, a Syracuse poll worker, over an Instagram post. FIRE (the Foundation for Individual Rights and Expression) represents Streever and filed a motion for a preliminary injunction the day after the complaint. The corpus documents two instances of this specific mechanism — an in-person ICE Office of Professional Responsibility "Warning Notice" served on an individual over online or emailed criticism of the agency — both from June 23, 2026, both from the same two-agent team.
 
 ## What Happened / Key Facts
 
@@ -95,17 +147,17 @@ David Streever, a Rochester, New York writer and journalist, sued Department of 
 
 **The notice.** Five months later, on Tuesday, June 23, 2026, ICE Special Agents David Brodie and Abbi Henry went to the Streevers' Rochester home while Streever was traveling in Finland with his seven-year-old daughter. Rev. Hilary Streever, his wife, encountered the agents on the porch; a doorbell camera recorded them, including one agent looking in a window. The agents told her Streever "may or may not have" sent a threatening email to Lyons and needed to speak with them (complaint ¶¶71-78). They left an ICE OPR "WARNING NOTICE" document declaring "YOU MAY BE IN VIOLATION OF FEDERAL LAW," citing 18 U.S.C. §115(a) (threats against federal officials) and identifying the trigger as "an email sent to Acting ICE Director Todd Lyons" (complaint ¶83). The notice demanded Streever "promptly remove and/or discontinue" the "behavior" and sign and return the document; he did not.
 
-**The hotel visit.** Streever and his daughter flew back into JFK from Finland on a Thursday and checked into a New York City hotel. At approximately 9:00 p.m., a hotel clerk woke Streever to report a DHS agent had come to the front desk looking for him and left a business card identifying the agent as Special Agent Trevor J. Pitts of HSI's Jamaica, New York office — a third named agent, distinct from Brodie and Henry. Streever's wife had not disclosed the hotel name to anyone, and the complaint states Streever had "no idea" how agents located it. **That question is now answered — see the resolution below: the government's own sworn declaration says agents used the destination address Streever listed with CBP on his inbound arrival.** The complaint's framing reflects what was known to plaintiffs at filing, not the current record (complaint ¶¶90-95). That evening he also received two voicemails from callers identifying themselves only as "Homeland Security Investigations."
+**The hotel visit.** Streever and his daughter flew back into JFK from Finland on a Thursday and checked into a New York City hotel. At approximately 9:00 p.m., a hotel clerk woke Streever to report a DHS agent had come to the front desk looking for him and left a business card identifying the agent as Special Agent Trevor J. Pitts of HSI's Jamaica, New York office — a third named agent, distinct from Brodie and Henry. Streever's wife had not informed the ICE agents, or anyone else, of the name of the hotel where he intended to stay (complaint ¶94), and FIRE's case page says Streever "has no idea how federal agents knew where he was staying." **That question is now answered — see the resolution below: the government's own sworn declaration says agents used the destination address Streever listed with CBP on his inbound arrival.** The complaint's framing reflects what was known to plaintiffs at filing, not the current record (complaint ¶¶90-95). That evening he also received two voicemails from callers identifying themselves only as "Homeland Security Investigations."
 
-**The same-day second notice — Gonyea.** Complaint ¶99 states verbatim: "Streever is not the only recipient of a 'WARNING NOTICE' in recent days." The next six paragraphs (¶¶100-105) describe only one other case: on the same Tuesday, June 23, 2026, while Syracuse resident Paigelynne Gonyea was volunteering as a poll worker during New York's primary election, Special Agent Brodie called her, then he and Special Agent Henry — the identical two-agent team from the Streever visit — came to her polling place and handed her a "WARNING NOTICE" over an Instagram post about an ICE agent. Complaint ¶102 states the form given to Gonyea was "substantially identical" to the one delivered to Streever's wife. DHS separately confirmed to reporters it was still investigating Gonyea's speech five months after the fact (complaint ¶104). Gonyea's notice cited 18 U.S.C. §115(a) and §119 (the federal anti-doxxing statute); reporting corroborates the notice's existence, OPR origin, and boilerplate language, though the specific statute numbers rest on Gonyea's own published image of the document (see [[primary-source-ice-opr-warning-notice-gonyea-2026-06-23]]).
+**The same-day second notice — Gonyea.** Complaint ¶99 states verbatim: "Streever is not the only recipient of a 'WARNING NOTICE' in recent days." The next six paragraphs (¶¶100-105) describe only one other case: on the same Tuesday, June 23, 2026, while Syracuse resident Paigelynne Gonyea was volunteering as a poll worker during New York's primary election, Special Agent Brodie called her, then he and Special Agent Henry — the identical two-agent team from the Streever visit — came to her polling place and handed her a "WARNING NOTICE" over an Instagram post about an ICE agent. Complaint ¶102 states the form given to Gonyea was "substantially identical" to the one delivered to Streever's wife. On June 28, 2026, a DHS spokesperson, asked about the warning notice directed at Streever, told journalists that "ICE investigates all credible threats towards its employees and officers, including threats to the ICE Director. As a matter of policy, we do not comment on any ongoing investigations" (complaint ¶104). Court filings later showed that agents closed the Streever investigation on June 30, 2026 (NPR, Aug. 17, 2026). Gonyea's notice cited 18 U.S.C. §115(a) and §119 (the federal anti-doxxing statute); reporting corroborates the notice's existence, OPR origin, and boilerplate language, though the specific statute numbers rest on Gonyea's own published image of the document (see [[primary-source-ice-opr-warning-notice-gonyea-2026-06-23]]).
 
 **Docket posture.** Judge Rudolph Contreras is assigned. Streever's motion for preliminary injunction was filed July 7, 2026; the government moved to dismiss, transfer venue, and hold PI briefing in abeyance on July 20, 2026. Briefing on the preliminary-injunction motion closed with Streever's reply on August 12, 2026 (per the docket, last updated August 25, 2026). **No ruling on the preliminary-injunction motion had issued as of this entry's writing (2026-08-27).** Per NPR's August 17, 2026 reporting, DHS's own court filings argue the in-person warning-notice practice is a "critical tool" that "do[es] not violate the First Amendment" — a defended institutional posture, not a disavowed rogue-officer incident, though DHS's briefs do not claim Streever's email constituted a prosecutable threat.
 
 ## Why This Event Matters
 
-This is the second — and, per the documentary record checked for this entry, still only the second — publicly confirmed instance of ICE OPR issuing an in-person "Warning Notice" to an individual over online or emailed criticism of the agency, rather than over any completed or credibly alleged crime. Both known instances happened on the same day, delivered by the same two-agent team, using "substantially identical" boilerplate (per the plaintiffs' own complaint) — which argues for an office-level practice at minimum, distinct from claiming a broader institutional policy established across many cases. **Do not read this entry as evidence of a documented multi-case pattern beyond n=2.** A prior verification pass in this corpus ([[verify-ice-warning-notice-policy-pattern-claim]]) found that three previously circulated "prior instances" — *Tincher v. Noem*, the Memphis SAFE Task Force lawsuit, and the Broadview prayer-ban dispute — involve different mechanisms (press retaliation during enforcement operations; civilian-recording retaliation by a multi-agency task force; a facility-access restriction) and do not belong in any count of this specific mechanism.
+This is the second publicly named instance (AP describes Streever as "one of at least two residents" served with a federal warning in June; no source gives a total) of ICE OPR issuing an in-person "Warning Notice" to an individual over online or emailed criticism of the agency, rather than over any completed or credibly alleged crime. Both known instances happened on the same day, delivered by the same two-agent team, using "substantially identical" boilerplate (per the plaintiffs' own complaint) — which argues for an office-level practice at minimum, distinct from claiming a broader institutional policy established across many cases. **Do not read this entry as evidence of a documented multi-case pattern beyond n=2.** A prior verification pass in this corpus ([[verify-ice-warning-notice-policy-pattern-claim]]) found that three previously circulated "prior instances" — *Tincher v. Noem*, the Memphis SAFE Task Force lawsuit, and the Broadview prayer-ban dispute — involve different mechanisms (press retaliation during enforcement operations; civilian-recording retaliation by a multi-agency task force; a facility-access restriction) and do not belong in any count of this specific mechanism.
 
-The notices themselves invert their own stated legal basis: Gonyea's citation of the federal anti-doxxing statute (§119) was served by agents who arrived carrying her own doxxed personal information, and DHS separately told NPR she had "committed a federal crime by publishing an ICE officer's address online" though her post contained no address. Streever's notice was predicated on an email that made no threat, sent under his real name to a published government address — textbook protected petition-and-speech activity under *Tinker*-line precedent, per FIRE's framing of the case.
+The notices themselves invert their own stated legal basis: Gonyea's citation of the federal anti-doxxing statute (§119) was served by agents who arrived carrying her own doxxed personal information, and DHS separately told NPR she had committed a federal crime by publishing an ICE officer's address online, without giving NPR evidence (NPR, June 26, 2026). DHS instead gave AP a redacted screenshot of a different Instagram post reading "The killer's name is Jonathan Ross of"; Gonyea says she does not believe she posted it and that her post calling for Ross to be indicted contains no address (NPR, July 6, 2026). Streever's notice was predicated on an email that made no threat, sent under his real name to a published government address — speech and petitioning that FIRE's complaint pleads as protected by the First Amendment's Free Speech and Petition Clauses and not a true threat, citing Houston v. Hill, New York Times v. Sullivan, Watts v. United States and Counterman v. Colorado (Verified Complaint, Streever v. Mullin, D.D.C. 1:26-cv-02356).
 
 ## Broader Context
 

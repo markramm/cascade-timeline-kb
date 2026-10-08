@@ -31,16 +31,45 @@ sources:
   outlet: CourtListener / PACER (docket record)
   date: '2026-04-21'
   tier: 1
-status: confirmed
+status: reported
 capture_lanes:
 - Financial Capture
 - International Kleptocracy
 - Captured-X Relationship Architecture
 - Regulatory Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Per CoinDesk, Sun posted on X (formerly Twitter) referencing an earlier date ... available for this pass."
+  now: "Per CoinDesk, Sun said in a post on X that he had \"tried in good faith to resolve this situation,\" and added: \"I also want the community to know that I strongly oppose the new governance proposal World Liberty published on April 15.\" April 15 is the date WLFI published its governance proposal."
+  why: "https://www.coindesk.com/policy/2026/04/21/tron-s-justin-sun-sues-trump-linked-world-liberty-financial-over-frozen-assets — two separate sentences: 'tried in good faith to resolve this situation' and 'strongly oppose the new governance proposal World Liberty published on April 15'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "one party's sworn pleading, not an adjudicated fact."
+  now: "one party's allegation in an unverified civil complaint, not an adjudicated fact."
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.cand.468319/gov.uscourts.cand.468319.1.0.pdf (Doc. 1, 52 pp.) — caption 'COMPLAINT', no verification page or declaration under penalty of perjury; signed '/s/ Robert A. Van Nest' for counsel; https://www.coindesk.com/policy/2026/04/21/tron-s-justin-sun-sues-trump-linked-world-liberty-financial-over-frozen-assets never calls it sworn"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "strongly oppose the new governance proposal World Liberty published on April 15"
+  qualifier: "Sun"
+  span: "I also want the community to know that I strongly oppose the new governance proposal World Liberty published on April 15,\" Sun said in his post."
+  url: https://www.coindesk.com/policy/2026/04/21/tron-s-justin-sun-sues-trump-linked-world-liberty-financial-over-frozen-assets
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: attribution
+  value: "COMPLAINT"
+  qualifier: ""
+  span: "COMPLAINT"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.468319/gov.uscourts.cand.468319.1.0.pdf
+  read: fetched
+  source_kind: primary
 ---
 
-On **April 21, 2026** (filing date), **Justin Sun** and two affiliated entities — **Blue Anthem Limited** and **Black Anthem Limited** — filed a civil complaint against **World Liberty Financial LLC** in the **U.S. District Court for the Northern District of California**, case **3:26-cv-03360**, assigned to **Judge James Donato**. The complaint alleges breach of contract, fraudulent misrepresentation, and related claims arising from WLFI's freeze of Sun's WLFI-token holdings. **Everything below attributed to "the complaint" or "Sun alleges" is one party's sworn pleading, not an adjudicated fact** — WLFI had not filed a public response as of this entry, and no court has ruled on the merits of these allegations.
+On **April 21, 2026** (filing date), **Justin Sun** and two affiliated entities — **Blue Anthem Limited** and **Black Anthem Limited** — filed a civil complaint against **World Liberty Financial LLC** in the **U.S. District Court for the Northern District of California**, case **3:26-cv-03360**, assigned to **Judge James Donato**. The complaint alleges breach of contract, fraudulent misrepresentation, and related claims arising from WLFI's freeze of Sun's WLFI-token holdings. **Everything below attributed to "the complaint" or "Sun alleges" is one party's allegation in an unverified civil complaint, not an adjudicated fact** — WLFI had not filed a public response as of this entry, and no court has ruled on the merits of these allegations.
 
 ## What Happened — Key Facts
 
@@ -59,7 +88,7 @@ On **April 21, 2026** (filing date), **Justin Sun** and two affiliated entities 
 - **Defendant's counsel of record on the docket**: Cahill Gordon & Reindel LLP
 - CoinDesk (publication date April 22, 2026, reporting on a Tuesday filing — April 21, 2026 was a Tuesday) reported the suit was filed "Tuesday," consistent with the docket's April 21 filing date.
 
-This entry documents the **filing**, not the underlying dispute's merits and not the September 2025 blacklisting itself — that prior event is documented separately at [[2025-09-04--wlfi-blacklists-justin-sun-595m-tokens-107m-rupture-begins]]. This entry is the litigation-disclosure record: what Sun's sworn complaint claims, and what the docket independently confirms.
+This entry documents the **filing**, not the underlying dispute's merits and not the September 2025 blacklisting itself — that prior event is documented separately at [[2025-09-04--wlfi-blacklists-justin-sun-595m-tokens-107m-rupture-begins]]. This entry is the litigation-disclosure record: what Sun's complaint claims, and what the docket independently confirms.
 
 ### The investment figure the complaint asserts
 
@@ -74,7 +103,7 @@ Per CoinDesk's direct quotations from the filed complaint:
 1. **Alleged concealed blacklist function.** The complaint alleges World Liberty Financial modified the smart contract governing the WLFI token in **August 2025** to add a "blacklisting" function enabling the company to freeze tokens in specific wallets, and that this change was not put to a governance vote or disclosed to investors. Quote from the complaint: *"While the upgrade is technically visible on the public blockchain, World Liberty buried it in the code without alerting token holders to its existence or implications. In the dark of night, the company thus created a 'blacklisting' function that it could wield at will."* (Note: this alleged August 2025 contract modification date is the complaint's own dating — the prior blacklisting-execution event in this KB is dated September 4, 2025, which is consistent with an August contract modification followed by a September enforcement action, but the two dates describe different acts: alleged code change vs. documented freeze.)
 2. **Alleged dual-purpose motive for the freeze.** The complaint alleges the freeze served to (a) pressure Sun to mint **$200 million** of WLFI's USD1 stablecoin on the Tron blockchain, and (b) manipulate WLFI's market price by preventing one of its largest holders from selling — quote: World Liberty "artificially propped up the market price of $WLFI tokens held by World Liberty founders and the company's corporate treasury."
 3. **Alleged regulatory exposure.** The complaint argues WLFI's ability to issue, freeze, and reassign tokens could qualify it as a money transmitter under FinCEN rules, subjecting it to registration and anti-money-laundering requirements it has not observed.
-4. **Alleged threats, attributed to a named individual.** The complaint alleges **Chase Herro**, identified as a WLFI co-founder, personally threatened to burn Sun's WLFI tokens if Sun did not request the burn himself, and separately, per the complaint, "falsely claimed that the know-your-customer ('KYC') documentation submitted by Mr. Sun and the Sun Companies in connection with their $WLFI token purchases was inadequate" and threatened to report Sun to U.S. authorities over the alleged KYC deficiency. **This is Sun's sworn allegation about what Herro said — not an independently confirmed statement.**
+4. **Alleged threats, attributed to a named individual.** The complaint alleges **Chase Herro**, identified as a WLFI co-founder, personally threatened to burn Sun's WLFI tokens if Sun did not request the burn himself, and separately, per the complaint, "falsely claimed that the know-your-customer ('KYC') documentation submitted by Mr. Sun and the Sun Companies in connection with their $WLFI token purchases was inadequate" and threatened to report Sun to U.S. authorities over the alleged KYC deficiency. **This is Sun's allegation about what Herro said — not an independently confirmed statement.**
 5. **Alleged fraudulent inducement.** The complaint alleges WLFI induced Sun's investment "through fraudulent misrepresentations and omissions about the economic rights and liberties that would come with purchasing $WLFI tokens," including statements about token-holder governance rights and "freedom to transact."
 6. **Timeline of the relationship's deterioration, per the complaint**: WLFI asked Sun to continue investing through 2025, including a request that he mint USD1 on WLFI's terms. Per the complaint, quoted directly: *"By July 2025, when it became clear that Mr. Sun would not invest or mint USD1 on their terms, World Liberty principals became hostile toward Mr. Sun."* This July 2025 date is an **alleged-conduct date from the complaint**, not independently documented elsewhere.
 
@@ -88,13 +117,13 @@ Per CoinDesk (publication date April 22, 2026): "A spokesperson for World Libert
 
 ### Sun's public statement
 
-Per CoinDesk, Sun posted on X (formerly Twitter) referencing an earlier date — "he had 'tried [something] April 15'" (the CoinDesk excerpt available for this entry truncates the specific content of what Sun said he tried; not independently verified here). This is a **research gap**: the full text and context of Sun's April 15, 2026 reference was not recovered from the sources available for this pass.
+Per CoinDesk, Sun said in a post on X that he had "tried in good faith to resolve this situation," and added: "I also want the community to know that I strongly oppose the new governance proposal World Liberty published on April 15." April 15 is the date WLFI published its governance proposal.
 
 ## Why This Event Matters
 
-### The litigation converts private allegations into a sworn public record
+### The litigation converts private allegations into a public court record
 
-The complaint is the first instance in the Sun-WLFI dispute where allegations move from social-media statements (Sun's public September 2025 posts, his reported April 12, 2026 "trap door" characterization) into a sworn federal pleading — a document filed under Federal Rule of Civil Procedure 11, exposing the filer to sanctions for factual misrepresentation. That raises the evidentiary weight of Sun's claims above a tweet, but it remains **one party's allegation**, filed by a plaintiff with an obvious financial incentive to characterize the dispute favorably. The named-individual allegation against Chase Herro (threats to burn tokens, threats to report Sun to authorities) is the kind of claim that would need independent corroboration — deposition testimony, documentary evidence, or a WLFI admission — before this KB or any downstream reporting could treat it as established fact rather than allegation.
+The complaint is the first instance in the Sun-WLFI dispute where allegations move from social-media statements (Sun's public September 2025 posts, his reported April 12, 2026 "trap door" characterization) into a federal court pleading: an unverified complaint (Document 1, N.D. Cal. 3:26-cv-03360, filed April 21, 2026) signed by plaintiffs' counsel, whose signatures carry Federal Rule of Civil Procedure 11 obligations. Neither Sun nor his companies signed a sworn verification. That raises the evidentiary weight of Sun's claims above a tweet, but it remains **one party's allegation**, filed by a plaintiff with an obvious financial incentive to characterize the dispute favorably. The named-individual allegation against Chase Herro (threats to burn tokens, threats to report Sun to authorities) is the kind of claim that would need independent corroboration — deposition testimony, documentary evidence, or a WLFI admission — before this KB or any downstream reporting could treat it as established fact rather than allegation.
 
 ### The disclosure-mechanism allegation extends the September 2025 blacklisting
 
@@ -110,7 +139,7 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 - [ ] **Precise identity and structure of Blue Anthem Limited and Black Anthem Limited** — their relationship to Sun personally (wholly owned vehicles, investment funds, other) is not established in the sourcing for this entry.
 - [ ] **Full complaint text** — this entry relies on CoinDesk's direct quotations rather than the underlying PDF; CourtListener's docket entry for the initial complaint was not independently retrieved in this pass (the docket confirms the case's existence, parties, judge, and filing date, but the specific complaint document was not pulled). CourtListener's search API was rate-limited mid-session (a fleet-wide, session-shared limiter; confirmed via a direct throttled response citing a ~7.5-hour retry window) before the complaint document itself could be fetched.
 - [ ] **The specific dollar amount of tokens frozen as of April 21, 2026** — not stated in the CoinDesk coverage available; whether it matches, exceeds, or is less than the September 2025 $107M figure is unconfirmed.
-- [ ] **Full context of Sun's "tried [x] April 15" X post** — truncated in the source excerpt available for this pass.
+- [x] **Sun's X post** — resolved 2026-10-08: CoinDesk quotes two separate sentences; April 15 is the date of WLFI's governance proposal.
 - [ ] **WLFI's substantive answer or motion to dismiss**, once filed, will bear on how much of the complaint's factual narrative survives adversarial testing — not yet available as of this entry.
 
 ## Related Entries
@@ -124,7 +153,7 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 - [[world-liberty-financial]] — *needs organization profile*
 - [[investigation-map-april-2026]]
 
-**Note on the sibling event**: World Liberty Financial's May 5, 2026 defamation countersuit against Sun (per task `write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) is a **separate filing with its own docket, its own allegations (short-selling, a "scorched-earth pressure campaign"), and its own sworn claims** — genuinely severable from this entry. It is documented as its own timeline event, not folded into this one; the countersuit task remains open for a separate worker.
+**Note on the sibling event**: World Liberty Financial's May 5, 2026 defamation countersuit against Sun (per task `write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) is a **separate filing with its own docket, its own allegations (short-selling, a "scorched-earth pressure campaign"), and its own claims** — genuinely severable from this entry. It is documented as its own timeline event, not folded into this one; the countersuit task remains open for a separate worker.
 
 ---
 
@@ -141,8 +170,7 @@ three unrelated matters, one of them an ICE detention case that would look plaus
 
 **The allegation framing is right throughout** — twelve separate hedges in the body, and the opening
 paragraph states it flatly: *"Everything below attributed to 'the complaint' or 'Sun alleges' is one
-party's sworn pleading, not an adjudicated fact."* **A verified complaint attests to the filer's
-good faith, not to the accuracy of its claims about anyone else.** That matters most for the named
+party's sworn pleading, not an adjudicated fact."* **An unverified complaint signed by counsel carries Rule 11 obligations for counsel; it is not a sworn statement by Sun.** That matters most for the named
 allegation against **Chase Herro**, which is written strictly as Sun's unproven assertion.
 
 **The figure conflict was flagged, not resolved — correct.** The complaint's own **$45 million**

@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2025-04-15--triple-canopy-constellis-dhs-fps-domestic-armed-guard-portfolio-478m
 date: '2025-04-15'
-title: "Triple Canopy (Constellis/Blackwater lineage) operates ~$478M DHS Federal Protective Service domestic armed-guard portfolio at DC/MD/PA/CO federal buildings — Phase-4 paramilitary substrate at domestic federal property"
+title: "Triple Canopy (Constellis/Blackwater lineage) has held eight DHS Federal Protective Service armed-guard task orders (~$478M obligated in total, 2019-2029) at DC/MD/PA/CO federal buildings — Phase-4 paramilitary substrate at domestic federal property"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - triple-canopy
   - constellis
@@ -56,18 +56,57 @@ sources:
   - title: "Inside the Federal Protective Service, Homeland Security's Domestic Police Force"
     url: https://www.brennancenter.org/our-work/research-reports/inside-federal-protective-service-homeland-securitys-domestic-police
     publisher: Brennan Center for Justice
-    date: '2024-01-01'
+    date: '2024-10-08'
     tier: 2
 capture_lanes:
   - Privatized-Force-Projection Arc (Phase 4)
   - Military-Industrial Complex
   - Detention Industrial Complex
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Triple Canopy (Constellis/Blackwater lineage) operates ~$478M DHS Federal Protective Service domestic armed-guard portfolio"
+  now: "Triple Canopy (Constellis/Blackwater lineage) has held eight DHS Federal Protective Service armed-guard task orders (~$478M obligated in total, 2019-2029)"
+  why: "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70RFP219FREC00121_7001_70RFP218DEC000018_7001/ — the ~$478.7M is cumulative over eight orders running 2019-2029; 70RFP219FREC00121 ended Feb 2025 and two orders began Oct/Nov 2025, after the entry date"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "awarded March 1, 2025"
+  now: "signed February 5, 2025, with performance beginning March 1, 2025"
+  why: "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70RFP225FREC00012_7001_70RFP224DEC000011_7001/ — date_signed 2025-02-05; performance 2025-03-01 to 2028-02-29; $47,563,159 obligated; $96,403,029 ceiling with all options (read 2026-10-08); Constellis PR Newswire 2025-04-15: '$95 million task order'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The Brennan Center's January 2025 report on FPS named Constellis as \"holding FPS's largest"
+  now: "The Brennan Center's October 2024 report on FPS said Constellis \"today holds FPS's largest"
+  why: "https://www.brennancenter.org/our-work/research-reports/inside-federal-protective-service-homeland-securitys-domestic-police — published October 8, 2024; wording 'today holds FPS's largest contracts, valued together at $225 million or more'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Rough estimate for the full DC/MD/PA portfolio at any given month in 2025-2026: ... This is a modeled estimate;"
+  now: "The number of armed Triple Canopy personnel at these buildings is not public: USAspending.gov records dollars and dates, not headcount, and the $75K/FTE rate is uncited. The table above is a rough illustrative model only (its rows sum to about 1,585), not a finding. This is a modeled estimate;"
+  why: "https://api.usaspending.gov/api/v2/awards/CONT_AWD_70RFP225FREC00012_7001_70RFP224DEC000011_7001/ ; PR Newswire 2025-04-15 — USAspending records dollars and dates, no headcount; the $75K/FTE rate is uncited; per-contract rows sum to ~1,585, contradicting 500-800"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "2025-02-05"
+  qualifier: ""
+  span: "2025-02-05"
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70RFP225FREC00012_7001_70RFP224DEC000011_7001/
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: date
+  value: "Published October 8, 2024"
+  qualifier: ""
+  span: "Published October 8, 2024"
+  url: https://www.brennancenter.org/our-work/research-reports/inside-federal-protective-service-homeland-securitys-domestic-police
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
 
-Triple Canopy, a subsidiary of Constellis Holdings (the corporate vehicle for the Blackwater → Xe → ACADEMI → Constellis lineage), operates an approximately $478 million portfolio of DHS Federal Protective Service (FPS) Protective Security Officer (PSO) contracts guarding domestic federal buildings in Washington DC, Silver Spring/Beltsville Maryland, Bethesda Maryland, Philadelphia Pennsylvania, and Denver Colorado. The largest single contract — $95.7 million ceiling, $47.3 million obligated to date, awarded March 1, 2025 and publicly announced April 15, 2025 — is the FDA Headquarters at White Oak Campus in Silver Spring, Maryland, where Triple Canopy has protected the facility since 2018. The aggregate portfolio represents Phase-4 paramilitary substrate operating at domestic federal buildings, functionally distinct from the overseas embassy-guard work (WPS III Baghdad) that defines Triple Canopy's public-facing brand.
+Triple Canopy, a subsidiary of Constellis Holdings (the corporate vehicle for the Blackwater → Xe → ACADEMI → Constellis lineage), has held eight DHS Federal Protective Service (FPS) Protective Security Officer (PSO) task orders, beginning between October 2019 and November 2025, with about $478.7 million obligated across them in total (USAspending.gov), guarding domestic federal buildings in Washington DC, Silver Spring/Beltsville Maryland, Bethesda Maryland, Philadelphia Pennsylvania, and Denver Colorado. The largest single contract — announced by Constellis as a $95 million task order; USAspending (read Oct. 8, 2026) shows a $96.4 million ceiling including all options and $47.6 million obligated to date, signed February 5, 2025, with performance beginning March 1, 2025 and publicly announced April 15, 2025 — is the FDA Headquarters at White Oak Campus in Silver Spring, Maryland, where Triple Canopy has protected the facility since 2018. The aggregate portfolio represents Phase-4 paramilitary substrate operating at domestic federal buildings, functionally distinct from the overseas embassy-guard work (WPS III Baghdad) that defines Triple Canopy's public-facing brand.
 
 ## What Happened / Key Facts
 
@@ -110,7 +149,7 @@ FPS PSO contracts in the DC/MD region are typically priced at $60-90K/armed-guar
 
 **Note**: These estimates are derived from billing-rate modeling and should be treated as rough-order-of-magnitude. A single FPS PSO shift typically covers 8-12 hours; 24/7 building coverage requires ~4.5 FTEs per post. The actual post count per building is in the non-public performance work statement.
 
-Rough estimate for the full DC/MD/PA portfolio at any given month in 2025-2026: **500-800 Triple Canopy armed personnel deployed at domestic federal buildings** in the three-state region. This is a modeled estimate; the primary source for an exact headcount would be FPS's Government-Furnished Customer Site schedules, which are not publicly available.
+The number of armed Triple Canopy personnel at these buildings is not public: USAspending.gov records dollars and dates, not headcount, and the $75K/FTE rate is uncited. The table above is a rough illustrative model only (its rows sum to about 1,585), not a finding. This is a modeled estimate; the primary source for an exact headcount would be FPS's Government-Furnished Customer Site schedules, which are not publicly available.
 
 **Trajectory across political eras:**
 
@@ -129,7 +168,7 @@ The Blackwater-lineage operator's domestic FPS presence did not begin with Trump
 
 **Phase-4 instantiation at the most literal level**: FPS contracts put armed Triple Canopy personnel in the lobbies and at the perimeter of DHS's own headquarters buildings. The agency running the immigration enforcement apparatus is protected by the Blackwater-successor contractor. The oversight function (DHS over FPS over Triple Canopy) has been structured such that the operator armed-guarding DHS HQ and the FDA has the Nisour Square lineage in its corporate ancestry.
 
-**The "domestic" distinction is analytically load-bearing**: Triple Canopy's public-facing brand is overseas — WPS III Baghdad ($1.3B), embassies, diplomatic-post protection. The FPS domestic portfolio has received almost no investigative coverage despite representing ~$450-600M in active domestic-federal-building contracts. The Brennan Center's January 2025 report on FPS named Constellis as "holding FPS's largest contracts, valued together at $225 million or more" (an undercount relative to the full portfolio documented here).
+**The "domestic" distinction is analytically load-bearing**: Triple Canopy's public-facing brand is overseas — WPS III Baghdad ($1.3B), embassies, diplomatic-post protection. The FPS domestic portfolio has received almost no investigative coverage despite representing ~$450-600M in active domestic-federal-building contracts. The Brennan Center's October 2024 report on FPS said Constellis "today holds FPS's largest contracts, valued together at $225 million or more" (an undercount relative to the full portfolio documented here).
 
 **FDA building as specific case**: The $95M FDA Headquarters contract (Silver Spring) is the single most important individual contract in the portfolio for the following reasons: (1) it was publicly announced by Constellis in April 2025, establishing an admission that Triple Canopy guards a civilian federal regulatory agency (not an immigration enforcement facility); (2) FDA White Oak Campus is one of the largest federal agency campuses on the East Coast; (3) the announcement notes Triple Canopy has done this work "since 2018" — predating both Biden and Trump-2.
 

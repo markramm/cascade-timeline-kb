@@ -4,7 +4,7 @@ id: 2026-01-14--dhs-williamsport-section-106-same-day-review
 date: '2026-01-14'
 title: "DHS Letter to Washington County Both Opens and Closes Section 106 Historic-Preservation Review for Williamsport ICE Warehouse, Finding 'No Historic Properties Affected'"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - detention-industrial
   - williamsport
@@ -37,13 +37,43 @@ sources:
 capture_lanes:
   - Detention Industrial Complex
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "arrived at the Washington County Historic District Commission and Planning and Zoning Department, addressed to it as the required consulting party under Section 106"
+  now: "addressed to the Historic District Commission, Washington County Planning and Zoning Department, was received; per the county it was sent under a federal law requiring DHS to inform the local government of its determination"
+  why: "https://www.washco-md.net/news/washington-county-statement-on-u-s-department-of-homeland-security-notice-concerning-proposed-ice-facility/ — county statement of Jan 28, 2026 says only the letter was received and describes the law; it never says 'consulting party'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "an adjacent 19th-century farmhouse (the Van Lear-era structure on the former Taylor Farm tract)"
+  now: "a Van Lear-era two-story farmhouse dating to no later than 1820, immediately adjacent to the Taylor Farm plot"
+  why: "https://www.projectsaltbox.com/p/how-a-maryland-farm-became-a-federal — Salt Box: 'sits immediately adjacent to what would become the Taylor Farm plot: a two-story farmhouse dating to no later than 1820'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "January 14, 2026"
+  qualifier: "letter received"
+  span: "On January 14, 2026, a letter addressed to the Historic District Commission, Washington County Planning and Zoning Department was received from the U.S. Department of Homeland Security (DHS)."
+  url: https://www.washco-md.net/news/washington-county-statement-on-u-s-department-of-homeland-security-notice-concerning-proposed-ice-facility/
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "dating to no later than 1820"
+  qualifier: "farmhouse"
+  span: "a two-story farmhouse dating to no later than 1820"
+  url: https://www.projectsaltbox.com/p/how-a-maryland-farm-became-a-federal
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
 
-On January 14, 2026, a letter from the Department of Homeland Security arrived at the Washington
-County Historic District Commission and Planning and Zoning Department, addressed to it as the
-required consulting party under Section 106 of the National Historic Preservation Act (NHPA). The
+On January 14, 2026, a letter from the Department of Homeland Security addressed to the Historic District Commission, Washington
+County Planning and Zoning Department, was received. According to the county, it was sent under
+a federal law (Section 106 of the National Historic Preservation Act, NHPA) that requires DHS to
+inform the local government of its determination on whether the project affects historic property. The
 letter both **initiated and concluded** DHS's Section 106 review of the proposed ICE detention
 facility at 10900 Hopewell Road (a/k/a 16220 Wright Road), Williamsport, MD, issuing a finding of
 **"No Historic Properties Affected"** in the same document that opened consultation. DHS completed
@@ -63,9 +93,10 @@ Project Salt Box's March 11, 2026 investigation, reporting independently and cit
 January 14 letter, adds detail the county's own release did not include: the letter offered a
 **30-day public comment window**, and that window "expired after the property had already changed
 hands." The purchase closed on January 16, two days after the letter's date, so nearly all of the 30-day window was still to run when the property changed hands.
-Salt Box also reports that DHS's own Section 106 review, in identifying the "area of potential
-effect," had noted an adjacent 19th-century farmhouse (the Van Lear-era structure on the former
-Taylor Farm tract) as a historic resource, then found it ineligible for protection on the reasoning
+Salt Box also reports that when federal preservation officials reviewed the site in January 2026,
+they identified a Van Lear-era two-story farmhouse dating to no later than 1820, immediately
+adjacent to the Taylor Farm plot, as a historic resource within the project's potential area of
+effect, then found it ineligible for protection on the reasoning
 that it had already deteriorated too far to preserve — the review's only documented engagement with
 an actual historic resource, resolved in the same same-day determination.
 

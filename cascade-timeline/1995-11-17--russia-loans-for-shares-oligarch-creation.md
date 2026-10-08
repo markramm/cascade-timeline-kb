@@ -5,7 +5,7 @@ date: '1995-11-17'
 date_range: '1995-1996'
 title: "Russia's Loans-for-Shares Auctions Transfer Major State Enterprises to Yeltsin-Aligned Bankers at Fraction-of-Value Prices, Creating the Oligarch Class"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - russia
   - loans-for-shares
@@ -94,23 +94,96 @@ capture_lanes:
   - Financial Capture
   - International Kleptocracy
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "receiving in return a combined $880 million in \"loans\" ... collectively around $880 million"
+  now: "loans to the federal budget totaling about $800 million ($780 million in Table 1 of Treisman, \"Loans for Shares Revisited,\" NBER WP 15819, 2010). Stage one: participating banks would lend the government about $800 million in total (Treisman; $780 million in his Table 1)."
+  why: "https://www.nber.org/system/files/working_papers/w15819/w15819.pdf — p.1 and Table 1 total row; $880M is not in the paper (LUKoil line was also wrong)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Treisman ... undervaluation discounts ranging from 13% (Norilsk Nickel) to 89% (Lukoil), with an average of approximately 34%"
+  now: "Treisman estimated discounts of about 13% for Norilsk Nickel, 16% for Sibneft, 45% for Yukos, 69% for Surgutneftegaz and 89% for LUKoil (2% for Novolipetsk Metal in Table 1). The five largest together came to about $727 million, or $1.36 billion at 1996 prices. The 34% figure is the average underpricing of share-issue privatizations in other emerging markets, not a loans-for-shares average."
+  why: "https://www.nber.org/system/files/working_papers/w15819/w15819.pdf pp.7-8, Table 1 — 34% is Laurin et al.'s benchmark for other privatizations"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "December 7, 1995 — Lukoil: 5% stake ... $141 million; Novoship 20%; Murmansk Shipping 23.5%; Surgutneftegaz $88.9 million on December 28"
+  now: "Lukoil: 5% stake to management (NK Lukoil with Imperial Bank) against a $35.01 million loan; state received $41.02 million; stake valued at $383 million (89% discount). Murmansk Shipping: MENATEP, 49% for $4.125 million. Novorossiysk Shipping: 45% for $22.65 million. Surgutneftegaz: company pension fund, 40% for $88.3 million, auction November 3, 1995."
+  why: "https://www.nber.org/system/files/working_papers/w15819/w15819.pdf Table 1 and opening paragraph"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Between November 17 and December 28, 1995 ... auctioned controlling stakes in twelve ... [Surgutneftegaz placed on December 28]"
+  now: "Between November 3 and December 28, 1995, the Yeltsin government pledged blocks of shares, mostly minority stakes, in twelve large state companies to bank owners and insiders to manage in trust in return for loans (Treisman). The sequence opened on November 3 in Surgut; Norilsk Nickel, North-Western Shipping and Mechel followed on November 17."
+  why: "https://www.nber.org/system/files/working_papers/w15819/w15819.pdf — opening paragraph: 'On November 3, 1995, in the remote Siberian town of Surgut'; 'usually minority tranches of shares'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a handful of men ... had acquired the commanding heights of the Russian economy"
+  now: "By the time the scheme closed, banks controlled by a handful of men won the largest of the pledged stakes (Norilsk Nickel, Yukos, Sibneft, Sidanco). The stakes in all twelve enterprises were worth about $1.5-1.9 billion at market prices when the program began, 8-10 percent of Russian stock-market capitalization (Treisman)."
+  why: "https://www.nber.org/system/files/working_papers/w15819/w15819.pdf Section 1 and footnote 2: 'the program's scale was far more modest than suggested at the time'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Chrystia Freeland ... later called this \"not loans for shares but tycoons for Yeltsin.\""
+  now: "David Hoffman, the Washington Post's former Moscow bureau chief, wrote in The Oligarchs (2002) that \"loans for shares should really have been called 'tycoons for Yeltsin'\" (quoted by NPR Planet Money, March 22, 2022). Chrystia Freeland covered the auctions from Moscow for the Financial Times."
+  why: "https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin — NPR gives the line to Hoffman"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "about $800 million"
+  qualifier: "loans to the federal budget"
+  span: "in return for loans to the federal budget totaling about $800 million"
+  url: https://www.nber.org/system/files/working_papers/w15819/w15819.pdf
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "89 percent"
+  qualifier: "LUKoil"
+  span: "about 13 percent for the stake in Norilsk Nickel, 16 percent for that in Sibneft, 45 percent for that in Yukos, 69 percent for that in Surgutneftegaz, and 89 percent for that in LUKoil"
+  url: https://www.nber.org/system/files/working_papers/w15819/w15819.pdf
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "November 3, 1995"
+  qualifier: "Surgut auction"
+  span: "On November 3, 1995, in the remote Siberian town of Surgut, an auction took place"
+  url: https://www.nber.org/system/files/working_papers/w15819/w15819.pdf
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: figure
+  value: "8-10 percent"
+  qualifier: "of the total capitalization of the Russian stock market"
+  span: "their total value came to about $1.5-1.9 billion, or 8-10 percent of the total capitalization of the Russian stock market at that time"
+  url: https://www.nber.org/system/files/working_papers/w15819/w15819.pdf
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: attribution
+  value: "David Hoffman"
+  qualifier: "tycoons for Yeltsin"
+  span: "loans for shares should really have been called \"tycoons for Yeltsin,\" writes David Hoffman, the former Moscow bureau chief for The Washington Post"
+  url: https://www.npr.org/sections/money/2022/03/22/1087654279/how-shock-therapy-created-russian-oligarchs-and-paved-the-path-for-putin
+  read: fetched
+  source_kind: secondary
 ---
 
-Between November 17 and December 28, 1995, the Russian government of Boris Yeltsin auctioned controlling stakes in twelve of the country's most valuable state enterprises — oil companies, metals producers, shipping lines — to a small group of politically connected bank owners, receiving in return a combined $880 million in "loans" against assets later valued at tens of billions of dollars. The auctions were rigged by design: bidder lists were pre-screened, competing bids excluded, and government default on the loans was never in doubt. By the time the scheme closed, a handful of men — Vladimir Potanin, Mikhail Khodorkovsky, Boris Berezovsky, Mikhail Friedman, and their allies — had acquired the commanding heights of the Russian economy. This is the canonical kleptocracy-creation event of the post-Cold War era and the structural origin point for the Russian offshore financial infrastructure that persists, reorganized but not dissolved, through the Putin era and the 2022 sanctions regime.
+Between November 3 and December 28, 1995, the Russian government of Boris Yeltsin pledged blocks of shares, mostly minority stakes, in twelve of the country's most valuable state enterprises — oil companies, metals producers, shipping lines — to a small group of politically connected bank owners, receiving in return loans to the federal budget totaling about $800 million ($780 million in Table 1 of Daniel Treisman, "Loans for Shares Revisited," NBER Working Paper 15819, 2010) against assets later valued at tens of billions of dollars. The auctions were rigged by design: bidder lists were pre-screened, competing bids excluded, and government default on the loans was never in doubt. By the time the scheme closed, banks controlled by a handful of men — Vladimir Potanin, Mikhail Khodorkovsky, Boris Berezovsky, Mikhail Friedman, and their allies — had won the largest of the pledged stakes: Norilsk Nickel, Yukos, Sibneft and Sidanco. The stakes in all twelve enterprises were worth about $1.5-1.9 billion at market prices when the program began, or 8-10 percent of Russian stock-market capitalization (Treisman, NBER Working Paper 15819, 2010). This is the canonical kleptocracy-creation event of the post-Cold War era and the structural origin point for the Russian offshore financial infrastructure that persists, reorganized but not dissolved, through the Putin era and the 2022 sanctions regime.
 
 ## The Mechanism
 
 The loans-for-shares scheme was devised by Vladimir Potanin, chairman of ONEXIM Bank, and presented to the Yeltsin government in early 1995. Deputy Prime Minister Anatoly Chubais endorsed it as a solution to two simultaneous crises: the government's fiscal deficit (it could not pay soldiers, teachers, or pensioners) and the looming 1996 presidential election, in which Yeltsin faced Communist challenger Gennady Zyuganov from a single-digit approval rating.
 
-The mechanism had two stages. In stage one (autumn 1995, before the election), participating banks would lend the government money — collectively around $880 million — and receive major blocks of state-enterprise shares as collateral. In stage two (after the election), the government would either repay the loans from privatization proceeds, or default — whereupon the banks would "foreclose" on the collateral and acquire ownership outright. Default was structural and predictable: the government had neither the fiscal capacity nor the political intention to repay. The two-stage design gave the bank owners a compelling financial stake in Yeltsin's victory — a Communist government would repudiate the scheme and reverse the acquisitions.
+The mechanism had two stages. In stage one (autumn 1995, before the election), participating banks would lend the government money — about $800 million in total (Treisman; $780 million in his Table 1) — and receive major blocks of state-enterprise shares as collateral. In stage two (after the election), the government would either repay the loans from privatization proceeds, or default — whereupon the banks would "foreclose" on the collateral and acquire ownership outright. Default was structural and predictable: the government had neither the fiscal capacity nor the political intention to repay. The two-stage design gave the bank owners a compelling financial stake in Yeltsin's victory — a Communist government would repudiate the scheme and reverse the acquisitions.
 
-Chrystia Freeland, reporting from Moscow for the *Financial Times* during the auctions, later called this "not loans for shares but tycoons for Yeltsin." David Hoffman (*The Oligarchs*, 2002) documented that the scheme was simultaneously a privatization mechanism, an election-finance vehicle, and a controlled transfer of state wealth to a pre-selected group. Yeltsin's presidential decree authorizing the program was signed in August 1995 with minimal parliamentary debate.
+David Hoffman, the *Washington Post*'s former Moscow bureau chief, wrote in *The Oligarchs* (2002) that "loans for shares should really have been called 'tycoons for Yeltsin'" (quoted by NPR Planet Money, March 22, 2022). Chrystia Freeland covered the auctions from Moscow for the *Financial Times*. David Hoffman (*The Oligarchs*, 2002) documented that the scheme was simultaneously a privatization mechanism, an election-finance vehicle, and a controlled transfer of state wealth to a pre-selected group. Yeltsin's presidential decree authorizing the program was signed in August 1995 with minimal parliamentary debate.
 
 The auctions themselves were largely sham. Banks served simultaneously as organizers and winning bidders in their own auctions. Competing bids were routinely rejected on technical grounds. In the Yukos auction, Menatep Bank — which was both the organizer and the acquirer — rejected a competing bid from another consortium that offered more money, claiming a paperwork deficiency. Per Hoffman, the Norilsk Nickel auction at ONEXIM was "conducted in a building owned by ONEXIM, supervised by ONEXIM employees, with ONEXIM as the winning bidder." The appearance of a market process was maintained while the outcome was determined in advance.
 
 ## The Auction Sequence: November–December 1995
 
-The full sequence of twelve auctions ran from November 17 to December 28, 1995. Key transactions:
+The full sequence of twelve auctions ran from November 3 (Surgutneftegaz, in Surgut) to December 28, 1995. Key transactions:
 
 **November 17, 1995 — Norilsk Nickel**
 ONEXIM Bank (Potanin) acquired a 38% stake for a loan of $170.1 million. October 1995 market valuation of the stake: approximately $263.6 million. Norilsk Nickel was the world's largest palladium and nickel producer; by the late 1990s it was valued at nearly $2 billion. The auction was conducted in ONEXIM's own offices. A competing bid from Rossiisky Kredit Bank was disqualified.
@@ -125,13 +198,13 @@ TOO "Rabikom" acquired a 15% stake for $13 million.
 MFK Bank / Alfa Group (Friedman/Aven) acquired 51% for $130 million. Sidanco held major West Siberian oil fields; the stake was later partly sold to BP in 1997 for $571 million.
 
 **December 7, 1995 — Lukoil**
-A 5% stake acquired by NK Lukoil / Imperial Bank consortium for $141 million.
+A 5% stake went to company management (NK Lukoil with Imperial Bank) against a $35.01 million loan; the state received $41.02 million, for a stake valued at $383 million in October 1995, an 89% discount (Treisman, Table 1).
 
 **December 7, 1995 — Novolipetsk Steel**
 Renaissance Capital acquired a 14.87% stake for $31 million.
 
 **December 7, 1995 — Murmansk Shipping**
-MENATEP Bank acquired a 23.5% stake for $4.125 million.
+MENATEP Bank acquired a 49% stake for $4.125 million.
 
 **December 8, 1995 — Yukos**
 MENATEP Bank (Khodorkovsky) acquired a 45% controlling stake for a loan of $159 million ($159.8 million winning bid). October 1995 market valuation of the stake: $290.5 million. By 1997 Yukos was valued at $6.2 billion on the Russian stock market; by 2002 at $15 billion. Khodorkovsky's total acquisition — including follow-on purchases — eventually gave MENATEP approximately 78% of Yukos for a combined $310 million against an underlying asset then worth roughly $5 billion. The auction was organized by MENATEP itself; the only competing bid was disqualified.
@@ -139,16 +212,16 @@ MENATEP Bank (Khodorkovsky) acquired a 45% controlling stake for a loan of $159 
 **December 28, 1995 — Sibneft**
 Capital Savings Bank (a Berezovsky–Abramovich vehicle) acquired 51% for $100.3 million (loan of $100.1 million). October 1995 market valuation of the stake: $128.1 million. By 1997 Sibneft was valued at approximately $5 billion. In 2005 Gazprom bought back 75.7% of Sibneft from Roman Abramovich's Millhouse Capital for $13.1 billion — 130 times the original acquisition price.
 
-**December 28, 1995 — Surgutneftegaz**
-Surgutneftegaz's own pension fund (NPF Surgutneftegaz, controlled by CEO Vladimir Bogdanov) acquired a 40.12% stake for $88.9 million. October 1995 market valuation of that stake: $288.3 million — a discount of approximately 69%. This was an internal transaction: the company effectively acquired its own collateral.
+**November 3, 1995 — Surgutneftegaz**
+Surgutneftegaz's own pension fund (NPF Surgutneftegaz, controlled by CEO Vladimir Bogdanov) acquired a 40% stake for $88.3 million (auction held November 3, 1995, per Treisman). October 1995 market valuation of that stake: $288.3 million — a discount of approximately 69%. This was an internal transaction: the company effectively acquired its own collateral.
 
 **December 28, 1995 — Nafta-Moskva**
 NaftaFin acquired a 15% stake for $20.01 million.
 
 **December 11, 1995 — Novorossiysk Shipping**
-Novoship acquired a 20% stake for $22.65 million.
+Novoship acquired a 45% stake for $22.65 million.
 
-The aggregate discount across all twelve auctions was substantial. Daniel Treisman's NBER working paper "Loans for Shares Revisited" (2010) calculated undervaluation discounts ranging from 13% (Norilsk Nickel) to 89% (Lukoil), with an average of approximately 34% versus October 1995 market capitalizations — and those market capitalizations themselves already reflected depressed Russian equity prices. Against asset replacement values, the discounts were far larger.
+The aggregate discount across all twelve auctions was substantial. In his NBER working paper "Loans for Shares Revisited" (2010), Daniel Treisman estimated how far the winning bids fell below the October 1995 stock-market value of the stakes sold: about 13% for Norilsk Nickel, 16% for Sibneft, 45% for Yukos, 69% for Surgutneftegaz and 89% for LUKoil (2% for Novolipetsk Metal in his Table 1). Together the five largest came to about $727 million, or $1.36 billion at August-September 1996 prices. He compares these with the roughly 34% average underpricing of share-issue privatizations in other emerging markets — and those market capitalizations themselves already reflected depressed Russian equity prices. Against asset replacement values, the discounts were far larger.
 
 ## The Political Bargain
 

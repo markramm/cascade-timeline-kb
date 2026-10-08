@@ -4,7 +4,7 @@ id: 2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony
 date: '2026-08-13'
 title: "The Motion Behind the Exhibits: HSI Agent Desmond Garcia Told the Grand Jury No One Is Investigated for First Amendment Activity"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - operation-puppet-master
   - project-whipple-shield
@@ -29,6 +29,22 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "### 2. Garcia told the grand jury the opposite of what the record shows"
+  now: "Garcia told the grand jury no one is investigated for First Amendment activity; the defense calls that 'simply not true' (counsel's argument)"
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf — Doc. 212 at 12, quoting Ex. 4 at 214:23-215:8; the claim of contradiction is the defense's characterization"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "Agent Garcia's statement is simply not true."
+  qualifier: ""
+  span: "Agent Garcia's statement is simply not true."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -59,7 +75,7 @@ considers the entities to be conspiring."
 reported-but-not-documented and cautioned against asserting it. It is now documented in a filing,
 with the exhibit number, the page, and the testifying agent named.
 
-### 2. Garcia told the grand jury the opposite of what the record shows
+### 2. Garcia told the grand jury no one is investigated for First Amendment activity; the defense calls that "simply not true"
 
 Quoted at Ex. 4, 214:23-215:8:
 
@@ -69,7 +85,7 @@ Quoted at Ex. 4, 214:23-215:8:
 > criminal predicate to why we're investigating them, either statements that they have made that
 > are criminal to their actual participation in overt criminal acts."
 
-The defense's response, in the motion: "Agent Garcia's statement is simply not true."
+The defense's response, in the motion (counsel's argument, not a court finding): "Agent Garcia's statement is simply not true."
 
 Set that against the record already in the corpus:
 

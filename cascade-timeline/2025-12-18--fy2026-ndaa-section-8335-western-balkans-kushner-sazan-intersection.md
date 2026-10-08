@@ -4,7 +4,7 @@ id: 2025-12-18--fy2026-ndaa-section-8335-western-balkans-kushner-sazan-intersect
 date: '2025-12-18'
 title: "FY 2026 NDAA Section 8335 Codifies EO 14033 Western Balkans Sanctions, Creates Regulatory Frame Around Kushner Belgrade/Sazan Architecture"
 importance: 7
-status: confirmed
+status: reported
 tags:
   - fy-2026-ndaa
   - ndaa
@@ -112,11 +112,65 @@ capture_lanes:
   - Executive Power Expansion
   - International Kleptocracy
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Senator Jeanne Shaheen (D-NH, SFRC Ranking Member) and Senator Roger Wicker (R-MS, SASC Chairman) introduced S.1909 on May 22, 2025, with cosponsors Senators Durbin, Tillis, Van Hollen, Cardin, and Murphy"
+  now: "Senator Jeanne Shaheen (D-NH) introduced S.1909 for herself and Senator Roger Wicker (R-MS) on May 22, 2025; Wicker is the bill's only cosponsor, and the bill was referred to the Committee on Foreign Relations. An earlier version introduced August 4, 2022 had Senators Durbin, Tillis, Van Hollen, Cardin and Murphy as original cosponsors"
+  why: "https://www.govinfo.gov/content/pkg/BILLS-119s1909is/html/BILLS-119s1909is.htm ; Congress.gov cosponsors API — S.1909: 'Mrs. Shaheen (for herself and Mr. Wicker)'; one cosponsor; the Durbin/Tillis/Van Hollen/Cardin/Murphy list is from the Aug 4, 2022 press release; Cardin left the Senate Jan 2025"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The SFRC-passed S.1909 carried a multi-section ... the following were retained per"
+  now: "S.1909 was introduced May 22, 2025 and referred to the Senate Foreign Relations Committee, where it saw no further action; its 118th-Congress predecessor, S.1651, passed the committee in April 2024. Covington reports that the enacted Section 8335 is narrower than that committee-passed bill, which would have required existing Western Balkans sanctions authorities to remain in effect and designated persons to stay designated, subject to the restrictive removal process. The following were retained per"
+  why: "https://www.globalpolicywatch.com/2025/12/new-sanctions-authorities-in-the-fy-2026-ndaa/ Section V; congress.gov S.1909 and S.1651 (118th) actions — S.1909 had only introduction and referral; S.1651 passed SFRC April 16, 2024; Covington's 'narrower' concerns sanctions, not an economic agenda"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "is directed to consider establishing a \"regional office with responsibilities for the Western Balkans\" within one year"
+  now: "should, within one year and subject to the availability of appropriations, consider including a regional office with responsibilities for the Western Balkans within the Corporation's plans to open new regional offices (non-binding language)"
+  why: "https://www.govinfo.gov/content/pkg/BILLS-119s1071enr/ (Western Balkans subtitle (d)(1)) ; Shaheen release Dec 17, 2025 ('encourages ... to consider') — enacted text: 'should consider including a regional office ... within the Corporation's plans to open new regional offices'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "approximately six weeks before NDAA enactment"
+  now: "about seven weeks (50 days) before NDAA enactment"
+  why: "https://www.globalpolicywatch.com/2025/12/new-sanctions-authorities-in-the-fy-2026-ndaa/ Section V — 'the October 29 removal from the SDN List of ... Milorad Dodik, his son Igor'; Oct 29 to Dec 18, 2025 is 50 days"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Specifically identified in the Atlantic Council guide as a retained infrastructure priority — a Bosnia-Croatia-Serbia natural-gas interconnector designed to reduce Bosnian dependence on Russian gas."
+  now: "Named in the Atlantic Council guide as a project the act's direction \"will bolster\" — a planned Bosnia-Croatia gas pipeline that, per the Atlantic Council, \"can help remove Bosnian reliance on Russian gas.\""
+  why: "https://www.atlanticcouncil.org/dispatches/your-expert-guide-to-the-2026-national-defense-authorization-act/ — 'Bosnia's southern energy interconnector, which can help remove Bosnian reliance on Russian gas'; WBIF PRJ-BIH-ENE-009 — a Bosnia-Croatia line, no Serbian leg"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Title XXXIII (subtitle styled \"Western Balkans Democracy and Prosperity Act,\" Sections 8331-8341) of the FY 2026 National Defense Authorization Act"
+  now: "Subtitle C of Title LXXXIII (Division H) of the FY 2026 National Defense Authorization Act (P.L. 119-60), Sections 8331-8341, which may be cited as the \"Western Balkans Democracy and Prosperity Act\""
+  why: "https://ofac.treasury.gov/system/files/2025-12/NDAA_FY2026.pdf — enrolled S.1071: Division H, Title LXXXIII, Subtitle C (Secs. 8331-8341); Sec. 8331 short title"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "April 1, 2026 registration of operating entity Sazan Operations — 100% owned by [[al-khayyat-brothers]] Ramez and Mohamad Al-Khayyat through a six-company cascade."
+  now: "In April 2026, Sazan Operations Holding LLC, a Qatari company founded by associates of Moutaz and Ramiz Khayyat, registered Sazan Operations shpk in Albania; Kapitali reports that its actual project is the Zvernec resort (Kapitali.al, Apr 21, 2026). See [[al-khayyat-brothers]]."
+  why: "https://kapitali.al (Apr 21, 2026); IBT/inkl (Apr 25, 2026); Tirana Times — Sazan Operations shpk registered by Qatar's Sazan Operations Holding LLC, founded by associates of the Khayyats, and Kapitali ties it to the Zvernec resort; no source found for Bloomberg Feb 17 attribution or NYT '12 members'; none of the entry's cited sources links Section 8335 to a Kushner project"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "narrower than the bill that passed the Foreign Relations Committee last year"
+  qualifier: ""
+  span: "The enacted version of this proposal was narrower than the bill that passed the Foreign Relations Committee last year"
+  url: https://www.globalpolicywatch.com/2025/12/new-sanctions-authorities-in-the-fy-2026-ndaa/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "can help remove Bosnian reliance on Russian gas"
+  qualifier: "Bosnia's southern energy interconnector"
+  span: "This direction will bolster vital projects, such as Bosnia's southern energy interconnector, which can help remove Bosnian reliance on Russian gas"
+  url: https://www.atlanticcouncil.org/dispatches/your-expert-guide-to-the-2026-national-defense-authorization-act/
+  read: fetched
+  source_kind: secondary
 ---
 
-Title XXXIII (subtitle styled "Western Balkans Democracy and Prosperity Act," Sections 8331-8341) of the FY 2026 National Defense Authorization Act, signed into law December 18, 2025, codifies the Biden-era Executive Order 14033 Western Balkans sanctions regime and creates a framework of regional economic, anti-corruption, and development-finance authorities spanning Serbia, Albania, Kosovo, Bosnia and Herzegovina, Montenegro, and North Macedonia. Section 8335 specifically is the sanctions-codification provision — converting discretionary presidential sanctions authority under EO 14033 (as amended by EO 14140) into a mandatory, congressional-certification-gated regime with a 90-day implementation deadline (approximately March 18, 2026). The accompanying sections in the 8331-8341 range establish a 5-year regional economic development strategy led by State and USAID, a regional prosperity initiative, a U.S. International Development Finance Corporation (DFC) office in the region, and an anti-corruption technical-assistance program.
+Subtitle C of Title LXXXIII (Division H) of the FY 2026 National Defense Authorization Act (P.L. 119-60), Sections 8331-8341, which may be cited as the "Western Balkans Democracy and Prosperity Act", signed into law December 18, 2025, codifies the Biden-era Executive Order 14033 Western Balkans sanctions regime and creates a framework of regional economic, anti-corruption, and development-finance authorities spanning Serbia, Albania, Kosovo, Bosnia and Herzegovina, Montenegro, and North Macedonia. Section 8335 specifically is the sanctions-codification provision — converting discretionary presidential sanctions authority under EO 14033 (as amended by EO 14140) into a mandatory, congressional-certification-gated regime with a 90-day implementation deadline (approximately March 18, 2026). The accompanying sections in the 8331-8341 range establish a 5-year regional economic development strategy led by State and USAID, a regional prosperity initiative, a U.S. International Development Finance Corporation (DFC) office in the region, and an anti-corruption technical-assistance program.
 
-Sponsorship is bipartisan Senate Foreign Relations Committee leadership: Senator Jeanne Shaheen (D-NH, SFRC Ranking Member) and Senator Roger Wicker (R-MS, SASC Chairman) introduced S.1909 on May 22, 2025, with cosponsors Senators Durbin, Tillis, Van Hollen, Cardin, and Murphy; House companion H.R. 5274 carried the bicameral text. The standalone bill did not pass either chamber; its substance was folded into the FY 2026 NDAA via the bicameral Big-Four-plus-SFRC negotiation documented in [[ndaa-bundling-as-capture-template]] and [[task-inv5-ndaa-sponsors]].
+Sponsorship is bipartisan Senate Foreign Relations Committee leadership: Senator Jeanne Shaheen (D-NH) introduced S.1909 for herself and Senator Roger Wicker (R-MS) on May 22, 2025; Wicker is the bill's only cosponsor, and the bill was referred to the Committee on Foreign Relations. An earlier version introduced August 4, 2022 had Senators Durbin, Tillis, Van Hollen, Cardin and Murphy as original cosponsors; House companion H.R. 5274 carried the bicameral text. The standalone bill did not pass either chamber; its substance was folded into the FY 2026 NDAA via the bicameral Big-Four-plus-SFRC negotiation documented in [[ndaa-bundling-as-capture-template]] and [[task-inv5-ndaa-sponsors]].
 
 ## What Section 8335 and Adjacent Sections Do
 
@@ -128,18 +182,18 @@ Section 8335 converts EO 14033 / EO 14140 from discretionary presidential sancti
 - **Termination restrictions**: The President may terminate designations only by certifying behavioral change; removal otherwise requires congressional-notification gating analogous to Section 222(b) of the Countering America's Adversaries Through Sanctions Act (CAATSA).
 - **National-security waiver**: Renewable 180-day waivers with 15-day congressional notice, plus humanitarian and law-enforcement exceptions.
 - **Sunset**: 8 years from enactment.
-- **Tension with October 2025 Dodik delisting**: On October 29, 2025 — approximately six weeks before NDAA enactment — the Trump administration removed former Republika Srpska president Milorad Dodik and associates from the OFAC SDN list. Section 8335's codification does not retroactively re-list Dodik but creates a statutory framework against which any future administration delisting of Balkans-related designees must be measured.
+- **Tension with October 2025 Dodik delisting**: On October 29, 2025 — about seven weeks (50 days) before NDAA enactment — the Trump administration removed former Republika Srpska president Milorad Dodik and associates from the OFAC SDN list. Section 8335's codification does not retroactively re-list Dodik but creates a statutory framework against which any future administration delisting of Balkans-related designees must be measured.
 
 ### Adjacent Sections — Economic / Development Authorities
 
-The SFRC-passed S.1909 carried a multi-section economic, educational, and development-finance agenda. The enacted NDAA version is narrower than the SFRC-reported bill per Covington's analysis, but the following were retained per Shaheen's December 17, 2025 press release and the Atlantic Council's "expert guide":
+S.1909 was introduced May 22, 2025 and referred to the Senate Foreign Relations Committee, where it saw no further action; its 118th-Congress predecessor, S.1651, passed the committee in April 2024. Covington reports that the enacted Section 8335 is narrower than that committee-passed bill, which would have required existing Western Balkans sanctions authorities to remain in effect and designated persons to stay designated, subject to the restrictive removal process. The following were retained per Shaheen's December 17, 2025 press release and the Atlantic Council's "expert guide":
 
 - **5-year regional economic development strategy**: State and USAID required to submit, within 180 days of enactment, a strategy assessing U.S. competitive opportunities, barriers to trade and investment, and regional-cooperation-initiative effectiveness. Strategy should address clean energy, SME development, women-owned enterprises, and anti-corruption policies.
 - **Regional prosperity / trade initiative**: State / USAID authorized to coordinate a regional trade initiative encompassing Western Balkans countries plus EU-border nations — promoting private-sector growth, intraregional exports, youth and women-led startups, diaspora engagement, investment-screening mechanisms, and regional infrastructure (transportation, telecommunications, energy security).
-- **DFC regional office**: The U.S. International Development Finance Corporation CEO is directed to consider establishing a "regional office with responsibilities for the Western Balkans" within one year; within 180 days, DFC and USAID must jointly report on sovereign loan guarantees for infrastructure and energy projects, additional resource needs, and deployment of insurance products for capital-raising instruments.
+- **DFC regional office**: The U.S. International Development Finance Corporation CEO should, within one year and subject to the availability of appropriations, consider including a regional office with responsibilities for the Western Balkans within the Corporation's plans to open new regional offices (non-binding language); within 180 days, DFC and USAID must jointly report on sovereign loan guarantees for infrastructure and energy projects, additional resource needs, and deployment of insurance products for capital-raising instruments.
 - **Young Balkan Leaders Initiative (BOLD expansion)**: Expands the existing program to the entire Western Balkans region, renames it, and establishes fellowships for 18-35-year-olds in business, IT, cybersecurity, agriculture, and civic engagement.
 - **University partnerships, Peace Corps analysis, cybersecurity reports, biannual Russian/Chinese malign-influence reports**: Additional authorizing language.
-- **Bosnia southern energy interconnector**: Specifically identified in the Atlantic Council guide as a retained infrastructure priority — a Bosnia-Croatia-Serbia natural-gas interconnector designed to reduce Bosnian dependence on Russian gas.
+- **Bosnia southern energy interconnector**: Named in the Atlantic Council guide as a project the act's direction "will bolster" — a planned Bosnia-Croatia gas pipeline that, per the Atlantic Council, "can help remove Bosnian reliance on Russian gas."
 
 ### Country-Specific Language
 
@@ -150,11 +204,11 @@ Per Serbian Monitor's analysis of the enacted text, **Serbia receives singular a
 [[kushner-jared]]'s [[atlantic-incubation-partners]] LLC is the counterparty on two of the highest-profile Balkans real-estate transactions of the Trump 2 era, both documented in [[atlantic-incubation-partners]]:
 
 1. **Belgrade, Serbia** — Yugoslav Ministry of Defense building redevelopment. Investment Agreement signed May 2024; 77.5% Atlantic Incubation Partners / 22.5% Serbian state joint venture; 99-year free lease on the NATO-bombed former Ministry site. Project effectively stalled in late 2025 amid Serbian corruption indictments of government officials involved in the deal; Trump Organization publicly withdrew from the Trump-hotel-Belgrade branding partnership. See [[2025-12--kushner-serbia-trump-hotel-withdrawal-corruption-indictments]].
-2. **Sazan Island, Albania** — €1.4 billion luxury resort. Strategic-investor status granted December 30, 2024. April 1, 2026 registration of operating entity Sazan Operations — 100% owned by [[al-khayyat-brothers]] Ramez and Mohamad Al-Khayyat through a six-company cascade. See [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]].
+2. **Sazan Island, Albania** — €1.4 billion luxury resort. Strategic-investor status granted December 30, 2024. In April 2026, Sazan Operations Holding LLC, a Qatari company founded by associates of Moutaz and Ramiz Khayyat, registered Sazan Operations shpk in Albania; Kapitali reports that its actual project is the Zvernec resort (Kapitali.al, Apr 21, 2026). See [[al-khayyat-brothers]]. See [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]].
 
 ### Structure of the Intersection
 
-The intersection between Section 8335 / Title XXXIII and this architecture is **regulatory-frame and development-finance adjacency**, not direct funding flow. Specifically:
+The intersection between Section 8335 / Title LXXXIII and this architecture is **regulatory-frame and development-finance adjacency**, not direct funding flow. Specifically:
 
 1. **The DFC office provision establishes the institutional infrastructure for U.S. public-sector financing of Balkans infrastructure projects.** DFC does not finance Kushner-owned projects directly — DFC statutory authority limits loan and insurance support to projects where no U.S. private counterparty is the beneficiary. However, the DFC office creates a regional presence that de-risks the broader Balkans investment environment — providing sovereign loan guarantees, political-risk insurance, and infrastructure-project financing — within which private projects like Sazan and Belgrade benefit from a more stable regional credit environment.
 2. **The 5-year regional economic development strategy and regional prosperity initiative codify U.S. policy support for Balkans private-sector development.** Atlantic Incubation Partners' Balkans activity benefits from the U.S.-diplomatic-messaging alignment these authorities direct — State and USAID are now statutorily required to promote "intraregional and U.S. exports" and "regional infrastructure" in a region where Kushner-platform projects are among the largest announced U.S.-origin private investments.
@@ -163,7 +217,7 @@ The intersection between Section 8335 / Title XXXIII and this architecture is **
 
 ### Contrast with Section 8369 (Caesar Repeal) → Al-Khayyat Pipeline
 
-Section 8369 created a direct, datable, quantified pipeline: within approximately 60 days of enactment, Power International Holding (Al-Khayyat) secured approximately $12 billion in Syrian reconstruction contracts (per Bloomberg, February 17, 2026). Section 8335 does not create an analogous Kushner-specific pipeline. The closest analogue — the DFC office creating regional de-risking infrastructure — is structurally adjacent, but operates at the regional-institutional layer rather than at the project-counterparty layer. **This is a structural-benefit finding, not a direct-benefit finding.**
+Section 8369 created a direct, datable, quantified pipeline: within approximately 60 days of enactment, Power International Holding (Al-Khayyat) secured approximately $12 billion in Syrian reconstruction contracts (the Al-Khayyat family business is linked to more than $12 billion in Syrian reconstruction contracts, IBT/inkl, Apr. 25, 2026). Section 8335 does not create an analogous Kushner-specific pipeline. The closest analogue — the DFC office creating regional de-risking infrastructure — is structurally adjacent, but operates at the regional-institutional layer rather than at the project-counterparty layer. **This is a structural-benefit finding, not a direct-benefit finding.**
 
 The Al-Khayyat brothers' involvement in the Sazan project (confirmed by the April 19, 2026 New York Times investigation) means Section 8369's benefit indirectly flows to the Kushner-adjacent Balkans architecture — the $12B Syria reconstruction pipeline provides Al-Khayyat principal capital that partially funds Sazan development. But that flow is through the Al-Khayyat operating ledger, not through Section 8335's authorities.
 
@@ -171,7 +225,7 @@ The Al-Khayyat brothers' involvement in the Sazan project (confirmed by the Apri
 
 **Primary sponsors**: Shaheen (D-NH) / Wicker (R-MS) / Cardin (D-MD) developed the Balkans legislation over several congressional cycles — a predecessor version (H.R. 9123) was introduced in the 118th Congress. The S.1909 / H.R. 5274 cycle in the 119th Congress is the version ultimately folded into the FY 2026 NDAA.
 
-**Overlap with Al-Khayyat meeting list**: The NYT April 19, 2026 investigation reported that Mohamad Al-Khayyat met with "at least 12 members of Congress" during the Caesar Act repeal push. The published reporting to date has not identified the specific 12 members. Shaheen's parallel shepherding of both Section 8369 (Caesar repeal, direct Al-Khayyat beneficiary) and Section 8335 (Western Balkans, Kushner-adjacent regulatory frame) within the same NDAA bundle is notable but the public record does not establish that Al-Khayyat lobbied Shaheen on Section 8335 specifically.
+**Overlap with Al-Khayyat meeting list**: The NYT April 19, 2026 investigation is reported to have found that Mohamad Al-Khayyat met with "at least 12 members of Congress" (that figure was not located in any source checked) during the Caesar Act repeal push. The published reporting to date has not identified the specific 12 members. Shaheen's parallel shepherding of both Section 8369 (Caesar repeal, direct Al-Khayyat beneficiary) and Section 8335 (Western Balkans, Kushner-adjacent regulatory frame) within the same NDAA bundle is notable but the public record does not establish that Al-Khayyat lobbied Shaheen on Section 8335 specifically.
 
 **LDA and FARA gaps**: Lobbying-disclosure and FARA filings specifically naming Section 8335 or the Western Balkans Democracy and Prosperity Act for Q3-Q4 2025 have not been retrieved — these require interactive `disclosures.house.gov` and `efile.fara.gov` searches (agent-blocked per [[task-cross-ndaa-bundling-audit]]).
 
@@ -179,7 +233,7 @@ The Al-Khayyat brothers' involvement in the Sazan project (confirmed by the Apri
 
 ## The Cover-Provision Analysis
 
-Section 8335's bipartisan-codified-sanctions framing — with Serbian-critical findings and Dodik-as-backdrop — provides Democratic cosponsors (Shaheen, Cardin, Durbin, Van Hollen, Murphy) a legitimate foreign-policy accomplishment to cite in NDAA-vote explanations. The provision's position in the 8331-8341 Title XXXIII subtitle, alongside the explicitly pro-democracy / anti-corruption framing, makes a negative vote on the NDAA structurally more costly for SFRC Democrats than a negative vote would be in the absence of Section 8335. This is the same cover-provision function served by the Iraq AUMF repeal (Kaine / Young) elsewhere in the NDAA — left-coded wins that reduce appetite for scrutinizing the capture-beneficiary provisions bundled alongside.
+Section 8335's bipartisan-codified-sanctions framing — with Serbian-critical findings and Dodik-as-backdrop — provides Democratic cosponsors (led by Shaheen) a legitimate foreign-policy accomplishment to cite in NDAA-vote explanations. The provision's position in the 8331-8341 Title LXXXIII subtitle, alongside the explicitly pro-democracy / anti-corruption framing, makes a negative vote on the NDAA structurally more costly for SFRC Democrats than a negative vote would be in the absence of Section 8335. This is the same cover-provision function served by the Iraq AUMF repeal (Kaine / Young) elsewhere in the NDAA — left-coded wins that reduce appetite for scrutinizing the capture-beneficiary provisions bundled alongside.
 
 The NDAA-bundling template is therefore more complete than Worker I's [[task-cross-ndaa-bundling-audit]] catalog suggested: Section 8335 is not a direct-benefit capture provision (contra the original task hypothesis) but it is a **cover-legitimacy provision that operates on the same bundle as Section 8369**. The two provisions share the same principal sponsor (Shaheen) and the same markup-procedure bundle. A SFRC Democrat voting for the NDAA gets the Western Balkans codified-sanctions win while also voting for the Caesar repeal.
 

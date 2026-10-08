@@ -4,7 +4,7 @@ id: 2026-05-12--hill-county-tx-data-center-moratorium-rescinded-after-rcm-hill-l
 date: '2026-05-12'
 title: "Hill County TX Adopts, Then Rescinds Under $100M Federal Suit, the First Texas County Data-Center Moratorium — the Case Now Shaping Bell County and Fort Worth's Cautious Posture"
 importance: 9
-status: confirmed
+status: reported
 lane: datacenter-buildout
 tags:
   - datacenter-buildout
@@ -66,9 +66,25 @@ related_events:
   - 2026-06-22--archer-county-tx-denies-project-raptor-google-abatement-2800-acres
   - 2026-08-18--brazos-county-tx-transfers-rellis-abatement-thisway-global-half-back-on-tax-rolls
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "the Hill County, Texas Commissioners Court unanimously adopted **Order 2026-5154**"
+  now: "the Hill County, Texas Commissioners Court adopted **Order 2026-5154** by a 3-2 roll-call vote (Commissioners Jim Holcomb and Larry Crumpton and County Judge Shane Brassell voted yes; Commissioners Scotty Hawkins and Martin Lake voted no)"
+  why: "https://www.co.hill.tx.us/upload/page/7613/docs/CCMinutes/2026/CC%20Minutes%20May%2012%202026.pdf — item 2026-5154 roll call: Holcomb YES, Crumpton YES, Hawkins NO, Lake NO, Judge Brassell YES, 'MOTION PASSED'; 'Exhibits can be found in Volume Z-64 Page 315' (page 296 is the consent agenda item); KWTX and Texas Tribune 2026-05-12 report 3-2"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Volume Z-64 Page 315"
+  qualifier: "exhibits"
+  span: "Exhibits can be found in Volume Z-64 Page 315"
+  url: https://www.co.hill.tx.us/upload/page/7613/docs/CCMinutes/2026/CC%20Minutes%20May%2012%202026.pdf
+  read: fetched
+  source_kind: primary
 ---
 
-On **May 12, 2026**, the Hill County, Texas Commissioners Court unanimously adopted **Order 2026-5154**, a **one-year moratorium on data center construction** in unincorporated Hill County — the first such county-level moratorium in Texas. Confirmed directly from the court's own minutes (Volume Z-64, Page 296): the order followed an Open Forum in which named residents (Jack Merrill, Tim and Lori Lyness, George Pitterger, Tim and Kim Weiland, Ted Weiland, and others) spoke in opposition to existing and proposed data centers in the county. The order was made on motion by **Commissioner Jim Holcomb**, seconded by **Commissioner Larry Crumpton**, "in order for the county to address the issue at hand, and assess the far-reaching impact to the local community."
+On **May 12, 2026**, the Hill County, Texas Commissioners Court adopted **Order 2026-5154** by a 3-2 roll-call vote (Commissioners Jim Holcomb and Larry Crumpton and County Judge Shane Brassell voted yes; Commissioners Scotty Hawkins and Martin Lake voted no), a **one-year moratorium on data center construction** in unincorporated Hill County — the first such county-level moratorium in Texas. Confirmed directly from the court's own minutes (Volume Z-64, Page 315): the order followed an Open Forum in which named residents (Jack Merrill, Tim and Lori Lyness, George Pitterger, Tim and Kim Weiland, Ted Weiland, and others) spoke in opposition to existing and proposed data centers in the county. The order was made on motion by **Commissioner Jim Holcomb**, seconded by **Commissioner Larry Crumpton**, "in order for the county to address the issue at hand, and assess the far-reaching impact to the local community."
 
 The developer, **RCM Hill LLC** — reported elsewhere to be pursuing a 1,235 MW project locally known as "Project Aquila," after 16-plus months and nearly $1 million in pre-development costs (KERA/Texas Tribune, June 5, 2026) — sued within about three weeks in the **U.S. District Court for the Western District of Texas, Waco Division, Civil Action No. 6:26-CV-00340**, naming Hill County and named commissioners **Shane Brassell, Jim Holcomb, and Larry Crumpton**. Reported causes of action: the moratorium was **ultra vires** (exceeding a Texas county's creature-of-statute authority under Dillon's Rule), an unconstitutional **regulatory taking**, and a **§1983** due-process violation (K&L Gates, June 10, 2026).
 

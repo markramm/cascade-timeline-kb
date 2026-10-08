@@ -1,10 +1,10 @@
 ---
 type: timeline_event
 id: 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
-date: '2026-02-15'
+date: '2026-02-11'
 title: "HSI Opens Project Whipple Shield, Using Warrantless Administrative Summonses Under Customs Authority to Take Years of Union and Nonprofit Financial Records Under a 'Domestic Terrorist Financing' Theory"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - project-whipple-shield
   - operation-puppet-master
@@ -70,6 +70,53 @@ capture_lanes:
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
+corrections:
+- date: '2026-10-08'
+  was: "DHS said it \"doesn't comment on the existence or status of ongoing investigations.\""
+  now: "A DHS spokesperson said: \"HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods,\" and referred inquiries to the U.S. Attorney's Office for the District of Minnesota (KSTP)."
+  why: "https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/ — Official response paragraph; the quoted words were AP's paraphrase, not DHS's"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Many of the underlying cases have since collapsed — at least eight prosecutions brought under the same directive were voluntarily dismissed"
+  now: "In Minnesota, federal prosecutors have voluntarily dismissed at least eight cases against people accused of assaulting federal officers (KSTP, Aug. 13, 2026), but the records those cases helped justify taking have already been taken."
+  why: "https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/ — KSTP never says the eight cases were brought under NSPM-7 or were the predicate cases"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "date: '2026-02-15' / title \"HSI Opens Project Whipple Shield\" / \"Whipple Shield, opened roughly two weeks later\""
+  now: "date: '2026-02-11'. HSI St. Paul opened Project Whipple Shield (case MS02PR26MS0004) on Feb. 11, 2026, two weeks after Operation Puppet Master opened on Jan. 28, 2026 (HSI case-opening ROIs, US v. Sant, Doc. 212-2 and 212-1). Feb. 15 is the date HSI agents attended the United Labor Center recruitment drive. NOTE: file id still carries 2026-02-15."
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf — ROI reads 'CASE OPENED 2/11/2026'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Prosecutors framed the work as a \"domestic terrorist financing\" probe into \"a well-funded and highly organized conspiracy among antifa militants...\""
+  now: "The Washington Examiner described the investigation as one into \"what prosecutors say was a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations,\" and reported that HSI labelled its financial inquiry \"protest domestic terrorist financing\" (Washington Examiner, Aug. 17, 2026; KSTP, Aug. 13, 2026)."
+  why: "https://www.washingtonexaminer.com/news/investigations/4688414/homeland-security-investigated-minnesota-labor-unions/ — the conspiracy phrasing is the Examiner's paraphrase ('what prosecutors say'); 'domestic terrorist financing' is HSI's label, not prosecutors'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods"
+  qualifier: ""
+  span: "HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods."
+  url: https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "at least eight"
+  qualifier: "voluntarily dismissed"
+  span: "In Minnesota alone, prosecutors have voluntarily dismissed at least eight cases against defendants accused of assaulting federal officers."
+  url: https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "2/11/2026"
+  qualifier: "CASE OPENED"
+  span: "CASE OPENED 2/11/2026"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -82,7 +129,7 @@ It obtained years of financial records from labor unions and nonprofits using **
 
 ## What Happened / Key Facts
 
-**The escalation is the structure.** Puppet Master, opened January 28 four days after a federal officer killed Alex Pretti, sought to "unmask the agitators conspiring to exploit the civil unrest to riot, destroy federal property, and assault personnel protecting these facilities." Whipple Shield, opened roughly two weeks later, extended to "sophisticated, organized campaigns" *supporting* those accused. Charge a handful publicly, then use the resulting investigative authorities to map everyone connected to defending them.
+**The escalation is the structure.** Puppet Master, opened January 28 four days after a federal officer killed Alex Pretti, sought to "unmask the agitators conspiring to exploit the civil unrest to riot, destroy federal property, and assault personnel protecting these facilities." Whipple Shield, opened Feb. 11, two weeks later, extended to "sophisticated, organized campaigns" *supporting* those accused. Charge a handful publicly, then use the resulting investigative authorities to map everyone connected to defending them.
 
 **The mechanism, precisely.** HSI's own summons forms (HSI Form 3115, "Department of Homeland Security Summons — To Appear and/or Produce Records"), served on FedWire and the Clearing House Interbank Payment System, state their authority in plain text on the face of the document: **"Issued under authority of section 509, Tariff Act of 1930, as amended by Pub. L. No. 95-410 (19 U.S.C. § 1509); 44 F.R. 2217; Homeland Security Act of 2002."** That is a **customs-summons authority**, not 8 U.S.C. § 1225(d)(4) (an immigration-specific tool), not an IRS-style summons, and not a grand jury subpoena — no judicial officer approves it, and each form doubles as a nondisclosure order: "You are requested not to disclose the existence of this summons for an indefinite period of time." The PayPal/Venmo instrument used against Voices for Racial Justice is described in HSI's own ROI narrative as an "administrative subpoena" rather than a "summons" — the government's internal terminology is not fully consistent between the two instruments, though the underlying authority (agency-issued, no warrant) is the same. Both instruments were signed by **Steven Schrank, Special Agent in Charge, HSI Saint Paul** (the bank summonses) or served by named case agents (the PayPal/Venmo subpoena, SA Terri Botterbusch). Source: Doc. 212-6, 212-7, 212-8, 212-9, 212-10 (US v. Sant, 0:26-cr-00115, D. Minn.), read directly from the archived page images at 300dpi.
 
@@ -100,17 +147,17 @@ Eighteen distinct organizations — a labor federation, a teachers' local, a vet
 
 **No stated predicate connects Sunrise Movement to the investigation's subjects.** The two ROIs that open Puppet Master and Whipple Shield (Doc. 212-1, 212-2) — the documents where HSI would state why any organization drew scrutiny — name no organizations at all; both describe only a generic "organized network of conspirators" and "sophisticated, organized campaigns." The one ROI that discusses Sunrise Movement in narrative detail (Doc. 212-11, approved 3/6/2026) documents two undercover agents (UCA 9833, UCA 5022) attending a public, publicly-advertised "Resistance Skills Training with Sunrise Movement Twin Cities" at the Minneapolis Public Library on January 31, 2026 — and states in HSI's own words that "**it was made clear that the Sunrise Movement organization focused on 'peaceful' protests**." The only note in the file adjacent to "direct action" is that UCA 9833 — the government's own operative — volunteered unprompted that he "works construction and could build items that might assist *other groups* with more 'direct-action' protests," an offer made by HSI's agent to an unnamed attendee, not a statement about Sunrise Movement's own conduct or planning. No later ROI in the reviewed set returns to Sunrise Movement with any additional predicate. **On the documents reviewed, a nationally-scoped climate-advocacy organization was named individually — twice, as two separate legal entities — on a customs-authority summons demanding "any and all records" back to January 2023, with the only substantive investigative narrative about it describing a public training session HSI's own agent characterized as peaceful.** That absence of a stated predicate is itself the finding; it should not be extended to "HSI had no predicate" — only an undisclosed one, or none, is consistent with what these documents show.
 
-**The government's characterization.** Prosecutors framed the work as a "domestic terrorist financing" probe into "a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations." DAMN was described as a network of "violent opportunists" operating "both online and in person."
+**The government's characterization.** The Washington Examiner described the investigation as one into "what prosecutors say was a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations," and reported that HSI labelled its financial inquiry "protest domestic terrorist financing" (Washington Examiner, Aug. 17, 2026; KSTP, Aug. 13, 2026). DAMN was described as a network of "violent opportunists" operating "both online and in person."
 
 **The defense objection.** Defense attorney Kevin Riach argues HSI obtained union financial records with **"zero criminal predicate to do so"**, that in all cases "the people or organizations being surveilled were engaging in First Amendment-protected activities," and that the government "dreamed up a conspiracy" reaching far beyond the indicted defendants to major labor unions "with no evidence."
 
-**Official response.** Minnesota Attorney General Keith Ellison named both operations and called the surveillance "appalling and alarming," describing it as directed at "Minnesotans for exercising their constitutionally protected, basic First Amendment rights." DHS said it "doesn't comment on the existence or status of ongoing investigations."
+**Official response.** Minnesota Attorney General Keith Ellison named both operations and called the surveillance "appalling and alarming," describing it as directed at "Minnesotans for exercising their constitutionally protected, basic First Amendment rights." A DHS spokesperson said: "HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods," and referred inquiries to the U.S. Attorney's Office for the District of Minnesota (KSTP).
 
 ## Why It Matters
 
 **This is the half of the story the coverage under-reports.** Operation Puppet Master got the headlines because undercover agents in church basements is a vivid image. Whipple Shield is the more consequential program: it reached organizations that were never accused of anything, took years of their banking records without a judge, and rendered them to a grand jury as nodes in a terrorism conspiracy chart.
 
-**The predicate chain is the mechanism.** Emptywheel traced it: Bondi's high-profile "trophy arrests" supplied the conspiracy predicate for the Minnesota 15 indictment, which in turn supplied the investigative authorities for the broader infiltration. Prosecution operated as a surveillance-expansion wedge. Many of the underlying cases have since collapsed — at least eight prosecutions brought under the same directive were voluntarily dismissed — but the records they justified taking have already been taken.
+**The predicate chain is the mechanism.** Emptywheel traced it: Bondi's high-profile "trophy arrests" supplied the conspiracy predicate for the Minnesota 15 indictment, which in turn supplied the investigative authorities for the broader infiltration. Prosecution operated as a surveillance-expansion wedge. Separately, in Minnesota federal prosecutors have voluntarily dismissed at least eight cases against people accused of assaulting federal officers (KSTP, Aug. 13, 2026), but the records the predicate cases helped justify taking have already been taken.
 
 **Administrative summonses are the load-bearing tool — and the specific authority is a customs statute, not an immigration one.** The bank-facing instruments (FedWire, CHIPS) invoke 19 U.S.C. § 1509, the Tariff Act of 1930's customs-summons power, retooled here for a domestic-terrorism-financing theory with no customs nexus stated on the form. Not a warrant, not a grand jury subpoena, not even the immigration-specific 8 U.S.C. § 1225(d)(4) — agency-issued process requiring no judicial finding, carrying its own indefinite nondisclosure order. The distinction is what makes the volume possible, and it is the thing least likely to survive scrutiny on a challenge that reaches its statutory basis. It is also the thing most portable to the next jurisdiction.
 

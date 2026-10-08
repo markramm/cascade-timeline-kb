@@ -4,7 +4,7 @@ id: 1947-07-26--national-security-act-executive-power-architecture
 date: '1947-07-26'
 title: "National Security Act: Structural Transfer of Military-Intelligence Policy From Congressional to Executive Control"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - national-security-state
@@ -39,6 +39,61 @@ capture_lanes:
   - Intelligence Penetration
   - National Security State
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "**Classified budget authority.** §108 authorized the Director of Central Intelligence to expend funds ... limited to the aggregate figure."
+  now: "**Appropriations.** Sec. 307 of the Act authorized appropriations of \"such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act\" (61 Stat. 495). The CIA's authority to spend funds \"without regard to the provisions of law and regulations relating to the expenditure of Government funds\" came two years later, in Sec. 10(b) of the Central Intelligence Agency Act of 1949 (63 Stat. 208). That black-budget authority, later expanded to other intelligence agencies, removed major executive-branch spending from standard appropriations oversight."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf ; https://www.govinfo.gov/content/pkg/STATUTE-63/pdf/STATUTE-63-Pg208.pdf — the 1947 Act has no Sec. 108 and no 'without regard' language; Sec. 307 authorizes appropriations; the quoted language is Sec. 10(b) of the CIA Act of 1949; no cited source gives a FY2025 budget figure"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "§102(c) provided that the DCI \"may be commissioned\" — meaning the position could be filled by a serving military officer."
+  now: "§102(a) provided that the Director \"shall be appointed by the President, by and with the advice and consent of the Senate, from among the commissioned officers of the armed services or from among individuals in civilian life,\" and §102(b) let a commissioned officer serve as Director while keeping his military status, rank and pay (61 Stat. 497-498) — meaning the position could be filled by a serving military officer."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf (61 Stat. 497-498) — §102(a): Director 'from among the commissioned officers of the armed services or from among individuals in civilian life'; §102(b) officer keeps military status; §102(c) is the Director's power to end employment; 'may be commissioned' does not appear"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The Act created the Secretary of Defense (originally ... single civilian executive."
+  now: "The Act created the Secretary of Defense and the National Military Establishment (renamed DoD in the 1949 amendments), providing for \"authoritative coordination and unified direction under civilian control but not to merge them\" (Sec. 2). The Secretary had \"general direction, authority, and control\" over the departments, but the Departments of the Army, Navy and Air Force remained \"administered as individual executive departments by their respective Secretaries\" (Sec. 202(a)); the Secretary's full authority came with the 1949 amendments."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf — Sec. 2: 'authoritative coordination and unified direction under civilian control but not to merge them'; Sec. 202(a): departments 'administered as individual executive departments by their respective Secretaries'; full authority over the services came with the 1949 amendments (63 Stat. 578)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The signing was attended only by the Secretary of War (Stimson's successor Robert Patterson) and Forrestal, who became the first Secretary of Defense. The ceremony's intimacy belied the Act's enormous structural significance —"
+  now: "Congressional clerks brought the bill to Truman aboard the plane, and he signed it a little after noon, along with an executive order on the roles and missions of the armed services and the nomination of James Forrestal as the first Secretary of Defense; an hour later, in flight, he learned that his mother had died (Stevenson, Military Review, May-June 2008). The scene belied the Act's enormous structural significance —"
+  why: "https://web.archive.org/web/2020/https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080630_art006.pdf (Stevenson, Military Review, May-June 2008: congressional clerks brought the bill aboard the Sacred Cow; Truman signed a little after noon, with an executive order and Forrestal's nomination); Koh, The National Security Constitution (Yale, 1990) — powers shared by President, Congress and courts; no cited source places Patterson or Forrestal at the signing"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act"
+  qualifier: ""
+  span: "There are hereby authorized to be appropriated such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act."
+  url: https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "from among the commissioned officers of the armed services or from among individuals in civilian life"
+  qualifier: ""
+  span: "from among the commissioned officers of the armed services or from among individuals in civilian life"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "authoritative coordination and unified direction under civilian control but not to merge them"
+  qualifier: ""
+  span: "authoritative coordination and unified direction under civilian control but not to merge them"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: quote
+  value: "congressional clerks brought the bill"
+  qualifier: ""
+  span: "A little after noon, congressional clerks brought the bill on board the Sacred Cow, the four-engine C-54 presidential plane."
+  url: https://web.archive.org/web/2020/https://www.armyupress.army.mil/Portals/7/military-review/Archives/English/MilitaryReview_20080630_art006.pdf
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -49,19 +104,19 @@ The existing cascade-timeline entry [[1947-07-26--national-security-act-creates-
 
 The Act's key executive-power features:
 
-1. **Presidential command of unified military establishment.** Before 1947, the Army, Navy (including Marine Corps), and Air Corps were separately managed by the Secretaries of War and the Navy, both subject to congressional appropriations at department level. The Act created the Secretary of Defense (originally "National Military Establishment," renamed DoD in 1949 amendments) and consolidated military command under a single civilian executive. The Joint Chiefs of Staff became the President's principal military advisers rather than service-branch representatives to Congress.
+1. **Presidential command of unified military establishment.** Before 1947, the Army, Navy (including Marine Corps), and Air Corps were separately managed by the Secretaries of War and the Navy, both subject to congressional appropriations at department level. The Act created the Secretary of Defense and the National Military Establishment (renamed DoD in the 1949 amendments), providing for "authoritative coordination and unified direction under civilian control but not to merge them" (Sec. 2). The Secretary had "general direction, authority, and control" over the departments, but the Departments of the Army, Navy and Air Force remained "administered as individual executive departments by their respective Secretaries" (Sec. 202(a)); the Secretary's full authority came with the 1949 amendments. The Joint Chiefs of Staff became the President's principal military advisers rather than service-branch representatives to Congress.
 
 2. **National Security Council in statute.** The NSC, created by §101 of the Act, institutionalized the apparatus by which the President makes foreign-policy and national-security decisions with advice from a small circle of executive-branch advisers. NSC decisions — NSDs under Eisenhower, NSDDs under Reagan, PPDs under Obama, NSPDs under Bush II, PSMs and "NSM" under Biden — have been the principal mechanism for policy-making that Congress does not formally review.
 
 3. **Central Intelligence Agency.** §102 created the CIA and authorized it to "perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct" — the infamous "fifth function" language that NSC 4-A (December 1947) [[1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function]] interpreted to authorize covert action. This fifth-function interpretation was never ratified by Congress as covert-action authority; it was an executive-branch construction that has been the basis for 78 years of covert operations.
 
-4. **Classified budget authority.** §108 authorized the Director of Central Intelligence to expend funds "without regard to the provisions of law and regulations relating to the expenditure of government funds." This black-budget authority, later expanded to other intelligence agencies, removed major executive-branch spending from standard appropriations oversight. As of FY2025, the classified intelligence budget exceeds $100 billion annually with disclosure limited to the aggregate figure.
+4. **Appropriations.** Sec. 307 of the Act authorized appropriations of "such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act" (61 Stat. 495). The CIA's authority to spend funds "without regard to the provisions of law and regulations relating to the expenditure of Government funds" came two years later, in Sec. 10(b) of the Central Intelligence Agency Act of 1949 (63 Stat. 208). That black-budget authority, later expanded to other intelligence agencies, removed major executive-branch spending from standard appropriations oversight.
 
-5. **Personnel regime.** §102(c) provided that the DCI "may be commissioned" — meaning the position could be filled by a serving military officer. Walter Bedell Smith, Allen Dulles, and later figures moved between CIA, State, and military positions without the typical separation-of-powers constraints.
+5. **Personnel regime.** §102(a) provided that the Director "shall be appointed by the President, by and with the advice and consent of the Senate, from among the commissioned officers of the armed services or from among individuals in civilian life," and §102(b) let a commissioned officer serve as Director while keeping his military status, rank and pay (61 Stat. 497-498) — meaning the position could be filled by a serving military officer. Walter Bedell Smith, Allen Dulles, and later figures moved between CIA, State, and military positions without the typical separation-of-powers constraints.
 
 ## Why This Event Matters
 
-The National Security Act's structural consequence was the creation of what Harold Koh has called the "national-security Constitution" — a parallel institutional order within the executive branch that operates under rules and oversight mechanisms distinct from ordinary administrative law. Key structural features:
+The National Security Act's structural consequence was the creation of what this entry reads as a parallel institutional order within the executive branch (Harold Koh's "national security Constitution" (Yale, 1990) instead describes national-security powers shared by the President, Congress and the courts) that operates under rules and oversight mechanisms distinct from ordinary administrative law. Key structural features:
 
 1. **Institutional permanence.** Unlike the Wilson-era wartime agencies (WIB, Food Administration, etc.) which terminated with the emergency, the 1947 Act's creations are permanent peacetime institutions. The "national security state" is a permanent feature of American government, not a temporary expedient.
 
@@ -77,7 +132,7 @@ Critically for the "authority migration" pattern (Worker U) and the "infrastruct
 
 ## Broader Context
 
-Truman signed the Act on July 26, 1947 in the cabin of the presidential plane the Sacred Cow, departing Washington to visit his dying mother in Missouri. The signing was attended only by the Secretary of War (Stimson's successor Robert Patterson) and Forrestal, who became the first Secretary of Defense. The ceremony's intimacy belied the Act's enormous structural significance — it passed Congress with relatively little debate because it was framed as military-reorganization reform, with the CIA creation presented as a minor addition.
+Truman signed the Act on July 26, 1947 in the cabin of the presidential plane the Sacred Cow, departing Washington to visit his dying mother in Missouri. Congressional clerks brought the bill to Truman aboard the plane, and he signed it a little after noon, along with an executive order on the roles and missions of the armed services and the nomination of James Forrestal as the first Secretary of Defense; an hour later, in flight, he learned that his mother had died (Stevenson, Military Review, May-June 2008). The scene belied the Act's enormous structural significance — it passed Congress with relatively little debate because it was framed as military-reorganization reform, with the CIA creation presented as a minor addition.
 
 Forrestal's suicide in May 1949 (reportedly linked to Cold War paranoia and depression) is a cautionary epitaph to the Act's first phase: the Secretary of Defense created by the Act was destroyed by the demands of the office the Act created.
 

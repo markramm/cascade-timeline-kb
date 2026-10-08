@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2026-05-07--corecivic-q1-2026-earnings-call-and-10q-review
 date: 2026-05-07
-title: "CoreCivic Q1 2026 Earnings Confirm Operational Ramp ($614.7M Revenue, ICE Doubled to $261.3M) but Disclose Temporary ICE Population Decline; No Mention of Warren-Raskin Letter, Mullin Pause, or In-Custody Death Litigation"
+title: "CoreCivic Q1 2026 Earnings Confirm Operational Ramp ($614.7M Revenue, ICE Revenue Up 96.2% to $261.3M) but Disclose Temporary ICE Population Decline; No Mention of Warren-Raskin Letter, Mullin Pause, or In-Custody Death Litigation"
 location: "Brentwood, TN / NYSE:CXW"
-status: confirmed
+status: reported
 importance: 8
 verification_status: unverified
 actors:
@@ -36,6 +36,66 @@ tags:
 coverage:
   - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
     title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
+corrections:
+- date: '2026-10-08'
+  was: "ICE Doubled to $261.3M"
+  now: "ICE Revenue Up 96.2% to $261.3M"
+  why: "https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html — release: ICE revenue $261.3M vs $133.2M, +96.2%; sec.gov 8-K Ex. 99.1 same"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Swindle stated proceeds were used to ... general corporate purposes.\""
+  now: "CoreCivic's May 6 release says the company used the loan \"to pay down a portion of the amounts outstanding under the Revolving Credit Facility and for working capital and general corporate purposes\"; Swindle said it was obtained \"to maintain our strong liquidity position.\""
+  why: "https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html — Capital Strategy section: company-voice sentence; Swindle: 'to maintain our strong liquidity position'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a 1,104-bed capacity at six weeks post-activation — a 23% utilization rate where the company had projected a steady ramp."
+  now: "a planned capacity of 1,104 on May 4, about seven and a half weeks after intake began on March 12; warden Misty Mackey said the company had expected to move to capacity \"slowly\" and was \"a little behind schedule\" (Kansas Reflector)."
+  why: "https://kansasreflector.com/2026/05/06/corecivic-housing-fewer-ice-detainees-than-expected-at-reopened-kansas-prison/ — warden Mackey spoke May 4; intake began March 12 (about seven and a half weeks); 'a little behind schedule'; 23% is the entry's own arithmetic"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "This is the first explicit issuer disclosure that DHS enforcement-redeployment activity is materially affecting detention-bed demand."
+  now: "CoreCivic updated its 2026 guidance \"to reflect a recent decrease in nationwide ICE populations compared with our prior guidance, due to enforcement redeployments and overall strategy adjustments within DHS, which we believe is temporary\" (Q1 2026 release). Its 10-Q attributes the nationwide drop to the DHS funding shutdown, a reorganization of DHS leadership, and ICE agents redeployed to TSA checkpoints; neither document mentions the Mullin pause or warehouse detention."
+  why: "https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html ; CoreCivic Q1 2026 10-Q — release attributes the guidance cut to 'enforcement redeployments and overall strategy adjustments within DHS, which we believe is temporary'; 10-Q cites the DHS funding shutdown, DHS leadership reorganization and ICE agents at TSA checkpoints; neither mentions the Mullin pause"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "GEO's release framed Q2 as the strongest quarter of the year and raised guidance unambiguously."
+  now: "GEO's release raised full-year 2026 guidance (revenue $2.95-3.10B, Adjusted EBITDA $525-545M) without acknowledging any softening in ICE populations; its Q2 2026 guidance was revenue of $715-725M and Adjusted EBITDA of $130-135M (GEO Group 8-K Ex. 99.1, May 6, 2026)."
+  why: "GEO Group 8-K Ex. 99.1, May 6, 2026 (sec.gov/Archives/edgar/data/0000923796/000119312526207484/d122560dex991.htm) — Q2 guide $715-725M revenue below the second-half run-rate implied by FY guidance; '$520 million' is up to, all segments, ~$300M ICE activations"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "96.2%"
+  qualifier: ""
+  span: "revenue from U.S. Immigration & Customs Enforcement (ICE), our largest government partner, grew 96.2% over the first quarter of 2025"
+  url: https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "to maintain our strong liquidity position"
+  qualifier: ""
+  span: "We obtained the incremental term loan to maintain our strong liquidity position"
+  url: https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "about 250"
+  qualifier: "immigration detainees"
+  span: "CoreCivic's newly reopened prison is holding about 250 immigration detainees, a slower ramp-up to full capacity than expected, an official said Monday."
+  url: https://kansasreflector.com/2026/05/06/corecivic-housing-fewer-ice-detainees-than-expected-at-reopened-kansas-prison/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: "which we believe is temporary"
+  qualifier: ""
+  span: "due to enforcement redeployments and overall strategy adjustments within DHS, which we believe is temporary"
+  url: https://www.stocktitan.net/news/CXW/core-civic-reports-first-quarter-2026-financial-93yb14hvjpvw.html
+  read: fetched
+  source_kind: secondary
 ---
 
 On May 7, 2026, CoreCivic Inc. (NYSE: CXW) hosted its Q1 2026 earnings call at 11:00 a.m. ET, the morning after its post-close press release of May 6. Q1 2026 is the first full quarter under CEO Patrick Swindle, who succeeded Damon Hininger on January 1, 2026, and the company's parallel disclosure cycle to GEO Group's May 6 release ([[2026-05-06--geo-group-q1-2026-results-raises-guidance]]). The release confirms the operational ramp narrative — ICE revenue nearly doubled — while introducing the first explicit guidance acknowledgment that the DHS enforcement environment is currently dampening detention demand. As with GEO, the press release contains no reference to the March 29, 2026 Warren-Raskin letter ([[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]), the Mullin pause, or the in-custody-death litigation cluster.
@@ -65,11 +125,11 @@ The ICE revenue jump tracks closely with the GEO pattern: both companies near-do
 
 The guidance raise is modest relative to the Q1 beat — Adjusted EBITDA midpoint moved up only ~$16M against an EBITDA quarter that beat consensus by ~$13M alone — and explicitly absorbs both the upside from the April 1, 2026 closing of the Clinical Solutions Pharmacy acquisition ($148M; +$0.03–$0.05 EPS contribution) and **a downside adjustment for "a recent decrease in nationwide ICE populations compared with our prior guidance, due to enforcement redeployments and overall strategy adjustments within DHS, which we believe is temporary."**
 
-This is the first explicit issuer disclosure that DHS enforcement-redeployment activity is materially affecting detention-bed demand. It is structurally consistent with the [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]] Mullin-pause reporting and with the Kansas Reflector May 6 disclosure that CoreCivic's reopened **Midwest Regional Reception Center (Leavenworth, KS)** was holding only ~250 detainees against a 1,104-bed capacity at six weeks post-activation — a 23% utilization rate where the company had projected a steady ramp.
+CoreCivic updated its 2026 guidance "to reflect a recent decrease in nationwide ICE populations compared with our prior guidance, due to enforcement redeployments and overall strategy adjustments within DHS, which we believe is temporary" (Q1 2026 release). Its 10-Q attributes the nationwide drop to the DHS funding shutdown, a reorganization of DHS leadership, and ICE agents redeployed to TSA checkpoints; neither document mentions the Mullin pause or warehouse detention. It is structurally consistent with the [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]] Mullin-pause reporting and with the Kansas Reflector May 6 disclosure that CoreCivic's reopened **Midwest Regional Reception Center (Leavenworth, KS)** was holding only ~250 detainees against a planned capacity of 1,104 on May 4, about seven and a half weeks after intake began on March 12; warden Misty Mackey said the company had expected to move to capacity "slowly" and was "a little behind schedule" (Kansas Reflector).
 
 ## Capital Deployment
 
-- **$100M Incremental Term Loan** (April 10, 2026, matures April 9, 2027): Swindle stated proceeds were used to "pay down a portion of the amounts outstanding under the Revolving Credit Facility and for working capital and general corporate purposes." This reconciles the use-of-proceeds question raised in the parent task: the term loan is liquidity refinancing, not facility-acquisition capex.
+- **$100M Incremental Term Loan** (April 10, 2026, matures April 9, 2027): CoreCivic's May 6 release says the company used the loan "to pay down a portion of the amounts outstanding under the Revolving Credit Facility and for working capital and general corporate purposes"; Swindle said it was obtained "to maintain our strong liquidity position." This reconciles the use-of-proceeds question raised in the parent task: the term loan is liquidity refinancing, not facility-acquisition capex.
 - **Share repurchases Q1 2026**: 2.3M shares for $44.7M; cumulative 28.1M shares for $444.2M since 2022 authorization; $255.8M remains.
 - **2026 capex guidance**: Maintenance real estate $30–35M; Maintenance IT/other $30–35M; **Facility activation $40–45M**; Other $15M. Total ~$115–130M.
 - **Clinical Solutions Pharmacy** ($148M, closed April 1): Diversification into an adjacent corrections-services business; characterized by Swindle as "diversification of our cash flows in a complementary business."
@@ -90,7 +150,7 @@ The disclosure-tracking finding for Investigation 1 remains intact across both Q
 
 CoreCivic's pattern is structurally adjacent to GEO's but with two divergences:
 
-1. **CoreCivic explicitly acknowledged the ICE-population softness; GEO did not.** GEO's release framed Q2 as the strongest quarter of the year and raised guidance unambiguously. CoreCivic's guidance raise is mathematically smaller than its Q1 beat would have implied, with the gap attributed to the DHS enforcement-redeployment headwind. This is the first issuer-side documentation that the Mullin pause / DHS strategy adjustment is showing up in detention-bed utilization on the ground.
+1. **CoreCivic explicitly acknowledged the ICE-population softness; GEO did not.** GEO's release raised full-year 2026 guidance (revenue $2.95-3.10B, Adjusted EBITDA $525-545M) without acknowledging any softening in ICE populations; its Q2 2026 guidance was revenue of $715-725M and Adjusted EBITDA of $130-135M (GEO Group 8-K Ex. 99.1, May 6, 2026). CoreCivic's guidance raise is mathematically smaller than its Q1 beat would have implied, with the gap attributed to the DHS enforcement-redeployment headwind. This is the issuer's own attribution of the decline to DHS enforcement redeployments and strategy adjustments; it does not mention the Mullin pause.
 2. **Different non-detention diversification leg.** GEO acquired/expanded BI Incorporated (skip-tracing, electronic monitoring); CoreCivic acquired Clinical Solutions Pharmacy. Both signal management's view that growth requires lateral expansion into adjacent corrections-services revenue streams rather than additional detention real-estate capex.
 
 Both companies retained the **disclosure-silence pattern** documented at GEO: no engagement with the Warren-Raskin probe at the press-release / 8-K level, despite both being named recipients.
@@ -99,9 +159,9 @@ Both companies retained the **disclosure-silence pattern** documented at GEO: no
 
 The Q1 2026 results confirm the architectural pattern documented in [[warehouse-fungibility-and-the-detention-hedge]] and the five-specimen lender-recovery sub-mechanism ([[goldman-352m-fundrise-portfolio-dhs-cross-reference]]):
 
-1. **The detention-buildout revenue is real and large**: $261.3M of CoreCivic ICE revenue in a single quarter (annualized ~$1.05B at this run-rate) plus $521M annualized at GEO confirms the federal-detention leg is generating the cash flows the architectural frame predicted.
+1. **The detention-buildout revenue is real and large**: $261.3M of CoreCivic ICE revenue in a single quarter (annualized ~$1.05B at this run-rate) plus up to approximately $520 million in new incremental annualized revenue across all segments at GEO, about $300 million of it from ICE facility activations (GEO Group 8-K Ex. 99.1, May 6, 2026) confirms the federal-detention leg is generating the cash flows the architectural frame predicted.
 2. **The capital allocation confirms the hedge structure**: both firms returning free cash flow to shareholders rather than deploying it into new facility acquisition signals that **the existing footprint plus the federal pipeline is sufficient to absorb the buildout** — additional detention capex is not required to monetize the policy environment.
-3. **The Mullin pause is producing measurable demand softness at the operating level**, now visible in two specific data points: (a) CoreCivic's guidance acknowledgment of ICE-population redeployment, (b) the Leavenworth Midwest Regional Reception Center's 23% utilization rate at six weeks of operation. This is the first quarter in which the pause-pushback layer is converting to issuer-reported revenue impact.
+3. **The issuer attributes a temporary nationwide ICE-population decline to DHS enforcement redeployments**, now visible in two specific data points: (a) CoreCivic's guidance acknowledgment of ICE-population redeployment, (b) the Leavenworth Midwest Regional Reception Center holding about 250 detainees against a planned 1,104 about seven and a half weeks in. This is the first quarter in which the pause-pushback layer is converting to issuer-reported revenue impact.
 4. **The disclosure-silence pattern persists**: neither issuer treats the 52-lawmaker congressional inquiry as a materiality threshold requiring acknowledgment, even at the press-release stage where the Mullin-pause demand softness is being disclosed.
 
 ## Research Gaps

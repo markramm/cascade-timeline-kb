@@ -4,7 +4,7 @@ id: 1969-07-17--nixon-cooper-church-impoundment-cambodia-authority-claims
 date: '1969-07-17'
 title: "Nixon Administration Articulates Comprehensive Executive-Supremacy Doctrine: Impoundment, Secret Bombing, Pocket Vetoes, Surveillance"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - nixon
@@ -25,10 +25,10 @@ sources:
     publisher: Houghton Mifflin
     date: '1973-01-01'
     tier: 2
-  - title: "Cooper-Church Amendment to the Foreign Military Sales Act, P.L. 91-672, 84 Stat. 2053"
-    url: https://www.congress.gov/bill/91st-congress/senate-bill/4992
+  - title: "Cooper-Church Amendment, Special Foreign Assistance Act of 1971, P.L. 91-652, Sec. 7, 84 Stat. 1942"
+    url: https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1942.pdf
     publisher: Congress.gov
-    date: '1971-01-12'
+    date: '1971-01-05'
     tier: 1
   - title: "Keith Case (United States v. United States District Court, 407 U.S. 297, 1972)"
     url: https://supreme.justia.com/cases/federal/us/407/297/
@@ -39,6 +39,32 @@ capture_lanes:
   - Executive Power Expansion
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "the Cooper-Church Amendment (signed January 12, 1971) prohibiting further U.S. ground combat in Cambodia."
+  now: "the revised Cooper-Church Amendment, enacted as Sec. 7 of the Special Foreign Assistance Act of 1971 (P.L. 91-652, 84 Stat. 1942, approved January 5, 1971), barring the use of any funds to introduce U.S. ground combat troops into Cambodia or to provide U.S. advisers to Cambodian military forces there."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1942.pdf — P.L. 91-652 §7(a), approved Jan 5, 1971; P.L. 91-672 (Foreign Military Sales Act amendments, Jan 12, 1971) has no Cambodia provision"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The program was exposed by William Safire in 1973 and led to the *Keith Case* ... violates the Fourth Amendment."
+  now: "The wiretaps became public in May 1973, when Seymour Hersh reported them in the New York Times. They were not the subject of the *Keith Case* (*United States v. United States District Court*, 407 U.S. 297, June 19, 1972), which arose from the prosecution of Lawrence \"Pun\" Plamondon for the dynamite bombing of a CIA office in Ann Arbor, Michigan; there the Court held that warrantless wiretapping for \"domestic security\" violates the Fourth Amendment (Justice Rehnquist took no part; Chief Justice Burger and Justice White concurred only in the result or judgment)."
+  why: "https://supreme.justia.com/cases/federal/us/407/297/ (Cornell LII copy) — Keith arose from the Plamondon prosecution (CIA office bombing, Ann Arbor); decided June 19, 1972, before the 1973 exposure; Hersh/NYT May 1973; Rehnquist took no part"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "date: '1969-07-17' / 'By mid-1969, six months into Nixon's first term, his administration had articulated ...'"
+  now: "No source gives 1969-07-17 as the date of any event; the entry says itself that no single event defines the doctrine. The date field is left unchanged pending a decision on re-dating; the enacted Cooper-Church restriction is dated January 5, 1971 (P.L. 91-652)."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1942.pdf — date has no documentary anchor"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "January 5, 1971"
+  qualifier: "Approved"
+  span: "Approved January 5, 1971."
+  url: https://www.govinfo.gov/content/pkg/STATUTE-84/pdf/STATUTE-84-Pg1942.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -49,11 +75,11 @@ By mid-1969, six months into Nixon's first term, his administration had articula
 
 The Nixon-era executive-power architecture operated across multiple lanes simultaneously:
 
-1. **War-making without authorization.** The secret bombing of Cambodia, begun March 18, 1969 and continuing through May 1970, was concealed from Congress through double-booking of flight records. Menu operations ran 3,875 B-52 sorties; the program was authorized by Nixon alone, with no notification to or authorization from Congress. The April 30, 1970 publicly acknowledged invasion of Cambodia [[1970-04-30--cambodia-ground-invasion-nixon-announcement]] — *needs entry* — triggered the Kent State massacre (May 4), campus shutdowns, and the Cooper-Church Amendment (signed January 12, 1971) prohibiting further U.S. ground combat in Cambodia. Cooper-Church was ignored by the administration through various interpretive evasions.
+1. **War-making without authorization.** The secret bombing of Cambodia, begun March 18, 1969 and continuing through May 1970, was concealed from Congress through double-booking of flight records. Menu operations ran 3,875 B-52 sorties; the program was authorized by Nixon alone, with no notification to or authorization from Congress. The April 30, 1970 publicly acknowledged invasion of Cambodia [[1970-04-30--cambodia-ground-invasion-nixon-announcement]] — *needs entry* — triggered the Kent State massacre (May 4), campus shutdowns, and the revised Cooper-Church Amendment, enacted as Sec. 7 of the Special Foreign Assistance Act of 1971 (P.L. 91-652, 84 Stat. 1942, approved January 5, 1971), barring the use of any funds to introduce U.S. ground combat troops into Cambodia or to provide U.S. advisers to Cambodian military forces there. Cooper-Church was ignored by the administration through various interpretive evasions.
 
 2. **Impoundment.** Nixon's aggressive impoundments — $18 billion in withheld appropriations by 1973 — ran across water-pollution programs, housing, agriculture, and highway funds. The administration's legal theory, articulated by OMB Director George Shultz and developed by OLC, held that appropriations establish a spending ceiling but not a floor, and that the President retains discretion to decline to spend. The *Train v. New York* (1975) [[1974-07-12--impoundment-control-act-nixon-budget-reform]] decision rejected this theory.
 
-3. **Warrantless domestic surveillance.** Wiretapping of seventeen journalists and administration officials (May 1969-February 1971) was conducted under claimed "national security" authority without court review. The program was exposed by William Safire in 1973 and led to the *Keith Case* (*United States v. United States District Court*, 407 U.S. 297, June 19, 1972) in which a unanimous Supreme Court held that warrantless wiretapping for "domestic security" violates the Fourth Amendment. *Keith* directly motivated FISA's 1978 creation of a specialized court for foreign-intelligence surveillance.
+3. **Warrantless domestic surveillance.** Wiretapping of seventeen journalists and administration officials (May 1969-February 1971) was conducted under claimed "national security" authority without court review. The wiretaps became public in May 1973, when Seymour Hersh reported them in the New York Times. They were not the subject of the *Keith Case* (*United States v. United States District Court*, 407 U.S. 297, June 19, 1972), which arose from the prosecution of Lawrence "Pun" Plamondon for the dynamite bombing of a CIA office in Ann Arbor, Michigan; there the Court held that warrantless wiretapping for "domestic security" violates the Fourth Amendment (Justice Rehnquist took no part; Chief Justice Burger and Justice White concurred only in the result or judgment). *Keith* directly motivated FISA's 1978 creation of a specialized court for foreign-intelligence surveillance.
 
 4. **Pocket veto expansion.** Nixon asserted the "pocket veto" authority — the presidential power to kill legislation by taking no action during an adjournment — across intra-session recesses and short congressional adjournments. *Kennedy v. Sampson* (D.C. Cir. 1974) rejected the expanded interpretation. The dispute remains operatively contested; subsequent administrations have used pocket vetoes sparingly but with a more conservative interpretation of "adjournment."
 
@@ -69,7 +95,7 @@ Four structural patterns emerged from the Nixon period that have been replicated
 
 1. **Parallel constitutional theories.** The administration maintained multiple alternative constitutional theories for the same action, allowing attorneys to pick whichever worked in a given forum. Impoundments were variously justified as discretionary authority, Commander-in-Chief prerogative, faithful-execution duty, and appropriations-ceiling theory. The multi-theory approach makes litigation difficult because each theory must be separately refuted. Bush II and Trump II have used similar multi-theory approaches in defense of controversial actions.
 
-2. **OLC legitimation.** Nixon-era OLC (headed by William Rehnquist, 1969-71, and Robert Dixon, 1973-74) produced the internal legal opinions validating these practices. Rehnquist's 1969 memorandum supporting warrantless national-security wiretapping was part of the Keith Case briefing failure; his 1970 memos on executive privilege were incorporated into the Watergate litigation strategy. The OLC role in providing binding internal legitimation for subsequent controversial action — Bush II torture/surveillance memos, Obama drone-targeting memos, Trump II unitary-executive memos — traces directly to the Nixon-era operational pattern.
+2. **OLC legitimation.** Nixon-era OLC (headed by William Rehnquist, 1969-71, and Robert Dixon, 1973-74) produced the internal legal opinions validating these practices. Rehnquist, who headed OLC from 1969 to 1971, took no part in the consideration or decision of the *Keith Case*; his 1970 memos on executive privilege were incorporated into the Watergate litigation strategy. The OLC role in providing binding internal legitimation for subsequent controversial action — Bush II torture/surveillance memos, Obama drone-targeting memos, Trump II unitary-executive memos — traces directly to the Nixon-era operational pattern.
 
 3. **Claim, then narrow.** The administration would claim the broadest possible version of an executive authority, then negotiate narrower positions in particular litigation. The broad claim preserved the political position; the narrower litigation position preserved the immediate action. The pattern has been imitated systematically by subsequent administrations.
 

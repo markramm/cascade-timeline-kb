@@ -4,7 +4,7 @@ id: 2006-01-24--kbr-dhs-ice-detention-contingency-contract
 date: '2006-01-24'
 title: "KBR (Halliburton Subsidiary) Awarded $385M DHS/ICE Contingency Contract for Emergency Immigrant Detention Facilities"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - investigation-1
   - detention-industrial
@@ -61,6 +61,40 @@ capture_lanes:
   - Regulatory Capture
   - Executive Power Expansion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "The only confirmed activation in the public record was a $7 million task order for temporary shelter support for DHS/ICE officials during post-Katrina operations in New Orleans."
+  now: "Type Investigations reports that during Hurricane Katrina, DHS ordered KBR to provide $7 million of temporary shelter for DHS and ICE officials in New Orleans; that order came under the readiness-exercise provision of the earlier 2001-2005 contract, not the 2006 award, and the cited sources document no task orders under the 2006 IDIQ."
+  why: "https://www.typeinvestigations.org/investigation/2006/03/14/hotel-u-s/ ¶15 — 'Under that provision [readiness exercises of the 2001-2005 contract], DHS ordered KBR to provide temporary shelter for DHS and ICE officials in New Orleans for $7 million'; Katrina (Aug 2005) preceded the Jan 2006 award"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "per Type Investigations' March 2006 reporting citing Army Corps contracting officer Linda Eadie, \"KBR is not planning to build anything."
+  now: "per Type Investigations' March 2006 reporting, in its own words (not attributed to the Army Corps contracting officer, Linda Eadie): \"KBR is not planning to build anything."
+  why: "https://www.typeinvestigations.org/investigation/2006/03/14/hotel-u-s/ ¶27 — the 'KBR is not planning to build anything ...' sentence is the author's own narration, not attributed to Eadie; Eadie's quote is 'This is a cost-plus contract, but it is not a no-bid. The procurement was competitively negotiated.'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "An ICE spokesman stated publicly — as reported in the New York Times on February 4, 2006 — that \"if a migration emergency does not happen, the detention centers may never need to be built.\""
+  now: "ICE spokeswoman Jamie Zuieback told the New York Times (February 4, 2006) that KBR would build the centers only in an emergency like the Cuban rafter influx, and that the centers might never be built if such an emergency did not arise (paraphrased by the Times and by Type Investigations; not a direct quotation)."
+  why: "https://www.typeinvestigations.org/investigation/2006/03/14/hotel-u-s/ — 'An ICE spokesman told the New York Times on Feb. 4, 2006 that if a migration emergency does not happen, the detention centers may never need to be built' (paraphrase, no quotation marks); NYT reprint: spokeswoman Jamie Zuieback 'emphasized that the centers might never be built if such an emergency did not arise'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "$7 million"
+  qualifier: "temporary shelter for DHS and ICE officials in New Orleans"
+  span: "DHS ordered KBR to provide temporary shelter for DHS and ICE officials in New Orleans for $7 million"
+  url: https://www.typeinvestigations.org/investigation/2006/03/14/hotel-u-s/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "KBR is not planning to build anything"
+  qualifier: ""
+  span: "In fact, KBR is not planning to build anything."
+  url: https://www.typeinvestigations.org/investigation/2006/03/14/hotel-u-s/
+  read: fetched
+  source_kind: secondary
 ---
 
 On January 24, 2006, the U.S. Department of Homeland Security's Immigration and Customs Enforcement (ICE) component awarded an Indefinite Delivery/Indefinite Quantity (IDIQ) contingency contract to Kellogg Brown & Root (KBR), then a wholly owned subsidiary of Halliburton, for detention facility construction and logistics support in the event of "an emergency influx of immigrants into the U.S." or "the rapid development of new programs." The contract had a ceiling value of $385 million over a five-year term — one-year base period plus four one-year option years through 2011 — and was administered by the U.S. Army Corps of Engineers, Fort Worth District. An annual readiness fee of $481,212 was payable to KBR to maintain planning capacity even if no activation occurred.
@@ -78,13 +112,13 @@ KBR announced the award through a corporate press release on January 24, 2006. T
 
 The contract was competitively awarded — KBR was the sole bidder. KBR's executive vice president, Bruce Stanski (KBR Government and Infrastructure division), stated: "We are especially gratified to be awarded this contract because it builds on our extremely strong track record." KBR had held the predecessor ICE detention support contract from 2000 through 2005, generating approximately $6 million in that period — meaning the $385 million ceiling represented a dramatic scaling of contingency capacity, not an extension of routine operations.
 
-The facilities contemplated under the contract were not traditional construction: per Type Investigations' March 2006 reporting citing Army Corps contracting officer Linda Eadie, "KBR is not planning to build anything. Existing structures, be they a local stadium, warehouse or airplane hangar, will be leased for a given period of time." The contract covered repurposing of existing infrastructure, not permanent construction. Facility specifications in planning documents described a tiered detention structure: a temporary staging facility capable of housing 5,000 people for up to 72 hours; a transfer point accommodating 600 detainees for up to three months; and a longer-term detention facility for criminal and medically complex detainees. An ICE spokesman stated publicly — as reported in the New York Times on February 4, 2006 — that "if a migration emergency does not happen, the detention centers may never need to be built."
+The facilities contemplated under the contract were not traditional construction: per Type Investigations' March 2006 reporting, in its own words (not attributed to the Army Corps contracting officer, Linda Eadie): "KBR is not planning to build anything. Existing structures, be they a local stadium, warehouse or airplane hangar, will be leased for a given period of time." The contract covered repurposing of existing infrastructure, not permanent construction. Facility specifications in planning documents described a tiered detention structure: a temporary staging facility capable of housing 5,000 people for up to 72 hours; a transfer point accommodating 600 detainees for up to three months; and a longer-term detention facility for criminal and medically complex detainees. ICE spokeswoman Jamie Zuieback told the New York Times (February 4, 2006) that KBR would build the centers only in an emergency like the Cuban rafter influx, and that the centers might never be built if such an emergency did not arise (paraphrased by the Times and by Type Investigations; not a direct quotation).
 
 Congressional response was notable for its exclusion from the process: Rep. Bennie Thompson (D-MS), ranking member of the House Homeland Security Committee, stated publicly that he first learned about the KBR contract through newspaper reports, not official channels. This was consistent with the Bush administration's pattern of bypassing congressional notification on major DHS contracting decisions.
 
 The Halliburton/Cheney corporate context is directly relevant. Dick Cheney served as Halliburton's CEO from 1995 to 2000, departing to become Vice President. The 2006 ICE contract came as KBR was simultaneously operating under LOGCAP III — the Army's primary Iraq War logistics contract, cumulative value exceeding $37 billion through 2011 — giving KBR simultaneous standing IDIQ infrastructure across military and immigration enforcement domains. Halliburton completed the spinoff of KBR on April 5, 2007, fourteen months after this contract award, establishing KBR as an independent publicly traded company on the NYSE.
 
-**Actual spending vs. ceiling:** No public record confirms that the $385 million ceiling was approached, or that large-scale task orders were issued under this IDIQ during its five-year term. The contract structure — IDIQ with readiness retainer — meant the ceiling was a maximum authority, not an obligation. The only confirmed activation in the public record was a $7 million task order for temporary shelter support for DHS/ICE officials during post-Katrina operations in New Orleans. The vast majority of the $385 million ceiling was never activated as of available reporting through 2011. USASpending.gov records for this specific 2006 IDIQ were not retrievable through automated research; a manual search of Army Corps of Engineers contract records would be required to confirm the final obligated total.
+**Actual spending vs. ceiling:** No public record confirms that the $385 million ceiling was approached, or that large-scale task orders were issued under this IDIQ during its five-year term. The contract structure — IDIQ with readiness retainer — meant the ceiling was a maximum authority, not an obligation. Type Investigations reports that during Hurricane Katrina, DHS ordered KBR to provide $7 million of temporary shelter for DHS and ICE officials in New Orleans; that order came under the readiness-exercise provision of the earlier 2001-2005 contract, not the 2006 award, and the cited sources document no task orders under the 2006 IDIQ. The vast majority of the $385 million ceiling was never activated as of available reporting through 2011. USASpending.gov records for this specific 2006 IDIQ were not retrievable through automated research; a manual search of Army Corps of Engineers contract records would be required to confirm the final obligated total.
 
 ## GROWER-ASSERTED, UNVERIFIED
 

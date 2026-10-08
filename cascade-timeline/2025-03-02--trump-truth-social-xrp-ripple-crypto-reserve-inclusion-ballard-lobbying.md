@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2025-03-02--trump-truth-social-xrp-ripple-crypto-reserve-inclusion-ballard-lobbying
 date: '2025-03-02'
-title: "Trump's Truth Social Posts Name XRP in Crypto Reserve; Ripple-Linked Lobbyist Drafted Text Without Disclosing Client Conflict"
+title: "Trump's Truth Social Posts Name XRP in Crypto Reserve; Politico Reports a Ripple-Linked Lobbyist Handed Him the Message"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - investigation-4
   - ripple
@@ -69,11 +69,40 @@ capture_lanes:
 relocated_lanes:
   - Captured-X (Five-Beat Arc)
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Donated $4.9 million in XRP to Trump's inaugural fund (confirmed by FEC filings; second-largest single crypto donation)."
+  now: "Donated $4,889,345 in XRP to Trump's inaugural fund (FEC filings, per The Crypto Basic): the largest crypto-industry donation and the second-largest single donation among all donors, behind Pilgrim's $5 million."
+  why: "https://thecryptobasic.com/2025/04/22/new-fec-filings-confirms-ripples-xrp-donations-second-biggest-to-trumps-inauguration-fund/ — 'Ripple's XRP donations made up the largest contributions from the crypto industry'; 'Ripple contributed $4.9 million, the second-largest single sum among all donors ... the largest donor was Pilgrim, which gave $5 million'; $4,889,345"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Subsequent reporting revealed that a Ballard Partners employee working for Ripple Labs as a lobbying client had drafted the post text and persuaded Trump to publish it without disclosing the client conflict."
+  now: "Politico reported on May 8, 2025, citing two people familiar with the incident who spoke anonymously, that a Ballard Partners employee at a Mar-a-Lago donor event urged Trump several times to post about crypto and gave him a copy of a message she thought he should write; according to the report, Trump posted it and learned only afterward that Ripple Labs, whose XRP token the post named, was a Ballard client. Ballard called the accounts \"false accusations from unnamed sources\" and denied that he or his team misled the president."
+  why: "https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html (Politico, May 8, 2025) — a Ballard employee 'buttonholed the president and encouraged him multiple times' and 'gave him a copy of a message she thought he should write'; 'It was only after he posted that missive that Trump realized ... Ripple Labs was a Ballard client'; two anonymous sources; Ballard: 'false accusations from unnamed sources'; https://cryptobriefing.com/trump-ripple-lobbyist-controversy/"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "$4,889,345"
+  qualifier: "Ripple"
+  span: "Ripple led the pack by donating $4,889,345"
+  url: https://thecryptobasic.com/2025/04/22/new-fec-filings-confirms-ripples-xrp-donations-second-biggest-to-trumps-inauguration-fund/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "gave him a copy of a message she thought he should write"
+  qualifier: ""
+  span: "even gave him a copy of a message she thought he should write"
+  url: https://www.yahoo.com/news/trump-whisperer-west-wing-pariah-085500000.html
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On March 2, 2025, President Trump posted two messages to Truth Social announcing a "U.S. Crypto Strategic Reserve" and naming XRP — along with SOL and ADA in the first post, then BTC and ETH in a follow-up — as reserve assets. The posts triggered an immediate 30–35% price surge for XRP. Subsequent reporting revealed that a Ballard Partners employee working for Ripple Labs as a lobbying client had drafted the post text and persuaded Trump to publish it without disclosing the client conflict. Trump was furious when the relationship became public and ordered Ballard blackballed from the West Wing.
+On March 2, 2025, President Trump posted two messages to Truth Social announcing a "U.S. Crypto Strategic Reserve" and naming XRP — along with SOL and ADA in the first post, then BTC and ETH in a follow-up — as reserve assets. The posts triggered an immediate 30–35% price surge for XRP. Politico reported on May 8, 2025, citing two people familiar with the incident who spoke anonymously, that a Ballard Partners employee at a Mar-a-Lago donor event urged Trump several times to post about crypto and gave him a copy of a message she thought he should write; according to the report, Trump posted it and learned only afterward that Ripple Labs, whose XRP token the post named, was a Ballard client. Ballard called the accounts "false accusations from unnamed sources" and denied that he or his team misled the president. Trump was furious when the relationship became public and ordered Ballard blackballed from the West Wing.
 
 ## What Happened / Key Facts
 
@@ -103,8 +132,8 @@ Per Politico reporting (published May 2025, sourced in The Block and Crypto Brie
 
 - Ballard Partners, one of Washington's top lobbying firms, was a registered lobbyist for Ripple Labs.
 - An unnamed female Ballard Partners employee attended a donor event at Mar-a-Lago in early March 2025.
-- She "buttonholed" Trump multiple times, urging him to publish a specific social media message supporting XRP and other digital assets, and provided him with pre-drafted post text.
-- She did not disclose to Trump that Ballard Partners represented Ripple — a direct financial beneficiary of XRP's inclusion in any government reserve.
+- She "buttonholed" Trump multiple times, urging him to publish a specific social media message supporting XRP and other digital assets, and gave him a copy of a message she thought he should write (Politico).
+- According to the report, Trump learned only after posting that Ballard Partners represented Ripple (Ballard denies misleading the president) — a direct financial beneficiary of XRP's inclusion in any government reserve.
 - When Trump published the post and the market surged, the Ripple-Ballard connection was quickly identified by crypto analysts and reporters.
 - Trump told aides he felt "played." He ordered a freeze on all meetings with Brian Ballard and his firm.
 - Ballard's name became "toxic" inside the West Wing. The firm publicly denied wrongdoing.
@@ -112,7 +141,7 @@ Per Politico reporting (published May 2025, sourced in The Block and Crypto Brie
 ### Conflict and Beneficiary Structure
 
 **Ripple Labs:**
-- Donated $4.9 million in XRP to Trump's inaugural fund (confirmed by FEC filings; second-largest single crypto donation).
+- Donated $4,889,345 in XRP to Trump's inaugural fund (FEC filings, per The Crypto Basic): the largest crypto-industry donation and the second-largest single donation among all donors, behind Pilgrim's $5 million.
 - Retained Ballard Partners as a lobbyist.
 - The naming of XRP as a reserve asset provided a direct financial benefit: a 30–35% price surge increased the value of XRP held by Ripple, Garlinghouse, and Larsen by hundreds of millions of dollars within hours.
 - SEC dropped its appeal of the Ripple lawsuit March 19, 2025 — 17 days after the Truth Social posts.

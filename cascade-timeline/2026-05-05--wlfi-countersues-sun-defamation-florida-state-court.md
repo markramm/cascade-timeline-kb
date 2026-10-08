@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2026-05-05--wlfi-countersues-sun-defamation-florida-state-court
-date: '2026-05-05'
+date: '2026-05-04'
 title: "World Liberty Financial Countersues Justin Sun for Defamation in Florida State Court — Alleges Short-Selling, Straw Purchases, 'Smear Campaign' Following Sun's N.D. Cal. Suit"
 importance: 7
 actors:
@@ -30,21 +30,40 @@ sources:
   outlet: Protos
   date: '2026-05-04'
   tier: 2
-status: confirmed
+status: reported
 capture_lanes:
 - Financial Capture
 - International Kleptocracy
 - Captured-X Relationship Architecture
 - Regulatory Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "This entry's canonical date field follows the   task's originating framing of May 5; **the filing itself occurred May 4, 2026**"
+  now: "This entry's date field has been corrected to the filing date (the file id still carries May 5); **the filing itself occurred May 4, 2026**"
+  why: "https://www.coindesk.com/policy/2026/05/04/trump-affiliated-world-liberty-sues-justin-sun-for-defamation-after-tron-creator-s-lawsuit ; https://protos.com/trumps-world-liberty-financial-sues-its-advisor-justin-sun/ — filed Monday May 4, 2026 in the Eleventh Judicial Circuit, Miami-Dade; WLFI's own post May 4: 'Today, we are filing a lawsuit against Justin Sun for defamation'. NOTE: file id still carries 2026-05-05"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Both outlets report that **portions of the complaint were filed redacted deliberately**, not that anything was disclosed by mistake."
+  now: "Both outlets report that portions of the complaint are redacted (neither says who made the redactions or why), and neither reports anything being disclosed by mistake."
+  why: "https://www.coindesk.com/policy/2026/05/04/trump-affiliated-world-liberty-sues-justin-sun-for-defamation-after-tron-creator-s-lawsuit ; https://protos.com/trumps-world-liberty-financial-sues-its-advisor-justin-sun/ — CoinDesk: 'Many portions of the lawsuit were redacted'; Protos: 'Several sections of the suit remain redacted'; neither says who redacted or why"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "Many portions of the lawsuit were redacted"
+  qualifier: ""
+  span: "many portions of the lawsuit were redacted, including portions describing Sun's purchase of the tokens and sections about his alleged misconduct"
+  url: https://www.coindesk.com/policy/2026/05/04/trump-affiliated-world-liberty-sues-justin-sun-for-defamation-after-tron-creator-s-lawsuit
+  read: fetched
+  source_kind: secondary
 ---
 
 **A note on this entry's title and the task that generated it**: the originating research-task ID
 carried the framing "inadvertent-public-record." Nothing in the sourcing gathered for this entry —
 CoinDesk's and Protos's direct reporting on the filing, both fetched and read in full — supports an
-"inadvertent disclosure" or "accidental publication" fact pattern for this filing. Both outlets
-report that **portions of the complaint were filed redacted deliberately**, not that anything was
-disclosed by mistake. **This entry corrects that premise** rather than writing to it; see Premise
+"inadvertent disclosure" or "accidental publication" fact pattern for this filing. Both outlets report that portions of the complaint are redacted (neither says who made the redactions or why), and neither reports anything being disclosed by mistake. **This entry corrects that premise** rather than writing to it; see Premise
 Correction section below. If a distinct inadvertent-disclosure event exists in this dispute, it was
 not located in this pass and is flagged as a research gap.
 
@@ -67,8 +86,7 @@ the Northern District of California (case 3:26-cv-03360) — see [[2026-04-21--s
 - **Filed**: "Monday" per CoinDesk's May 4, 2026 report and Protos's May 4, 2026 report — both
   outlets independently date the filing to **May 4, 2026**. (Some secondary outlets, e.g. Banking
   Dive and Crypto News Australia, published their own coverage a day later, on May 5, 2026 —
-  a press-pickup date, not a distinct filing date. This entry's canonical date field follows the
-  task's originating framing of May 5; **the filing itself occurred May 4, 2026** per both
+  a press-pickup date, not a distinct filing date. This entry's date field has been corrected to the filing date (the file id still carries May 5); **the filing itself occurred May 4, 2026** per both
   sources gathered here. Treat May 4 as the filing date and May 5 as when secondary coverage
   followed.)
 - **Case number**: Not stated in either source gathered for this entry. Florida's Eleventh
@@ -117,9 +135,7 @@ this entry — **damages claimed, not damages awarded, and no figure has been re
 ### Redacted material
 
 Per CoinDesk: "Many portions of the lawsuit were redacted, including portions describing Sun's
-purchase of the tokens and sections about his alleged misconduct." Both CoinDesk and Protos report
-redaction as a deliberate filing choice by WLFI (paralleling the redactions in Sun's own April 21
-complaint, per the sibling entry) — **neither source describes any redacted material becoming
+purchase of the tokens and sections about his alleged misconduct." CoinDesk and Protos report the redactions without saying who made them or why (the sibling entry notes redactions in Sun's own April 21 complaint) — **neither source describes any redacted material becoming
 public by accident, error, or unsealing.** No court order addressing the redactions is documented
 in the sourcing for this entry.
 
@@ -134,8 +150,7 @@ characterization in the sourcing gathered for this pass. **Research gap.**
 
 The task that generated this entry (`write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) framed the event around an "inadvertent public record" — implying some
 document or fact was disclosed by accident. **Direct extraction of both tier-1/tier-2 sources
-found no such fact pattern.** CoinDesk and Protos both describe deliberate redaction of sensitive
-portions, not inadvertent exposure. A August 20-21, 2026 development in the *separate* Sun v. WLFI
+found no such fact pattern.** CoinDesk and Protos both describe redaction of portions of the complaint, without saying who redacted them or why, and neither describes inadvertent exposure. A August 20-21, 2026 development in the *separate* Sun v. WLFI
 N.D. Cal. federal case — a judge denying WLFI's bid to compel arbitration, thereby keeping that
 case in open court rather than confidential arbitration — surfaced in searches for this task and
 is superficially adjacent to "kept public" language, but it (a) postdates this entry's May 2026

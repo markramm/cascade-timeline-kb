@@ -4,7 +4,7 @@ id: 1917-06-15--wilson-creates-national-security-state-war-powers
 date: '1917-06-15'
 title: "Wilson-Era Wartime Executive Architecture: Espionage Act, War Powers Statutes Build Permanent Emergency-Authority Template"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - wartime-emergency-power
@@ -38,6 +38,45 @@ capture_lanes:
   - Executive Power Expansion
   - Civil Rights Suppression
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "during wartime, with the only limit that no agency could be abolished."
+  now: "but only \"in matters relating to the conduct of the present war\"; appropriated funds could be \"expended only for the purposes for which it was appropriated,\" and if he concluded a bureau should be abolished, he had to \"report his conclusions to Congress with such recommendations as he may deem proper\" (Overman Act, 40 Stat. 556, §§1, 4, 5)."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg556.pdf — Sec. 1 war-only proviso, Sec. 4 appropriations, Sec. 5 report-to-Congress duty; no ban on abolishing an agency"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Wilson used it to restructure the State, War, Navy ... 1939 Reorganization Act."
+  now: "Wilson used it the day it was signed to take military aviation out of the Army Signal Corps and create a Bureau of Aircraft Production (Executive Order 2862, May 20, 1918), and to make the War Industries Board independent of the Council of National Defense."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg556.pdf ; Wikipedia Overman Act / EO 2862 (May 20, 1918) — statute names no department; documented uses were aviation and the War Industries Board"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "**Postmaster-General authority**: §480a authorized the Postmaster General to exclude \"non-mailable\" material, which Albert Burleson used to suppress nearly all socialist and anti-war periodicals."
+  now: "**Mail exclusion**: Title XII of the Act declared nonmailable any matter that violated the Act, and any matter \"advocating or urging treason, insurrection, or forcible resistance to any law of the United States\"; using the mails to send such matter carried a fine of up to $5,000, up to five years' imprisonment, or both (40 Stat. 217, Title XII, §§1-3). Postmaster General Albert Burleson used these provisions to bar socialist and anti-war papers such as The Masses and the Milwaukee Leader from the mails."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg217.pdf — Title XII 'Use of Mails' §§1-3; no '§480a' and no mention of the Postmaster General"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The War Industries Board (Executive Order 2679-A, July 28, 1917), Food Administration (EO 2679-A, May 19, 1917), Fuel Administration ... not statute."
+  now: "Wilson built much of the war administration without new organic statutes. The Council of National Defense established the War Industries Board on July 28, 1917, and Executive Order 2868 (May 28, 1918) made it an independent agency (National Archives, RG 61). The Food Administration (Executive Order 2679-A, August 10, 1917) and the Fuel Administration (Executive Order 2690, August 23, 1917) were created by executive order under authority the Lever Act gave the President (American Presidency Project). The Railroad Administration, War Trade Board and National War Labor Board were not checked."
+  why: "https://www.archives.gov/research/guide-fed-records/groups/061.html (WIB established July 28, 1917 by and in the Council of National Defense); presidency.ucsb.edu EO 2690 (Fuel Administration, Aug 23, 1917); EO 2679-A is Aug 10, 1917 — the cited LOC page is a catalog record"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "in matters relating to the conduct of the present war"
+  qualifier: ""
+  span: "the authority by this Act granted shall be exercised only in matters relating to the conduct of the present war"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg556.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: "quote"
+  value: "advocating or urging treason, insurrection, or forcible resistance to any law of the United States"
+  qualifier: ""
+  span: "advocating or urging treason, insurrection, or forcible resistance to any law of the United States"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-40/pdf/STATUTE-40-Pg217.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -50,16 +89,16 @@ Wilson's approach differed from earlier wartime presidents (Lincoln in the Civil
 
 1. **Systematic delegation from Congress.** The Espionage Act, Lever Act, Trading with the Enemy Act, Selective Service Act, and Overman Act all delegated broad administrative authority to the executive without defining its scope with precision. Earlier wars had relied on specific statutory authorizations for particular actions; Wilson's wars operated under sweeping authority-framework statutes.
 
-2. **Administrative proliferation by executive order.** The War Industries Board (Executive Order 2679-A, July 28, 1917), Food Administration (EO 2679-A, May 19, 1917), Fuel Administration (EO 2716, August 10, 1917), Railroad Administration (Proclamation 1419, December 26, 1917), War Trade Board (EO 2729-A, October 12, 1917), and National War Labor Board (April 8, 1918) were all created by executive order, not statute. Congress subsequently ratified some but not all.
+2. **Administrative proliferation by executive order.** Wilson built much of the war administration without new organic statutes. The Council of National Defense established the War Industries Board on July 28, 1917, and Executive Order 2868 (May 28, 1918) made it an independent agency (National Archives, RG 61). The Food Administration (Executive Order 2679-A, August 10, 1917) and the Fuel Administration (Executive Order 2690, August 23, 1917) were created by executive order under authority the Lever Act gave the President (American Presidency Project). The Railroad Administration, War Trade Board and National War Labor Board were not checked. Congress subsequently ratified some but not all.
 
 3. **Surveillance and suppression infrastructure.** The Bureau of Investigation (predecessor to FBI), the Military Intelligence Division, the Office of Naval Intelligence, and the Post Office Department's surveillance apparatus all expanded dramatically during 1917-18. Executive order 2587 (May 13, 1917) authorized censorship of international communications.
 
-**The Overman Act (May 20, 1918)** deserves particular attention. It authorized the President to "make such redistribution of functions among executive agencies as he may deem necessary" during wartime, with the only limit that no agency could be abolished. Wilson used it to restructure the State, War, Navy, Treasury, Post Office, Interior, Agriculture, and Commerce Departments — a scope of unilateral authority over executive-branch organization unmatched until the 1939 Reorganization Act. The statute included a sunset clause tied to the war's end, but its precedent was absorbed into the 1939 Act and then into the post-1945 national-security state architecture.
+**The Overman Act (May 20, 1918)** deserves particular attention. It authorized the President to "make such redistribution of functions among executive agencies as he may deem necessary" but only "in matters relating to the conduct of the present war"; appropriated funds could be "expended only for the purposes for which it was appropriated," and if he concluded a bureau should be abolished, he had to "report his conclusions to Congress with such recommendations as he may deem proper" (Overman Act, 40 Stat. 556, §§1, 4, 5). Wilson used it the day it was signed to take military aviation out of the Army Signal Corps and create a Bureau of Aircraft Production (Executive Order 2862, May 20, 1918), and to make the War Industries Board independent of the Council of National Defense. The statute included a sunset clause tied to the war's end, but its precedent was absorbed into the 1939 Act and then into the post-1945 national-security state architecture.
 
 **The Espionage Act's structural features**:
 
 - **Criminalized speech as conduct**: Making "false statements with intent to interfere" with the armed forces, "willfully cause or attempt to cause insubordination" — criminal provisions that depended entirely on prosecutorial discretion about intent.
-- **Postmaster-General authority**: §480a authorized the Postmaster General to exclude "non-mailable" material, which Albert Burleson used to suppress nearly all socialist and anti-war periodicals.
+- **Mail exclusion**: Title XII of the Act declared nonmailable any matter that violated the Act, and any matter "advocating or urging treason, insurrection, or forcible resistance to any law of the United States"; using the mails to send such matter carried a fine of up to $5,000, up to five years' imprisonment, or both (40 Stat. 217, Title XII, §§1-3). Postmaster General Albert Burleson used these provisions to bar socialist and anti-war papers such as The Masses and the Milwaukee Leader from the mails.
 - **No sunset**: Unlike most of the Wilson-era war statutes, the Espionage Act has remained in effect — amended (Sedition Act 1918, repeal of Sedition Act 1921, various subsequent amendments) but never repealed. It is the statute under which Daniel Ellsberg, Chelsea Manning, Edward Snowden, Julian Assange, and most recently (2025-26) multiple Trump administration officials and leakers have been prosecuted.
 
 ## Why This Event Matters
@@ -80,7 +119,7 @@ Arthur Schlesinger Jr.'s *The Imperial Presidency* (1973) dates the origin of th
 
 Wilson's approach was ideologically rooted: his 1908 book *Constitutional Government in the United States* had already articulated a theory of presidential supremacy distinct from the 19th-century Congress-centered model. The wartime emergency gave him the opportunity to operationalize that theory at scale. His stroke in October 1919 ended any possibility of a post-war institutional retrenchment under his direction; the Harding administration nominally returned to pre-war arrangements but preserved most of the institutional expansions.
 
-The Espionage Act's specific architecture — Section 3 criminalizing "false statements" with intent, Section 480a authorizing postal censorship — has been adapted repeatedly. The modern federal criminal code still contains provisions derived from the 1917 Act; 18 U.S.C. §793-§798 are direct descendants. The "FISA 702" provisions modernize the same underlying "lawful-interception-of-foreign-communications" doctrine that originated with Wilson's 1917 cable-censorship executive order.
+The Espionage Act's specific architecture — Section 3 criminalizing "false statements" with intent, Title XII authorizing postal exclusion — has been adapted repeatedly. The modern federal criminal code still contains provisions derived from the 1917 Act; 18 U.S.C. §793-§798 are direct descendants. The "FISA 702" provisions modernize the same underlying "lawful-interception-of-foreign-communications" doctrine that originated with Wilson's 1917 cable-censorship executive order.
 
 ## Research Gaps
 

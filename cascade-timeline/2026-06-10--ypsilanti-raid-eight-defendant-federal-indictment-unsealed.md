@@ -4,7 +4,7 @@ id: 2026-06-10--ypsilanti-raid-eight-defendant-federal-indictment-unsealed
 date: '2026-06-10'
 title: "FBI Raids Ypsilanti and Three States, Unseals 63-Page Indictment Charging Eight Pro-Palestinian Activists Tied to University of Michigan"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - university-of-michigan
   - ann-arbor
@@ -68,6 +68,22 @@ sources:
     date: '2026-06-24'
     tier: 3
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "1. **Six of the eight are current or former University of Michigan students**; a seventh **was a ... researcher in 2023-24.**"
+  now: "1. **Six of the eight are directly associated with the University of Michigan**: five are current or former students and one, Ahmet Kerem Korkaya, **was a researcher there in 2023-24** (The Michigan Daily; Mondoweiss gives the same five-plus-one count)."
+  why: "https://www.mondoweiss.net/2026/06/inside-the-case-against-the-michigan-8-palestine-activism-recast-as-antisemitic-terror/ ; Michigan Daily 'DOJ indicts pro-Palestine activists' — six of the eight have a U-M tie (five students, one researcher); Odeh: hourly organizer, Deadline Detroit"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "Six of the eight"
+  qualifier: "directly associated with the University"
+  span: "Six of the eight defendants are directly associated with the University, five as current or former students and one as a researcher."
+  url: https://www.michigandaily.com/news/doj-indicts-pro-palestine-activists-after-fbi-raids/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -159,12 +175,11 @@ standing fact.**
 
 ### Three facts new to this corpus
 
-1. **Six of the eight are current or former University of Michigan students**; a seventh **was a
-   researcher in 2023-24.** **This was not previously established here** and it is the sharpest
+1. **Six of the eight are directly associated with the University of Michigan**: five are current or former students and one, Ahmet Kerem Korkaya, **was a researcher there in 2023-24** (The Michigan Daily; Mondoweiss gives the same five-plus-one count). **This was not previously established here** and it is the sharpest
    available fact about who was charged.
 2. **This was the SECOND FBI raid in Ypsilanti since 2025.** **The corpus holds NO entry for the
    first one.** That is a documented gap — see research gaps below.
-3. **Odeh was a former staffer for U.S. Senate candidate Abdul El-Sayed**, who told MLive he **"had no
+3. **Odeh briefly worked as an hourly organizer for U.S. Senate candidate Abdul El-Sayed's campaign** (Deadline Detroit), who told MLive he **"had no
    clue"** about her actions in the case. **El-Sayed appears in 24 corpus files; this connection is
    new.** **Attribute the quote to him and do not extend it — a campaign's disavowal of a former
    staffer is not evidence about the staffer.**

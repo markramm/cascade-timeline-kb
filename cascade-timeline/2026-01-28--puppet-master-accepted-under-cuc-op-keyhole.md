@@ -4,7 +4,7 @@ id: 2026-01-28--puppet-master-accepted-under-cuc-op-keyhole
 date: '2026-01-28'
 title: "Operation Puppet Master Was Accepted Under 'CUC Op Keyhole' — A Certified Undercover Operation of Undisclosed Scope"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - operation-puppet-master
   - cuc-op-keyhole
@@ -48,6 +48,35 @@ capture_lanes:
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
+corrections:
+- date: '2026-10-08'
+  was: "that brief adds no new documentary fact about Keyhole beyond ... already stated."
+  now: "the brief (p. 19, under the heading \"NSPM-7 Was Used in This Case to Surveil Dissent\") cites only the ECF 212 exhibits and adds no new documentary fact about Keyhole beyond what the ROI already stated."
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.234.1.pdf — Doc. 234-1 p.19 heading 'NSPM-7 Was Used in This Case to Surveil Dissent'; names Operation Keyhole, Puppet Master, Whipple Shield; cites only ECF 212 exhibits"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Essentially uncovered. As of 2026-08-20"
+  now: "Thinly covered. As of 2026-08-20"
+  why: "https://www.mprnews.org/story/2026/08/28/lawyer-for-anti-ice-activists-makes-case-for-release-of-details-federal-surveillance (Jon Collins, 2026-08-28) — defendants seeking 'details of Operation Keyhole and Operation Puppet Master'; contradicts 'essentially uncovered'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Operation Keyhole"
+  qualifier: ""
+  span: "Through initiatives dubbed 'Operation Keyhole,' 'Operation Puppet Master,' and 'Project Whipple Shield,' undercover agents infiltrated"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.234.1.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "details of Operation Keyhole and Operation Puppet Master"
+  qualifier: ""
+  span: "details of Operation Keyhole and Operation Puppet Master"
+  url: https://www.mprnews.org/story/2026/08/28/lawyer-for-anti-ice-activists-makes-case-for-release-of-details-federal-surveillance
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -159,8 +188,7 @@ rebutted, distinguished, or engaged. No ruling from Magistrate Judge David Schul
 2026-08-31. A third filer — the Cato Institute / Society for the Rule of Law and Democracy / FIRE
 amicus brief (Doc. 234-1, filed 2026-08-25) — has independently named "Operation Keyhole" in its
 own text, characterizing it collectively with Puppet Master and Whipple Shield as evidence NSPM-7
-"was used ... to surveil dissent"; that brief adds no new documentary fact about Keyhole beyond
-what the ROI already stated.
+"was used ... to surveil dissent"; the brief (p. 19, under the heading "NSPM-7 Was Used in This Case to Surveil Dissent") cites only the ECF 212 exhibits and adds no new documentary fact about Keyhole beyond what the ROI already stated.
 
 See [[keyhole-certification-handbook-and-docket-watch-2026-08-31]] for the full docket-watch and
 Handbook-retrieval writeup, including a drafted (not sent) FOIA for the OPR/MIU audit and
@@ -187,10 +215,8 @@ the named operations sit inside an unnamed structure, not that the structure is 
 
 ## Coverage status
 
-Essentially uncovered. As of 2026-08-20 the Keyhole nesting appears in **Biometric Update**
-(2026-08-20, tier 2, a biometrics trade outlet) and a New Republic Substack piece. None of the
-outlets that broke and drove the Minnesota story — NYT, Guardian, KSTP, Minnesota Reformer, CBS,
-AP, Democracy Now — has reported it. Credit Biometric Update for surfacing it; the corpus
+Thinly covered. As of 2026-08-20 the Keyhole nesting appears in **Biometric Update**
+(2026-08-20, tier 2, a biometrics trade outlet) and a New Republic Substack piece. MPR News reported on 2026-08-28 that defendants were seeking "details of Operation Keyhole and Operation Puppet Master" and that few details of the operations were available. We did not find the Keyhole nesting reported by NYT, Guardian, KSTP, Minnesota Reformer, CBS, AP or Democracy Now (not each checked). Credit Biometric Update for surfacing it; the corpus
 contribution is that we hold the primary document and can verify the sentence directly.
 
 ## UPDATE 2026-09-10: the government answered

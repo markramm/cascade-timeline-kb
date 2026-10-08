@@ -3,7 +3,7 @@ type: timeline_event
 id: 2026-04-01--occ-12-cfr-5-20-amendment-trust-bank-chartering-rule-effective
 date: 2026-04-01
 title: "OCC final rule amending 12 CFR 5.20 takes effect, replacing 'fiduciary activities' with 'operations of a trust company and activities related thereto' for national trust bank charters"
-status: confirmed
+status: reported
 importance: 8
 location: Washington, D.C.
 actors:
@@ -76,13 +76,47 @@ coverage:
     title: "The Precedent Corridor — How the OCC Built a Trust-Charter Track for the President's Family"
     date: '2026-05-16'
     publication: theramm
+corrections:
+- date: '2026-10-08'
+  was: "characterized the change as a clarification that \"eliminates potential confusion as to the intent and interpretation of the existing regulation,\""
+  now: "said it believes the amendments \"will eliminate potential confusion as to the intent, and the OCC's interpretation, of the existing regulation,\""
+  why: "https://www.govinfo.gov/content/pkg/FR-2026-03-02/html/2026-04088.htm — Section III: 'The OCC believes that these amendments will eliminate potential confusion as to the intent, and the OCC's interpretation, of the existing regulation'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "— removing a textual ambiguity that had otherwise invited legal challenge to trust-charter scope, including for stablecoin-custody-and-issuance activities."
+  now: "— the OCC said the 2003 language \"has the potential to raise confusion\" but \"has never been interpreted by the OCC\" to bar non-fiduciary activities, and that the rule \"intends to neither expand nor contract\" its chartering authority. The rule does not mention stablecoins."
+  why: "https://www.govinfo.gov/content/pkg/FR-2026-03-02/html/2026-04088.htm — OCC: language 'has never been interpreted by the OCC' to bar non-fiduciary activities; rule 'intends to neither expand nor contract' chartering authority; adopts the statutory standard 'whatever the courts determine it to be'; no mention of stablecoins"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "— including, by supervisory practice, the issuance, redemption, custody, and settlement of stablecoins and other digital assets held in a custodial (rather than strictly fiduciary) capacity."
+  now: "— the OCC's example was custody and safekeeping, which it called generally non-fiduciary and authorized under 12 U.S.C. 24(Seventh). It said it will decide whether any other proposed activity is authorized case by case when reviewing charter applications. The rule does not mention stablecoins."
+  why: "https://www.govinfo.gov/content/pkg/FR-2026-03-02/html/2026-04088.htm — OCC calls custody and safekeeping 'generally non-fiduciary and authorized ... under 12 U.S.C. 24(Seventh)'; other activities decided 'on a case-by-case basis'; stablecoins, issuance, redemption, settlement not mentioned"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "will eliminate potential confusion as to the intent, and the OCC's interpretation, of the existing regulation"
+  qualifier: "OCC"
+  span: "The OCC believes that these amendments will eliminate potential confusion as to the intent, and the OCC's interpretation, of the existing regulation."
+  url: https://www.govinfo.gov/content/pkg/FR-2026-03-02/html/2026-04088.htm
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "whatever the courts determine it to be"
+  qualifier: ""
+  span: "the statutory standard, whatever the courts determine it to be"
+  url: https://www.govinfo.gov/content/pkg/FR-2026-03-02/html/2026-04088.htm
+  read: fetched
+  source_kind: primary
 ---
 
 # OCC 12 CFR 5.20 Amendment Takes Effect — "Operations of a Trust Company and Activities Related Thereto"
 
 On **April 1, 2026**, a final rule issued by the Office of the Comptroller of the Currency amending **12 CFR 5.20** — the OCC's national-bank chartering regulation — took effect. The amendment replaces the phrase **"fiduciary activities"** with **"the operations of a trust company and activities related thereto"** at 12 CFR 5.20(e)(1)(i), with a conforming amendment at 12 CFR 5.20(l). The rule was proposed in the Federal Register on **January 12, 2026** (document 2026-00372), finalized on **February 27, 2026**, and published in the Federal Register on **March 2, 2026** (91 FR 9977, Vol. 91 Issue 40, document 2026-04088).
 
-The OCC characterized the change as a clarification that "eliminates potential confusion as to the intent and interpretation of the existing regulation," aligning 12 CFR 5.20 with the text of **12 U.S.C. § 27(a)**, the underlying statute authorizing national-bank trust charters. Under the amended text, national banks chartered as trust companies are explicitly authorized to engage in **non-fiduciary activities** in addition to fiduciary activities — removing a textual ambiguity that had otherwise invited legal challenge to trust-charter scope, including for stablecoin-custody-and-issuance activities.
+The OCC said it believes the amendments "will eliminate potential confusion as to the intent, and the OCC's interpretation, of the existing regulation," aligning 12 CFR 5.20 with the text of **12 U.S.C. § 27(a)**, the underlying statute authorizing national-bank trust charters. Under the amended text, national banks chartered as trust companies are explicitly authorized to engage in **non-fiduciary activities** in addition to fiduciary activities — the OCC said the 2003 language "has the potential to raise confusion" but "has never been interpreted by the OCC" to bar non-fiduciary activities, and that the rule "intends to neither expand nor contract" its chartering authority. The rule does not mention stablecoins.
 
 ## What Changed
 
@@ -90,7 +124,7 @@ The OCC characterized the change as a clarification that "eliminates potential c
 
 **New text** (effective April 1, 2026): a national trust bank can be chartered to engage in **"the operations of a trust company and activities related thereto."**
 
-The change is small on the page and structurally large in effect. "Fiduciary activities" is a legally narrow term of art, historically focused on traditional trust and estate administration. "Operations of a trust company and activities related thereto" lifts language directly from the National Bank Act's trust-charter statute (12 U.S.C. § 27(a)) and expressly embraces non-fiduciary activities incidental to trust operations — including, by supervisory practice, the issuance, redemption, custody, and settlement of stablecoins and other digital assets held in a custodial (rather than strictly fiduciary) capacity.
+The change is small on the page and structurally large in effect. "Fiduciary activities" is a legally narrow term of art, historically focused on traditional trust and estate administration. "Operations of a trust company and activities related thereto" lifts language directly from the National Bank Act's trust-charter statute (12 U.S.C. § 27(a)) and expressly embraces non-fiduciary activities incidental to trust operations — the OCC's example was custody and safekeeping, which it called generally non-fiduciary and authorized under 12 U.S.C. 24(Seventh). It said it will decide whether any other proposed activity is authorized case by case when reviewing charter applications. The rule does not mention stablecoins.
 
 ## Procedural Timeline
 
@@ -109,7 +143,7 @@ The change is small on the page and structurally large in effect. "Fiduciary act
 
 The rule amendment lands **roughly five weeks before the expected preliminary-decision window** on WLFI's World Liberty Trust Company application. Its operational effect is to pre-empt one of the central legal arguments that NCRC and AFREF raised in their February 9, 2026 comment letters: that issuing and custodying USD1 stablecoins is not a traditional "fiduciary activity" within the ordinary meaning of 12 CFR 5.20 as previously drafted, and therefore WLTC's proposed charter exceeded the OCC's statutory authority to grant.
 
-With the amendment in effect, the OCC's regulation now expressly tracks the broader statutory language of 12 U.S.C. § 27(a). A future federal court reviewing a charter-approval challenge would be unable to rely on a narrow reading of "fiduciary activities" in the old 12 CFR 5.20 text; the textual hook for that challenge has been removed. The rule-change timing means the regulatory framework is **cleaner at the point of decision than it was at the point of application**.
+With the amendment in effect, the OCC's regulation now expressly tracks the broader statutory language of 12 U.S.C. § 27(a). The rule does not close the court-challenge route: the OCC said the regulation now adopts the statutory standard "whatever the courts determine it to be," left disputes over whether a charter is authorized to the courts, and said it will review proposed activities case by case. The rule-change timing means the regulatory framework is **cleaner at the point of decision than it was at the point of application**.
 
 The amendment is not specific to WLFI. It applies uniformly to all national trust bank charter applicants — a cohort that, as of April 2026, includes **Anchorage Digital** (the only crypto-native national trust bank at full operational status), conditional approvals for **Circle, Ripple, BitGo, Fidelity Digital Assets,** and **Paxos** (2025-12-12), and **Bridge, Protego,** and **Crypto.com** (February 2026). WLTC is the only Trump-family-owned applicant in the set. The rule is general, but the rule-timing favors the single applicant most exposed to a textual-authority challenge.
 

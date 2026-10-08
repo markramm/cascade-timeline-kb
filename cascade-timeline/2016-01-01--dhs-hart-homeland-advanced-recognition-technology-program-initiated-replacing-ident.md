@@ -4,7 +4,7 @@ id: 2016-01-01--dhs-hart-homeland-advanced-recognition-technology-program-initia
 date: '2016-01-01'
 title: "DHS Initiates HART Program to Replace IDENT: 290M+ Identity Biometric Backbone; GAO Finds Significant Management and Privacy Shortcomings in 2023"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - biometric-surveillance
   - dhs-obim
@@ -57,15 +57,62 @@ capture_lanes:
   - Digital and Tech Capture
   - Detention Industrial Complex
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "ICE operates a parallel 200-million-identity facial recognition database separate from OBIM's HART, per FedScoop (2025)."
+  now: "FedScoop (August 2025) reported that a 200-million-identity database used by ICE, highlighted by 404 Media, \"likely relies on OBIM systems, one source told FedScoop.\""
+  why: "https://fedscoop.com/homeland-security-centralizes-control-over-the-governments-largest-biometrics-database/ para 23 — 'A large database of 200 million identities used by ICE and recently highlighted by 404 Media likely relies on OBIM systems, one source told FedScoop.'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "fingerprints, facial recognition, iris scans, voice prints, DNA, and signatures"
+  now: "fingerprints, palm prints, iris scans and photographs, with planned additions including face and voice data, DNA and other modalities"
+  why: "https://abolishdatacrim.org/en/bestiary/identhart ; DHS HART Increment 1 PIA (DHS/OBIM/PIA-004) — HART links fingerprints, palm prints, iris scans and photographs; EFF: at least seven planned identifiers incl. face and voice, DNA, 'other modalities'; signatures appear only as a biographic data element"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "IDENT, the legacy Automated Biometric Identification System operational since 1994."
+  now: "IDENT, the legacy Automated Biometric Identification System designed in 1994 and implemented in 1995."
+  why: "https://www.biometricupdate.com/201809/inside-the-hart-of-the-dhs-office-of-biometric-identity-management (Chris Burt, Sept 4, 2018) — IDENT 'designed in 1994 and implemented in 1995'; '350,000 transactions on an average weekday'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Data is drawn from FBI's Next Generation Identification (NGI) system, travel documents, employment files, and DMV records"
+  now: "Per abolishdatacrim.org, HART will draw directly from traveler records, employment documents and immigration-benefit applications, and from the FBI's Next Generation Identification (NGI) system, which stores biometrics including photographs taken from state DMVs"
+  why: "https://abolishdatacrim.org/en/bestiary/identhart fn.10 — 'HART will draw directly from records created from travelers to and from the US, employment documents, and from applications for other immigration benefit applications, as well as the FBI NGI system, which stores biometrics, including photographs, taken from state Department of Motor Vehicles'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "likely relies on OBIM systems"
+  qualifier: "200 million identities database"
+  span: "A large database of 200 million identities used by ICE and recently highlighted by 404 Media likely relies on OBIM systems, one source told FedScoop."
+  url: https://fedscoop.com/homeland-security-centralizes-control-over-the-governments-largest-biometrics-database/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "will be able to link fingerprints, palm prints, iris scans, and photographs"
+  qualifier: "HART"
+  span: "HART will be able to link fingerprints, palm prints, iris scans, and photographs"
+  url: https://abolishdatacrim.org/en/bestiary/identhart
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "350,000"
+  qualifier: "requests per weekday"
+  span: "It typically serves about 350,000 requests per weekday"
+  url: https://www.biometricupdate.com/201809/inside-the-hart-of-the-dhs-office-of-biometric-identity-management
+  read: fetched
+  source_kind: secondary
 ---
 
-In 2016, the Department of Homeland Security's Office of Biometric Identity Management (OBIM) initiated the Homeland Advanced Recognition Technology (HART) program to replace IDENT, the legacy Automated Biometric Identification System operational since 1994. HART is designed to become the federal government's primary biometric identity platform — a multi-modal database targeting hundreds of millions of identities encompassing fingerprints, facial recognition, iris scans, voice prints, DNA, and signatures. As of April 2023, the legacy IDENT system already stored more than 290 million separate identities. A September 2023 GAO audit (GAO-23-105959) found "significant shortcomings in program management and privacy," including missing Privacy Impact Assessment data, inadequate controls over partner agencies' handling of personally identifiable information, and only 5 of 12 OMB privacy requirements fully implemented.
+In 2016, the Department of Homeland Security's Office of Biometric Identity Management (OBIM) initiated the Homeland Advanced Recognition Technology (HART) program to replace IDENT, the legacy Automated Biometric Identification System designed in 1994 and implemented in 1995. HART is designed to become the federal government's primary biometric identity platform — a multi-modal database targeting hundreds of millions of identities encompassing fingerprints, palm prints, iris scans and photographs, with planned additions including face and voice data, DNA and other modalities. As of April 2023, the legacy IDENT system already stored more than 290 million separate identities. A September 2023 GAO audit (GAO-23-105959) found "significant shortcomings in program management and privacy," including missing Privacy Impact Assessment data, inadequate controls over partner agencies' handling of personally identifiable information, and only 5 of 12 OMB privacy requirements fully implemented.
 
 ## What Happened / Key Facts
 
-**Program initiation:** DHS initiated HART in 2016 to replace IDENT, which was designed in 1994, implemented in 1995, and had grown to 230 million unique identities by 2018, processing approximately 350,000 fingerprint queries per weekday. Per Biometric Update (September 2018), IDENT was the second-largest biometric system in the world at that time, behind India's Aadhaar.
+**Program initiation:** DHS initiated HART in 2016 to replace IDENT, which was designed in 1994, implemented in 1995, and had grown to 230 million unique identities by 2018, handling about 350,000 transactions on an average weekday. Per Biometric Update (September 2018), IDENT was the second-largest biometric system in the world at that time, behind India's Aadhaar.
 
-**Biometric scope:** HART is designed for multi-modal collection beyond IDENT's primarily fingerprint-and-photo architecture. Per the abolishdatacrim.org synthesis (citing DHS PIAs and EFF research), planned modalities include face, fingerprints, iris scans, voice prints, DNA results, and a blanket "other modalities" category. Data is drawn from FBI's Next Generation Identification (NGI) system, travel documents, employment files, and DMV records — covering U.S. citizens, permanent residents, and non-citizens.
+**Biometric scope:** HART is designed for multi-modal collection beyond IDENT's primarily fingerprint-and-photo architecture. Per the abolishdatacrim.org synthesis (citing DHS PIAs and EFF research), HART is designed to link fingerprints, palm prints, iris scans and photographs with biographic data; per EFF's comments, DHS plans at least seven biometric identifiers, including face and voice data, DNA and a blanket "other modalities" category (iris scans were already stored in IDENT; signatures appear in DHS's HART PIA only as a biographic data element). Per abolishdatacrim.org, HART will draw directly from traveler records, employment documents and immigration-benefit applications, and from the FBI's Next Generation Identification (NGI) system, which stores biometrics including photographs taken from state DMVs — covering U.S. citizens, permanent residents, and non-citizens.
 
 **Scale:** The legacy IDENT system stored more than 290 million distinct identities as of April 2023, per OBIM officials cited in GAO-23-105959. FedScoop (August 2025) reported the consolidated system (under DHS CIO Antoine McCord) houses more than 300 million profiles from facial recognition, fingerprints, and iris scans.
 
@@ -90,7 +137,7 @@ In 2016, the Department of Homeland Security's Office of Biometric Identity Mana
 
 HART is the intermediate node in the database-consolidation spine connecting the 2007 FBI watchlist error-rate scandal to the 2026 DHS unified biometric matching engine. The GAO-23-105959 governance finding — "significant shortcomings in program management and privacy" — directly echoes the 2007 Inspector General finding of 35% error rates and no formal record-removal processes in the TSDB watchlist. Both findings document the same structural pattern: a massive population-scale database built and expanded before governance frameworks catch up, with the accountability surface thinning as the data scale grows.
 
-The biometric scope of HART marks a qualitative shift from the IDENT model. Where IDENT was primarily a fingerprint and photograph repository for individuals who had crossed DHS's enforcement perimeter, HART's planned modalities (voice, DNA, iris, signatures) and data-sharing architecture extend the collection surface to routine civilian encounters — DMV records, employment verification, travel — regardless of any enforcement contact. The system enables identification "absent notice and consent" in public spaces, per advocacy synthesis.
+The biometric scope of HART marks a qualitative shift from the IDENT model. Where IDENT was primarily a fingerprint and photograph repository for individuals who had crossed DHS's enforcement perimeter, HART's planned additions (voice prints, DNA and other modalities) and data-sharing architecture extend the collection surface to routine civilian encounters — employment verification, travel, and DMV photographs held in FBI's NGI — regardless of any enforcement contact. The system enables identification "absent notice and consent" in public spaces, per advocacy synthesis.
 
 The third-party doctrine cover (United States v. Miller, 1976, authored by Lewis Powell) makes biometric data "voluntarily conveyed" to state and federal agencies — driver's license photos, border crossing fingerprints, employment verification scans — constitutionally unprotected from database consolidation. HART is the infrastructure that operationalizes that doctrine at 290M+ identity scale.
 
@@ -102,7 +149,7 @@ HART sits between two committed timeline nodes in the database-consolidation lin
 
 The consolidation latency continues to collapse: 41 years (1966 HUAC→2007 TSDB) → 9 years (2007→2016 HART initiation) → 10 years (2016→2026 unified engine). Each consolidation event expands the target population (suspects → watchlisted → all border crossers → all government-document holders) while governance mechanisms lag.
 
-ICE operates a parallel 200-million-identity facial recognition database separate from OBIM's HART, per FedScoop (2025). The August 2025 centralization under DHS CIO McCord (see [[timeline-write-obim-centralized-under-dhs-cio-mccord-2025-08-14]] — *needs entry*) is the bridge between HART's development phase and the 2026 unified engine announcement.
+FedScoop (August 2025) reported that a 200-million-identity database used by ICE, highlighted by 404 Media, "likely relies on OBIM systems, one source told FedScoop." The August 2025 centralization under DHS CIO McCord (see [[timeline-write-obim-centralized-under-dhs-cio-mccord-2025-08-14]] — *needs entry*) is the bridge between HART's development phase and the 2026 unified engine announcement.
 
 ## Research Gaps
 

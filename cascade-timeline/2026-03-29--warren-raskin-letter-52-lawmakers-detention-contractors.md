@@ -64,11 +64,84 @@ sources:
   outlet: AOL / AP
   date: '2026'
   tier: 1
-status: confirmed
+status: reported
 capture_lanes:
 - Congressional Oversight
 - Detention Industrial Complex
 - Warren-Raskin Probe
+corrections:
+- date: '2026-10-08'
+  was: "- **Target of ~100,000 beds by November 2026** — ICE's Detention Reengineering Initiative capacity goal"
+  now: "- **Capacity goal**: the letters cite ICE's plan to \"increase bed capacity to 92,600 beds\" nationwide and \"activate all facilities by November 30, 2026\"; the press release describes the system as built to \"hold nearly 100,000 people by November 2026\""
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf fn.7 and fn.13 — 'increase bed capacity to 92,600 beds'; 'activate all facilities by November 30, 2026'; the press release says 'nearly 100,000 people by November 2026'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- **Sharkov's Russian background** — the company was founded in Russia in 2004; Sharkov is a former Russian national who says he has renounced citizenship; PNK Group USA started as the U.S. arm of a Russian industrial developer; Sharkov states the U.S. operation severed ties with Russia in 2023"
+  now: "- **PNK's Russian origin** — the letter describes PNK S1 LLC Group as \"a subsidiary of a Russian-founded industrial developer\"; it says nothing about Sharkov's citizenship, a 2004 founding date or a 2023 break with Russia (those details need their own source)"
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf (read directly) — the letter says PNK S1 LLC Group is 'a subsidiary of a Russian-founded industrial developer'; no 2004, citizenship, or 2023 break with Russia"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- **The Social Circle, GA transaction** — the $128.5M-$129M DHS purchase at roughly 4-5x PNK's 2023 acquisition price"
+  now: "- **The Georgia facility** — the letter says \"ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year\" (citing the Guardian, Feb. 18, 2026); it does not name PNK as the seller of that facility or compare the price with PNK's 2023 acquisition price (the $128,555,500 deed figure is from CovNews)"
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf p.4 — 'ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year' (fn.24 Guardian, Feb 18, 2026); the letter does not name PNK as seller of that facility or give a 2023 acquisition price; CovNews reports the $128,555,500 deed"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "3. **Named linkage of PNK to the WEXMAC-TITUS procurement bypass.**"
+  now: "3. **A general description of the WEXMAC-TITUS procurement bypass in the same letter** (the letter does not tie PNK's sale to that vehicle)."
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf — WEXMAC appears only on p.3 in general terms; Q1a is a generic question to every recipient; PNK's deal was a property sale, not a task order"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "**Senators (8):** Warren (lead)"
+  now: "**Senators (9):** Warren (lead)"
+  why: "https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers — 'Senators Edward Markey ... and Raphael Warnock (D-Ga.) joined in signing the letters': eight senators plus Warren as lead"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "4. **Commitment to prevent facilitating inhumane detention conditions** — contractual terms, oversight mechanisms, exit provisions"
+  now: "4. **Commitment** — whether they will \"commit to not allowing [their] goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation\" (Q13)"
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf Q13 — 'Will you commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation?'; no question asks about exit provisions"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "92,600 beds"
+  qualifier: "increase bed capacity"
+  span: "increase bed capacity to 92,600 beds"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "a subsidiary of a Russian-founded industrial developer"
+  qualifier: "PNK S1 LLC Group"
+  span: "PNK S1 LLC Group (a subsidiary of a Russian-founded industrial developer)"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year"
+  qualifier: ""
+  span: "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: "quote"
+  value: "Raphael Warnock (D-Ga.) joined in signing the letters"
+  qualifier: ""
+  span: "and Raphael Warnock (D-Ga.) joined in signing the letters"
+  url: https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: quote
+  value: "to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation"
+  qualifier: ""
+  span: "Will you commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation?"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 On March 29, 2026, Senator Elizabeth Warren (D-MA, Ranking Member of the Senate Banking Committee) and Representative Jamie Raskin (D-MD, Ranking Member of the House Judiciary Committee), leading a coalition of 52 Congressional Democrats (8 senators + 44 representatives), sent formal inquiry letters to **six detention contractors and real estate firms** involved in the Trump administration's warehouse-based ICE detention expansion. The press release was published March 30, 2026, with a response deadline of **April 13, 2026**.
@@ -86,7 +159,7 @@ On March 29, 2026, Senator Elizabeth Warren (D-MA, Ranking Member of the Senate 
 
 ## Signatories
 
-**Senators (8):** Warren (lead), Markey (MA), Sanders (VT), Blumenthal (CT), Van Hollen (MD), Kelly (AZ), Booker (NJ), Kim (NJ), Warnock (GA).
+**Senators (9):** Warren (lead), Markey (MA), Sanders (VT), Blumenthal (CT), Van Hollen (MD), Kelly (AZ), Booker (NJ), Kim (NJ), Warnock (GA).
 
 **Representatives (44):** Raskin (lead), Ansari, Balint, Brownley, Casten, Castro, Cherfilus-McCormick, Chu, Crockett, Dean, DeGette, Dexter, Escobar, Frost, García (Jesús), Garcia (Sylvia), Goldman, Ivey, Jayapal, Johnson, Kamlager-Dove, Kelly (Robin), Lofgren, McClain Delaney, McClellan, McGovern, Menendez, Moulton, Nadler, Neguse, Norton, Omar, Ross, Ryan, Salinas, Scanlon, Shakowsky, Stansbury, Swalwell, Tlaib, Underwood, Ramirez, Beyer, Walkinshaw.
 
@@ -97,14 +170,14 @@ Per the press release and cover letter language, each company was asked to provi
 1. **Roles in the warehouse expansion projects** — specific properties, contracts, and services
 2. **Expected profit margins from the project**
 3. **Campaign donations or contributions to Trump officials** — direct and indirect
-4. **Commitment to prevent facilitating inhumane detention conditions** — contractual terms, oversight mechanisms, exit provisions
+4. **Commitment** — whether they will "commit to not allowing [their] goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation" (Q13)
 
 ## Specific Facts Cited in the Letters
 
 - **$38.3 billion** total Trump administration budget for the warehouse detention expansion
 - **$129 million** paid for a Georgia detention facility (approximately 5x prior assessed value) — the Social Circle, GA warehouse sold by PNK S1 LLC
 - **$102.4 million** paid for an **830,000-square-foot warehouse in Williamsport, Maryland** (new data point from Salon coverage)
-- **Target of ~100,000 beds by November 2026** — ICE's Detention Reengineering Initiative capacity goal
+- **Capacity goal**: the letters cite ICE's plan to "increase bed capacity to 92,600 beds" nationwide and "activate all facilities by November 30, 2026"; the press release describes the system as built to "hold nearly 100,000 people by November 2026"
 - **Merrimack, NH facility** referenced in the Detention Reengineering Initiative documentation
 
 ## Quoted Language from the Letters
@@ -129,11 +202,11 @@ The procurement mechanism identified: **Navy contracting program bypassing compe
 
 The letter addressed to Andrey Sharkov at PNK Group's 17 State Street, Floor 39 NYC headquarters specifically raises:
 
-- **Sharkov's Russian background** — the company was founded in Russia in 2004; Sharkov is a former Russian national who says he has renounced citizenship; PNK Group USA started as the U.S. arm of a Russian industrial developer; Sharkov states the U.S. operation severed ties with Russia in 2023
-- **The Social Circle, GA transaction** — the $128.5M-$129M DHS purchase at roughly 4-5x PNK's 2023 acquisition price
+- **PNK's Russian origin** — the letter describes PNK S1 LLC Group as "a subsidiary of a Russian-founded industrial developer"; it says nothing about Sharkov's citizenship, a 2004 founding date or a 2023 break with Russia (those details need their own source)
+- **The Georgia facility** — the letter says "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year" (citing the Guardian, Feb. 18, 2026); it does not name PNK as the seller of that facility or compare the price with PNK's 2023 acquisition price (the $128,555,500 deed figure is from CovNews)
 - **DHS spending "close to $1 billion"** acquiring warehouses from owners including PNK S1 LLC
 
-(The PDF version of the letter could not be directly text-extracted; specifics above are sourced to the press release, Salon coverage, AOL/AP reporting, and the Atlanta Press Collective's prior reporting cited in the letter.)
+(The PNK letter PDF was read directly in the 2026-10-08 fact-check.)
 
 ## Significance
 
@@ -159,8 +232,8 @@ As of the original Convergence Brief on April 23, 2026, it is not yet publicly d
 The letter to PNK Group creates a specific public record:
 
 1. **Congressional documentation of Sharkov's Russian-origin corporate history.**
-2. **Documentation of the 4-5x markup on the Social Circle transaction** (implicit in the "approximately 5x prior assessed value" language in the cover letters).
-3. **Named linkage of PNK to the WEXMAC-TITUS procurement bypass.**
+2. **The letter's "nearly five times" assessed-value comparison for a $129 million Georgia facility** (cover letters).
+3. **A general description of the WEXMAC-TITUS procurement bypass in the same letter** (the letter does not tie PNK's sale to that vehicle).
 
 Combined with Sharkov's sworn deposition of February 20, 2025 (continuing Moscow residence per the divorce case, see [[sharkov-andrey]]), the ICIJ Offshore Leaks entry, and the five-jurisdiction aircraft-ownership litigation with former pilot Aleksandr Buzin, this creates a documentary record sufficient for sustained investigative reporting.
 

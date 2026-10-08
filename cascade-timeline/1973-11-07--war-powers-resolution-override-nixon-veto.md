@@ -4,7 +4,7 @@ id: 1973-11-07--war-powers-resolution-override-nixon-veto
 date: '1973-11-07'
 title: "War Powers Resolution Enacted Over Nixon Veto: Congress Attempts to Reclaim Authority After Cambodia Bombing"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - legislative-capture
@@ -39,15 +39,31 @@ capture_lanes:
   - Executive Power Expansion
   - Legislative Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "five months after the secret Cambodia bombing had been exposed in Senate hearings"
+  now: "less than four months after the secret Cambodia bombing had been exposed in Senate Armed Services Committee hearings in July 1973"
+  why: "https://www.americanheritage.com/not-frivolous-mr-chairman ; https://time.com/archive/6841457/defense-bombing-coverup/ — Hal Knight testified to the Senate ARMED SERVICES Committee in July 1973 (July 16); Nixon Library page cited says only 'ordered without congressional consent'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "July 1973"
+  qualifier: ""
+  span: "in July 1973, when retired Major Hal Knight testified to the Senate Armed Services Committee"
+  url: https://www.americanheritage.com/not-frivolous-mr-chairman
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On November 7, 1973 — three weeks after the Saturday Night Massacre [[1973-10-20--saturday-night-massacre-cox-fired]] and five months after the secret Cambodia bombing had been exposed in Senate hearings — Congress overrode President Richard Nixon's veto of the War Powers Resolution (H.J.Res. 542), enacting it into law. The House voted 284-135 to override (four votes above the two-thirds threshold); the Senate voted 75-18, a comfortable margin. The Resolution requires the President to notify Congress within 48 hours of committing armed forces to hostilities, withdraw them within 60 days (plus 30 for safe withdrawal) absent congressional authorization, and consult with Congress "in every possible instance" before committing forces. It was the most serious congressional attempt since the Civil War to reclaim Article I war-declaration authority from the executive branch. Every administration from Ford forward has treated the statute as constitutionally dubious; no president has ever conceded it is binding. The gap between the statute on the books and presidential practice is one of the principal architectural features of the imperial presidency.
+On November 7, 1973 — three weeks after the Saturday Night Massacre [[1973-10-20--saturday-night-massacre-cox-fired]] and less than four months after the secret Cambodia bombing had been exposed in Senate Armed Services Committee hearings in July 1973 — Congress overrode President Richard Nixon's veto of the War Powers Resolution (H.J.Res. 542), enacting it into law. The House voted 284-135 to override (four votes above the two-thirds threshold); the Senate voted 75-18, a comfortable margin. The Resolution requires the President to notify Congress within 48 hours of committing armed forces to hostilities, withdraw them within 60 days (plus 30 for safe withdrawal) absent congressional authorization, and consult with Congress "in every possible instance" before committing forces. It was the most serious congressional attempt since the Civil War to reclaim Article I war-declaration authority from the executive branch. Every administration from Ford forward has treated the statute as constitutionally dubious; no president has ever conceded it is binding. The gap between the statute on the books and presidential practice is one of the principal architectural features of the imperial presidency.
 
 ## What Happened / Key Facts
 
-Nixon's March 1969-May 1970 secret bombing of Cambodia — Operation Menu [[1969-03-18--cambodia-secret-bombing-operation-menu-begins-illegal-concealment]] — had run 3,875 B-52 sorties without congressional authorization or notification. The falsified air-force records concealing the operation became a central exhibit in Senate Foreign Relations hearings in 1973. Combined with the continuing disaster in Vietnam, the revelations built momentum for structural reform.
+Nixon's March 1969-May 1970 secret bombing of Cambodia — Operation Menu [[1969-03-18--cambodia-secret-bombing-operation-menu-begins-illegal-concealment]] — had run 3,875 B-52 sorties (American Heritage) without congressional authorization or notification. In July 1973, retired Air Force Major Hal Knight testified to the Senate Armed Services Committee that he had helped falsify the flight records that concealed the strikes (American Heritage; TIME, "Defense: Bombing Coverup"). The Nixon Library notes that the secret bombings were ordered without congressional consent. Combined with the continuing disaster in Vietnam, the revelations built momentum for structural reform.
 
 Senator Jacob Javits (R-NY) and Representative Clement Zablocki (D-WI) were the principal authors. The final Resolution:
 

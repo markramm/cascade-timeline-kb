@@ -4,7 +4,7 @@ id: 2026-05-06--geo-group-q1-2026-results-raises-guidance
 date: '2026-05-06'
 title: "GEO Group Reports Q1 2026 Revenue $705M, Raises Full-Year Guidance to $2.95-$3.10B on ICE Reactivations; No Mention of Warren-Raskin Letter"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - geo-group
   - q1-2026-earnings
@@ -47,6 +47,53 @@ capture_lanes:
 coverage:
   - url: https://theramm.substack.com/p/corecivics-bullish-outlook-on-detention
     title: "CoreCivic's Bullish Outlook on Detention Center Profits: No Material Change"
+corrections:
+- date: '2026-10-08'
+  was: "The Q2 guide implies Q2 will be the strongest quarter of the year by revenue, consistent with"
+  now: "The Q2 revenue guide ($715M–$725M) is above Q1's $705.2M, but the full-year range ($2.95B–$3.10B) implies second-half revenue of about $760M–$840M a quarter, higher than the Q2 guide, so guidance points to revenue still rising after Q2. That is consistent with"
+  why: "https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance — Q1 revenue $705.2M; FY guide $2.95-3.10B; Q2 guide $715-725M; arithmetic implies H2 above Q2"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "~**$520M** in incremental annualized revenue, the largest single-year award total in GEO history (per CEO George Zoley's annual-meeting remarks May 1, 2026)."
+  now: "GEO says its 2025 new or expanded contracts represent \"up to approximately $520 million in new incremental annualized revenues,\" which it calls the largest amount of new business it has won in a single year (Q1 2026 release). The figure is a ceiling and is not ICE-only: about $300M from ICE facility activations, about $60M from ICE and U.S. Marshals transportation, up to $60M from ICE skip tracing, and about $100M from two Florida Department of Corrections contracts."
+  why: "https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance — Operational Highlights: 'up to approximately $520 million in new incremental annualized revenues'; breakdown ~$300M ICE activations, ~$60M transportation, up to $60M skip tracing, ~$100M Florida DOC"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "— incremental capacity raising GEO's ICE bed footprint from ~20,000 to ~26,000."
+  now: "(New Jersey, Michigan and Georgia, plus a Florida management services contract). The release gives no total ICE bed count."
+  why: "https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance — Secure Services: 'four facilities totaling approximately 6,000 beds, including three previously idle company-owned facilities in New Jersey, Michigan, and Georgia and a management services contract in Florida'; no ~20,000 or ~26,000 figure"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "responded publicly to the April 13 deadline"
+  now: "is known to have responded publicly to the April 13 deadline (CoreCivic told Bloomberg on March 30 that it \"is not involved in any of these efforts\" outlined in the letter)"
+  why: "https://www.detroitnews.com/ (Bloomberg, 2026-03-30 via Wayback) — CoreCivic's Steve Owen: the company 'is not involved in any of these efforts'; the other companies didn't immediately respond; GEO's release has no reference to the letter"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "$715 million to $725 million"
+  qualifier: "quarterly revenues"
+  span: "quarterly revenues of $715 million to $725 million"
+  url: https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "up to approximately $520 million"
+  qualifier: "new incremental annualized revenues"
+  span: "up to approximately $520 million in new incremental annualized revenues"
+  url: https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "approximately 6,000 beds"
+  qualifier: "four facilities"
+  span: "we entered into new contracts to house U.S. Immigration and Customs Enforcement (\"ICE\") detainees at four facilities totaling approximately 6,000 beds"
+  url: https://web.archive.org/web/20260507170458/https://www.businesswire.com/news/home/20260505048962/en/The-GEO-Group-Reports-First-Quarter-Results-and-Increases-Full-Year-2026-Guidance
+  read: fetched
+  source_kind: secondary
 ---
 
 On May 6, 2026, before the market opened, The GEO Group released its Q1 2026 financial results and raised full-year 2026 guidance, citing the ramp of ICE detention-bed reactivations awarded in 2025. The earnings call followed at 11:00 a.m. Eastern. CoreCivic's parallel Q1 2026 release lands after market close on the same date with a conference call scheduled for May 7 at 11:00 a.m. Eastern (see [[2026-05-06--corecivic-q1-2026-earnings-release-pending]] — pending entry).
@@ -80,13 +127,13 @@ This entry documents what GEO disclosed and — equally important for Investigat
 | Revenue | $715M – $725M |
 | Adjusted EBITDA | $130M – $135M |
 
-The Q2 guide implies Q2 will be the strongest quarter of the year by revenue, consistent with the planned ramp of the four ICE facilities GEO won in 2025 (six thousand new beds) and the BI Incorporated skip-tracing services that began in March 2026.
+The Q2 revenue guide ($715M–$725M) is above Q1's $705.2M, but the full-year range ($2.95B–$3.10B) implies second-half revenue of about $760M–$840M a quarter, higher than the Q2 guide, so guidance points to revenue still rising after Q2. That is consistent with the planned ramp of the four ICE facilities GEO won in 2025 (six thousand new beds) and the BI Incorporated skip-tracing services that began in March 2026.
 
 ## ICE Concentration Disclosed in the Release
 
-- **6,000 new ICE beds** activating across **four facilities** (three previously idle, company-owned) — incremental capacity raising GEO's ICE bed footprint from ~20,000 to ~26,000.
+- **6,000 new ICE beds** activating across **four facilities** (three previously idle, company-owned) (New Jersey, Michigan and Georgia, plus a Florida management services contract). The release gives no total ICE bed count.
 - **BI Incorporated skip-tracing contract**: 2-year ICE contract awarded Q4 2025, valued at up to **$60M / year** (separate reporting puts the total contract at $121M); services commenced March 2026.
-- **2025 new-business win total**: ~**$520M** in incremental annualized revenue, the largest single-year award total in GEO history (per CEO George Zoley's annual-meeting remarks May 1, 2026).
+- **2025 new-business win total**: GEO says its 2025 new or expanded contracts represent "up to approximately $520 million in new incremental annualized revenues," which it calls the largest amount of new business it has won in a single year (Q1 2026 release). The figure is a ceiling and is not ICE-only: about $300M from ICE facility activations, about $60M from ICE and U.S. Marshals transportation, up to $60M from ICE skip tracing, and about $100M from two Florida Department of Corrections contracts.
 - **6,000 idle secure beds remain** as additional upside (~$300M at full occupancy).
 
 ## Capital Returns
@@ -108,7 +155,7 @@ The Q1 release is therefore Shayn March's first quarterly cycle as CFO. Suchinsk
 
 This is the disclosure-tracking finding for Investigation 1. The Q1 2026 release contains:
 
-- **No reference** to the March 29, 2026 Warren-Raskin letter to GEO Group, even though the letter requested specific responses on profit margins, Trump-administration contributions, and inhumane-conditions oversight by an April 13, 2026 deadline that has now passed without public response (see parent task `task-inv1-warren-raskin-response-deadline`).
+- **No reference** to the March 29, 2026 Warren-Raskin letter to GEO Group, even though the letter requested specific responses on profit margins, Trump-administration contributions, and inhumane-conditions oversight by an April 13, 2026 deadline that has now passed without a public response from GEO (see parent task `task-inv1-warren-raskin-response-deadline`).
 - **No reference** to the Warren-Shaheen March 22, 2026 letter to DoD on the Navy-procurement-bypass (WEXMAC-TITUS) mechanism (see [[2026-03-22--warren-shaheen-dod-letter-wexmac-navy-procurement-bypass]]).
 - **No new risk-factor language** distinguishing the Q1 2026 disclosure from Q4 2025 on congressional inquiries, regulatory-environment political risk, or contract-cancellation exposure tied to administrative oversight.
 - **No reference** to the Mullin-pause / Stateline reporting on DHS scaling back warehouse-detention plans from 1,500 to 542 beds at Williamsport MD and Surprise AZ (see [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]]).
@@ -116,7 +163,7 @@ This is the disclosure-tracking finding for Investigation 1. The Q1 2026 release
 
 ## Pattern-of-Silence Confirmation
 
-The pattern documented as a `task-inv1-warren-raskin-response-deadline` finding — that none of the six Warren-Raskin recipient companies (PNK Group / Sharkov, CoreCivic, GEO Group, GardaWorld Federal Services, Newmark Group, KVG LLC) responded publicly to the April 13 deadline — extends through GEO's Q1 2026 SEC-disclosure cycle. A publicly traded company with first-tier disclosure obligations did not treat the 52-lawmaker congressional inquiry as material enough to acknowledge on the record, neither in its Q1 press release nor (per the businesswire materials) in its forward-looking risk-factor language.
+The pattern documented as a `task-inv1-warren-raskin-response-deadline` finding — that none of the six Warren-Raskin recipient companies (PNK Group / Sharkov, CoreCivic, GEO Group, GardaWorld Federal Services, Newmark Group, KVG LLC) is known to have responded publicly to the April 13 deadline (CoreCivic told Bloomberg on March 30 that it "is not involved in any of these efforts" outlined in the letter) — extends through GEO's Q1 2026 SEC-disclosure cycle. A publicly traded company with first-tier disclosure obligations did not treat the 52-lawmaker congressional inquiry as material enough to acknowledge on the record, neither in its Q1 press release nor (per the businesswire materials) in its forward-looking risk-factor language.
 
 This is itself a documentary fact: **the Warren-Raskin probe has not generated a disclosed materiality threshold at GEO Group through Q1 2026.** Whether that judgment was tested by securities counsel, audit committee, or the new CFO Shayn March in his first cycle is not visible from the press release; the 10-Q filing (typically follows the press release within days) may carry tighter risk-factor language. That document is not yet available as of this entry's writing.
 
@@ -124,7 +171,7 @@ This is itself a documentary fact: **the Warren-Raskin probe has not generated a
 
 Three patterns matter for the WEXMAC-TITUS / Warren-Raskin investigative thread:
 
-1. **Operational ramp is real and accelerating.** GEO's 17% Q1 revenue jump, raised 2026 guidance, and 96% net-income increase confirm that the ICE-contract pipeline awarded in 2025 is converting to occupied-bed revenue in 2026, on schedule. The $520M annualized new-business figure validates the WEXMAC-TITUS-era buildout as the largest single-year award cycle in GEO history.
+1. **Operational ramp is real and accelerating.** GEO's 17% Q1 revenue jump, raised 2026 guidance, and 96% net-income increase confirm that the ICE-contract pipeline awarded in 2025 is converting to occupied-bed revenue in 2026, on schedule. GEO's up-to-$520M annualized new-business figure (about $300M of it from ICE activations; the rest includes Florida state and transportation contracts) is GEO's own description of its largest single-year award cycle.
 
 2. **Buyback acceleration absorbs free cash flow that could otherwise fund capex.** The $141M repurchased through March 31 — out of $500M authorized — signals management's view that the contract pipeline does not require additional facility-acquisition capex, despite ICE's stated 100,000-bed capacity target and DHS's continued warehouse-acquisition activity.
 

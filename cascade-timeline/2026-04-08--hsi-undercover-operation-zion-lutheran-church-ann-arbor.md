@@ -46,9 +46,14 @@ sources:
   date: '2026-03-23'
   publisher: CrimethInc.
   tier: 3
+- title: "Department of Homeland Security Spied on Churches in the Twin Cities"
+  url: https://wordandway.org/2026/08/14/department-of-homeland-security-spied-on-churches-in-the-twin-cities/
+  date: '2026-08-14'
+  publisher: "Word&Way"
+  tier: 2
 importance: 9
 date: '2026-04-08'
-status: confirmed
+status: reported
 coverage: []
 actors:
 - Erin Herrgott
@@ -63,6 +68,61 @@ actors:
 - Kevin Riach
 capture_lanes:
 - Civil Rights Suppression
+corrections:
+- date: '2026-10-08'
+  was: "Per Religion News Service, the report \"includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE.\""
+  now: "Per Word&Way (Aug. 14, 2026), the agent's report \"includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE.\""
+  why: "https://wordandway.org/2026/08/14/department-of-homeland-security-spied-on-churches-in-the-twin-cities/ — sentence is Word&Way's; RNS (Aug 19) does not contain it"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Zion Lutheran is one of at least five churches entered. Per RNS court-records review: ..."
+  now: "Per Word&Way's account of the defense filings, DHS agents entered church buildings five times: First Universalist, Minneapolis (Dec. 13); Prince of Peace Lutheran, Roseville MN (Feb. 1); Zion Lutheran, Ann Arbor (April 8); St. John the Evangelist Episcopal (April 14); University Baptist (May 28). RNS reports that DHS agents surveilled five churches in Minnesota and Michigan since December."
+  why: "https://wordandway.org/2026/08/17/in-worship-and-in-court-churches-respond-to-dhs-spying-in-their-buildings/ — dated list is Word&Way's; RNS names neither Zion nor Prince of Peace and gives no dates"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The 75-100 figure reported by Michigan Advance and RNS is the ROI's own."
+  now: "The 75-100 figure reported by Michigan Advance is the ROI's own; Michigan Advance attributes it to the Report of Investigation (\"The report says that the undercover agent attended the event, which brought approximately 75 to 100 attendees\")."
+  why: "https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/ — RNS has no attendance figure"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "CrimethInc. advertised the \"Breaking the ICE\" tour on March 23, 2026 with full addresses and times for 23 stops across 22 cities"
+  now: "CrimethInc. announced the \"Breaking the ICE\" tour on March 23, 2026: a public schedule of two dozen events in 23 cities, two concurrent in New York City. Venues were filled in as the tour went on; the first version listed Ann Arbor for April 8 with no venue, and the updated listing gave Zion Lutheran Church Sanctuary, 1501 West Liberty Street, 6 pm."
+  why: "https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour; Wayback 2026-03-24 snapshot — count is 24 events in 23 cities; Mar 23 listing had no Ann Arbor venue"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "includes information on Michigan church members who were not part of the targeted Minnesota activist group"
+  qualifier: ""
+  span: "The agent's report includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE."
+  url: https://wordandway.org/2026/08/14/department-of-homeland-security-spied-on-churches-in-the-twin-cities/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: attribution
+  value: "five times DHS agents entered a church building"
+  qualifier: "Zion Lutheran Church in Ann Arbor, Michigan, on April 8"
+  span: "five times DHS agents entered a church building: at First Universalist Church in Minneapolis on Dec. 13, at Prince of Peace Lutheran Church in Roseville on Feb. 1, at Zion Lutheran Church in Ann Arbor, Michigan, on April 8"
+  url: https://wordandway.org/2026/08/17/in-worship-and-in-court-churches-respond-to-dhs-spying-in-their-buildings/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "75 to 100"
+  qualifier: "approximately"
+  span: "The report says that the undercover agent attended the event, which brought approximately 75 to 100 attendees."
+  url: https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: figure
+  value: "two dozen events"
+  qualifier: "total"
+  span: "a total of two dozen events"
+  url: https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -83,13 +143,13 @@ The case was opened **April 7 — one day before the event**. Request to church 
 
 **The instruction was explicit.** HSI Saint Paul requested "that UC Agent(s) attend the event equipped with **recording devices** to collect evidence **in support of potential federal criminal charges**." This was not open-ended intelligence collection. It was evidence-gathering for prosecution, conducted inside a church sanctuary.
 
-**The event was public.** CrimethInc. advertised the "Breaking the ICE" tour on March 23, 2026 with full addresses and times for 23 stops across 22 cities — Ann Arbor listed as April 8, Zion Lutheran Church Sanctuary, 1501 West Liberty Street, 6 pm. The ROI itself concedes the tour "was advertised via open source." Nothing was infiltrated in the sense of penetrating something concealed.
+**The event was public.** CrimethInc. announced the "Breaking the ICE" tour on March 23, 2026 as a public schedule of two dozen events in 23 cities (two concurrent in New York City). Venues were filled in as the tour went on: the first version listed Ann Arbor for April 8 with no venue; the updated listing gave Zion Lutheran Church Sanctuary, 1501 West Liberty Street, 6 pm. The ROI itself concedes the tour "was advertised via open source." Nothing was infiltrated in the sense of penetrating something concealed.
 
 **What the agent recorded.** UCA 9759's summary describes approximately 20 individuals seated, ages early 20s to late 70s. The agent spoke with attendees including a married couple who were Zion Lutheran members; recorded that the church had been approached and asked to host; recorded that the husband and a small group of members "are part of a group that supports the ideals of the Minnesota resistance"; recorded that the wife "was part of a mission team that traveled to Uganda, where they assisted in the construction of a hospital"; and transcribed her business card into the federal file. The UCA also collected pamphlets, stickers, and other distributed materials and turned them over to HSI special agents.
 
-Per Religion News Service, the report "includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE."
+Per Word&Way (Aug. 14, 2026), the agent's report "includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE."
 
-**The attendance figures are consistent, not contradictory.** Page 2 records approximately 20 individuals seated when UCA 9759 arrived at 1745. Page 3 records that "by the beginning of the presentation, there were approximately 75 to 100 individuals in attendance." The agent arrived fifteen minutes early; the room filled. The 75-100 figure reported by Michigan Advance and RNS is the ROI's own.
+**The attendance figures are consistent, not contradictory.** Page 2 records approximately 20 individuals seated when UCA 9759 arrived at 1745. Page 3 records that "by the beginning of the presentation, there were approximately 75 to 100 individuals in attendance." The agent arrived fifteen minutes early; the room filled. The 75-100 figure reported by Michigan Advance is the ROI's own; Michigan Advance attributes it to the Report of Investigation. RNS does not report it.
 
 **What the agent recorded during the presentation.** Four presenters, three female and one male. UCA 9759 "recognized the male presenter as Callum ROBINET also known as 'Juliet'" — recognized, implying prior identification from elsewhere in the investigation. Robinet is defendant No. 4 in the June 11, 2026 indictment (Doc. 1, caption: "CALLUM ROBINET (4), a.k.a. Juliet K, a.k.a. Juliet, a.k.a. Cal") — indicted two months after this event. **CORRECTED 2026-09-16**; an earlier version of this entry said he was not among the fifteen defendants, an error traced to searching the defense discovery motion rather than the indictment.
 
@@ -105,17 +165,17 @@ Romulus is not an arbitrary Detroit suburb. On February 4, 2026, DHS bought a ~2
 
 The weekly protest this attendee advertised was, on the available evidence, directed at that facility — a federal acquisition the State of Michigan was at that moment suing to stop. An HSI agent recorded her publicizing it, so the federal file now contains a note that someone promoted lawful protest against a purchase then under challenge by that state's own attorney general.
 
-**What this does NOT establish.** The Romulus litigation is not documented as a reason for the tasking, and should not be written as one. The ROI's stated predicate is the Minnesota conspiracy investigation (18 U.S.C. §§ 111 and 372); Romulus appears in the document only as content the agent collected at the event. A per-city scope check across all 22 tour cities (see [[breaking-the-ice-tour-per-city-surveillance-scope-check]]) tested whether Michigan's active DHS-litigation posture explained why Ann Arbor specifically drew tasking, and found no source stating or implying that HSI Saint Paul knew of or acted on the Romulus suit. The convergence is real and worth recording; the causal claim is unsupported.
+**What this does NOT establish.** The Romulus litigation is not documented as a reason for the tasking, and should not be written as one. The ROI's stated predicate is the Minnesota conspiracy investigation (18 U.S.C. §§ 111 and 372); Romulus appears in the document only as content the agent collected at the event. A per-city scope check across all 23 tour cities (see [[breaking-the-ice-tour-per-city-surveillance-scope-check]]) tested whether Michigan's active DHS-litigation posture explained why Ann Arbor specifically drew tasking, and found no source stating or implying that HSI Saint Paul knew of or acted on the Romulus suit. The convergence is real and worth recording; the causal claim is unsupported.
 
 **The report closes: "This investigation continues."** UCA 9759 departed at 2010 hours, having also taken one of each pamphlet, sticker, and reading material from a table near the entrance and provided them to HSI DMA special agents.
 
-**Zion Lutheran is one of at least five churches entered.** Per RNS court-records review: First Universalist, Minneapolis (Dec 13); Prince of Peace Lutheran, Roseville MN (Feb 1); **Zion Lutheran, Ann Arbor (Apr 8)**; St. John the Evangelist Episcopal (Apr 14); University Baptist (May 28). Lutheran, Baptist, Episcopal, Unitarian Universalist. Ann Arbor is the only one outside Minnesota.
+**Zion Lutheran is one of at least five churches entered.** Per Word&Way's account of the defense filings (RNS reports DHS agents surveilled five churches in Minnesota and Michigan since December): First Universalist, Minneapolis (Dec 13); Prince of Peace Lutheran, Roseville MN (Feb 1); **Zion Lutheran, Ann Arbor (Apr 8)**; St. John the Evangelist Episcopal (Apr 14); University Baptist (May 28). Lutheran, Baptist, Episcopal, Unitarian Universalist. Ann Arbor is the only one outside Minnesota.
 
 **The pastors did not know.** Zion Lutheran is led by Pastors Jim Debner and Greer Cherney. Multiple pastors across the affected congregations said they learned of DHS presence in their buildings only when the filings were reported in August 2026.
 
 ## Why It Matters
 
-**This is the documented mechanism by which Operation Puppet Master left Minnesota.** Most coverage describes the operations as Twin Cities infiltration. The collateral-request structure shows the investigation tasking field offices wherever the speaking tour went — with a two-day turnaround, on a publicly posted schedule of 22 cities. Whether the other 21 stops drew similar tasking is, as of this entry, an open and unasked question.
+**This is the documented mechanism by which Operation Puppet Master left Minnesota.** Most coverage describes the operations as Twin Cities infiltration. The collateral-request structure shows the investigation tasking field offices wherever the speaking tour went — with a two-day turnaround, on a publicly posted schedule of 23 cities. Whether the other tour stops drew similar tasking is, as of this entry, an open and unasked question.
 
 **It names operators.** The corpus documents the structure of this apparatus at length. The structure did not decide to put a recording device in a church sanctuary; people did, and this filing names two of them plus the position of a third. Erin Herrgott wrote the report. Darryl Pugh approved it on April 13, five days after the operation. The SAC Saint Paul originated the request. That an action is institutionally routine does not make it unauthored — see [[evidentiary-layer-control-after-federal-killings]] for the same principle applied to the post-killing record.
 
@@ -160,7 +220,7 @@ ever contested.
 ## Open Questions
 
 - ~~The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request~~ **RESOLVED 2026-08-20**: Steven Schrank, per his signature on two FedWire/CHIPS financial summonses in the same discovery set. See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
-- Whether the other 21 "Breaking the ICE" tour stops drew comparable collateral tasking — still open; the retrieved 31-document set contains no other collateral-case ROIs.
+- Whether the other "Breaking the ICE" tour stops drew comparable collateral tasking — still open; the retrieved 31-document set contains no other collateral-case ROIs.
 - ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SAs Jacob Marquis, Katherine Wespetal, Timothy Gorman, and Terri Botterbusch as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - ~~Whether UCA 9759 is the same undercover agent reported by The Intercept as having offered to "build items" for direct action to a Sunrise organizer after a January 31 training~~ **RESOLVED 2026-08-20, negative**: ROI 212-11 (the Jan 31 Sunrise Movement training) shows the "build items" offer was made by **UCA 9833**, not UCA 9759. UCA 9759's only other confirmed appearance is alongside UCA 5022 at a Feb 2 50501 Minnesota meeting. They are distinct operatives.
 - Whether Zion Lutheran or the Southeast Michigan Synod has taken or is considering legal action — still open.

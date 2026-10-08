@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2025-04-14--malik-appointed-fannie-mae-board
 date: '2025-04-14'
-title: "Pulte Appoints 1789 Capital's Omeed Malik to Fannie Mae Board; Nominating/Governance Committee Seat Paired with FHFA Director as Chair"
+title: "Pulte Appoints 1789 Capital's Omeed Malik to Fannie Mae Board; Nominating and Corporate Governance Committee Seat Alongside FHFA Director as Chair"
 importance: 8
-status: confirmed
+status: reported
 actors:
   - Omeed Malik
   - Bill Pulte
@@ -115,13 +115,70 @@ coverage:
     title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
     date: '2026-05-13'
     publication: theramm
+corrections:
+- date: '2026-10-08'
+  was: "The committee has exactly two members"
+  now: "As of the page's 4/24/26 revision the committee has three members: Pulte (Chair), Malik, Stucky"
+  why: "https://www.fanniemae.com/about-us/corporate-governance/fannie-mae-board-committees — live page 'Page last revised: 4/24/26'; archive.org 2026-04-19 snapshot showed two members"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Pulte announced it via an X post roughly 20 minutes after teasing ... (National Mortgage News). ... Fannie Mae's OTCQB-listed shares rose approximately 14% on the day."
+  now: "Pulte announced it roughly 20 minutes after posting that news was coming (Bisnow); shares climbed roughly 14% in trading Monday (Bisnow)"
+  why: "https://www.bisnow.com/national/news/capital-markets/trump-ally-and-anti-esg-crusader-joins-fannie-mae-board-128919 — Bisnow (April 15, 2025); National Mortgage News has neither the tease nor the share move"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "NPR's February 3, 2026 investigation ... flagged this structural concern: the IPO \"could generate billions of dollars for key Trump supporters.\""
+  now: "NPR reported that critics warn unwinding the conservatorship could rattle markets 'while potentially generating billions of dollars for key Trump supporters'"
+  why: "https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors — NPR never mentions Malik; the sentence is critics' warning"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Pulte has publicly floated a 5-15% public offering ... $500B-$700B ... Trump personally invited JPMorgan CEO Jamie Dimon, Goldman Sachs CEO David Solomon, and Bank of America CEO Brian Moynihan"
+  now: "WSJ-reported 5-15% sale at about $500 billion raising about $30 billion; Bessent: 3-6% for at least $30 billion; BofA and Citi leadership met Trump, JPMorgan and Goldman sought the business"
+  why: "HousingWire Aug 8, 2025; NPR Feb 3, 2026; Fox Business Aug 15, 2025 — the 5-15% figure is WSJ anonymous-source reporting; no source gives $700B or Dimon"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the investment vehicle run by Bill Pulte's grandfather William J. Pulte"
+  now: "whose chairman is named as William J. Pulte"
+  why: "https://www.prnewswire.com/news-releases/the-pulte-family-office-invests-in-grabagun-under-ticker-clbr-colombier-acquisition-corp-ii-nyseclbr-302352200.html — release names William J. Pulte as Chairman; Bill Pulte's grandfather of that name died in 2018"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Donald Trump Jr. is an advisor to GrabAGun and an equity holder upon merger closing"
+  now: "Trump Jr. was nominated to the GrabAGun board in March 2025 and joined when the merger closed in July 2025; prospectus projected about 1%"
+  why: "Bisnow Apr 14, 2025; CNBC/Business Wire July 2025 — no source calls him an 'advisor'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "roughly 20 minutes after Pulte posted to X"
+  qualifier: ""
+  span: "Pulte's post announcing Malik's appointment came roughly 20 minutes after Pulte posted to X that 'news on Fannie Mae [was] coming shortly.'"
+  url: https://www.bisnow.com/national/news/capital-markets/trump-ally-and-anti-esg-crusader-joins-fannie-mae-board-128919
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "14%"
+  qualifier: ""
+  span: "with the stock climbing by roughly 14% in trading Monday"
+  url: https://www.bisnow.com/national/news/capital-markets/trump-ally-and-anti-esg-crusader-joins-fannie-mae-board-128919
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: "$30 billion"
+  qualifier: ""
+  span: "selling even a small portion of Fannie and Freddie back to private investors might amount to about $30 billion"
+  url: https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors
+  read: fetched
+  source_kind: secondary
 ---
 
 # Pulte Appoints 1789 Capital's Omeed Malik to Fannie Mae Board
 
-On **April 14, 2025**, FHFA Director **Bill Pulte** appointed **Omeed Malik** — founder and President of **1789 Capital**, the Palm Beach venture firm where **Donald Trump Jr.** joined as a Partner in November 2024 — to the Board of Directors of **Fannie Mae**, the government-sponsored enterprise that together with Freddie Mac backstops approximately $7 trillion of U.S. residential mortgages. The appointment was effective immediately. Pulte announced it via an X post roughly 20 minutes after teasing that "news on Fannie Mae [was] coming shortly" (National Mortgage News).
+On **April 14, 2025**, FHFA Director **Bill Pulte** appointed **Omeed Malik** — founder and President of **1789 Capital**, the Palm Beach venture firm where **Donald Trump Jr.** joined as a Partner in November 2024 — to the Board of Directors of **Fannie Mae**, the government-sponsored enterprise that together with Freddie Mac backstops approximately $7 trillion of U.S. residential mortgages. The appointment was effective immediately. Pulte announced it on X roughly 20 minutes after posting that "news on Fannie Mae [was] coming shortly" (Bisnow, April 15, 2025).
 
-Pulte's quoted statement: *"Omeed brings great capital markets, legal and investment experience as we make Fannie and Freddie great again."* Fannie Mae's OTCQB-listed shares rose approximately **14% on the day**.
+Pulte's quoted statement: *"Omeed brings great capital markets, legal and investment experience as we make Fannie and Freddie great again."* Fannie Mae's shares climbed roughly **14% in trading that Monday** (Bisnow).
 
 ## What Happened
 
@@ -131,14 +188,15 @@ Malik filled one of the eight vacant Fannie Mae seats. Unlike the purged directo
 
 ## Committee Assignment
 
-Per Fannie Mae's current corporate-governance page (fanniemae.com/about-us/corporate-governance/fannie-mae-board-committees), Malik serves as a member of the **Nominating and Corporate Governance Committee**. The committee has exactly **two members**:
+Per Fannie Mae's current corporate-governance page (fanniemae.com/about-us/corporate-governance/fannie-mae-board-committees), Malik serves as a member of the **Nominating and Corporate Governance Committee**. As of the page's April 24, 2026 revision the committee has three members (until that revision it had two, Pulte and Malik):
 
 - **William J. Pulte** (Chair) — FHFA Director
 - **Omeed Malik** — 1789 Capital founder; Don Jr.'s business partner
+- **Michael Stucky** — Vice Chair
 
 Malik does **not** serve on the Audit, Compensation and Human Capital, or Risk Policy and Capital committees.
 
-A two-person Nominating/Governance Committee where both members are Pulte-selected concentrates director-recruitment and governance-policy authority in the FHFA Director and his Trump-family-capital appointee. In a pre-IPO governance context, this committee recommends board composition changes material to any S-1 or registration statement.
+A small Nominating/Governance Committee chaired by the FHFA Director, with the FHFA Director's own appointees among its members, concentrates director-recruitment and governance-policy authority in the FHFA Director and his Trump-family-capital appointee. In a pre-IPO governance context, this committee recommends board composition changes material to any S-1 or registration statement.
 
 Fannie Mae's **Q1 2025 10-Q** noted that at filing, the Board had "not yet considered Malik's independence status or committee assignments" and had not decided "any potential disclosures regarding his relationships or transactions" — meaning the Nominating/Governance Committee placement was assigned after the Q1 filing.
 
@@ -157,12 +215,12 @@ Notable turnover since April 2025: **Christopher Stanley** (SpaceX/X cybersecuri
 
 ## The Pre-Existing Pulte-Malik Financial Tie
 
-Before the Fannie Mae appointment, the **Pulte Family Office** — the investment vehicle run by Bill Pulte's grandfather William J. Pulte and the family — took an equity position in **GrabAGun**, an online firearms retailer going public through **Colombier Acquisition Corp II** (NYSE: CLBR). The Pulte Family Office investment was announced **January 2025** via PR Newswire, with William J. Pulte quoted on the **$99.5 million** revenue milestone and the "protecting the 2nd amendment" framing.
+Before the Fannie Mae appointment, the **Pulte Family Office** — whose chairman is named as William J. Pulte — took a position in **GrabAGun**, an online firearms retailer going public through **Colombier Acquisition Corp II** (NYSE: CLBR). The Pulte Family Office investment was announced **January 2025** via PR Newswire, with William J. Pulte quoted on the **$99.5 million** revenue milestone and the "protecting the 2nd amendment" framing.
 
 Key facts establishing the tie:
 
 - **GrabAGun is a 1789 Capital portfolio company**; Malik is a founding figure in the Colombier SPAC series taking GrabAGun public
-- **Donald Trump Jr. is an advisor to GrabAGun and an equity holder upon merger closing**
+- **Donald Trump Jr. was nominated to the GrabAGun board in March 2025 (Bisnow) and joined it when the merger closed in July 2025, with a prospectus projecting about 300,000 shares, roughly 1% (CNBC)**
 - The Pulte Family Office position was announced **three months before** Bill Pulte (as FHFA Director) appointed Malik to the Fannie Mae Board
 - Bill Pulte's relationship to the Pulte Family Office is not a recusal-triggering separation — his OGE Form 278e discloses Pulte Capital Partners LLC, Mullett Holdings III LLC, and other overlapping family-office-adjacent holdings
 
@@ -179,7 +237,7 @@ This establishes a **documented pre-appointment financial-interest overlap** bet
 
 ## Why This Matters — GSE-IPO Access Scope
 
-Pulte has publicly floated a **5-15% public offering** of Fannie Mae and Freddie Mac shares, with combined valuation estimates of **$500B-$700B** and an equity raise of approximately **$30 billion**. Trump personally invited JPMorgan CEO Jamie Dimon, Goldman Sachs CEO David Solomon, and Bank of America CEO Brian Moynihan to the White House to discuss the IPO structure (HousingWire, Realestatenews, August 2025 reporting).
+The Wall Street Journal reported in August 2025, citing unnamed sources, that the administration planned to sell 5% to 15% of Fannie Mae and Freddie Mac at a combined valuation of about $500 billion, raising roughly $30 billion (HousingWire, Aug. 8, 2025). Treasury Secretary Bessent said a 3% to 6% stake would bring in at least about $30 billion (NPR, Feb. 3, 2026). Bank of America's and Citigroup's leadership met Trump in the Oval Office in August 2025 as banks competed to underwrite the offering, and JPMorgan and Goldman Sachs were also seeking the business (Fox Business, Aug. 15, 2025).
 
 A Fannie Mae board seat in this window confers access to:
 
@@ -189,7 +247,7 @@ A Fannie Mae board seat in this window confers access to:
 - Capital-shortfall disclosures (Fannie reported a **$33 billion** ERCF capital gap in Q1 2025; Freddie **$162 billion**)
 - Non-public GSE operational information: credit policy, guarantee fees, credit-score framework changes, and conservatorship-exit planning
 
-**NPR's February 3, 2026 investigation** ("Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?") flagged this structural concern: the IPO "could generate billions of dollars for key Trump supporters." Malik — the President's son's principal business partner — holds one of eight Fannie Mae board seats as the IPO is structured.
+**NPR's February 3, 2026 report** ("Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?") said critics warn that unwinding the conservatorship could "rattle financial markets and drive up mortgage rates, while potentially generating billions of dollars for key Trump supporters" (NPR does not mention Malik). Malik — the President's son's principal business partner — holds one of eight Fannie Mae board seats as the IPO is structured.
 
 ## Structural Significance
 
@@ -197,7 +255,7 @@ Four overlapping dimensions:
 
 1. **First-degree personnel overlap** between 1789 Capital governance and federal housing-finance policy. Malik simultaneously runs the Don Jr. venture vehicle and sits inside the federal GSE Pulte chairs.
 
-2. **Regulator-as-Chairman appointing his business counterparty as Governance-Committee partner.** Pulte (FHFA Director + Fannie Mae Chair) appointed Malik (1789 Capital) to the two-person Nominating/Governance Committee, concentrating director-recruitment authority in a financially-pre-connected pair.
+2. **Regulator-as-Chairman appointing his business counterparty as Governance-Committee partner.** Pulte (FHFA Director + Fannie Mae Chair) appointed Malik (1789 Capital) to the Nominating/Governance Committee, concentrating director-recruitment authority in a financially-pre-connected pair.
 
 3. **Trump-family-equity-in-federal-regulator pattern.** The Malik appointment is the housing-finance counterpart to the broader Pipeline 2 pattern: Kushner at Affinity Partners / QIA; Witkoff as envoy while Witkoff Group expands; Trump Jr. at 1789 Capital alongside $735M in Year-1 Trump administration contracts to portfolio companies; Eric Trump at American Bitcoin and Trump Organization Dar Global expansion.
 
