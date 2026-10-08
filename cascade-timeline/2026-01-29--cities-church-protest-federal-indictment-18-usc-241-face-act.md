@@ -4,7 +4,7 @@ id: 2026-01-29--cities-church-protest-federal-indictment-18-usc-241-face-act
 date: '2026-01-29'
 title: "Federal Grand Jury Indicts Nine Cities Church Protesters Under 18 U.S.C. § 241 and FACE Act; Superseding Indictment Expands to 39 Defendants"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - civil-liberties
   - first-amendment
@@ -70,9 +70,61 @@ capture_lanes:
   - Media Capture and Control
   - Executive Power Expansion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "**Count 2 — Misdemeanor:**"
+  now: "**Count 2 — Felony:**"
+  why: "https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case — Charges, Count 2: all nine charged with felony offenses; bodily injury alleged; up to 10 years"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the Reconstruction-era Ku Klux Klan Act)"
+  now: "a Reconstruction-era statute enacted as part of the Enforcement Act of 1870)"
+  why: "https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case — § 241 'traces its origins to the Enforcement Act of 1870'; United States v. Price, 383 U.S. 787 (1966); Ku Klux Klan Act is the 1871 Third Enforcement Act"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The case is also the first time the Justice Department has used either § 241 or § 248 to prosecute journalistic activity."
+  now: "According to Lawfare, the case appears to be the first criminal prosecution under the FACE Act's religious-worship provision (18 U.S.C. § 248(a)(2)). Civil Rights Division deputy Jesus Osete called it the \"first time in U.S. history\" the Justice Department has charged § 241 \"alongside the FACE Act's provision protecting houses of worship.\" Lawfare also notes that federal prosecutors typically do not criminally charge journalists for covering a protest."
+  why: "https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case — Lawfare: 'first time ... under the FACE Act's religious worship provisions'; Osete: 'first time in U.S. history' § 241 alongside FACE; journalists: 'typically do not criminally charge'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a federal appeals court judge rejected the government's appeal, writing there was \"no evidence\" of any criminal behavior in Lemon's journalistic work."
+  now: "the government then petitioned the 8th Circuit Court of Appeals, which also declined to sign off on the charging documents (Minnesota Reformer); in a concurrence, Judge Grasz wrote that the complaint established probable cause but that the government had other adequate means to pursue it. Minnesota Chief U.S. District Judge Patrick Schiltz had written that Lemon and his producer \"were not protestors at all\" and that \"there is no evidence that those two engaged in any criminal behavior or conspired to do so.\""
+  why: "https://minnesotareformer.com/2026/02/13/don-lemon-cities-church-protestors-plead-not-guilty-in-federal-court-in-minnesota/ ; AOL/NY Post — 'no evidence' was Chief Judge Schiltz (D. Minn.); the 8th Circuit declined to sign off, Judge Grasz concurring that probable cause was shown"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "| Lemon, Fort arrested (Beverly Hills and Minneapolis) | January 30, 2026 |"
+  now: "| Lemon arrested in Beverly Hills | January 29, 2026 |\n| Fort arrested at her home | January 30, 2026 |"
+  why: "https://minnesotareformer.com/2026/02/13/don-lemon-cities-church-protestors-plead-not-guilty-in-federal-court-in-minnesota/ — 'Lemon was arrested on Jan. 29 in a hotel lobby in Beverly Hills'; MPR News Jan 30: Fort arrested at home"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "10 years"
+  qualifier: "bodily injury"
+  span: "Under the FACE Act, violators who cause such bodily injury may be imprisoned for up to 10 years."
+  url: https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "Enforcement Act of 1870"
+  qualifier: "origins"
+  span: "The statute traces its origins to the Enforcement Act of 1870"
+  url: https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "Jan. 29"
+  qualifier: "Lemon arrested"
+  span: "Lemon was arrested on Jan. 29 in a hotel lobby in Beverly Hills"
+  url: https://minnesotareformer.com/2026/02/13/don-lemon-cities-church-protestors-plead-not-guilty-in-federal-court-in-minnesota/
+  read: fetched
+  source_kind: secondary
 ---
 
-A federal grand jury in the District of Minnesota returned an indictment on January 29, 2026 against nine participants in the January 18 protest at Cities Church in St. Paul, charging them under two federal statutes: 18 U.S.C. § 241 (Conspiracy Against Rights, the Reconstruction-era Ku Klux Klan Act) and 18 U.S.C. § 248(a)(2) (the FACE Act's religious-worship provision). On February 26, 2026, a superseding indictment expanded the defendant pool to 39 people. The case is *United States v. Levy-Armstrong et al.*, Docket No. 0:26-cr-00025 (D. Minn.), assigned to District Judge Laura M. Provinzino with Magistrate Judge Douglas L. Micko.
+A federal grand jury in the District of Minnesota returned an indictment on January 29, 2026 against nine participants in the January 18 protest at Cities Church in St. Paul, charging them under two federal statutes: 18 U.S.C. § 241 (Conspiracy Against Rights, a Reconstruction-era statute enacted as part of the Enforcement Act of 1870) and 18 U.S.C. § 248(a)(2) (the FACE Act's religious-worship provision). On February 26, 2026, a superseding indictment expanded the defendant pool to 39 people. The case is *United States v. Levy-Armstrong et al.*, Docket No. 0:26-cr-00025 (D. Minn.), assigned to District Judge Laura M. Provinzino with Magistrate Judge Douglas L. Micko.
 
 ## What Happened / Key Facts
 
@@ -85,8 +137,8 @@ A federal grand jury in the District of Minnesota returned an indictment on Janu
 
 ### Charges (both counts apply to all 39 defendants)
 
-- **Count 1 — Felony:** 18 U.S.C. § 241, Conspiracy Against Rights (specifically: conspiracy against the right of religious freedom at a place of worship). This is the 1871 Ku Klux Klan Act, enacted by Reconstruction-era Congress to protect Black citizens against KKK violence. Maximum penalty: 10 years imprisonment.
-- **Count 2 — Misdemeanor:** 18 U.S.C. § 248(a)(2), (b); § 2(a), Freedom of Access to Clinic Entrances Act — religious-worship provision. Prohibits injuring, intimidating, or interfering with the exercise of the right of religious freedom at a place of religious worship. Maximum penalty: 1 year imprisonment and $10,000 fine.
+- **Count 1 — Felony:** 18 U.S.C. § 241, Conspiracy Against Rights (specifically: conspiracy against the right of religious freedom at a place of worship). This statute traces its origins to the Enforcement Act of May 31, 1870, enacted in response to post-Civil War organized violence aimed at suppressing Black civil rights and political participation (Lawfare; United States v. Price, 383 U.S. 787, 801-02 (1966)). Maximum penalty: 10 years imprisonment.
+- **Count 2 — Felony:** 18 U.S.C. § 248(a)(2), (b); § 2(a), Freedom of Access to Clinic Entrances Act — religious-worship provision. Prohibits injuring, intimidating, or interfering with the exercise of the right of religious freedom at a place of religious worship. The indictment alleges the defendants' conduct "resulted in bodily injury to one congregant," and under the FACE Act a violation causing bodily injury carries up to 10 years' imprisonment (Lawfare, "Minnesota FACE Off," Feb. 13, 2026).
 
 ### Named Defendants (39 total in superseding indictment)
 
@@ -142,7 +194,8 @@ A federal grand jury in the District of Minnesota returned an indictment on Janu
 | Magistrate declines to approve Lemon arrest; DOJ proceeds anyway | January 22, 2026 |
 | Magistrate releases Levy-Armstrong and Allen on personal recognizance | January 23, 2026 |
 | Judge Provinzino denies government's detention appeal | January 23, 2026 |
-| Lemon, Fort arrested (Beverly Hills and Minneapolis) | January 30, 2026 |
+| Lemon arrested in Beverly Hills | January 29, 2026 |
+| Fort arrested at her home | January 30, 2026 |
 | Grand jury indictment returned | January 29, 2026 |
 | Arraignment — Lemon, Levy-Armstrong, and five others (not guilty pleas) | February 13, 2026 |
 | Superseding indictment filed | February 26, 2026 |
@@ -159,9 +212,9 @@ The indictment alleges the defendants engaged in a "coordinated takeover-style a
 
 The indictment's description of the January 18 events (approximately 10:30 a.m.) states the defendants "entered the Church in a coordinated takeover-style attack and engaged in acts of oppression, intimidation, threats, interference, and physical obstruction, forcing the pastor and congregation to terminate the Church's worship service."
 
-Defense attorneys and legal experts, including former Civil Rights Division attorneys, challenged the charges from the outset. A magistrate judge had declined to approve Lemon's initial arrest warrant for lack of evidence; a federal appeals court judge rejected the government's appeal, writing there was "no evidence" of any criminal behavior in Lemon's journalistic work. The DOJ proceeded with arrests anyway.
+Defense attorneys and legal experts, including former Civil Rights Division attorneys, challenged the charges from the outset. A magistrate judge had declined to approve Lemon's initial arrest warrant for lack of evidence; the government then petitioned the 8th Circuit Court of Appeals, which also declined to sign off on the charging documents (Minnesota Reformer); in a concurrence, Judge Grasz wrote that the complaint established probable cause but that the government had other adequate means to pursue it. Minnesota Chief U.S. District Judge Patrick Schiltz had written that Lemon and his producer "were not protestors at all" and that "there is no evidence that those two engaged in any criminal behavior or conspired to do so." The DOJ proceeded with arrests anyway.
 
-Former Civil Rights Division attorneys called the § 241 application constitutionally flawed, noting the statute has never previously been used to prosecute interference in a house of worship. The FACE Act application was similarly contested, as the statute was enacted in 1994 specifically to protect abortion clinic access.
+Former Civil Rights Division attorneys called the § 241 application constitutionally flawed, noting that, per Lawfare, this appears to be the first § 241 prosecution resting on a right secured by the FACE Act's religious-worship provision. The FACE Act application was similarly contested, as the statute was enacted in 1994 specifically to protect abortion clinic access.
 
 ### Access Note — CourtListener
 
@@ -169,11 +222,11 @@ The CourtListener docket page is at https://www.courtlistener.com/docket/7221245
 
 ## Why This Event Matters
 
-The prosecution inverts the historical purpose of both statutes deployed. The § 241 Conspiracy Against Rights statute was enacted by Reconstruction Congress specifically to prosecute KKK violence against Black people exercising civil rights. Its deployment here charges a Black civil rights attorney and ordained minister — Nekima Levy-Armstrong — with "conspiracy against religious freedom" for entering an ICE enforcement director's church to ask a question about his dual role. The statute's direction is precisely reversed.
+The prosecution inverts the historical purpose of both statutes deployed. The § 241 Conspiracy Against Rights statute was enacted by Reconstruction Congress in response to post-Civil War organized violence against Black people exercising civil rights. Its deployment here charges a Black civil rights attorney and ordained minister — Nekima Levy-Armstrong — with "conspiracy against religious freedom" for entering an ICE enforcement director's church to ask a question about his dual role. The statute's direction is precisely reversed.
 
 The FACE Act inversion is equally structural. Congress passed the FACE Act in 1994 to protect abortion clinic access from anti-abortion protesters who blocked entrances. The Trump DOJ applied the same statute to protect an ICE enforcement director's SBC church from civil rights protesters. The legal mechanism is identical; the political direction is opposite.
 
-The case is also the first time the Justice Department has used either § 241 or § 248 to prosecute journalistic activity. Two defendants — Lemon and Fort — covered the protest as credentialed journalists explicitly identifying themselves as press. Both face the same felony conspiracy charge as participants.
+According to Lawfare, the case appears to be the first criminal prosecution under the FACE Act's religious-worship provision (18 U.S.C. § 248(a)(2)). Civil Rights Division deputy Jesus Osete called it the "first time in U.S. history" the Justice Department has charged § 241 "alongside the FACE Act's provision protecting houses of worship." Lawfare also notes that federal prosecutors typically do not criminally charge journalists for covering a protest. Two defendants — Lemon and Fort — covered the protest as credentialed journalists explicitly identifying themselves as press. Both face the same felony conspiracy charge as participants.
 
 ## Broader Context
 

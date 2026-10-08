@@ -4,7 +4,7 @@ id: 1977-12-28--ieepa-carter-international-emergency-economic-powers
 date: '1977-12-28'
 title: "International Emergency Economic Powers Act: Carter-Era Statute Becomes Principal Modern Instrument of Unilateral Economic Action"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - legislative-capture
@@ -37,11 +37,53 @@ capture_lanes:
   - Executive Power Expansion
   - Legislative Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "invoked more than 65 times by every administration from Carter through Trump II, with the number of active declarations typically hovering between 35 and 50 at any given moment."
+  now: "invoked in 77 declared national emergencies as of September 1, 2025, 46 of which were ongoing (CRS R45618); the Sept. 2023 edition counted 69 declared and 39 ongoing."
+  why: "https://web.archive.org/web/2023/https://sgp.fas.org/crs/natsec/R45618.pdf ; CRS R45618 (current): 'As of September 1, 2025, Presidents had declared 77 national emergencies invoking IEEPA, 46 of which are ongoing'; the Brennan Center guide gives no IEEPA count"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- **§208**: Criminal penalties for violation (civil $250,000 penalties; criminal up to $1 million and 20 years)"
+  now: "- **§206 (50 U.S.C. §1705)**: Civil and criminal penalties. As amended in 2007 (P.L. 110-96), civil penalties are capped at the greater of $250,000 or twice the amount of the violating transaction, and criminal penalties reach a $1,000,000 fine and 20 years' imprisonment"
+  why: "https://web.archive.org/web/2023/https://sgp.fas.org/crs/natsec/R45618.pdf (amendments table: IEEPA §206 amended 1992, 2006, 2007 (P.L. 110-96)) ; 50 U.S.C. §1705 — civil penalty greater of $250,000 or twice the transaction; criminal $1,000,000 and 20 years; §208 (50 U.S.C. §1707) is a 1999 provision on multinational embargoes"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Carter's November 1979 Executive Order 12170 (Iranian assets), issued the day after the embassy takeover, froze ~$12 billion in Iranian assets. The OFAC (Office of Foreign Assets Control) grew out of the implementation of this order, and subsequent administrations expanded its role continuously."
+  now: "on November 14, 1979, ten days after Iranian students seized the U.S. embassy in Tehran, Carter issued Executive Order 12170, which cited IEEPA and the National Emergencies Act, declared a national emergency and blocked all property of the Government of Iran, its instrumentalities and the Central Bank of Iran subject to U.S. jurisdiction. Treasury's Office of Foreign Assets Control, created in December 1950 (Treasury, \"About OFAC\"), administered the blocking, and subsequent administrations expanded its role continuously."
+  why: "https://www.presidency.ucsb.edu/documents/executive-order-12170-blocking-iranian-government-property — EO 12170 dated November 14, 1979 (embassy seized Nov 4); states no dollar amount; Treasury 'About OFAC': OFAC was formally created in December 1950"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "77"
+  qualifier: "national emergencies invoking IEEPA as of September 1, 2025"
+  span: "As of September 1, 2025, Presidents had declared 77 national emergencies invoking IEEPA, 46 of which are ongoing."
+  url: https://www.everycrsreport.com/reports/R45618.html
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "$1,000,000"
+  qualifier: "criminal fine"
+  span: "Criminal penalties now include a fine of up to $1,000,000 and imprisonment of up to 20 years."
+  url: https://web.archive.org/web/2023/https://sgp.fas.org/crs/natsec/R45618.pdf
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "November 14, 1979"
+  qualifier: ""
+  span: "November 14, 1979"
+  url: https://www.presidency.ucsb.edu/documents/executive-order-12170-blocking-iranian-government-property
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-On December 28, 1977, President Jimmy Carter signed the International Emergency Economic Powers Act (P.L. 95-223) into law. IEEPA authorized the President, upon declaring a national emergency with respect to "any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States," to regulate or prohibit virtually any international economic transaction — blocking assets, restricting trade, prohibiting financial transactions, imposing sanctions, and (as now contested in Trump II administration practice) potentially imposing tariffs. IEEPA was enacted as a companion reform to the 1976 National Emergencies Act [[1976-09-14--national-emergencies-act-church-committee]] and was intended to replace the 1917 Trading with the Enemy Act's peacetime provisions with a more constrained structure subject to annual renewal and reporting. In the 48 years since enactment, IEEPA has become the single most-used statute for unilateral presidential action in foreign and economic affairs — invoked more than 65 times by every administration from Carter through Trump II, with the number of active declarations typically hovering between 35 and 50 at any given moment.
+On December 28, 1977, President Jimmy Carter signed the International Emergency Economic Powers Act (P.L. 95-223) into law. IEEPA authorized the President, upon declaring a national emergency with respect to "any unusual and extraordinary threat, which has its source in whole or substantial part outside the United States," to regulate or prohibit virtually any international economic transaction — blocking assets, restricting trade, prohibiting financial transactions, imposing sanctions, and (as now contested in Trump II administration practice) potentially imposing tariffs. IEEPA was enacted as a companion reform to the 1976 National Emergencies Act [[1976-09-14--national-emergencies-act-church-committee]] and was intended to replace the 1917 Trading with the Enemy Act's peacetime provisions with a more constrained structure subject to annual renewal and reporting. In the 48 years since enactment, IEEPA has become the single most-used statute for unilateral presidential action in foreign and economic affairs — invoked in 77 declared national emergencies as of September 1, 2025, 46 of which were ongoing (CRS R45618); the Sept. 2023 edition counted 69 declared and 39 ongoing.
 
 ## What Happened / Key Facts
 
@@ -59,10 +101,10 @@ IEEPA's structural features:
 **Constraints attempted by Congress**:
 - **§204**: Reporting to Congress every 6 months
 - **§202(b)**: Annual renewal by the President
-- **§208**: Criminal penalties for violation (civil $250,000 penalties; criminal up to $1 million and 20 years)
+- **§206 (50 U.S.C. §1705)**: Civil and criminal penalties. As amended in 2007 (P.L. 110-96), civil penalties are capped at the greater of $250,000 or twice the amount of the violating transaction, and criminal penalties reach a $1,000,000 fine and 20 years' imprisonment
 - **Chadha-eliminated termination**: The original Act included a concurrent-resolution termination mechanism in §202(c), which *INS v. Chadha* (1983) [[1983-06-23--ins-v-chadha-legislative-veto-unconstitutional]] rendered unenforceable, leaving only the impractical joint-resolution-subject-to-veto route.
 
-**First invocation**: Carter's November 1979 Executive Order 12170 (Iranian assets), issued the day after the embassy takeover, froze ~$12 billion in Iranian assets. The OFAC (Office of Foreign Assets Control) grew out of the implementation of this order, and subsequent administrations expanded its role continuously.
+**First invocation**: on November 14, 1979, ten days after Iranian students seized the U.S. embassy in Tehran, Carter issued Executive Order 12170, which cited IEEPA and the National Emergencies Act, declared a national emergency and blocked all property of the Government of Iran, its instrumentalities and the Central Bank of Iran subject to U.S. jurisdiction. Treasury's Office of Foreign Assets Control, created in December 1950 (Treasury, "About OFAC"), administered the blocking, and subsequent administrations expanded its role continuously.
 
 ## Why This Event Matters
 
@@ -84,7 +126,7 @@ Critically for the 2025-26 Trump II moment: IEEPA is the principal statute on wh
 
 IEEPA was championed by Representative Jonathan Bingham (D-NY) and others who had grown alarmed at the Nixon administration's 1971 invocation of the Trading with the Enemy Act to impose a 10% import surcharge (Proclamation 4074) — a domestic-economy action made via a WWI-era foreign-enemy statute. The goal of IEEPA was to provide the President with a modern, constrained instrument for foreign-economy emergency action, separating it from the (largely limited-to-wartime) TWEA.
 
-The ironic consequence has been the reverse: IEEPA, intended to constrain the use of TWEA, has become a far more frequently invoked and broadly applied statute than TWEA ever was in peacetime. The Brennan Center's compilation identifies ~65 IEEPA declarations since enactment; most are still active, with annual renewals that are ceremonial paperwork.
+The ironic consequence has been the reverse: IEEPA, intended to constrain the use of TWEA, has become a far more frequently invoked and broadly applied statute than TWEA ever was in peacetime. The Congressional Research Service counted 77 IEEPA national emergencies declared as of September 1, 2025, 46 of them ongoing (the Brennan Center guide cited here gives no IEEPA count); with annual renewals that are ceremonial paperwork.
 
 Treasury Secretary W. Michael Blumenthal (Carter) and OFAC director Stanley Sommerfield designed the implementation framework. The structure's durability is substantial: Trump I, Biden, and Trump II have all used IEEPA as their primary instrument without meaningful procedural reform.
 

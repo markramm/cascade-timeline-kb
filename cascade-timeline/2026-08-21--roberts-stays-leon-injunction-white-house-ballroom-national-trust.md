@@ -4,7 +4,7 @@ id: 2026-08-21--roberts-stays-leon-injunction-white-house-ballroom-national-trus
 date: '2026-08-21'
 title: "Chief Justice Roberts Stays Injunction Blocking White House East Wing Ballroom, Pending Further Order"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - white-house-ballroom
   - national-trust
@@ -55,6 +55,74 @@ capture_lanes:
   - Executive Power Expansion
   - Systematic Corruption
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "No. 26A203, docketed August 13, 2026 (Chief Justice)"
+  now: "No. 26A203, application submitted to the Chief Justice August 13, 2026, docketed August 14, 2026"
+  why: "https://www.supremecourt.gov/docket/docketfiles/html/public/26a203.html — header 'Docketed: August 14, 2026'; 'Aug 13 2026 Application (26A203) for a stay, submitted to The Chief Justice'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- Apr 17, 2026: D.C. Circuit panel issues its own **PER CURIAM emergency stay pending appeal**"
+  now: "- Apr 17, 2026: D.C. Circuit panel (Millett, Rao, Garcia) enters a per curiam **administrative stay** of the April 16 injunction \"pending further order of the court,\" consolidates the government's emergency stay motion with the merits, expedites the appeal and sets argument for June 5"
+  why: "https://www.courtlistener.com/docket/73204895/national-trust-for-historic-preservation-v-nps/ — Order 2169304 (Apr 17, 2026): 'district court's April 16, 2026 preliminary injunction be administratively stayed pending further order'; stay motion consolidated with the merits; argument set for June 5"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "— this is what put the injunction back into immediate force and created the deadline pressure the Aug 21 SCOTUS order describes"
+  now: "but **stays its own ruling for fourteen days** \"to allow the Defendants, if they choose, to seek Supreme Court review\"; the clerk was directed to issue the mandate on August 21, 2026, the day the injunction would have taken effect, which created the deadline pressure the Aug 21 SCOTUS order describes"
+  why: "https://www.courtlistener.com/docket/73204895/national-trust-for-historic-preservation-v-nps/ — Aug 7 per curiam judgment: 'this ruling is hereby stayed for fourteen days'; Clerk's Order [2187164]: mandate to issue Aug 21, 2026"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "plus six amicus briefs from parties spanning the ACLU-adjacent Constitutional Accountability Center to the Becket Fund"
+  now: "plus six amicus briefs filed before the order, including Members of Congress (represented by the Constitutional Accountability Center), the State of Indiana, the Campaign Legal Center and CREW, and the Society for the Rule of Law (a Becket Fund brief followed on Aug 25, after the order)"
+  why: "https://www.supremecourt.gov/docket/docketfiles/html/public/26a203.html — six amicus briefs before Aug 21 (Biazzo; Society for the Rule of Law; Members of Congress (counsel Gorod, Constitutional Accountability Center); Indiana; Campaign Legal Center and CREW; Boyle); Becket Fund brief entered Aug 25"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the National Trust's suit is an **APA challenge** resting on (1) the **National Capital Planning Act**"
+  now: "the National Trust's suit is an **APA challenge** alleging three violations: (1) the **National Capital Planning Act**"
+  why: "https://www.archpaper.com/2025/12/national-trust-donald-trump-ballroom/ — 'Additionally, Congress hasn't authorized the new ballroom, a violation of the Property Clause of the U.S. Constitution'; https://www.supremecourt.gov/docket/docketfiles/html/public/26a203.html — Aug 31: referred to the Court and granted per curiam, Roberts dissenting with Sotomayor, Kagan, Jackson"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "August 14, 2026"
+  qualifier: "Docketed"
+  span: "Docketed: August 14, 2026"
+  url: https://www.supremecourt.gov/docket/docketfiles/html/public/26a203.html
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "administratively stayed pending further order of the court"
+  qualifier: ""
+  span: "be administratively stayed pending further order of the court"
+  url: https://www.courtlistener.com/docket/73204895/national-trust-for-historic-preservation-v-nps/
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "to allow the Defendants, if they choose, to seek Supreme Court review"
+  qualifier: "14-day stay"
+  span: "this ruling is hereby stayed for fourteen days to allow the Defendants, if they choose, to seek Supreme Court review"
+  url: https://www.courtlistener.com/docket/73204895/national-trust-for-historic-preservation-v-nps/
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: date
+  value: "Aug 25 2026"
+  qualifier: ""
+  span: "Aug 25 2026"
+  url: https://www.supremecourt.gov/docket/docketfiles/html/public/26a203.html
+  read: fetched
+  source_kind: primary
+- id: c4
+  type: attribution
+  value: "Property Clause"
+  qualifier: "Congress hasn't authorized the new ballroom"
+  span: "Additionally, Congress hasn't authorized the new ballroom, a violation of the Property Clause of the U.S. Constitution."
+  url: https://www.archpaper.com/2025/12/national-trust-donald-trump-ballroom/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
@@ -65,15 +133,15 @@ On August 21, 2026, Chief Justice John Roberts — acting alone, in his capacity
 
 **The order's actual text**, per the Supreme Court's own docket for No. 26A203 (*National Park Service, et al. v. National Trust for Historic Preservation*): "Upon consideration of the application of counsel for the applicants, the response, and the reply filed thereto, it is ordered that the preliminary injunction entered on April 16, 2026, by the United States District Court for the District of Columbia, case No. 1:25-cv-4316, is hereby **stayed pending further order of The Chief Justice or of the Court.**"
 
-That is a **stay pending further order** — not a ruling on the merits, not a final disposition, and not (contra some aggregator framing) an order entered by the National Trust or in its favor. It followed a full briefing cycle at the Court (application Aug 13, response requested Aug 14, National Trust's response filed Aug 18, government reply Aug 19, order Aug 21) plus six amicus briefs from parties spanning the ACLU-adjacent Constitutional Accountability Center to the Becket Fund — this was not a same-day administrative housekeeping pause, though it functionally has the same not-a-merits-ruling character: work continues "for now," per PBS/AP's own framing, "until the court issues a more durable decision," with "the one-page document" not detailing Roberts's reasoning.
+That is a **stay pending further order** — not a ruling on the merits, not a final disposition, and not (contra some aggregator framing) an order entered by the National Trust or in its favor. It followed a full briefing cycle at the Court (application Aug 13, response requested Aug 14, National Trust's response filed Aug 18, government reply Aug 19, order Aug 21) plus six amicus briefs filed before the order, including Members of Congress (represented by the Constitutional Accountability Center), the State of Indiana, the Campaign Legal Center and CREW, and the Society for the Rule of Law (a Becket Fund brief followed on Aug 25, after the order) — this was not a same-day administrative housekeeping pause, though it functionally has the same not-a-merits-ruling character: work continues "for now," per PBS/AP's own framing, "until the court issues a more durable decision," with "the one-page document" not detailing Roberts's reasoning.
 
 **Case identity, precisely:**
 - **Docket applicant/petitioner**: National Park Service, et al. (the government), represented by Solicitor General D. John Sauer
 - **Docket respondent**: National Trust for Historic Preservation in the United States, represented by Thaddeus Heuer of Foley Hoag
-- **SCOTUS docket**: No. 26A203, docketed August 13, 2026 (Chief Justice); lower court is D.C. Circuit No. 26-5123
+- **SCOTUS docket**: No. 26A203, application submitted to the Chief Justice August 13, 2026, docketed August 14, 2026; lower court is D.C. Circuit No. 26-5123
 - **Underlying district court case**: *National Trust for Historic Preservation in the United States v. National Park Service*, No. 1:25-cv-04316, U.S. District Court for D.D.C., assigned to Judge **Richard J. Leon** (G.W. Bush appointee), filed **December 12, 2025**
 
-**Claims pleaded** (per the December 12, 2025 complaint, Cause 05:0706 "Judicial Review of Agency Actions," Nature of Suit 899 — Administrative Procedure Act): the National Trust's suit is an **APA challenge** resting on (1) the **National Capital Planning Act** — construction plans were never filed with the National Capital Planning Commission or the U.S. Commission of Fine Arts for review, as the statute requires; and (2) **NEPA** — no Environmental Impact Statement was prepared or published. The National Trust's relief sought: halt work until an EIS is completed, NCPC/CFA review and approve plans, and Congress authorizes the project. This is a congressional-approval / federal-review theory, not zoning and not historic-preservation review under NHPA §106 — no NHPA claim was found in the docket text reviewed.
+**Claims pleaded** (per the December 12, 2025 complaint, Cause 05:0706 "Judicial Review of Agency Actions," Nature of Suit 899 — Administrative Procedure Act): the National Trust's suit is an **APA challenge** alleging three violations: (1) the **National Capital Planning Act** — construction plans were never filed with the National Capital Planning Commission or the U.S. Commission of Fine Arts for review, as the statute requires; (2) **NEPA** — no Environmental Impact Statement was prepared or published; and (3) the Constitution's **Property Clause** — Congress has not authorized the ballroom (The Architect's Newspaper, Dec. 15, 2025). The National Trust's relief sought: halt work until an EIS is completed, NCPC/CFA review and approve plans, and Congress authorizes the project. This is a congressional-approval / federal-review theory, not zoning and not historic-preservation review under NHPA §106 — no NHPA claim was found in the docket text reviewed.
 
 **Litigation history, condensed from the D.D.C. and D.C. Circuit dockets:**
 - Dec 12, 2025: Complaint filed; TRO/PI motion filed same day
@@ -82,11 +150,12 @@ That is a **stay pending further order** — not a ruling on the merits, not a f
 - Mar 5, 2026: National Trust files **second** PI motion
 - Mar 31, 2026: Leon **grants** the second PI motion
 - Apr 16, 2026: Leon issues a **modified** preliminary injunction (after a D.C. Circuit administrative stay of the March 31 order); grants National Trust's motion to clarify; grants in part / denies in part the government's motion to extend the administrative stay
-- Apr 17, 2026: D.C. Circuit panel issues its own **PER CURIAM emergency stay pending appeal**
+- Apr 17, 2026: D.C. Circuit panel (Millett, Rao, Garcia) enters a per curiam **administrative stay** of the April 16 injunction "pending further order of the court," consolidates the government's emergency stay motion with the merits, expedites the appeal and sets argument for June 5
 - Jun 5, 2026: D.C. Circuit hears oral argument (Judges Millett, Rao, Garcia)
-- **Aug 7, 2026: D.C. Circuit affirms** Leon's modified preliminary injunction on the merits, 2-1 (Millett and Garcia for the court; Rao dissenting), and **vacates its own April 17 administrative stay** — this is what put the injunction back into immediate force and created the deadline pressure the Aug 21 SCOTUS order describes
+- **Aug 7, 2026: D.C. Circuit affirms** Leon's modified preliminary injunction on the merits, 2-1 (Millett and Garcia for the court; Rao dissenting), and **vacates its own April 17 administrative stay** but **stays its own ruling for fourteen days** "to allow the Defendants, if they choose, to seek Supreme Court review"; the clerk was directed to issue the mandate on August 21, 2026, the day the injunction would have taken effect, which created the deadline pressure the Aug 21 SCOTUS order describes
 - Aug 13, 2026: Government files emergency stay application at SCOTUS (26A203)
 - **Aug 21, 2026: Roberts stays the injunction pending further order**
+- Aug 31, 2026: the application is referred to the full Court, which grants it by per curiam order: the district court injunction is stayed pending the filing and disposition of the government's certiorari petition. The Chief Justice dissents, joined by Justices Sotomayor, Kagan and Jackson (Supreme Court docket 26A203).
 
 Per Foley Hoag (National Trust's own counsel, an interested party, not a neutral source but citing verifiable case history): "the courts have now ruled in the National Trust's favor on three separate occasions" before the Aug 21 SCOTUS stay reversed that trajectory for now.
 
@@ -115,7 +184,7 @@ Canon already holds seven prior White House ballroom entries (announcement, demo
 - [ ] Full text of the December 12, 2025 complaint (PDF, PACER-gated) was not directly read; claims above are drawn from the docket's Cause/Nature-of-Suit codes plus secondary reporting (Architect's Newspaper) rather than the complaint itself. If a "three claims" framing exists beyond NCPA + NEPA, the third claim was not independently confirmed from primary text.
 - [ ] The D.C. Circuit's 101-page Aug 7, 2026 merits opinion and Judge Rao's 35-page dissent were not read in full; findings above (majority's "not a matter for Executive self-help," Rao's standing dissent) are drawn from a law-firm case summary (ACLU-DC), not the opinion text directly.
 - [ ] No confirmed timeline for when the Supreme Court will issue "a more durable decision" (AP's phrase) — the stay's duration is open-ended ("pending further order of the Chief Justice or of the Court"), so how much time it buys the administration relative to a merits ruling cannot be quantified from available sources.
-- [ ] Whether the full Court (not just the Chief Justice) has since acted, or referred the application to the full Court, was not checked beyond the Aug 25, 2026 docket snapshot (last entry: an Aug 25 amicus brief from the Becket Fund; no disposition entry follows it as of this research).
+- [x] RESOLVED 2026-10-08: the full Court granted the application on Aug 31 (see litigation history). Earlier note: whether the full Court (not just the Chief Justice) has since acted, or referred the application to the full Court, was not checked beyond the Aug 25, 2026 docket snapshot (last entry: an Aug 25 amicus brief from the Becket Fund; no disposition entry follows it as of this research).
 
 ## Related Entries
 

@@ -2,9 +2,9 @@
 type: timeline_event
 id: 1994-09-27--dellinger-olc-haiti-war-powers-consultation-framework
 date: '1994-09-27'
-title: "Dellinger OLC Haiti Memo Establishes 'Consultation-Not-Authorization' Framework for War Powers — the Clinton-Era Doctrinal Bridge"
+title: "Dellinger OLC Haiti Letter Opinion Concludes Deployment Satisfied the War Powers Resolution and Was Not \"War\" in the Constitutional Sense — the Clinton-Era Doctrinal Bridge"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - olc
@@ -54,11 +54,40 @@ capture_lanes:
   - Executive Power Expansion
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "WPR as procedural overlay, not substantive constraint ... The statute's 60-90 day termination clock is a political constraint, not a substantive limit"
+  now: "WPR compliance, with the sixty-day question reserved: the letter reserved the constitutional question raised by the 60-day withdrawal provision, saying the Administration \"has not yet had to face\" it."
+  why: "https://www.justice.gov/file/147196/dl — OLC letter opinion, 18 Op. O.L.C. 173, n.2; the letter does not use 'consultation-not-authorization' or 'political constraint'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "departed for Haiti on September 19, 1994. The junta capitulated before the amphibious landing; no combat engagement occurred."
+  now: "entered Haiti on September 19, 1994, a day after the Carter-Powell-Nunn agreement; on September 24 U.S. Marines killed 10 armed Haitian resisters in a firefight."
+  why: "https://www.everycrsreport.com/reports/RL33532.html — CRS RL33532, Haiti section: forces entered Haiti Sept 19; first hostilities Sept 24 when Marines killed 10 armed Haitian resisters"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "has not yet had to face"
+  qualifier: ""
+  span: "has not yet had to face the difficult constitutional issues raised by the"
+  url: https://www.justice.gov/file/147196/dl
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: date
+  value: "September 24, 1994"
+  qualifier: "first hostilities"
+  span: "The forces were involved in the first hostilities on September 24, when U.S. Marines killed 10 armed Haitian resisters in a firefight."
+  url: https://www.everycrsreport.com/reports/RL33532.html
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On September 27, 1994, OLC head Walter Dellinger sent a letter to Republican Senators Bob Dole, Strom Thurmond, Alan Simpson, and William Cohen articulating the legal framework for the planned U.S. military deployment to Haiti to reinstall the democratically elected government of Jean-Bertrand Aristide. The Dellinger letter established what has since become the governing OLC doctrine on the War Powers Resolution across every subsequent administration: the WPR imposes a **consultation obligation**, not an **authorization requirement**, and the President may unilaterally deploy U.S. armed forces below the threshold of "war in the constitutional sense" without prior congressional approval. Dellinger's "nature, scope, and duration" test — whether the deployment rises to constitutional "war" — became the analytical template applied by the Clinton OLC (Kosovo 1999), Obama OLC (Libya 2011, ISIS 2014), Trump-1 OLC (Syria 2017), and the Trump-2 OLC briefing on the 2025 Venezuela strike. The Clinton-era opinion is the **doctrinal bridge** in the Reagan-through-Trump-2 OLC lineage on executive war-making authority.
+On September 27, 1994, OLC head Walter Dellinger sent a letter to Republican Senators Bob Dole, Strom Thurmond, Alan Simpson, and William Cohen articulating the legal framework for the planned U.S. military deployment to Haiti to reinstall the democratically elected government of Jean-Bertrand Aristide. The Dellinger letter established what has since become the governing OLC doctrine on the War Powers Resolution across every subsequent administration: the planned deployment, judged by its "nature, scope, and duration," satisfied the War Powers Resolution and was not a "war" in the constitutional sense. Dellinger's "nature, scope, and duration" test — whether the deployment rises to constitutional "war" — became the analytical template applied by the Clinton OLC (Kosovo 1999), Obama OLC (Libya 2011, ISIS 2014), Trump-1 OLC (Syria 2017), and the Trump-2 OLC briefing on the 2025 Venezuela strike. The Clinton-era opinion is the **doctrinal bridge** in the Reagan-through-Trump-2 OLC lineage on executive war-making authority.
 
 ## What Happened / Key Facts
 
@@ -70,11 +99,11 @@ Dellinger's September 27 letter articulated three structural moves:
 
 1. **The "nature, scope, and duration" test.** A deployment rises to constitutional "war" — requiring Article I congressional authorization — only when its nature, scope, and duration would render it equivalent to the kinds of engagements the Framers understood as "war." Short-duration, limited-objective, low-risk deployments fall below this threshold.
 
-2. **WPR as procedural overlay, not substantive constraint.** The War Powers Resolution requires presidential consultation with Congress and reporting within 48 hours; it does not require prior congressional authorization for deployments below the "war" threshold. The statute's 60-90 day termination clock is a political constraint, not a substantive limit on the President's Article II commander-in-chief authority.
+2. **WPR compliance, with the sixty-day question reserved.** The letter described the War Powers Resolution as requiring a report to Congress within 48 hours and termination of the use of forces within 60 (or 90) days "unless Congress permits otherwise," and concluded that the planned deployment "accorded with the sense of Congress" and satisfied the Resolution's requirements. It reserved the constitutional question raised by the 60-day withdrawal provision, saying the Administration "has not yet had to face" it (OLC, 18 Op. O.L.C. 173, n.2).
 
 3. **Constraining factors (non-exclusive).** Dellinger identified circumstances that supported deployment below the "war" threshold: UN Security Council authorization; consent of the recognized government (Aristide's government-in-exile had consented); limited objectives; anticipated low casualties; short duration. These were non-exclusive factors, not prerequisites — which meant the analytical framework could be applied to future deployments lacking one or more of them.
 
-The U.S. invasion force (Operation Uphold Democracy) departed for Haiti on September 19, 1994. The junta capitulated before the amphibious landing; no combat engagement occurred. Aristide returned to Port-au-Prince on October 15.
+The U.S. invasion force (Operation Uphold Democracy) entered Haiti on September 19, 1994, the day after the Carter-Powell-Nunn delegation reached an agreement under which the military leaders would step down by October 15. On September 24, U.S. Marines killed 10 armed Haitian resisters in a firefight in Cap-Haitien (CRS RL33532). Aristide returned to Port-au-Prince on October 15.
 
 ## Why This Event Matters
 

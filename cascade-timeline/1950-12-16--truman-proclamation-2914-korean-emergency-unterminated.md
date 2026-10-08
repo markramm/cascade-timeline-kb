@@ -2,9 +2,9 @@
 type: timeline_event
 id: 1950-12-16--truman-proclamation-2914-korean-emergency-unterminated
 date: '1950-12-16'
-title: "Truman Proclaims National Emergency for Korean War: Declaration Remains Legally Operative for 26 Years"
+title: "Truman Proclaims National Emergency for Korean War: Declaration Remains in Force When the National Emergencies Act Passes in 1976, Its Powers Ending in 1978"
 importance: 7
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - wartime-emergency-power
@@ -29,11 +29,40 @@ sources:
 capture_lanes:
   - Executive Power Expansion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "> \"I do proclaim the existence of a national emergency... I call upon all citizens to make a personal effort to bring about the utmost in individual and collective service...\""
+  now: "> \"...do proclaim the existence of a national emergency, which requires that the military, naval, air, and civilian defenses of this country be strengthened as speedily as possible...\" and \"I summon all citizens to make a united effort for the security and well-being of our beloved country.\""
+  why: "https://www.presidency.ucsb.edu/documents/proclamation-2914-proclaiming-the-existence-national-emergency — full text: 'I summon all citizens to make a united effort for the security and well-being of our beloved country'; no statutory or constitutional authority cited; 'I call upon all citizens ...' and 'take appropriate action' do not appear"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Twenty-six years later, the Senate Special Committee on the Termination of the National Emergency (the Church-Mathias Committee) discovered that Truman's 1950 proclamation was still legally operative — along with three other unterminated emergencies from 1933, 1970, and 1971 — and that together they conferred approximately 470 latent statutory authorities on the sitting President."
+  now: "In 1972 the Senate created the Special Committee on the Termination of the National Emergency (the Church-Mathias Committee) to end Truman's 1950 emergency. After beginning work in January 1973, the committee found that not one but four emergency proclamations remained in force (1933, 1950, 1970 and 1971), and compiled 470 statutes the President could invoke during a declared national emergency (S. Rept. 94-922, 1976). The National Emergencies Act of 1976 gave existing emergency powers a two-year delay before termination, until September 14, 1978."
+  why: "https://www.senate.gov/about/resources/pdf/report-national-emergencies-1976.pdf (S. Rept. 94-922) — the committee knew from the start Proclamation 2914 was in force; its 1973 work found four proclamations in force (1933, 1950, 1970, 1971) and compiled 470 emergency statutes; NEA effective-date delay of two years (to Sept 14, 1978)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "I summon all citizens to make a united effort for the security and well-being of our beloved country"
+  qualifier: ""
+  span: "I summon all citizens to make a united effort for the security and well-being of our beloved country"
+  url: https://www.presidency.ucsb.edu/documents/proclamation-2914-proclaiming-the-existence-national-emergency
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "Not one but four emergency proclamations remained in force"
+  qualifier: ""
+  span: "Not one but four emergency proclamations remained in force"
+  url: https://www.senate.gov/about/resources/pdf/report-national-emergencies-1976.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-On December 16, 1950, five months after the North Korean invasion of South Korea and six weeks after Chinese intervention, President Harry Truman issued Proclamation 2914 declaring "the existence of a national emergency." The proclamation invoked no specific statute; it declared the emergency in general terms and authorized the President "to take appropriate action... under the authority of the Constitution and the laws of the United States." The declaration was never formally terminated. Twenty-six years later, the Senate Special Committee on the Termination of the National Emergency (the Church-Mathias Committee) discovered that Truman's 1950 proclamation was still legally operative — along with three other unterminated emergencies from 1933, 1970, and 1971 — and that together they conferred approximately 470 latent statutory authorities on the sitting President. The discovery precipitated the National Emergencies Act of 1976 [[1976-09-14--national-emergencies-act-church-committee]]. Truman's 1950 proclamation is the paradigmatic case of how a crisis-specific emergency declaration, untethered to any sunset mechanism, becomes a permanent authority reservoir the executive can draw from for generations.
+On December 16, 1950, five months after the North Korean invasion of South Korea and six weeks after Chinese intervention, President Harry Truman issued Proclamation 2914 declaring "the existence of a national emergency." The proclamation invoked no specific statute; it declared the emergency in general terms and cited no source of authority at all. The declaration was never formally terminated. In 1972 the Senate created the Special Committee on the Termination of the National Emergency (the Church-Mathias Committee) to end Truman's 1950 emergency. After beginning work in January 1973, the committee found that not one but four emergency proclamations remained in force (1933, 1950, 1970 and 1971), and compiled 470 statutes the President could invoke during a declared national emergency (S. Rept. 94-922, 1976). The National Emergencies Act of 1976 gave existing emergency powers a two-year delay before termination, until September 14, 1978. The discovery precipitated the National Emergencies Act of 1976 [[1976-09-14--national-emergencies-act-church-committee]]. Truman's 1950 proclamation is the paradigmatic case of how a crisis-specific emergency declaration, untethered to any sunset mechanism, becomes a permanent authority reservoir the executive can draw from for generations.
 
 ## What Happened / Key Facts
 
@@ -41,7 +70,7 @@ The proclamation followed the Korean War reversal: U.S./UN forces had been drive
 
 The proclamation's operative language:
 
-> "I do proclaim the existence of a national emergency... I call upon all citizens to make a personal effort to bring about the utmost in individual and collective service..."
+> "...do proclaim the existence of a national emergency, which requires that the military, naval, air, and civilian defenses of this country be strengthened as speedily as possible..." and "I summon all citizens to make a united effort for the security and well-being of our beloved country."
 
 The structure is striking. The proclamation:
 

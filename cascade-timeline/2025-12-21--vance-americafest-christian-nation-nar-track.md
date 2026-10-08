@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2025-12-21--vance-americafest-christian-nation-nar-track
 date: '2025-12-21'
-title: "Vance Delivers 'Christian Nation' Declaration at AmericaFest — NAR-Track Standalone Event"
+title: "Vance Delivers 'Christian Nation' Declaration at AmericaFest in Closing Keynote"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - christian-nationalism
   - turning-point-usa
@@ -55,9 +55,43 @@ capture_lanes:
   - Theological Legitimation
   - Electoral Manipulation
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "**Erika Kirk's reciprocal endorsement:** Erika Kirk endorsed Vance for 2028: \"We are going to get my husband's friend JD Vance elected for 48\" — making the 2028 presidential endorsement the explicit exchange for Vance's theological validation of TPUSA's succession moment."
+  now: "**Erika Kirk's endorsement (three days earlier):** In her opening speech at AmericaFest on Thursday, December 18, 2025, Erika Kirk endorsed Vance for 2028: \"We are going to get my husband's friend JD Vance elected for 48 in the most resounding way possible\" (Washington Examiner; NPR). In his closing keynote on Sunday, December 21, Vance did not respond to the endorsement directly; he thanked her for her \"kind words of support for this administration and for me personally\" (ABC News). No cited source describes the endorsement as an exchange for theological validation."
+  why: "https://www.npr.org/2025/12/22/g-s1-103284/vance-at-turning-point ; https://www.washingtonexaminer.com/news/campaigns/presidential/3927081/erika-kirk-vance-president-2028-americafest/ ; ABC News — Erika Kirk's endorsement came Thursday Dec 18 in her opening speech; Vance 'did not directly respond' on Sunday; no source calls it an exchange"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "And yes, men who are willing to die for a principle.\""
+  now: "And yes, men who are willing to die for a principle if that's what God asks them to do. Because so many of us recognize that it is better to die a patriot than live a coward.\""
+  why: "https://singjupost.com/transcript-vice-president-jd-vance-remarks-at-tpusas-americafest-2025/ — transcript: 'And yes, men who are willing to die for a principle if that's what God asks them to do. Because so many of us recognize that it is better to die a patriot than live a coward.'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "before an audience of 30,000+ attendees."
+  now: "at a four-day convention (December 18-21) that drew more than 30,000 attendees (Newsweek)."
+  why: "https://www.newsweek.com/erika-kirk-vance-turning-point-americafest-live-updates-11250795 (convention Dec 18-21, 2025, 'more than 30,000 attendees'); RNS 2025-12-20 (TPUSA Faith 'an arm that organizes pastors'); no cited source calls TPUSA Faith NAR-adjacent or ties Vance's speech to it"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "elected for 48 in the most resounding way possible"
+  qualifier: "Erika Kirk, Thursday"
+  span: "Erika Kirk said Thursday that Turning Point wanted Vance \"elected for 48 in the most resounding way possible.\""
+  url: https://www.npr.org/2025/12/22/g-s1-103284/vance-at-turning-point
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "men who are willing to die for a principle if that's what God asks them to do"
+  qualifier: ""
+  span: "And yes, men who are willing to die for a principle if that's what God asks them to do."
+  url: https://singjupost.com/transcript-vice-president-jd-vance-remarks-at-tpusas-americafest-2025/
+  read: fetched
+  source_kind: secondary
 ---
 
-On December 21, 2025, Vice President JD Vance delivered the closing keynote at Turning Point USA's AmericaFest in Phoenix, Arizona — the first post-assassination AmericaFest following Charlie Kirk's death — before an audience of 30,000+ attendees. The speech contained the most explicit VP-era "Christian nation" declaration at a TPUSA platform (documented by Religion News Service as tier-1), deploying theological vocabulary that directly served the Pentecostal/NAR-track leg of Vance's integrating-bridge architecture. TPUSA Faith — the NAR-adjacent institutional division running the Faith Forward Pastors Summit and the 2026 Make Heaven Crowded tour — is the organizational vehicle through which the appearance functions as a NAR-track event, not merely a mainstream conservative rally.
+On December 21, 2025, Vice President JD Vance delivered the closing keynote at Turning Point USA's AmericaFest in Phoenix, Arizona — the first post-assassination AmericaFest following Charlie Kirk's death — at a four-day convention (December 18-21) that drew more than 30,000 attendees (Newsweek). The speech contained the most explicit VP-era "Christian nation" declaration at a TPUSA platform (documented by Religion News Service as tier-1), deploying theological vocabulary that directly served the Pentecostal/NAR-track leg of Vance's integrating-bridge architecture. TPUSA Faith is the Turning Point arm that organizes pastors (RNS, Dec. 20, 2025); no cited source calls it NAR-adjacent or ties Vance's speech to it, so the NAR-track reading is this entry's own interpretation.
 
 ## What Happened / Key Facts
 
@@ -72,7 +106,7 @@ Vance elaborated: "I'm not saying you have to be a Christian to be an American. 
 This "dark nights / bright dawns" construction — framing national politics as a resurrection narrative — is theologically portable across the Catholic (Paschal mystery), Reformed (covenant faithfulness), and Pentecostal/NAR (revival after spiritual darkness) traditions. At a TPUSA platform, with TPUSA Faith's charismatic pastoral network in the audience, the primary reception register is revival-coded.
 
 **"Fruits of true Christianity" framing — martyrdom-to-movement conversion:**
-> "The fruits of true Christianity are men like Charlie Kirk. The fruits of true Christianity are good husbands, patient fathers, builders of great things, and slayers of dragons. And yes, men who are willing to die for a principle."
+> "The fruits of true Christianity are men like Charlie Kirk. The fruits of true Christianity are good husbands, patient fathers, builders of great things, and slayers of dragons. And yes, men who are willing to die for a principle if that's what God asks them to do. Because so many of us recognize that it is better to die a patriot than live a coward."
 
 The "slayers of dragons" and "willing to die for a principle" construction, deployed at a TPUSA Faith-adjacent gathering after Kirk's assassination, directly activates the martyrdom-mobilization frame that runs through NAR spiritual-warfare theology.
 
@@ -86,7 +120,7 @@ Vance asked: "If you miss Charlie Kirk, do you promise to fight what he died for
 Erika Kirk endorsed Vance for 2028: "We are going to get my husband's friend JD Vance elected for 48" — making the 2028 presidential endorsement the explicit exchange for Vance's theological validation of TPUSA's succession moment.
 
 **TPUSA Faith institutional context:**
-TPUSA Faith — the division running the Faith Forward Pastors Summit (March and August 2025, Grapevine TX April 2026) and Erika Kirk's 2026 Make Heaven Crowded Tour — is the NAR-adjacent organizational vehicle embedded within TPUSA. The Faith Forward Pastors Summit has hosted Lance Wallnau, Samuel Rodriguez (National Hispanic Christian Leadership Conference, identified by Political Research Associates as a NAR leader), Jentezen Franklin (charismatic megachurch pastor), and John Bevere (prophetic ministry). By delivering the AmericaFest closing keynote with Erika Kirk as TPUSA CEO, Vance ratified the institutional-substrate access arrangement that TPUSA Faith represents.
+TPUSA Faith — the division running the Faith Forward Pastors Summit (March and August 2025, Grapevine TX April 2026) and Erika Kirk's 2026 Make Heaven Crowded Tour — is, in this entry's characterization (no cited source calls it NAR-adjacent), an organizational vehicle embedded within TPUSA. The Faith Forward Pastors Summit has hosted Lance Wallnau, Samuel Rodriguez (National Hispanic Christian Leadership Conference, identified by Political Research Associates as a NAR leader), Jentezen Franklin (charismatic megachurch pastor), and John Bevere (prophetic ministry). By delivering the AmericaFest closing keynote with Erika Kirk as TPUSA CEO, Vance ratified the institutional-substrate access arrangement that TPUSA Faith represents.
 
 ## Why This Event Matters
 
@@ -99,7 +133,7 @@ The speech deploys three distinct theological registers simultaneously:
 
 The capacity to deploy all three simultaneously without explicit doctrinal commitment to any one is precisely the substrate-specific-deniability architecture that [[christian-nationalism-coalition-treaty-vance-as-integrating-bridge]] identifies as Vance's integrating-bridge function. At TPUSA, with TPUSA Faith's pastoral network in attendance, the primary reception register for "revival after dark nights" is Pentecostal/charismatic.
 
-The event also represents the operational completion of the Vance-Erika Kirk post-assassination partnership: Vance provides theological legitimation for TPUSA's succession; Erika Kirk provides the 2028 endorsement. TPUSA Faith's NAR-adjacent infrastructure is the substrate through which this exchange is institutionally registered.
+The event also represents the operational completion of the Vance-Erika Kirk post-assassination partnership: Vance spoke after Erika Kirk's December 18 endorsement; the reading of this as an exchange is this entry's own inference. TPUSA Faith's NAR-adjacent infrastructure is the substrate through which this exchange is institutionally registered.
 
 ## Broader Context
 

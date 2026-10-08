@@ -4,7 +4,7 @@ id: 2025-03-21--fincen-ifr-exempts-us-entities-from-boi-reporting
 date: '2025-03-21'
 title: "FinCEN interim final rule exempts all U.S.-formed entities and U.S. persons from Corporate Transparency Act beneficial-ownership reporting"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - corporate-transparency-act
   - beneficial-ownership
@@ -72,6 +72,48 @@ coverage:
     title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
     date: '2026-05-13'
     publication: theramm
+corrections:
+- date: '2026-10-08'
+  was: "FinCEN stated it intended to issue a final rule \"later this year\" (2025)"
+  now: "FinCEN stated that it \"intends to issue a final rule this year\" (2025) (Federal Register, Mar. 26, 2025, doc. 2025-05199)"
+  why: "https://www.federalregister.gov/documents/2025/03/26/2025-05199/beneficial-ownership-information-reporting-requirement-revision-and-deadline-extension — 'intends to issue a final rule this year' (four times); 'later this year' appears in no primary source"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Estimates at rule adoption projected **32.6 million entities** in the initial reporting population."
+  now: "When FinCEN adopted the original reporting rule in 2022, it estimated about **32.6 million** reporting companies in Year 1 (87 FR 59498, Sept. 30, 2022)."
+  why: "https://www.federalregister.gov/documents/2025/03/26/2025-05199/beneficial-ownership-information-reporting-requirement-revision-and-deadline-extension n.51 (11,667 foreign reporting companies per year; ~20,000 is companies not yet filed in 2024, not the covered population); 87 FR 59498 (32.6 million in Year 1); Whitehouse-Grassley letter May 27, 2025 ('more than 99 percent')"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "as of April 2026, the interim final rule remains operative; a final rule has not been issued, per the ABA Business Law Today December 2025 coverage and subsequent monitoring"
+  now: "as of April 2026 the interim final rule remained operative and a final rule had not yet been issued. In March 2025 FinCEN said it \"intends to finalize the rule this year\" (FinCEN news release, March 21, 2025). FinCEN issued the final rule on August 11, 2026, effective August 14, 2026; it permanently removes the requirement for U.S. companies and U.S. persons to report beneficial ownership information, adopting the interim rule's exemptions (Treasury press release sb0603, Aug. 11, 2026)"
+  why: "https://home.treasury.gov/news/press-releases/sb0603 (Aug 11, 2026) — final rule issued, effective Aug 14, 2026; https://www.fincen.gov/news/news-releases/fincen-removes-beneficial-ownership-reporting-requirements-us-companies-and-us — March 2025 'intends to finalize the rule this year'; no cited ABA source exists"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "intends to issue a final rule this year"
+  qualifier: ""
+  span: "intends to issue a final rule this year"
+  url: https://www.federalregister.gov/documents/2025/03/26/2025-05199/beneficial-ownership-information-reporting-requirement-revision-and-deadline-extension
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: figure
+  value: "11,667"
+  qualifier: "reporting companies per year, on average"
+  span: "11,667 reporting companies per year, on average"
+  url: https://www.federalregister.gov/documents/2025/03/26/2025-05199/beneficial-ownership-information-reporting-requirement-revision-and-deadline-extension
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: date
+  value: "August 11, 2026"
+  qualifier: ""
+  span: "FinCEN Permanently Ends Beneficial Ownership Reporting Requirements for Millions of Small Business Owners August 11, 2026"
+  url: https://home.treasury.gov/news/press-releases/sb0603
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening paragraph
@@ -83,7 +125,7 @@ On March 21, 2025, FinCEN announced — with publication in the Federal Register
 - **Announcement date**: March 21, 2025 (FinCEN news release; Treasury press release sb0060)
 - **Federal Register publication**: March 26, 2025 (document 2025-05199), titled "Beneficial Ownership Information Reporting Requirement Revision and Deadline Extension"; amends 31 CFR part 1010
 - **Effective date**: March 26, 2025 (upon Federal Register publication)
-- **Rule mechanism**: interim final rule (IFR) — took effect immediately without prior public-comment period, with a comment window opening post-effectiveness; FinCEN stated it intended to issue a final rule "later this year" (2025)
+- **Rule mechanism**: interim final rule (IFR) — took effect immediately without prior public-comment period, with a comment window opening post-effectiveness; FinCEN stated that it "intends to issue a final rule this year" (2025) (Federal Register, Mar. 26, 2025, doc. 2025-05199)
 - **Scope of exemption**:
   - All entities previously known as "domestic reporting companies" (entities formed by filing a document with a secretary of state or similar office under U.S. state or tribal law) are **exempt** from reporting any BOI
   - All **U.S. persons** (as defined) are exempt from BOI reporting obligations even where they are beneficial owners of foreign reporting companies
@@ -95,7 +137,7 @@ On March 21, 2025, FinCEN announced — with publication in the Federal Register
 - **Stated rationale (per FinCEN)**: reducing compliance burden on U.S. small businesses; maintaining foreign-entity reporting consistent with the CTA's anti-money-laundering aims — though this rationale is inconsistent with the statute's text, which covers both domestic and foreign entities
 - **Congressional response**: On May 27, 2025, Senators Whitehouse and Grassley submitted a formal comment letter on the IFR, urging Treasury to scrap the rule on the ground that it "violates Congressional intent" (the CTA was enacted with explicit bipartisan congressional focus on domestic-entity shell-company disclosure)
 - **No Congressional Review Act resolution** overturning the IFR has been enacted as of April 2026
-- **Final rule status**: as of April 2026, the interim final rule remains operative; a final rule has not been issued, per the ABA Business Law Today December 2025 coverage and subsequent monitoring
+- **Final rule status**: as of April 2026 the interim final rule remained operative and a final rule had not yet been issued. In March 2025 FinCEN said it "intends to finalize the rule this year" (FinCEN news release, March 21, 2025). FinCEN issued the final rule on August 11, 2026, effective August 14, 2026; it permanently removes the requirement for U.S. companies and U.S. persons to report beneficial ownership information, adopting the interim rule's exemptions (Treasury press release sb0603, Aug. 11, 2026)
 
 ## Why This Event Matters
 
@@ -120,9 +162,9 @@ The CTA's BOI reporting rule had taken effect January 1, 2024 with the following
 - Entities formed in 2024: initial BOI report due within 90 days of formation
 - Entities formed on or after January 1, 2025: initial BOI report due within 30 days of formation
 
-The original rule treated essentially all U.S. corporations and LLCs as "reporting companies" with limited exemptions for large operating companies, regulated financial institutions, and certain other statutory categories. Estimates at rule adoption projected **32.6 million entities** in the initial reporting population.
+The original rule treated essentially all U.S. corporations and LLCs as "reporting companies" with limited exemptions for large operating companies, regulated financial institutions, and certain other statutory categories. When FinCEN adopted the original reporting rule in 2022, it estimated about **32.6 million** reporting companies in Year 1 (87 FR 59498, Sept. 30, 2022).
 
-Post-IFR, FinCEN estimated the affected foreign-entity population at roughly **20,000 entities** — a ~1,600-fold contraction in rule coverage achieved through administrative rulemaking in under four months.
+By the rule's own calculation, the IFR eliminates reporting for more than 99 percent of the entities previously required to report (Whitehouse-Grassley comment letter, May 27, 2025). In its paperwork-burden estimate, FinCEN projects an average of 11,667 foreign reporting companies filing per year (FR Doc. 2025-05199, n.51).
 
 The IFR process chain:
 1. **March 2, 2025**: Treasury press release sb0038 announces non-enforcement posture (see [[2025-03-02--treasury-suspends-cta-enforcement-boi]])

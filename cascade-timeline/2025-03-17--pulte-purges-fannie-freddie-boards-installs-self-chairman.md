@@ -5,7 +5,7 @@ date: '2025-03-17'
 end_date: '2025-03-18'
 title: "Pulte Purges 14 Directors from Fannie Mae and Freddie Mac Boards, Installs Himself as Chairman of Both GSEs"
 importance: 9
-status: confirmed
+status: reported
 actors:
   - Bill Pulte
   - FHFA
@@ -93,11 +93,71 @@ coverage:
     title: "The Rollback Wave — Six Coordinated Administrative Actions That Cleared the Path"
     date: '2026-05-13'
     publication: theramm
+corrections:
+- date: '2026-10-08'
+  was: "- **Michael Stucky** — Vice Chair (retained from prior board, elevated)"
+  now: "- **Michael Stucky** — new Fannie Mae director (March 17, 2025), a former operating partner at Pulte Capital Partners and former division president at Pulte Homes (National Mortgage News); named Vice Chair on April 10, 2025 (Fannie Mae Q1 2025 10-Q)"
+  why: "https://www.nationalmortgagenews.com/news/new-fhfa-chief-shakes-up-fannie-mae-freddie-macs-boards — 'Fannie also is adding Christopher Stanley and Michael Stucky'; Stucky named Vice Chair April 10, 2025 (Fannie Mae Q1 2025 10-Q / 8-K, sec.gov)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "former Leidos CTO; SAIC senior vice president"
+  now: "former chief technology officer at Leidos"
+  why: "https://www.nationalmortgagenews.com/news/new-fhfa-chief-shakes-up-fannie-mae-freddie-macs-boards (Bonnie Sinnock, Mar 18, 2025) — director descriptions: Alving (Leidos CTO), Lye (Rivian CIO), Ragavan (Voya CRO), Seelig (PwC), Chavers (BlackRock; Ginnie Mae president), Drummond (TD Canada Trust), Hayden (BlackRock, PHH), Swan (Ford Foundation)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "NPR's February 3, 2026 investigation (\"Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?\") concluded the IPO \"could generate billions of dollars for key Trump supporters.\""
+  now: "NPR's February 3, 2026 report (\"Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?\") said critics warn that unwinding the conservatorship could rattle financial markets and drive up mortgage rates, \"while potentially generating billions of dollars for key Trump supporters,\" and named billionaire holders of old Fannie and Freddie stock, including Bill Ackman, who could get \"a massive windfall\" depending on how the exit is structured."
+  why: "https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors — critics 'warn that unwinding the 17-year federal conservatorship ... could rattle financial markets and drive up mortgage rates, while potentially generating billions of dollars for key Trump supporters'; an explainer, not an investigation that concluded"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- **Planned offering**: 5-15% of combined Fannie Mae and Freddie Mac equity via public stock sale"
+  now: "- **Planned offering**: in August 2025 the Wall Street Journal reported the administration was weighing a sale of 5% to 15% of the companies' stock (Bloomberg, Aug. 8, 2025, citing WSJ)"
+  why: "Bloomberg 2025-08-08 (citing WSJ); NPR 2026-02-03 (Bessent on Fox Business); Fox Business 2025-08-15; Fannie Mae Q1 2025 10-Q (sec.gov fnm-20250331.htm: $140 billion shortfall excluding buffers) — NPR cited page contains none of the 5-15%, $500-700B, bank-CEO meeting or ERCF figures"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a dual-hat arrangement no prior FHFA Director has attempted since the agency was created by"
+  now: "a dual-hat arrangement Reuters called \"unprecedented\" (Dec. 19, 2025), which it reported the FHFA inspector general reviewed for conflict of interest, and which no prior FHFA Director is documented to have attempted since the agency was created by"
+  why: "Reuters 2025-12-19 ('unprecedented'; FHFA IG review); fanniemae.com Board Committees page (three members, revised 4/24/26); Fannie Mae Q1 2025 10-Q; Revolving Door Project on GrabAGun — no Washington Post editorial-board source found"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Michael Stucky"
+  qualifier: ""
+  span: "Fannie also is adding Christopher Stanley and Michael Stucky to its board"
+  url: https://www.nationalmortgagenews.com/news/new-fhfa-chief-shakes-up-fannie-mae-freddie-macs-boards
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: attribution
+  value: "Diane Lye"
+  qualifier: ""
+  span: "Diane Lye, a data science and technology expert who most recently served as chief information officer at Rivian Automotive"
+  url: https://www.nationalmortgagenews.com/news/new-fhfa-chief-shakes-up-fannie-mae-freddie-macs-boards
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: "while potentially generating billions of dollars for key Trump supporters"
+  qualifier: ""
+  span: "could rattle financial markets and drive up mortgage rates, while potentially generating billions of dollars for key Trump supporters"
+  url: https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: "a 3% to 6% stake"
+  qualifier: ""
+  span: "a 3% to 6% stake"
+  url: https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors
+  read: fetched
+  source_kind: secondary
 ---
 
 # Pulte Purges Fannie Mae and Freddie Mac Boards, Installs Himself as Chairman of Both GSEs
 
-On **March 17-18, 2025** — within 72 hours of being sworn in as the 5th Director of the **Federal Housing Finance Agency** on March 14 — **Bill Pulte** removed **14 directors** from the Boards of **Fannie Mae** and **Freddie Mac**, the two government-sponsored enterprises that together backstop approximately **$7 trillion** of U.S. residential mortgages under federal conservatorship. Pulte then **appointed himself Chairman** of both boards while continuing to serve as the federal regulator exercising conservatorship authority over the same entities — a dual-hat arrangement no prior FHFA Director has attempted since the agency was created by the 2008 Housing and Economic Recovery Act (HERA).
+On **March 17-18, 2025** — within 72 hours of being sworn in as the 5th Director of the **Federal Housing Finance Agency** on March 14 — **Bill Pulte** removed **14 directors** from the Boards of **Fannie Mae** and **Freddie Mac**, the two government-sponsored enterprises that together sit at the center of what NPR calls the $13 trillion U.S. housing finance system, under federal conservatorship. Pulte then **appointed himself Chairman** of both boards while continuing to serve as the federal regulator exercising conservatorship authority over the same entities — a dual-hat arrangement Reuters called "unprecedented" (Dec. 19, 2025), which it reported the FHFA inspector general reviewed for conflict of interest, and which no prior FHFA Director is documented to have attempted since the agency was created by the 2008 Housing and Economic Recovery Act (HERA).
 
 The purge created **8 vacancies** at Fannie Mae and **6 vacancies** at Freddie Mac, which Pulte subsequently filled with a mix of FHFA officials, Trump-aligned political appointees, and (on April 14, 2025) **Omeed Malik**, the founder of **1789 Capital** and business partner of **Donald Trump Jr.** See [[2025-04-14--malik-appointed-fannie-mae-board]].
 
@@ -107,23 +167,23 @@ Per the Washington Post (March 18, 2025), National Mortgage News, and Inman cove
 
 ### Fannie Mae (8 removed)
 
-- **Amy Alving** — former Leidos CTO; SAIC senior vice president
+- **Amy Alving** — former chief technology officer at Leidos
 - **Christopher Brummer** — Georgetown Law professor of financial regulation and securities law; African-American finance-policy scholar
 - **Michael Heid** — former President of Wells Fargo Home Mortgage; ex-HSBC Americas executive
 - **Simon Johnson** — MIT Sloan economist; former IMF Chief Economist; 2024 Nobel laureate in Economic Sciences
-- **Diane Lye** — former Rearc CEO; ex-Amazon Web Services executive
+- **Diane Lye** — most recently chief information officer at Rivian Automotive
 - **Diane Nordin** — former Wellington Management partner
-- **Chetlur "Chet" Ragavan** — former Promontory Financial Group partner; ex-BlackRock managing director
-- **Michael Seelig** — former Merrill Lynch / Banc of America Securities executive
+- **Chetlur "Chet" Ragavan** — former executive vice president and chief risk officer at Voya Financial
+- **Michael Seelig** — former senior executive at PricewaterhouseCoopers
 
 ### Freddie Mac (6 removed)
 
-- **Kevin Chavers** — former BlackRock managing director; ex-Morgan Stanley Mortgage Capital managing director
-- **Lance Drummond** — former TD Bank Group EVP and COO
-- **Luke Hayden** — former Morgan Stanley managing director of mortgage finance
+- **Kevin Chavers** — former BlackRock executive who served as president of Ginnie Mae during the Clinton administration
+- **Lance Drummond** — retired executive vice president at TD Canada Trust
+- **Luke Hayden** — consultant who previously held executive posts at BlackRock and PHH Mortgage
 - **Allan Merrill** — CEO of Beazer Homes USA
 - **Jane Prokop** — Mastercard EVP for small and medium enterprises
-- **Roy Swan** — Ford Foundation Head of Mission Investments; former Morgan Stanley managing director
+- **Roy Swan** — head of mission investments at the Ford Foundation
 
 The ousted cohort included an MIT-affiliated Nobel laureate (Johnson), a Georgetown securities-regulation scholar (Brummer), and senior alumni of Wells Fargo Home Mortgage, BlackRock, Morgan Stanley, Promontory, Wellington, TD Bank, Mastercard, Beazer Homes, and the Ford Foundation — a cross-section of credentialed housing-finance, risk-management, and institutional-investment expertise.
 
@@ -133,7 +193,7 @@ Federal law governing the FHFA Director role prohibits the Director from holding
 
 Pulte's March 17-18 self-appointment as **Chairman of both Fannie Mae and Freddie Mac** while simultaneously serving as FHFA Director is a facially novel arrangement. Under conservatorship, the FHFA Director already possesses statutory powers to direct the GSEs' operations without holding a board seat; taking a Chairman role in addition concentrates regulator, conservator, and corporate-governance authority in a single federal official. No court had ruled on the legality of the dual-hat arrangement as of April 2026, and no congressional oversight hearing had addressed it.
 
-HERA §§ 4513 and 4617 (conservator/receiver powers) do not explicitly bar the dual role, but were drafted on the premise that the Director exercises external regulatory authority rather than internal corporate governance. The Revolving Door Project (2025) and the Washington Post editorial board flagged the arrangement as a **structural precondition** for every subsequent decision made by the Fannie Mae and Freddie Mac boards: without an independent board, there is no counterweight to the regulator's policy preferences.
+HERA §§ 4513 and 4617 (conservator/receiver powers) do not explicitly bar the dual role, but were drafted on the premise that the Director exercises external regulatory authority rather than internal corporate governance. The Revolving Door Project (2025) flagged the arrangement as a **structural precondition** for every subsequent decision made by the Fannie Mae and Freddie Mac boards: without an independent board, there is no counterweight to the regulator's policy preferences.
 
 ## Replacement Appointments
 
@@ -143,7 +203,7 @@ Pulte installed new directors including:
 - **William J. "Bill" Pulte** — Chairman
 - **Clinton Jones** — FHFA General Counsel (dual-seated across both GSEs)
 - **Christopher Stanley** — SpaceX and X cybersecurity engineer; Musk-aligned technologist (resigned approximately one day after appointment per later reporting)
-- **Michael Stucky** — Vice Chair (retained from prior board, elevated)
+- **Michael Stucky** — new Fannie Mae director (March 17, 2025), a former operating partner at Pulte Capital Partners and former division president at Pulte Homes (National Mortgage News); named Vice Chair on April 10, 2025 (Fannie Mae Q1 2025 10-Q)
 - Additional seats filled in subsequent weeks (Malik on April 14, 2025)
 
 **Freddie Mac**:
@@ -153,19 +213,19 @@ Pulte installed new directors including:
 - **Ralph "Cody" Kittle**
 - Additional appointments through 2025
 
-The Fannie Mae **Nominating and Corporate Governance Committee** was ultimately reduced to a **two-member** body: Pulte as Chair and Malik as the sole other member (per Fannie Mae's current corporate-governance page). This placed director-recruitment authority in a pair with documented pre-existing financial overlap via the Pulte Family Office's January 2025 equity position in **GrabAGun**, a 1789 Capital portfolio company.
+The Fannie Mae **Nominating and Corporate Governance Committee** has three members: Pulte (Chair), Malik and Stucky (per Fannie Mae's Board Committees page, revised April 24, 2026; until then it listed only Pulte and Malik). This placed director-recruitment authority in a small group that included Malik, with documented pre-existing financial overlap via the Pulte Family Office's January 2025 equity position in **GrabAGun**, a 1789 Capital portfolio company.
 
 ## Market and Transactional Context
 
 The purge and self-chairmanship occurred in the run-up to a publicly-floated Fannie/Freddie IPO under continued conservatorship:
 
-- **Planned offering**: 5-15% of combined Fannie Mae and Freddie Mac equity via public stock sale
-- **Valuation estimate**: $500 billion to $700 billion combined
-- **Equity raise**: approximately $30 billion
-- **White House meeting**: Trump personally convened JPMorgan CEO **Jamie Dimon**, Goldman Sachs CEO **David Solomon**, and Bank of America CEO **Brian Moynihan** at the White House to discuss IPO structure (HousingWire, August 2025)
-- **Capital shortfall backdrop**: Fannie Mae reported a **$33 billion** Enterprise Regulatory Capital Framework (ERCF) capital gap in Q1 2025; Freddie Mac reported **$162 billion**
+- **Planned offering**: in August 2025 the Wall Street Journal reported the administration was weighing a sale of 5% to 15% of the companies' stock (Bloomberg, Aug. 8, 2025, citing WSJ)
+- **Valuation estimate**: about $500 billion or more combined (WSJ, via Bloomberg)
+- **Equity raise**: approximately $30 billion; Treasury Secretary Bessent said a 3% to 6% stake would bring in at least about $30 billion (NPR, Feb. 3, 2026)
+- **White House meetings**: Bank of America's and Citigroup's leadership met Trump in the Oval Office in August 2025 as banks competed to underwrite the offering, and JPMorgan and Goldman Sachs were also seeking the business (Fox Business, Aug. 15, 2025)
+- **Capital shortfall backdrop**: as of March 31, 2025, Fannie Mae reported a $140 billion shortfall against its minimum risk-based capital requirement under the Enterprise Regulatory Capital Framework, excluding buffers (Fannie Mae Q1 2025 10-Q); the Freddie Mac figure was not verified
 
-NPR's February 3, 2026 investigation ("Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?") concluded the IPO "could generate billions of dollars for key Trump supporters." Between the March 17-18 board purge and any offering, the self-chairmanship ensured that pre-IPO valuation models, underwriter-selection materials, and allocation plans would flow through a governance structure hand-picked by the federal regulator rather than an independent board.
+NPR's February 3, 2026 report ("Privatizing Fannie Mae is risky. Would it be a win for taxpayers or Trump's donors?") said critics warn that unwinding the conservatorship could rattle financial markets and drive up mortgage rates, "while potentially generating billions of dollars for key Trump supporters," and named billionaire holders of old Fannie and Freddie stock, including Bill Ackman, who could get "a massive windfall" depending on how the exit is structured. Between the March 17-18 board purge and any offering, the self-chairmanship ensured that pre-IPO valuation models, underwriter-selection materials, and allocation plans would flow through a governance structure hand-picked by the federal regulator rather than an independent board.
 
 ## Why This Matters — Structural Preconditioner
 
@@ -181,7 +241,7 @@ The March 17-18 purge is the **structural preconditioner** for every subsequent 
 
 5. **GAO investigation (December 4, 2025).** The Government Accountability Office opened a formal investigation into Pulte's weaponized criminal referrals, responding to a Senate Democrats' letter. See [[2025-12-04--gao-investigates-pulte-weaponized-criminal-referrals]]. The investigation's existence is downstream of the governance arrangement established March 17-18.
 
-The Fannie Mae 10-Q filings through 2025 confirm that as of each filing, the Board's reconstitution was ongoing and that committee assignments and independence determinations for new directors had not been finalized — meaning Pulte effectively operated as the sole decision-making authority over two entities holding ~$7 trillion of U.S. mortgage exposure during the reconstitution window.
+Fannie Mae's Q1 2025 10-Q reported that the board had not yet considered Malik's independence or committee assignments.
 
 ## Sourcing and Gaps
 

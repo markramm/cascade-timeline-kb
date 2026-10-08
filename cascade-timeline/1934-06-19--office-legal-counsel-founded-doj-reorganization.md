@@ -1,10 +1,10 @@
 ---
 type: timeline_event
 id: 1934-06-19--office-legal-counsel-founded-doj-reorganization
-date: '1934-06-19'
-title: "Office of Legal Counsel Established in DOJ Reorganization; Becomes Binding Interpreter of Executive Authority"
+date: '1933-06-16'
+title: "Congress Creates the Assistant Solicitor General Post That Became the Office of Legal Counsel; OLC Becomes Binding Interpreter of Executive Authority"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - olc
@@ -36,15 +36,36 @@ capture_lanes:
   - Executive Power Expansion
   - Administrative Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "On June 19, 1934, Congress passed and President Franklin D. Roosevelt signed a sweeping Department of Justice reorganization that included the establishment of what would become the Office of Legal Counsel."
+  now: "On June 16, 1933, the Independent Offices Appropriation Act (Pub. L. No. 73-78, § 16(a), 48 Stat. 283, 307) created \"in the Department of Justice an Assistant Solicitor General to assist the Solicitor General in the performance of his duties.\" The Office of Legal Counsel traces its origins to that post; Attorney General Homer Cummings then assigned the new office to draft legal opinions and give legal counsel to other executive-branch agencies (Att'y Gen. Order No. 23,507, Dec. 30, 1933)."
+  why: "https://justice.gov/hmn/media/519631/dl (Supplemental Opinions of the OLC, preface) — 'the Office traces its origins to the Independent Offices Appropriation Act of 1933, Pub. L. No. 73-78, § 16(a), 48 Stat. 283, 307 (June 16, 1933)'; Att'y Gen. Order No. 23,507 (Dec. 30, 1933). NOTE: file id still carries 1934-06-19"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Robert Jackson (Assistant AG 1938-39 before SG, AG, SCOTUS)"
+  now: "Golden W. Bell (1935-39) and Charles Fahy (1940-41) under Roosevelt (Robert Jackson never headed the office; he was Assistant AG for the Tax and Antitrust Divisions, then Solicitor General)"
+  why: "https://en.wikipedia.org/wiki/Office_of_Legal_Counsel (list of assistant attorneys general in charge: MacLean 1933-35, Bell 1935-39, Fahy 1940-41) ; https://en.wikipedia.org/wiki/Robert_H._Jackson — Jackson was Assistant AG for the Tax and Antitrust Divisions, then Solicitor General (Mar 1938-Jan 1940); he never headed OLC"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "June 16, 1933"
+  qualifier: "Pub. L. No. 73-78"
+  span: "Pub. L. No. 73-78, § 16(a), 48 Stat. 283, 307 (June 16, 1933)"
+  url: https://justice.gov/hmn/media/519631/dl
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-On June 19, 1934, Congress passed and President Franklin D. Roosevelt signed a sweeping Department of Justice reorganization that included the establishment of what would become the Office of Legal Counsel. The office was initially headed by an Assistant Solicitor General, a rank elevated to Assistant Attorney General in 1951 under Truman's Attorney General J. Howard McGrath. Over nine decades OLC has become the executive branch's binding internal interpreter — its opinions constitutionally equivalent to judicial rulings for purposes of executive-branch action, subject only to reversal by the Attorney General or the President. The OLC memo lineage (Jackson-era opinions through Bybee/Yoo torture memos through Trump II's 2025-26 "inherent authority" memos) is the central legal-technical infrastructure of executive-power expansion — the mechanism by which administrations translate political preferences into binding internal legal authority without judicial review or congressional oversight.
+On June 16, 1933, the Independent Offices Appropriation Act (Pub. L. No. 73-78, § 16(a), 48 Stat. 283, 307) created "in the Department of Justice an Assistant Solicitor General to assist the Solicitor General in the performance of his duties." The Office of Legal Counsel traces its origins to that post; Attorney General Homer Cummings then assigned the new office to draft legal opinions and give legal counsel to other executive-branch agencies (Att'y Gen. Order No. 23,507, Dec. 30, 1933). The office was initially headed by an Assistant Solicitor General, a rank elevated to Assistant Attorney General in 1951 under Truman's Attorney General J. Howard McGrath. Over nine decades OLC has become the executive branch's binding internal interpreter — its opinions constitutionally equivalent to judicial rulings for purposes of executive-branch action, subject only to reversal by the Attorney General or the President. The OLC memo lineage (early opinions through Bybee/Yoo torture memos through Trump II's 2025-26 "inherent authority" memos) is the central legal-technical infrastructure of executive-power expansion — the mechanism by which administrations translate political preferences into binding internal legal authority without judicial review or congressional oversight.
 
 ## What Happened / Key Facts
 
-The 1934 reorganization consolidated the Attorney General's advisory functions — previously dispersed across the Solicitor General's office, the AG's personal staff, and various DOJ divisions — into a single unit responsible for:
+The 1933 act and the December 1933 order consolidated the Attorney General's advisory functions — previously dispersed across the Solicitor General's office, the AG's personal staff, and various DOJ divisions — into a single unit responsible for:
 
 1. **Legal opinions for the President and executive-branch agencies** on any question of law arising from executive conduct.
 2. **Review of executive orders and proclamations** for form and legality before signature.
@@ -54,7 +75,7 @@ The 1934 reorganization consolidated the Attorney General's advisory functions �
 
 The key structural feature is that OLC opinions are **binding on the executive branch**. Once issued, every executive-branch official must follow the OLC's interpretation unless the Attorney General or the President specifically reverses it. This creates a closed interpretive system: the executive branch interprets the Constitution and federal statutes as they apply to its own conduct, without automatic recourse to judicial review (since individual agency actions may or may not reach courts, and many OLC-authorized actions are structured specifically to evade judicial scrutiny).
 
-The office's early decades (1934-1960) produced a mostly routinized body of advisory opinions on executive-power matters — Jackson-era opinions on wartime authority, Truman-era opinions on steel seizure (which internally endorsed what *Youngstown* later struck down), Eisenhower-era opinions on covert action. The Kennedy-Johnson years saw OLC assist in the expansion of surveillance and intelligence authorities. The Nixon-era OLC produced opinions supporting impoundment (subsequently invalidated in *Train v. New York* [[1974-07-12--impoundment-control-act-nixon-budget-reform]]) and executive privilege (partially invalidated in *United States v. Nixon*).
+The office's early decades (1934-1960) produced a mostly routinized body of advisory opinions on executive-power matters — Roosevelt-era opinions on wartime authority, Truman-era opinions on steel seizure (which internally endorsed what *Youngstown* later struck down), Eisenhower-era opinions on covert action. The Kennedy-Johnson years saw OLC assist in the expansion of surveillance and intelligence authorities. The Nixon-era OLC produced opinions supporting impoundment (subsequently invalidated in *Train v. New York* [[1974-07-12--impoundment-control-act-nixon-budget-reform]]) and executive privilege (partially invalidated in *United States v. Nixon*).
 
 ## Why This Event Matters
 
@@ -70,7 +91,7 @@ OLC's structural position is what makes the "OLC memo lineage" a distinctive ins
 
 The documented consequential OLC opinions include:
 
-- **Jackson-era (1940-41)**: Jackson's opinions as AG supporting the Destroyers-for-Bases arrangement, which Justice Jackson later referenced in his *Youngstown* concurrence as an example of executive overreach.
+- **Attorney General Jackson's opinions (1940-41, not OLC opinions)**: Jackson's opinions as AG supporting the Destroyers-for-Bases arrangement, which Justice Jackson later referenced in his *Youngstown* concurrence as an example of executive overreach.
 - **Nixon-era**: Opinions supporting impoundment authority, later invalidated.
 - **Carter-era (1977-80)**: Civiletti's transparency initiative and publication of the annual *Opinions of the Office of Legal Counsel*.
 - **Reagan-era (1981-88)**: Meese-era opinions supporting signing-statement doctrine [[1986-02-25--meese-signing-statement-west-group-legislative-history]] and Iran-Contra-related executive-privilege claims.
@@ -82,7 +103,7 @@ Worker U and Worker AC's pattern observations — "authority migration" and "inf
 
 ## Broader Context
 
-The office has been headed by a succession of legal figures of substantial subsequent influence: Robert Jackson (Assistant AG 1938-39 before SG, AG, SCOTUS), William Rehnquist (OLC AAG 1969-71 before SCOTUS), Antonin Scalia (OLC AAG 1974-77 before SCOTUS), Theodore Olson (OLC AAG 1981-84 before SG), Walter Dellinger (1993-96, later SG), Jay Bybee (2001-03 before 9th Circuit), Jack Goldsmith (2003-04), Steven Bradbury (2005-09), Virginia Seitz (2011-13), Karl Thompson (2014-17), Steven Engel (2017-21), and Christopher Schroeder (2021-25). The office's leadership pipeline maps directly to the architecture of executive-power expansion and resistance.
+The office has been headed by a succession of legal figures of substantial subsequent influence: Golden W. Bell (1935-39) and Charles Fahy (1940-41) under Roosevelt (Robert Jackson never headed the office; he was Assistant AG for the Tax and Antitrust Divisions, then Solicitor General), William Rehnquist (OLC AAG 1969-71 before SCOTUS), Antonin Scalia (OLC AAG 1974-77 before SCOTUS), Theodore Olson (OLC AAG 1981-84 before SG), Walter Dellinger (1993-96, later SG), Jay Bybee (2001-03 before 9th Circuit), Jack Goldsmith (2003-04), Steven Bradbury (2005-09), Virginia Seitz (2011-13), Karl Thompson (2014-17), Steven Engel (2017-21), and Christopher Schroeder (2021-25). The office's leadership pipeline maps directly to the architecture of executive-power expansion and resistance.
 
 Critically, the OLC's binding-interpretive-authority function has no clear constitutional foundation — it is an institutional practice built up over 90 years. Critics including Bruce Ackerman, Dawn Johnsen, and the Brennan Center have argued the office's structural position should be reformed to subject its opinions to judicial review or congressional oversight. No such reform has been enacted.
 

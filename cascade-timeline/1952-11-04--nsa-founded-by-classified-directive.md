@@ -4,7 +4,7 @@ id: 1952-11-04--nsa-founded-by-classified-directive
 date: '1952-11-04'
 title: Truman Creates National Security Agency by Classified Directive, Existence Classified for 23 Years
 importance: 10
-status: confirmed
+status: reported
 actors:
   - Harry S. Truman
   - Ralph Canine
@@ -37,6 +37,32 @@ capture_lanes:
   - Intelligence Penetration
   - Surveillance Infrastructure
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "By 2013 Snowden-era disclosures indicated approximately 35,000-45,000."
+  now: "FY2013 budget document leaked by Snowden listed about 35,000 people in the Consolidated Cryptologic Program (NSA plus the services' cryptologic units)."
+  why: "Washington Post, Aug 29-30, 2013 (FY2013 National Intelligence Program budget summary) — the cited Burns history ends in 1952 and cannot support a 2013 headcount"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Current budget estimated at $10-12 billion annually"
+  now: "$10.8 billion requested for the Consolidated Cryptologic Program in FY2013"
+  why: "Washington Post, Aug 29-30, 2013, leaked FY2013 NIP budget; 'Classified through 1994' has no source and was dropped"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "operate on legal authorities that trace directly to the 1952 founding directive's \"communications intelligence\" definition"
+  now: "operated under FISA Section 702, added by the FISA Amendments Act of 2008"
+  why: "https://documents.pclob.gov/prod/Documents/OversightReport/823399ae-92ea-447a-ab60-0da28b555437/702-Report-2.pdf — PCLOB Section 702 report identifies 702 as the legal basis for PRISM and Upstream"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "clearly authorized by the statute"
+  qualifier: ""
+  span: "PRISM collection is clearly authorized by the statute"
+  url: https://documents.pclob.gov/prod/Documents/OversightReport/823399ae-92ea-447a-ab60-0da28b555437/702-Report-2.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -51,8 +77,8 @@ Key facts:
 
 - **Founding directive classified.** The October 24, 1952 memo was not declassified until 1992.
 - **NSA's existence classified until 1975.** Congressional debate on the 1947 National Security Act had specifically discussed whether to charter a signals intelligence agency; the decision was deferred. The NSA's 1952 creation bypassed that question by executive directive.
-- **Personnel**: AFSA's 7,000 staff transferred wholesale. By 1960 approximately 12,000. By 1975 approximately 24,000. By 2013 Snowden-era disclosures indicated approximately 35,000-45,000.
-- **Budget**: Classified through 1994. Current budget estimated at $10-12 billion annually (most detail classified).
+- **Personnel**: AFSA's 7,000 staff transferred wholesale. By 1960 approximately 12,000. By 1975 approximately 24,000. The FY2013 intelligence budget justification leaked by Edward Snowden (Washington Post, Aug. 29, 2013) listed about 35,000 people in the Consolidated Cryptologic Program, which covers NSA and the military services' cryptologic units.
+- **Budget**: The same FY2013 document showed $10.8 billion requested for the Consolidated Cryptologic Program (most detail remains classified).
 
 Major undisclosed programs during the classified-existence era:
 
@@ -66,7 +92,7 @@ The NSA founding is the paradigmatic case of intelligence-agency creation by exe
 
 - **Extreme classification as institutional defense.** NSA's strategy for 23 years was to deny its own existence. This is qualitatively different from ordinary agency secrecy — it is the deliberate exclusion of Congress, the judiciary, and the public from any knowledge that the institution exists. The template is later extended to NRO (1961, classified until 1992) and multiple CIA special-access programs.
 - **No enabling statute, no accountability framework.** The 1947 National Security Act gave CIA a statutory charter (however loose). The NSA had no equivalent until partial statutory recognition in the 1959 NSA Act (P.L. 86-36) — and even that statute contains no substantive mission authority, only personnel and classification provisions. NSA's operations run almost entirely on executive directive authority.
-- **Direct connection to post-2001 mass surveillance.** The NSA programs Edward Snowden disclosed in 2013 (PRISM, Upstream, XKeyscore, MYSTIC) operate on legal authorities that trace directly to the 1952 founding directive's "communications intelligence" definition. The Church Committee's 1975 recommendation for a statutory NSA charter has never been implemented.
+- **Direct connection to post-2001 mass surveillance.** The PRISM and Upstream programs Edward Snowden disclosed in 2013 operated under Section 702 of the Foreign Intelligence Surveillance Act, which Congress added in the FISA Amendments Act of 2008 (Privacy and Civil Liberties Oversight Board, July 2, 2014); the agency whose signals-intelligence mission the 1952 directive defined is the one that ran them. The Church Committee's 1975 recommendation for a statutory NSA charter has never been implemented.
 
 ## Broader Context
 

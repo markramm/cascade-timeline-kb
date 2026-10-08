@@ -4,7 +4,7 @@ id: 2005-05-10--bradbury-olc-memo-enhanced-interrogation-techniques
 date: '2005-05-10'
 title: "Bradbury OLC Memos Reconstruct CIA Interrogation Authorization Post-Goldsmith Withdrawal — Three May 2005 Memos Re-authorize Waterboarding"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - olc
@@ -63,6 +63,22 @@ capture_lanes:
   - Executive Power Expansion
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "This was a narrow but critical legal move: it permitted the CIA to employ techniques that would clearly constitute cruel, inhuman, or degrading treatment under Article 16, provided they were not \"torture\" under Article 1."
+  now: "The memo concluded that Article 16 applies at most to areas where the United States exercises at least de facto authority as the government, and, because the CIA said its interrogations took place outside such areas, that Article 16 was \"inapplicable to the CIA's interrogation practices.\" It added that even if Article 16 did apply, the techniques, used with the CIA's screening criteria, limitations and medical safeguards, did not violate the Fifth Amendment \"shocks the conscience\" standard and so were \"consistent with United States obligations under Article 16.\""
+  why: "https://www.justice.gov/sites/default/files/olc/legacy/2013/10/21/memo-bradbury2005.pdf (May 30, 2005) — p.1: Article 16 'at most' reaches areas under US de facto authority; inapplicable to the CIA's practices; alternatively, techniques with safeguards do not shock the conscience; the memo never says the techniques would 'clearly constitute' CIDT"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "Article 16 is limited to conduct within"
+  qualifier: ""
+  span: "Article 16 is limited to conduct within"
+  url: https://www.justice.gov/sites/default/files/olc/legacy/2013/10/21/memo-bradbury2005.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -97,7 +113,7 @@ The analytical structure differed from Bybee's:
 
 **3. Specific intent redefined.** Bradbury accepted the specific-intent threshold but treated it as satisfied whenever the interrogator's purpose was information-gathering rather than pain-infliction. This was essentially Yoo's position, now framed as a factual rather than constitutional matter.
 
-**4. Article 16 applicability rejected for extraterritorial CIA conduct.** The May 30, 2005 memo argued that the Convention Against Torture's Article 16 obligation (prohibiting "cruel, inhuman, or degrading treatment" that falls short of torture) did not apply to CIA conduct outside the United States. This was a narrow but critical legal move: it permitted the CIA to employ techniques that would clearly constitute cruel, inhuman, or degrading treatment under Article 16, provided they were not "torture" under Article 1.
+**4. Article 16 applicability rejected for extraterritorial CIA conduct.** The May 30, 2005 memo argued that the Convention Against Torture's Article 16 obligation (prohibiting "cruel, inhuman, or degrading treatment" that falls short of torture) did not apply to CIA conduct outside the United States. The memo concluded that Article 16 applies at most to areas where the United States exercises at least de facto authority as the government, and, because the CIA said its interrogations took place outside such areas, that Article 16 was "inapplicable to the CIA's interrogation practices." It added that even if Article 16 did apply, the techniques, used with the CIA's screening criteria, limitations and medical safeguards, did not violate the Fifth Amendment "shocks the conscience" standard and so were "consistent with United States obligations under Article 16."
 
 The July 20, 2007 memo narrowed the authorized technique set after the Military Commissions Act of 2006 and the Detainee Treatment Act of 2005 (the "McCain Amendment") had altered the statutory environment. The 2007 memo authorized six techniques — including dietary manipulation, sleep deprivation, and physical striking — but dropped waterboarding, walling, and cramped confinement.
 

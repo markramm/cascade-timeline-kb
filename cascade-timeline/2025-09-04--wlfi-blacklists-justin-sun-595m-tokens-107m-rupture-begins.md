@@ -68,24 +68,110 @@ sources:
   outlet: CoinDesk
   date: '2026-04-21'
   tier: 1
-status: confirmed
+status: reported
 capture_lanes:
 - Financial Capture
 - International Kleptocracy
 - Captured-X Relationship Architecture
 - Regulatory Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "\"Our address only conducted a few generic exchange deposit tests, with very low amounts. Without involving any buying or selling, ...\""
+  now: "\"[Our] address only conducted a few generic exchange deposit tests, with very low amounts, and then created address dispersion, without involving any buying or selling, which could not possibly have any impact on the market.\" (Sun, translated post on X, as quoted by CoinDesk)"
+  why: "https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-blacklists-justin-sun-s-address-with-usd107m-wlfi — Sun's Public Response; original quote dropped the 'address dispersion' clause"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "September 4 ~$0.18 -10% from launch; September 5 ~$0.19 -5% from launch; debuted at approximately $0.20 / $1 billion"
+  now: "Sept 4: -20% in 24 hours, -42% since Sept 1 debut (CoinDesk). Sept 5: -40% since trading began Sept 1 (Fortune, citing Binance). CryptoPotato's $0.20 / $1B debut figure conflicts with these reports, which imply an opening price near $0.30."
+  why: "https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/ — 'a 40% decline ... to around 19 cents since it became tradable on Monday'; CoinDesk: 'down 42% since it started trading'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "HTX Exchange — the crypto exchange Sun controls as its owner ... HTX is owned by Justin Sun"
+  now: "the HTX exchange, 'where Sun has previously been active' (CoinGape); Sun has publicly described himself as an adviser to HTX (formerly Huobi) and denied buying it (The Block, 2022). Ownership is disputed."
+  why: "https://coingape.com/world-liberty-financial-blacklists-justin-suns-wallet/ — no cited source says Sun owns HTX"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Sun held a total of approximately 3 billion WLFI tokens ... plus 600 million tokens received as unlock rewards ... Total tokens: approximately 3.6 billion ... paper value of approximately $648 million"
+  now: "Sun held about 3 billion WLFI tokens (~3% of supply), bought with his $75 million. About 20% (~595 million, ~$107 million) unlocked at launch; ~2.4 billion stayed locked. The '600 million' reported by Onchain Lens is that unlocked 20%, not extra tokens. Paper value at $0.18 is ~$540 million, not $648 million."
+  why: "https://coingape.com/world-liberty-financial-blacklists-justin-suns-wallet/ — 'approximately 2.4 billion WLFI remain locked under vesting'; 20% of his total holdings unlocked"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "three years after WLFI's private token presale had raised approximately $550 million from investors including Sun"
+  now: "less than a year after its token sale opened in October 2024 (Fortune). That sale closed in March 2025 having raised about $550 million (The Block). Sun bought $30 million of tokens in late 2024 (CoinDesk) and said in January 2025 he had bought $75 million in total (Fortune)."
+  why: "https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/ — 'launched in October'; no source says three years"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Sun offered WLFI $10 million in Trump-linked public company stock plus $10 million in additional WLFI as part of a negotiated resolution."
+  now: "Sun offered to buy $10 million worth of stock in a Trump-linked public company and another $10 million in WLFI (Fortune)."
+  why: "https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/ — 'He even offered to buy $10 million worth in stock of a Trump-link public company and another $10 million in WLFI'; no negotiated resolution mentioned"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "No formal written statement was issued by WLFI on September 4, 2025; the organization's position was communicated via social media and attributed to market observers."
+  now: "WLFI did not publicly comment on the freeze on September 4. On the evening of September 5, WLFI's social media account posted: 'We do not seek to blacklist anyone. We respond when alerted to malicious or high-risk activity that could harm community members' (Fortune). The 'insider selling' explanation came from on-chain trackers such as Bubblemaps."
+  why: "https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/ — update note: statement from World Liberty Financial's social media account added Sept 5"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "address only conducted a few generic exchange deposit tests, with very low amounts, and then created address dispersion"
+  qualifier: ""
+  span: "address only conducted a few generic exchange deposit tests, with very low amounts, and then created address dispersion, without involving any buying or selling, which could not possibly have any impact on the market."
+  url: https://www.coindesk.com/tech/2025/09/04/world-liberty-financial-blacklists-justin-sun-s-address-with-usd107m-wlfi
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "40%"
+  qualifier: "since it became tradable"
+  span: "40% decline in the cryptocurrency's price to around 19 cents since it became tradable on Monday"
+  url: https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: attribution
+  value: "where Sun has previously been active"
+  qualifier: "HTX"
+  span: "HTX, where Sun has previously been active"
+  url: https://coingape.com/world-liberty-financial-blacklists-justin-suns-wallet/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: figure
+  value: "approximately 2.4 billion WLFI"
+  qualifier: "remain locked under vesting"
+  span: "approximately 2.4 billion WLFI remain locked under vesting"
+  url: https://coingape.com/world-liberty-financial-blacklists-justin-suns-wallet/
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: figure
+  value: "$10 million"
+  qualifier: "offered to buy"
+  span: "He even offered to buy $10 million worth in stock of a Trump-link public company and another $10 million in WLFI."
+  url: https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: quote
+  value: "We do not seek to blacklist anyone"
+  qualifier: "World Liberty Financial social media account"
+  span: "We do not seek to blacklist anyone,\" the social media account for World Liberty Financial posted early Friday evening."
+  url: https://fortune.com/crypto/2025/09/05/justin-sun-donald-trump-world-liberty-financial-blacklisted-crypto-address-wlfi/
+  read: fetched
+  source_kind: secondary
 ---
 
-On **September 4, 2025** — three days after WLFI's public token launch on September 1 — **World Liberty Financial** executed a smart-contract blacklisting of a blockchain address associated with **Justin Sun**, freezing approximately **595 million unlocked WLFI tokens** with a market value of roughly **$107 million**. The action was executed via the WLFI token contract's **`guardianSetBlacklistStatus` function**, which allowed WLFI's controlling guardian address to unilaterally freeze any wallet's transfers, sales, and protocol interactions without a public governance vote. The triggering event was Sun's transfer of approximately **50 million WLFI tokens** (valued at approximately $9 million) to HTX exchange — the crypto exchange Sun controls as its owner — which WLFI's core team characterized as suspicious selling behavior. Sun denied any market-moving intent, characterizing the transactions as routine "exchange deposit tests." The blacklisting is the documented **rupture-begins beat** in the Sun-WLFI captured-X relationship — the pivot point between an active pay-for-regulatory-access relationship and an adversarial legal dispute that culminated in federal litigation in April 2026.
+On **September 4, 2025** — three days after WLFI's public token launch on September 1 — **World Liberty Financial** executed a smart-contract blacklisting of a blockchain address associated with **Justin Sun**, freezing approximately **595 million unlocked WLFI tokens** with a market value of roughly **$107 million**. The action was executed via the WLFI token contract's **`guardianSetBlacklistStatus` function**, which allowed WLFI's controlling guardian address to unilaterally freeze any wallet's transfers, sales, and protocol interactions without a public governance vote. The triggering event was Sun's transfer of approximately **50 million WLFI tokens** (valued at approximately $9 million) to HTX exchange — where Sun has previously been active, and which he has described himself as advising rather than owning — which WLFI's core team characterized as suspicious selling behavior. Sun denied any market-moving intent, characterizing the transactions as routine "exchange deposit tests." The blacklisting is the documented **rupture-begins beat** in the Sun-WLFI captured-X relationship — the pivot point between an active pay-for-regulatory-access relationship and an adversarial legal dispute that culminated in federal litigation in April 2026.
 
 ## What Happened — Key Facts
 
 ### The WLFI Token Launch Context (September 1, 2025)
 
-WLFI launched for public trading on **September 1, 2025** — three years after WLFI's private token presale had raised approximately $550 million from investors including Sun. The token debuted at approximately **$0.20** with a market capitalization of approximately **$1 billion** and a stated circulating supply of roughly 6.8% of total supply. Sun held a total of approximately **3 billion WLFI tokens** (3% of total supply), reflecting his $75 million total investment plus 600 million tokens received as unlock rewards. Of this position, **20% was unlocked at launch** — approximately 600 million tokens — with the rest vesting over a scheduled period.
+WLFI launched for public trading on **September 1, 2025** — less than a year after its token sale opened in October 2024 (Fortune); that sale closed in March 2025 having raised about $550 million (The Block). Sun bought $30 million of tokens in late 2024 (CoinDesk) and said in January 2025 that he had bought $75 million in total (Fortune). According to CryptoPotato, the token debuted at approximately **$0.20** with a market capitalization of approximately **$1 billion**; that conflicts with CoinDesk's and Fortune's reports of a 40-42% decline to about $0.19, which imply an opening price near $0.30 and a stated circulating supply of roughly 6.8% of total supply. Sun held a total of approximately **3 billion WLFI tokens** (3% of total supply), reflecting his $75 million total investment of which about 600 million (20%) unlocked at launch. Of this position, **20% was unlocked at launch** — approximately 600 million tokens — with the rest vesting over a scheduled period.
 
-**HTX Exchange** was the first exchange to announce a WLFI listing and opened deposits August 29, 2025, with trading beginning September 1. HTX is owned by Justin Sun, making Sun's WLFI transfer to HTX both an outbound transaction from his wallet and a transfer to an exchange he controls.
+**HTX Exchange** was the first exchange to announce a WLFI listing and opened deposits August 29, 2025, with trading beginning September 1. HTX is the exchange "where Sun has previously been active" (CoinGape); Sun has publicly described himself as an adviser to HTX (formerly Huobi) and denied buying it (The Block, 2022), so its ownership is disputed.
 
 ### The Triggering Transactions
 
@@ -111,7 +197,7 @@ The function was callable unilaterally by the guardian address without a communi
 
 The existence of this function in a project marketed as "DeFi" — a category premised on decentralized control without admin override capability — became a central point of Sun's later legal claims. In his April 2026 federal lawsuit, Sun alleged this function constituted a concealed "trap door" that was not disclosed to investors when he made his $75 million investment. Whether the function's existence was adequately disclosed in WLFI's token documentation was not resolved in the public reporting available through the September 2025 blacklisting.
 
-**WLFI's stated justification**: Reported as concerns about "unusual on-chain activity that raised concerns about insider selling" (per CryptoPotato / Bubblemaps tracking). No formal written statement was issued by WLFI on September 4, 2025; the organization's position was communicated via social media and attributed to market observers.
+**WLFI's stated justification**: Reported as concerns about "unusual on-chain activity that raised concerns about insider selling" (per CryptoPotato / Bubblemaps tracking). WLFI did not publicly comment on the freeze on September 4. On the evening of September 5, WLFI's social media account posted: "We do not seek to blacklist anyone. We respond when alerted to malicious or high-risk activity that could harm community members" (Fortune). The "insider selling" explanation came from on-chain trackers such as Bubblemaps, not from WLFI.
 
 **Named WLFI representative**: **Zak Folkman** (WLFI co-founder) is identified in CoinDesk's September 4 reporting as a World Liberty Financial representative. Eric Trump is also mentioned in the context of WLFI's contemporaneous stablecoin announcements on the Tron network, not specifically as the blacklist decision-maker. No named individual at WLFI has been publicly attributed with personally authorizing the September 4 blacklisting in the available reporting.
 
@@ -131,7 +217,7 @@ The token's troubled launch — marked by supply allocation discrepancies (commu
 
 Sun issued multiple statements denying market-moving intent:
 
-> "Our address only conducted a few generic exchange deposit tests, with very low amounts. Without involving any buying or selling, which could not possibly have any impact on the market."
+> "[Our] address only conducted a few generic exchange deposit tests, with very low amounts, and then created address dispersion, without involving any buying or selling, which could not possibly have any impact on the market." (Sun, translated post on X, as quoted by CoinDesk)
 
 > "As one of the early investors, I joined together with everyone — we bought in the same way, and we all deserve the same rights."
 
@@ -139,7 +225,7 @@ Sun issued multiple statements denying market-moving intent:
 
 Sun also pledged publicly that he "would not sell his tokens" and said he "supported WLFI's long-term vision." He publicly appealed for his tokens to be unfrozen throughout September 2025.
 
-**Counteroffer**: Per Fortune's September 5 reporting, Sun offered WLFI **$10 million in Trump-linked public company stock plus $10 million in additional WLFI** as part of a negotiated resolution. The counteroffer was not publicly accepted.
+**Counteroffer**: Per Fortune's September 5 reporting, Sun offered to buy **$10 million worth of stock in a Trump-linked public company and another $10 million in WLFI**. The counteroffer was not publicly accepted.
 
 ## Why This Event Matters
 
@@ -162,13 +248,13 @@ This is a **documented mechanism instance** within the captured-X architecture: 
 
 ### The HTX Transfer as Leverage Signal
 
-Sun's transfer of 50 million WLFI tokens to HTX — the exchange he owns — can be read in multiple structural registers:
+Sun's transfer of 50 million WLFI tokens to HTX — an exchange with which he is closely associated — can be read in multiple structural registers:
 
 1. **Sun's stated account**: routine infrastructure testing ("exchange deposit tests")
 2. **WLFI's implicit account**: potential market manipulation / coordinated selling through a controlled exchange
-3. **Structural account**: Sun transferring WLFI tokens to his own exchange creates a liquidity optionality he did not disclose to WLFI — regardless of whether he actually sold
+3. **Structural account**: Sun transferring WLFI tokens to an exchange with which he is closely associated creates a liquidity optionality he did not disclose to WLFI — regardless of whether he actually sold
 
-The Nansen finding (no direct evidence of large-volume sales) supports Sun's stated account at the literal transaction level. The structural account — that transferring to a self-controlled exchange creates undisclosed optionality — is the WLFI concern that is harder to refute on the facts.
+The Nansen finding (no direct evidence of large-volume sales) supports Sun's stated account at the literal transaction level. The structural account — that transferring to an exchange with which he is closely associated creates undisclosed optionality — is the WLFI concern that is harder to refute on the facts.
 
 The blacklisting response to the HTX transfer also reveals WLFI's own structural concern: the Trump family's DeFi project was defending its own token price against the possibility that its largest non-Trump investor might use his exchange infrastructure to unwind a position that, at $107 million, was large enough to move the market. The freeze was both a governance action and a price-defense action — the two are inseparable.
 
@@ -179,12 +265,12 @@ The blacklisting response to the HTX transfer also reveals WLFI's own structural
 At the time of the September 4 blacklisting, Sun's full WLFI position structure was:
 
 - **$30M initial investment** (November 2024): ~2 billion WLFI at $0.015
-- **Additional $45M** (January 2025, surrounding inauguration): total stake reaches $75M / ~3 billion WLFI + 600M bonus tokens
-- **Total tokens**: approximately 3.6 billion WLFI
+- **Additional $45M** (January 2025, surrounding inauguration): total stake reaches $75M / ~3 billion WLFI (the 600M Onchain Lens reported as an unlock is the 20% unlocked at launch, not extra tokens)
+- **Total tokens**: approximately 3 billion WLFI (~3% of supply)
 - **Unlocked at launch (20%)**: approximately 595–600 million tokens
 - **Still vesting at blacklist**: approximately 2.4 billion tokens
 
-Sun's $75 million total WLFI investment — at the launch-day price of approximately $0.18 — represented a paper value of approximately **$648 million** on the total 3.6 billion token position. The unlocked 595 million at $0.18 = $107 million. The blacklisting froze the liquid 16.5% of his total position while the remaining ~83.5% continued vesting under a schedule he could no longer exercise.
+Sun's $75 million total WLFI investment — at the launch-day price of approximately $0.18 — represented a paper value of approximately **$540 million** on the total ~3 billion token position. The unlocked 595 million at $0.18 = $107 million. The blacklisting froze the liquid 16.5% of his total position while the remaining ~83.5% continued vesting under a schedule he could no longer exercise.
 
 ### The Zak Folkman and Witkoff Context
 
@@ -197,12 +283,12 @@ The September 4 blacklisting predates by seven months the April 2026 litigation 
 | Date | WLFI Price | % Change |
 |---|---|---|
 | September 1, 2025 (launch) | ~$0.20 | — |
-| September 4, 2025 (blacklist) | ~$0.18 | -10% from launch |
-| September 5, 2025 (Fortune report) | ~$0.19 | -5% from launch |
-| September 8, 2025 (one week post-launch) | ~$0.1835 | -8.25% from launch |
+| September 4, 2025 (blacklist) | ~$0.18 | -20% in 24 hours; -42% since Sept. 1 trading debut (CoinDesk) |
+| September 5, 2025 (Fortune report) | ~$0.19 | -40% since trading began Sept. 1 (Fortune, citing Binance data) |
+| September 8, 2025 (one week post-launch) | ~$0.1835 | (not comparable to the $0.20 figure; see note) |
 | December 2025 (3 months post-launch) | substantially lower | locked tokens lost ~$60M in value |
 
-The 40–42% decline from launch cited in the September 5 CoinDesk/Fortune reporting reflects the price of approximately $0.12–$0.115 at that moment, not $0.18 — suggesting the price continued declining through September 5 beyond the $0.18 blacklist-day figure. CoinGape's report of "WLFI declined 16% to $0.1835 within one day" and CoinDesk's -20% in 24 hours are consistent with a September 1 launch at $0.22–$0.23 followed by sustained price decline through September 4–5.
+The 40–42% decline cited in the September 5 CoinDesk/Fortune reporting is measured from a first-day price near $0.30 (Bitcoin.com put the Sept. 1 high at $0.3313), so the roughly $0.19 price is consistent with it; the $0.20 debut price in CryptoPotato's retrospective is the outlier. CoinGape's report of "WLFI declined 16% to $0.1835 within one day" and CoinDesk's -20% in 24 hours are consistent with a September 1 launch at $0.22–$0.23 followed by sustained price decline through September 4–5.
 
 ## Research Gaps
 

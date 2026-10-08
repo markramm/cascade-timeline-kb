@@ -4,7 +4,7 @@ id: 2025-07-04--obbba-ice-detention-appropriations-45-billion-fy2029-funding-mec
 date: '2025-07-04'
 title: OBBBA Signed — $45B ICE Detention + $29.85B Enforcement Appropriations Through FY2029 Fund $38.3B Detention Reengineering Initiative
 importance: 9
-status: confirmed
+status: reported
 tags:
   - investigation-1
   - obbba
@@ -62,6 +62,48 @@ capture_lanes:
   - Executive Power Expansion
   - Corporate Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "the Brennan Center calculates ICE has sufficient funding to operate **upwards of 135,000 detention beds** through end of FY2029 — nearly three times the ~40,000 beds at Trump's January 2025 inauguration, and approaching the entire federal prison system in scale (~159,000 BOP inmates). The 135,000 figure is a funding-ceiling projection, not an operational target stated in the DRI memo."
+  now: "the Brennan Center estimates the bill funds an expansion to approximately double immigrant detention capacity, from about 56,000 detention beds to potentially more than 100,000 (Brennan Center, July 3, 2025). When President Trump took office, ICE held fewer than 40,000 people in detention (Brennan Center, \"How ICE's Budget Boom Is Changing Immigration Detention\"). The 135,000 and ~159,000 BOP figures previously stated here are not in the cited sources."
+  why: "https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention (July 3, 2025) — 'approximately double immigrant detention capacity, from about 56,000 detention beds to potentially more than 100,000'; Brennan 'How ICE's Budget Boom' — 'fewer than 40,000 people in detention' at the inauguration (people, not beds); no 135,000 or 159,000 figure in any cited source"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The $45B detention tranche more than quadrupled ICE's prior annual detention budget (approximately $4B in FY2025), adding approximately $11.25B per year through FY2029"
+  now: "The $45B detention tranche, spread over four years, adds about $11.25B per year through FY2029 to ICE's annual detention budget, which the Brennan Center calls \"a 400% increase from last year\" (the American Immigration Council puts the increase at 265%)"
+  why: "https://www.brennancenter.org/our-work/analysis-opinion/big-budget-act-creates-deportation-industrial-complex — 'The $11.25 billion added to ICE's annual detention budget is a 400% increase from last year'; no FY2025 baseline in dollars; AIC puts the increase at 265%"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "8 large-scale detention centers (7,000–10,000 beds each, up to 60 days), 16 regional processing centers (1,000–1,500 beds each, 3–7 days)"
+  now: "8 large-scale detention centers (7,000–10,000 detainees each, average stays under 60 days), 16 regional processing centers (average daily population of 1,000–1,500 detainees, average stays of 3–7 days)"
+  why: "https://iptp-production.s3.amazonaws.com/media/documents/2026.02.13_ICE_-_Detention_Reengineering_Initiative.pdf — 'Large-Scale Detention Facilities are capable of securely and humanely housing 7,000 to 10,000 detainees for periods averaging less than 60 days'; FAQ 'Mega-center: 60 days on average'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "approximately double immigrant detention capacity, from about 56,000 detention beds to potentially more than 100,000"
+  qualifier: ""
+  span: "The bill funds an expansion to approximately double immigrant detention capacity, from about 56,000 detention beds to potentially more than 100,000."
+  url: https://www.brennancenter.org/our-work/analysis-opinion/budget-bill-massively-increases-funding-immigration-detention
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "$11.25 billion"
+  qualifier: "added to ICE's annual detention budget"
+  span: "The $11.25 billion added to ICE's annual detention budget is a 400% increase from last year."
+  url: https://www.brennancenter.org/our-work/analysis-opinion/big-budget-act-creates-deportation-industrial-complex
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: "for periods averaging less than 60 days"
+  qualifier: "Large-Scale Detention Facilities"
+  span: "Large-Scale Detention Facilities are capable of securely and humanely housing 7,000 to 10,000 detainees for periods averaging less than 60 days"
+  url: https://iptp-production.s3.amazonaws.com/media/documents/2026.02.13_ICE_-_Detention_Reengineering_Initiative.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 The One Big Beautiful Bill Act (H.R. 1), signed by President Trump on July 4, 2025, enacted the largest single immigration enforcement funding surge in U.S. history, appropriating $74.85 billion for ICE detention and enforcement through September 30, 2029. The detention tranche — $45 billion — directly funds the ICE Detention Reengineering Initiative (DRI), which ICE estimated in a February 13, 2026 internal memo would cost $38.3 billion to build 92,600 new beds.
@@ -76,11 +118,11 @@ The One Big Beautiful Bill Act (H.R. 1), signed by President Trump on July 4, 20
 | ICE enforcement and removal | **$29.85 billion** | Through September 30, 2029 | Personnel, transport, attorneys, fleet |
 | State/local reimbursements | **$3.5 billion** | Through FY2029 | Costs of immigration detention by state/local governments |
 
-The $45B detention tranche more than quadrupled ICE's prior annual detention budget (approximately $4B in FY2025), adding approximately $11.25B per year through FY2029 and making ICE the largest federal law enforcement agency by budget.
+The $45B detention tranche, spread over four years, adds about $11.25B per year through FY2029 to ICE's annual detention budget, which the Brennan Center calls "a 400% increase from last year" (the American Immigration Council puts the increase at 265%) and making ICE the largest federal law enforcement agency by budget.
 
-**The $38.3B / 92,600-bed DRI connection:** In an internal memo dated February 13, 2026, ICE's Enforcement and Removal Operations described the Detention Reengineering Initiative: 8 large-scale detention centers (7,000–10,000 beds each, up to 60 days), 16 regional processing centers (1,000–1,500 beds each, 3–7 days), and 10 existing turnkey facilities. Total estimated cost: $38.3 billion — approximately 85% of the $45B detention tranche. Target operational date: November 30, 2026; phase-target capacity: 92,600 beds.
+**The $38.3B / 92,600-bed DRI connection:** In an internal memo dated February 13, 2026, ICE's Enforcement and Removal Operations described the Detention Reengineering Initiative: 8 large-scale detention centers (7,000–10,000 detainees each, average stays under 60 days), 16 regional processing centers (average daily population of 1,000–1,500 detainees, average stays of 3–7 days), and 10 existing turnkey facilities. Total estimated cost: $38.3 billion — approximately 85% of the $45B detention tranche. Target operational date: November 30, 2026; phase-target capacity: 92,600 beds.
 
-**The 135,000-bed ceiling (Brennan Center projection):** With $45B available through FY2029, the Brennan Center calculates ICE has sufficient funding to operate **upwards of 135,000 detention beds** through end of FY2029 — nearly three times the ~40,000 beds at Trump's January 2025 inauguration, and approaching the entire federal prison system in scale (~159,000 BOP inmates). The 135,000 figure is a funding-ceiling projection, not an operational target stated in the DRI memo.
+**The 135,000-bed ceiling (Brennan Center projection):** With $45B available through FY2029, the Brennan Center estimates the bill funds an expansion to approximately double immigrant detention capacity, from about 56,000 detention beds to potentially more than 100,000 (Brennan Center, July 3, 2025). When President Trump took office, ICE held fewer than 40,000 people in detention (Brennan Center, "How ICE's Budget Boom Is Changing Immigration Detention"). The 135,000 and ~159,000 BOP figures previously stated here are not in the cited sources.
 
 **Oversight structure:** Because these funds flow through budget reconciliation — not the standard appropriations process — they carry no congressional spending directives. The full allocation has "virtually no comprehensive public accounting" per Cato (April 2026). ICE disclosed $24.8B apportioned for detention facilities across FY2025–FY2026, leaving the bulk of the $45B tranche's deployment undisclosed.
 

@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2025-11-13--discharge-petition-ripens-218-signatures-trump-pressure-fails
-date: 2025-11-13
+date: '2025-11-12'
 title: Epstein Files Discharge Petition Ripens at 218 Signatures Despite Intense Trump Pressure Campaign
 importance: 10
 tags:
@@ -48,21 +48,86 @@ sources:
   outlet: The Hill
   date: '2025-11-13'
   tier: 1
-status: confirmed
+status: reported
 capture_lanes:
 - Democratic Erosion
 - Legislative Capture
 - Executive Power Expansion
+corrections:
+- date: '2026-10-08'
+  was: "On November 13, 2025, Rep.-Elect Adelita Grijalva (D-AZ) was sworn in to the House of Representatives at 4:00 PM, becoming the"
+  now: "On November 12, 2025, Rep. Adelita Grijalva (D-AZ) was sworn in to the House of Representatives and, moments later, became the"
+  why: "https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/ ; NBC rcna231405 — CBS: Grijalva 'added her name to the petition on Wednesday, shortly after she was sworn in' (Wednesday Nov 12, 2025); no 4:00 PM time in any source. NOTE: file id still carries 2025-11-13"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "All 215 House Democrats (including Grijalva)"
+  now: "All 214 House Democrats (including Grijalva)"
+  why: "https://www.aljazeera.com/news/2025/11/13/us-house-to-vote-on-full-release-of-epstein-files-next-week-johnson-says — 'all 214 House Democrats and four House Republicans'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "A discharge petition \"ripens\" when it maintains 218 signatures through the end of a legislative day. Once ripened, the **seven legislative day countdown begins** automatically, and signatures can no longer be withdrawn without procedural complications."
+  now: "Under House Rule XV, signatures can no longer be withdrawn once a petition reaches 218. Grijalva's signature started a waiting period of seven legislative days before a member could move to bring the measure to the floor, after which leadership had two legislative days to schedule a vote (CBS News; CRS R45920)."
+  why: "https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/ ; CRS R45920 (House Rule XV cl. 2) — signatures frozen at 218; seven legislative days then two for leadership; no end-of-day survival test or 6:00 PM deadline"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "**Tuesday Evening, November 12**:\n- Trump personally called Rep. Lauren Boebert (R-CO) pressuring her to remove her signature from the discharge petition"
+  now: "**Tuesday, November 11**:\n- Trump called Rep. Lauren Boebert (R-CO) and urged her to remove her name from the discharge petition, according to two sources cited by MS NOW"
+  why: "https://www.ms.now/news/lauren-boebert-trump-epstein-discharge-petition-rcna243594 ; Axios 2025-11-12 ; https://www.cnn.com/2025/11/12/politics/trump-administration-meeting-house-effort-epstein-document-release — call was Tuesday Nov 11; Situation Room meeting Wednesday Nov 12, Trump absent; Boebert told CNN Trump did not pressure her"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Boebert [confirmed to CNN] ... The work is too important.\"**"
+  now: "Mace confirmed to CNN's Jake Tapper in a text message that she would keep her name on the petition: **\"I will never turn my back on other survivors. The work is too important. No one believes us. And we never get justice.\"** (CNN, Nov. 13, 2025). Boebert wrote on X after meeting White House officials: \"I want to thank White House officials for meeting with me today. Together, we remain committed to ensuring transparency for the American people.\" (CNN, Nov. 12, 2025)"
+  why: "https://www.cnn.com/2025/11/13/politics/epstein-trump-emails-boebert-mace-analysis ; https://www.cnn.com/politics/live-news/trump-epstein-emails-11-12-25 — the 'never turn my back on other survivors' text was Mace's, to Jake Tapper; Boebert's statement was her X post"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "- This would have meant earliest vote December 2, 2025"
+  now: "- Per CBS, this would have put the vote 'as soon as early December'"
+  why: "https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/ — 'as soon as early December' without bypass; Johnson: 'next week, as soon as we get back'; Nov 18, 2025 was a Tuesday; no source gives December 2"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "Wednesday"
+  qualifier: "added her name to the petition"
+  span: "added her name to the petition on Wednesday, shortly after she was sworn in"
+  url: https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "214"
+  qualifier: "House Democrats"
+  span: "Her co-signatories included all 214 House Democrats and four House Republicans"
+  url: https://www.aljazeera.com/news/2025/11/13/us-house-to-vote-on-full-release-of-epstein-files-next-week-johnson-says
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: attribution
+  value: "seven legislative days"
+  qualifier: "waiting period"
+  span: "Her signature on Wednesday starts the clock on a waiting period of seven legislative days before a member can motion to bring it to the floor."
+  url: https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: "I will never turn my back on other survivors"
+  qualifier: ""
+  span: "“I will never turn my back on other survivors,” she wrote in a text message"
+  url: https://www.cnn.com/2025/11/13/politics/epstein-trump-emails-boebert-mace-analysis
+  read: fetched
+  source_kind: secondary
 ---
 
-On November 13, 2025, Rep.-Elect Adelita Grijalva (D-AZ) was sworn in to the House of Representatives at 4:00 PM, becoming the **218th and final signature** needed on the Epstein Files Transparency Act discharge petition. The signature **remained valid** through the end of the legislative day despite intense pressure from the Trump administration on Republican co-signers to withdraw their signatures.
+On November 12, 2025, Rep. Adelita Grijalva (D-AZ) was sworn in to the House of Representatives and, moments later, became the **218th and final signature** needed on the Epstein Files Transparency Act discharge petition. The signature **remained valid** through the end of the legislative day despite intense pressure from the Trump administration on Republican co-signers to withdraw their signatures.
 
 ## The Successful Ripening
 
-A discharge petition "ripens" when it maintains 218 signatures through the end of a legislative day. Once ripened, the **seven legislative day countdown begins** automatically, and signatures can no longer be withdrawn without procedural complications.
+Under House Rule XV, signatures can no longer be withdrawn once a petition reaches 218. Grijalva's signature started a waiting period of seven legislative days before a member could move to bring the measure to the floor, after which leadership had two legislative days to schedule a vote (CBS News; CRS R45920).
 
-**Key moment**: By 6:00 PM EST (end of House legislative business for November 13), all 218 signatures remained on the petition:
-- All 215 House Democrats (including Grijalva)
+**Key moment**: Grijalva's signature on Wednesday, November 12 gave the petition its 218 signatures:
+- All 214 House Democrats (including Grijalva)
 - Rep. Thomas Massie (R-KY) - Lead Republican sponsor
 - Rep. Lauren Boebert (R-CO)
 - Rep. Marjorie Taylor Greene (R-GA)
@@ -72,25 +137,25 @@ A discharge petition "ripens" when it maintains 218 signatures through the end o
 
 ## Trump's Failed Pressure Campaign
 
-### Confirmed Pressure Tactics (November 12-13)
+### Confirmed Pressure Tactics (November 11-12)
 
 According to [CNN](https://www.cnn.com/2025/11/12/politics/trump-administration-meeting-house-effort-epstein-document-release), [NBC News](https://www.nbcnews.com/politics/congress/bipartisan-duo-expects-signatures-wednesday-force-vote-release-epstein-rcna231405), [CBS News](https://www.cbsnews.com/news/epstein-discharge-petition-final-signature-files-adelita-grijalva/), and [The Hill](https://thehill.com/homenews/house/5603299-house-votes-epstein-files-mike-johnson/):
 
-**Tuesday Evening, November 12**:
-- Trump personally called Rep. Lauren Boebert (R-CO) pressuring her to remove her signature from the discharge petition
+**Tuesday, November 11**:
+- Trump called Rep. Lauren Boebert (R-CO) and urged her to remove her name from the discharge petition, according to two sources cited by MS NOW
 
-**Wednesday Morning, November 13**:
+**Wednesday Morning, November 12**:
 - White House held **Situation Room meeting** with top Trump administration officials about the House effort to force Epstein file release
 
-**Wednesday Afternoon, November 13**:
-- Trump administration officials, **including FBI Director Kash Patel**, met with Boebert at the White House
+**Wednesday Afternoon, November 12**:
+- Administration officials, **including FBI Director Kash Patel**, met with Boebert in the White House Situation Room (Trump was not there), according to MS NOW and Axios
 - Attempted to convince her to remove her name from the petition
-- She was not persuaded
+- She was not persuaded; she later told CNN that Trump did not pressure her to take her name off the petition
 
-**Wednesday, November 13**:
+**Wednesday, November 12**:
 - Rep. Nancy Mace (R-SC) sent Trump a direct message outlining why she's supporting the petition
 - Her message: **"I will NEVER abandon other survivors."**
-- Mace has [spoken publicly](https://thehill.com/homenews/house/5603299-house-votes-epstein-files-mike-johnson/) about being molested at 14 and sexually assaulted at 16
+- Mace has [spoken publicly](https://www.cnn.com/politics/live-news/trump-epstein-emails-11-12-25) about being molested at 14 and sexually assaulted at 16
 
 ### Why the Pressure Failed
 
@@ -100,7 +165,7 @@ According to [CNN](https://www.cnn.com/2025/11/12/politics/trump-administration-
 - Rep. Marjorie Taylor Greene (R-GA)
 - Rep. Nancy Mace (R-SC)
 
-Boebert [confirmed to CNN](https://www.cnn.com/2025/11/12/politics/epstein-files-house-vote): **"I will never turn my back on other survivors. The work is too important."**
+Mace confirmed to CNN's Jake Tapper in a text message that she would keep her name on the petition: **"I will never turn my back on other survivors. The work is too important. No one believes us. And we never get justice."** (CNN, Nov. 13, 2025). Boebert wrote on X after meeting White House officials: "I want to thank White House officials for meeting with me today. Together, we remain committed to ensuring transparency for the American people." (CNN, Nov. 12, 2025)
 
 **Electoral calculation exceeded presidential leverage**:
 - 70%+ public support for Epstein file release (including 68% of Republicans)
@@ -114,20 +179,20 @@ Boebert [confirmed to CNN](https://www.cnn.com/2025/11/12/politics/epstein-files
 
 ## Johnson Accelerates Vote to Next Week
 
-[Speaker Mike Johnson announced Wednesday](https://www.aljazeera.com/news/2025/11/13/us-house-to-vote-on-full-release-of-epstein-files-next-week-johnson-says) the House will vote **next week** (week of November 18-22) on the Epstein Files Transparency Act.
+[Speaker Mike Johnson announced Wednesday](https://www.aljazeera.com/news/2025/11/13/us-house-to-vote-on-full-release-of-epstein-files-next-week-johnson-says) the House will vote **next week** (week of November 17-21) on the Epstein Files Transparency Act.
 
 **Why this is significant**: Johnson is **bypassing the seven-day waiting period** to accelerate the process. Under normal House rules for discharge petitions:
 - Seven legislative days must pass before a vote can be called
-- This would have meant earliest vote December 2, 2025
-- Johnson's acceleration means vote happens **2 weeks earlier**
+- Per CBS, this would have put the vote 'as soon as early December'
+- Johnson said he would put the bill on the floor 'next week, as soon as we get back'
 
 ### The Accelerated Timeline
 
-**November 13, 2025**: Discharge petition ripens with 218 signatures
+**November 12, 2025**: Discharge petition reaches 218 signatures
 
-**Week of November 18-22**: House floor vote
+**Week of November 17-21**: House floor vote
 - Likely Monday-Wednesday before Thanksgiving
-- Could be as early as Monday, November 18
+- Could be as early as the start of that week
 
 **November 22-29**: Thanksgiving recess
 

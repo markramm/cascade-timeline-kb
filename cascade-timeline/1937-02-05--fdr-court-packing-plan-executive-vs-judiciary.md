@@ -4,7 +4,7 @@ id: 1937-02-05--fdr-court-packing-plan-executive-vs-judiciary
 date: '1937-02-05'
 title: "FDR Court-Packing Plan: Executive Assault on Judicial Independence Establishes Permanent Template"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - judicial-capture
@@ -38,11 +38,27 @@ capture_lanes:
   - Executive Power Expansion
   - Judicial Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "six weeks into his second term"
+  now: "16 days into his second term (inaugurated January 20, 1937)"
+  why: "https://www.presidency.ucsb.edu/documents/message-congress-the-reorganization-the-judicial-branch-the-government (message dated February 5, 1937); FDR's second inauguration was January 20, 1937 (Senate Historical Office)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "February 05, 1937"
+  qualifier: ""
+  span: "February 05, 1937"
+  url: https://www.presidency.ucsb.edu/documents/message-congress-the-reorganization-the-judicial-branch-the-government
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-On February 5, 1937, six weeks into his second term and three months after a landslide electoral victory (523 of 531 electoral votes), President Franklin D. Roosevelt sent Congress a proposal to reorganize the federal judiciary. The Judicial Procedures Reform Bill would have authorized the President to appoint an additional Supreme Court justice for every sitting justice over age 70 who declined to retire — up to a maximum of 15 total justices. Had the plan been enacted, Roosevelt would immediately have been able to appoint six new justices, guaranteeing a New Deal majority on a Court that had struck down eight New Deal statutes between 1935 and 1936, including the NIRA [[1935-05-27--black-monday-supreme-court-strikes-down-nira]], the AAA, and the Bituminous Coal Act. The plan failed — Congress rejected it 70-20 in the Senate on July 22, 1937 [[1937-07-22--senate-defeats-court-packing-plan]] — but the political dynamics it unleashed permanently restructured the executive-judicial relationship. The "switch in time" (Justice Owen Roberts's sudden rightward-to-leftward pivot in *West Coast Hotel* [[1937-03-29--west-coast-hotel-v-parrish-switch-in-time-upholds-minimum-wage]] and *NLRB v. Jones & Laughlin Steel* [[1937-04-12--nlrb-v-jones-laughlin-steel-supreme-court-upholds-wagner-act]]) is the single most dramatic demonstration of executive pressure on judicial doctrine in American history.
+On February 5, 1937, 16 days into his second term (inaugurated January 20, 1937) and three months after a landslide electoral victory (523 of 531 electoral votes), President Franklin D. Roosevelt sent Congress a proposal to reorganize the federal judiciary. The Judicial Procedures Reform Bill would have authorized the President to appoint an additional Supreme Court justice for every sitting justice over age 70 who declined to retire — up to a maximum of 15 total justices. Had the plan been enacted, Roosevelt would immediately have been able to appoint six new justices, guaranteeing a New Deal majority on a Court that had struck down eight New Deal statutes between 1935 and 1936, including the NIRA [[1935-05-27--black-monday-supreme-court-strikes-down-nira]], the AAA, and the Bituminous Coal Act. The plan failed — Congress rejected it 70-20 in the Senate on July 22, 1937 [[1937-07-22--senate-defeats-court-packing-plan]] — but the political dynamics it unleashed permanently restructured the executive-judicial relationship. The "switch in time" (Justice Owen Roberts's sudden rightward-to-leftward pivot in *West Coast Hotel* [[1937-03-29--west-coast-hotel-v-parrish-switch-in-time-upholds-minimum-wage]] and *NLRB v. Jones & Laughlin Steel* [[1937-04-12--nlrb-v-jones-laughlin-steel-supreme-court-upholds-wagner-act]]) is the single most dramatic demonstration of executive pressure on judicial doctrine in American history.
 
 ## What Happened / Key Facts
 

@@ -4,7 +4,7 @@ id: 2026-08-06--geo-3550-teshome-state-charges-dismissed-federal-grand-jury-subp
 date: '2026-08-06'
 title: "State Embezzlement Case Against Michigan Graduate Union President Hiab Teshome Dismissed — Federal Grand Jury Subpoena to Her Union Signed the Same Day"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - ypsilanti
   - ann-arbor
@@ -46,17 +46,17 @@ sources:
   - title: "Judge Throws Out 'Political Prosecution' of Pro-Palestinian University of Michigan Student"
     url: https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out
     publisher: "Drop Site News"
-    date: '2026-08-14'
+    date: '2026-08-17'
     tier: 2
   - title: "The U.S. government is going after a Michigan labor union over its Palestine activism"
     url: https://mondoweiss.net/2026/09/the-u-s-government-is-going-after-a-michigan-labor-union-over-its-palestine-activism/
     publisher: Mondoweiss
-    date: '2026-09-01'
+    date: '2026-09-10'
     tier: 3
   - title: "Feds demand GEO membership, financial records in subpoena"
     url: https://www.michigandaily.com/news/news-briefs/feds-demand-geo-membership-financial-records-in-subpoena/
     publisher: The Michigan Daily
-    date: '2026-09-01'
+    date: '2026-09-09'
     tier: 1
   - title: "Walker v. Board of Regents of University of Michigan, Case No. 2:26-cv-11674 (E.D. Mich.), docket"
     url: https://www.courtlistener.com/docket/73374052/walker-v-board-of-regents-of-university-of-michigan/
@@ -76,6 +76,35 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Per GEO's own account and a Michigan Daily report independent of ... that release,"
+  now: "Per GEO's own account, as reported by The Michigan Daily (Sept. 9, 2026, which rests on the union's statement and on GEO communications chair Natalie Chen), and the subpoena Mondoweiss published,"
+  why: "https://www.michigandaily.com/news/news-briefs/feds-demand-geo-membership-financial-records-in-subpoena/ — byline/published Sept 9, 2026; relays the union's Aug 26 statement and GEO communications chair Natalie Chen; Correction 9/9 note"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Drop Site's article body text said August 7; GEO's own ... said August 6;"
+  now: "Drop Site's article (Aug. 17, 2026) said the judge dismissed the charges on August 7; GEO's own release (Aug. 14) and Mondoweiss (Sept. 10, 2026) said August 6;"
+  why: "https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out — Aug 17, 2026; one dismissal date (Aug 7); GEO release Aug 14 and Mondoweiss Sept 10 say Aug 6"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "Natalie Chen"
+  qualifier: "GEO communications chair"
+  span: "Rackham student Natalie Chen, GEO communications chair, said the subpoena was signed the same day the charges against GEO President Hiab Teshome by the University were dismissed by a judge."
+  url: https://www.michigandaily.com/news/news-briefs/feds-demand-geo-membership-financial-records-in-subpoena/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "August 7"
+  qualifier: "a judge dismissed"
+  span: "the charges, which a judge dismissed on August 7"
+  url: https://www.dropsitenews.com/p/university-michigan-eli-savit-student-pro-palestine-felony-charges-thrown-out
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -84,8 +113,7 @@ coverage: []
 dismissed.** On August 6, 2026, a Washtenaw County judge dismissed both felony counts against
 Teshome — president of the Graduate Employees' Organization (GEO), AFT Local 3550, the University of
 Michigan's graduate-worker union — in **State of Michigan v. Teshome, Case No. 2026-26F5-5599-FY**
-(15th District Court, Ann Arbor). Per GEO's own account and a Michigan Daily report independent of
-that release, a **federal grand jury subpoena to GEO itself was signed that same day** by DOJ
+(15th District Court, Ann Arbor). Per GEO's own account, as reported by The Michigan Daily (Sept. 9, 2026, which rests on the union's statement and on GEO communications chair Natalie Chen), and the subpoena Mondoweiss published, a **federal grand jury subpoena to GEO itself was signed that same day** by DOJ
 attorney Margaret ("Maggie") Smith and FBI Detroit agent Kara Phipps — the same AUSA who has
 prosecuted the "Michigan 8" indictment, [[2026-06-10--ypsilanti-raid-eight-defendant-federal-indictment-unsealed]],
 continuously since its unsealing. The subpoena was not served until August 26, 2026, and demands
@@ -133,8 +161,7 @@ MiCOURT case search, not from any party's or outlet's characterization):
   Research Gaps.
 
 **Resolving the reported date conflict.** The task that produced this entry flagged three
-inconsistent dates across secondary reporting: Drop Site's article body text said August 7; GEO's own
-release and a second Drop Site passage said August 6; Mondoweiss described the subpoena as signed
+inconsistent dates across secondary reporting: Drop Site's article (Aug. 17, 2026) said the judge dismissed the charges on August 7; GEO's own release (Aug. 14) and Mondoweiss (Sept. 10, 2026) said August 6; Mondoweiss described the subpoena as signed
 "the same day," August 6. **The court's own register of actions gives 08/06/2026 as both the
 disposition date on each count and the case's closed date.** August 6 is correct; Drop Site's August
 7 reference is a reporting error — and the register shows exactly what it is: the LEIN-removal
@@ -152,8 +179,7 @@ one GEO press release — the court docket is an independent, primary confirmati
 
 ## Tier 1/2 — the subpoena
 
-GEO's own account, corroborated independently by The Michigan Daily's September 1, 2026 news brief
-(student-paper reporting, not a GEO-release recirculation):
+GEO's own account (statement of Sept. 9, 2026), reported by The Michigan Daily's September 9, 2026 news brief. That brief rests on the union statement and spokesperson Natalie Chen, so it is not independent corroboration. Mondoweiss (Sept. 10, 2026) published the subpoena, "marked August 6, 2026"; with the court register's 08/06/2026 dismissal, that published subpoena is the non-GEO support for the same-day finding:
 
 - A federal grand jury subpoena to GEO Local 3550 was **issued/signed by DOJ attorney Margaret
   ("Maggie") Smith and FBI Detroit agent Kara Phipps**, dated **August 6, 2026** per Mondoweiss.

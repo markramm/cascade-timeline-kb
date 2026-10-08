@@ -3,9 +3,9 @@ type: timeline_event
 id: 2022-05-19--cpac-hungary-budapest-first-export
 date: '2022-05-19'
 date_range: '2022-2025'
-title: "First CPAC Outside the US Convenes in Budapest: Hungary-Paradigm Becomes Operational US-Right Infrastructure"
+title: "First CPAC in Europe Convenes in Budapest: Hungary-Paradigm Becomes Operational US-Right Infrastructure"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - cpac-hungary
   - orban
@@ -118,11 +118,107 @@ capture_lanes:
   - Democratic Erosion
   - Theological Legitimation
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "held its first-ever event outside the United States at the Bálna"
+  now: "held its first event in Europe (Salon: \"the first Conservative Political Action Conference (CPAC) to be held in Europe\"), after earlier international CPACs in Japan (2017), Australia (2019) and Brazil (2019), at the Bálna"
+  why: "https://www.salon.com/2022/05/20/cpac-hungary-day-1-conservatives-embrace-plan-for-vast-right-wing-conspiracy/ — 'the first ... CPAC to be held in Europe'; CPAC Japan 2017, Australia and Brazil 2019 came earlier"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "sent a video from his former Fox studio, joking:"
+  now: "sent a pre-recorded video that, per Newsweek, appears to have been filmed in his old Fox News studio before his departure; it was shown on the first day of the event (May 4, 2023), ten days after he left Fox News, and included the line:"
+  why: "https://www.newsweek.com/tucker-carlson-fired-cpac-hungary-fox-news-1798303 — video played Thursday May 4, 2023, first day; Carlson left Fox April 24; appeared filmed in old Fox studio before his departure"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "**\"Only my friend Tucker Carlson places himself on the line without wavering. Programs like his should run day and night. As you say, 24-7.\"**"
+  now: "**\"Only friend Tucker Carlson places himself on the line without wavering. ... His program is the most watched. What does it mean? It means programs like his should be broadcasted day and night. Or as you say 24/7.\"** (CNN's translation, as reported by The Hill; the Visegrád Post transcript renders the passage: \"My friend Tucker Carlson stands alone and immovable. His show has the highest audience figures. What does this mean? It means that there should be shows like his day and night, or, as you say, 24/7.\")"
+  why: "https://visegradpost.com/en/2022/05/24/viktor-orbans-speech-at-the-cpac-on-19-may-2022/ ; The Hill via Yahoo News 2022-05-23 (CNN translation) — original quote conflated translations and dropped sentences without ellipsis"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "concurrent with the approximately $1.3 billion government endowment transfer (a 10% MOL oil stake, Gedeon Richter pharmaceutical stake, and €462 million in cash)."
+  now: "the same year the Fidesz government gave it a 10 percent stake each in MOL and Gedeon Richter, together valued at $1.3 billion, plus $462 million in cash and $9 million in property (DeSmog)."
+  why: "https://www.desmog.com/mathias-corvinus-collegium-mcc/ — '$1.3 billion' is the value of the MOL and Gedeon Richter stakes; $462 million cash and $9 million property are additional, in dollars"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Heritage President Kevin Roberts characterized Orbán's governance as \"a model for conservative governance.\" Heritage and MCC co-hosted a geopolitical summit in October 2023."
+  now: "In a March 19, 2024 statement, Heritage President Kevin Roberts called Orbán's leadership \"a model for conservative governance\" (Heritage Foundation). Heritage and the Danube Institute, a think tank funded by the Hungarian government, co-hosted the Third Danube Geopolitical Summit in Budapest on September 21–22, 2023 (U.S. Embassy Hungary; GPAHE). MCC has invited Heritage figures, including Roberts, to speak at multiple events (DeSmog)."
+  why: "https://www.heritage.org/press/correcting-the-record-heritages-relationship-hungary (Mar 19, 2024); US Embassy Hungary / GPAHE — the 2023 summit was Heritage + Danube Institute, Sept 21-22; DeSmog cited page supports neither sentence"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Christopher Rufo (anti-CRT activist; MCC Feszt speaker 2024); Patrick Deneen (Notre Dame political theorist; recurring MCC Feszt speaker 2022–2025; his *Regime Change* 2023 explicitly cites Hungary's higher-education restructuring); "
+  now: ""
+  why: "https://mcc.hu/en/organisation/visiting-fellows ; https://mcc.hu/en/organisation/guest-speakers — roster lists Dreher, Mac Donald, Boghossian; Deneen is a 'guest speaker'; Rufo has an MCC Feszt performer page, no year"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "celebrating Orbán as \"a great leader\" and identifying his victories as a model for 2022 and 2024."
+  now: "celebrating Orbán as \"a great leader\" with whom he is \"very close\" (MSNBC/Maddow Blog). He praised Orbán's \"very big election result\" and said he was \"very honored to have endorsed him\" (Rolling Stone, May 20, 2022)."
+  why: "https://www.ms.now/rachel-maddow-show/maddowblog/cpac-key-conservative-gathering-was-held-orbans-hungary-rcna30086 ; Rolling Stone 2022-05-20 — no source says Trump called Orbán's victories a model for 2022 and 2024"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the event drew approximately 1,000 attendees including"
+  now: "the event drew hundreds of attendees, selected by the organizers (Centro Machiavelli, May 24, 2022), including"
+  why: "Centro Machiavelli 2022-05-24 ('Hundreds were in attendance, selected by the organizers'); Visegrád Post 2023-05-09 (Maréchal gala was CPAC Hungary 2023); no source gives ~1,000"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "\"What is the difference between the denial of science by the extreme right and the denial of biology by LGBTQ movements? There is no difference whatsoever.\""
+  now: "\"[W]hat is the difference between the denial of science by the extreme right and the denial of biology by LGBTQ movements? The answer is simple: there is no difference whatsoever.\""
+  why: "https://visegradpost.com/en/2022/05/24/viktor-orbans-speech-at-the-cpac-on-19-may-2022/ — points 7 and 9 verbatim; original dropped 'The answer is simple:' and the end of point 9 without ellipsis"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "to be held in Europe"
+  qualifier: ""
+  span: "the first Conservative Political Action Conference (CPAC) to be held in Europe"
+  url: https://www.salon.com/2022/05/20/cpac-hungary-day-1-conservatives-embrace-plan-for-vast-right-wing-conspiracy/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "April 24"
+  qualifier: "left his Fox News show"
+  span: "Tucker left his Fox News show on April 24."
+  url: https://www.newsweek.com/tucker-carlson-fired-cpac-hungary-fox-news-1798303
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: "there should be shows like his day and night"
+  qualifier: ""
+  span: "My friend Tucker Carlson stands alone and immovable. His show has the highest audience figures. What does this mean? It means that there should be shows like his day and night, or, as you say, 24/7."
+  url: https://visegradpost.com/en/2022/05/24/viktor-orbans-speech-at-the-cpac-on-19-may-2022/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: figure
+  value: "$1.3 billion"
+  qualifier: ""
+  span: "with a combined value of $1.3 billion"
+  url: https://www.desmog.com/mathias-corvinus-collegium-mcc/
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: quote
+  value: "a great leader"
+  qualifier: "video"
+  span: "appeared via prerecorded video to celebrate Orbán as \"a great leader\" with whom the former American president is \"very close.\""
+  url: https://www.ms.now/rachel-maddow-show/maddowblog/cpac-key-conservative-gathering-was-held-orbans-hungary-rcna30086
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: quote
+  value: "The answer is simple: there is no difference whatsoever."
+  qualifier: ""
+  span: "The answer is simple: there is no difference whatsoever."
+  url: https://visegradpost.com/en/2022/05/24/viktor-orbans-speech-at-the-cpac-on-19-may-2022/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Overview
 
-On May 19–20, 2022, the Conservative Political Action Conference (CPAC) held its first-ever event outside the United States at the Bálna Budapest cultural center on the Danube. Co-organized by the American Conservative Union (ACU, chaired by Matt Schlapp) and the Center for Fundamental Rights (Alapjogokért Központ, headed by Miklós Szánthó — a Fidesz-aligned Hungarian think tank), the event drew approximately 1,000 attendees including US Republican officials, European nationalist-right politicians, and Hungarian government figures. The event is not merely a conference with an unusual venue. It is the public, institutional, and rhetorical moment at which the Hungarian illiberal-democracy playbook **became operational US-right infrastructure** — moving from niche post-liberal intellectual reference to mainstream GOP platform event, co-organized by the same organization that runs CPAC Dallas.
+On May 19–20, 2022, the Conservative Political Action Conference (CPAC) held its first event in Europe (Salon: "the first Conservative Political Action Conference (CPAC) to be held in Europe"), after earlier international CPACs in Japan (2017), Australia (2019) and Brazil (2019), at the Bálna Budapest cultural center on the Danube. Co-organized by the American Conservative Union (ACU, chaired by Matt Schlapp) and the Center for Fundamental Rights (Alapjogokért Központ, headed by Miklós Szánthó — a Fidesz-aligned Hungarian think tank), the event drew hundreds of attendees, selected by the organizers (Centro Machiavelli, May 24, 2022), including US Republican officials, European nationalist-right politicians, and Hungarian government figures. The event is not merely a conference with an unusual venue. It is the public, institutional, and rhetorical moment at which the Hungarian illiberal-democracy playbook **became operational US-right infrastructure** — moving from niche post-liberal intellectual reference to mainstream GOP platform event, co-organized by the same organization that runs CPAC Dallas.
 
 ## What Happened — The Event
 
@@ -130,11 +226,11 @@ On May 19–20, 2022, the Conservative Political Action Conference (CPAC) held i
 
 **Keynote: Viktor Orbán, May 19.** Orbán opened the conference with the most operationally specific speech of his international career. Rather than the abstract civilizational framing of his Tusnádfürdő speeches, he delivered what he called a practical "open source" recipe: twelve points of advice for American conservatives seeking to replicate Fidesz's four consecutive supermajority election victories. The speech was delivered in Hungarian with simultaneous interpretation and published in English by the official Hungarian government portal.
 
-**Trump video message.** Donald Trump appeared by pre-recorded video, celebrating Orbán as "a great leader" and identifying his victories as a model for 2022 and 2024.
+**Trump video message.** Donald Trump appeared by pre-recorded video, celebrating Orbán as "a great leader" with whom he is "very close" (MSNBC/Maddow Blog). He praised Orbán's "very big election result" and said he was "very honored to have endorsed him" (Rolling Stone, May 20, 2022).
 
 **Tucker Carlson video address.** Carlson appeared by pre-recorded video from his Fox News studio, calling Hungary "a free and decent and beautiful country that cares about its people, their families, physical landscape. A great place." This was the formal conferral of the Fox News brand on the Budapest event, a coda to his August 2021 Budapest week.
 
-**Other speakers present.** Mark Meadows (former White House Chief of Staff); Candace Owens (US right-wing commentator); Eduardo Bolsonaro (Brazilian congressman, son of then-President Jair Bolsonaro); Santiago Abascal (leader of Spain's Vox party); Ernst Roets (Deputy CEO of South Africa's AfriForum); Jack Posobiec (US conspiracy theorist); Zsolt Bayer (Hungarian columnist with documented antisemitism); Judit Varga (Hungarian Minister of Justice); Marion Maréchal (French nationalist politician, niece of Marine Le Pen, appeared at the gala on Day 1 evening). The roster maps the transnational nationalist-right network as it existed in May 2022: US MAGA, Brazilian Bolsonarismo, Spanish Vox, French National Rally-adjacent figures, South African Afrikaner-right, and the Hungarian government itself.
+**Other speakers present.** Mark Meadows (former White House Chief of Staff); Candace Owens (US right-wing commentator); Eduardo Bolsonaro (Brazilian congressman, son of then-President Jair Bolsonaro); Santiago Abascal (leader of Spain's Vox party); Ernst Roets (Deputy CEO of South Africa's AfriForum); Jack Posobiec (US conspiracy theorist); Zsolt Bayer (Hungarian columnist with documented antisemitism); Judit Varga (Hungarian Minister of Justice). The roster maps the transnational nationalist-right network as it existed in May 2022: US MAGA, Brazilian Bolsonarismo, Spanish Vox, French National Rally-adjacent figures, South African Afrikaner-right, and the Hungarian government itself.
 
 ## The Orbán Keynote — The Twelve-Point Plan
 
@@ -148,16 +244,16 @@ The twelve points (per official Hungarian government English-language transcript
 4. **Develop independent media.** "We can only show up the insane ideas of the progressive Left if we have media that helps us." (Context: the KESMA 476-outlet consolidation, completed in Hungary in 2018, is the model for what "having media" means in practice.)
 5. **Expose opponents' intentions early.** "We expose what the Left are preparing before they even take action."
 6. **Prioritize economic results.** "People want jobs, not economic theories. People want to take a step forward in life."
-7. **Avoid extremism** — but on Orbán's terms. "What is the difference between the denial of science by the extreme right and the denial of biology by LGBTQ movements? There is no difference whatsoever." This framing simultaneously rejects neo-Nazi far-right and positions anti-transgender politics as centrist rationalism.
+7. **Avoid extremism** — but on Orbán's terms. "[W]hat is the difference between the denial of science by the extreme right and the denial of biology by LGBTQ movements? The answer is simple: there is no difference whatsoever." This framing simultaneously rejects neo-Nazi far-right and positions anti-transgender politics as centrist rationalism.
 8. **Read constantly.** "A book a day keeps the defeat away."
-9. **Maintain faith.** "If you do not believe that there will be a final reckoning...you will think you can do anything."
+9. **Maintain faith.** "If you do not believe that there will be a final reckoning and that you will be held to account for your actions before God, you will think that you can do anything that is in your power."
 10. **Build unity among conservatives.** "We should never look at what we disagree on, but instead look for our common ground."
 11. **Strengthen communities.** "There is no conservative political success without functioning communities."
 12. **Build lasting institutions.** "Politicians come and go, but institutions stay with us for generations."
 
 Point 12 is structurally the most significant for the US-right pipeline: Orbán's explicit instruction to build institutions that outlast individual politicians is the operating premise of the MCC–Heritage–CPAC institutional network. It is also the thesis of [[infrastructure-decoupling-cascade-artifacts-persisting-past-animating-cause|infrastructure decoupling]]: Fidesz-built institutions persist after Orbán's April 2026 defeat precisely because he followed his own Point 12.
 
-On Tucker Carlson specifically, Orbán said from the CPAC Hungary stage: **"Only my friend Tucker Carlson places himself on the line without wavering. Programs like his should run day and night. As you say, 24-7."** This is one of the most quoted passages from the speech in contemporaneous US media coverage and establishes the Orbán–Carlson relationship as the bilateral relationship between the Hungarian government and US conservative media that the Budapest week of August 2021 prefigured.
+On Tucker Carlson specifically, Orbán said from the CPAC Hungary stage: **"Only friend Tucker Carlson places himself on the line without wavering. ... His program is the most watched. What does it mean? It means programs like his should be broadcasted day and night. Or as you say 24/7."** (CNN's translation, as reported by The Hill; the Visegrád Post transcript renders the passage: "My friend Tucker Carlson stands alone and immovable. His show has the highest audience figures. What does this mean? It means that there should be shows like his day and night, or, as you say, 24/7.") This is one of the most quoted passages from the speech in contemporaneous US media coverage and establishes the Orbán–Carlson relationship as the bilateral relationship between the Hungarian government and US conservative media that the Budapest week of August 2021 prefigured.
 
 On the institutional mission: **"We have to take back the institutions in Washington and Brussels."** This line — delivered in Budapest, by a sitting head of government, at a conference co-organized by the leading US conservative activist organization — is the operational summary of the export pipeline.
 
@@ -171,13 +267,13 @@ Orbán himself characterized the value: after the broadcasts, Orbán publicly st
 
 ## The Pipeline Established: CPAC Hungary II, III, and the MCC–Heritage Collaboration
 
-**CPAC Hungary II (May 4–5, 2023, Budapest).** The second annual conference featured Kari Lake (US Republican politician), Tom Van Grieken (Vlaams Belang, Belgium), Eduardo Bolsonaro, former Czech PM Andrej Babiš, and Marion Maréchal as gala speaker. Tucker Carlson — by then departed from Fox News (fired April 24, 2023) — sent a video from his former Fox studio, joking: "If I ever get fired and have some time and can leave, I will be there with you." The joke landed three days after he actually was fired, making it inadvertently prescient and giving the Budapest-Carlson axis new circulation in US media.
+**CPAC Hungary II (May 4–5, 2023, Budapest).** The second annual conference featured Kari Lake (US Republican politician), Tom Van Grieken (Vlaams Belang, Belgium), Eduardo Bolsonaro, former Czech PM Andrej Babiš, and Marion Maréchal as gala speaker. Tucker Carlson — by then departed from Fox News (fired April 24, 2023) — sent a pre-recorded video that, per Newsweek, appears to have been filmed in his old Fox News studio before his departure; it was shown on the first day of the event (May 4, 2023), ten days after he left Fox News, and included the line: "If I ever get fired and have some time and can leave, I will be there with you." The video gave the Budapest-Carlson axis new circulation in US media.
 
 **CPAC Hungary III (April 25–26, 2024, Budapest).** Orbán delivered the keynote again; US speakers included Senator Markwayne Mullin and Congressman Andy Harris; European speakers included Geert Wilders (Netherlands, PVV) and Santiago Abascal (Spain, Vox). The event adopted "Wokebusters" as an explicit branding — connecting US culture-war framing directly to the authoritarian governance project. Paul Gosar and Andy Harris signed conference documents. The three-year series established Budapest as a permanent node in the ACU event calendar.
 
-**Mathias Corvinus Collegium visiting fellows program (2020–2025).** MCC launched its formal visiting fellowship program in 2020, concurrent with the approximately $1.3 billion government endowment transfer (a 10% MOL oil stake, Gedeon Richter pharmaceutical stake, and €462 million in cash). Visiting fellows with documented US conservative connections include: Rod Dreher (senior editor, *The American Conservative*; moved to Budapest as MCC/Danube Institute fellow in 2022); Christopher Rufo (anti-CRT activist; MCC Feszt speaker 2024); Patrick Deneen (Notre Dame political theorist; recurring MCC Feszt speaker 2022–2025; his *Regime Change* 2023 explicitly cites Hungary's higher-education restructuring); Heather Mac Donald (Manhattan Institute); Peter Boghossian (philosopher, Founding Member of University of Austin). MCC operates offices in Brussels (launched November 2022) and has co-published reports with Heritage Foundation-aligned organizations proposing to dismantle the European Commission's current architecture.
+**Mathias Corvinus Collegium visiting fellows program (2020–2025).** MCC launched its formal visiting fellowship program in 2020, the same year the Fidesz government gave it a 10 percent stake each in MOL and Gedeon Richter, together valued at $1.3 billion, plus $462 million in cash and $9 million in property (DeSmog). Visiting fellows with documented US conservative connections include: Rod Dreher (senior editor, *The American Conservative*; moved to Budapest as MCC/Danube Institute fellow in 2022); Heather Mac Donald (Manhattan Institute); Peter Boghossian (philosopher, Founding Member of University of Austin) (mcc.hu visiting-fellows page). MCC lists Notre Dame political theorist Patrick Deneen among its guest speakers, and anti-CRT activist Christopher Rufo has appeared as an MCC Feszt speaker (mcc.hu; mccfeszt.hu), but neither is on the visiting-fellows roster. MCC operates offices in Brussels (launched November 2022) and has co-published reports with Heritage Foundation-aligned organizations proposing to dismantle the European Commission's current architecture.
 
-**Heritage Foundation–MCC collaboration arc.** Heritage President Kevin Roberts characterized Orbán's governance as "a model for conservative governance." Heritage and MCC co-hosted a geopolitical summit in October 2023. Staff from both organizations began regularly participating in each other's events following Roberts' ascent to the Heritage presidency. MCC Brussels co-published a 2025 report with Polish think tank Ordo Iuris — presented at a Heritage Foundation summit in Washington — proposing to dismantle the European Commission and Court of Justice and rename the European Union. The Heritage–MCC link matters at the Project 2025 level: Heritage authored *Mandate for Leadership* (the Project 2025 governance blueprint), and the MCC visiting-fellowship network is running adjacent intellectual traffic feeding the same executive-branch policy pipeline.
+**Heritage Foundation–MCC collaboration arc.** In a March 19, 2024 statement, Heritage President Kevin Roberts called Orbán's leadership "a model for conservative governance" (Heritage Foundation). Heritage and the Danube Institute, a think tank funded by the Hungarian government, co-hosted the Third Danube Geopolitical Summit in Budapest on September 21–22, 2023 (U.S. Embassy Hungary; GPAHE). MCC has invited Heritage figures, including Roberts, to speak at multiple events (DeSmog). Staff from both organizations began regularly participating in each other's events following Roberts' ascent to the Heritage presidency. MCC Brussels co-published a 2025 report with Polish think tank Ordo Iuris — presented at a Heritage Foundation summit in Washington — proposing to dismantle the European Commission and Court of Justice and rename the European Union. The Heritage–MCC link matters at the Project 2025 level: Heritage authored *Mandate for Leadership* (the Project 2025 governance blueprint), and the MCC visiting-fellowship network is running adjacent intellectual traffic feeding the same executive-branch policy pipeline.
 
 ## Structural Significance: The Hungary-Paradigm Goes Operational
 
@@ -201,7 +297,7 @@ This is the moment classified in the [[infrastructure-decoupling-cascade-artifac
 - [ ] Steve Bannon's specific role at CPAC Hungary I — he is listed in the task's actors list but his confirmed attendance or address at the May 2022 event (as distinct from his broader involvement in the Hungary export pipeline) requires verification at primary-source tier
 - [ ] MCC visiting fellows program budget and total fellows count 2020–2025 — the $1.3B endowment is confirmed; the portion allocated to the visiting fellows program specifically is not broken out in public records
 - [ ] Heritage–MCC formal partnership agreement terms — the collaboration is confirmed at DIRECT (co-hosted summit, co-published reports); whether a formal signed MOU exists has not been confirmed
-- [ ] Marion Maréchal's specific remarks at the CPAC Hungary 2022 gala — her presence is confirmed; her speech content at this specific event has not been retrieved at primary-source tier
+- [ ] Whether Marion Maréchal appeared at CPAC Hungary 2022 — her gala appearance is documented at CPAC Hungary 2023 (Visegrád Post, 2023-05-09); no source located places her at the 2022 event
 
 ## Related Entries
 

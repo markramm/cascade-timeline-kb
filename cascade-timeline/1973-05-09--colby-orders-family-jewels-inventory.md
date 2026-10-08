@@ -2,9 +2,9 @@
 type: timeline_event
 id: 1973-05-09--colby-orders-family-jewels-inventory
 date: '1973-05-09'
-title: Acting DCI Schlesinger Orders CIA "Family Jewels" Internal Inventory of Illegal Activities
+title: "DCI Schlesinger Orders CIA \"Family Jewels\" Internal Inventory of Activities Outside the Agency's Charter"
 importance: 9
-status: confirmed
+status: reported
 actors:
   - James R. Schlesinger
   - William Colby
@@ -36,6 +36,40 @@ sources:
 capture_lanes:
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Context: Schlesinger assumed DCI office February 2, 1973"
+  now: "Context: Schlesinger (the confirmed DCI, not an acting one) assumed office February 2, 1973"
+  why: "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/ — 'Schlesinger commissioned the family jewels compilation with a May 9, 1973 directive ... drafted by deputy director for operations William Colby'; Schlesinger was the confirmed DCI (Feb 2-Jul 2, 1973), not acting. NOTE: file id still reads colby-orders-..."
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Schlesinger's brief 6-month tenure coincided with early Watergate revelations including the June 1972 \"smoking gun\" meeting ([[1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction]]) in which Nixon ordered CIA assistance in obstructing the FBI Watergate investigation — an episode that exposed CIA complicity in domestic political operations."
+  now: "Schlesinger commissioned the compilation after learning that Watergate burglars E. Howard Hunt and James McCord, both veteran CIA officers, had had cooperation from the Agency as they carried out \"dirty tricks\" for President Nixon (National Security Archive, EBB 222). (The June 23, 1972 \"smoking gun\" conversation [[1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction]] pre-dated his tenure and became public in August 1974.)"
+  why: "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/ — Schlesinger commissioned the compilation 'after finding out that Watergate burglars E. Howard Hunt and James McCord ... had cooperation from the Agency'; the June 23, 1972 tape pre-dates his tenure and was released Aug 5, 1974"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "In January 1975 Colby provides briefings to the Rockefeller Commission and Church Committee that reveal substantial portions."
+  now: "On December 31, 1974 Colby briefed Deputy Attorney General Laurence Silberman, on January 3, 1975 he briefed President Ford (National Security Archive, EBB 222), and on January 15, 1975 he testified about the Hersh allegations before the Senate Appropriations and Armed Services intelligence subcommittees (FRUS 1969-76, vol. XXXVIII part 2, doc. 28)."
+  why: "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/ — Colby briefed Deputy AG Silberman Dec 31, 1974 and President Ford Jan 3, 1975; FRUS 1969-76 v38p2 doc 28 — Colby testified Jan 15, 1975 to the Senate Appropriations and Armed Services intelligence subcommittees; the Rockefeller Commission was established Jan 4, 1975 and the Church Committee Jan 27, 1975"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "Schlesinger commissioned the 'family jewels' compilation with a May 9, 1973 directive"
+  qualifier: ""
+  span: "Then-CIA director Schlesinger commissioned the \"family jewels\" compilation with a May 9, 1973 directive"
+  url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "January 3, 1975"
+  qualifier: "briefed Ford"
+  span: "the memorandum of conversation when the CIA first briefed President Gerald Ford on the scandal on January 3, 1975"
+  url: https://nsarchive2.gwu.edu/NSAEBB/NSAEBB222/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
@@ -44,7 +78,7 @@ CIA Director James Schlesinger issues a memorandum on May 9, 1973 directing ever
 
 ## What Happened / Key Facts
 
-Context: Schlesinger assumed DCI office February 2, 1973, following Richard Helms's departure. Schlesinger's brief 6-month tenure coincided with early Watergate revelations including the June 1972 "smoking gun" meeting ([[1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction]]) in which Nixon ordered CIA assistance in obstructing the FBI Watergate investigation — an episode that exposed CIA complicity in domestic political operations.
+Context: Schlesinger (the confirmed DCI, not an acting one) assumed office February 2, 1973, following Richard Helms's departure. Schlesinger commissioned the compilation after learning that Watergate burglars E. Howard Hunt and James McCord, both veteran CIA officers, had had cooperation from the Agency as they carried out "dirty tricks" for President Nixon (National Security Archive, EBB 222). (The June 23, 1972 "smoking gun" conversation [[1972-06-23--smoking-gun-tape-nixon-orders-fbi-obstruction]] pre-dated his tenure and became public in August 1974.)
 
 Schlesinger's May 9 memo ordered:
 
@@ -63,7 +97,7 @@ The resulting "Family Jewels" compilation included:
 - **Surveillance of U.S. journalists** (1963, 1971-1972) — Jack Anderson and Victor Marchetti among those surveilled on U.S. soil.
 - **Assistance to domestic police departments** including Nixon's "Plumbers" unit, to whom CIA had provided technical support and false identity documents.
 
-Colby — promoted to DCI September 4, 1973, after Schlesinger moved to Defense — inherited the Family Jewels document. In January 1975 Colby provides briefings to the Rockefeller Commission and Church Committee that reveal substantial portions.
+Colby — promoted to DCI September 4, 1973, after Schlesinger moved to Defense — inherited the Family Jewels document. On December 31, 1974 Colby briefed Deputy Attorney General Laurence Silberman, on January 3, 1975 he briefed President Ford (National Security Archive, EBB 222), and on January 15, 1975 he testified about the Hersh allegations before the Senate Appropriations and Armed Services intelligence subcommittees (FRUS 1969-76, vol. XXXVIII part 2, doc. 28).
 
 ## Why This Event Matters
 

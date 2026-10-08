@@ -2,9 +2,9 @@
 type: timeline_event
 id: 2026-05-06--wltc-occ-charter-pre-decision-baseline
 date: '2026-05-06'
-title: "Pre-decision baseline: OCC 120-day decision window for WLTC Holdings national trust bank charter expires May 7, 2026 with no decision announced"
+title: "Pre-decision baseline: WLTC Holdings national trust bank charter application (dated January 5, 2026) still pending at the OCC on May 6, 2026 with no decision announced"
 importance: 7
-status: confirmed
+status: reported
 tags:
   - investigation-4
   - wlfi
@@ -41,7 +41,7 @@ sources:
     publisher: Office of the Comptroller of the Currency
     date: '2026-01-07'
     tier: 1
-  - title: "Coinbase Receives Conditional OCC Approval for National Trust Bank Charter (April 2 conditional approval; precedent for the 120-day target)"
+  - title: "Coinbase Receives Conditional OCC Approval for National Trust Bank Charter (filed October 3, 2025; conditionally approved April 2, 2026, about six months later)"
     url: https://www.americanbanker.com/news/coinbase-receives-conditional-approval-for-occ-trust-charter
     publisher: American Banker
     date: '2026-04-02'
@@ -85,17 +85,59 @@ coverage:
     title: "Caesar's Stablecoin?"
     date: '2026-06-14'
     publication: second-sermon
+corrections:
+- date: '2026-10-08'
+  was: "(April 2 conditional approval; precedent for the 120-day target)"
+  now: "(filed October 3, 2025; conditionally approved April 2, 2026, about six months later)"
+  why: "https://www.americanbanker.com/news/coinbase-receives-conditional-approval-for-occ-trust-charter — 'Coinbase initially filed its national trust charter application to the OCC on Oct. 3'; conditional approval April 2, 2026 (~181 days); Circle applied June 30, 2025, approved Dec 12, 2025 (~165 days)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the OCC's stated 120-day decision target from the January 7, 2026 filing expires on or about **May 7, 2026** (tomorrow)"
+  now: "the OCC's stated goal of deciding complete charter applications within 120 days (the OCC has not said when WLTC's application became complete) would, counted from the application's January 5, 2026 date, fall on about **May 5, 2026**"
+  why: "https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/world-liberty-trust-company.pdf — cover: 'APPLICATION ... to organize WORLD LIBERTY TRUST COMPANY, NATIONAL ASSOCIATION, January 5, 2026'; Jan 7 is World Liberty Financial's BusinessWire announcement; the 120-day goal runs from a complete application and the OCC has not said when WLTC's was complete"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "a $3.3+ billion stablecoin operated by a company 75% owned by the sitting president's family becomes"
+  now: "a dollar stablecoin (USD1) issued by World Liberty Financial, a company \"founded and run by President Trump's family in conjunction with\" Zach Witkoff, Zachary Folkman and Chase Herro, 49% of which UAE-linked companies bought from the Trump and Witkoff families (Reed/Kim release, Feb. 27, 2026), becomes"
+  why: "https://www.reed.senate.gov/news/releases/reed-and-kim-demand-public-disclosure-of-world-liberty-financials-beneficial-owners — Reed/Kim release: WLF 'founded and run by President Trump's family in conjunction with' Witkoff, Folkman, Herro; UAE-linked companies 'purchased 49%'; no 75% or $3.3B figure; American Banker Jan 2026: Warren 'The OCC's review is a sham'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "Oct. 3"
+  qualifier: "Coinbase filed"
+  span: "Coinbase initially filed its national trust charter application to the OCC on Oct. 3"
+  url: https://www.americanbanker.com/news/coinbase-receives-conditional-approval-for-occ-trust-charter
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: date
+  value: "January 5, 2026"
+  qualifier: ""
+  span: "to organize WORLD LIBERTY TRUST COMPANY, NATIONAL ASSOCIATION, January 5, 2026"
+  url: https://www.occ.treas.gov/topics/charters-and-licensing/digital-assets-licensing-applications/world-liberty-trust-company.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "founded and run by President Trump's family in conjunction with"
+  qualifier: "and"
+  span: "founded and run by President Trump's family in conjunction with"
+  url: https://www.reed.senate.gov/news/releases/reed-and-kim-demand-public-disclosure-of-world-liberty-financials-beneficial-owners
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
 
-As of end-of-day May 6, 2026, the Office of the Comptroller of the Currency has not announced a preliminary-approval decision on WLTC Holdings LLC's national trust bank charter application — even though the OCC's stated 120-day decision target from the January 7, 2026 filing expires on or about **May 7, 2026** (tomorrow). This entry documents the pre-decision baseline: what is publicly known, what comparable charters set as precedent, and what to watch in the next 24-72 hours.
+As of end-of-day May 6, 2026, the Office of the Comptroller of the Currency has not announced a preliminary-approval decision on WLTC Holdings LLC's national trust bank charter application — even though the OCC's stated goal of deciding complete charter applications within 120 days (the OCC has not said when WLTC's application became complete) would, counted from the application's January 5, 2026 date, fall on about **May 5, 2026**. This entry documents the pre-decision baseline: what is publicly known, what comparable charters set as precedent, and what to watch in the next 24-72 hours.
 
 ## What Happened / Key Facts
 
 **Application chronology** (consolidated from prior timeline entries; see Related Entries for source links):
 
-- **2026-01-07** — WLTC Holdings LLC files de novo charter application; OCC docket 2026-Charter-344521; regulations.gov OCC-2026-0100-0004
+- **2026-01-05/07** — WLTC Holdings LLC's de novo charter application is dated January 5, 2026 (OCC docket); World Liberty Financial announced the submission on January 7; OCC docket 2026-Charter-344521; regulations.gov OCC-2026-0100-0004
 - **2026-01-13** — Sen. Warren formally demands OCC halt review until Trump divests
 - **2026-01-23** — Comptroller Jonathan Gould refuses Warren's demand in writing; review continues
 - **2026-02-09** — NCRC and AFREF file public comment letters opposing approval on eight grounds (conflicts of interest, regulatory arbitrage, GENIUS Act prematurity, fiduciary-activities mismatch)
@@ -110,13 +152,13 @@ As of end-of-day May 6, 2026, the Office of the Comptroller of the Currency has 
 
 **Consensus Miami 2026 calendar overlap.** Consensus Miami runs **May 5-7, 2026** in Miami, with Eric Trump confirmed as a headline speaker (listed as Co-Founder & Chief Strategy Officer of American Bitcoin). Industry coverage notes Trump-family principals are scheduled to make announcements at the conference. The OCC's expected decision window therefore coincides exactly with a Trump-family-attended industry showcase — a configuration that would amplify either a favorable approval (immediate stage announcement) or unfavorable signal.
 
-**Comparable trust-bank charter precedent.** The post-2025 wave of crypto-native national trust bank approvals — Circle, Ripple, BitGo, Fidelity Digital Assets, Paxos (December 12, 2025); Bridge, Protego, Crypto.com (February 2026); Coinbase (April 2, 2026) — establishes that Gould's OCC has been conditionally approving stablecoin-adjacent trust charters at roughly the 90-120 day mark, with no public denials. Anchorage Digital remains the only crypto-native national trust bank at full operational status as of mid-April 2026.
+**Comparable trust-bank charter precedent.** The post-2025 wave of crypto-native national trust bank approvals — Circle, Ripple, BitGo, Fidelity Digital Assets, Paxos (December 12, 2025); Bridge, Protego, Crypto.com (February 2026); Coinbase (April 2, 2026) — shows conditional approvals with no public denials; the observed timelines were longer than 90-120 days: Coinbase filed October 3, 2025 and was conditionally approved April 2, 2026 (about six months), and Circle applied June 30, 2025 and was approved December 12, 2025 (about five and a half months). Anchorage Digital remains the only crypto-native national trust bank at full operational status as of mid-April 2026.
 
 ## Why This Event Matters
 
 The 120-day decision window for WLTC is the single highest-leverage regulatory event in Investigation 4 (Trump Family / Gulf Capital). A favorable preliminary decision would:
 
-1. **Bring USD1 issuance under federal banking supervision** — a $3.3+ billion stablecoin operated by a company 75% owned by the sitting president's family becomes a federally regulated bank
+1. **Bring USD1 issuance under federal banking supervision** — a dollar stablecoin (USD1) issued by World Liberty Financial, a company "founded and run by President Trump's family in conjunction with" Zach Witkoff, Zachary Folkman and Chase Herro, 49% of which UAE-linked companies bought from the Trump and Witkoff families (Reed/Kim release, Feb. 27, 2026), becomes a federally regulated bank
 2. **Open the path to a Federal Reserve master account** — a separate, downstream admission decision that would let WLTC settle USD1 transactions directly through Fed payment rails, eliminating intermediary-bank dependency
 3. **Validate the OCC 12 CFR 5.20 amendment as a load-bearing piece of the 2025 Rollback Wave** — the rule change took effect 36 days before the expected decision, removing the most readily litigable challenge to a stablecoin-custody trust charter
 4. **Crystallize the Aryam/G42 disclosure question** — Warren's February 26 questioning established that the OCC has not publicly confirmed whether the application discloses the UAE-linked 49% stakeholder. Approval without resolved disclosure either confirms the disclosure was made (resolving the open question favorable to WLTC) or signals OCC tolerance for a regulatory gap
@@ -125,7 +167,7 @@ A deferral, denial, or withdrawal would each produce different downstream signal
 
 ## Broader Context
 
-The pre-decision condition of the WLFI ecosystem is materially different from the conditions present when Circle, BitGo, Paxos, and Coinbase received their conditional approvals. None of those issuers had a public-record fact pattern in which the issuing entity's CTO had used token reserves to fund loans on a third-party platform he co-founded; none had a 49% foreign-state-adjacent shareholder whose disclosure status the OCC had publicly declined to confirm; none had a sitting U.S. senator publicly characterizing the review as "a sham." The OCC is therefore in the position of either approving the application despite these distinguishing fact patterns (which would establish that they are not disqualifying for trust-bank charters under Gould's framework), or producing a record of the criteria under which approval was withheld or deferred.
+The pre-decision condition of the WLFI ecosystem is materially different from the conditions present when Circle, BitGo, Paxos, and Coinbase received their conditional approvals. None of those issuers had a public-record fact pattern in which the issuing entity's CTO had used token reserves to fund loans on a third-party platform he co-founded; none had a 49% foreign-state-adjacent shareholder whose disclosure status the OCC had publicly declined to confirm; none had a sitting U.S. senator publicly characterizing the review as "a sham" (Sen. Warren, American Banker, Jan. 2026). The OCC is therefore in the position of either approving the application despite these distinguishing fact patterns (which would establish that they are not disqualifying for trust-bank charters under Gould's framework), or producing a record of the criteria under which approval was withheld or deferred.
 
 The 49% Aryam/G42 stake — see [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] and the [[world-liberty-financial]] organization profile — is the structural fact that distinguishes the WLTC application from the other crypto-native trust-bank applications in the OCC's docket. Aryam Investment 1 was registered as twin shells in Delaware and Abu Dhabi in early December 2024, controlled by executives of Sheikh Tahnoon bin Zayed Al Nahyan's G42; the Abu Dhabi entity is not registered with ADGM or the UAE Securities and Commodities Authority. Two of five WLFI board seats are filled by senior G42 executives. The OCC's 10%-ownership disclosure threshold makes this a load-bearing question for the application's adequacy.
 

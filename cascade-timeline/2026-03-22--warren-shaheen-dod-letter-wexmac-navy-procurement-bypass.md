@@ -4,7 +4,7 @@ id: 2026-03-22--warren-shaheen-dod-letter-wexmac-navy-procurement-bypass
 date: '2026-03-22'
 title: "Warren and Shaheen Demand Hegseth End DoD WEXMAC-TITUS Agreement With DHS, Citing $65 Billion Ceiling Growth and Diversion of Navy Resources to Domestic ICE Detention"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - investigation-1
   - warren-shaheen
@@ -58,6 +58,35 @@ capture_lanes:
   - Military-Industrial Complex
   - DoD-DHS Resource Diversion
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Prior public reporting had fixed the ceiling at $10-20 billion. ... The letter's $65 billion figure."
+  now: "Both figures come from public sources: the letter cites the Navy's own January 16, 2026 contract announcement (Department of War, \"Contracts for Jan. 16, 2026\") raising the WEXMAC TITUS ceiling to $65 billion, up from $10 billion in July 2025 and $20 billion on September 30, 2025, and calls the growth \"sixfold in a matter of months.\" Trade press (GovCon Wire, OrangeSlices) reported the increase before the letter. The letter repeats the figure in a congressional document; it does not create it."
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_senators_warren_shaheen_to_department_of_defense_on_use_of_wexmac_to_build_detention_contracts.pdf — p.2 and fn.11: the letter cites the Navy's own Jan 16, 2026 contract announcement (war.gov Contracts for Jan. 16, 2026); GovCon Wire and OrangeSlices reported the $65B before the letter"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "award task orders to **120 companies**"
+  now: "award contracts to **120 companies** (places on the IDIQ vehicle; not task orders to each)"
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_senators_warren_shaheen_to_department_of_defense_on_use_of_wexmac_to_build_detention_contracts.pdf p.1-2 ('award contracts to 120 companies'); The Handbasket: vehicle awards/IDIQ spots, Cart.com 'has not been awarded ... any related WEXMAC task orders'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: attribution
+  value: "$65 billion"
+  qualifier: "Navy announced a modification that increased the contract ceiling"
+  span: "on January 16, 2026, the Navy announced a modification that increased the contract ceiling to $65 billion"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_senators_warren_shaheen_to_department_of_defense_on_use_of_wexmac_to_build_detention_contracts.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "120 companies"
+  qualifier: "award contracts"
+  span: "Since September 2025, ICE has used the Navy's WEXMAC system to award contracts to 120 companies"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_senators_warren_shaheen_to_department_of_defense_on_use_of_wexmac_to_build_detention_contracts.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 On March 22, 2026, U.S. Senators Elizabeth Warren (D-MA) and Jeanne Shaheen (D-NH), both members of the Senate Armed Services Committee, sent a formal five-page letter to Secretary of Defense Pete Hegseth demanding that the Pentagon end the agreement under which the Navy is administering WEXMAC 2.2 TITUS task orders on behalf of the Department of Homeland Security for the construction of ICE detention facilities. The senators posed 13 numbered questions and set a response deadline of **April 13, 2026**. The letter was publicly released via a Warren Senate office press release on March 23, 2026.
@@ -79,7 +108,7 @@ The letter documents a six-fold growth in the WEXMAC contract ceiling across rou
 | September 30, 2025 | $20 billion |
 | January 16, 2026 | **$65 billion** |
 
-Since September 2025, ICE has used the Navy's WEXMAC system to award task orders to **120 companies**, including a February 2026 award to **GEO Group**.
+Since September 2025, ICE has used the Navy's WEXMAC system to award contracts to **120 companies** (places on the IDIQ vehicle; not task orders to each), including a February 2026 award to **GEO Group**.
 
 Additional factual anchors:
 
@@ -136,7 +165,7 @@ Four structural implications:
 
 1. **Establishes Senate Armed Services Committee jurisdiction over WEXMAC-TITUS.** Prior oversight activity (Warren-Raskin, December 2025 Warren-Garamendi) was routed through Banking, Judiciary, or appropriations frames. This letter explicitly invokes Armed Services authority — a potential basis for hearings, nomination holds, or NDAA amendment pressure in the FY 2027 authorization cycle.
 
-2. **Names the $65 billion ceiling and the 120-company award count.** Prior public reporting had fixed the ceiling at $10-20 billion. The $65 billion figure (effective January 16, 2026, per contract modification) is the first congressionally-endorsed quantification of the scale and had not previously appeared in tier-1 news coverage. The letter effectively creates the $65B figure as a citable congressional-record number.
+2. **Names the $65 billion ceiling and the 120-company award count.** The letter cites the Navy's own January 16, 2026 contract announcement (Department of War, "Contracts for Jan. 16, 2026") raising the WEXMAC TITUS ceiling to $65 billion, up from $10 billion in July 2025 and $20 billion on September 30, 2025, and calls the growth "sixfold in a matter of months." Trade press (GovCon Wire, OrangeSlices) reported the increase before the letter. The letter repeats a public figure in a congressional document; it does not create it.
 
 3. **Forces the legal-authority question into public record.** By specifically challenging whether Section 1059 of the FY 2016 NDAA extends to interior detention-center construction, the senators create a framework for potential appropriations riders, litigation-standing arguments, or GAO opinions on ultra vires contracting.
 

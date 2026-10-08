@@ -4,7 +4,7 @@ id: 2025-02-05--mcmahon-oge-278e-tmtg-director-rsu-disclosure
 date: '2025-02-05'
 title: "McMahon OGE Form 278e (Nominee) Certified, Disclosing TMTG Independent-Director Employment Agreements — 25,946 DJT RSUs, $55,200 Cash Retainer, $18,400/Quarter Forward"
 importance: 8
-status: confirmed
+status: reported
 location: "Washington, D.C."
 tags:
   - oge-278e
@@ -94,6 +94,35 @@ sources:
     date: '2025-03-18'
     tier: 1
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "Each of the six directors received approximately 26,000 RSUs on the same terms, for a total board-package notional value of approximately $825,000."
+  now: "Each of the six directors received about 26,000 RSUs (McMahon 25,946) on the same terms. CNN put each director's block at 'just over $825,000' at Jan. 31, 2025 closing prices, so the six awards together were worth roughly $4.9 million."
+  why: "https://www.cnn.com/2025/01/31/investing/trump-media-shares-board — $825,000 is one director's block, not the board total"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "placing McMahon as the highest-net-worth member of Trump 2 Cabinet (the ProPublica indexed total)"
+  now: "ProPublica's Trump Team Financial Disclosures database, summing the asset ranges on her 278e, lists McMahon's reported asset values at $413M-$1.3B+. ProPublica does not rank her highest; Lutnick ($723M-$1.3B+) and Bessent ($521M-$784M+) list higher floors."
+  why: "https://projects.propublica.org/trump-team-financial-disclosures/appointees/mcmahon-linda/ — page shows 'Reported Asset Values $413M–$1.3B+' and no ranking; the 278e gives ranges per asset, no total"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "just over $825,000"
+  qualifier: "blocks of shares"
+  span: "blocks of shares currently worth just over $825,000"
+  url: https://www.cnn.com/2025/01/31/investing/trump-media-shares-board
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "$413M–$1.3B+"
+  qualifier: "Reported Asset Values"
+  span: "Reported Asset Values $413M–$1.3B+"
+  url: https://projects.propublica.org/trump-team-financial-disclosures/appointees/mcmahon-linda/
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Summary
@@ -128,7 +157,7 @@ The RSU grant was executed on approximately **January 28, 2025** as part of a bo
 - 19,460 unvested RSUs × $30.04 = **~$584,578** (forfeitable on departure; forfeited March 3, 2025)
 - 25,946 total RSUs × $30.04 = **~$779,445** (notional grant-date value)
 
-Each of the six directors received approximately 26,000 RSUs on the same terms, for a total board-package notional value of approximately **$825,000**. Patel publicly stated he would "not accept that compensation" ("out of an abundance of caution and to avoid any appearance of any conflict, I did not and will not accept that compensation").
+Each of the six directors received approximately 26,000 RSUs on the same terms (McMahon 25,946). CNN put each director's block at "just over $825,000" at Jan. 31, 2025 closing prices, so the six awards together were worth roughly $4.9 million (CNN Business, Jan. 31, 2025). Patel publicly stated he would "not accept that compensation" ("out of an abundance of caution and to avoid any appearance of any conflict, I did not and will not accept that compensation").
 
 ## Tenure and Resignation
 
@@ -167,7 +196,7 @@ The WWE dividend stream appears to represent the wind-down residual from the 202
 
 ## Net Worth and Portfolio Scale
 
-The 278e lists total reportable assets in a range of approximately **$413 million to $1.3 billion+**, placing McMahon as the highest-net-worth member of Trump 2 Cabinet (the ProPublica indexed total). The portfolio is unusually municipal-bond-heavy (~200 state, county, school-district, and regional-authority bonds — largely tax-exempt general-obligation and revenue instruments) rather than corporate-equity-heavy, indicating a long-established preservation-of-capital allocation.
+ProPublica's Trump Team Financial Disclosures database, summing the asset ranges on her 278e (the 278e itself reports each asset as a range and gives no total), lists McMahon's reported asset values at approximately **$413 million to $1.3 billion+**. The portfolio is unusually municipal-bond-heavy (~200 state, county, school-district, and regional-authority bonds — largely tax-exempt general-obligation and revenue instruments) rather than corporate-equity-heavy, indicating a long-established preservation-of-capital allocation.
 
 ## Structural Significance
 

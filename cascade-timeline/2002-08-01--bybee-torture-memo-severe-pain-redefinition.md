@@ -4,7 +4,7 @@ id: 2002-08-01--bybee-torture-memo-severe-pain-redefinition
 date: '2002-08-01'
 title: "Bybee OLC 'Torture Memo' Redefines Severe Pain and Asserts Commander-in-Chief Override of Anti-Torture Statute"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - olc
@@ -59,6 +59,40 @@ capture_lanes:
   - Intelligence Penetration
   - Militarization
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "DOJ's career ethics officer, David Margolis, downgraded the finding to \"poor judgment\" in his July 2009 review, meaning no professional-licensing consequences attached."
+  now: "David Margolis, DOJ's Associate Deputy Attorney General and its top career lawyer, rejected OPR's misconduct findings in a January 5, 2010 memorandum to Attorney General Holder, concluding that Yoo and Bybee exercised \"poor judgment,\" which did not amount to professional misconduct, so OPR's findings were never referred to state bar disciplinary authorities."
+  why: "https://en.wikipedia.org/wiki/Torture_Memos — Margolis, Associate Deputy Attorney General, Jan 5, 2010 memorandum to AG Holder: 'poor judgment' not professional misconduct; the OPR report is July 29, 2009"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The companion August 1 Yoo letter to Gonzales — sometimes called the \"Second Bybee Memo\" though signed by Yoo — applied the framework to specific techniques. The approved techniques included:"
+  now: "A separate memo of the same date, signed by Bybee to CIA Acting General Counsel John Rizzo (\"Interrogation of al Qaeda Operative\"), approved ten techniques for Abu Zubaydah:"
+  why: "https://www.justice.gov/olc/file/886061/download (full PDF text: no 'waterboard', 'Zubaydah', 'walling'); globalsecurity.org OLC Aug 1, 2002 Bybee-to-Rizzo memo 'Interrogation of al Qaeda Operative'; CNN 2009-04-20 on Bradbury's May 30, 2005 memo (83 and 183)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The withdrawal was characterized by Goldsmith in *Power and Constraint* (2012) as necessary because the memo was \"legally flawed\" and \"deeply problematic.\""
+  now: "Goldsmith later called the torture memos \"deeply flawed\" and \"sloppily reasoned,\" and in *The Terror Presidency* (2007) described them as \"cursory and one-sided legal arguments\" (Wikipedia, \"Torture Memos\")."
+  why: "https://en.wikipedia.org/wiki/Torture_Memos — Goldsmith called the memos 'deeply flawed' and 'sloppily reasoned' and (The Terror Presidency, 2007) 'cursory and one-sided legal arguments'; neither phrase is attributed to Power and Constraint"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "January 5, 2010"
+  qualifier: "Margolis memorandum"
+  span: "in a memorandum dated January 5, 2010, to Attorney General Eric Holder, David Margolis"
+  url: https://en.wikipedia.org/wiki/Torture_Memos
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "equivalent in intensity to the pain accompanying serious physical injury, such as organ failure, impairment of bodily function, or even death"
+  qualifier: "to"
+  span: "equivalent in intensity to the pain accompanying serious physical injury, such as organ failure, impairment of bodily function, or even death"
+  url: https://www.justice.gov/olc/file/886061/download
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -77,9 +111,10 @@ The memo's four core moves:
 
 **4. Necessity and self-defense as affirmative defenses.** The memo argued that even if torture occurred, necessity (imminent attack prevention) or self-defense (national self-defense) would constitute complete affirmative defenses to criminal prosecution.
 
-The companion August 1 Yoo letter to Gonzales — sometimes called the "Second Bybee Memo" though signed by Yoo — applied the framework to specific techniques. The approved techniques included:
+A separate memo of the same date, signed by Bybee to CIA Acting General Counsel John Rizzo ("Interrogation of al Qaeda Operative"), approved ten techniques for Abu Zubaydah:
 - The attention grasp
 - Walling (slamming against a flexible wall)
+- Facial hold
 - Facial slap
 - Cramped confinement (small and large box)
 - Wall standing (stress position)
@@ -88,7 +123,7 @@ The companion August 1 Yoo letter to Gonzales — sometimes called the "Second B
 - Insects placed in a confinement box
 - Waterboarding
 
-The Yoo letter concluded each technique did not violate 18 U.S.C. § 2340 under the Bybee memo's interpretive framework.
+That memo concluded each technique did not violate 18 U.S.C. § 2340 under the Bybee memo's interpretive framework.
 
 ## Why This Event Matters
 
@@ -96,13 +131,13 @@ The Bybee torture memo is the most analytically aggressive OLC opinion of the Bu
 
 **1. Operationalization of the September 25, 2001 Yoo framework.** The Bybee memo presupposes the Yoo September 25, 2001 memo [[2001-09-25--yoo-olc-memo-military-force-plenary-war-powers]] on plenary presidential war-making authority. Without the Article II plenary-power claim, the commander-in-chief override argument cannot be made. The Bybee memo is the September 25 framework applied to a specific statutory prohibition.
 
-**2. Authorization for the CIA Rendition, Detention, and Interrogation program.** The memo provided the legal cover for waterboarding of Abu Zubaydah (83 times), Khalid Sheikh Mohammed (183 times), and Abd al-Rahim al-Nashiri. The Senate Intelligence Committee's December 2014 torture report [[2014-12-09--senate-torture-report-released]] documented the scale of the CIA program the memo enabled; the 2014 report's conclusion that "enhanced interrogation" was both ineffective and systematically mischaracterized in CIA briefings to Congress rests on factual claims separate from the memo's legal architecture, but the memo is what made the program legally defensible within the executive branch.
+**2. Authorization for the CIA Rendition, Detention, and Interrogation program.** The Rizzo memo of the same date approved the techniques. Steven Bradbury's May 30, 2005 OLC memo, citing the CIA Inspector General, records that the CIA waterboarded Abu Zubaydah 83 times in August 2002 and Khalid Sheikh Mohammed 183 times in March 2003. The Senate Intelligence Committee's December 2014 torture report [[2014-12-09--senate-torture-report-released]] documented the scale of the CIA program the memo enabled; the 2014 report's conclusion that "enhanced interrogation" was both ineffective and systematically mischaracterized in CIA briefings to Congress rests on factual claims separate from the memo's legal architecture, but the memo is what made the program legally defensible within the executive branch.
 
-**3. OPR misconduct finding and its non-consequences.** DOJ's Office of Professional Responsibility concluded in its 2009 report that both Yoo and Bybee engaged in "professional misconduct" — failing to exercise "independent legal judgment" and failing to "apply thorough, objective, and candid legal advice." DOJ's career ethics officer, David Margolis, downgraded the finding to "poor judgment" in his July 2009 review, meaning no professional-licensing consequences attached. Yoo returned to UC Berkeley; Bybee was confirmed to the Ninth Circuit Court of Appeals in March 2003 (before the memo became public) and remains on the federal bench. Neither was prosecuted under the Convention Against Torture's requirement that states parties prosecute or extradite torturers.
+**3. OPR misconduct finding and its non-consequences.** DOJ's Office of Professional Responsibility concluded in its 2009 report that both Yoo and Bybee engaged in "professional misconduct" — failing to exercise "independent legal judgment" and failing to "apply thorough, objective, and candid legal advice." David Margolis, DOJ's Associate Deputy Attorney General and its top career lawyer, rejected OPR's misconduct findings in a January 5, 2010 memorandum to Attorney General Holder, concluding that Yoo and Bybee exercised "poor judgment," which did not amount to professional misconduct, so OPR's findings were never referred to state bar disciplinary authorities. Yoo returned to UC Berkeley; Bybee was confirmed to the Ninth Circuit Court of Appeals in March 2003 (before the memo became public) and remains on the federal bench. Neither was prosecuted under the Convention Against Torture's requirement that states parties prosecute or extradite torturers.
 
 ## Broader Context
 
-Jack Goldsmith, who succeeded Bybee as OLC head in October 2003, formally withdrew the Bybee memo in June 2004 [[2004-06-28--whig-torture-memo-executive-immunity]]. The withdrawal was characterized by Goldsmith in *Power and Constraint* (2012) as necessary because the memo was "legally flawed" and "deeply problematic." But the doctrinal framework — Article II plenary authority overriding statutory prohibitions in war or national-security contexts — survived the withdrawal.
+Jack Goldsmith, who succeeded Bybee as OLC head in October 2003, formally withdrew the Bybee memo in June 2004 [[2004-06-28--whig-torture-memo-executive-immunity]]. Goldsmith later called the torture memos "deeply flawed" and "sloppily reasoned," and in *The Terror Presidency* (2007) described them as "cursory and one-sided legal arguments" (Wikipedia, "Torture Memos"). But the doctrinal framework — Article II plenary authority overriding statutory prohibitions in war or national-security contexts — survived the withdrawal.
 
 Steven Bradbury, who succeeded Goldsmith as acting OLC head, reconstructed the CIA interrogation authorization in three May 2005 memos [[2005-05-10--bradbury-olc-memo-enhanced-interrogation-techniques]]. The Bradbury memos were narrower and more defensible — they argued that the techniques did not violate the statute when applied within constraints, rather than that the statute could be overridden — but they preserved the substantive operational authorization.
 

@@ -4,7 +4,7 @@ id: 1942-02-19--executive-order-9066-fdr-wartime-power-template
 date: '1942-02-19'
 title: "Executive Order 9066 as Executive-Power Template: FDR's Internment Authority Predicate for 2001 Detention Architecture"
 importance: 9
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - wartime-emergency-power
@@ -42,6 +42,35 @@ capture_lanes:
   - Civil Rights Suppression
   - Detention Industrial Complex
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "a deference identical in structure to that shown in *Quirin* five months earlier"
+  now: "a deference that resembles the Court's deference to the President's military-commission order in *Quirin*, decided July 31, 1942, more than two years earlier"
+  why: "https://www.law.cornell.edu/supremecourt/text/323/214 ; Ex parte Quirin, 317 U.S. 1 (decided July 31, 1942) — Korematsu was decided Dec 18, 1944, about 29 months after Quirin; the Korematsu text never cites Quirin"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Biddle and Attorney General staff had warned against language that might explicitly acknowledge racial targeting or specific detention."
+  now: "Attorney General Biddle contended that exclusion was unnecessary but did not argue to the President that it would be unconstitutional, and Secretary of War Stimson and Assistant Secretary McCloy did not insist on a clear military justification for the measures Lt. Gen. DeWitt wanted to take (Personal Justice Denied, Summary)."
+  why: "https://www.archives.gov/files/research/japanese-americans/justice-denied/summary.pdf (Personal Justice Denied, Summary) — Sixth/Seventh findings: Biddle 'did not argue to the President that failure to make out a case of military necessity ... would render the exclusion constitutionally impermissible'; Stimson and McCloy 'failed to insist on a clear military justification' for the measures DeWitt wished to undertake; DeWitt issued the proclamations and exclusion orders"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "Decided Dec. 18, 1944"
+  qualifier: ""
+  span: "Decided Dec. 18, 1944."
+  url: https://www.law.cornell.edu/supremecourt/text/323/214
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: attribution
+  value: "failed to insist on a clear military"
+  qualifier: ""
+  span: "failed to insist on a clear military"
+  url: https://www.archives.gov/files/research/japanese-americans/justice-denied/summary.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
@@ -58,9 +87,9 @@ The order's text is striking for what it does not say. EO 9066 does not:
 
 It does authorize the Secretary of War and military commanders "to prescribe military areas in such places and of such extent as he or the appropriate Military Commander may determine, from which any or all persons may be excluded, and with respect to which, the right of any person to enter, remain in, or leave shall be subject to whatever restrictions the Secretary of War or the appropriate Military Commander may impose in his discretion."
 
-The structure delegates essentially unbounded discretion to military commanders without defining who may be excluded, under what criteria, or with what review. Secretary of War Henry Stimson and Assistant Secretary John McCloy used this authority to issue civilian-exclusion orders (beginning with Proclamation No. 1 by Lt. Gen. John DeWitt on March 2, 1942) targeting people of Japanese ancestry.
+The structure delegates essentially unbounded discretion to military commanders without defining who may be excluded, under what criteria, or with what review. Lt. Gen. John DeWitt, commanding the Western Defense Command, used this authority to issue proclamations and civilian-exclusion orders (beginning with Proclamation No. 1 on March 2, 1942) targeting people of Japanese ancestry.
 
-Attorney General Francis Biddle opposed the order's scope privately but acquiesced publicly. J. Edgar Hoover's FBI, which had been compiling dossiers on Japanese Americans since the late 1930s [[1941-12-07--fbi-japanese-american-surveillance-internment-predicate]], assisted in identifying and relocating individuals. The Supreme Court's *Korematsu* decision in December 1944 [[1944-12-18--korematsu-v-united-states-supreme-court-upholds-internment]] upheld the exclusion program, with Justice Hugo Black's majority opinion deferring to executive military judgment under wartime emergency — a deference identical in structure to that shown in *Quirin* five months earlier [[1942-07-02--ex-parte-quirin-fdr-military-tribunal-nazi-saboteurs]].
+Attorney General Francis Biddle opposed the order's scope privately but acquiesced publicly. J. Edgar Hoover's FBI, which had been compiling dossiers on Japanese Americans since the late 1930s [[1941-12-07--fbi-japanese-american-surveillance-internment-predicate]], assisted in identifying and relocating individuals. The Supreme Court's *Korematsu* decision in December 1944 [[1944-12-18--korematsu-v-united-states-supreme-court-upholds-internment]] upheld the exclusion program, with Justice Hugo Black's majority opinion deferring to executive military judgment under wartime emergency — a deference that resembles the Court's deference to the President's military-commission order in *Quirin*, decided July 31, 1942, more than two years earlier [[1942-07-02--ex-parte-quirin-fdr-military-tribunal-nazi-saboteurs]].
 
 The Civil Liberties Act of 1988 (P.L. 100-383, signed by Reagan) formally acknowledged the injustice, paying $20,000 per surviving internee, and the Commission on Wartime Relocation's 1983 report *Personal Justice Denied* concluded the internment "was not justified by military necessity." In 2018, Chief Justice John Roberts in *Trump v. Hawaii* called *Korematsu* "gravely wrong the day it was decided" — while simultaneously upholding the Trump I travel ban that the dissent (Sotomayor) argued tracked *Korematsu*'s reasoning directly.
 
@@ -68,7 +97,7 @@ The Civil Liberties Act of 1988 (P.L. 100-383, signed by Reagan) formally acknow
 
 EO 9066 is the canonical American example of how an executive order of minimal textual specificity can authorize maximum-impact action when paired with judicial deference. The structural features shape subsequent executive-power architecture:
 
-1. **Sparse-text-broad-authority pattern.** The order's minimalist drafting was deliberate: Biddle and Attorney General staff had warned against language that might explicitly acknowledge racial targeting or specific detention. The result is an executive instrument whose legal force far exceeds what its text plainly states. This pattern recurs in FDR's Proclamation 2561 creating the Quirin tribunal [[1942-07-02--ex-parte-quirin-fdr-military-tribunal-nazi-saboteurs]], Truman's EO 10340 seizing the steel mills [[1952-04-08--truman-steel-seizure-executive-order-10340]], Bush II's November 13, 2001 military order on detention and trial of non-citizens, and Trump II's 2025 executive orders on immigration enforcement and emergency powers.
+1. **Sparse-text-broad-authority pattern.** The order's minimalist drafting was deliberate: Attorney General Biddle contended that exclusion was unnecessary but did not argue to the President that it would be unconstitutional, and Secretary of War Stimson and Assistant Secretary McCloy did not insist on a clear military justification for the measures Lt. Gen. DeWitt wanted to take (Personal Justice Denied, Summary). The result is an executive instrument whose legal force far exceeds what its text plainly states. This pattern recurs in FDR's Proclamation 2561 creating the Quirin tribunal [[1942-07-02--ex-parte-quirin-fdr-military-tribunal-nazi-saboteurs]], Truman's EO 10340 seizing the steel mills [[1952-04-08--truman-steel-seizure-executive-order-10340]], Bush II's November 13, 2001 military order on detention and trial of non-citizens, and Trump II's 2025 executive orders on immigration enforcement and emergency powers.
 
 2. **Military delegation as civilian-control evasion.** EO 9066's delegation of civilian-exclusion authority to military commanders created a structural mechanism for the executive branch to take civilian-liberty-affecting action through military channels where judicial review was traditionally deferential. Bush II's Combatant Status Review Tribunals, Guantánamo commission procedures, and drone-targeting determinations all rely on similar civilian-military authority routing.
 

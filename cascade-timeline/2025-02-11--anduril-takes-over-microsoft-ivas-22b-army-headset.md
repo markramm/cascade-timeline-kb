@@ -4,7 +4,7 @@ id: 2025-02-11--anduril-takes-over-microsoft-ivas-22b-army-headset
 date: '2025-02-11'
 title: "Anduril Takes Over Microsoft's $22 Billion Army IVAS Augmented Reality Headset Program"
 importance: 9
-status: confirmed
+status: reported
 actors:
   - Anduril Industries
   - Microsoft
@@ -80,9 +80,38 @@ capture_lanes:
 relocated_lanes:
   - Thiel Network
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "This is the single largest contract in Anduril's history and the clearest example of"
+  now: "The $22 billion is a program ceiling, not Anduril revenue: Anduril said it would deliver no new hardware under the contract, only software updates for headsets already fielded (Breaking Defense, Apr. 15, 2025). The entry reads it as the clearest example of"
+  why: "https://news.microsoft.com/source/2025/02/11/anduril-and-microsoft-partner-to-advance-integrated-visual-augmentation-system-ivas-program-for-the-u-s-army/ ('pending Department of Defense approval'); Breaking Defense 2025-04-15 (novation signed Apr 10; Microsoft 'has fulfilled all existing production orders'; 'no new hardware on the existing IVAS contract that Anduril is responsible for delivering'); DefenseScoop 2025-02-11 (IVAS Next industry day, RFI for a new prime)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "On March 26, 2025 — six weeks after the IVAS handoff announcement — Trump nominated Michael Obadal"
+  now: "On March 10, 2025 — about four weeks after the IVAS handoff announcement — Trump sent the Senate his nomination of Michael Obadal"
+  why: "https://defensescoop.com/2025/03/11/trump-nominates-michael-obadal-army-undersecretary-anduril/ ; Congress.gov PN26-35 (received 03/10/2025); Breaking Defense May 2025 ($250,000-$500,000 vested Anduril restricted stock)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "pending Department of Defense approval"
+  qualifier: ""
+  span: "pending Department of Defense approval, Anduril will assume oversight of production, future development of hardware and software, and delivery timelines"
+  url: https://news.microsoft.com/source/2025/02/11/anduril-and-microsoft-partner-to-advance-integrated-visual-augmentation-system-ivas-program-for-the-u-s-army/
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: "quote"
+  value: "submitted a nomination to the Senate for Michael Obadal"
+  qualifier: ""
+  span: "President Donald Trump submitted a nomination to the Senate for Michael Obadal to serve as the Army's No. 2 official"
+  url: https://defensescoop.com/2025/03/11/trump-nominates-michael-obadal-army-undersecretary-anduril/
+  read: fetched
+  source_kind: secondary
 ---
 
-On February 11, 2025, Microsoft and Anduril Industries jointly announced that Anduril would assume control of the Integrated Visual Augmentation System (IVAS) program — the U.S. Army's augmented-reality combat headset contract, valued at up to $22 billion over 10 years for up to 120,000 units. The formal "contract novation" transferring Microsoft's obligations to Anduril was approved by the Army on April 10, 2025. This is the single largest contract in Anduril's history and the clearest example of a legacy hyperscaler ceding a flagship military AI/hardware program to a Thiel-network defense vendor — not as a competitive loss but as a coordinated division of labor.
+On February 11, 2025, Microsoft and Anduril Industries jointly announced that Anduril would assume control of the Integrated Visual Augmentation System (IVAS) program — the U.S. Army's augmented-reality combat headset contract, valued at up to $22 billion over 10 years for up to 120,000 units. The formal "contract novation" transferring Microsoft's obligations to Anduril was approved by the Army on April 10, 2025. The $22 billion is a program ceiling, not Anduril revenue: Anduril said it would deliver no new hardware under the contract, only software updates for headsets already fielded (Breaking Defense, Apr. 15, 2025). The entry reads it as the clearest example of a legacy hyperscaler ceding a flagship military AI/hardware program to a Thiel-network defense vendor — not as a competitive loss but as a coordinated division of labor.
 
 ## IVAS Program History (2018–2024)
 
@@ -103,7 +132,7 @@ The transition was announced jointly on February 11, 2025, three weeks into the 
 
 **What Anduril takes over**: Production oversight, future hardware development, software development, delivery timelines, employees, hardware, intellectual property, and facilities. Palmer Luckey confirmed the transfer includes "employees, hardware, IP, facilities, everything, to Anduril."
 
-**What Microsoft retains**: Cloud infrastructure only. The announcement establishes Microsoft Azure as Anduril's "preferred hyperscale cloud for all workloads related to IVAS and Anduril AI technologies" — across commercial, U.S. government, and classified tiers. Microsoft retains no hardware or software responsibility.
+**What Microsoft retains**: the Feb. 11, 2025 announcement was "pending Department of Defense approval"; after the Army's April 10 novation, Luckey said the transfer covers "employees, hardware, IP, facilities, everything." The announcement establishes Microsoft Azure as Anduril's "preferred hyperscale cloud for all workloads related to IVAS and Anduril AI technologies" — across commercial, U.S. government, and classified tiers. Microsoft retains no hardware or software responsibility.
 
 **Deal financials**: No financial terms disclosed. Microsoft received no disclosed payment. The $22B ceiling transfers with the contract; it represents maximum possible value over 10 years, not guaranteed revenue.
 
@@ -137,11 +166,11 @@ The February 2025 novation thus transfers a legacy contract for a failed product
 
 ## Structural Significance
 
-**Not a competitive procurement.** The IVAS handoff is a transfer event — Microsoft could not deliver, negotiated an exit, and Anduril assumed the contract. The Army had no other vendor; Anduril's Lattice software was already embedded in deployed units. This is program absorption, not market competition.
+**Not a competitive procurement.** The IVAS handoff is a transfer event — Microsoft transferred the program after fulfilling all existing production orders (including 400 IVAS 1.2 headsets), and Anduril assumed the contract. The Army was also preparing an IVAS Next recompete for other vendors (DefenseScoop and Breaking Defense, Feb. 11, 2025); Anduril's Lattice software was already embedded in deployed units. This is program absorption, not market competition.
 
 **Hyperscaler-to-Thiel-network coordination, not competition.** Microsoft retains the Azure cloud contract now running all Anduril AI workloads. The deal is a division of labor: Microsoft becomes backend cloud provider; Anduril takes hardware and software primacy. The two companies became more integrated, not competitive. This is the hyperscaler-as-substrate pattern documented in [[tech-stack-of-surveillance-inc-engineering-substrate-2010-2026]].
 
-**Obadal nomination timing.** On March 26, 2025 — six weeks after the IVAS handoff announcement — Trump nominated Michael Obadal, a senior Anduril director, as Army Under Secretary. At nomination, Obadal planned to retain $250K–$500K in vested Anduril stock. The Army's largest active contract at nomination time was the IVAS program just transferred to Anduril. See [[2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention]].
+**Obadal nomination timing.** On March 10, 2025 — about four weeks after the IVAS handoff announcement — Trump sent the Senate his nomination of Michael Obadal, a senior Anduril director, as Army Under Secretary. At nomination, Obadal planned to retain $250K–$500K in vested Anduril stock. Sen. Warren's May 2025 letter later noted Anduril's $22 billion Army headset contract. See [[2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention]].
 
 ## Research Gaps
 

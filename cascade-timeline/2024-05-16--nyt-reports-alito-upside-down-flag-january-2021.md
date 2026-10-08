@@ -4,7 +4,7 @@ id: 2024-05-16--nyt-reports-alito-upside-down-flag-january-2021
 date: '2024-05-16'
 title: "NYT publishes photographic evidence of upside-down American flag at Alito's Alexandria home in January 2021"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - alito-samuel
   - martha-ann-alito
@@ -52,11 +52,53 @@ sources:
 capture_lanes:
   - Judicial Capture
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "the New York Times and subsequent reporting established that the neighbor dispute Alito referenced occurred weeks after the flag was taken down, undercutting his chronology."
+  now: "the Times did not date the neighbor dispute (it reported only that the exact duration the flag flew was unclear); later reporting by CNN and The Hill, citing former neighbor Emily Baden and a February 15, 2021 complaint to law enforcement, challenged Alito's chronology."
+  why: "https://web.archive.org/web/2024/https://www.nytimes.com/2024/05/16/us/justice-alito-upside-down-flag.html — the Times did not date the dispute: 'The exact duration that the flag flew outside the Alito residence is unclear'; The Hill (2024-05-29) and CNN (2024-06-05): Emily Baden, Feb 15, 2021 complaint, flag 'went up two or three weeks before that'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "within 48 hours, Senate Judiciary Chair Dick Durbin (D-IL), Sen. Sheldon Whitehouse (D-RI), and multiple House Democrats including Rep. Mikie Sherrill (D-NJ) called for Alito to recuse from *Trump v. United States* and ... *Fischer v. United States*"
+  now: "the day after publication, Senate Judiciary Chair Dick Durbin (D-IL) called on Alito to recuse himself \"immediately from cases related to the 2020 election and the January 6th insurrection, including the question of the former president's immunity,\" and Rep. Hank Johnson (D-GA) said the same day that Alito must recuse from the immunity case and other January 6 matters (PBS; CNN, May 17, 2024). Sen. Sheldon Whitehouse's recusal demand and Rep. Mikie Sherrill's May 23, 2024 letter came later"
+  why: "https://www.pbs.org/newshour/politics/justice-alitos-home-flew-a-u-s-flag-upside-down-after-jan-6-a-report-says ; CNN 2024-05-17 — Durbin called for recusal on May 17; Hank Johnson also; Whitehouse's recusal demand and Sherrill's May 23 letter came later"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The January 17, 2021 flag display is the earliest publicly documented instance of an Alito household signaling alignment with the Stop the Steal movement."
+  now: "The Times' photographs show the flag upside down at the Alito home on January 17, 2021, and a neighbor's January 18, 2021 email reviewed by the Times says it had been upside down for several days by then (New York Times, May 16, 2024)."
+  why: "https://web.archive.org/web/2024/https://www.nytimes.com/2024/05/16/us/justice-alito-upside-down-flag.html — 'The upside-down flag was aloft on Jan. 17, 2021, the images showed'; the Jan 18 email says it had been upside down 'for several days'; the Times never calls it the earliest instance of anything"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "The exact duration that the flag flew outside the Alito residence is unclear."
+  qualifier: ""
+  span: "The exact duration that the flag flew outside the Alito residence is unclear."
+  url: https://web.archive.org/web/2024/https://www.nytimes.com/2024/05/16/us/justice-alito-upside-down-flag.html
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: quote
+  value: "should recuse himself immediately from cases related to the 2020 election and the January 6th insurrection"
+  qualifier: "Durbin"
+  span: "should recuse himself immediately from cases related to the 2020 election and the January 6th insurrection, including the question of the former president's immunity"
+  url: https://www.cnn.com/2024/05/17/politics/alito-upside-down-flag-reaction/index.html
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "Jan. 17, 2021"
+  qualifier: "flag aloft"
+  span: "The upside-down flag was aloft on Jan. 17, 2021, the images showed."
+  url: https://web.archive.org/web/2024/https://www.nytimes.com/2024/05/16/us/justice-alito-upside-down-flag.html
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening paragraph
 
-On May 16, 2024, the New York Times published Jodi Kantor's investigation revealing that an upside-down American flag — a symbol adopted by the "Stop the Steal" movement challenging the 2020 election result — flew outside the Alexandria, Virginia home of Supreme Court Justice Samuel Alito in the days after the January 6, 2021 attack on the Capitol. The reporting was based on photographs and multiple witness accounts, including from neighbors. Justice Alito attributed the flag display to his wife Martha-Ann Alito and to a dispute with a neighbor; the New York Times and subsequent reporting established that the neighbor dispute Alito referenced occurred weeks after the flag was taken down, undercutting his chronology. The reporting arrived with *Trump v. United States* (presidential immunity) and *Fischer v. United States* (January 6 obstruction-statute) pending before the Court.
+On May 16, 2024, the New York Times published Jodi Kantor's investigation revealing that an upside-down American flag — a symbol adopted by the "Stop the Steal" movement challenging the 2020 election result — flew outside the Alexandria, Virginia home of Supreme Court Justice Samuel Alito in the days after the January 6, 2021 attack on the Capitol. The reporting was based on photographs and multiple witness accounts, including from neighbors. Justice Alito attributed the flag display to his wife Martha-Ann Alito and to a dispute with a neighbor; the Times did not date the neighbor dispute (it reported only that the exact duration the flag flew was unclear); later reporting by CNN and The Hill, citing former neighbor Emily Baden and a February 15, 2021 complaint to law enforcement, challenged Alito's chronology. The reporting arrived with *Trump v. United States* (presidential immunity) and *Fischer v. United States* (January 6 obstruction-statute) pending before the Court.
 
 ## What Happened / Key Facts
 
@@ -64,19 +106,19 @@ On May 16, 2024, the New York Times published Jodi Kantor's investigation reveal
 - **Photographic evidence**: the Times published a photograph dated January 17, 2021 — eleven days after the January 6 Capitol attack and three days before President Biden's inauguration — showing a U.S. flag flying upside down on the Alitos' front lawn in Alexandria, Virginia
 - **"Stop the Steal" symbology**: in January 2021, the inverted flag had been adopted by Trump supporters contesting the 2020 election as a symbol of "distress" over the certification of Biden's victory. It was carried by some January 6 participants
 - **Alito's response**: in an emailed statement to the Times (and subsequent statements to CNN, Fox News, and others), Alito said "I had no involvement whatsoever in the flying of the flag. It was briefly placed by Mrs. Alito in response to a neighbor's use of objectionable and personally insulting language on yard signs"
-- **Chronology problem**: the neighbor dispute Alito cited occurred in mid-February 2021, weeks after the January 17 photograph was taken. The Hill, CNN, and the former neighbor directly disputed Alito's timeline
+- **Chronology problem**: former neighbor Emily Baden told CNN that the confrontation Alito cited happened on February 15, 2021 (the date her then-boyfriend filed a complaint with law enforcement, per records CNN obtained) and that the flag "went up two or three weeks before that" (The Hill, May 29, 2024; CNN, June 5, 2024). The Times itself reported only that the duration was unclear and that a neighbor's January 18, 2021 email said the flag had been upside down for several days
 - **Martha-Ann Alito's earlier statement**: a Washington Post reporter had in 2021 photographed the flag and spoken with Mrs. Alito, who yelled "It's an international signal of distress!" and demanded the reporter leave. The Washington Post did not publish this reporting in 2021; Axios reported on May 27, 2024 that the Post had held the story
 - **Pending cases**: at the time of publication, two cases with direct January 6 connections were before the Court: *Trump v. United States* (No. 23-939, presidential immunity for acts including the January 6 election-interference allegations — oral argument April 25, 2024; decision pending) and *Fischer v. United States* (No. 23-5572, scope of 18 U.S.C. § 1512(c)(2) obstruction statute as applied to January 6 defendants — oral argument April 16, 2024; decision pending)
 
 ## Why This Event Matters
 
-The January 17, 2021 flag display is the earliest publicly documented instance of an Alito household signaling alignment with the Stop the Steal movement. It is material to the recusal analysis for *Trump v. United States* and *Fischer v. United States* because 28 U.S.C. § 455(a) requires disqualification where "impartiality might reasonably be questioned" — a standard that the Court's own November 13, 2023 Code of Conduct restates (see [[2023-11-13--scotus-adopts-nonbinding-code-of-conduct]]). Alito's attribution of the display to his wife does not, under § 455, terminate the recusal analysis: a justice's household and spouse's conduct are encompassed by the reasonable-observer standard, as the federal judicial ethics literature had repeatedly noted in the context of Ginni Thomas's January 6 activities.
+The Times' photographs show the flag upside down at the Alito home on January 17, 2021, and a neighbor's January 18, 2021 email reviewed by the Times says it had been upside down for several days by then (New York Times, May 16, 2024). It is material to the recusal analysis for *Trump v. United States* and *Fischer v. United States* because 28 U.S.C. § 455(a) requires disqualification where "impartiality might reasonably be questioned" — a standard that the Court's own November 13, 2023 Code of Conduct restates (see [[2023-11-13--scotus-adopts-nonbinding-code-of-conduct]]). Alito's attribution of the display to his wife does not, under § 455, terminate the recusal analysis: a justice's household and spouse's conduct are encompassed by the reasonable-observer standard, as the federal judicial ethics literature had repeatedly noted in the context of Ginni Thomas's January 6 activities.
 
 The NYT reporting is also the predicate for the second flag story (the "Appeal to Heaven" flag at the Alitos' Long Beach Island, New Jersey vacation home, reported by the Times on May 22, 2024 — see [[2024-05-22--nyt-reports-alito-appeal-to-heaven-flag-long-beach]]) and for Alito's May 29, 2024 formal refusal to recuse (see [[2024-05-29--alito-refuses-recusal-jan6-trump-cases]]).
 
 ## Immediate Consequences
 
-- **Congressional recusal demands**: within 48 hours, Senate Judiciary Chair Dick Durbin (D-IL), Sen. Sheldon Whitehouse (D-RI), and multiple House Democrats including Rep. Mikie Sherrill (D-NJ) called for Alito to recuse from *Trump v. United States* and *Fischer v. United States*
+- **Congressional recusal demands**: the day after publication, Senate Judiciary Chair Dick Durbin (D-IL) called on Alito to recuse himself "immediately from cases related to the 2020 election and the January 6th insurrection, including the question of the former president's immunity," and Rep. Hank Johnson (D-GA) said the same day that Alito must recuse from the immunity case and other January 6 matters (PBS; CNN, May 17, 2024). Sen. Sheldon Whitehouse's recusal demand and Rep. Mikie Sherrill's May 23, 2024 letter came later
 - **Second flag discovery**: Times reporters continued the story and on May 22, 2024 published the "Appeal to Heaven" flag reporting from Long Beach Island
 - **Alito recusal refusal**: on May 29, 2024, Alito formally refused recusal in letters to Durbin and Whitehouse
 - **Subsequent Trump majorities**: Alito voted with the 6-3 majority in *Trump v. United States* (July 1, 2024) and with the 6-3 majority in *Fischer v. United States* (June 28, 2024, narrowing § 1512(c)(2))

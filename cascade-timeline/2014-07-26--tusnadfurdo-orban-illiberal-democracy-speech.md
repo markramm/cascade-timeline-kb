@@ -4,7 +4,7 @@ id: 2014-07-26--tusnadfurdo-orban-illiberal-democracy-speech
 date: '2014-07-26'
 title: "Orbán Names the Project: 'The New State We Are Building in Hungary Is an Illiberal State'"
 importance: 10
-status: confirmed
+status: reported
 entry_type: timeline_event
 tags:
   - hungary
@@ -83,6 +83,58 @@ capture_lanes:
   - Democratic Erosion
   - International Kleptocracy
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "English translation (official government transcript, kormany.hu, confirmed by Budapest Beacon translation of 29 July 2014):"
+  now: "English translation (official government transcript, kormany.hu; the Budapest Beacon's 29 July 2014 translation renders the passage differently):"
+  why: "https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp — official transcript wording: 'not simply a group of individuals but a community that must be organised, reinforced and in fact constructed'; 'agglomeration' appears in neither the kormany.hu nor the Budapest Beacon translation"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Orbán named five states as models of \"successful\" national organization that are \"not Western, not liberal, not liberal democracies, and perhaps not even democracies\":"
+  now: "Orbán said the most popular topic in thinking today is how systems that are \"not Western, not liberal, not liberal democracies and perhaps not even democracies\" can nevertheless make their nations successful, and that \"the stars of the international analysts today are Singapore, China, India, Russia and Turkey\":"
+  why: "https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp paragraph 37 — 'The stars of the international analysts today are Singapore, China, India, Russia and Turkey'; he called them a topic of analysis, not models"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "the 2008 financial crisis moved \"the global center of gravity from the West to the East, from liberal states to illiberal ones,\" and liberal states have \"turned out to be inferior\" in the resulting competitive race."
+  now: "he told the audience to take as their starting point \"the financial, global economic, global power and global military power shift that emerged in 2008,\" which he called \"the Western financial crisis,\" and described today's world as \"a race to figure out a way of organizing communities, a state that is most capable of making a nation competitive\" (Budapest Beacon full text)."
+  why: "https://web.archive.org/web/2020/https://budapestbeacon.com/full-text-of-viktor-orbans-speech-at-baile-tusnad-tusnadfurdo-of-26-july-2014/ ; https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp — neither 'center of gravity' nor 'turned out to be inferior' appears in any English transcript; Orbán speaks of 'the financial, global economic, global power and global military power shift that emerged in 2008'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Orbán declared that \"the system of liberal democracy which functioned in Hungary in 1990–2010 failed because it was not able to compel the government to work in the national interest\""
+  now: "Orbán said that \"the liberal democracy was incapable of openly stating and committing the prevailing government, including through the use of its constitutional powers, to serving the interests of the nation with their work\" (official kormany.hu transcript); OSW summarised the speech's main point as that the liberal democracy that functioned in Hungary in 1990–2010 \"failed because it was not able to compel the government to work in the national interest\""
+  why: "https://www.osw.waw.pl/en/publikacje/analyses/2014-08-06/orbans-anti-liberal-manifesto — the 'failed because it was not able to compel the government' sentence is OSW's summary; Orbán's own words are in kormany.hu paragraph 44"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "turning the post-2008 financial crisis into the warrant (\"the era of liberal democracies has come to an end\")."
+  now: "turning the post-2008 financial crisis into the warrant for a new state that would come, in Orbán's words, \"following the liberal state and the era of liberal democracy\" (official kormany.hu transcript, 26 July 2014)."
+  why: "https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp ; American Rhetoric bilingual transcript ('liberális demokrácia korszaka után') — the speech says the new state comes 'following the liberal state and the era of liberal democracy', not that the era 'has come to an end'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "not simply a group of individuals but a community that must be organised, reinforced and in fact constructed"
+  qualifier: ""
+  span: "the Hungarian nation is not simply a group of individuals but a community that must be organised, reinforced and in fact constructed"
+  url: https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "The stars of the international analysts today are Singapore, China, India, Russia and Turkey"
+  qualifier: ""
+  span: "The stars of the international analysts today are Singapore, China, India, Russia and Turkey."
+  url: https://web.archive.org/web/2020/https://2015-2019.kormany.hu/en/the-prime-minister/the-prime-minister-s-speeches/prime-minister-viktor-orban-s-speech-at-the-25th-balvanyos-summer-free-university-and-student-camp
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "failed because it was not able to compel the government to work in the national interest"
+  qualifier: ""
+  span: "the system of liberal democracy which functioned in Hungary in 1990-2010 failed because it was not able to compel the government to work in the national interest"
+  url: https://www.osw.waw.pl/en/publikacje/analyses/2014-08-06/orbans-anti-liberal-manifesto
+  read: fetched
+  source_kind: secondary
 ---
 
 On July 26, 2014, Hungarian Prime Minister Viktor Orbán delivered the annual Bálványos Free Summer University address at Băile Tușnad (Tusnádfürdő) in Romanian Transylvania and explicitly named the regime-type he was building: *"az az új állam, amelyet Magyarországon építünk, illiberális állam, nem liberális állam."* ("The new state we are building in Hungary is an illiberal state, a non-liberal state.") This is the single rhetorical event that made the post-2010 Hungarian capture sequence *legible internationally* — converting a series of formally legal domestic moves into a named positive model with a stated theoretical justification.
@@ -95,25 +147,25 @@ Orbán's Bálványos address has been an annual fixture since the early 1990s: a
 
 > *"a magyar nemzet nem egy egyszerű egyének halmaza, hanem egy közösség, amelyet meg kell szervezni, meg kell erősíteni, és valójában fel kell építeni. Ezért az az új állam, amelyet Magyarországon építünk, illiberális állam, nem liberális állam."*
 
-English translation (official government transcript, kormany.hu, confirmed by Budapest Beacon translation of 29 July 2014):
+English translation (official government transcript, kormany.hu; the Budapest Beacon's 29 July 2014 translation renders the passage differently):
 
-> "The Hungarian nation is not a simple agglomeration of individuals but a community that must be organised, strengthened, and actually built. Hence the new state we are building in Hungary is an illiberal state, a non-liberal state."
+> "[T]he Hungarian nation is not simply a group of individuals but a community that must be organised, reinforced and in fact constructed. And so in this sense the new state that we are constructing in Hungary is an illiberal state, a non-liberal state."
 
 A second passage, clarifying the scope:
 
 > "It does not deny foundational values of liberalism, as freedom, etc. But it does not make this ideology a central element of state organisation, but applies a specific, national, particular approach in its stead."
 
-**The reference-case list.** Orbán named five states as models of "successful" national organization that are "not Western, not liberal, not liberal democracies, and perhaps not even democracies":
+**The reference-case list.** Orbán said the most popular topic in thinking today is how systems that are "not Western, not liberal, not liberal democracies and perhaps not even democracies" can nevertheless make their nations successful, and that "the stars of the international analysts today are Singapore, China, India, Russia and Turkey":
 
 - Singapore
 - China
 - India
-- Turkey
 - Russia
+- Turkey
 
-The list is structurally significant: it positions the Hungarian project as one instance within a global competitive shift away from Western liberal organization. Orbán's framing is explicitly comparative: the 2008 financial crisis moved "the global center of gravity from the West to the East, from liberal states to illiberal ones," and liberal states have "turned out to be inferior" in the resulting competitive race.
+The list is structurally significant: it positions the Hungarian project as one instance within a global competitive shift away from Western liberal organization. Orbán's framing is explicitly comparative: he told the audience to take as their starting point "the financial, global economic, global power and global military power shift that emerged in 2008," which he called "the Western financial crisis," and described today's world as "a race to figure out a way of organizing communities, a state that is most capable of making a nation competitive" (Budapest Beacon full text).
 
-**The liberal democracy critique.** Orbán declared that "the system of liberal democracy which functioned in Hungary in 1990–2010 failed because it was not able to compel the government to work in the national interest" — framing the preceding post-communist democratic period as a failure, not as a baseline to be preserved.
+**The liberal democracy critique.** Orbán said that "the liberal democracy was incapable of openly stating and committing the prevailing government, including through the use of its constitutional powers, to serving the interests of the nation with their work" (official kormany.hu transcript); OSW summarised the speech's main point as that the liberal democracy that functioned in Hungary in 1990–2010 "failed because it was not able to compel the government to work in the national interest" — framing the preceding post-communist democratic period as a failure, not as a baseline to be preserved.
 
 **Delivery context.** This is not a slip or an improvisation. It is a carefully prepared address at a preannounced academic forum, delivered by a sitting head of government of an EU member state, subsequently published on the official Hungarian government website in English and Hungarian (miniszterelnok.hu, later archived at 2015-2019.kormany.hu). The speech was delivered four years into Orbán's supermajority-driven institutional capture sequence — after the new Fundamental Law (2012), the Cardinal Laws (2011–2013), and the Fourth Amendment (2013) had already restructured the constitutional order. The naming came after the doing.
 
@@ -137,7 +189,7 @@ The 2014 speech follows four years of systematic institutional capture under the
 
 The Zakaria source text is significant for another reason: Zakaria's 1997 essay was written as a warning about the spread of electoralism without constitutionalism in developing democracies, primarily with reference to post-Soviet and non-Western contexts. That an EU member state's Prime Minister would cite the same conceptual framework approvingly — from inside the European Union and NATO — was precisely the novelty that made the 2014 speech a threshold event rather than another rhetorical statement.
 
-Gábor Halmai's 2019 analysis ("Populism, authoritarianism and constitutionalism," *German Law Journal* Vol. 20 No. 3) provides the sharpest scholarly account of the Zakaria-to-Orbán inversion: where Zakaria described illiberal democracy as a developmental failure, Orbán reclaimed it as a competitive advantage, turning the post-2008 financial crisis into the warrant ("the era of liberal democracies has come to an end").
+Gábor Halmai's 2019 analysis ("Populism, authoritarianism and constitutionalism," *German Law Journal* Vol. 20 No. 3) provides the sharpest scholarly account of the Zakaria-to-Orbán inversion: where Zakaria described illiberal democracy as a developmental failure, Orbán reclaimed it as a competitive advantage, turning the post-2008 financial crisis into the warrant for a new state that would come, in Orbán's words, "following the liberal state and the era of liberal democracy" (official kormany.hu transcript, 26 July 2014).
 
 Anne Applebaum's *Twilight of Democracy* (Doubleday, 2020) analyzes the 2014 speech as the point at which Orbán's ideological drift — visible since 2002 but obscured by electoral politics — became a formal declaration. Applebaum's access to the European intellectual right that moved toward Orbán makes her account of the speech's reception in those networks particularly valuable: the speech gave Orbán's sympathizers on the French, British, and American right a vocabulary that rendered their admiration defensible as political theory rather than mere authoritarianism.
 

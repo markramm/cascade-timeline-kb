@@ -4,7 +4,7 @@ id: 2001-09-25--yoo-olc-memo-military-force-plenary-war-powers
 date: '2001-09-25'
 title: "Yoo OLC Memo Declares Presidential War Powers 'Plenary' and 'Unreviewable' — Post-9/11 Doctrinal Foundation"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - executive-power-expansion
   - olc
@@ -57,11 +57,68 @@ capture_lanes:
   - Intelligence Penetration
   - Militarization
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "one week after Congress passed the Authorization for Use of Military Force (AUMF)"
+  now: "eleven days after Congress passed the Authorization for Use of Military Force (AUMF) on September 14, 2001, and one week after President Bush signed it into law on September 18"
+  why: "https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf — memo twice says the Joint Resolution was 'passed by Congress on September 14, 2001'; the AUMF was signed Sept 18"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "It is co-authored with Robert J. Delahunty."
+  now: "The memo bears only Yoo's name; Robert J. Delahunty co-wrote the later law-review article of similar title with Yoo (SSRN 331202), not the memo."
+  why: "https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf — memo is signed by Yoo alone; the Yoo-Delahunty co-authored piece is the later law-review article (SSRN 331202)"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The memo's operative conclusion is one of the most expansive articulations of presidential war-making authority in the OLC's history: *\"In the exercise of his plenary power to use military force, the President's decisions are for him alone and are unreviewable.\"*"
+  now: "The memo concludes that \"the President has broad constitutional power to use military force\" and \"has the plenary constitutional power to take such military actions as he deems necessary and appropriate\"; neither the War Powers Resolution nor the Joint Resolution \"can place any limits on the President's determinations as to any terrorist threat, the amount of military force to be used in response, or the method, timing, and nature of the response.\" A closing footnote (n.32, p. 214) adds: \"In the exercise of his plenary power to use military force, the President's decisions are for him alone and are unreviewable.\""
+  why: "https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf (25 Op. O.L.C. 188, 214 n.32) — 'unreviewable' is the last sentence of footnote 32, on proving who was behind an attack; the memo has no analysis of judicial review"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "issued a 20-page memorandum"
+  now: "issued a memorandum opinion (published at 25 Op. O.L.C. 188)"
+  why: "https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf — published 25 Op. O.L.C. 188 runs printed pages 188-214 (27 PDF pages); no source states 20 pages"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "characterized the Yoo/Bybee opinions in *Power and Constraint* (2012) as \"legally flawed\" and \"deeply problematic.\" Goldsmith withdrew several of the associated memos in 2004 and 2005 but could not withdraw the September 25, 2001 memo because it had become foundational to too many subsequent opinions."
+  now: "called the torture memos \"deeply flawed\" and \"sloppily reasoned\" in *The Terror Presidency* (2007) and withdrew them in 2004 before he resigned."
+  why: "https://en.wikipedia.org/wiki/Torture_Memos — Goldsmith: 'deeply flawed', 'sloppily reasoned' (The Terror Presidency, 2007); the W.W. Norton Power and Constraint page is a book listing with neither phrase; no source says he could not withdraw the memo"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "The memo was not publicly released until October 2008 when OLC declassified it under litigation pressure. For seven years it operated as classified internal doctrine."
+  now: "The memo was public on the Justice Department's OLC website (usdoj.gov/olc/warpowers925.htm) by December 2004 at the latest (Wayback Machine capture of 2004-12-23)."
+  why: "http://www.usdoj.gov:80/olc/warpowers925.htm (Wayback Machine capture 2004-12-23) — the full opinion was public on DOJ's OLC site by December 2004"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "September 14, 2001"
+  qualifier: "passed by Congress"
+  span: "passed by Congress on September 14, 2001"
+  url: https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "can place any limits on the President's determinations as to any terrorist threat"
+  qualifier: ""
+  span: "can place any limits on the President's determinations as to any terrorist threat, the amount of military force to be used in response, or the method, timing, and nature of the response"
+  url: https://www.justice.gov/sites/default/files/olc/opinions/2001/09/31/op-olc-v025-p0188.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: date
+  value: "2004-12-23"
+  qualifier: "Wayback capture"
+  span: "MEMORANDUM OPINION FOR THE DEPUTY COUNSEL TO THE PRESIDENT"
+  url: https://web.archive.org/web/20041223000000*/http://www.usdoj.gov/olc/warpowers925.htm
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-On September 25, 2001 — two weeks after the September 11 attacks and one week after Congress passed the Authorization for Use of Military Force (AUMF) — Deputy Assistant Attorney General **John C. Yoo** of the Office of Legal Counsel issued a 20-page memorandum to Timothy E. Flanigan, Deputy Counsel to the President, titled "The President's Constitutional Authority to Conduct Military Operations Against Terrorists and Nations Supporting Them." The memo's operative conclusion is one of the most expansive articulations of presidential war-making authority in the OLC's history: *"In the exercise of his plenary power to use military force, the President's decisions are for him alone and are unreviewable."* The September 25 memo is the foundational document of the post-9/11 executive-power architecture — the point from which the Bybee torture memo, the Yoo FISA memo, the warrantless-wiretap OLC opinions, the Guantanamo jurisdiction opinions, and every subsequent Bush II unilateral-authority position descended. It is co-authored with Robert J. Delahunty.
+On September 25, 2001 — two weeks after the September 11 attacks and eleven days after Congress passed the Authorization for Use of Military Force (AUMF) on September 14, 2001, and one week after President Bush signed it into law on September 18 — Deputy Assistant Attorney General **John C. Yoo** of the Office of Legal Counsel issued a memorandum opinion (published at 25 Op. O.L.C. 188) to Timothy E. Flanigan, Deputy Counsel to the President, titled "The President's Constitutional Authority to Conduct Military Operations Against Terrorists and Nations Supporting Them." The memo concludes that "the President has broad constitutional power to use military force" and "has the plenary constitutional power to take such military actions as he deems necessary and appropriate"; neither the War Powers Resolution nor the Joint Resolution "can place any limits on the President's determinations as to any terrorist threat, the amount of military force to be used in response, or the method, timing, and nature of the response." A closing footnote (n.32, p. 214) adds: "In the exercise of his plenary power to use military force, the President's decisions are for him alone and are unreviewable." The September 25 memo is the foundational document of the post-9/11 executive-power architecture — the point from which the Bybee torture memo, the Yoo FISA memo, the warrantless-wiretap OLC opinions, the Guantanamo jurisdiction opinions, and every subsequent Bush II unilateral-authority position descended. The memo bears only Yoo's name; Robert J. Delahunty co-wrote the later law-review article of similar title with Yoo (SSRN 331202), not the memo.
 
 ## What Happened / Key Facts
 
@@ -71,11 +128,11 @@ The memo's four structural claims:
 
 **2. The AUMF is narrower than Article II.** Yoo asserted — explicitly and notably — that the September 18, 2001 AUMF was *less* authority than the President already possessed under Article II. "The Joint Resolution is somewhat narrower than the President's constitutional authority." This reversed the conventional interpretive posture (statute authorizes, executive exercises statutorily authorized power) by treating the statute as a non-operative overlay on pre-existing constitutional authority.
 
-**3. Presidential war-making is unreviewable.** The memo's most aggressive claim: courts cannot review the President's decisions on whether, when, against whom, or how to use military force. "In the exercise of his plenary power to use military force, the President's decisions are for him alone and are unreviewable." This claim extends beyond the justiciability doctrines familiar to constitutional law (political question, standing) into a categorical executive immunity from judicial review.
+**3. Presidential war-making decisions are "for him alone."** The memo's text says neither the War Powers Resolution nor the Joint Resolution can limit the President's determinations as to the threat, the amount of force, or the method, timing and nature of the response. The sentence calling those decisions "unreviewable" is the last sentence of footnote 32 (p. 214), in a passage on the difficulty of proving which groups or states were behind an attack; the memo contains no analysis of judicial review or justiciability.
 
 **4. Preemptive force against non-9/11-linked targets is authorized.** The memo concluded that the President "may deploy military force preemptively against terrorist organizations or the States that harbor or support them, whether or not they can be linked to the specific terrorist incidents of September 11." This provided the doctrinal cover for the 2003 Iraq invasion (approved by a separate AUMF in October 2002 but legally defensible, per Yoo, without it) and for subsequent counterterrorism operations in countries not directly linked to 9/11.
 
-The memo was not publicly released until October 2008 when OLC declassified it under litigation pressure. For seven years it operated as classified internal doctrine.
+The memo was public on the Justice Department's OLC website (usdoj.gov/olc/warpowers925.htm) by December 2004 at the latest (Wayback Machine capture of 2004-12-23).
 
 ## Why This Event Matters
 
@@ -87,11 +144,11 @@ The September 25, 2001 memo is the **doctrinal foundation** of the post-9/11 exe
 
 **3. Reversing the War Powers Resolution analytical framework.** Where Dellinger's 1994 Haiti memo [[1994-09-27--dellinger-olc-haiti-war-powers-consultation-framework]] treated the WPR as a procedural overlay on underlying Article II authority, Yoo went further: the WPR is not merely procedural but is itself of questionable constitutionality, and in any event cannot constrain the President's Article II authority.
 
-Jack Goldsmith, who took over OLC in October 2003, characterized the Yoo/Bybee opinions in *Power and Constraint* (2012) as "legally flawed" and "deeply problematic." Goldsmith withdrew several of the associated memos in 2004 and 2005 but could not withdraw the September 25, 2001 memo because it had become foundational to too many subsequent opinions.
+Jack Goldsmith, who took over OLC in October 2003, called the torture memos "deeply flawed" and "sloppily reasoned" in *The Terror Presidency* (2007) and withdrew them in 2004 before he resigned.
 
 ## Broader Context
 
-John Yoo was Deputy Assistant Attorney General at OLC from 2001 to 2003 while on leave from his tenured position at UC Berkeley Boalt Hall. He returned to Berkeley in 2003 amid sustained academic-freedom controversy over his OLC work. Robert Delahunty, the co-author, was Special Counsel at OLC and later joined the University of St. Thomas School of Law.
+John Yoo was Deputy Assistant Attorney General at OLC from 2001 to 2003 while on leave from his tenured position at UC Berkeley Boalt Hall. He returned to Berkeley in 2003 amid sustained academic-freedom controversy over his OLC work. Robert Delahunty, Yoo's co-author on the later law-review article, was Special Counsel at OLC and later joined the University of St. Thomas School of Law.
 
 The intellectual genealogy of the September 25 memo is directly traceable to the 1987 Iran-Contra Minority Report [[1987-11-18--iran-contra-minority-report-cheney-unitary-executive]]. The case citations (Curtiss-Wright, Dames & Moore, Youngstown), the Federalist anchors (Nos. 70 and 74), and the structural analytical move (Article II supplies substantive authority; statutes are procedural overlays) are identical.
 
@@ -106,7 +163,7 @@ The memo's doctrinal reach extends into the Trump-2 era. The 2025 OLC briefing o
 ## Actors involved
 
 - **John C. Yoo**: Deputy Assistant Attorney General, OLC; principal author.
-- **Robert J. Delahunty**: Special Counsel, OLC; co-author.
+- **Robert J. Delahunty**: Special Counsel, OLC; co-author of the later law-review article, not the memo.
 - **Timothy E. Flanigan**: Deputy Counsel to the President; formal addressee.
 - **Jay Bybee**: Assistant Attorney General (head of OLC) during Yoo's tenure; signed subsequent 2002 torture memos.
 - **David Addington**: Counsel to Vice President Cheney; principal external coordinator of OLC output.

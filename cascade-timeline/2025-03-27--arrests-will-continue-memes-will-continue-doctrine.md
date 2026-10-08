@@ -35,7 +35,12 @@ sources:
   date: '2025-11-06'
   tier: 1
   outlet: CBS Chicago
-status: confirmed
+- title: "What's behind the Trump administration's immigration memes?"
+  url: https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump
+  date: '2025-08-18'
+  publisher: "NPR"
+  tier: 1
+status: reported
 coverage:
   - url: https://theramm.substack.com/p/the-white-house-memelord-and-the
     title: "The White House Memelord and the Doctored Photo"
@@ -43,13 +48,29 @@ capture_lanes:
 - Digital and Tech Capture
 - Surveillance Infrastructure
 - Intelligence Penetration
+corrections:
+- date: '2026-10-08'
+  was: "White House spokesperson Abigail Jackson amplified the message to NPR, stating: **\"The White House consistently posts banger memes.\"**"
+  now: "In August 2025, responding to NPR's request for comment for a story on the administration's immigration memes, White House spokesperson Abigail Jackson sent an emailed statement saying: **\"The White House consistently posts banger memes,\"** and went on to mock NPR (NPR, Aug. 18, 2025)."
+  why: "https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump — 'White House spokesperson Abigail Jackson didn't directly respond to NPR's questions for this story. She sent an emailed statement saying: \"The White House consistently posts banger memes,\" and went on to mock NPR.' The cited WTTW/ABC/CBS pages do not mention Jackson"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "The White House consistently posts banger memes"
+  qualifier: "emailed statement to NPR"
+  span: "She sent an emailed statement saying: \"The White House consistently posts banger memes,\" and went on to mock NPR."
+  url: https://www.npr.org/2025/08/18/nx-s1-5482921/memes-white-house-dhs-social-media-trump
+  read: fetched
+  source_kind: secondary
 ---
 
 On March 27, 2025, after posting an AI-generated image in Studio Ghibli anime style showing a crying Dominican woman being arrested by ICE, White House Deputy Communications Director Kaelan Dorr responded to criticism by establishing what would become the administration's defining communications tagline:
 
 **"The arrests will continue. The memes will continue."**
 
-White House spokesperson Abigail Jackson amplified the message to NPR, stating: **"The White House consistently posts banger memes."** This exchange transformed what had been Trump's personal social media style into explicit, defended doctrine across federal agencies. The March 27 articulation marked the moment trolling officially became government policy, with a senior White House official declaring that provocative meme-based communication would continue regardless of public response, criticism, or democratic norms.
+In August 2025, responding to NPR's request for comment for a story on the administration's immigration memes, White House spokesperson Abigail Jackson sent an emailed statement saying: **"The White House consistently posts banger memes,"** and went on to mock NPR (NPR, Aug. 18, 2025). This exchange transformed what had been Trump's personal social media style into explicit, defended doctrine across federal agencies. The March 27 articulation marked the moment trolling officially became government policy, with a senior White House official declaring that provocative meme-based communication would continue regardless of public response, criticism, or democratic norms.
 
 ## The Studio Ghibli Incident
 
@@ -82,7 +103,7 @@ The tagline would be repeated throughout 2025 by White House officials and plast
 
 ## Abigail Jackson: "Banger Memes"
 
-White House spokesperson Abigail Jackson's statement to NPR provided official validation:
+White House spokesperson Abigail Jackson's emailed statement to NPR in August 2025, about five months after Dorr's, echoed the doctrine (NPR, Aug. 18, 2025):
 
 **"The White House consistently posts banger memes."**
 
@@ -115,7 +136,7 @@ A July 2025 White House lawn sign photo showed the same text physically displaye
 
 ## Establishing Framework for All Federal Agencies
 
-While Dorr and Jackson's March 27 statements came from White House communications staff, they established framework that would be adopted across federal agencies throughout 2025:
+While Dorr's March 27 statement and Jackson's August 2025 statement came from White House communications staff, they established framework that would be adopted across federal agencies throughout 2025:
 
 **Department of Homeland Security**:
 - October 27: Halo "DESTROY THE FLOOD" recruitment post

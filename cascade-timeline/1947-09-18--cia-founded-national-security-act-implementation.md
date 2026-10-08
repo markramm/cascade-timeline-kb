@@ -4,7 +4,7 @@ id: 1947-09-18--cia-founded-national-security-act-implementation
 date: '1947-09-18'
 title: Central Intelligence Agency Begins Operations Under 1947 National Security Act
 importance: 10
-status: confirmed
+status: reported
 actors:
   - Harry S. Truman
   - Roscoe H. Hillenkoetter
@@ -35,11 +35,27 @@ sources:
 capture_lanes:
   - Intelligence Penetration
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "statutory language forbidding CIA \"police, subpoena, law-enforcement, or internal security functions.\""
+  now: "statutory language providing that \"the Agency shall have no police, subpena, law-enforcement powers, or internal-security functions\" (National Security Act of 1947, § 102(d)(3), 61 Stat. 498)."
+  why: "https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf (61 Stat. 498, Sec. 102(d)(3)) — 'the Agency shall have no police, subpena, law-enforcement powers, or internal-security functions'"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "the Agency shall have no police, subpena, law-enforcement powers"
+  qualifier: ""
+  span: "the Agency shall have no police, subpena, law-enforcement powers"
+  url: https://www.govinfo.gov/content/pkg/STATUTE-61/pdf/STATUTE-61-Pg495.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening
 
-The Central Intelligence Agency begins operations September 18, 1947 — the effective date of the National Security Act signed by President Truman on July 26. Rear Admiral Roscoe Hillenkoetter assumes duties as the first Director of Central Intelligence. The CIA inherits the personnel, records, and operating culture of the dissolved Office of Strategic Services via the intervening Central Intelligence Group (1946-1947), becoming the first peacetime civilian foreign intelligence service in U.S. history. Congressional debate specifically rejected authorizing domestic surveillance operations, producing statutory language forbidding CIA "police, subpoena, law-enforcement, or internal security functions." That prohibition is systematically violated within a decade.
+The Central Intelligence Agency begins operations September 18, 1947 — the effective date of the National Security Act signed by President Truman on July 26. Rear Admiral Roscoe Hillenkoetter assumes duties as the first Director of Central Intelligence. The CIA inherits the personnel, records, and operating culture of the dissolved Office of Strategic Services via the intervening Central Intelligence Group (1946-1947), becoming the first peacetime civilian foreign intelligence service in U.S. history. Congressional debate specifically rejected authorizing domestic surveillance operations, producing statutory language providing that "the Agency shall have no police, subpena, law-enforcement powers, or internal-security functions" (National Security Act of 1947, § 102(d)(3), 61 Stat. 498). That prohibition is systematically violated within a decade.
 
 ## What Happened / Key Facts
 
@@ -48,7 +64,7 @@ The National Security Act of 1947 is a single statute creating: the Department o
 - **Coordination of intelligence activities** across federal agencies.
 - **Provision of intelligence to policymakers.**
 - **"Such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct."** — the elastic clause that becomes the legal foundation for all subsequent CIA covert action.
-- **Explicit prohibition** on police, subpoena, law-enforcement, and internal security functions (§ 102(d)(3)).
+- **Explicit prohibition**: the Agency "shall have no police, subpena, law-enforcement powers, or internal-security functions" (§ 102(d)(3)).
 
 Early domestic boundary violations:
 

@@ -4,7 +4,7 @@ id: 2026-07-06--pena-lopez-v-united-states-ada-rehabilitation-act-suit-geo-corec
 date: '2026-07-06'
 title: "Peña López Family Sues US, ICE, GEO Group, and CoreCivic Over Alleged Beating and Disability-Rights Violations at Two Kern County ICE Facilities"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - detention-industrial-complex
   - disability-rights
@@ -44,6 +44,35 @@ capture_lanes:
   - Detention Industrial Complex
   - Disability Rights
 coverage: []
+corrections:
+- date: '2026-10-08'
+  was: "No answer, motion to dismiss, or merits ruling had been docketed as of this research pass (Aug. 28, 2026); the only subsequent docket entries found are a notice of appearance (July 6) and a magistrate-judge consent/declination filing (July 10)."
+  now: "GEO answered Aug. 12 (Dkt. 19); summonses returned executed July 15-23; case reassigned to Judge Freeman July 13; CoreCivic stipulation granted Aug. 17; no merits ruling."
+  why: "https://www.courtlistener.com/docket/73577561/pena-lopez-v-united-states-of-america/ — CourtListener docket 73577561, entries July 9 to Sept. 14, 2026"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "Named plaintiffs' counsel span four firms: Struck Love Acedo, PLC; Edlin Gallagher Huie & Blum; Pangea Legal Services; and Disability Law United."
+  now: "Struck Love Acedo (Keene, for CoreCivic), Edlin Gallagher Huie & Blum (Blum, for GEO) and the U.S. Attorney's Office (Starrett) are defense counsel; plaintiffs' counsel are Disability Law United, Pangea Legal Services and DREDF."
+  why: "https://www.courtlistener.com/docket/73577561/parties/pena-lopez-v-united-states-of-america/ — CourtListener parties page"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: date
+  value: "8/12/2026"
+  qualifier: ""
+  span: "ANSWER to Complaint by The GEO Group, Inc.. (Blum, Fred) (Filed on 8/12/2026)"
+  url: https://www.courtlistener.com/docket/73577561/pena-lopez-v-united-states-of-america/
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: "date"
+  value: "Jul 13, 2026"
+  qualifier: ""
+  span: "Jul 13, 2026 CLERK'S NOTICE OF IMPENDING REASSIGNMENT TO A U.S. DISTRICT COURT JUDGE"
+  url: https://www.courtlistener.com/docket/73577561/pena-lopez-v-united-states-of-america/
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening paragraph
@@ -58,9 +87,9 @@ On July 6, 2026, Ulises Peña Lopez, his wife Aby Pena, and their minor daughter
 
 **Pre-existing disability:** Peña Lopez, a carpenter, had a documented August 2024 mini-stroke diagnosis, managed before detention. Post-arrest and post-detention, the complaint alleges new and worsening symptoms: headaches, right-side weakness/numbness, eye pain, hearing loss, insomnia, nightmares, blurry vision, back pain, and difficulty walking, leaving him unable to work.
 
-**Claims pleaded:** Section 504 of the Rehabilitation Act, 29 U.S.C. § 794 (per CourtListener's "Cause" field: "28:794 Rehabilitation Act"; nature-of-suit code 440, Civil Rights: Other), and — per the Mercury News' direct reading of the complaint — a Fifth Amendment due-process claim, seeking a declaratory judgment that conditions at both facilities were unconstitutional. **This is a filed complaint, not a ruling.** No answer, motion to dismiss, or merits ruling had been docketed as of this research pass (Aug. 28, 2026); the only subsequent docket entries found are a notice of appearance (July 6) and a magistrate-judge consent/declination filing (July 10).
+**Claims pleaded:** Section 504 of the Rehabilitation Act, 29 U.S.C. § 794 (per CourtListener's "Cause" field: "28:794 Rehabilitation Act"; nature-of-suit code 440, Civil Rights: Other), and — per the Mercury News' direct reading of the complaint — a Fifth Amendment due-process claim, seeking a declaratory judgment that conditions at both facilities were unconstitutional. **This is a filed complaint, not a ruling.** As of Aug. 28, 2026 the docket showed no merits ruling. On July 13 the case was reassigned to Judge Beth Labson Freeman; summonses were returned executed on all defendants from July 15 to 23; and The GEO Group filed its answer on Aug. 12 (Dkt. 19). On Aug. 17 the court granted a stipulated order giving CoreCivic more time to respond. Later, CoreCivic moved to dismiss or, in the alternative, to sever and transfer (Sept. 3), and the federal defendants answered (Sept. 14). No merits ruling has issued (CourtListener docket).
 
-**Named plaintiffs' counsel** span four firms: Struck Love Acedo, PLC; Edlin Gallagher Huie & Blum; Pangea Legal Services; and **Disability Law United**. Lead filing attorney: Cynthia Louise Rice; also appearing: Elena Hodges (Pangea Legal Services co-director), Fred M. Blum, Dana M. Keene, Michael J. Starrett, Laura Murchie.
+**Plaintiffs' counsel of record** are Cynthia Louise Rice (lead) and Laura Murchie (pro hac vice) of **Disability Law United**, Elena Hodges of Pangea Legal Services, and Ayesha Elaine Lewis and Leah J. Kang of the Disability Rights Education and Defense Fund (appearing Aug. 31 and Sept. 17, 2026). **Defense counsel** are Michael J. Starrett (U.S. Attorney's Office, for the United States, ICE and DHS), Fred M. Blum (Edlin Gallagher Huie & Blum, for The GEO Group) and Dana M. Keene (Struck Love Acedo, PLC, for CoreCivic).
 
 **Both companies' responses (via Mother Jones and Mercury News):** A CoreCivic spokesperson said the company does not generally comment on active litigation but that "the safety, health, and well-being of the people in our facilities is our top priority"; CoreCivic spokesman Ryan Gustin separately said detainees have "daily access to sign up for medical care" and receive "three nutritious meals a day." GEO Group did not respond to requests for comment. A DHS/ICE spokesperson called Peña Lopez, 31, a "criminal illegal alien from Mexico with prior arrests," said he "initially did not comply with officers' repeated instructions," and that "any claims of subprime medical care at ICE facilities are FALSE." **Santa Clara County Superior Court records confirm** Peña Lopez was convicted in 2020 of misdemeanor assault involving his then-girlfriend/now-wife (2019, Palo Alto) — one year of a domestic-violence program, three years' probation, $3,740 restitution. Attorney Hodges: "ICE's attempt to focus on Ulises's criminal history shouldn't be allowed to distract from what this case is actually about."
 
@@ -75,7 +104,7 @@ California City Detention Facility already sits under a separate, active federal
 ## Research Gaps
 
 - [ ] The complaint itself (Dkt. 1, PACER) has not been directly retrieved — CourtListener's docket-entry viewer returned a failed/empty fetch for this docket (consistent with a JS-rendered entry table, not a confirmed absence); the case metadata (parties, cause, attorneys) was retrieved via CourtListener's search-index API, which is reliable, but exact pleaded counts/paragraphs were not independently verified against the PDF.
-- [ ] No answer or motion to dismiss from any defendant has surfaced as of Aug. 28, 2026 — worth a follow-up docket check in 60-90 days.
+- [ ] Rulings on CoreCivic's motion to dismiss or sever and transfer (hearing set for 2/11/2027) — worth a follow-up docket check.
 - [ ] Whether Disability Law United has filed comparable suits against other ICE facilities beyond this case was checked (CourtListener + news search) and found **no other ICE-detention-specific Disability Law United filing** in the current search window — see companion research note for the bounded verified-absence statement.
 
 ## Related Entries
