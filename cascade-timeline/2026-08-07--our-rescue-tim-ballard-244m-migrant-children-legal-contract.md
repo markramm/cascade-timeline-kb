@@ -2,10 +2,10 @@
 type: timeline_event
 id: 2026-08-07--our-rescue-tim-ballard-244m-migrant-children-legal-contract
 date: '2026-08-07'
-title: "ORR Awards Our Rescue a $158.1M Non-Competed 'Urgency' Contract to Represent Migrant Children — One Day After a Federal Judge Found No Mechanism Existed for Injunction Compliance"
+title: "ORR Awards Our Rescue a $158.1M Non-Competed 'Urgency' Contract to Represent Migrant Children — One Day After a Federal Judge Wrote That It 'Appears' No Mechanism Existed for Injunction Compliance"
 importance: 9
-status: confirmed
-verification_status: verified-primary-sources
+status: reported
+verification_status: "partially-verified-corrected-2026-10-08"
 tags:
   - detention-industrial-complex
   - immigration-system-capture
@@ -76,6 +76,40 @@ sources:
 coverage:
   - path: daily-capture-reports/feed/2026-08-01--trump-defunds-immigration-legal-aid-our-rescue-contract-2026.md
     note: "Mother Jones survey of legal-aid groups: attempted cancellation of around $267 million in legal-aid spending (c1), RAICES 159 layoffs (c3), and the $158 million Our Rescue award (c6). Context for this entry; dropped as duplicate 2026-10-01."
+corrections:
+- date: '2026-10-08'
+  was: "an eight-month funding stoppage a court found unlawful, and then an urgency authority that placed a quarter-billion dollars without a competitor."
+  now: "an eight-month funding stoppage a court held violated its preliminary injunction (ECF 172, Aug. 6, 2026), and then an urgency authority that obligated $158.1 million without a competitor, on a contract with a ceiling of $244.0 million if all options through February 2028 are exercised (USAspending award 7571MN26C00029)."
+  why: "https://storage.courtlistener.com/recap/gov.uscourts.cand.447078/gov.uscourts.cand.447078.172.0.pdf (ECF 172, Aug 6, 2026) — 'it appears to the Court that no mechanism presently exists by which Defendants are complying with the preliminary injunction' and orders a compliance report; the withholding 'violates both the plain language as well as the spirit of the preliminary injunction'; https://api.usaspending.gov/api/v2/awards/CONT_AWD_7571MN26C00029_7571_-NONE-_-NONE-/ — total_obligation $158,124,790; base_and_all_options $244,034,658"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "it is not retrievable from USAspending, where `base_and_all_options_value` returns null. The obligated base of $158,124,790 is confirmed in both."
+  now: "USAspending's award record gives the same figure: base_and_all_options of $244,034,658, with base_exercised_options and total_obligation of $158,124,790."
+  why: "https://api.usaspending.gov/api/v2/awards/CONT_AWD_7571MN26C00029_7571_-NONE-_-NONE-/ — the API returns base_and_all_options 244034658.0 and base_exercised_options 158124790.0; the key 'base_and_all_options_value' does not exist, so a lookup by that name returned null"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-08'
+  was: "against the 20,000-plus the displaced network served, at more than twelve times USCRI's per-vendor cost."
+  now: "against the 20,000-plus the displaced network served. USCRI's interim award is up to $20 million through at least December 2026, while Our Rescue's six-month base period alone is $158,124,790 (Debany Decl., ECF 177 ¶¶4-6)."
+  why: "https://www.npr.org/2026/08/12/nx-s1-5929456/migrant-children-our-rescue ; Debany Decl. ECF 177 ¶¶4-6 — USCRI up to $20 million through at least December 2026; Our Rescue six-month base $158,124,790 and total $244,034,658 over up to 18 months; https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-durbin-hirono-and-merkley-demand-answers-after-unqualified-organization-with-close-ties-to-ice-receives-no-bid-contract-to-provide-legal-services-to-migrant-children — four senators, letter of Aug 18 to Benner and board chair Vassilaros"
+  found_by: "timeline fact-check slice 1 2026-10-08"
+verification: captured
+claims:
+- id: c0
+  type: figure
+  value: "158124790.0"
+  qualifier: ""
+  span: "158124790.0"
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_7571MN26C00029_7571_-NONE-_-NONE-/
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "the nonexistence of legal services provided by your organization"
+  qualifier: ""
+  span: "the nonexistence of legal services provided by your organization"
+  url: https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-durbin-hirono-and-merkley-demand-answers-after-unqualified-organization-with-close-ties-to-ice-receives-no-bid-contract-to-provide-legal-services-to-migrant-children
+  read: fetched
+  source_kind: secondary
 ---
 
 On **August 7, 2026**, HHS's Office of Refugee Resettlement signed contract **7571MN26C00029** — **"Legal Services Bridge 2.0"** — obligating **$158,124,790** to **Our Rescue**, the Utah anti-trafficking nonprofit founded as Operation Underground Railroad by Tim Ballard and now led by **Derek Benner**, the former head of ICE Homeland Security Investigations. The federal contracting record codes the award **"NOT COMPETED,"** solicitation procedures **"ONLY ONE SOURCE,"** **one offer received**, under **FAR 6.302-2 — "unusual and compelling urgency."** Its NAICS code is **541110, "Offices of Lawyers."** Queried by UEI across all contract and grant types back to FY2008, **Our Rescue had never held a federal award of any kind**; this contract is its entire federal history, and it is roughly **three times the organization's total annual revenue**.
@@ -86,8 +120,8 @@ The displaced incumbent, the **Acacia Center for Justice**, had administered a s
 
 The government's explanation, sworn: its competitive solicitation (RFP 75P00126R00003 — covering 203 ORR offices across 26 states and ten categories of immigration relief) had been **protested three times since November 2025** — most recently **by Acacia itself on June 15, 2026** — and the Competition in Contracting Act stays award while a protest is pending. ORR says it negotiated with Acacia for a further bridge until roughly **June 10**, then turned to alternative vendors, beginning the Our Rescue negotiation about two months before the award. ORR also says the bridge it offered Acacia required only "data on what services they billed for and who they provided the services to"; Acacia says the government demanded privileged case strategy. Those accounts are not reconcilable on the present record.
 
-What is not in dispute: the award was **not competed**, its recipient had **never held a federal contract**, and the structure ORR described to the court covers roughly 1,800 children in its custody — against the 20,000-plus the displaced network served, at more than twelve times USCRI's per-vendor cost. Four U.S. senators wrote to Benner and Our Rescue's board on **August 18** demanding answers by **September 1**, citing "the nonexistence of legal services provided by your organization" and raising confidentiality concerns given the organization's ICE leadership. Michael Lukens of the Amica Center: *"HHS is causing chaos in the system, and that may be on purpose."*
+What is not in dispute: the award was **not competed**, its recipient had **never held a federal contract**, and the structure ORR described to the court covers roughly 1,800 children in its custody — against the 20,000-plus the displaced network served. USCRI's interim award is up to $20 million through at least December 2026, while Our Rescue's six-month base period alone is $158,124,790 (Debany Decl., ECF 177 ¶¶4-6). Senators Blumenthal, Durbin, Hirono and Merkley wrote to Benner and Our Rescue board chair Sean Vassilaros on **August 18** (Blumenthal press release, Aug. 18, 2026) demanding answers by **September 1**, citing "the nonexistence of legal services provided by your organization" and raising confidentiality concerns given the organization's ICE leadership. Michael Lukens of the Amica Center: *"HHS is causing chaos in the system, and that may be on purpose."*
 
-The pattern is the one this timeline tracks across the detention-industrial complex: an accountability channel — here, a detained child's lawyer — is not abolished but **redirected** into hands structurally aligned with the enforcement apparatus. The mechanism is procurement: a stalled competition, a lapsed bridge, an eight-month funding stoppage a court found unlawful, and then an urgency authority that placed a quarter-billion dollars without a competitor. It follows ICE's attempted raid on legal-aid offices holding migrant children's files ([[2026-06-13--ice-hsi-attempt-raid-legal-aid-offices-migrant-children-files]]) and tripled unaccompanied-minor deportations ([[2026-07-06--propublica-unaccompanied-minor-deportations-tripled-trump]]).
+The pattern is the one this timeline tracks across the detention-industrial complex: an accountability channel — here, a detained child's lawyer — is not abolished but **redirected** into hands structurally aligned with the enforcement apparatus. The mechanism is procurement: a stalled competition, a lapsed bridge, an eight-month funding stoppage a court held violated its preliminary injunction (ECF 172, Aug. 6, 2026), and then an urgency authority that obligated $158.1 million without a competitor, on a contract with a ceiling of $244.0 million if all options through February 2028 are exercised (USAspending award 7571MN26C00029). It follows ICE's attempted raid on legal-aid offices holding migrant children's files ([[2026-06-13--ice-hsi-attempt-raid-legal-aid-offices-migrant-children-files]]) and tripled unaccompanied-minor deportations ([[2026-07-06--propublica-unaccompanied-minor-deportations-tripled-trump]]).
 
-*The $244,034,658 total contract value is stated under penalty of perjury in the Debany declaration, ECF 177 ¶6 (2026-08-13); it is not retrievable from USAspending, where `base_and_all_options_value` returns null. The obligated base of $158,124,790 is confirmed in both.*
+*The $244,034,658 total contract value is stated under penalty of perjury in the Debany declaration, ECF 177 ¶6 (2026-08-13); USAspending's award record gives the same figure: base_and_all_options of $244,034,658, with base_exercised_options and total_obligation of $158,124,790.*
