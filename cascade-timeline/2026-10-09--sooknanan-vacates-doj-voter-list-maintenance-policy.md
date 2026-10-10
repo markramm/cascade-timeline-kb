@@ -88,10 +88,10 @@ claims:
   read: fetched
   source_kind: primary
 - id: c6
-  type: quote
-  value: "reviewing the decision"
-  qualifier: "DOJ spokesperson, as reported by CBS News"
-  span: "reviewing the decision"
+  type: attribution
+  value: "the agency is reviewing the decision"
+  qualifier: "CBS News paraphrase of a Justice Department spokesperson; not a direct quotation"
+  span: "A Justice Department spokesperson said the agency is reviewing the decision."
   url: https://www.cbsnews.com/news/judge-blocks-doj-state-voter-roll-policy-civil-rights/
   read: fetched
   source_kind: secondary
@@ -111,10 +111,10 @@ The opinion describes a separate arrangement under which DOJ agreed to provide s
 
 - **It vacates a policy.** The remedy is vacatur under the Administrative Procedure Act.
 - **It issues no injunction.** The plaintiffs asked for one in the alternative; the court wrote that it "does not address the propriety of additional injunctive relief" (p. 76 n.21).
-- **It orders nothing about data already transferred.** A search of the opinion for delete, destroy, sequester and return found no such relief.
+- **It orders nothing about data already transferred.** The opinion grants no relief requiring deletion, destruction, sequestration or return of records.
 - **DHS, ICE and HSI are not parties.** The defendants are the Department of Justice and its Attorney General.
 
-A DOJ spokesperson told CBS News the department is "reviewing the decision." No appeal, stay motion or compliance filing appeared on the docket as of October 10, 2026.
+A Justice Department spokesperson said the agency is reviewing the decision, CBS News reported. No appeal, stay motion or compliance filing appeared on the docket as of October 10, 2026.
 
 ## What is not established
 
