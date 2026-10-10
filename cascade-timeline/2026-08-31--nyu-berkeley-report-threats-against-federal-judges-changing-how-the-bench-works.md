@@ -99,6 +99,9 @@ sources:
   publisher: Above the Law
   date: '2026-09-03'
   tier: 2
+coverage:
+  - url: https://fixthecourt.com/2026/10/new-report-underscores-how-threats-against-judges-are-putting-judicial-independence-at-risk/
+    title: "New Report Underscores How Threats Against Judges Are Putting Judicial Independence at Risk (Fix the Court)"
 ---
 
 This report was jointly issued by the Rule of Law Lab and the Berkeley Judicial Institute at UC Berkeley School of Law. Release Date: August 31, 2026. It draws on thirty-four interviews with an equal number of federal judges appointed by presidents of both major political parties and research of publicly available materials.

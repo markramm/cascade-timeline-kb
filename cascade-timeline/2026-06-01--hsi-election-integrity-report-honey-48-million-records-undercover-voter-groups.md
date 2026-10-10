@@ -245,6 +245,9 @@ sources:
     publisher: "Internet Archive"
     date: '2026-10-07'
     tier: 1
+coverage:
+  - url: https://democracyforward.org/work/research/exposing-and-disrupting-federal-attempts-to-interfere-in-the-2026-midterm-elections/
+    title: "Exposing and Disrupting Federal Attempts to Interfere in the 2026 Midterm Elections (Democracy Forward)"
 ---
 
 A Homeland Security Investigations election-integrity report dated 06/01/2026, headed Countering Transnational Organized Crime, records: "48.4 million records were obtained by DAS Heather Honey through independent sources of information." From a Justice Department dataset: "50.6 million records ingested; processing underway." It reports "Prioritizing 26,563 USCIS-derived records for downstream vetting" and "Leads Disseminated: 1,586 to 24 HSI field offices." It adds: "Datasets are currently with iLab for secondary enrichment and identification of high-value targets."

@@ -47,6 +47,8 @@ related_events:
   - 2026-09-11--ice-turnkey-detention-solicitation-four-aors-deadline-extended
   - 2026-08-19--ice-detention-reengineering-initiative-stalls-program-wide-11-purchased-sites
 coverage:
+  - url: https://www.altoonamirror.com/news/local-news/2026/09/clearfield-votes-to-extend-moshannon-valley-detention-center-contract/
+    title: "Clearfield votes to extend Moshannon Valley Detention Center contract (Altoona Mirror)"
   - daily-capture-reports/detention/2026-09-22--clearfield-county-moshannon-valley-igsa-extension-vote-sept-22.md
   - daily-capture-reports/detention/2026-09-22--clearfield-county-moshannon-contract-extension-vote-22sep2026.md
   - url: https://theramm.transparencycascade.org/p/the-county-gets-200000-nobody-will

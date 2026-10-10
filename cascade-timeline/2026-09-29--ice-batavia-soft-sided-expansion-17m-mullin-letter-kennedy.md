@@ -157,6 +157,8 @@ related_events:
   - "2026-07-13--santa-clara-gilroy-ice-facility-construction-halted"
   - "2026-09-21--dhs-awards-7-3b-idiq-detention-contracts-five-states"
 coverage:
+  - url: https://www.timesunion.com/news/article/ice-batavia-detention-center-expansion-100-beds-22462671.php
+    title: "ICE to expand Batavia detention center to house women (Times Union)"
   - url: https://spectrumlocalnews.com/nys/buffalo/immigration/2026/10/02/trump-admin--moving-forward-with--17-million-expansion-of-ice-detention-facility-in-batavia
     title: Trump admin. moving forward with $17 million expansion of ICE detention facility in Batavia
 ---

@@ -76,6 +76,9 @@ related_events:
 - 2026-09-30--doj-election-misconduct-cases-reach-90-blanche-no-pattern-save-database
 - 2026-09-01--dhs-hsi-voter-fraud-surge-nine-states-midterms
 - 2026-09-14--taylor-warns-save-tool-becoming-centralized-federal-voter-database
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+    title: "The Election is a Homeland Security Investigations Case Now (The RAMM)"
 ---
 
 An anonymous federal whistleblower, represented by Democracy Defenders Fund, disclosed to Congress that a USCIS Fraud Detection and National Security Directorate "Unlawful Voter Initiative" directs officers to use personal data from DHS records to access state voter-registration sites. The disclosure states "Such false representations would likely violate relevant state law," and that each officer had a quota giving "only twelve minutes to determine if a subject is a U.S. citizen." It says the only training was a video of approximately 1 hour and 45 minutes. A DHS spokesperson told NPR: "There is no quota on criminality." 
