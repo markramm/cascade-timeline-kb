@@ -50,11 +50,17 @@ coverage:
   - url: https://theramm.transparencycascade.org/p/the-save-database-at-97
     title: "The SAVE Database at 97%: How a 3% Error Rate Could Become Millions of Ignored Votes"
 
+corrections:
+- date: '2026-10-10'
+  was: "the U.S. Postal Service released a Federal Register notice (Docket 2026-10968) initiating"
+  now: "the U.S. Postal Service filed a Federal Register notice (Docket 2026-10968; published June 2, 2026, 91 FR 32915) initiating"
+  why: "https://www.govinfo.gov/content/pkg/FR-2026-06-02/pdf/2026-10968.pdf - Federal Register Vol. 91, No. 105, Tuesday, June 2, 2026, Proposed Rules, p. 32915 (Ballot Mail for Federal Elections, 39 CFR Part 111); end of document: \"[FR Doc. 2026-10968 Filed 5-29-26; 12:15 pm]\""
+  found_by: "election tick 2026-10-10"
 ---
 
 ## What happened
 
-On May 29, 2026 — **one day after Judge Carl Nichols declined to block EO 14399** — the U.S. Postal Service released a Federal Register notice (Docket 2026-10968) initiating proposed rulemaking to implement the EO's mail-ballot provisions. Postmaster General **David Steiner** signed off; he had previously "met with other senior Trump administration and DOJ officials to discuss ways to implement the order" (Democracy Docket, May 29, 2026) — the public record of inter-agency coordination on the implementation mechanism.
+On May 29, 2026 — **one day after Judge Carl Nichols declined to block EO 14399** — the U.S. Postal Service filed a Federal Register notice (Docket 2026-10968; published June 2, 2026, 91 FR 32915) initiating proposed rulemaking to implement the EO's mail-ballot provisions. Postmaster General **David Steiner** signed off; he had previously "met with other senior Trump administration and DOJ officials to discuss ways to implement the order" (Democracy Docket, May 29, 2026) — the public record of inter-agency coordination on the implementation mechanism.
 
 ## The mechanism
 
