@@ -305,31 +305,6 @@ corrections:
   now: The memo lists 'Sole Source' for work under existing contract number 70CDCR25D00000011; the facility was added by modification P00003 (signed Sept. 25, 2026, per USAspending) under justification J&A-26-0356 (posted Oct. 7), not a new award. The modification date and the J&A are not bound to a fetchable page and are not in the body.
   why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
   found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
-- date: '2026-10-13'
-  was: 'Title: Mullin Letter on Batavia Soft-Sided Facility: $8,779,275 First-Year Cost; ICE Sole-Source Memo Approves $16,703,366.80 Over Two Years'
-  now: The title now states the letter's $8,779,275 first-year cost of standing up and operating the facility and the memo's $16,703,366.80 two-year sole-source approval figure.
-  why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
-  found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
-- date: '2026-10-13'
-  was: spending up to $8.8 million from the One Big Beautiful Bill Act to house up to 100 migrant women
-  now: The letter's $8,779,275 is the estimated cost of standing up and operating the facility in the first year, not a construction cost or a cap.
-  why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
-  found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
-- date: '2026-10-13'
-  was: a two-year total of nearly $17 million to build and operate
-  now: $16,703,366.80 is the 'two-year cost' in ICE's June 15, 2026 contract-approval memo, which includes an allowance for contingencies; the memo is an approval, not an award value.
-  why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
-  found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
-- date: '2026-10-13'
-  was: the 650-bed facility; Construction ... planned to last six months and conclude by next July
-  now: 'Cut: neither ''650 beds'' nor ''six months, concluding by next July'' appears in the letter or memo. The letter says construction had not begun; the memo describes a six-month base period and three six-month operation periods totalling 24 months.'
-  why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
-  found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
-- date: '2026-10-13'
-  was: A no-bid contract was awarded to Akima Infrastructure Protection.
-  now: The memo lists 'Sole Source' for work under existing contract number 70CDCR25D00000011; the facility was added by modification P00003 (signed Sept. 25, 2026, per USAspending) under justification J&A-26-0356 (posted Oct. 7), not a new award. The modification date and the J&A are not bound to a fetchable page and are not in the body.
-  why: DHS Secretary Mullin's Sept. 29, 2026 letter to Rep. Kennedy and the enclosed ICE memo of June 15, 2026 (https://kennedy.house.gov/UploadedFiles/Kennedy_S1_SIGNED_Response_and_Enclosures_9.29.26.pdf); USAspending award CONT_IDV_70CDCR25D00000011_7012 (api.usaspending.gov); SAM.gov justification J&A-26-0356 (redacted PDF, read from the saved copy; not fetchable by the gate)
-  found_by: correction pass 2026-10-13 (research note batavia-ice-expansion-procurement-record-what-the-award-data-shows-2026-10-13)
 ---
 
 DHS Secretary Markwayne Mullin's September 29, 2026 letter to Rep. Timothy M. Kennedy says ICE "plans to continue construction of a new detention facility at the Buffalo Service Processing Center." Asked what funds are being used and what the facility will cost, the response says funding from the One Big Beautiful Bill Act will be used and that the estimated cost of standing up and operating the facility in the first year is $8,779,275. Asked whether construction on the 100-bed facility has begun, it answers "No."
