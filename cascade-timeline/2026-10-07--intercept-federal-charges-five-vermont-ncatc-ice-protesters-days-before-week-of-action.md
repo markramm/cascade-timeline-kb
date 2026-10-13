@@ -2,12 +2,11 @@
 type: timeline_event
 id: 2026-10-07--intercept-federal-charges-five-vermont-ncatc-ice-protesters-days-before-week-of-action
 date: '2026-10-07'
-title: 'The Intercept: Federal Prosecutors Charge Five Over Disruptions at ICE''s Vermont Targeting Center Days Before a Planned Week of Action'
+title: 'The Intercept: Federal Prosecutors Charge Five With Obstructing Access to ICE''s Vermont Targeting Center Days Before a Planned Week of Action'
 importance: 8
 status: confirmed
 verification: source-verified
 event_date_claim: c1
-date_is_publication_date: true
 claims:
 - id: c1
   type: date
@@ -17,7 +16,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c2
   type: figure
   value: five people
@@ -27,7 +26,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c3
   type: figure
   value: 13 protesters
@@ -37,7 +36,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c4
   type: attribution
   value: one of only two facilities like it in the nation
@@ -46,7 +45,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c5
   type: attribution
   value: 30 minutes
@@ -56,7 +55,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c7
   type: attribution
   value: circumventing George and instead took their cases directly to the attorney general's office
@@ -65,7 +64,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
 - id: c8
   type: quote
   value: '"There have been cases that Sarah George has declined, but these 13 cases were never even brought"'
@@ -74,7 +73,48 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-10'
+  checked: '2026-10-13'
+- id: i1
+  type: figure
+  value: 2:26-mj-00186-kjd
+  qualifier: Filed
+  span: 2:26-mj-00186-kjd Document 1 Filed 09/30/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: i2
+  type: date
+  value: September 30, 2026
+  qualifier: Attorney
+  span: Assistant United States Attorney Burlington, Vermont September 30, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: i3
+  type: attribution
+  value: knowingly obstructed the usual use, enjoyment, and access to federal property
+  qualifier: obstructed
+  span: WORMSER, knowingly obstructed the usual use, enjoyment, and access to federal property, to wit, the United States Immigration and Customs Enforcement National Criminal Analysis and Targeting Center, located at 426 Industrial Avenue in Williston, Vermont, including entrances and exits, foyers, lobbies, corridors, and offices.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: i4
+  type: figure
+  value: 40 U.S.C. 1315; 6 C.F.R. 139.35(d)
+  qualifier: corridors
+  span: including entrances and exits, foyers, lobbies, corridors, and offices. (40 U.S.C. § 1315; 6 C.F.R. § 139.35(d))
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+date_is_publication_date: true
 tags:
 - ice-targeting-center
 - vermont
@@ -93,13 +133,24 @@ sources:
   publisher: The Intercept
   date: '2026-10-07'
   tier: 1
+- title: Information, United States v. Booth et al., No. 2:26-mj-00186-kjd (D. Vt. filed Sept. 30, 2026), Doc. 1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  publisher: U.S. District Court for the District of Vermont (RECAP)
+  date: '2026-09-30'
+  tier: 1
 related_events:
 - 2026-09-04--seven-vermont-clergy-arrested-blockading-ncatc-ice-targeting-center-williston
 capture_lanes:
 - Democratic Erosion
+corrections:
+- date: '2026-10-13'
+  was: 'The five people facing federal charges are alleged by federal authorities to have disrupted operations at the NCATC on multiple occasions. [title: "... Charge Five Over Disruptions at ICE''s Vermont Targeting Center ..."]'
+  now: The Information (D. Vt. No. 2:26-mj-00186-kjd, filed Sept. 30, 2026) charges obstructing the usual use, enjoyment, and access to the NCATC under 40 U.S.C. 1315 and 6 C.F.R. 139.35(d); it does not use the words "disrupted operations". The Intercept's wording is no longer stated as the charge.
+  why: Information, Doc. 1, United States v. Booth et al., D. Vt. No. 2:26-mj-00186-kjd (counts One to Three), https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
+  found_by: correction pass 2026-10-13 (research note vermont-federal-charges-over-ice-protests-what-the-filings-show-2026-10-13)
 ---
 
-The Intercept reported on October 7 2026 that, last week, federal prosecutors unveiled surprise charges against five people, some of whom were already being charged by Vermont Attorney General Charity Clark. The five people facing federal charges are alleged by federal authorities to have disrupted operations at the NCATC, ICE's National Criminal Analysis and Targeting Center in Williston, on multiple occasions. In late September, Clark introduced surprise misdemeanor charges against 13 protesters for allegedly participating in a July sit-in at the NCATC.
+The Intercept reported on October 7 2026 that, last week, federal prosecutors unveiled surprise charges against five people, some of whom were already being charged by Vermont Attorney General Charity Clark. The Information in the federal case (D. Vt. No. 2:26-mj-00186-kjd, filed September 30, 2026) charges that the defendants knowingly obstructed the usual use, enjoyment, and access to federal property, ICE's National Criminal Analysis and Targeting Center in Williston, under 40 U.S.C. 1315 and 6 C.F.R. 139.35(d). In late September, Clark introduced surprise misdemeanor charges against 13 protesters for allegedly participating in a July sit-in at the NCATC.
 
 The Intercept reports that the state charges stemmed from an unusual move: the Vermont State Police began circumventing the county state's attorney, Sarah George, and instead took their cases directly to the attorney general's office. State Sen. Tanya Vyhovsky, a member of the Senate Judiciary Committee, said: "There have been cases that Sarah George has declined, but these 13 cases were never even brought."
 
