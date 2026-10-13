@@ -121,7 +121,7 @@ related_events:
   - "2026-06-23--doj-voter-roll-maryland-dismissed-0-9-trump-appointee"
   - "2026-04-06--doj-voter-data-campaign-reaches-31-suits-30-states-dc"
   - "2026-06-24--appeals-court-blocks-doj-michigan-voter-data-seizure"
-  - "2026-01-26--bondi-voter-rolls-request-minnesota-ice-enforcement"
+  - "2026-01-24--bondi-voter-rolls-request-minnesota-ice-enforcement"
 coverage:
   - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
     title: "The Election is a Homeland Security Investigations Case Now."
