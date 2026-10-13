@@ -98,7 +98,7 @@ Andrey Sharkov (see [[sharkov-andrey]]) is PNK Group's founder and owner. Per hi
 - Splits remainder of time between Monaco and Moscow
 - Separated the Russian PNK entity from the U.S. company in 2023
 
-PNK Group (see [[pnk-group]]) was originally incorporated in Russia in 2004 and has U.S. operations in New York since 2017. Sharkov's background includes a Saint Petersburg candy company called Shokobox that produced chocolate bars depicting Vladimir Putin hugging puppies. Sharkov appears in the ICIJ Offshore Leaks Database.
+PNK Group (see [[pnk-group]]) was originally incorporated in Russia in 2004 and has U.S. operations in New York since 2017. Sharkov appears in the ICIJ Offshore Leaks Database.
 
 ## Local Resistance
 
