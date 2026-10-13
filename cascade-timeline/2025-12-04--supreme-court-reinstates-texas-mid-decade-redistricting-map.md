@@ -231,17 +231,35 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-13'
+- id: c18
+  type: date
+  value: April 27, 2026
+  span: 'ORDER LIST: 608 U.S.) MONDAY, APRIL 27, 2026 APPEAL -- SUMMARY DISPOSITION 25-845 ABBOTT, GOV. OF TX, ET AL. V. LULAC, ET AL.'
+  url: https://www.supremecourt.gov/orders/courtorders/042726zor_08l1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c19
+  type: figure
+  value: 25-845
+  span: 'ORDER LIST: 608 U.S.) MONDAY, APRIL 27, 2026 APPEAL -- SUMMARY DISPOSITION 25-845 ABBOTT, GOV. OF TX, ET AL. V. LULAC, ET AL.'
+  url: https://www.supremecourt.gov/orders/courtorders/042726zor_08l1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
 corrections:
 - date: '2026-10-13'
   was: "Title: Supreme Court Reinstates Texas Mid-Decade Congressional Map Designed for Republican Advantage Despite Racial Gerrymandering Findings. The body called the December 4 action a ruling that 'overrules' the district court, said the order 'was issued by Justice Samuel Alito', and described 'the Supreme Court's unsigned majority opinion' that 'overturn[ed]' the district court's findings."
   now: "The December 4, 2025 order grants Texas's application for a stay of the November 18, 2025 district court order pending appeal; Justice Alito wrote a concurrence joined by Justices Thomas and Gorsuch, and Justice Kagan a dissent joined by Justices Sotomayor and Jackson."
   why: "The Court's order and opinions in No. 25A608 (https://www.supremecourt.gov/opinions/25pdf/25a608_7khn.pdf) and its docket (https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25a608.html): a stay on an application, not a merits ruling; Alito's writing is a concurrence."
-  found_by: "correction pass 2026-10-13 (research note update-the-texas-redistricting-timeline-entry-for-the-scotus-april-2026-summary-reversal-25a608)"
+  found_by: "correction pass 2026-10-13 (research note scotus-25a608-abbott-v-lulac-december-2025-stay-no-april-2026-entry)"
 - date: '2026-10-13'
   was: "Body: the stay 'virtually ensures' the map will be used, with the plaintiffs' case effectively decided by timing; the CNN and Houston Public Media characterisations of the stay as 'temporary'."
-  now: "The entry states what the order says about its own duration: the stay remains in effect through any timely appeal and ends only if the appeal is dismissed or the judgment affirmed. The Court's docket for No. 25A608 shows no later entry; no April 2026 summary reversal appears on it."
-  why: "Docket page for No. 25A608 read 2026-10-13 (https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25a608.html); order text (https://www.supremecourt.gov/opinions/25pdf/25a608_7khn.pdf)."
-  found_by: "correction pass 2026-10-13 (research note update-the-texas-redistricting-timeline-entry-for-the-scotus-april-2026-summary-reversal-25a608)"
+  now: "The entry states what the order says about its own duration: the stay remains in effect through any timely appeal. It says the stay application's docket (No. 25A608) ends on Dec. 4, 2025, and that the appeal (No. 25-845) was decided by summary reversal on April 27, 2026, with a link to the entry for that order."
+  why: "Docket for No. 25A608 (https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25a608.html); order list of April 27, 2026 (https://www.supremecourt.gov/orders/courtorders/042726zor_08l1.pdf) and docket for No. 25-845."
+  found_by: "correction pass 2026-10-13 (research note scotus-25a608-abbott-v-lulac-december-2025-stay-no-april-2026-entry)"
 ---
 The Supreme Court granted Texas's application for a stay of the district court order that had blocked the state's new congressional map. The order is dated December 4, 2025, the same day on which the Court's docket for No. 25A608 lists the application as referred to the Court. The application came from the State of Texas and several of its officials, and the stay applies to the November 18, 2025 order of the United States District Court for the Western District of Texas.
 
@@ -253,4 +271,4 @@ Justice Alito, joined by Justices Thomas and Gorsuch, concurred in the grant of 
 
 Justice Kagan, joined by Justices Sotomayor and Jackson, dissented from the grant. She wrote that the three-judge District Court held a nine-day hearing and issued a 160-page opinion, and that it "held that the answer was clear" that Texas largely divided its citizens along racial lines. She wrote that "today's order disserves the millions of Texans whom the District Court found were assigned to their new districts based on their race."
 
-The Court's docket page for No. 25A608, ends with that order.
+The docket for the stay application, No. 25A608, ends with that order. The appeal, No. 25-845, was decided by summary reversal on April 27, 2026; see [[2026-04-27--supreme-court-summarily-reverses-texas-congressional-map-ruling-abbott-v-lulac]].
