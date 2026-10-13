@@ -51,6 +51,7 @@ coverage:
   - daily-capture-reports/headline/2026-09-14--scotus-7-2-blocks-trump-mail-ballot-eo-sept14.md
   - daily-capture-reports/headline/2026-09-14--scotus-blocks-trump-mail-ballot-restrictions-sept14.md
   - daily-capture-reports/headline/2026-09-14--scotus-blocks-trump-usps-mail-ballot-rule-midterms.md  # THIRD re-capture of the 09-14 ruling; dropped as duplicate 2026-09-22. Adds the SAVE Act backstory (the USPS order followed Congress failing to pass proof-of-citizenship registration) and names Utah GOP election officials among the warning state officials. Does not state the 7-2 count canon carries
+  - daily-capture-reports/election/2026-09-14--scotus-usps-mail-ballot-rule-blocked-midterms-sept14-2026.md  # FOURTH re-capture of the 09-14 ruling (NPR via KAXE); dropped as duplicate 2026-10-13
 corrections:
 - date: '2026-10-10'
   was: "The ground the majority chose is the whole story. ... Kavanaugh's opinion does not say USPS lacks the authority ...; it says USPS cannot impose it *this late*. That distinction leaves the rules available for a future cycle ... premature then, too late now, with the substance untouched in both directions."
