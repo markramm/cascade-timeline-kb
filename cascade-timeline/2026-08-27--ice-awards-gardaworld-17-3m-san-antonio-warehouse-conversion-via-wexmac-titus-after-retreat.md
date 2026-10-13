@@ -2,147 +2,218 @@
 type: timeline_event
 id: 2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-conversion-via-wexmac-titus-after-retreat
 date: '2026-08-27'
-title: "ICE Awards GardaWorld $17.3M to Convert a San Antonio Building Into a Detention Facility — Bought Through the Navy Program DHS Said in June It Had Stopped Using"
+title: GardaWorld's San Antonio Detention-Conversion Order on Navy Contract N0002325D0032 Stands at $61,829,037.54 Obligated and $1,008,135,768.12 Potential; Saltbox Reported $17.3 Million and Said DHS Had Stopped Using the Program
 importance: 9
 status: confirmed
 tags:
-  - detention-buildout
-  - wexmac-titus
-  - gardaworld
-  - procurement
-  - congressional-oversight
+- detention-buildout
+- wexmac-titus
+- gardaworld
+- procurement
+- congressional-oversight
 actors:
-  - U.S. Immigration and Customs Enforcement
-  - GardaWorld Federal Services
-  - Markwayne Mullin
-  - Elizabeth Warren
-  - Jeanne Shaheen
+- U.S. Immigration and Customs Enforcement
+- GardaWorld Federal Services
+- Markwayne Mullin
+- Elizabeth Warren
+- Jeanne Shaheen
 sources:
-  - title: "ICE Awards GardaWorld $17.3 Million to Convert San Antonio Warehouse Into a Service Processing Center"
-    url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
-    publisher: Project Saltbox
-    author: Michael Wriston and m.
-    date: '2026-08-28'
-    tier: 1
-  - title: "USAspending award record — GardaWorld Federal Services LLC, DHS delivery order"
-    url: https://www.usaspending.gov/award/361831209
-    publisher: USAspending.gov (primary federal spending data)
-    date: '2026-08-30'
-    tier: 1
-    note: "Pulled independently by the conductor 2026-08-30, not taken from the article."
+- title: USAspending award CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700 (api.usaspending.gov, retrieved 2026-10-13)
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  publisher: USAspending.gov
+  date: '2026-10-13'
+  tier: 1
+- title: ICE Awards GardaWorld $17.3 Million to Convert San Antonio Warehouse Into a Service Processing Center
+  url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
+  publisher: Project Saltbox
+  author: Michael Wriston and Mia Barragán
+  date: '2026-08-28'
+  tier: 2
+claims:
+- id: c1
+  type: date
+  value: '2026-08-27'
+  qualifier: date_signed
+  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c2
+  type: figure
+  value: '61829037.54'
+  qualifier: total_obligation
+  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c3
+  type: figure
+  value: '1008135768.12'
+  qualifier: base_and_all_options
+  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c4
+  type: quote
+  value: THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY.
+  qualifier: description
+  span: '"description": "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY."'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c5
+  type: figure
+  value: 70CDCR26FR0000103
+  qualifier: piid
+  span: '"piid": "70CDCR26FR0000103", "category": "contract", "type": "C", "type_description": "DELIVERY ORDER"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c6
+  type: figure
+  value: N0002325D0032
+  qualifier: parent award
+  span: '"parent_award": { "agency_id": 1173, "agency_name": "Department of Defense", "agency_slug": "department-of-defense", "sub_agency_id": "9700", "sub_agency_name": "Department of Defense", "award_id": 351362854, "generated_unique_award_id": "CONT_IDV_N0002325D0032_9700", "idv_type_description": "IDC", "multiple_or_single_aw_desc": "MULTIPLE AWARD", "piid": "N0002325D0032"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c7
+  type: quote
+  value: FULL AND OPEN COMPETITION
+  qualifier: extent competed
+  span: '"solicitation_procedures_description": "SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY", "extent_competed_description": "FULL AND OPEN COMPETITION"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c8
+  type: quote
+  value: SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY
+  qualifier: solicitation procedures
+  span: '"solicitation_procedures_description": "SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY", "extent_competed_description": "FULL AND OPEN COMPETITION"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c9
+  type: figure
+  value: '8'
+  qualifier: offers
+  span: '"solicitation_identifier": null, "solicitation_procedures": "MAFO", "number_of_offers_received": "8", "extent_competed": "A", "type_set_aside": null, "type_set_aside_description": null, "evaluated_preference": "NONE", "fed_biz_opps": "X", "fed_biz_opps_description": "NOT APPLICABLE"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c10
+  type: attribution
+  value: NOT APPLICABLE
+  qualifier: fed_biz_opps_description
+  span: '"solicitation_identifier": null, "solicitation_procedures": "MAFO", "number_of_offers_received": "8", "extent_competed": "A", "type_set_aside": null, "type_set_aside_description": null, "evaluated_preference": "NONE", "fed_biz_opps": "X", "fed_biz_opps_description": "NOT APPLICABLE"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c11
+  type: operator
+  value: GARDAWORLD FEDERAL SERVICES LLC
+  qualifier: recipient_name
+  span: '"recipient": { "recipient_hash": "c64a1e55-9377-3bab-1df4-2431bb4a5e86-C", "recipient_name": "GARDAWORLD FEDERAL SERVICES LLC", "recipient_uei": "FJLMN2N34M93"'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: s1
+  type: date
+  value: Aug. 27
+  qualifier: signed
+  span: ICE's detention and removals office signed the order Aug. 27.
+  url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-13'
+- id: s2
+  type: figure
+  value: $17.3 million
+  qualifier: awarded
+  span: Immigration and Customs Enforcement awarded GardaWorld Federal Services $17.3 million on Thursday to renovate an agency-owned building in San Antonio into an immigration processing and detention facility,
+  url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-13'
+- id: s3
+  type: attribution
+  value: was no longer using the Navy program for detention services
+  qualifier: June 25
+  span: Homeland Security Secretary Markwayne Mullin told a House Appropriations subcommittee on June 25 that the department was no longer using the Navy program for detention services.
+  url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-13'
+- id: s4
+  type: date
+  value: Dec. 23, 2025
+  qualifier: solicited
+  span: The San Antonio requirement was solicited Dec. 23, 2025, before that retreat.
+  url: https://www.projectsaltbox.com/p/ice-awards-gardaworld-173-million
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-13'
+event_date_claim: s1
+corrections:
+- date: '2026-10-13'
+  was: 'Title: ICE Awards GardaWorld $17.3M to Convert a San Antonio Building Into a Detention Facility — Bought Through the Navy Program DHS Said in June It Had Stopped Using'
+  now: The title now states the order's current obligated and potential values and attributes the $17.3 million and the 'stopped using' statement to Saltbox.
+  why: USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13; page https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700); the saved USAspending transactions show a modification P00001 of 2026-09-29 obligating $44,495,339.04 on top of the first action's $17,333,698.50 (not fetchable by the gate, so not in the body)
+  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+- date: '2026-10-13'
+  was: 'USAspending award 361831209: $17,333,698 ... 2026-08-27 -> 2027-08-25 ... this is not a ceiling ... the money is obligated'
+  now: The award now shows $61,829,037.54 obligated (a Sept. 29, 2026 modification added $44.5M to the first-day $17.33M) and a potential value of $1,008,135,768.12; performance runs to 2027-08-26 (not 2027-08-25) with a potential end in 2031. The $17.3 million was the first-day obligation only.
+  why: USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13; page https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700); the saved USAspending transactions show a modification P00001 of 2026-09-29 obligating $44,495,339.04 on top of the first action's $17,333,698.50 (not fetchable by the gate, so not in the body)
+  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+- date: '2026-10-13'
+  was: 'Cut: ''Confirm the obligated figure'' open item; the corpus counts (56 federal awards, 227 and 100 files), the $173 million 2011 award and State Department awards, the govinfo search results, and ''the conductor verified'''
+  now: Cut because no document fetched binds them; the obligated figure is resolved above.
+  why: USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13; page https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700); the saved USAspending transactions show a modification P00001 of 2026-09-29 obligating $44,495,339.04 on top of the first action's $17,333,698.50 (not fetchable by the gate, so not in the body)
+  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+- date: '2026-10-13'
+  was: The order was placed through WEXMAC-TITUS ... DHS Secretary Markwayne Mullin told a House Appropriations subcommittee ... the department was NO LONGER USING the Navy program for detention services
+  now: Now attributed to Project Saltbox's reporting. USAspending shows the parent as Navy contract N0002325D0032 and does not name the program. No transcript of the June 25 testimony has been read.
+  why: USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13; page https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700); the saved USAspending transactions show a modification P00001 of 2026-09-29 obligating $44,495,339.04 on top of the first action's $17,333,698.50 (not fetchable by the gate, so not in the body)
+  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+- date: '2026-10-13'
+  was: The solicitation ID field is blank and the notice field reads 'not applicable' ... may indicate the work was not competitively solicited
+  now: USAspending codes the order 'FULL AND OPEN COMPETITION', 'SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY', with 8 offers received; the blank solicitation identifier and 'NOT APPLICABLE' FedBizOpps field are as coded. No-bid is not shown.
+  why: USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13; page https://www.usaspending.gov/award/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700); the saved USAspending transactions show a modification P00001 of 2026-09-29 obligating $44,495,339.04 on top of the first action's $17,333,698.50 (not fetchable by the gate, so not in the body)
+  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+verification: source-verified
 ---
 
-## Opening
+ICE's detention and removals office signed a delivery order to GardaWorld Federal Services LLC on Aug. 27 to renovate an ICE-owned structure in San Antonio into a processing and detention facility. Project Saltbox reported the award as $17.3 million. USAspending lists award 70CDCR26FR0000103 at $61,829,037.54 obligated, with a potential value of $1,008,135,768.12. Those figures differ from the $17.3 million Saltbox reported. The award description reads: "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY."
 
-**ICE awarded GardaWorld Federal Services a delivery order to renovate an ICE-owned building in San
-Antonio into an immigration "processing and detention facility."** Project Saltbox (Michael Wriston,
-2026-08-28) reported the award; **the conductor verified it independently against USAspending the same
-week.**
+The order sits under Navy contract N0002325D0032. It is coded "FULL AND OPEN COMPETITION" and "SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY", with 8 offers received; its solicitation identifier is blank and its FedBizOpps field reads "NOT APPLICABLE".
 
-## The figure — verified, and with a near-miss worth recording
+Saltbox reports that Homeland Security Secretary Markwayne Mullin told a House Appropriations subcommittee on June 25 that the department was no longer using the Navy program for detention services, and that the San Antonio requirement was solicited Dec. 23, 2025, before that retreat. No transcript of that testimony has been read; the words are Saltbox's account.
 
-**USAspending award 361831209: $17,333,698 · Department of Homeland Security · DELIVERY ORDER ·
-2026-08-27 → 2027-08-25.** Every element matches the reporting: the signing date, the one-year term,
-the amount.
-
-**Per Saltbox, the price is FIXED and ICE has committed the full amount UP FRONT.** That distinction
-matters on this beat — **this is not a ceiling.** A ceiling reported as spending is this corpus's most
-repeated error, and here the opposite is true: **the money is obligated.** Confirm the obligated
-figure on the award record before publishing any dollar claim.
-
-**The near-miss**: a GardaWorld search also returns **$173,407,746** — a **2011 Department of Defense**
-delivery order. **$173.4M and $17.3M are one decimal place apart and both are real GardaWorld
-awards.** **Do not confuse them.** GardaWorld holds **56 federal awards**, including State Department
-contracts of **$647M** and **$407M**, and a **$313,357,612 DHS delivery order** (70CDCR26FR0000043,
-2026-03-06 → 2027-03-05) that is a separate and much larger matter.
-
-## Why this is the finding — a documented contradiction
-
-**The order was placed through WEXMAC-TITUS**, the Navy expeditionary-logistics supply program
-expanded in 2025 to cover domestic Homeland Security work.
-
-**On 2026-06-25, DHS Secretary Markwayne Mullin told a House Appropriations subcommittee the
-department was NO LONGER USING the Navy program for detention services.** That statement followed
-pressure from **Sens. Elizabeth Warren and Jeanne Shaheen** and a **GAO review that found oversight
-failures at the Fort Bliss detention camp**, procured the same way.
-
-**Two months later, the same vehicle carried a new detention-conversion award.**
-
-**State the sequence; do not assert the Secretary was untruthful.** Saltbox records the load-bearing
-qualifier: **the San Antonio requirement was SOLICITED 2025-12-23 — before the June retreat.** So a
-defensible reading is that a pre-existing requirement completed on its original vehicle. **Whether
-"no longer using" was meant to cover awards on solicitations already in flight is exactly the
-question, and it is a question for the record, not an inference.** See
-[[function-not-intent-the-analytical-rule-2026]].
-
-**What the corpus can say without any inference: DHS told Congress in June it had stopped using this
-program for detention services, and in August an ICE detention-conversion award was placed through
-it.**
-
-## The procurement-visibility detail
-
-Per Saltbox: **the solicitation ID field is blank and the contract-opportunities notice field reads
-"not applicable."** **Read the award record directly to establish what that means** — it may indicate
-the work was not competitively solicited on SAM.gov, which would make this a no-bid or
-limited-competition placement. **Do not characterize it until the record is read.**
-
-Saltbox reports two comparable March orders for warehouses in **Williamsport, Md.** and **Surprise,
-Ariz.** — both already heavily documented in this corpus.
-
-**"ICE could not be immediately reached for comment"** is Saltbox's line, not ours.
-
-## Why This Event Matters
-
-The corpus holds **227 files touching WEXMAC-TITUS** and **100 touching GardaWorld** — this is one of
-the most densely documented threads here, and
-[[2026-06-21--ice-offloads-seven-noem-era-warehouses-mullin-retreat]] already records the June
-retreat. **What is new is an award that postdates it on the same vehicle.**
-
-**A stated policy change and a continued practice is an accountability-mechanism story** — the same
-shape as the 2017 DHS OIG § 1509 findings that CBP agreed to fix and the practice recurring in
-2025-26. **The mechanism is that a commitment made to a committee has no enforcement attached to it.**
-
-## Research Gaps
-
-- [ ] **Read the award record directly** — obligated vs. potential value, competition status, the
-      blank solicitation field, PSC/NAICS codes. **PSC/NAICS are the contracting officer's own
-      classification and are the strongest evidence available on this beat.**
-- [x] ~~**Mullin's exact words on 2026-06-25.**~~ **SEARCHED 2026-08-30 — NOT AVAILABLE. The
-      transcript is not published, and this is a documented absence rather than a failed search.**
-
-      **Method**: govinfo's API is the authoritative source for congressional hearing transcripts
-      (collection `CHRG`) and **it works from this environment with `DEMO_KEY`** — that is worth
-      recording on its own, since several other government hosts are blocked here.
-      - A `CHRG` search for `Mullin homeland security appropriations detention` returns **63 results**;
-        the Mullin hits are his **2026-03-18 nomination hearing**, not an appropriations hearing.
-      - A `CHRG` search for `"Homeland Security" appropriations 2027` returns **307 results** with **no
-        June 2026 DHS appropriations hearing.**
-      - **This is NOT merely publication lag.** The most recent 119th-Congress transcripts published
-        include **2026-06-30, 2026-07-14, 2026-07-15, 2026-07-29 and 2026-09-30** — so transcripts
-        from the same period and later ARE available. **A June 25 hearing transcript should be there
-        and is not.**
-
-      **What this means, stated precisely**: the transcript is **not in govinfo as of 2026-08-30.**
-      Hearing transcripts are often published months after the hearing and appear unevenly, so this
-      is **a not-yet-published finding, not evidence the hearing did not occur.**
-
-      **CONSEQUENCE FOR ANY PIECE: *"no longer using"* remains SALTBOX'S CHARACTERIZATION and must be
-      attributed to Saltbox — not quoted as Mullin's words.** The corpus has not seen him say it.
-      **Do not put quotation marks around "no longer using" and attribute them to the Secretary.**
-
-- [ ] **Remaining routes to the exact words**, in order of expected yield:
-      1. **The subcommittee's own video/webcast archive** — `appropriations.house.gov` returned HTTP
-         200 from here and hosts hearing video; a witness statement PDF may also be posted.
-      2. **Mullin's prepared written testimony**, usually posted the day of the hearing — **but note a
-         prepared statement is not the same as what he said in the exchange**, and the "no longer
-         using" line reads like an answer to a question, not prepared text.
-      3. **The Warren/Shaheen correspondence** that preceded it — senators' letters are published on
-         their own sites and often quote the testimony back.
-      4. **A CQ/Politico Pro transcript** if available.
-- [ ] **The GAO Fort Bliss review** — report number and findings.
-- [ ] **Whether Warren or Shaheen has responded** to the August award.
-- [ ] **The $313M DHS delivery order** (70CDCR26FR0000043) — larger and separate; what is it?
-
-## Related Entries
-
-- [[2026-06-21--ice-offloads-seven-noem-era-warehouses-mullin-retreat]]
+Related entries: [[2026-06-21--ice-offloads-seven-noem-era-warehouses-mullin-retreat]].
