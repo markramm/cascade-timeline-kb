@@ -2,23 +2,13 @@
 type: timeline_event
 id: 2026-10-06--ice-leadership-verbal-directive-raise-arrests-1000-daily-3000-goal-19000-weekly
 date: '2026-10-06'
-title: ICE Leadership Verbally Directs Agents to Raise Arrests by 1,000 a Day, Back to a 3,000 Daily Goal, Two Sources Tell CNN
+title: Two Sources Tell CNN ICE Leadership Verbally Told Agents to Raise Arrests by 1,000 a Day, Back to a 3,000 Daily Goal; One Source Gives 19,000 a Week
 importance: 8
 status: confirmed
 verification: source-verified
 event_date_claim: k1
 source_published_date: '2026-10-07'
 claims:
-- id: c3
-  type: figure
-  value: 19,000
-  qualifier: weekly goal
-  span: Leadership also set a weekly goal of 19,000 arrests for agents, accounting for fewer officers working over the weekend.
-  url: https://www.thedailybeast.com/secret-order-to-ice-agents-revealed-as-republicans-panic
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-10-13'
 - id: c4
   type: posture
   value: highest weekly arrest total
@@ -129,8 +119,19 @@ sources:
   publisher: The Daily Beast
   date: '2026-10-08'
   tier: 2
+corrections:
+- date: '2026-10-13'
+  was: 'Title: ICE Leadership Verbally Directs Agents to Raise Arrests by 1,000 a Day, Back to a 3,000 Daily Goal, Two Sources Tell CNN'
+  now: The title now attributes the verbal instruction to CNN's two sources and the 19,000-a-week figure to one of them.
+  why: 'CNN (via KEYT), published 2026-10-07: https://keyt.com/?p=1486113 ; the Daily Beast, 2026-10-08, names no source for the figures and links no document; no written ICE directive, memo or exhibit stating 3,000 a day or 19,000 a week was found'
+  found_by: correction pass 2026-10-13 (research note ice-3000-a-day-arrest-target-primary-record-and-arrest-counts-2026-10-13)
+- date: '2026-10-13'
+  was: Leadership also set a weekly goal of 19,000 arrests for agents (claim c3, Daily Beast)
+  now: CNN attributes the 19,000-a-week figure to 'one of the sources', not both; the Daily Beast sentence that dropped that limit is removed as a claim and the body attributes the figure to one source.
+  why: 'CNN (via KEYT), published 2026-10-07: https://keyt.com/?p=1486113 ; the Daily Beast, 2026-10-08, names no source for the figures and links no document; no written ICE directive, memo or exhibit stating 3,000 a day or 19,000 a week was found'
+  found_by: correction pass 2026-10-13 (research note ice-3000-a-day-arrest-target-primary-record-and-arrest-counts-2026-10-13)
 ---
 
-ICE leadership told agents nationwide on Tuesday to increase immigration arrests by 1,000 more people daily, returning to a previous goal of 3,000 daily arrests, according to two sources familiar with the verbal directive (CNN). ICE had recently been taking around 2,000 people into custody daily on average. Agents were also instructed to try to reach 19,000 arrests per week, which accounts for fewer arrests over the weekend and not as many officers in the field, one of the sources said. The Daily Beast reports that, if met, the new goal would be the highest weekly arrest total ICE has made under the Trump administration.
+ICE leadership told agents nationwide on Tuesday to increase immigration arrests by 1,000 more people daily, returning to a previous goal of 3,000 daily arrests, according to two sources familiar with the verbal directive (CNN). ICE had recently been taking around 2,000 people into custody daily on average. According to one of those sources, agents were also instructed to try to reach 19,000 arrests per week, which accounts for the fact that there are generally fewer arrests over the weekend and not as many officers in the field. The Daily Beast reports that, if met, the new goal would be the highest weekly arrest total ICE has made under the Trump administration.
 
-In August, ICE took around 51,000 people into custody, setting a new monthly high for the administration (CNN). A Homeland Security spokesperson told CNN there are "NO quotas on arrests." The reporting rests on two sources familiar with a verbal directive. Related entries: [[2026-09-27--ice-verbal-order-stop-non-criminal-arrests-reversed-white-house-official-confirms]] and [[2026-08-02--ice-july-2026-record-46000-detentions-24-custody-deaths]].
+In August, ICE took around 51,000 people into custody, setting a new monthly high for the administration (CNN). A Homeland Security spokesperson told CNN there are "NO quotas on arrests." The reporting rests on two sources familiar with a verbal directive. Related entries: [[2025-06-01--miller-noem-directive-3000-daily-arrests]], [[2026-09-27--ice-verbal-order-stop-non-criminal-arrests-reversed-white-house-official-confirms]] and [[2026-08-02--ice-july-2026-record-46000-detentions-24-custody-deaths]].
