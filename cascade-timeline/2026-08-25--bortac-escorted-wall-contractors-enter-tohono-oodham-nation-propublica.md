@@ -140,6 +140,106 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-13'
+- id: c13
+  type: attribution
+  value: Preliminary Injunction
+  qualifier: ORDERED
+  span: 'For the reasons set forth in the accompanying Memorandum Opinion, it is hereby ORDERED that plaintiff''s Motion for Preliminary Injunction [Dkt. #3] is DENIED.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.46.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c14
+  type: figure
+  value: 1:26-cv-02127-RJL
+  qualifier: Document
+  span: Case 1:26-cv-02127-RJL Document 45 Filed 08/14/26 Page 1 of 18
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.45.0_2.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c15
+  type: attribution
+  value: Richard J. Leon
+  qualifier: Trial Judge
+  span: 'Appealed From: District of Columbia (1:26-cv-02127) Court Reporter: Rebecca Monroe Trial Judge: Richard J. Leon'
+  url: https://www.courtlistener.com/docket/74708766/tohono-oodham-nation-v-markwayne-mullin/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c16
+  type: figure
+  value: 26-5306
+  qualifier: Appeals
+  span: Tohono O'odham Nation v. Markwayne Mullin (26-5306) Court of Appeals for the D.C. Circuit
+  url: https://www.courtlistener.com/docket/74708766/tohono-oodham-nation-v-markwayne-mullin/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c17
+  type: figure
+  value: $46 billion
+  qualifier: appropriated
+  span: Most recently, Congress appropriated $46 billion to U.S. Customs and Border Protection for, among other things,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.45.0_2.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c18
+  type: attribution
+  value: has been instructed to confine the project footprint
+  qualifier: instructed
+  span: Indeed, significant uncertainties remain about the actual scope of construction activities and the extent to which they may interfere with the Nation's land outside the Roosevelt Reservation. See Enriquez Deel. ,r 13 ("[T]he contractor has been instructed to confine the project footprint ... to the 60-foot federal Roosevelt Reservation.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.45.0_2.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c19
+  type: figure
+  value: 70B01C26F00000385
+  qualifier: piid
+  span: '"piid": "70B01C26F00000385",'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c20
+  type: figure
+  value: '1313227200.0'
+  qualifier: total_obligation
+  span: '"total_obligation": 1313227200.0, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-06-26", "base_exercised_options": 1313227200.0, "base_and_all_options": 2214283200.0,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c21
+  type: figure
+  value: '2214283200.0'
+  qualifier: base_and_all_options
+  span: '"total_obligation": 1313227200.0, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-06-26", "base_exercised_options": 1313227200.0, "base_and_all_options": 2214283200.0,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
+- id: c22
+  type: attribution
+  value: SLS FEDERAL SERVICES LLC
+  qualifier: recipient_name
+  span: '"recipient_name": "SLS FEDERAL SERVICES LLC",'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-13'
 tags:
 - border-wall
 - tribal-sovereignty
@@ -151,8 +251,9 @@ actors:
 - Verlon Jose
 - Customs and Border Protection
 - BORTAC
-- Sullivan Land Services Co.
 - James Percival
+- SLS Federal Services LLC
+- Richard J. Leon
 lane: Civil Rights Suppression
 related_events:
 - 2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone
@@ -167,8 +268,51 @@ sources:
   publisher: KJZZ
   date: '2026-08-27'
   tier: 1
+- title: Memorandum Opinion, Tohono O'odham Nation v. Mullin, No. 1:26-cv-02127-RJL (D.D.C. Aug. 14, 2026), ECF 45
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.45.0_2.pdf
+  publisher: U.S. District Court for the District of Columbia
+  date: '2026-08-14'
+  tier: 1
+- title: Order denying motion for preliminary injunction, ECF 46
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.293593/gov.uscourts.dcd.293593.46.0.pdf
+  publisher: U.S. District Court for the District of Columbia
+  date: '2026-08-14'
+  tier: 1
+- title: Docket, Tohono O'odham Nation v. Mullin, No. 26-5306 (D.C. Cir.)
+  url: https://www.courtlistener.com/docket/74708766/tohono-oodham-nation-v-markwayne-mullin/
+  publisher: CourtListener
+  date: '2026-10-13'
+  tier: 1
+- title: USAspending award CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
+  publisher: USAspending.gov
+  date: '2026-10-13'
+  tier: 1
+corrections:
+- date: '2026-10-13'
+  was: a $1.3 billion contract ... awarded to Sullivan Land Services Co.
+  now: 'The entry now attributes that name and figure to ProPublica and gives the award record: recipient SLS FEDERAL SERVICES LLC, total obligation 1313227200.0 dollars ($1,313,227,200), base-and-all-options value 2214283200.0 dollars ($2,214,283,200), award 70B01C26F00000385 (figures printed as USAspending prints them).'
+  why: USAspending award CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014 (API record).
+  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+- date: '2026-10-13'
+  was: the judge's denial of the emergency injunction on Aug. 14
+  now: The order denied a motion for a preliminary injunction, in Tohono O'odham Nation v. Mullin, No. 1:26-cv-02127-RJL (D.D.C.), Judge Leon; appeal D.C. Cir. No. 26-5306. The entry now says so (the ProPublica wording is attributed).
+  why: D.D.C. ECF 46 (order) and ECF 45 (memorandum opinion), entered Aug. 14, 2026; D.C. Cir. docket 26-5306.
+  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+- date: '2026-10-13'
+  was: tapping nearly $52 billion from ... One Big Beautiful Bill Act [stated as fact]
+  now: Attributed to ProPublica, set beside the $46 billion Judge Leon's opinion cites for CBP barrier construction; the two figures are not reconciled.
+  why: D.D.C. ECF 45 (Aug. 14, 2026), at 2-3.
+  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+- date: '2026-10-13'
+  was: The contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave.
+  now: 'Attributed to ProPublica, and followed by what the court record shows: a government declarant said the contractor was instructed to confine the footprint to the 60-foot Roosevelt Reservation. No court filing read alleges a breach.'
+  why: D.D.C. ECF 45, citing Enriquez Decl. para. 13.
+  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
 ---
 
-At 4:59 a.m. on Aug. 25, Tohono O'odham Nation Chairman Verlon Jose received an email from the head of the U.S. Border Patrol's Tucson Sector; Border Patrol wrote that government contractors were en route to conduct soil tests for construction of a 62-mile wall along the Nation's southern boundary (ProPublica). KJZZ reports Jose said armed Border Patrol agents, U.S. Bureau of Indian Affairs officers and other federal entities were in the tribal nation, some wearing tactical gear and masks, and that Border Patrol told his office the pre-construction work will go on for seven to 10 days. ProPublica reports that a trio of Border Patrol supervisors approached, including one representing BORTAC, the agency's special operations wing, and that Jose's statement revealed the Department of Homeland Security had deployed a surveillance blimp and enlisted Mexican security forces to help protect the work crews. The contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave.
+At 4:59 a.m. on Aug. 25, Tohono O'odham Nation Chairman Verlon Jose received an email from the head of the U.S. Border Patrol's Tucson Sector; Border Patrol wrote that government contractors were en route to conduct soil tests for construction of a 62-mile wall along the Nation's southern boundary (ProPublica). KJZZ reports Jose said armed Border Patrol agents, U.S. Bureau of Indian Affairs officers and other federal entities were in the tribal nation, some wearing tactical gear and masks, and that Border Patrol told his office the pre-construction work will go on for seven to 10 days. ProPublica reports that a trio of Border Patrol supervisors approached, including one representing BORTAC, the agency's special operations wing, and that Jose's statement revealed the Department of Homeland Security had deployed a surveillance blimp and enlisted Mexican security forces to help protect the work crews. ProPublica writes that the contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave. The court's opinion records a government declarant's statement that the contractor has been instructed to confine the project footprint to the 60-foot federal Roosevelt Reservation.
 
-ProPublica writes that DHS has turned its apparatus on tribal members, with 24-hour surveillance directed at an ongoing border prayer ceremony and tribal members being questioned outside the reservation about their ceremonial activities. In June, a $1.3 billion contract to build the wall, known as the Tucson 5 project, was awarded to Sullivan Land Services Co.; CBP had informed the tribe in February that it planned to seal off the reservation entirely, tapping nearly $52 billion from the One Big Beautiful Bill Act. According to Jose, the CBP commissioner told the delegation that if they filed a lawsuit opposing the wall, the Nation could lose access to three border gates. The tribe's interim chief of police claimed a 90% drop in reports of illegal entry over the preceding year. Within hours of the judge's denial of the emergency injunction on Aug. 14, the department's general counsel, James Percival, posted a meme of a Borg supervillain: "RESISTANCE IS FUTILE." Related surveillance spending: [[2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone]].
+The Nation's suit, *Tohono O'odham Nation v. Mullin*, No. 1:26-cv-02127-RJL (D.D.C.), is before Judge Richard J. Leon, who denied the Nation's motion for a preliminary injunction; the order was entered Aug. 14. The Nation has appealed to the D.C. Circuit, No. 26-5306.
+
+ProPublica writes that DHS has turned its apparatus on tribal members, with 24-hour surveillance directed at an ongoing border prayer ceremony and tribal members being questioned outside the reservation about their ceremonial activities. ProPublica reports that in June a $1.3 billion contract for the wall, known as the Tucson 5 project, was awarded to Sullivan Land Services Co. The USAspending record for award 70B01C26F00000385 names SLS FEDERAL SERVICES LLC as the recipient, with a total obligation of 1313227200.0 dollars and a base-and-all-options value of 2214283200.0 dollars. ProPublica writes that CBP had informed the tribe in February that it planned to seal off the reservation entirely, tapping nearly $52 billion from the One Big Beautiful Bill Act; Judge Leon's opinion says Congress appropriated $46 billion to U.S. Customs and Border Protection for, among other things, barrier construction. The figures are not reconciled here. According to Jose, the CBP commissioner told the delegation that if they filed a lawsuit opposing the wall, the Nation could lose access to three border gates. The tribe's interim chief of police claimed a 90% drop in reports of illegal entry over the preceding year. ProPublica writes that within hours of the ruling on Aug. 14, the department's general counsel, James Percival, posted a meme of a Borg supervillain: "RESISTANCE IS FUTILE." Related surveillance spending: [[2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone]].
