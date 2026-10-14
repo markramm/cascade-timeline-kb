@@ -60,6 +60,16 @@ sources:
     publisher: U.S. Election Assistance Commission
     date: '2026-08-01'
     tier: 1
+  - title: "H.R. 8800 (FY2027 NDAA): H.Res. 1398 not agreed to, 198-224, June 30, 2026"
+    url: https://rules.house.gov/bill/119/hr-8800
+    publisher: House Committee on Rules
+    date: '2026-06-30'
+    tier: 1
+  - title: "FY2027 NDAA: Senate stalls after House passage (cloture failed 50-46 on July 14)"
+    url: https://legis1.com/news/fy2027-ndaa-senate-stalls-in-after-house-passage
+    publisher: legis1.com (CRS report mirror)
+    date: '2026-07-24'
+    tier: 2
 capture_lanes:
   - Electoral Capture
   - Voter Suppression
@@ -95,6 +105,11 @@ corrections:
   now: "the Brennan Center for Justice's expert brief (last updated June 3, 2026) states:"
   why: "https://www.brennancenter.org/our-work/research-reports/states-already-enacting-harmful-save-act-policies-requiring-proof — page shows 'Updated June 3, 2026 / Published April 23, 2026'; Wayback captures 2026-07-16 and 2026-09-02 identical; Brennan labels it an Expert Brief"
   found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-14'
+  was: "Body, Federal SAVE Act Status: \"Speaker Johnson's attempt to attach it to the NDAA failed in the Senate June 30, 2026, with some Republicans joining Democrats\"."
+  now: "On June 30, 2026 the House rejected its own rule for the NDAA, 198-224; the Senate has not voted on a SAVE attachment; the Senate's NDAA failed cloture 50-46 on July 14 over Iran."
+  why: "https://rules.house.gov/bill/119/hr-8800 ; https://legis1.com/news/fy2027-ndaa-senate-stalls-in-after-house-passage"
+  found_by: "the fact-check of the draft 'The Agency That Can't Answer the Phone' (tcp-kb-internal drafts/fact-checks/the-agency-that-cant-answer-the-phone--fact-check-2026-10-14), rows 24, 26"
 verification: captured
 claims:
 - id: c0
@@ -168,7 +183,7 @@ The Brennan Center's own report states: "Our research shows that 21 million Amer
 
 ## Federal SAVE Act Status
 
-**PENDING**, not enacted. H.R. 22 passed the House 218-213 on February 11, 2026 (first passage); Senate Majority Leader Thune stated February 25 there was "no path" to defeat a filibuster with the GOP's 53 seats. Speaker Johnson's attempt to attach it to the NDAA failed in the Senate June 30, 2026, with some Republicans joining Democrats — not, as the two dropped ledger stories claimed, a straight party-line Democratic filibuster of the original February bill. The House passed the NDAA-attached version a second time, 216-212, on July 22, 2026, with six Democrats crossing over; it remains in the Senate. As of the August 2026 recess, the bill was absent from Majority Leader Thune's pre-recess floor agenda; Republicans are reported to be planning to revisit it in September 2026. **No federal proof-of-citizenship registration requirement is in effect for the 2026 midterms.** The state-level laws above are the operative instruments.
+**PENDING**, not enacted. H.R. 22 passed the House 218-213 on February 11, 2026 (first passage); Senate Majority Leader Thune stated February 25 there was "no path" to defeat a filibuster with the GOP's 53 seats. On June 30, 2026 the House rejected its own rule for the FY2027 NDAA, 198-224 (the Senate has not voted on a SAVE attachment; its NDAA failed cloture 50-46 on July 14 over Iran) — and this was not, as the two dropped ledger stories claimed, a straight party-line Democratic filibuster of the original February bill. The House passed the NDAA-attached version a second time, 216-212, on July 22, 2026, with six Democrats crossing over; it remains in the Senate. As of the August 2026 recess, the bill was absent from Majority Leader Thune's pre-recess floor agenda; Republicans are reported to be planning to revisit it in September 2026. **No federal proof-of-citizenship registration requirement is in effect for the 2026 midterms.** The state-level laws above are the operative instruments.
 
 ## EAC Status
 
