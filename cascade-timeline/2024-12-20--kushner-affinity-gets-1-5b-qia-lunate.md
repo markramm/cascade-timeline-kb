@@ -129,7 +129,7 @@ The structural significance: **Saudi Arabia, Qatar, and the UAE retain mid-term 
 - **September 25, 2024**: Senator Ron Wyden (Senate Finance Committee Chairman) letter to Affinity Partners documenting the fee structure, lack of returns, and questionable foreign-government deals
 - **March 19, 2026**: Representative Robert Garcia and Senator Wyden joint letter to Affinity Partners specifically addressing Kushner's Gulf-state fundraising during his Trump 2 envoy-adjacent role
 - **No Senate Banking Committee** action
-- **No DOJ Public Integrity Section** action (the Section was reduced to two lawyers in October 2025 per [[2026-03-06--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]])
+- **No DOJ Public Integrity Section** action (the Section was reduced to two lawyers by September 2025 per [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]])
 - **No SEC action** on Affinity's disclosure adequacy as a registered investment adviser
 
 ## Significance

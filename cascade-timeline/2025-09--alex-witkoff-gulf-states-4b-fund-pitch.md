@@ -154,6 +154,6 @@ The September 2025 reporting is therefore a **documentation event**, not a trigg
 - [[witkoff-steve]] — full actor profile
 - [[2023-08-28--qia-buys-witkoff-park-lane-hotel-623m]] — the predicate 2023 transaction
 - [[american-global-strategies]] — parallel continuity-institution / Trump-network consulting infrastructure
-- [[2026-03-06--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]] — institutional-enforcement-capacity constraint
+- [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]] — institutional-enforcement-capacity constraint
 - [[warehouse-fungibility-and-the-detention-hedge]] — U.S. commercial-real-estate private-credit context
 - [[world-liberty-financial]] — *(needs entry — Trump-family crypto)*
