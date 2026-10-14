@@ -212,7 +212,7 @@ claims:
   checked: '2026-10-13'
 - id: c20
   type: figure
-  value: '1313227200.0'
+  value: '$1,313,227,200'
   qualifier: total_obligation
   span: '"total_obligation": 1313227200.0, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-06-26", "base_exercised_options": 1313227200.0, "base_and_all_options": 2214283200.0,'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
@@ -222,7 +222,7 @@ claims:
   checked: '2026-10-13'
 - id: c21
   type: figure
-  value: '2214283200.0'
+  value: '$2,214,283,200'
   qualifier: base_and_all_options
   span: '"total_obligation": 1313227200.0, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-06-26", "base_exercised_options": 1313227200.0, "base_and_all_options": 2214283200.0,'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014/
@@ -291,7 +291,7 @@ sources:
 corrections:
 - date: '2026-10-13'
   was: a $1.3 billion contract ... awarded to Sullivan Land Services Co.
-  now: 'The entry now attributes that name and figure to ProPublica and gives the award record: recipient SLS FEDERAL SERVICES LLC, total obligation 1313227200.0 dollars ($1,313,227,200), base-and-all-options value 2214283200.0 dollars ($2,214,283,200), award 70B01C26F00000385 (figures printed as USAspending prints them).'
+  now: 'The entry now attributes that name and figure to ProPublica and gives the award record: recipient SLS FEDERAL SERVICES LLC, total obligation $1,313,227,200, base-and-all-options value $2,214,283,200, award 70B01C26F00000385 (figures printed as USAspending prints them).'
   why: USAspending award CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014 (API record).
   found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
 - date: '2026-10-13'
@@ -315,4 +315,4 @@ At 4:59 a.m. on Aug. 25, Tohono O'odham Nation Chairman Verlon Jose received an 
 
 The Nation's suit, *Tohono O'odham Nation v. Mullin*, No. 1:26-cv-02127-RJL (D.D.C.), is before Judge Richard J. Leon, who denied the Nation's motion for a preliminary injunction; the order was entered Aug. 14. The Nation has appealed to the D.C. Circuit, No. 26-5306.
 
-ProPublica writes that DHS has turned its apparatus on tribal members, with 24-hour surveillance directed at an ongoing border prayer ceremony and tribal members being questioned outside the reservation about their ceremonial activities. ProPublica reports that in June a $1.3 billion contract for the wall, known as the Tucson 5 project, was awarded to Sullivan Land Services Co. The USAspending record for award 70B01C26F00000385 names SLS FEDERAL SERVICES LLC as the recipient, with a total obligation of 1313227200.0 dollars and a base-and-all-options value of 2214283200.0 dollars. ProPublica writes that CBP had informed the tribe in February that it planned to seal off the reservation entirely, tapping nearly $52 billion from the One Big Beautiful Bill Act; Judge Leon's opinion says Congress appropriated $46 billion to U.S. Customs and Border Protection for, among other things, barrier construction. The figures are not reconciled here. According to Jose, the CBP commissioner told the delegation that if they filed a lawsuit opposing the wall, the Nation could lose access to three border gates. The tribe's interim chief of police claimed a 90% drop in reports of illegal entry over the preceding year. ProPublica writes that within hours of the ruling on Aug. 14, the department's general counsel, James Percival, posted a meme of a Borg supervillain: "RESISTANCE IS FUTILE." Related surveillance spending: [[2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone]].
+ProPublica writes that DHS has turned its apparatus on tribal members, with 24-hour surveillance directed at an ongoing border prayer ceremony and tribal members being questioned outside the reservation about their ceremonial activities. ProPublica reports that in June a $1.3 billion contract for the wall, known as the Tucson 5 project, was awarded to Sullivan Land Services Co. The USAspending record for award 70B01C26F00000385 names SLS FEDERAL SERVICES LLC as the recipient, with a total obligation of $1,313,227,200 and a base-and-all-options value of $2,214,283,200. ProPublica writes that CBP had informed the tribe in February that it planned to seal off the reservation entirely, tapping nearly $52 billion from the One Big Beautiful Bill Act; Judge Leon's opinion says Congress appropriated $46 billion to U.S. Customs and Border Protection for, among other things, barrier construction. The figures are not reconciled here. According to Jose, the CBP commissioner told the delegation that if they filed a lawsuit opposing the wall, the Nation could lose access to three border gates. The tribe's interim chief of police claimed a 90% drop in reports of illegal entry over the preceding year. ProPublica writes that within hours of the ruling on Aug. 14, the department's general counsel, James Percival, posted a meme of a Borg supervillain: "RESISTANCE IS FUTILE." Related surveillance spending: [[2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone]].

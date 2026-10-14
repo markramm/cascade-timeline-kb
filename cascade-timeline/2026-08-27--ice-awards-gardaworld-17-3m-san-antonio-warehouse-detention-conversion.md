@@ -219,7 +219,7 @@ claims:
   checked: '2026-10-13'
 - id: u2
   type: figure
-  value: '704091073.0'
+  value: '$704,091,073'
   qualifier: base_and_all_options
   span: '"total_obligation": 313357612.46, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-03-06", "base_exercised_options": 313357612.46, "base_and_all_options": 704091073.0'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/
@@ -251,7 +251,7 @@ corrections:
   found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
 - date: '2026-10-13'
   was: GardaWorld is the same contractor holding the $313M operating contract at the Surprise, Arizona warehouse
-  now: The Surprise order 70CDCR26FR0000043 has $313,357,612.46 obligated and a potential value of $704,091,073.0 (as USAspending returns it); it is a renovation-plus-wraparound-services order, not described as an operating contract, and the $313M is an obligation, not the potential value.
+  now: The Surprise order 70CDCR26FR0000043 has $313,357,612.46 obligated and a potential value of $704,091,073; it is a renovation-plus-wraparound-services order, not described as an operating contract, and the $313M is an obligation, not the potential value.
   why: USAspending awards 70CDCR26FR0000103 and 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); KSAT/San Antonio Business Journal, Sept. 1, 2026
   found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
 - date: '2026-10-13'
@@ -271,4 +271,4 @@ KSAT, republishing a San Antonio Business Journal report, said U.S. Immigration 
 
 USAspending lists the award, 70CDCR26FR0000103, at $61,829,037.54 obligated with a potential value of $1,008,135,768.12. Those figures differ from the $17.3 million KSAT reported. The award description reads: "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SAN ANTONIO, TX TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY." It is a delivery order under Navy contract N0002325D0032, coded "FULL AND OPEN COMPETITION" with 8 offers received.
 
-GardaWorld Federal Services LLC also holds the Surprise, Arizona order, 70CDCR26FR0000043, which USAspending lists at $313,357,612.46 obligated and $704,091,073.0 potential.
+GardaWorld Federal Services LLC also holds the Surprise, Arizona order, 70CDCR26FR0000043, which USAspending lists at $313,357,612.46 obligated and $704,091,073 potential.

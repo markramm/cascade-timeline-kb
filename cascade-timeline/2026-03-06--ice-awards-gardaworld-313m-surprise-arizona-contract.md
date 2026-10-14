@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract
 date: '2026-03-06'
-title: GardaWorld's Surprise, Arizona Warehouse Order Stands at $313,357,612.46 Obligated and $704,091,073.0 Potential Under Navy Contract N0002325D0032; Reported Capacity Ranges From 1,500 to Around 550
+title: GardaWorld's Surprise, Arizona Warehouse Order Stands at $313,357,612.46 Obligated and $704,091,073 Potential Under Navy Contract N0002325D0032; Reported Capacity Ranges From 1,500 to Around 550
 importance: 8
 status: confirmed
 tags:
@@ -87,7 +87,7 @@ claims:
   checked: '2026-10-13'
 - id: c4
   type: figure
-  value: '704091073.0'
+  value: '$704,091,073'
   qualifier: base_and_all_options
   span: '"total_obligation": 313357612.46, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-03-06", "base_exercised_options": 313357612.46, "base_and_all_options": 704091073.0'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000043_7012_N0002325D0032_9700/
@@ -234,7 +234,7 @@ corrections:
   found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
 - date: '2026-10-13'
   was: a $313.4 million contract
-  now: $313,357,612.46 is the amount obligated on delivery order 70CDCR26FR0000043; its potential value (base and all options) is $704,091,073.0.
+  now: $313,357,612.46 is the amount obligated on delivery order 70CDCR26FR0000043; its potential value (base and all options) is $704,091,073.
   why: USAspending award 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); Tucson Sentinel, KJZZ, Latin Times and HRW for the press and official-statement attributions
   found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
 - date: '2026-10-13'
@@ -250,7 +250,7 @@ corrections:
 verification: source-verified
 ---
 
-USAspending lists delivery order 70CDCR26FR0000043, awarded to GardaWorld Federal Services LLC under Navy contract N0002325D0032, at $313,357,612.46 obligated, with a potential value (base and all options) of $704,091,073.0. The award description reads: "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SUPRISE, AZ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY." Tucson Sentinel reported that ICE awarded the contract on March 6, giving the figure as $313.4 million.
+USAspending lists delivery order 70CDCR26FR0000043, awarded to GardaWorld Federal Services LLC under Navy contract N0002325D0032, at $313,357,612.46 obligated, with a potential value (base and all options) of $704,091,073. The award description reads: "THIS TASK ORDER IS TO PROCURE THE RENOVATION OF EXISTING, ICE-OWNED PERMANENT STRUCTURE IN SUPRISE, AZ TO SERVE AS A PROCESSING AND DETENTION FACILITY AND PROVIDE ALL NECESSARY WRAPAROUND SERVICES FOR OPERATION OF THE FACILITY." Tucson Sentinel reported that ICE awarded the contract on March 6, giving the figure as $313.4 million.
 
 The order is coded "FULL AND OPEN COMPETITION" and "SUBJECT TO MULTIPLE AWARD FAIR OPPORTUNITY", with 6 offers received. Arizona's Democratic House members Grijalva, Stanton and Ansari, in a letter reported by Tucson Sentinel, said the contract was awarded through a Defense Department procurement "bypassing a normal bidding process that would have ensured community buy-in and necessary due diligence."
 
