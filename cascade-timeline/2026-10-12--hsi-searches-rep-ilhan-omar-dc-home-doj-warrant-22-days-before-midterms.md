@@ -192,6 +192,8 @@ lane: Democratic Erosion
 related_events:
 - 2026-09-01--dhs-hsi-voter-fraud-surge-nine-states-midterms
 - 2026-10-01--ice-acting-director-lyons-tells-colorado-no-reason-for-ice-at-polling-places-hsi-investigates-voter-fraud
+coverage:
+- daily-capture-reports/election/2026-10-12--hsi-search-ilhan-omar-home-pin-approval-rule-oct2026.md
 sources:
 - title: Rep. Ilhan Omar's residence searched as part of ongoing criminal investigation, DOJ says
   url: https://abcnews.go.com/US/rep-ilhan-omars-residence-searched-part-ongoing-criminal/story?id=137192001
