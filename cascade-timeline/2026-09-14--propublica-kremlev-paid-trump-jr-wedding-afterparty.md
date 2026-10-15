@@ -45,6 +45,11 @@ sources:
     publisher: ProPublica
     date: '2026-09-15'
     tier: 1
+  - title: "Russian oligarch says Trump Jr. has paid him back for wedding expenses (AP via Scripps News)"
+    url: https://www.scrippsnews.com/us-news/russian-oligarch-says-trump-jr-has-paid-him-back-for-wedding-expenses
+    publisher: AP via Scripps News
+    date: '2026-10-06'
+    tier: 1
 capture_lanes:
   - Trump family and foreign capital
 coverage: []
@@ -58,6 +63,10 @@ claims:
   - {id: c7, type: quote, value: "I don't know this person either, so I don't have any information about it.", qualifier: "AG Blanche, Sept 15, as quoted by ABC; ABC headline characterizes an investigation as unlikely", span: "I don't know this person either, so I don't have any information about it.", url: "https://abcnews.com/Politics/blanche-investigation-russian-oligarchs-wedding-gift-trump-jr/story?id=136462728", read: fetched, source_kind: secondary}
   - {id: c8, type: quote, value: "But as I understand it, he paid them back. He didn't want to have that, so I hear he paid them back.", qualifier: "Trump, Oval Office, Sept 18; secondhand by his own framing; no amount or date", span: "But as I understand it, he paid them back. He didn't want to have that, so I hear he paid them back.", url: "https://abcnews.com/Politics/trump-donald-trump-jr-repaid-russian-oligarch-wedding/story?id=136571775", read: fetched, source_kind: secondary}
   - {id: c9, type: quote, value: "(Kremlev does not appear on public U.S. sanction lists.)", qualifier: "ProPublica parenthetical; Ukraine has sanctioned him", span: "(Kremlev does not appear on public U.S. sanction lists.)", url: "https://www.propublica.org/article/donald-trump-jr-wedding-bankrolled-russian-oligarch-umar-kremlev-putin", read: fetched, source_kind: primary}
+  - {id: c10, type: quote, value: "Yes, he did", qualifier: "Kremlev at an IBA press conference in Istanbul, Tuesday Oct 6 2026 (publication date of AP report); first on-record confirmation of repayment, by the payer; no date or amount given", span: "\"Yes, he did,\" Umar Kremlev told an International Boxing Association press conference in Istanbul on Tuesday. \"He did repay the money I spent on the present.\"", url: "https://www.scrippsnews.com/us-news/russian-oligarch-says-trump-jr-has-paid-him-back-for-wedding-expenses", read: fetched, source_kind: secondary}
+  - {id: c11, type: quote, value: "Frankly speaking, I do not understand why he decided to do so", qualifier: "Kremlev, via interpreter, Oct 6 2026", span: "\"Frankly speaking, I do not understand why he decided to do so,\" he went on.", url: "https://www.scrippsnews.com/us-news/russian-oligarch-says-trump-jr-has-paid-him-back-for-wedding-expenses", read: fetched, source_kind: secondary}
+  - {id: c12, type: figure, value: "six-figure check", qualifier: "MS NOW opinion/analysis aside, no source or attribution given; NOT a reported amount", span: "even if Trump Jr. wrote a six-figure check", url: "https://www.yahoo.com/news/politics/articles/russian-oligarch-says-trump-jr-165455144.html", read: fetched, source_kind: secondary}
+  - {id: c13, type: quote, value: "he was told by Trump Jr that the money would eventually be reimbursed", qualifier: "Guardian paraphrase of Trump, Sept 22 report: future tense, versus 'he paid them back' in ABC Sept 18; Trump's own tense wavered", span: "said he was told by Trump Jr that the money would eventually be reimbursed", url: "https://www.theguardian.com/us-news/2026/sep/22/republican-senate-investigation-trump-jr-wedding", read: fetched, source_kind: secondary}
 ---
 
 ## What was reported
@@ -71,7 +80,11 @@ On September 14, 2026 ProPublica (Justin Elliott, Brett Murphy, Joshua Kaplan, A
 - AG Todd Blanche, September 15: "I don't know this person either, so I don't have any information about it." (c7). ABC's headline says an investigation is unlikely; the quoted words are about not knowing Kremlev. No formal DOJ statement on whether a review exists was found.
 - Rep. Robert Garcia (House Oversight ranking member) sent records-preservation letters to Trump Jr. and the White House; his letters name national-security and public-corruption concerns but, per ProPublica's account, no specific statute.
 
-## Repayment: unresolved
+## Repayment: confirmed by payer Oct 6; date and amount still unpublished
+
+On Tuesday Oct 6, 2026 (AP report) Kremlev told an IBA press conference in Istanbul that Trump Jr. repaid "the money I spent on the present" (c10) and said he did not understand why (c11). No date, amount, payer entity or evidence (check, wire) was published; MS NOW's "six-figure check" (c12) is unattributed characterization. Trump's own Sept 18 words were "I hear he paid them back"; the Guardian (Sept 22) paraphrases him as saying repayment would "eventually" happen (c13), so whether anything was repaid by Sept 18 is unresolved. Sen. John Curtis (R-UT) asked Senate Judiciary on Sept 22 to subpoena Trump Jr. (AP/PBS). The Sept 18 material follows.
+
+### Earlier state (Sept 18)
 
 On September 18 Trump said: "But as I understand it, he paid them back. He didn't want to have that, so I hear he paid them back." (c8) ABC reports no date and no amount, and no evidence from the White House or Trump Organization. MS NOW reports that the Washington Post cited an unnamed person close to Trump Jr. confirming repayment (WaPo itself was paywalled to this pass). The couple's earlier statement did not mention reimbursement. Payer, payee, date and amount of any repayment are unpublished.
 
