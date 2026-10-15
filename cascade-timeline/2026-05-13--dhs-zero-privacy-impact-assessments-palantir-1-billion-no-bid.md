@@ -2,7 +2,8 @@
 type: timeline_event
 id: 2026-05-13--dhs-zero-privacy-impact-assessments-palantir-1-billion-no-bid
 date: '2026-05-13'
-title: "DHS Privacy Impact Assessment Filings Collapse in 2026 While the Agency Operates a $1B No-Bid Palantir Surveillance Network"
+title: "DHS Posts Far Fewer Privacy Impact Assessments (51 in 2024, 22 in 2025, 5 in 2026 Through Early October) While Palantir's Single-Award BPA Grows to About $132M Obligated"
+title_corrected: '2026-10-15: earlier title said "$1B No-Bid"; $1B is the ceiling and the BPA is coded full-and-open with one bid (see the 2026-08-28 audit below)'
 importance: 9
 status: disputed
 tags:
