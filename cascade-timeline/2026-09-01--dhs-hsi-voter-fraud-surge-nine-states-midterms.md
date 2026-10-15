@@ -39,6 +39,8 @@ related_events:
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
 coverage:
+  - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+    title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
   - daily-capture-reports/headline/2026-09-01--dhs-hsi-voter-fraud-surge-nine-states.md
   - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
     title: "The Election is a Homeland Security Investigations Case Now."

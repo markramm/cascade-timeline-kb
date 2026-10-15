@@ -246,6 +246,8 @@ sources:
     date: '2026-10-07'
     tier: 1
 coverage:
+  - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+    title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
   - url: https://democracyforward.org/work/research/exposing-and-disrupting-federal-attempts-to-interfere-in-the-2026-midterm-elections/
     title: "Exposing and Disrupting Federal Attempts to Interfere in the 2026 Midterm Elections (Democracy Forward)"
   - url: https://michiganadvance.com/2026/10/07/repub/documents-show-dhs-probed-nonprofits-obtained-millions-of-records-in-hunt-for-noncitizen-voters/

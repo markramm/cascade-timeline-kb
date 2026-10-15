@@ -203,6 +203,8 @@ corrections:
   why: "DFF v. DHS, 1:26-cv-02624 (D.D.C.), Doc. 21 (Joint Status Report, Sept 15, 2026) ¶1: 'records submitted on April 23, 2026. See Compl. (ECF No. 1)'"
   found_by: "HSI case file 2026-10-08"
 coverage:
+  - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+    title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
   - url: https://popular.info/p/ice-ing-the-midterms
     title: "ICE-ing the midterms (Popular Information)"
   - url: https://theramm.transparencycascade.org/p/why-is-hsi-sending-undercover-agents

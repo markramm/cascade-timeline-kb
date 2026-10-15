@@ -98,6 +98,9 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.51.0.pdf
   read: fetched
   source_kind: primary
+coverage:
+  - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+    title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
 ---
 
 Two letters in the administrative record of *Common Cause v. DOJ* (D.D.C., 1:26-cv-01352) show how state voter registration lists held by the Justice Department reached Homeland Security Investigations. The parties filed them in the Joint Appendix (ECF 45-7, filed July 2, 2026). The Joint Appendix index notes that the Defendants included them without conceding that the actions described are reviewable final agency actions.

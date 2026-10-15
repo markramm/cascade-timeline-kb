@@ -86,6 +86,9 @@ claims:
   url: https://democracyforward.org/wp-content/uploads/2026/10/EMBARGO-DFF-DHS-ICE-26-0510-0511-0512-LIT-A_.pdf#Bates-057
   read: "page image (PDF p.60, rendered at 80 dpi and read)"
   source_kind: primary
+coverage:
+  - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+    title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
 ---
 
 ## What the documents say
