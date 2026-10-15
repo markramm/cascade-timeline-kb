@@ -128,3 +128,7 @@ Sanctions relief on a sanctioned Russian company's assets is being discussed wit
 - [[witkoff-zach]]
 - [[tahnoon-bin-zayed-al-nahyan]]
 - [[al-khayyat-brothers]]
+
+## Update 2026-10-15 (publication-date of relays: Oct 5-6, 2026): the two Middle Eastern groups are named in secondary relays of the NYT/FT
+
+Relays of the NYT report (Oil & Gas Middle East, 2026-10-06; Ukraine Today; Meduza, 2026-10-05) identify the two groups as (1) a Qatar-based conglomerate of Moutaz and Ramez Al-Khayyat, partners with Kushner and Ivanka Trump on a luxury resort in Albania, and (2) an Abu Dhabi fund controlled by Sheikh Tahnoon bin Zayed Al Nahyan, whose separate fund bought a stake in World Liberty Financial and who helps oversee Lunate, reported as a large stakeholder in Kushner's private equity firm. NYT original still unread (DataDome 403); these are tier-2 relays. Correction to the NY Post's "no role": relays quote a senior administration official telling the NYT that Witkoff and Kushner helped negotiate the US government's financial terms ("a substantial upfront payment and profits interest" via DFC). Witkoff's spokeswoman denied a conflict of interest. OFAC GL 131J (talks permitted, no completion) reportedly runs to 2026-10-22 (relay only; OFAC text not fetched).
