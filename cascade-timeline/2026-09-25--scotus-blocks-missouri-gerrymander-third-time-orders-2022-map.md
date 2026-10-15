@@ -2,7 +2,8 @@
 type: timeline_event
 id: 2026-09-25--scotus-blocks-missouri-gerrymander-third-time-orders-2022-map
 date: '2026-09-25'
-title: "Supreme Court Blocks Missouri GOP Gerrymander for Third Time in Three Weeks, Orders 2022 Map for Midterms"
+title: "Supreme Court Stays Federal Orders Requiring Missouri's 2025 Map for a Third Time in Three Weeks, Leaving the 2022 Map in Place Under State Law"
+title_corrected: '2026-10-15: earlier title said the Court "Orders 2022 Map"; per curiam 26A388 stays the lower-court injunction and says that "as a matter of state law, the 2022 map ... must be used" (Missouri Supreme Court, Sept 3)'
 importance: 7
 status: confirmed
 lane: democratic-erosion
