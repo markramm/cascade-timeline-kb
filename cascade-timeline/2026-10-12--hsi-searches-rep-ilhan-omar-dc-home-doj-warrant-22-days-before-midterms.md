@@ -194,6 +194,10 @@ related_events:
 - 2026-10-01--ice-acting-director-lyons-tells-colorado-no-reason-for-ice-at-polling-places-hsi-investigates-voter-fraud
 coverage:
 - daily-capture-reports/election/2026-10-12--hsi-search-ilhan-omar-home-pin-approval-rule-oct2026.md
+- url: https://theramm.transparencycascade.org/p/the-rule-says-approval-by-pin-the
+  title: "The Rule Says \"Approval by PIN.\" The Sources Say PIN Was \"Consulted.\""
+- url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
+  title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
 sources:
 - title: Rep. Ilhan Omar's residence searched as part of ongoing criminal investigation, DOJ says
   url: https://abcnews.go.com/US/rep-ilhan-omars-residence-searched-part-ongoing-criminal/story?id=137192001
