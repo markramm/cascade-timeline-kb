@@ -12,7 +12,7 @@ capture_lanes:
 capture_type: regulatory_capture
 connections: []
 date: 2025-04-11
-description: 'Meta strategically appoints Dina Powell McCormick, a former Trump administration national security advisor, to its board of directors, signaling potential political alignment and strategic positioning.'
+description: 'Meta strategically appoints Dina Powell McCormick, a former Trump administration Deputy National Security Advisor, to its board of directors, signaling potential political alignment and strategic positioning.'
 id: 2025-04-11--meta-adds-former-trump-advisor-to-its-board
 importance: 7
 location: 'Washington, D.C.'
@@ -43,5 +43,6 @@ tags:
 - corporate-governance
 - strategic-appointments
 title: Meta adds former Trump advisor Dina Powell McCormick to its board
+gate_note: 'Corrected 2026-10-16 (D10 pilot defect): prior role was Deputy National Security Advisor, not national security advisor; Meta announcement: ''Deputy National Security Advisor to President Donald J. Trump'' and ''Dina spent 16 years in senior leadership roles as a partner at Goldman Sachs''; effective April 15 per same page. The description field still says national security advisor in short form and should be read with this note.'
 ---
-Meta has strategically appointed Dina Powell McCormick, a former Trump administration national security advisor and Goldman Sachs executive with extensive government experience, to its board of directors, effective April 15, 2025. This move is seen as part of Meta's efforts to strengthen its political connections and regulatory positioning.
+Meta has strategically appointed Dina Powell McCormick, a former Deputy National Security Advisor in the first Trump administration and a Goldman Sachs partner (16 years, per Meta's announcement), to its board of directors, effective April 15, 2025. This move is seen as part of Meta's efforts to strengthen its political connections and regulatory positioning.
