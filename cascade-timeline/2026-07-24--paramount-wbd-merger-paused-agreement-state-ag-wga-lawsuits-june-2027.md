@@ -43,7 +43,7 @@ sources:
     date: '2026-07-24'
     tier: 1
 related:
-- 2026-10-06--paramount-skydance-closes-wbd-acquisition-cnn-cbs-news-under-one-owner-supersedes-pause
+  - 2026-10-06--paramount-skydance-closes-wbd-acquisition-cnn-cbs-news-under-one-owner-supersedes-pause
   - 2026-07-16--paramount-wbd-antitrust-hearing-faust-subscriber-suit-bonta-ag-coalition-pending
   - 2026-06-08--cnn-investigation-bari-weiss-cbs-paramount-wbd-merger-link-bonta-active
   - 2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete
