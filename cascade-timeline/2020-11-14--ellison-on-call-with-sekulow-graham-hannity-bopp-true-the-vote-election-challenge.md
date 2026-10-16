@@ -66,7 +66,7 @@ claims:
 - id: c3
   type: quote
   value: 'asked for a preliminary report asap, to be used to rally their troops internally'
-  qualifier: "they" = the call participants other than Jim, per Engelbrecht
+  qualifier: '"they" = the call participants other than Jim, per Engelbrecht'
   span: 'He explained the work we were doing and they asked for a preliminary report asap, to be used to rally their troops internally, so that''s what I''m working on now.'
   url: 'https://storage.courtlistener.com/recap/gov.uscourts.gand.285098/gov.uscourts.gand.285098.156.44_2.pdf'
   read: fetched
