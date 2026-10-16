@@ -70,6 +70,7 @@ sources:
   tier: 2
   outlet: Word & Way
 status: confirmed
+gate_note: 'Persch is not among the seven arrested, and no source ties her death (Nov 14, 2025, aged 91, "suddenly" per the Thompson & Kuenster obituary) to the arrests or to ICE. The title pairs two same-day events; it does not assert a cause. Added 2026-10-16.'
 capture_lanes:
 - Religious Capture and Holy War Apparatus
 ---
