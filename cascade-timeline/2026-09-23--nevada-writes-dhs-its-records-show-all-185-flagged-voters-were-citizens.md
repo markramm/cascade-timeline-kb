@@ -128,6 +128,9 @@ sources:
   date: '2026-09-25'
   tier: 2
 gate_note_ott_title: 'Conductor 2026-10-15: the body called Ott "chief deputy secretary of state"; no source supports that. State payroll lists Gregory Ott as Chief Deputy Attorney General, and a Nevada AG job posting has him as the deputy AG assigned to the Secretary of State. Body neutralised to "writing for the Nevada Secretary of State''s office" pending a primary confirmation.'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
+    title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
 ---
 
 In an email to DHS sent Wednesday, September 23, 2026, Greg Ott, writing for the Nevada Secretary of State's office, wrote: "As for the 185 individuals, our records indicate that they were citizens. You have provided nothing of substance to suggest otherwise."
