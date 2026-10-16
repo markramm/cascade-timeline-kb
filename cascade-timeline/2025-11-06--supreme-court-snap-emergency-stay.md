@@ -33,6 +33,8 @@ capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
 status: reported
+superseded_by: 2025-11-07--supreme-court-blocks-full-snap-payments
+gate_note: 'Conductor 2026-10-15: misdated duplicate. The SCOTUS docket for 25A539 records the administrative stay as "entered on November 7, 2025"; McConnell''s full-payment order was Nov 6 (see 2025-11-06--dri-mcconnell-orders-full-november-snap-payments-by-nov-7). Cite 2025-11-07--supreme-court-blocks-full-snap-payments for the stay, not this entry.'
 ---
 
 The Supreme Court issued an administrative stay at least temporarily allowing the Trump administration to withhold approximately $4 billion in SNAP (Supplemental Nutrition Assistance Program) payments affecting 42 million Americans, blocking a federal district court order that had required full November payments by Friday. The order came via Justice Ketanji Brown Jackson and gave a lower appeals court additional time to consider the administration's request to only partially fund food stamps for November, citing insufficient funds due to the government shutdown.
