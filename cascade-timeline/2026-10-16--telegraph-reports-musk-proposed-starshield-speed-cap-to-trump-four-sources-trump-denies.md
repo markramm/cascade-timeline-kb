@@ -5,7 +5,7 @@ date: '2026-10-16'
 title: Telegraph Reports, on Four Sources, That Musk Proposed the Ukraine Starshield Speed Cap to Trump; Trump Says Neither He Nor Musk Was Responsible
 importance: 7
 status: reported
-status_note: claims verified against the Kyiv Independent relay; the underlying account rests on anonymous sources and the Telegraph body is unread, so status stays reported
+status_note: claims verified against the Kyiv Independent relay; the Telegraph full text (registration wall, read via Mark's paste 2026-10-16) matches every claim. Status stays reported because the account rests on anonymous sources. The Telegraph also reports an AFP-cited anonymous US official, "No request was ever made by the president", and Zelensky on Oct 16, "Have they returned to the previous speed limits? No. But is it coming back now? Yes."
 verification: source-verified
 date_is_publication_date: true
 event_date_claim: c1
@@ -127,7 +127,7 @@ sources:
   outlet: Kyiv Independent
   date: '2026-10-16'
   tier: 2
-- title: "Exclusive: Musk approached Trump to slow down Starlink in Ukraine (The Telegraph, Joe Barnes, Diplomatic Editor, published 6:59pm BST Oct 16, 2026; registration wall: headline, byline and standfirst seen via Mark, body not read)"
+- title: "Exclusive: Musk approached Trump to slow down Starlink in Ukraine (The Telegraph, Joe Barnes, Diplomatic Editor, published 6:59pm BST Oct 16, 2026; registration wall: full text read via Mark's paste 2026-10-16)"
   url: https://www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/
   outlet: The Telegraph
   date: '2026-10-16'
