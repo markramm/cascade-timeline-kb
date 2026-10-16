@@ -33,7 +33,7 @@ claims:
 
 **What is documented.** On the night of Monday 2026-10-05 (error date; the articles say "Monday night"), routine database maintenance at the Louisiana Secretary of State's office switched approximately 67,000 registered voters statewide to inactive status. Deputy Secretary of State for communications and policy Trey Williams attributed it to "human error" and said it did not affect eligibility: inactive voters in Louisiana may still vote, confirming residence with photo ID and proof of address.
 
-**How it surfaced.** The Louisiana Illuminator reported that an East Baton Rouge Parish voter, Courtney Price, saw her status as inactive on Monday evening and called her registrar, who told her the problem "originated with the Secretary of State." (Report date 2026-10-07; republished 2026-10-08.)
+**How it surfaced.** The Louisiana Illuminator reported that an East Baton Rouge Parish voter (named by the outlet; not named here) saw her status as inactive on Monday evening and called her registrar, who told her the problem "originated with the Secretary of State." (Report date 2026-10-07; republished 2026-10-08.)
 
 **Restoration: reports differ on timing.** The Illuminator (published Wednesday 2026-10-07) said the office expected to restore correct statuses "by Wednesday." The Center Square (report date 2026-10-11) quotes Williams that the office "corrected the error later that day." The articles do not say which day "that day" is. The "restored within two days" framing is therefore supported only as an upper bound.
 
