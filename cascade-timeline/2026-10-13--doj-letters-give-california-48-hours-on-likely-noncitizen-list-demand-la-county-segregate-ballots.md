@@ -115,6 +115,8 @@ related_events:
 - 2025-09-09--doj-demands-voter-data-centralized-database
 coverage:
 - daily-capture-reports/election/2026-10-13--doj-thumbdrive-la-county-noncitizen-voters-segregate-ballots-oct2026.md
+- url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
+  title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
 sources:
 - title: Exclusive-US Justice Department threatens California over alleged noncitizen voters, letters show
   url: https://www.yahoo.com/news/politics/articles/exclusive-us-justice-department-threatens-034849746.html
