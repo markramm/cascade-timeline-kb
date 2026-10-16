@@ -43,11 +43,13 @@ sources:
     date: '2026-07-24'
     tier: 1
 related:
+- 2026-10-06--paramount-skydance-closes-wbd-acquisition-cnn-cbs-news-under-one-owner-supersedes-pause
   - 2026-07-16--paramount-wbd-antitrust-hearing-faust-subscriber-suit-bonta-ag-coalition-pending
   - 2026-06-08--cnn-investigation-bari-weiss-cbs-paramount-wbd-merger-link-bonta-active
   - 2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete
   - 2025-12-08--paramount-skydance-hostile-takeover-warner-bros-discovery
 parked_awaiting: null
+superseded_note: "The pause ended early: Paramount Skydance closed the WBD acquisition on 2026-10-06 (8-K, transaction date), after a 12-state settlement announced about 2026-09-21/22. See 2026-10-06--paramount-skydance-closes-wbd-acquisition-cnn-cbs-news-under-one-owner-supersedes-pause. This entry stays as the record of the July pause."
 status_reason: "Resolves the parked 2026-07-16 entry (awaiting: post-event-outcome). Outcome was NOT a hearing ruling — the parties reached a pause-by-agreement, superseding the hearing-outcome framing that entry was parked to wait for."
 ---
 
