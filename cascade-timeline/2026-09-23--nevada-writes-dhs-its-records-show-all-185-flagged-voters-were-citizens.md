@@ -127,8 +127,9 @@ sources:
   publisher: Democracy Docket
   date: '2026-09-25'
   tier: 2
+gate_note_ott_title: 'Conductor 2026-10-15: the body called Ott "chief deputy secretary of state"; no source supports that. State payroll lists Gregory Ott as Chief Deputy Attorney General, and a Nevada AG job posting has him as the deputy AG assigned to the Secretary of State. Body neutralised to "writing for the Nevada Secretary of State''s office" pending a primary confirmation.'
 ---
 
-In an email to DHS sent Wednesday, September 23, 2026, Nevada chief deputy secretary of state Greg Ott wrote: "As for the 185 individuals, our records indicate that they were citizens. You have provided nothing of substance to suggest otherwise."
+In an email to DHS sent Wednesday, September 23, 2026, Greg Ott, writing for the Nevada Secretary of State's office, wrote: "As for the 185 individuals, our records indicate that they were citizens. You have provided nothing of substance to suggest otherwise."
 
 The sequence, by kind of date: at an August 13, 2026 virtual meeting (announcement) DHS officials said they had identified 185 people they believed were noncitizens after manual review. On August 14, 2026 (list delivery) DHS emailed 185 "voter case numbers" and 6,218 more not yet reviewed, numbers only. On August 20, 2026 DHS declined to send more, writing it would "prefer to limit our information sharing to just providing you the voter ID from your public voter list." Ott's reply adds that a voter registration number is not proof of identity or citizenship status. The 185 sit under the 15,903 ceiling in [[2026-07-16--dhs-mullin-writes-california-up-to-190832-noncitizens-may-be-registered]].
