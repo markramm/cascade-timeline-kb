@@ -29,6 +29,9 @@ capture_lanes:
 - Electoral Manipulation
 status: reported
 gate_note: 'Conductor 2026-10-15: dated to first press reports. The Garman v. Patel complaint (D.D.C. 1:26-cv-01086) pleads the firings on Oct. 7, 2025. Not re-dated; see register-of-retaliatory-fbi-doj-firings-and-the-suits-they-produced-2025-2026 (cascade-research).'
+coverage:
+- url: https://theramm.transparencycascade.org/p/the-fbi-purge-complaint-in-de-fired
+  title: "The FBI Purge Complaint in Detail: Fired for the work"
 ---
 
 The FBI terminated two special agents involved in Special Counsel Jack Smith's January 6 investigation after they reviewed Republican lawmakers' phone records as part of the probe. A third agent may face similar action. The firings represent systematic retaliation against law enforcement professionals who investigated the January 6 attack and Trump's attempts to overturn the 2020 election. Under FBI Director Kash Patel, the Bureau is purging agents who participated in constitutionally mandated criminal investigations, transforming the FBI from an independent law enforcement agency into a tool for protecting Trump and punishing those who investigated his crimes.

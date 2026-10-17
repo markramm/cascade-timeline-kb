@@ -184,6 +184,8 @@ capture_lanes:
 - Democratic Erosion
 - Executive Power Expansion
 coverage:
+- url: https://theramm.transparencycascade.org/p/the-fbi-purge-complaint-in-de-fired
+  title: "The FBI Purge Complaint in Detail: Fired for the work"
 - daily-capture-reports/headline/2026-10-15--fbi-nine-plasmic-echo-agents-sue-patel-political-retribution.md
 gate_note: 'Conductor 2026-10-15: complaint paragraph pairing. The rebuttal to Patel''s Mar 19 House Intelligence answer is ¶148; the end of ¶153 rebuts his Sept 15 Senate Judiciary testimony. Do not pair the House quote with the ¶153 rebuttal. Patel''s words are the complaint''s allegation (transcript unread).'
 ---

@@ -39,6 +39,8 @@ capture_lanes:
 - Executive Power Expansion
 - Democratic Erosion
 coverage:
+  - url: https://theramm.transparencycascade.org/p/the-fbi-purge-complaint-in-de-fired
+    title: "The FBI Purge Complaint in Detail: Fired for the work"
   - url: https://theramm.substack.com/p/kash-patel-ten-days-four-scandals
     title: "Kash Patel: Ten days, four scandals"
     date: '2026-04-27'
