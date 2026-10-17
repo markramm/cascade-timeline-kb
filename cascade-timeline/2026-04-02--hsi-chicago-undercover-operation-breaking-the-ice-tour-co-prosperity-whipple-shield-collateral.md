@@ -431,6 +431,16 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
+- id: c40
+  type: quote
+  value: the head of an anti-ICE Signal chat and group
+  qualifier: ICE Cream Patrol
+  span: who is the head of an anti-ICE Signal chat and group called "ICE Cream Patrol."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.297.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-10-17'
 event_date_claim: c1
 ---
 
@@ -439,5 +449,7 @@ On April 2, 2026 (event date), HSI Chicago ran an undercover operation at the Ch
 The operation, as the report describes it, was an operational plan "with the goal of meeting people in the network, identifying people related to HSI Saint Paul Minnesota's case, identifying people participating in HSI Chicago's area of responsibility (AOR), and obtaining video and audio recordings of the event." It used an HSI undercover (UC1) and "a UC from Aurora PD" (UC2). The agents listed as present include HSI special agents and task force officers from the Cook County Sheriff's Police, the Chicago Police Department, the Kane County Sheriff's Office and Downers Grove PD. The report says the duty AUSA was called and the team "received concurrence for an ELSUR Authorization" before the operation, and that the "SAs briefed at approximately 5:45 PM at Chicago Police Department's 9th district." In the room, "UC1 had a recorder transmitter and was recording through a Law Enforcement application as a secondary," and UC2 relayed "there was no security, no wand check, and no pat down upon entrance." Later, "transmission from UC1 was lost due to the phone overheating"; on April 7, 2026 (date the report gives for sharing the recordings), UC1 shared them with the case agents through a Microsoft Teams link.
 
 Outside the room, agents logged vehicles parked near the venue ("approximately 219" in the log) and ran license-plate-reader checks. For one Minnesota-plated vehicle, the report says "License Plate Reader (LPR) checks show this vehicle parked in Minnesota on February 12, 2026, and March 30, 2026," and a follow-up check showed a hit on 4/3/2026, the day after the Chicago event, southbound on I-65 in Lebanon, Indiana, "which correlates with this travel" to the tour's Bloomington, Indiana date. The report also records the tour's GoFundMe at 67 donations, $5,163 raised against a $6,000 goal, and states "A video screen recording of the names that have donated will be uploaded to this ROI in DRM." A task force officer put "request into the Chicago Police Department to obtain access to footage from a CPD pole cam that was outside the venue," and "The information obtained will be shared with HSI Saint Paul, Minnesota." Attendees, vehicle owners and a person named in a prior-arrest record are redacted in the filed document and are not recorded here.
+
+The agents also noted, near the venue, the subject of a separate HSI investigation, whom the report describes as "the head of an anti-ICE Signal chat and group" called ICE Cream Patrol. The filing redacts the person's name. The report gives that investigation's own Chicago case number; what became of it is not in the public record.
 
 Pattern context. This is the second documented non-Minnesota collateral tasking for the same tour, after the Ann Arbor operation ([[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]), whose ROI, DD02PR26MS0003-002, was filed as Doc. 212-18. The Ann Arbor ROI frames its case around violations of 18 USC 111 and 18 USC 372 and does not use the program name; the Chicago ROI ties the tasking to "Project Whipple Shield" by name ([[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]), which the corpus had documented as a financial-records effort. New relative to Ann Arbor: local-police task force officers, license-plate-reader follow-up across a state line, and donor-name capture. Exhibits K through BB to Doc. 297 are PACER-only and not yet read. See also [[2026-09-25--sant-defense-exhibits-out-of-state-hsi-agents-ran-minnesota-protest-investigations]].
