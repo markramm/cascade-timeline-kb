@@ -23,6 +23,15 @@ sources:
     publisher: CBS News
     date: '2026-10-07'
     tier: 1
+  - title: "Vance says selling access to the White House is disgusting and despicable"
+    url: https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/
+    publisher: CBS News
+    date: '2026-10-15'
+    tier: 1
+  - title: "CBS gives JD Vance a prime-time town hall just before the midterms"
+    url: https://www.poynter.org/commentary/2026/jd-vance-cbs-town-hall-midterms/
+    publisher: Poynter
+    tier: 2
   - title: "Things That Matter: Releases"
     url: https://www.paramountpressexpress.com/cbs-news-and-stations/shows/things-that-matter/releases
     publisher: Paramount Press Express (CBS News)
@@ -168,13 +177,54 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-17'
+- id: c14
+  type: quote
+  value: postponed by the vice president due to the war
+  qualifier: originally scheduled
+  span: originally scheduled for next week, has been postponed by the vice president due to the war. A new date and more details to come soon.
+  url: https://barrettmedia.com/2026/03/05/cbs-news-town-hall-with-jd-vance-postponed/
+  read: fetched
+  source_kind: secondary
+- id: c15
+  type: date
+  value: March 5, 2026
+  qualifier: CBSNewsPress
+  span: '— CBS News PR (@CBSNewsPress) March 5, 2026'
+  url: https://barrettmedia.com/2026/03/05/cbs-news-town-hall-with-jd-vance-postponed/
+  read: fetched
+  source_kind: secondary
+- id: c16
+  type: quote
+  value: set to air on Saturday evening
+  qualifier: one-hour town hall in Michigan
+  span: Vance spoke with "CBS Evening News" anchor Tony Dokoupil during a one-hour town hall in Michigan that is set to air on Saturday evening, less than three weeks before the midterm elections.
+  url: https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/
+  read: fetched
+  source_kind: primary
+- id: c17
+  type: quote
+  value: selling access to the White House
+  qualifier: told CBS News on Thursday
+  span: Vice President JD Vance told CBS News on Thursday that anybody who is "selling access to the White House" should "suffer consequences."
+  url: https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/
+  read: fetched
+  source_kind: primary
+- id: c18
+  type: date
+  value: October 15, 2026
+  qualifier: Updated on
+  span: 'Updated on:  October 15, 2026 / 7:31 PM EDT / CBS News'
+  url: https://www.cbsnews.com/news/vance-town-hall-dokoupil-selling-access-white-house/
+  read: fetched
+  source_kind: primary
 event_date_claim: c1
 ---
 
 CBS News announced on October 7, 2026 that a primetime town hall with Vice President JD Vance will air on **Saturday, Oct. 17 at 8 p.m. ET/PT** on CBS and Paramount+, as part of its *Things That Matter* series. The anchor of the *CBS Evening News*, Tony Dokoupil, will question Vance in Michigan before an audience of Michigan voters from across the political spectrum, in CBS's wording. CBS lists affordability, tariffs, immigration, health care, artificial intelligence, the war with Iran and the state of American democracy among the topics, along with the race for Congress. The entry's date is the scheduled broadcast; it had not aired when this entry was written, so no content is recorded.
 
 **Observations (no motive is inferred).**
-- CBS's series page also lists an earlier Vance special in *Things That Matter*, scheduled for Saturday, March 14, also with Dokoupil.
+- CBS's series page also lists an earlier Vance special in *Things That Matter*, scheduled for Saturday, March 14, also with Dokoupil. On March 5, 2026, CBS News said (as quoted by Barrett Media, https://barrettmedia.com/2026/03/05/cbs-news-town-hall-with-jd-vance-postponed/) that event was "postponed by the vice president due to the war" and promised "a new date." CBS's October 7 announcement does not mention March or call this a rescheduling; Poynter wrote that the October event could be read as a makeup date, a hedged inference. Whether this is the rebooked March event or a second one is therefore not established by CBS; the venue and framing also changed.
+- CBS News's October 15 report says the town hall with Dokoupil was held in Michigan on Thursday (the report is dated October 15, 2026), and was "set to air on Saturday evening"; CBS published excerpts that day (Vance on "selling access to the White House"; a question about complying with congressional subpoenas).
 - The same page lists a town hall with Democratic Maryland Governor Wes Moore (Sunday, Feb. 15, with Norah O'Donnell) and one with former Sen. Ben Sasse (Sunday, April 26, with Scott Pelley).
 - Vance is not a candidate in this fall's election. The equal-opportunities rule, as ABC's complaint describes it, applies to "equal opportunity to all legally qualified candidates for an office" when a station lets one candidate use its facilities, so the rule is not engaged by this appearance on its face (see [[2026-02-19--fcc-investigates-abc-the-view-equal-time-violations]] for the rule's use against ABC).
 - The Hollywood Reporter links the special to "Bari Weiss' desire to hold more town halls and buzzy events that include newsmakers." That is the trade outlet's characterization, not CBS's.
@@ -183,6 +233,6 @@ CBS News announced on October 7, 2026 that a primetime town hall with Vice Presi
 
 ## Research Gaps
 
-- [ ] Broadcast not yet aired at time of writing: review the transcript or video and the post-broadcast CBS News write-up, then add what Vance said and how the questioning went.
+- [ ] Broadcast not yet aired at time of writing (the hour was taped Oct 15; confirm it aired Oct 17 at 8 PM ET): review the transcript or video and the post-broadcast CBS News write-up, then add what Vance said and how the questioning went.
 - [ ] Whether CBS has offered a comparable primetime town hall to a Democratic national figure this fall (the series page shows Moore in February; nothing for the fall turned up).
 - [ ] The full Paramount Press Express release (the listing page truncates it); the cbsnews.com article carries the same announcement.
