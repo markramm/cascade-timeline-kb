@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-09-18--defendants-brief-admits-hsi-icm-record-on-maine-observer-led-to-border-stop
 date: '2026-09-18'
-title: "Defendants' Motion to Dismiss in Hilton Admits an HSI Case-Management Record on a Maine Observer Led to Her March 2026 Border Stop"
+title: "Defendants' Motion to Dismiss in Hilton Says an HSI Case-Management Record on a Maine Observer Led to Her March 2026 Border Stop"
 importance: 7
 status: confirmed
 tags:
