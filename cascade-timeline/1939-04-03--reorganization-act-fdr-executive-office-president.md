@@ -94,7 +94,7 @@ The Act's legislative-veto mechanism for reorganization plans (§5) was specific
 
 ## Related Entries
 
-- [[1934-06-19--office-legal-counsel-founded-doj-reorganization]]
+- [[1933-06-16--office-legal-counsel-founded-doj-reorganization]]
 - [[1935-05-27--humphreys-executor-fdr-independent-agencies-removal-limit]]
 - [[1937-02-05--fdr-court-packing-plan-executive-vs-judiciary]]
 - [[1947-07-26--national-security-act-executive-power-architecture]]

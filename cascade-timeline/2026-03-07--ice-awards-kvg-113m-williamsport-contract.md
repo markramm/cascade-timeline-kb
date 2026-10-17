@@ -44,7 +44,7 @@ On March 7, 2026, ICE awarded **KVG LLC** — a Gettysburg, Pennsylvania-registe
 - **Award date**: March 7, 2026
 - **Awardee**: KVG LLC
 - **Facility**: 825,000-square-foot warehouse at 16220 Wright Road, Williamsport, MD
-- **Purchase context**: DHS bought the warehouse from Fundrise for $102.4M, January 27, 2026 ([[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]])
+- **Purchase context**: DHS bought the warehouse from Fundrise for $102.4M, January 27, 2026 ([[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]])
 - **Initial contract value**: $113 million
 - **Option-expanded ceiling through 2029**: ~$641.8 million
 - **Planned capacity**: **542** per ICE's own Record of Environmental Consideration; **1,500** appears in planning material as an unfinalized ceiling. Both figures are real and describe different things — see the correction note below. Turnover every 3–7 days.
@@ -123,7 +123,7 @@ The pattern is not accidental. Incumbents in the detention-industrial complex (C
 ## Related Entries
 
 - [[2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract]] — companion March 6 award
-- [[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]] — underlying warehouse purchase
+- [[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]] — underlying warehouse purchase
 - [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]] — NEPA halt
 - [[2026-04-17--san-antonio-restricts-detention-facilities-ordinance]] — parallel state-level resistance
 - [[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]]

@@ -136,7 +136,7 @@ Harold Hughes retired from the Senate in January 1975, weeks after the amendment
 ## Related Entries
 
 - [[1947-07-26--national-security-act-creates-permanent-warfare-state]]
-- [[1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function]]
+- [[1947-12-17--nsc-4a-authorizes-cia-covert-action-fifth-function]]
 - [[1973-05-09--colby-orders-family-jewels-inventory]]
 - [[1973-11-07--war-powers-resolution-override-nixon-veto]]
 - [[1975-01-27--church-committee-begins]]

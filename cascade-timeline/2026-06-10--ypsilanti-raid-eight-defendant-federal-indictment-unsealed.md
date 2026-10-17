@@ -88,7 +88,7 @@ claims:
 
 ## Opening
 
-**Nothing turns on whether these eight defendants are guilty; the question is what the government did around the case.** That is the Whipple Shield discipline — see [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] — and it governs this entry the same way.
+**Nothing turns on whether these eight defendants are guilty; the question is what the government did around the case.** That is the Whipple Shield discipline — see [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] — and it governs this entry the same way.
 
 On the morning of June 10, 2026, the FBI raided homes in Michigan, Illinois, and Wisconsin — including a residence in Ypsilanti — and unsealed a 63-page federal indictment, **Case No. 5:26-cr-20306-JEL-EAS** (E.D. Mich., Southern Division, assigned to Judge Judith E. Levy, referral to Magistrate Judge Elizabeth A. Stafford), charging eight people connected to the University of Michigan. **The indictment itself was filed under seal a month earlier, on May 20, 2026** — signed by Assistant U.S. Attorney Margaret Smith. The sequence — sealed indictment, then a same-morning raid, then unsealing — is documented on the face of the filing (filing date May 20 vs. the June 10 raid/unseal reported contemporaneously) and is the entry's structural spine.
 
@@ -145,7 +145,7 @@ See [[ypsilanti-raid-participation-and-referral-um-police-armored-vehicle-nessel
 
 ## Cross-References
 
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] — the governing discipline for this entry
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] — the governing discipline for this entry
 - [[ypsilanti-raid-participation-and-referral-um-police-armored-vehicle-nessel-fbi-briefing]] — open questions
 
 ## MLive reporting adds defendant-level detail — recorded 2026-08-30

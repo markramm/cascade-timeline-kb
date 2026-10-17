@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
+id: 2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
+previous_ids: ["2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions"]
 date: '2026-02-11'
 title: "HSI Opens Project Whipple Shield, Using Warrantless Administrative Summonses Under Customs Authority to Take Years of Union and Nonprofit Financial Records Under a 'Domestic Terrorist Financing' Theory"
 importance: 9

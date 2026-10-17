@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-01-28--stella-carlson-cnn-pretti-witness-fbi-no-contact
+id: 2026-01-27--stella-carlson-cnn-pretti-witness-fbi-no-contact
+previous_ids: ["2026-01-28--stella-carlson-cnn-pretti-witness-fbi-no-contact"]
 date: '2026-01-27'
 title: "Stella Carlson, Witness Whose Video Contradicted Official Pretti Claims, Tells CNN the FBI Has Not Contacted Her"
 importance: 6

@@ -135,5 +135,5 @@ No attendee other than Cameron Kennedy is identified, and none is independently 
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]]
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]

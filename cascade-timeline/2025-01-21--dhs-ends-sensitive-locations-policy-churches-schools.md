@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2025-07-01--dhs-ends-sensitive-locations-policy-churches-schools
+id: 2025-01-21--dhs-ends-sensitive-locations-policy-churches-schools
+previous_ids: ["2025-07-01--dhs-ends-sensitive-locations-policy-churches-schools"]
 date: '2025-01-21'
 title: DHS ends sensitive locations policy allowing ICE arrests at churches and schools
 importance: 8
@@ -56,7 +57,7 @@ capture_lanes:
 corrections:
 - date: '2026-10-08'
   was: "date: 2025-07-01"
-  now: "date: 2025-01-21 (the id and file name keep 2025-07-01 so existing links resolve)"
+  now: "date: 2025-01-21 (the id and file name were corrected from 2025-07-01 to 2025-01-21 on 2026-10-17; the old id is kept in previous_ids so existing links resolve)"
   why: "https://www.cbsnews.com/news/trump-immigration-ice-arrests-sensitive-locations/ — CBS News, published January 21, 2025: 'Trump officials revoke Biden policy that barred ICE arrests near sensitive locations'; the entry's own CNN, CBS, Axios and El Paso Matters sources are all dated 2025-01-21"
   found_by: "HSI case file 2026-10-08"
 ---

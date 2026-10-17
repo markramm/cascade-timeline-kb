@@ -141,5 +141,5 @@ No individual attendee is named in the unsealed copy of this ROI apart from "DJ,
 - [[2026-04-14--hsi-surveillance-st-johns-church-st-paul-plate-collection]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]

@@ -150,7 +150,7 @@ moves is short. Claim the moves, not the movers.**
       is a case "accepted under CUC Op Keyhole."** Not three parallel operations but a hierarchy. See
       [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]] (importance 10),
       [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]], and
-      [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] (warrantless
+      [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] (warrantless
       administrative summonses under **customs** authority for union/nonprofit financial records, on a
       "domestic terrorist financing" theory). **MPR's "not many details are available" describes the
       public record, not this corpus** — the detail came from court filings we already worked.

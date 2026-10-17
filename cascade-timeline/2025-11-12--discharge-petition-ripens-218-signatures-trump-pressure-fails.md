@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2025-11-13--discharge-petition-ripens-218-signatures-trump-pressure-fails
+id: 2025-11-12--discharge-petition-ripens-218-signatures-trump-pressure-fails
+previous_ids: ["2025-11-13--discharge-petition-ripens-218-signatures-trump-pressure-fails"]
 date: '2025-11-12'
 title: Epstein Files Discharge Petition Ripens at 218 Signatures Despite Intense Trump Pressure Campaign
 importance: 10

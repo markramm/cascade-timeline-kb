@@ -45,7 +45,7 @@ related_events:
   - 2026-01-28--puppet-master-accepted-under-cuc-op-keyhole
   - 2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity
   - 2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony
-  - 2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
+  - 2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions
   - 2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used

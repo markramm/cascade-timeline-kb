@@ -93,7 +93,7 @@ ICE produced HSI St. Paul's "July 23, 2026, Consolidated Report" (Bates 092-100)
 ## Reading it
 
 - This is HSI St. Paul's account in an internal report. The undercover infiltration of the RRNs is stated as an action taken; the page names no group and no dates for it.
-- Puppet Box is a separate case number from Operation Puppet Master. The production does not say whether Puppet Box is one of the investigations under CUC Operation Keyhole. See [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]] for Keyhole and [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] for Whipple Shield.
+- Puppet Box is a separate case number from Operation Puppet Master. The production does not say whether Puppet Box is one of the investigations under CUC Operation Keyhole. See [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]] for Keyhole and [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] for Whipple Shield.
 - The report appears in a production responsive to election-related keywords, but the page does not tie the cases on Bates 095 to elections.
 
 ## Not established

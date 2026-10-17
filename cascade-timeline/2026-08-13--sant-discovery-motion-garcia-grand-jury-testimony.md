@@ -95,7 +95,7 @@ Set that against the record already in the corpus:
 - HSI took financial records from SEIU, CWA, IFPTE, Voices for Racial Justice, and — named as two
   separate entities on the summons — Sunrise Movement and the Sunrise Movement Education Fund, by
   warrantless administrative summons — organizations charged with nothing. See
-  [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] for the
+  [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] for the
   summons detail and the absence of any stated predicate for Sunrise Movement's inclusion.
 - A UCA sat in a church sanctuary in Ann Arbor and logged a Uganda hospital mission trip and a
   business card (Doc. 212-18).
@@ -143,7 +143,7 @@ defense's characterization, never adopt it.
 ## Cross-References
 
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 - [[criminalizing-dissent-the-descending-gradient]]

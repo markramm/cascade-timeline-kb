@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 1934-06-19--office-legal-counsel-founded-doj-reorganization
+id: 1933-06-16--office-legal-counsel-founded-doj-reorganization
+previous_ids: ["1934-06-19--office-legal-counsel-founded-doj-reorganization"]
 date: '1933-06-16'
 title: "Congress Creates the Assistant Solicitor General Post That Became the Office of Legal Counsel; OLC Becomes Binding Interpreter of Executive Authority"
 importance: 8

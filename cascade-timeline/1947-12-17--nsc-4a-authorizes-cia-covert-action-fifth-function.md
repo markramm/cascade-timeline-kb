@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function
+id: 1947-12-17--nsc-4a-authorizes-cia-covert-action-fifth-function
+previous_ids: ["1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function"]
 date: '1947-12-17'
 title: NSC 4-A Secretly Authorizes CIA Covert Action Using "Fifth Function" Elastic Clause of 1947 Act
 importance: 9

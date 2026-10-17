@@ -251,7 +251,7 @@ Full detail: [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-ve
 ## Cross-References
 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[prosecution-as-surveillance-wedge]]
 - [[criminalizing-dissent-the-descending-gradient]]

@@ -170,7 +170,7 @@ The February 2025 novation thus transfers a legacy contract for a failed product
 
 **Hyperscaler-to-Thiel-network coordination, not competition.** Microsoft retains the Azure cloud contract now running all Anduril AI workloads. The deal is a division of labor: Microsoft becomes backend cloud provider; Anduril takes hardware and software primacy. The two companies became more integrated, not competitive. This is the hyperscaler-as-substrate pattern documented in [[tech-stack-of-surveillance-inc-engineering-substrate-2010-2026]].
 
-**Obadal nomination timing.** On March 10, 2025 — about four weeks after the IVAS handoff announcement — Trump sent the Senate his nomination of Michael Obadal, a senior Anduril director, as Army Under Secretary. At nomination, Obadal planned to retain $250K–$500K in vested Anduril stock. Sen. Warren's May 2025 letter later noted Anduril's $22 billion Army headset contract. See [[2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention]].
+**Obadal nomination timing.** On March 10, 2025 — about four weeks after the IVAS handoff announcement — Trump sent the Senate his nomination of Michael Obadal, a senior Anduril director, as Army Under Secretary. At nomination, Obadal planned to retain $250K–$500K in vested Anduril stock. Sen. Warren's May 2025 letter later noted Anduril's $22 billion Army headset contract. See [[2025-03-11--obadal-anduril-nominated-army-under-secretary-stock-retention]].
 
 ## Research Gaps
 
@@ -183,7 +183,7 @@ The February 2025 novation thus transfers a legacy contract for a failed product
 ## Related Entries
 
 - [[luckey-palmer]] — Anduril founder; HoloLens/AR hardware expertise central to the IVAS rationale
-- [[2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention]] — Anduril executive nominated to Army's number-two civilian role six weeks after IVAS handoff
+- [[2025-03-11--obadal-anduril-nominated-army-under-secretary-stock-retention]] — Anduril executive nominated to Army's number-two civilian role six weeks after IVAS handoff
 - [[thiel-surveillance-defense-portfolio]] — Anduril as Layer 6; Lattice as AI backbone
 - [[thiel-surveillance-empire-2003-2026-twenty-three-year-vertical-integration]] — 23-year structural context
 - [[trump-2-surveillance-procurement-chronology-2025-2026]] — full procurement chronology; Feb 2025 entry

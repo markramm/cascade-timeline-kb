@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-06-20--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy
+id: 2025-10-31--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy
+previous_ids: ["2026-06-20--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy"]
 date: '2025-10-31'
 title: "ICE Obligates $3.75M Initial Funding on a $9.2M Clearview AI Follow-On Contract (Sept 2025) as DHS Is Reported to Have Removed Its Facial-Recognition Directive"
 importance: 8
@@ -39,6 +40,8 @@ corrections:
   why: "https://www.biometricupdate.com/202510/trump-administration-expands-facial-recognition-while-erasing-oversight-policy and https://fedscoop.com/dhs-cbp-contract-biometric-facial-recognition-ai/ — neither mentions a D.C. Circuit ruling"
   found_by: "HSI case file 2026-10-08"
 ---
+
+*Date kind: this entry is dated 2025-10-31, the date Biometric Update reported both facts. The contract award itself was September 5, 2025 (covered in [[2025-09-09--ice-awards-9-million-facial-recognition-contract-to-clearview-ai]]) and the website removal of the directive was February 2025. It was previously filed as 2026-06-20, which is not a date any cited source supports.*
 
 ICE awarded Clearview AI a follow-on facial-recognition contract on September 5, 2025, with an initial obligation of $3.75 million toward a total value reported at $9.2 million, after a September 2024 purchase order with a ceiling of about $1.1 million (Biometric Update, October 31, 2025; see also [[2025-09-09--ice-awards-9-million-facial-recognition-contract-to-clearview-ai]]). The same reporting says DHS removed the text of Directive 026-11, "Use of Face Recognition and Face Capture Technologies" (issued September 2023), from its public website in February 2025; DHS officials said the removal reflected routine website maintenance, not a policy change, and the Privacy and Civil Liberties Oversight Board's May 9 staff report noted the deletion and that DHS "did not clarify whether DHS Directive 026-11 still applies." This entry earlier dated both events to June 2026 and called the contract the largest-ever; neither claim is in its sources.
 

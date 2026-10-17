@@ -162,7 +162,7 @@ The presenters described the events leading to the deaths of Renee Good and Alex
 
 One presenter, recalling an incident in which ICE agents were "allegedly" attacked with a shovel, "stated something to the effect of how she wished someone would attack ICE agents with a shovel." The agent's own hedges — *allegedly*, *something to the effect of* — fence the single arguably chargeable utterance in the report. It is a wish, expressed at a public meeting, recorded by a hedging witness.
 
-**The collection basket.** The presenters passed a basket asking for donations to fund their travel. "UCA 9759 received the basket and observed multiple cash donations within the basket and a piece of paper that contained a QR code," and the associated URL was recorded into the report (redacted in the filed copy). A church collection basket, passed hand to hand, was inventoried into a federal investigative file. This is not incidental: [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] is the financial arm of the same investigation, which used administrative summonses — no warrant, no judge — to obtain years of SEIU and CWA records and PayPal and Venmo transactions for Voices for Racial Justice.
+**The collection basket.** The presenters passed a basket asking for donations to fund their travel. "UCA 9759 received the basket and observed multiple cash donations within the basket and a piece of paper that contained a QR code," and the associated URL was recorded into the report (redacted in the filed copy). A church collection basket, passed hand to hand, was inventoried into a federal investigative file. This is not incidental: [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] is the financial arm of the same investigation, which used administrative summonses — no warrant, no judge — to obtain years of SEIU and CWA records and PayPal and Venmo transactions for Voices for Racial Justice.
 
 **An attendee written up for advertising a protest in Romulus.** "One of the attendees, a younger female, took the opportunity to advertise a weekly anti-ICE protest in the Romulus area." She spoke at a public meeting and entered a federal investigative file.
 
@@ -291,4 +291,4 @@ Verified by OCR of the primary exhibits, 2026-09-16:
 - [[2025-03-15--hsi-agent-fatally-shoots-ruben-ray-martinez-south-padre-island]]
 - [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]]
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]

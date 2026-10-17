@@ -74,7 +74,7 @@ This corrects and extends [[2026-05-20--new-mexico-immigrant-safety-act-hb9-take
 - [[2026-02-04--torrance-county-nm-corecivic-igsa-extension-12-hours-after-ban]]
 - [[2026-05-20--new-mexico-immigrant-safety-act-hb9-takes-effect-bans-ice-detention-contracts]]
 - [[2026-07-01--otero-county-nm-renews-igsa-defies-state-detention-ban]]
-- [[2026-07-09--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer]]
+- [[2026-07-01--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer]]
 - [[corecivic]]
 
 **Conductor verification of the contract record, 2026-08-27.** PIID `70CDCR26D00000029` confirmed independently against the USAspending API: **CORECIVIC, INC. / Department of Homeland Security / IDV / period beginning 2026-05-01**. The agency, recipient, instrument type, and start date all hold.

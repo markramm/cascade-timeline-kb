@@ -1,7 +1,8 @@
 ---
 type: timeline_event
-id: 2018-11-05--mbs-ritz-carlton-shakedown-100b-asset-seizure
-date: 2017-11-05
+id: 2017-11-05--mbs-ritz-carlton-shakedown-100b-asset-seizure
+previous_ids: ["2018-11-05--mbs-ritz-carlton-shakedown-100b-asset-seizure"]
+date: '2017-11-05'
 importance: 9
 title: MBS Launches Ritz-Carlton Mass Arrests of 200+ Saudi Royals After Kushner's Late-Night Riyadh Visit — $100B in Assets Seized; Phase 2 Operational Climax
 location: Riyadh, Saudi Arabia

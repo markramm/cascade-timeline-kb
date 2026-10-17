@@ -149,7 +149,7 @@ $1,000 an hour to fight these."*
 ## Why This Event Matters — and what it does to two existing corpus threads
 
 **1. It generalizes the Whipple Shield finding from Minnesota to a nationwide practice.**
-[[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] documented HSI
+[[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]] documented HSI
 using **warrantless administrative summonses under customs authority** to take years of union and
 nonprofit financial records on a "domestic terrorist financing" theory. **The Guardian shows the same
 statute deployed against journalists, platforms, and payment processors across multiple states and
@@ -274,7 +274,7 @@ Levine has the national frame; we have the form, the notice mechanism, the union
 
 ## Related Entries
 
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[2026-01-30--doj-arrests-journalists-lemon-fort-church-protest]]
 - [[2026-01-30--don-lemon-arrested-federal-charges]]
 - [[2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity]]

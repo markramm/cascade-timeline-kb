@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-04-22--cumberland-county-me-terminates-ice-igsa
+id: 2026-04-21--cumberland-county-me-terminates-ice-igsa
+previous_ids: ["2026-04-22--cumberland-county-me-terminates-ice-igsa"]
 date: '2026-04-21'
 title: "Cumberland County, Maine Votes 3-1 to Drop ICE From Jail's USMS Detainee Contract"
 importance: 7

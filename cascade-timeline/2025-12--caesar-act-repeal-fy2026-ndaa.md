@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2025-12--caesar-act-repeal-fy2026-ndaa
-date: '2025-12-15'
+date: '2025-12-18'
 title: "Congress Repeals Caesar Syria Civilian Protection Act via FY 2026 NDAA Language After Al-Khayyat Brothers' Trump-Adjacent Lobbying Campaign"
 importance: 10
 status: confirmed
@@ -52,7 +52,7 @@ capture_lanes:
   - International Kleptocracy
 ---
 
-In December 2025, Congress included language in the Fiscal Year 2026 National Defense Authorization Act (NDAA) repealing the **Caesar Syria Civilian Protection Act of 2019**. The FY 2026 NDAA passed both chambers and was signed into law by President Trump, taking effect in January 2026. The Caesar Act repeal removed comprehensive U.S. secondary sanctions that had made it commercially unviable for non-U.S. firms with U.S.-dollar or U.S.-market exposure to participate in Syrian government-backed reconstruction contracts.
+In December 2025, Congress included language in the Fiscal Year 2026 National Defense Authorization Act (NDAA) repealing the **Caesar Syria Civilian Protection Act of 2019**. The FY 2026 NDAA passed both chambers and was signed into law by President Trump on December 18, 2025 (Public Law 119-60, "Approved December 18, 2025," GPO: https://www.govinfo.gov/content/pkg/PLAW-119publ60/html/PLAW-119publ60.htm), taking effect in January 2026. *Date kind: the entry's `date` is the enactment date; it was previously 2025-12-15, a day no source supports. The filename keeps month precision.* The Caesar Act repeal removed comprehensive U.S. secondary sanctions that had made it commercially unviable for non-U.S. firms with U.S.-dollar or U.S.-market exposure to participate in Syrian government-backed reconstruction contracts.
 
 ## What the Caesar Act Did
 

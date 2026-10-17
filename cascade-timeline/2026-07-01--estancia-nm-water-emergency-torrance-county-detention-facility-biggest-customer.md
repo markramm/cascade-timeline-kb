@@ -1,7 +1,8 @@
 ---
 type: timeline_event
-id: 2026-07-09--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer
-date: '2026-07-06'
+id: 2026-07-01--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer
+previous_ids: ["2026-07-09--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer"]
+date: '2026-07-01'
 title: "Estancia, NM Declares Water Emergency; CoreCivic's Torrance County Detention Facility Is the Town's Biggest Water Customer"
 importance: 6
 status: confirmed
@@ -34,6 +35,8 @@ sources:
 ---
 
 ## Opening paragraph
+
+*Date kind: this entry is dated 2026-07-01, the publication date of the first report (Inside Climate News). The declaration itself is not dated in the sources: ICN (July 1) and NM Political Report (July 6) both say the town declared the emergency "last week," i.e. in the last days of June 2026. The entry was previously dated 2026-07-06 (NM Political Report publication date) and filed as 2026-07-09 (the date of a secondary restack); neither is the event date.*
 
 The town of Estancia, New Mexico (Torrance County) declared a local water emergency after years of drought left municipal wells unable to meet demand, and began hauling in water to fill its pipes. Reporting from Inside Climate News (republished by NM Political Report, KSFR, and others) establishes that the town has reduced water sales to the Torrance County Detention Facility — the CoreCivic-owned and -operated ICE facility in town — because the facility is Estancia's single largest water customer.
 

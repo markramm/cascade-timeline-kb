@@ -1,7 +1,7 @@
 ---
 type: timeline_event
 id: 2025-12--kushner-serbia-trump-hotel-withdrawal-corruption-indictments
-date: '2025-12-10'
+date: '2025-12-16'
 title: "Kushner Withdraws $500M Belgrade Trump Hotel Project After Serbian Corruption Indictments Over the Site; Serbian Culture Minister and Three Others Face Trial"
 importance: 9
 actors:
@@ -72,7 +72,7 @@ capture_lanes:
 - Balkans Trump-Family Real Estate Withdrawal
 ---
 
-In December 2025, **Jared Kushner's Affinity Partners** announced withdrawal of its plans to redevelop the site of the former **Yugoslav People's Army General Staff Headquarters** in Belgrade, Serbia — a building that had been **destroyed by NATO bombing in 1999** during the Kosovo War — into a $500 million Trump-branded hotel and commercial complex. The withdrawal came after:
+In December 2025 (Affinity confirmed the withdrawal to N1 and European Western Balkans on December 16, 2025, "just a few hours after" prosecutors filed the indictment proposal against Culture Minister Selaković; N1 notes the Wall Street Journal reported the decision earlier, date not stated in the N1 piece; https://europeanwesternbalkans.com/2025/12/16/kushners-company-withdraws-from-a-controversial-project-in-belgrade/ ; https://n1info.rs/english/news/affinity-partners-tells-n1-it-is-pulling-out-of-project/ — date kind: on-record confirmation date; the previous `date` of 2025-12-10 was not supported by a source), **Jared Kushner's Affinity Partners** announced withdrawal of its plans to redevelop the site of the former **Yugoslav People's Army General Staff Headquarters** in Belgrade, Serbia — a building that had been **destroyed by NATO bombing in 1999** during the Kosovo War — into a $500 million Trump-branded hotel and commercial complex. The withdrawal came after:
 
 1. **Serbian corruption prosecutors indicted Culture Minister Nikola Selakovic and three other officials** over the 99-year-lease arrangement that had been granted to Kushner's firm
 2. **Domestic Serbian opposition** protested the designation of a NATO-bombed, historically-designated war memorial site for commercial Trump-family development

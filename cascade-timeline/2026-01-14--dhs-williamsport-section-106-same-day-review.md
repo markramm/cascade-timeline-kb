@@ -78,7 +78,7 @@ letter both **initiated and concluded** DHS's Section 106 review of the proposed
 facility at 10900 Hopewell Road (a/k/a 16220 Wright Road), Williamsport, MD, issuing a finding of
 **"No Historic Properties Affected"** in the same document that opened consultation. DHS completed
 its $102.4 million purchase of the 825,000-square-foot warehouse two days later, on January 16,
-2026 (see [[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]]).
+2026 (see [[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]]).
 
 ## What Happened / Key Facts
 
@@ -156,7 +156,7 @@ sequence is documented in the companion timeline entry
 
 ## Related Entries
 
-- [[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]]
+- [[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]]
 - [[2026-03-19--dhs-reopens-williamsport-section-106-consultation-after-objection]]
 - [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]]
 - [[wexmac-titus-categorical-exclusion-template-test]]

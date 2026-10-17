@@ -122,7 +122,7 @@ These are structurally distinct mechanisms. The $352.7M Fundrise loan portfolio 
 
 ## Related Entries
 
-- [[2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse]] — the resulting DHS sale
+- [[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]] — the resulting DHS sale
 - [[goldman-352m-fundrise-portfolio-dhs-cross-reference]] — detailed portfolio cross-reference (research note)
 - [[sec-edgar-fundrise-east-coast-reit-williamsport-disclosure]] — SEC filing trail analysis
 - [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]] — NEPA construction halt

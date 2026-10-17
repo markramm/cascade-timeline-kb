@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention
+id: 2025-03-11--obadal-anduril-nominated-army-under-secretary-stock-retention
+previous_ids: ["2025-03-26--obadal-anduril-nominated-army-under-secretary-stock-retention"]
 date: '2025-03-11'
 title: "Trump Nominates Anduril Senior Director Michael Obadal as Army Under Secretary; Plans to Retain $250K-$500K Anduril Stock"
 importance: 9

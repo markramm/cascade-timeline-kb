@@ -108,7 +108,7 @@ The Act's key executive-power features:
 
 2. **National Security Council in statute.** The NSC, created by §101 of the Act, institutionalized the apparatus by which the President makes foreign-policy and national-security decisions with advice from a small circle of executive-branch advisers. NSC decisions — NSDs under Eisenhower, NSDDs under Reagan, PPDs under Obama, NSPDs under Bush II, PSMs and "NSM" under Biden — have been the principal mechanism for policy-making that Congress does not formally review.
 
-3. **Central Intelligence Agency.** §102 created the CIA and authorized it to "perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct" — the infamous "fifth function" language that NSC 4-A (December 1947) [[1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function]] interpreted to authorize covert action. This fifth-function interpretation was never ratified by Congress as covert-action authority; it was an executive-branch construction that has been the basis for 78 years of covert operations.
+3. **Central Intelligence Agency.** §102 created the CIA and authorized it to "perform such other functions and duties related to intelligence affecting the national security as the National Security Council may from time to time direct" — the infamous "fifth function" language that NSC 4-A (December 1947) [[1947-12-17--nsc-4a-authorizes-cia-covert-action-fifth-function]] interpreted to authorize covert action. This fifth-function interpretation was never ratified by Congress as covert-action authority; it was an executive-branch construction that has been the basis for 78 years of covert operations.
 
 4. **Appropriations.** Sec. 307 of the Act authorized appropriations of "such sums as may be necessary and appropriate to carry out the provisions and purposes of this Act" (61 Stat. 495). The CIA's authority to spend funds "without regard to the provisions of law and regulations relating to the expenditure of Government funds" came two years later, in Sec. 10(b) of the Central Intelligence Agency Act of 1949 (63 Stat. 208). That black-budget authority, later expanded to other intelligence agencies, removed major executive-branch spending from standard appropriations oversight.
 
@@ -146,7 +146,7 @@ Forrestal's suicide in May 1949 (reportedly linked to Cold War paranoia and depr
 - [[1947-07-26--national-security-act-creates-permanent-warfare-state]]
 - [[1947-09-18--cia-founded-national-security-act-implementation]]
 - [[1947-09-18--forrestal-first-defense-secretary-wall-street]]
-- [[1947-12-19--nsc-4a-authorizes-cia-covert-action-fifth-function]]
+- [[1947-12-17--nsc-4a-authorizes-cia-covert-action-fifth-function]]
 - [[1952-11-04--nsa-founded-by-classified-directive]]
 - [[1950-04-07--nsc-68-truman-permanent-military-establishment]]
 - [[1974-12-30--hughes-ryan-amendment-presidential-finding-covert-action]]

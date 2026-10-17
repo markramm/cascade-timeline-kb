@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-01-26--right-media-pushback-pretti-bartiromo-bash
+id: 2026-01-25--right-media-pushback-pretti-bartiromo-bash
+previous_ids: ["2026-01-26--right-media-pushback-pretti-bartiromo-bash"]
 date: '2026-01-25'
 title: "Fox's Bartiromo and CNN's Bash both publicly press administration officials over the Pretti shooting narrative"
 importance: 6

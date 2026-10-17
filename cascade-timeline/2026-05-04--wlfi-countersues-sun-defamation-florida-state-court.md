@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-05-05--wlfi-countersues-sun-defamation-florida-state-court
+id: 2026-05-04--wlfi-countersues-sun-defamation-florida-state-court
+previous_ids: ["2026-05-05--wlfi-countersues-sun-defamation-florida-state-court"]
 date: '2026-05-04'
 title: "World Liberty Financial Countersues Justin Sun for Defamation in Florida State Court — Alleges Short-Selling, Straw Purchases, 'Smear Campaign' Following Sun's N.D. Cal. Suit"
 importance: 7
@@ -40,7 +41,7 @@ coverage: []
 corrections:
 - date: '2026-10-08'
   was: "This entry's canonical date field follows the   task's originating framing of May 5; **the filing itself occurred May 4, 2026**"
-  now: "This entry's date field has been corrected to the filing date (the file id still carries May 5); **the filing itself occurred May 4, 2026**"
+  now: "This entry's date field has been corrected to the filing date (the file id was corrected from May 5 to May 4 on 2026-10-17; old id kept in `previous_ids`); **the filing itself occurred May 4, 2026**"
   why: "https://www.coindesk.com/policy/2026/05/04/trump-affiliated-world-liberty-sues-justin-sun-for-defamation-after-tron-creator-s-lawsuit ; https://protos.com/trumps-world-liberty-financial-sues-its-advisor-justin-sun/ — filed Monday May 4, 2026 in the Eleventh Judicial Circuit, Miami-Dade; WLFI's own post May 4: 'Today, we are filing a lawsuit against Justin Sun for defamation'. NOTE: file id still carries 2026-05-05"
   found_by: "timeline fact-check slice 1 2026-10-08"
 - date: '2026-10-08'

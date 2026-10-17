@@ -31,7 +31,7 @@ sources:
     tier: 2
 related_events:
   - 2026-03-07--ice-awards-kvg-113m-williamsport-contract
-  - 2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse
+  - 2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse
   - 2026-06-30--washington-county-md-datacenter-moratorium
   - 2026-08-19--ice-detention-reengineering-initiative-stalls-program-wide-11-purchased-sites
 coverage:

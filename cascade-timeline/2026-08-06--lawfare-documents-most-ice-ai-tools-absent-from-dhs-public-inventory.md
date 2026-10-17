@@ -45,7 +45,7 @@ awarded **February 2026** — roughly **$225,000 for 15 licenses** — at the **
 Center** ([[2026-02-11--cbp-clearview-ai-facial-recognition-contract]]). That placement extends
 biometric identification from border crossings to anyone screened against the NTC watchlist
 database. It sits in a documented sequence: ICE's largest Clearview contract alongside DHS deleting
-its oversight policy ([[2026-06-20--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy]]),
+its oversight policy ([[2025-10-31--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy]]),
 Clearview's FedRAMP authorization covering all travelers
 ([[2026-07-08--clearview-fedramp-cbp-facial-recognition-all-travelers]]), and the LexisNexis/Palantir
 bulk facial-recognition contract ([[2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract]]).

@@ -111,7 +111,7 @@ check it against. See [[2026-04-08--hsi-undercover-operation-zion-lutheran-churc
 
 ## Cross-References
 
-- [[2026-02-15--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+- [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
 - [[litigation-surface-search-strategy-and-the-wider-pattern]]

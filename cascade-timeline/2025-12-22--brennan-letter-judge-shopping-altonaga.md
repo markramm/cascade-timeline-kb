@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2025-12-23--brennan-letter-judge-shopping-altonaga
+id: 2025-12-22--brennan-letter-judge-shopping-altonaga
+previous_ids: ["2025-12-23--brennan-letter-judge-shopping-altonaga"]
 date: '2025-12-22'
 title: Brennan Attorney Wainstein Writes Chief Judge Altonaga Alleging DOJ "Judge-Shopping" Toward Cannon
 importance: 7
@@ -50,9 +51,9 @@ an unresolved inconsistency in the sole primary account located — it is not
 independently corroborated against the letter itself, which has not been located
 in published form. CNN's publication timestamp (2025-12-23) is a distinct,
 later date — the press-report date, not the letter's date — and is the reason
-this entry's filename carries 2025-12-23 (matching the wikilink already used
-by [[prosecutorial-revenge-faction]] and the judicial-weaponization ancestor
-bridge) while the YAML `date` field carries the earlier, document-dated 2025-12-22.
+this entry was originally filed under 2025-12-23. On 2026-10-17 the filename and id
+were corrected to 2025-12-22 to match the letter's date; the old id is kept in
+`previous_ids` and inbound wikilinks were updated.
 
 ## What the letter says (per CNN's reporting, with direct quotation)
 

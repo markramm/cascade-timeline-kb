@@ -1,7 +1,8 @@
 ---
 type: timeline_event
-id: 2018-03-01--youtube-radicalization-algorithm-great-radicalizer
-date: 2018-03-10
+id: 2018-03-10--youtube-radicalization-algorithm-great-radicalizer
+previous_ids: ["2018-03-01--youtube-radicalization-algorithm-great-radicalizer"]
+date: '2018-03-10'
 title: 'Zeynep Tufekci Exposes YouTube as "The Great Radicalizer": Recommendation Algorithm Systematically Pushes Users Toward Extremism'
 importance: 8
 actors:
