@@ -34,6 +34,11 @@ sources:
     publisher: United Nations General Assembly
     date: '2026-09-24'
     tier: 1
+  - title: "Full text of Netanyahu's address at the U.N. General Assembly"
+    url: https://www.jns.org/news/israel-news/full-text-netanyahus-address-at-the-u-n-general-assembly
+    publisher: JNS
+    date: '2026-09-24'
+    tier: 2
 verification: source-verified
 claims:
 - id: c1
@@ -96,8 +101,16 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-16'
-
-GATE PASSED: 1 entries clean.
+- id: c7
+  type: quote
+  value: You count as friends people like Hassan Piker, who said America deserved 9/11.
+  qualifier: ''
+  span: You count as friends people like Hassan Piker, who said America deserved 9/11.
+  url: https://www.jns.org/news/israel-news/full-text-netanyahus-address-at-the-u-n-general-assembly
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-16'
 ---
 
 On **September 24, 2026** (speech date), Israeli Prime Minister Benjamin Netanyahu told the UN General Assembly: "Mr. Mamdani, since you were elected mayor of this city, many Jews no longer feel safe in New York." Snopes, transcribing the video, gives the sentence that follows as beginning "You count as friends people like Hasan Piker, who said" and then quotes Piker's 2019 words, repeated twice, that America deserved 9/11.
