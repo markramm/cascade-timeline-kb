@@ -233,4 +233,4 @@ Each operation demonstrated increasing willingness to:
 - Prioritize political messaging over law enforcement objectives
 - Create community trauma through shows of force
 
-The progression from MacArthur Park (tear gas displayed but not used) to Little Village (tear gas deployed in violation of court order) shows a commander testing boundaries and escalating tactics until ultimately confronted with judicial findings of constitutional violations and perjury.
+The progression from MacArthur Park (tear gas displayed but not used) to Little Village (tear gas deployed in violation of court order) shows a commander testing boundaries and escalating tactics until ultimately confronted with judicial findings of constitutional violations and that his testimony was not credible.

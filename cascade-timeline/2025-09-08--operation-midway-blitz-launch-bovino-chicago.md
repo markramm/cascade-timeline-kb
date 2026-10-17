@@ -163,6 +163,6 @@ Operation Midway Blitz established several dangerous precedents:
 4. **Victim Exploitation**: Used tragedy of Katie Abraham's death to justify mass enforcement disconnected from her actual case
 5. **Defiance of Sanctuary Policies**: Demonstrated federal willingness to override state and local immigration policies through overwhelming force
 
-Most significantly, the operation provided the foundation for the pattern of constitutional violations, court order defiance, and perjury that would culminate in Judge Ellis's November 6, 2025 finding that Bovino had lied under oath and that federal agents' use of force "shocks the conscience."
+Most significantly, the operation provided the foundation for the pattern of constitutional violations, court order defiance, and false accounts that would culminate in Judge Ellis's November 6, 2025 finding that Bovino had lied under oath and that federal agents' use of force "shocks the conscience."
 
 The operation represents a fundamental shift from targeted immigration enforcement to mass urban deployment of federal agents operating with military-style tactics and minimal judicial oversight.
