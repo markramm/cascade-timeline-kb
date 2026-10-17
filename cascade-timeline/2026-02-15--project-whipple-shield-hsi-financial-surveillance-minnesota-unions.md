@@ -91,32 +91,78 @@ corrections:
   now: "The Washington Examiner described the investigation as one into \"what prosecutors say was a well-funded and highly organized conspiracy among antifa militants in Minnesota to methodically impede Immigration and Customs Enforcement operations,\" and reported that HSI labelled its financial inquiry \"protest domestic terrorist financing\" (Washington Examiner, Aug. 17, 2026; KSTP, Aug. 13, 2026)."
   why: "https://www.washingtonexaminer.com/news/investigations/4688414/homeland-security-investigated-minnesota-labor-unions/ — the conspiracy phrasing is the Examiner's paraphrase ('what prosecutors say'); 'domestic terrorist financing' is HSI's label, not prosecutors'"
   found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-10-17'
+  was: "HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury ... HSI Agent Desmond Garcia testified about it directly; ... [Sunrise] was not presented to the grand jury as a node; ... rendered them to a grand jury as nodes in a terrorism conspiracy chart."
+  now: "The defense's motion says the diagram was prepared by HSI and presented to the grand jury (Doc. 212 p.5); the transcript excerpt it files shows an HSI agent asked about page 5 of Grand Jury Exhibit 1A (Ex. 4, 27:4-11). That Doc. 212-3 is that page is the defense's identification. Sunrise does not appear on the chart."
+  why: "The entry stated the defense's account as fact in some sentences and, in another, said Sunrise was 'not presented to the grand jury', which read as denying the first. Primary: Doc. 212 (motion) p.5 and Ex. 4 p.27, read 2026-10-17. HSI case-file audit 2026-10-17, item 10."
+  found_by: "HSI case-file audit (desk, 2026-10-17)"
+- date: '2026-10-17'
+  was: "The same investigation tasked HSI Detroit Metro Airport to put an undercover agent into a church sanctuary in Ann Arbor ... A church collection basket entered a financial investigation whose stated subject was terrorist financing."
+  now: "HSI Chicago's report says it was asked to help 'in the current Project Whipple Shield investigation' (Doc. 297 Ex. J). The Ann Arbor report (Doc. 212-18) names no investigation; its number matches Puppet Master's, an inference only."
+  why: "Doc. 212-18 synopsis cites only a collateral request from the SAC, Saint Paul, and 18 U.S.C. 111 and 372; Doc. 297 Ex. J names Whipple Shield. HSI case-file audit 2026-10-17."
+  found_by: "HSI case-file audit (desk, 2026-10-17)"
 verification: captured
 claims:
 - id: c0
   type: quote
-  value: "HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods"
-  qualifier: ""
-  span: "HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods."
+  value: HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods
+  qualifier: ''
+  span: HSI does not comment on the existence or status of specific on-going investigations, nor on investigative methods.
   url: https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-17'
 - id: c1
   type: figure
-  value: "at least eight"
-  qualifier: "voluntarily dismissed"
-  span: "In Minnesota alone, prosecutors have voluntarily dismissed at least eight cases against defendants accused of assaulting federal officers."
+  value: at least eight
+  qualifier: voluntarily dismissed
+  span: In Minnesota alone, prosecutors have voluntarily dismissed at least eight cases against defendants accused of assaulting federal officers.
   url: https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-17'
 - id: c2
   type: date
-  value: "2/11/2026"
-  qualifier: "CASE OPENED"
-  span: "CASE OPENED 2/11/2026"
+  value: 2/11/2026
+  qualifier: CASE OPENED
+  span: CASE OPENED 2/11/2026
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-10-17'
+- id: c3
+  type: quote
+  value: prepared by HSI and presented to the grand jury
+  qualifier: diagram
+  span: 'Below is a diagram prepared by HSI and presented to the grand jury visualizing this conspiracy:'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-17'
+- id: c4
+  type: quote
+  value: page 5 of Grand Jury Exhibit 1A
+  qualifier: page 5
+  span: Q. And can you tell us what you see on page 5 of Grand Jury Exhibit 1A?
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-17'
+- id: c5
+  type: quote
+  value: current Project Whipple Shield investigation
+  qualifier: current
+  span: HSI Saint Paul, Minnesota request HSI Chicago's assistance in the current Project Whipple Shield investigation.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.297.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-10-17'
 ---
 
 ## Opening
@@ -141,9 +187,9 @@ It obtained years of financial records from labor unions and nonprofits using **
 
 A union's political action committee spending is among the most protected categories of associational activity in American law; what the record actually shows HSI took is broader still — a national union's full multi-year FedWire transaction ledger, taken by agency summons under a terrorism-financing theory, with no judicial officer in the loop.
 
-**"The Conspiracy" slide.** HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury that returned a **94-page indictment** — HSI Agent Desmond Garcia testified about it directly (Ex. 4, 27:4-11). The diagram depicted 18 unions, political organizations and community groups radiating from a Direct Action Minnesota (DAMN) hub. **Correction**: the slide's own edge label on each of the 18 spokes reads only "Council Member" — asserting each organization's membership status relative to the DAMN hub, not overlapping membership between the 18 organizations themselves. That broader reading, which earlier reporting and earlier passes through this corpus both carried, is not what the exhibit itself depicts or asserts; see [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]] for the full corrected organization list. The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 are among the 18 "Council Member" spokes.
+**"The Conspiracy" slide.** The defense's motion says the diagram (Doc. 212-3) was "prepared by HSI and presented to the grand jury" that returned the **94-page indictment** (Doc. 212 p.5). The transcript excerpt the defense files shows HSI Agent Desmond Garcia asked what he sees "on page 5 of Grand Jury Exhibit 1A" (Ex. 4, 27:4-11). That the chart in Doc. 212-3 is that page is the defense's identification, not something the chart itself states. The diagram depicted 18 unions, political organizations and community groups radiating from a Direct Action Minnesota (DAMN) hub. **Correction**: the slide's own edge label on each of the 18 spokes reads only "Council Member" — asserting each organization's membership status relative to the DAMN hub, not overlapping membership between the 18 organizations themselves. That broader reading, which earlier reporting and earlier passes through this corpus both carried, is not what the exhibit itself depicts or asserts; see [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]] for the full corrected organization list. The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 are among the 18 "Council Member" spokes.
 
-Eighteen distinct organizations — a labor federation, a teachers' local, a veterans' group, a racial-justice group, a bicycle repair collective — rendered as spokes in a chart titled "The Conspiracy," under a government seal, shown to the body that decides whether to indict. **Sunrise Movement is not among the 18** — a direct visual read of Doc. 212-3 at 300dpi (2026-08-13 pass) found neither Sunrise Movement nor Sunrise Movement Education Fund on the chart. Sunrise's presence in this record is confined to the financial-summons instrument and to the surveillance narrative below; it was not presented to the grand jury as a node in HSI's own conspiracy diagram.
+Eighteen distinct organizations — a labor federation, a teachers' local, a veterans' group, a racial-justice group, a bicycle repair collective — rendered as spokes in a chart titled "The Conspiracy," under a government seal, shown to the body that decides whether to indict. **Sunrise Movement is not among the 18** — a direct visual read of Doc. 212-3 at 300dpi (2026-08-13 pass) found neither Sunrise Movement nor Sunrise Movement Education Fund on the chart. Sunrise's presence in this record is confined to the financial-summons instrument and to the surveillance narrative below; it does not appear on the chart, so on the defense's account it was not one of the nodes the grand jury was shown.
 
 **No stated predicate connects Sunrise Movement to the investigation's subjects.** The two ROIs that open Puppet Master and Whipple Shield (Doc. 212-1, 212-2) — the documents where HSI would state why any organization drew scrutiny — name no organizations at all; both describe only a generic "organized network of conspirators" and "sophisticated, organized campaigns." The one ROI that discusses Sunrise Movement in narrative detail (Doc. 212-11, approved 3/6/2026) documents two undercover agents (UCA 9833, UCA 5022) attending a public, publicly-advertised "Resistance Skills Training with Sunrise Movement Twin Cities" at the Minneapolis Public Library on January 31, 2026 — and states in HSI's own words that "**it was made clear that the Sunrise Movement organization focused on 'peaceful' protests**." The only note in the file adjacent to "direct action" is that UCA 9833 — the government's own operative — volunteered unprompted that he "works construction and could build items that might assist *other groups* with more 'direct-action' protests," an offer made by HSI's agent to an unnamed attendee, not a statement about Sunrise Movement's own conduct or planning. No later ROI in the reviewed set returns to Sunrise Movement with any additional predicate. **On the documents reviewed, a nationally-scoped climate-advocacy organization was named individually — twice, as two separate legal entities — on a customs-authority summons demanding "any and all records" back to January 2023, with the only substantive investigative narrative about it describing a public training session HSI's own agent characterized as peaceful.** That absence of a stated predicate is itself the finding; it should not be extended to "HSI had no predicate" — only an undisclosed one, or none, is consistent with what these documents show.
 
@@ -155,13 +201,13 @@ Eighteen distinct organizations — a labor federation, a teachers' local, a vet
 
 ## Why It Matters
 
-**This is the half of the story the coverage under-reports.** Operation Puppet Master got the headlines because undercover agents in church basements is a vivid image. Whipple Shield is the more consequential program: it reached organizations that were never accused of anything, took years of their banking records without a judge, and rendered them to a grand jury as nodes in a terrorism conspiracy chart.
+**This is the half of the story the coverage under-reports.** Operation Puppet Master got the headlines because undercover agents in church basements is a vivid image. Whipple Shield is the more consequential program: it reached organizations that were never accused of anything, took years of their banking records without a judge; on the defense's account, some of the organizations were also shown to a grand jury as spokes on a conspiracy chart (the chart does not say which HSI case produced it).
 
 **The predicate chain is the mechanism.** Emptywheel traced it: Bondi's high-profile "trophy arrests" supplied the conspiracy predicate for the Minnesota 15 indictment, which in turn supplied the investigative authorities for the broader infiltration. Prosecution operated as a surveillance-expansion wedge. Separately, in Minnesota federal prosecutors have voluntarily dismissed at least eight cases against people accused of assaulting federal officers (KSTP, Aug. 13, 2026), but the records the predicate cases helped justify taking have already been taken.
 
 **Administrative summonses are the load-bearing tool — and the specific authority is a customs statute, not an immigration one.** The bank-facing instruments (FedWire, CHIPS) invoke 19 U.S.C. § 1509, the Tariff Act of 1930's customs-summons power, retooled here for a domestic-terrorism-financing theory with no customs nexus stated on the form. Not a warrant, not a grand jury subpoena, not even the immigration-specific 8 U.S.C. § 1225(d)(4) — agency-issued process requiring no judicial finding, carrying its own indefinite nondisclosure order. The distinction is what makes the volume possible, and it is the thing least likely to survive scrutiny on a challenge that reaches its statutory basis. It is also the thing most portable to the next jurisdiction.
 
-**It reached beyond Minnesota.** The same investigation tasked HSI Detroit Metro Airport to put an undercover agent into a church sanctuary in Ann Arbor on two days' notice — see [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]], where the agent received the collection basket, counted the cash, and logged the QR code on the donation slip. A church collection basket entered a financial investigation whose stated subject was terrorist financing.
+**It reached beyond Minnesota.** HSI Chicago's report says HSI Saint Paul asked it for help "in the current Project Whipple Shield investigation" and describes an undercover operation at an April 2 tour stop — see [[2026-04-02--hsi-chicago-undercover-operation-breaking-the-ice-tour-co-prosperity-whipple-shield-collateral]]. HSI Saint Paul also asked HSI Detroit Metro Airport to put an undercover agent into a church sanctuary in Ann Arbor on two days' notice — see [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]; that report does not name the investigation it supports (its number, DD02PR26MS0003, matches Puppet Master's MS02PR26MS0003, an inference only). In that report the agent received the collection basket, counted the cash, and logged the QR code on the donation slip; which investigation that record belongs to is not stated.
 
 ## Open Questions
 
@@ -185,3 +231,7 @@ This entry's harm is **class-level, not individually nameable** — see [[whippl
 - [[2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge]]
 - [[whipple-shield-class-level-harm-deploy-disposition]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
+
+## Correction note, 2026-10-17
+
+Two statements in this entry were wrong or unsupported and have been changed above. (1) The "Conspiracy" slide: the entry told the grand-jury story in its own voice in some places and said Sunrise was "not presented to the grand jury" in another. The grand-jury link is the defense's account: its motion says the diagram was prepared by HSI and presented to the grand jury (Doc. 212 p.5), and files a transcript excerpt in which an HSI agent is asked about page 5 of Grand Jury Exhibit 1A (Ex. 4, 27:4-11). Whether the chart in Doc. 212-3 is that page is the defense's identification. Sunrise is not on the chart; no more is claimed. (2) The Ann Arbor visit was tied to Whipple Shield without support; the Ann Arbor report names no investigation. The Chicago report (Doc. 297 Ex. J) does name Whipple Shield. The entry's file name and id still carry 2026-02-15.
