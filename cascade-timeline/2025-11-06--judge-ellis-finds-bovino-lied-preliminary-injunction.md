@@ -8,7 +8,6 @@ tags:
 - gregory-bovino
 - judge-sara-ellis
 - judicial-rebuke
-- perjury
 - constitutional-violation
 - accountability
 - chicago
@@ -58,6 +57,11 @@ sources:
   tier: 2
   outlet: Chicago Sun-Times
 status: confirmed
+corrections:
+- date: '2026-10-17'
+  was: "\"The judge's 39-page ruling\"; \"Explicit finding of perjury\"; \"Defendant Bovino admitted that he lied\" attributed directly to the court"
+  now: "16-page written order (233-page opinion on Nov 20); finding that Bovino's testimony was not credible and that he was 'either providing cute responses or outright lying'; the 'admitted that he lied' quote is WTTW's report of the oral ruling"
+  why: "No court made a perjury finding and Bovino was never charged; page count conflated; oral-ruling quote not verified against the transcript. Verified against ECF 252 and ECF 281."
 capture_lanes:
 - Judicial Capture
 - Intelligence Penetration
@@ -75,13 +79,13 @@ coverage:
     publication: theramm
 ---
 
-On November 6, 2025, U.S. District Judge Sara Ellis issued a devastating preliminary injunction against Border Patrol Commander Gregory Bovino and federal immigration enforcement agents in Chicago, explicitly finding that Bovino "admitted that he lied" about the October 23, 2025 tear gas incident in Little Village. The judge's 39-page ruling found that federal agents repeatedly used force that "shocks the conscience" and then systematically lied about their actions, imposing sweeping restrictions on immigration enforcement tactics in the Chicago area.
+On November 6, 2025, U.S. District Judge Sara Ellis issued a devastating preliminary injunction against Border Patrol Commander Gregory Bovino and federal immigration enforcement agents in Chicago, in a ruling from the bench that, as WTTW reported it, found that Bovino "admitted that he lied" about the October 23, 2025 tear gas incident in Little Village. The 16-page written order the same day (ECF 252) found that the defendants' accounts of the protests and uses of force "are simply not credible"; the judge's 233-page Opinion and Order followed on November 20, 2025 (ECF 281). Together the rulings found that federal agents repeatedly used force that "shocks the conscience" and then gave accounts the court did not credit, imposing sweeping restrictions on immigration enforcement tactics in the Chicago area.
 
 ## The Central Finding: Bovino Lied Under Oath
 
-Judge Ellis's ruling included an extraordinary rebuke of a federal law enforcement commander for perjury. The court found:
+Judge Ellis's ruling included an extraordinary rebuke of a federal law enforcement commander for dishonesty. No court made a perjury finding, and Bovino has not been charged with perjury. As WTTW reported the oral ruling on November 6:
 
-**"Defendant Bovino admitted that he lied"** about being hit by a rock before deploying tear gas in Little Village on October 23, 2025.
+**"Defendant Bovino admitted that he lied"** (WTTW's report of the oral ruling; the transcript has not been read) about being hit by a rock before deploying tear gas in Little Village on October 23, 2025.
 
 The sequence of events Judge Ellis established:
 1. Bovino threw tear gas canister at protesters **first**
@@ -164,7 +168,7 @@ Judge Ellis's November 6 finding that Bovino had lied under oath came after this
 ## Unprecedented Judicial Rebuke
 
 Judge Ellis's ruling represents an extraordinary judicial finding against a sitting federal law enforcement commander:
-- Explicit finding of perjury ("admitted that he lied")
+- Finding, as reported by WTTW from the oral ruling, that Bovino "admitted that he lied"; in the November 20 opinion the court found his testimony "not credible" and said he was "either providing 'cute' responses ... or outright lying" in his deposition
 - Finding that use of force "shocks the conscience" (constitutional violation standard)
 - Finding that government evidence is "simply not credible"
 - Rejection of government's legal theory that constitutional compliance is "harmful"
@@ -185,9 +189,15 @@ Each step showed Bovino and federal agents either defying court orders or lying 
 ## Significance
 
 This ruling establishes that:
-1. **Federal law enforcement commanders can and will be found to have committed perjury** when evidence contradicts their testimony
+1. **Federal law enforcement commanders can be found by a court to have given testimony that was not credible, including by lying in a deposition,** when evidence contradicts their testimony
 2. **Use of force against protesters can violate constitutional standards** even in immigration enforcement context
 3. **Courts will impose comprehensive restrictions** on federal agents who systematically violate rights
 4. **Government claims that constitutional compliance is "harmful" will be rejected** as invalid legal arguments
 
-Most critically, the ruling demonstrates that even explicit judicial findings of perjury and constitutional violations do not result in removal from authority—Bovino continued in his role selecting ICE leadership despite a federal judge finding he lied under oath. This represents a fundamental breakdown in accountability for federal law enforcement misconduct.
+Most critically, the ruling demonstrates that even explicit judicial findings of lying and constitutional violations do not result in removal from authority—Bovino continued in his role selecting ICE leadership despite a federal judge finding he lied under oath. This represents a fundamental breakdown in accountability for federal law enforcement misconduct.
+
+## What the later record shows
+
+The November 20, 2025 Opinion and Order (ECF 281, 233 pages) found: "the Court specifically finds his testimony not credible"; Bovino was "either providing 'cute' responses to Plaintiffs' counsel's questions or outright lying" in his deposition; and "Bovino admitted in his deposition that he lied multiple times about the events that occurred in Little Village." The Seventh Circuit vacated the preliminary injunction on March 5, 2026 without ruling on the credibility finding; see [[2026-03-05--seventh-circuit-vacates-ellis-injunction-chicago-headline-club]]. CBP's Office of Professional Responsibility then compelled a declaration from Bovino on the findings; see [[2026-03-02--cbp-opr-compelled-declaration-bovino-ellis-credibility-findings]].
+
+**Correction (2026-10-17):** An earlier version of this entry called the November 6 ruling a "39-page" order, attributed "admitted that he lied" directly to the court, and described an "explicit finding of perjury." The written order of November 6 is 16 pages; the quote is WTTW's report of the oral ruling; and no court made a perjury finding (perjury is a crime and Bovino was not charged). The court's own words are quoted above.
