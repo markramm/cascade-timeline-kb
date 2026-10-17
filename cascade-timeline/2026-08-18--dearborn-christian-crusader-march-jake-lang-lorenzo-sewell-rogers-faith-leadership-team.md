@@ -17,7 +17,6 @@ actors:
   - Lorenzo Sewell
   - Mike Rogers
   - Abdul El-Sayed
-  - Cole Wozniak
   - Abdullah Hammoud
   - Dearborn Police Department
 capture_lanes:
