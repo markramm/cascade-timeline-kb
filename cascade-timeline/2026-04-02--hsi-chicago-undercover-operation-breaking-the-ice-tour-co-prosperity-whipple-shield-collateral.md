@@ -431,8 +431,6 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
-
-GATE PASSED: 1 entries clean.
 event_date_claim: c1
 ---
 
