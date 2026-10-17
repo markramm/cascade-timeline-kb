@@ -66,4 +66,4 @@ That same day, Judge Kelly issued a standing order and a **minute order** direct
 - [[2026-09-22--doj-cites-national-security-cnn-politico-msnow-ban]]
 - [[2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro]]
 - [[2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes]]
-- [[2026-09-26--white-house-bars-cnn-air-force-one-pool-boycott]]
+- [[2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott]]

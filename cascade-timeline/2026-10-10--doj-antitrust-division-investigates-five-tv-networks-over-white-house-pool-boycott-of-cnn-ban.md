@@ -40,7 +40,7 @@ sources:
     date: '2026-10-11'
     tier: 2
 related_events:
-  - 2026-09-26--white-house-bars-cnn-air-force-one-pool-boycott
+  - 2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott
   - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
   - 2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes
 verification: source-verified
@@ -171,7 +171,7 @@ source_published_date: '2026-10-10'
 
 On **Saturday, October 10, 2026**, the Justice Department confirmed that its Antitrust Division is investigating the five major U.S. television networks, **ABC, CBS, CNN, NBC and Fox News**, for possible Sherman Act violations. The basis is the networks' decision not to fill CNN's slot in the White House television press pool after the White House barred CNN. DOJ spokeswoman **Emily Covington** said: "Members of the television press pool have boycotted covering White House events. Group boycotts among commercial competitors can violate the Sherman Act. The Antitrust Division is simply investigating to determine whether these news organizations have violated the antitrust laws." NBC reports the department sent "civil investigative demands" the day before, per a Justice Department official; CNN's sources describe demands for documents on the pool's formation and its recent operations. The inquiry was first reported by The New York Times (not read; paywalled), so this entry rests on NBC, CNN and NPR.
 
-The pool networks had declined to field a replacement after the White House stopped CNN from filling its assigned slot (see [[2026-09-26--white-house-bars-cnn-air-force-one-pool-boycott]]). The pool chair of the time said there would be "no replacement pool put in place." NPR reports that the networks agreed not to substitute for CNN on the days the administration blocks it, deciding day to day. The statement's word for that conduct is boycott.
+The pool networks had declined to field a replacement after the White House stopped CNN from filling its assigned slot (see [[2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott]]). The pool chair of the time said there would be "no replacement pool put in place." NPR reports that the networks agreed not to substitute for CNN on the days the administration blocks it, deciding day to day. The statement's word for that conduct is boycott.
 
 **Contested.** Bruce D. Brown of the Reporters Committee for Freedom of the Press said the investigation "appears to be a pretext for seeking records from the networks about how they are covering daily White House events during a media ban the president himself put in place." Former Biden antitrust chief Jonathan Kanter told CNN: "It's literally freedom of speech." Reporting differs on the wording of the statement: NPR's quotation adds "proudly" before "boycotted" and omits "simply"; the NBC and CNN texts agree with each other and are used above. Representatives for the five networks either declined to comment or did not respond to requests on Saturday night, and ABC News said it has not received any notification from the Justice Department but expects to. The entry records an opened investigation and demands for documents; there is no finding and no charge.
 

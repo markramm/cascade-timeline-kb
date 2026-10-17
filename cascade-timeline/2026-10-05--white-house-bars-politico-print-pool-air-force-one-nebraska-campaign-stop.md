@@ -32,7 +32,7 @@ sources:
     date: '2026-10-04'
     tier: 2
 related_events:
-  - 2026-09-26--white-house-bars-cnn-air-force-one-pool-boycott
+  - 2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott
   - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
   - 2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes
   - 2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes
@@ -178,7 +178,7 @@ The White House offered Politico's seat to other outlets in the travel-pool rota
 
 A White House spokesperson gave CNN this reason: "Many outlets including Politico are granted access to attend and cover presidential events unilaterally, but traveling with the President of the United States aboard Air Force One is a privilege not a right."
 
-**Pattern context.** This repeats the move made against CNN in late September (see [[2026-09-26--white-house-bars-cnn-air-force-one-pool-boycott]]): the White House has repeatedly barred CNN from Air Force One on days it was CNN's turn as the television pool representative, and now did the same to Politico on its print turn, after Trump announced on September 18 that he was banning Politico, CNN and MS NOW from the White House (see [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]). The distinction between the White House complex and tight spaces such as Air Force One is the line the administration draws around Judge Kelly's orders (see [[2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes]] and [[2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes]]). Election context: the president flew to a campaign stop with no outlet in the primary print seat.
+**Pattern context.** This repeats the move made against CNN in late September (see [[2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott]]): the White House has repeatedly barred CNN from Air Force One on days it was CNN's turn as the television pool representative, and now did the same to Politico on its print turn, after Trump announced on September 18 that he was banning Politico, CNN and MS NOW from the White House (see [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]). The distinction between the White House complex and tight spaces such as Air Force One is the line the administration draws around Judge Kelly's orders (see [[2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes]] and [[2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes]]). Election context: the president flew to a campaign stop with no outlet in the primary print seat.
 
 ## Not Found
 
