@@ -57,6 +57,39 @@ sources:
   outlet: Springfield News-Sun
   date: '2026-06-25'
   tier: 2
+claims:
+- id: c1
+  type: date
+  value: July 27, 2026
+  qualifier: terminated, effective
+  span: "The Haiti TPS designation is terminated, effective July 27, 2026."
+  url: https://www.uscis.gov/humanitarian/temporary-protected-status/temporary-protected-status-designated-country-haiti
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: date
+  value: July 27, 2026
+  qualifier: judgment issued
+  span: "See Judgment Issued, No. 25-1084 (U.S. July 27, 2026)."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.283214/gov.uscourts.dcd.283214.144.0_3.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: quote
+  value: is extended per court order
+  qualifier: extended
+  span: "The validity of Employment Authorization Documents (EADs) issued under the TPS designation of Haiti with an original expiration date of Feb. 3, 2026, Aug. 3, 2025, Aug. 3, 2024, June 30, 2024, Feb. 3, 2023, Dec. 31, 2022, Oct. 4, 2021, Jan. 4, 2021, Jan. 2, 2020, July 22, 2019, Jan. 22, 2018, or July 22, 2017 is extended per court order."
+  url: https://www.uscis.gov/i-9-central/form-i-9-related-news/update-on-termination-of-temporary-protected-status-for-haiti-release-july-24-2026
+  read: fetched
+  source_kind: primary
+- id: c4
+  type: quote
+  value: are no longer valid
+  qualifier: longer
+  span: "Forms I-766, Employment Authorization Document, (EADs) with category A12 or C19 issued to TPS Haiti beneficiaries are no longer valid."
+  url: https://www.uscis.gov/i-9-central/form-i-9-related-news/update-on-termination-of-temporary-protected-status-for-haiti-release-july-29-2026
+  read: fetched
+  source_kind: primary
 coverage_notes:
   - drafts/drafts/springfield-the-protection-is-gone-2026-06-26 (The RAMM, "After the Arrest" series)
 related_events:
@@ -76,4 +109,4 @@ The decision's reasoning reaches beyond Haiti and Syria: TPS holders from 17+ de
 
 **Context / pattern.** This is the merits resolution of the Haiti/Syria TPS case the administration brought to the Court in March ([[2026-03-11--trump-asks-supreme-court-end-haiti-tps-350000]], cert granted [[2026-03-16--scotus-grants-cert-haiti-syria-tps]]), and it extends the shadow-docket-to-merits trajectory the Court ran on Venezuelan TPS in 2025 ([[2025-05-19--scotus-stays-noem-v-ntpsa-venezuelan-tps-termination]], [[2025-10-03--scotus-stays-ntpsa-venezuelan-tps-summary-judgment]]) — but goes further, holding the terminations categorically unreviewable rather than merely staying relief. The DHS Secretary of record is now **Markwayne Mullin** (confirmed March 2026, per [[2026-03-11--mullin-dhs-confirmation-hearing-march-18-scheduled]]), not Kristi Noem, whose Nov. 2025 notice initiated the termination. The use of immigration status as a removable, court-proof category — applied to a population already marked by a fabricated slander — fits the documented pattern of accountability-elimination and the deportation-pipeline beat; the harm lands hardest in concentrated communities like Springfield, Ohio (~12,000–15,000 Haitians), where local-organization director Vilès Dorsainvil called it "the saddest day since I've been here" and Gov. Mike DeWine (R) called the ruling "a mistake," noting people "working and contributing… yesterday" were, "today," illegal to employ. As of the ruling date no ICE enforcement operation had been executed in Springfield; the exact date work authorization ends was unresolved (the prior July 1, 2026 EAD-extension date was an artifact of the now-dissolved stay, pending a post-ruling USCIS notice).
 
-**Update (2026-07-24/27): work permits actually expire.** DHS's post-ruling notice set the Haiti TPS termination effective July 27, 2026 and the Syria termination effective the same date, with work permits expiring in the days prior — resolving the open question above. Roughly 356,000 Haitians and 6,000+ Syrians lost work authorization and deportation protection in the same window, placing them at what advocates describe as immediate risk of arrest, detention, and deportation to countries the State Department has separately determined too dangerous to return to. This is the operational consequence the June 25 ruling made legally possible — the gap between the Court removing judicial review and DHS actually executing the termination closed in one month.
+**Update (2026-07-24/27; corrected 2026-10-19): the Haiti termination took effect July 27, and work permits ran through that day.** USCIS's Haiti TPS page states that the designation is terminated effective July 27, 2026, the day the Supreme Court's judgment issued in the consolidated case (No. 25-1084). USCIS set the date by web guidance; no DHS Federal Register notice setting it was found. Employment authorization documents under the Haiti designation stayed valid until then: USCIS's July 24 I-9 Central release says their validity "is extended per court order" and tells employers to enter July 27, 2026 as the expiration date. After July 29, USCIS says A12 and C19 Haiti TPS work permits "are no longer valid". Haitian TPS holders, as a class, therefore lost both work authorization and protection from removal on and after July 27, not in the days before it. The Syria termination date and any Syria-specific work-permit dates were not verified in this correction pass; the earlier text's Haitian headcount matched no source read (the Court filings and CRS use about 350,000, as in the body above) and is removed. This is the operational consequence the June 25 ruling made legally possible: the gap between the Court removing judicial review and the termination taking effect was one month.
