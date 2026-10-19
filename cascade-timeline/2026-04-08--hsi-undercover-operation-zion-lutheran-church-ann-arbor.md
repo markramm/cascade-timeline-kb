@@ -54,7 +54,9 @@ sources:
 importance: 9
 date: '2026-04-08'
 status: reported
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+  title: "What is Homeland Security Investigations? And why do you need to know?"
 actors:
 - Erin Herrgott
 - Callum Robinet

@@ -36,7 +36,9 @@ sources:
   date: '2026-10-12'
   publisher: "US District Court, District of Minnesota, via CourtListener RECAP (ROI approved 4/10/2026; report print date 06/24/2026)"
   tier: 1
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+    title: "What is Homeland Security Investigations? And why do you need to know?"
 capture_lanes:
 - Civil Rights Suppression
 verification: captured

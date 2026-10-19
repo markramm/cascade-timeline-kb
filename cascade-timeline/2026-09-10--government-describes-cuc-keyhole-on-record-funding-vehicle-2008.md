@@ -50,6 +50,8 @@ related_events:
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
+  - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+    title: "What is Homeland Security Investigations? And why do you need to know?"
 corrections:
 - date: '2026-10-17'
   was: "On the most economical reading of the prefix as an office code, the Ann Arbor operation was opened under a Detroit field office case number and therefore outside St. Paul's CUC."

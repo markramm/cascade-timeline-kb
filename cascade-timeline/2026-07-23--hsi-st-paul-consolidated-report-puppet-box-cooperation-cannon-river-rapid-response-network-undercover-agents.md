@@ -79,6 +79,9 @@ claims:
   url: https://democracyforward.org/wp-content/uploads/2026/10/EMBARGO-DFF-DHS-ICE-26-0510-0511-0512-LIT-A_.pdf#Bates-095
   read: "page image (PDF p.98, rendered at 80 dpi and read)"
   source_kind: primary
+coverage:
+  - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+    title: "What is Homeland Security Investigations? And why do you need to know?"
 ---
 
 ## What the page says

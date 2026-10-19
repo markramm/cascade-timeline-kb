@@ -133,6 +133,9 @@ related_events:
 - 2026-09-28--cna-v-mullin-government-says-hsi-surged-voter-fraud-investigations-after-uscis-leads
 capture_lanes:
 - Civil Rights Suppression
+coverage:
+- url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+  title: "What is Homeland Security Investigations? And why do you need to know?"
 ---
 
 On the complaint's file-stamp date the League of Women Voters, the Electronic Privacy Information Center and the League of United Latin American Citizens sued the Department of Homeland Security in the D.D.C. The defendants are DHS, Secretary Markwayne Mullin, ICE and its senior official David Venturella, Homeland Security Investigations and John Condon, and USCIS and Director Joseph Edlow. Counsel are Democracy Forward Foundation (Louis Katz, Ronald Fein, Brian Netter and others) and Citizens for Responsibility and Ethics in Washington.

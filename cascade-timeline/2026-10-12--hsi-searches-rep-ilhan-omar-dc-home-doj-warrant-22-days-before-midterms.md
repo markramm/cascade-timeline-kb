@@ -198,6 +198,8 @@ coverage:
   title: "The Rule Says \"Approval by PIN.\" The Sources Say PIN Was \"Consulted.\""
 - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
   title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
+- url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+  title: "What is Homeland Security Investigations? And why do you need to know?"
 sources:
 - title: Rep. Ilhan Omar's residence searched as part of ongoing criminal investigation, DOJ says
   url: https://abcnews.go.com/US/rep-ilhan-omars-residence-searched-part-ongoing-criminal/story?id=137192001

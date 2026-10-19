@@ -115,6 +115,9 @@ sources:
   publisher: SAM.gov (ICE Office of Acquisition Management)
   date: '2025-06-05'
   tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
+  title: "What is Homeland Security Investigations? And why do you need to know?"
 ---
 
 ICE's Office of Acquisition Management posted special notice ICE_JA-25-0266 to SAM.gov in January 2026 (the entry date is the SAM.gov posting date). The notice announces "the sole-source procurement to Palantir Technologies of the Investigative Case Management (ICM) and Investigative Analytics (IA) System Modernization" and attaches the redacted limited-sources justification as a PDF. The dollar value is redacted in the posted copy.
