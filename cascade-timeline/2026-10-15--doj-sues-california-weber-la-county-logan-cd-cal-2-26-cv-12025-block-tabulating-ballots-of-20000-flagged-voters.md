@@ -93,6 +93,7 @@ related_events:
 - 2026-10-13--doj-letters-give-california-48-hours-on-likely-noncitizen-list-demand-la-county-segregate-ballots
 - 2026-09-16--doj-sends-five-grand-jury-subpoenas-san-diego-county-registrar-voter-records
 coverage:
+- daily-capture-reports/election/2026-10-15--doj-sues-california-voter-rolls-20000-noncitizens-block-mail-ballots.md
 - url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
   title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
 sources:

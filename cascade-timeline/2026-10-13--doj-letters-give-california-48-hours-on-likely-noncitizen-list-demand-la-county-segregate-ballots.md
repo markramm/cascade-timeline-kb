@@ -114,6 +114,7 @@ related_events:
 - 2026-09-30--doj-election-misconduct-cases-reach-90-blanche-no-pattern-save-database
 - 2025-09-09--doj-demands-voter-data-centralized-database
 coverage:
+- daily-capture-reports/election/2026-10-13--doj-mccotter-california-ballot-seizure-demand-48-hours-election-officials-oct2026.md
 - daily-capture-reports/election/2026-10-13--doj-thumbdrive-la-county-noncitizen-voters-segregate-ballots-oct2026.md
 - url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
   title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
