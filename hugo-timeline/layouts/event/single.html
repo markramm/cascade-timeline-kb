@@ -123,11 +123,15 @@
         </div>
         <h1 class="event-title">{{ .Title }}</h1>
         <div class="event-meta">
+          {{ $ver := .Params.verification | default "none" }}
+          {{/* Status pill: "confirmed" shows only when the entry is source-verified, so it never
+               sits beside "Not yet re-checked"; "disputed" is carried by the badge below. */}}
           {{ with .Params.status }}
+          {{ if and (ne . "disputed") (or (ne . "confirmed") (eq $ver "source-verified")) }}
           <a href="/about/methodology/#status" class="status-pill status-{{ . }}" title="Editorial status — see methodology" style="text-decoration:none;">{{ . }}</a>
           {{ end }}
+          {{ end }}
           {{/* Source-check badge: was each claim re-checked against its sources? */}}
-          {{ $ver := .Params.verification | default "none" }}
           {{ $vclass := "unchecked" }}{{ $vlabel := "Not yet re-checked" }}
           {{ $vtitle := "This entry has not yet been re-checked claim by claim against its sources." }}
           {{ if or (eq .Params.status "disputed") (eq $ver "disputed") }}
