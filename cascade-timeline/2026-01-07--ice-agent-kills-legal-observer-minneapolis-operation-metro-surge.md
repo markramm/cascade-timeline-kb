@@ -22,7 +22,7 @@ tags:
 - civilian-casualty
 status: confirmed
 sources:
-- title: ICE agent kills Minneapolis woman - body camera footage emerges
+- title: "Renee Nicole Good said 'I'm not mad at you' before ICE agent shot her, video shows"
   url: https://www.theguardian.com/us-news/2026/jan/09/ice-agent-minneapolis-bodycam-footage
   outlet: The Guardian
   date: '2026-01-09'
@@ -73,9 +73,9 @@ coverage:
 
 ICE agent Jonathan Ross shoots and kills Renee Nicole Good, 37, during Operation Metro Surge immigration enforcement action in Minneapolis. Good, a substitute teacher and poet who graduated from Old Dominion University in 2020, was present as a legal observer—exercising constitutionally protected First Amendment rights to document government enforcement actions. She had dropped her 6-year-old son at school that morning before heading to observe the operation.
 
-Good was in the driver's seat of her Honda Pilot on a residential street when an ICE agent approached. Bodycam footage and video taken by the agent's cellphone show Good turning her steering wheel to the right—away from the agent—in the moments before shots were fired.
+Good was in the driver's seat of her Honda Pilot on a residential street when an ICE agent approached. Cellphone video recorded by the shooting agent himself (first posted by Alpha News on January 9 and confirmed authentic by DHS), together with bystander footage, shows Good turning her steering wheel to the right—away from the agent—in the moments before shots were fired. Reporting at the time identified no body-worn-camera footage from the agent; court filings reported in October 2026 say federal authorities later gave Minnesota investigators body-worn-camera video from the three Metro Surge shootings.
 
-Her last words, spoken calmly to the agent: "It's all good, dude, I'm not mad at you."
+Her last words to the agent, spoken calmly through her open window: "That's fine, dude … I'm not mad at you."
 
 Ross joined ICE in 2015 and works in fugitive operations in the Minneapolis area. Before joining ICE, he served in Iraq with the Indiana National Guard, then became a U.S. Border Patrol agent in 2007. He fired at least three shots, killing Good.
 
