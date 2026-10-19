@@ -53,8 +53,15 @@ sources:
     publisher: Reporters Committee for Freedom of the Press
     date: '2026-03-31'
     tier: 1
+  - title: "NPR v. Trump, No. 1:25-cv-01674 (D.D.C.): Entry of Partial Final Judgment (ECF 85), Joint Status Report (ECF 86), Joint Stipulation of Dismissal of Remaining Claims (ECF 87)"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.280953/gov.uscourts.dcd.280953.87.0_1.pdf
+    publisher: "U.S. District Court for the District of Columbia (via CourtListener RECAP)"
+    date: '2026-07-16'
+    tier: 1
+    note: "PRIMARY. Added 2026-10-19 for the finality update; ECF 85 is gov.uscourts.dcd.280953.85.0.pdf and ECF 86 is .86.0.pdf on the same host. Nine spans (dates and quotes in the update note) were verified against these three PDFs with check_sourcing.py --claims in a scratch copy; the legacy entry itself carries no claims block."
 related:
   - 2025-12-05--npr-court-hearing-first-amendment-trump-executive-order
+  - 2026-01-05--cpb-announces-board-vote-to-dissolve-after-congress-rescinds-all-funding
 ---
 
 **Continuation of the arc documented in [[2025-12-05--npr-court-hearing-first-amendment-trump-executive-order]].** On **March 31, 2026**, U.S. District Judge **Randolph Moss** (D.D.C. — the same judge who presided over the December 5, 2025 hearing) issued a **62-page ruling** in **NPR v. Trump**, striking down the operative provision of **Executive Order 14290** ("Ending Taxpayer Subsidy of Biased Media") as unconstitutional viewpoint discrimination and retaliation against protected First Amendment activity.
@@ -76,6 +83,10 @@ The "draws a line" quote used above is likewise verified verbatim — and the op
 **This entry no longer depends on secondary synthesis.** Its quotes and case details were originally sourced partly to an Engadget (tier 2) rendering; they are now anchored to the primary document, archived in-repo with SHA-256. See [[npr-pbs-v-trump-moss-opinion-2026-03-31]].
 
 **Structural significance.** This is a genuine institutional-resistance win: a Trump-administration executive order aimed explicitly at defunding disfavored press coverage was struck down on First Amendment grounds by a federal judge, with the "power of the purse" reasoning explicitly foreclosing viewpoint-based funding retaliation as a workaround for direct censorship. It sits alongside the NPR staff layoffs (see companion 2026-05-27 entry) as evidence that the funding damage from the underlying congressional clawback and CPB wind-down was not undone by this ruling — the legal principle was vindicated, but the institutional damage (job losses, station-fee revenue loss) proceeds regardless, because the injunction reaches only the executive order, not the funding clawback that preceded and outlasts it.
+
+**Update (2026-10-19): finality of the NPR/PBS case, and a scope correction.** Sequence only, with date kinds, from the court's own docket filings. On April 23, 2026 (order date) Judge Moss entered partial final judgment under Rule 54(b) on the claims against Sections 1 and 3(a) of the executive order. The parties' joint status report (filing date July 6, 2026) states: "No appeal was taken from the partial final judgment." The later joint stipulation (filing date July 16, 2026) repeats that "the Federal Defendants did not appeal from that partial final judgment" and dismisses the remaining claims.
+
+**Scope correction to the paragraphs above.** The permanent injunction, as the parties' stipulation recites it, bars action "from taking any action to implement or enforce Section 1 or Section 3(a) of the Executive Order." For Sections 3(b) and 3(c) the court "denied both Plaintiffs’ and the Federal Defendants’ motions for summary judgment without prejudice," and those remaining claims were then "voluntarily dismissed without prejudice." The text above that describes the injunction as covering the whole of EO 14290 is therefore broader than the order. CPB's own dissolution, which the stipulation also recites, is in [[2026-01-05--cpb-announces-board-vote-to-dissolve-after-congress-rescinds-all-funding]].
 
 ---
 
