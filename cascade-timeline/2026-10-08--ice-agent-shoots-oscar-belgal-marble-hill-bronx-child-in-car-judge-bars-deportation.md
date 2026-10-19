@@ -155,6 +155,7 @@ related_events:
 - 2026-10-10--ice-agent-strikes-miguel-parra-hernandez-with-vehicle-houston-pursuit
 coverage:
 - daily-capture-reports/feed/2026-10-08--belgal-ice-shooting-marble-hill-no-warrant-solitary-oct2026.md
+- daily-capture-reports/headline/2026-10-08--ice-bronx-marble-hill-shooting-belgal-child-oct8-2026.md
 sources:
 - title: Judge blocks deportation of Marble Hill man shot by ICE as lawyers seek release for surgery
   url: https://www.amny.com/news/man-shot-by-ice-marble-hill-needs-surgery/
