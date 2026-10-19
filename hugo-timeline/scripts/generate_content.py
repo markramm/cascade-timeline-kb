@@ -225,6 +225,9 @@ def write_event(ev: dict, slug_idx: dict[str, str]) -> None:
         "decade": [f"{str(ev['date'])[:3]}0s"] if ev.get("date") else [],
         "importance": ev.get("importance"),
         "status": ev.get("status"),
+        # Source-check state for the event-page badge: source-verified | captured | disputed |
+        # legacy (never re-checked) | none. Set by the sourcing gate, never by hand.
+        "verification": ev.get("verification") or "none",
         "sources": ev.get("sources", []) or [],
         "capture_lanes": ev.get("capture_lanes", []) or [],
         "coverage": ev.get("coverage", []) or [],

@@ -50,6 +50,16 @@ Every event carries one of four status values:
 
 The default is *confirmed*. If an event is in the timeline without a qualifier, the sourcing supports it.
 
+<h2 id="verification">Source check</h2>
+
+Separately from its editorial status, each event page says whether its claims have been re-checked against the text of its sources:
+
+- **Checked against sources** — every figure, date, quotation and characterisation in the entry was matched to a passage in a source that was re-fetched and read. Claims that could not be matched were corrected from the source or removed.
+- **Not yet re-checked** — the entry predates claim-by-claim checking, or some of its sources could not be read when it was checked. Most of the archive is in this state today; we are working through it, newest and most-cited entries first.
+- **Disputed** — a claim in the entry is contested, or its central claim could not be supported by its sources. The entry stays in the archive, marked, rather than disappearing.
+
+A dead link is replaced only with the same document at its new address or an archived copy of it; a claim whose only source is gone is removed. If you find an error, [tell us](/about/contribute/).
+
 ## Further reading
 
 - [Source tiers and reliability](/about/sources/)

@@ -555,6 +555,24 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
   .status-disputed { color: var(--ox-hot); }
 }
 
+/* Source-check badge (event pages). Text carries the meaning; colour only reinforces it. */
+.verify-badge {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-family: var(--sans-meta); font-size: 12px; line-height: 1.3;
+  padding: 2px 8px; border-radius: 999px;
+  border: 1px solid currentColor; text-decoration: none;
+}
+.verify-badge:hover, .verify-badge:focus-visible { text-decoration: underline; }
+.verify-badge:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+.verify-mark { font-family: var(--mono); font-size: 11px; }
+.verify-checked   { color: var(--moss); }
+.verify-unchecked { color: var(--ink-3); border-style: dashed; }
+.verify-disputed  { color: var(--ox-deep); }
+@media (prefers-color-scheme: dark) {
+  .verify-checked  { color: #9ab86a; }
+  .verify-disputed { color: var(--ox-hot); }
+}
+
 .importance-bar {
   display: inline-flex; gap: 2px; align-items: center;
   font-family: var(--mono); font-size: 11px; color: var(--ink-3);

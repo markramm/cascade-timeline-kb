@@ -126,6 +126,21 @@
           {{ with .Params.status }}
           <a href="/about/methodology/#status" class="status-pill status-{{ . }}" title="Editorial status — see methodology" style="text-decoration:none;">{{ . }}</a>
           {{ end }}
+          {{/* Source-check badge: was each claim re-checked against its sources? */}}
+          {{ $ver := .Params.verification | default "none" }}
+          {{ $vclass := "unchecked" }}{{ $vlabel := "Not yet re-checked" }}
+          {{ $vtitle := "This entry has not yet been re-checked claim by claim against its sources." }}
+          {{ if or (eq .Params.status "disputed") (eq $ver "disputed") }}
+            {{ $vclass = "disputed" }}{{ $vlabel = "Disputed" }}
+            {{ $vtitle = "A claim in this entry is contested or could not be supported by its sources." }}
+          {{ else if eq $ver "source-verified" }}
+            {{ $vclass = "checked" }}{{ $vlabel = "Checked against sources" }}
+            {{ $vtitle = "Every claim in this entry was re-checked against the cited source text." }}
+          {{ end }}
+          <a href="/about/methodology/#verification" class="verify-badge verify-{{ $vclass }}" title="{{ $vtitle }}">
+            <span class="verify-mark" aria-hidden="true">{{ if eq $vclass "checked" }}✓{{ else if eq $vclass "disputed" }}!{{ else }}○{{ end }}</span>
+            <span>{{ $vlabel }}</span>
+          </a>
           {{ if .Params.importance }}
           <a href="/about/methodology/#importance" class="importance-bar" title="Editorial importance, 1–10. See methodology." style="text-decoration:none;color:inherit;">
             <span style="margin-right:6px;">Importance</span>
