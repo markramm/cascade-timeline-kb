@@ -2,16 +2,16 @@
 type: timeline_event
 id: 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
 date: '2026-10-19'
-title: 'Judge Sooknanan Grants Government Motion to Reassign Trujillo v. DHS (California Non-Citizen Voter Demand); Case Was Not Related to LWV v. DHS 25-cv-3501'
+title: 'Judge Sooknanan Grants Government Motion to Reassign Trujillo v. DHS (California Non-Citizen Voter Demand); Case Was Not Related to Earlier LWV v. DHS'
 importance: 5
-status: confirmed
+status: reported
 verification: captured
 event_date_claim: c1
 claims:
 - id: c1
   type: date
   value: 'Signed by Judge Sparkle L. Sooknanan on 10/19/2026'
-  qualifier: order date (docket text)
+  qualifier: Signed by
   span: 'Signed by Judge Sparkle L. Sooknanan on 10/19/2026. (lcsls3)'
   url: https://www.courtlistener.com/docket/74737644/
   read: fetched
@@ -19,7 +19,7 @@ claims:
 - id: c2
   type: quote
   value: the Plaintiffs have not met their burden
-  qualifier: ruling on the 24 Motion to Reassign
+  qualifier: have not met
   span: 'Here, the Plaintiffs have not met their burden.'
   url: https://www.courtlistener.com/docket/74737644/
   read: fetched
@@ -33,9 +33,9 @@ claims:
   read: fetched
   source_kind: primary
 - id: c4
-  type: deadline
+  type: date
   value: October 23, 2026
-  qualifier: defendants' opposition to the TRO/PI motion, set 10/16/2026
+  qualifier: ORDERS the Defendants to file their opposition
   span: 'the Court ORDERS the Defendants to file their opposition to the 21 Emergency Motion for Temporary Restraining Order and Preliminary Injunction by October 23, 2026, and the Plaintiffs to file their reply by October 30, 2026.'
   url: https://www.courtlistener.com/docket/74737644/
   read: fetched
@@ -77,6 +77,6 @@ capture_lanes:
 - Civil Rights Suppression
 ---
 
-Trujillo v. DHS (D.D.C. 1:26-cv-03072) was filed Sept. 2, 2026 by the Coalition for Humane Immigrant Rights and Pedro Trujillo. On Oct. 15, 2026 (filing date) they filed an emergency TRO and preliminary-injunction application against what they call the Alleged Non-Citizen Removal Policy: an Oct. 13, 2026 letter to California officials, which the plaintiffs say demands removal of flagged voters within 48 hours, with a "segregate not cancel" instruction for mail ballots.
+Trujillo v. DHS was brought by the Coalition for Humane Immigrant Rights and Pedro Trujillo. Their emergency TRO and preliminary-injunction application targets what they call the Alleged Non-Citizen Removal Policy: a letter to California officials, which the plaintiffs say demands removal of flagged voters, with a "segregate not cancel" instruction for mail ballots.
 
-On Oct. 16 (order date) Judge Sooknanan set the government's opposition for Oct. 23 and plaintiffs' reply for Oct. 30, and on Oct. 19 (order date) granted the government's motion to reassign, because plaintiffs had designated the case related to the earlier League of Women Voters v. DHS (25-cv-3501), which was terminated June 22, 2026. The order is how the same judge declined, three days earlier, to keep the new LWV/EPIC/LULAC suit. Both cases are now headed to random assignment; the order text read here does not say whether the Oct. 23 and Oct. 30 dates survive reassignment.
+Judge Sooknanan set the government's opposition for October 23, then granted the government's motion to reassign, because the plaintiffs had designated the case related to the earlier League of Women Voters v. DHS, which was no longer pending on the merits. The same judge had declined, days earlier, to keep the new LWV/EPIC/LULAC suit. Both cases are now headed to random assignment; the order text read here does not say whether the briefing dates survive reassignment.
