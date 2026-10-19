@@ -38,6 +38,10 @@ sources:
     publisher: "Tether"
     date: '2025-08-19'
     tier: 1
+coverage:
+- daily-capture-reports/headline/2026-10-15--wsj-nxum-hines-tether-payments-genius-act-conflict.md
+- url: https://fortune.com/2026/10/15/trump-former-top-crypto-adviser-scrutiny-allegations-firm-millions-tether-stablecoin-law
+  title: Former White House Crypto Advisor Under Scrutiny After Firm Got Millions From Tether
 claims:
 - id: c1
   type: date
