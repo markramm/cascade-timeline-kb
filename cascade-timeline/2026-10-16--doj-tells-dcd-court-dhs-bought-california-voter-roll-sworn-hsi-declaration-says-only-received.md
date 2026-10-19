@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-10-16--doj-tells-dcd-court-dhs-bought-california-voter-roll-sworn-hsi-declaration-says-only-received
 date: '2026-10-16'
-title: "DOJ Tells a D.C. Court DHS Bought California's Voter Roll; the Sworn HSI Declaration Says Only That the Roster Was 'Received'"
+title: "DOJ's D.C. Brief Says DHS Bought California's Voter Roll; HSI's Declaration in the California Case Says Its Office 'Received' a Roster"
 importance: 7
 status: confirmed
 event_date_claim: c1
@@ -168,6 +168,56 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- id: c17
+  type: date
+  value: October 2026
+  qualifier: day of
+  span: day of October 2026, Washington D.C.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.22.3_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-19'
+- id: c18
+  type: quote
+  value: lawfully purchased voter roll
+  qualifier: DHS obtained a
+  span: DHS obtained a lawfully purchased voter roll for that analysis.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.53.6.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-19'
+- id: c19
+  type: date
+  value: Thu, Oct 15, 2026 at 5:01 PM
+  qualifier: Thu
+  span: Dibblee, Christian R (CIV) <Christian.R.Dibblee@usdoj.gov> Thu, Oct 15, 2026 at 5:01 PM
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.53.6.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-19'
+- id: c20
+  type: date
+  value: 10/15/26
+  qualifier: Filed
+  span: Case 1:26-cv-01352-SLS Document 53-6 Filed 10/15/26 Page 1 of 6
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.53.6.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-19'
+- id: c21
+  type: figure
+  value: 53-6
+  qualifier: Document
+  span: Case 1:26-cv-01352-SLS Document 53-6 Filed 10/15/26 Page 1 of 6
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.53.6.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-19'
 tags:
   - election-2026
   - voter-rolls
@@ -193,19 +243,36 @@ sources:
     publisher: U.S. District Court for the Central District of California (RECAP)
     date: '2026-10-19'
     tier: 1
+  - title: "Exhibit 6 (email from DOJ trial attorney Christian Dibblee to CREW counsel, Oct 15, 2026), Common Cause v. U.S. Department of Justice, No. 1:26-cv-01352-SLS (D.D.C.), ECF 53-6"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.53.6.pdf
+    publisher: U.S. District Court for the District of Columbia (RECAP)
+    date: '2026-10-15'
+    tier: 1
+  - title: "Declaration of Nicolas Bartell, United States v. California, No. 2:26-cv-12025 (C.D. Cal.), ECF 22-4"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.22.4.pdf
+    publisher: U.S. District Court for the Central District of California (RECAP)
+    date: '2026-10-19'
+    tier: 1
   - title: "Complaint exhibits A and B (DHS and Secretary of State letters), United States v. California"
     url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.1.2.pdf
     publisher: U.S. District Court for the Central District of California (RECAP)
     date: '2026-10-15'
     tier: 1
+gate_note: "Corrected 2026-10-19 (task correct-2026-10-16-voter-roll-entry-mcloughlin-declaration-signed-oct-15-filed): the McLoughlin and Bartell declarations were signed Oct 15, 2026 (handwritten day on the execution line, read from the PDF image) and filed Oct 19; the DOJ attorney email using \"lawfully purchased\" was sent Oct 15; the D.D.C. brief was filed Oct 16. The earlier title and body dated the declaration only by filing date and read as a later retreat. The handwritten day is not in the PDF text layer, so the gate binds only \"October 2026\" mechanically; Bartell's page (ECF 22-4 p.7) is a scan with no text layer; it is hand-dated the 15th of October 2026 on the image, so the Bartell signing date is carried here only, not in the body. Read in full, neither declaration uses \"purchase\" or \"bought\" or says by what means the roster reached HSI (McLoughlin uses \"obtaining\" and \"acquired\" only for HSI's general workflow, paras 11 and 14); a zero-hit grep over both text layers, not a finding about intent. The filename slug (\"says-only-received\") is retained unchanged pending Mark, because renaming changes the public URL."
 capture_lanes:
   - Election Administration Capture
 coverage: []
 ---
 
-DOJ's motion for a stay pending appeal in *Common Cause v. U.S. Department of Justice*, case 1:26-cv-01352-SLS (D.D.C.), filed 10/16/26 (filing date), told the court that before suit "no government agency requested California’s unredacted voter roll" and that "DHS obtained the publicly accessible voter roll through a lawful purchase." It cites Elections Code section 2188, "making California’s voter roll available for purchase", and adds that "DHS also did not use SAVE." This is a brief, signed by counsel and not sworn. It names no seller, date, price or requester.
+DOJ's account that DHS bought California's voter roll and the sworn HSI account that its office "received" a roster were written in a different order than the filing dates suggest. Each date below says which kind it is.
 
-In a sworn declaration filed 10/19/26 (filing date) in the California case, HSI Assistant Director Eric McLoughlin wrote that his office "received what appeared to be the California voter roster."
+DOJ trial attorney Christian Dibblee's email to counsel for CREW in *Common Cause v. U.S. Department of Justice*, case 1:26-cv-01352-SLS (D.D.C.), is dated Thu, Oct 15, 2026 at 5:01 PM (sent date; time as printed, no time zone shown). It says "lawfully purchased voter roll" and cites Cal. Elec. Code section 2188. It is attached as ECF 53-6, stamped Filed 10/15/26 (filing date).
+
+HSI Assistant Director Eric McLoughlin signed his sworn statement for the California case in Washington D.C., on a day of October 2026 (signing date). The day is entered by hand and appears as 15th on the page image; that is a visual observation, not machine-checkable. The statement was stamped Filed 10/19/26 (filing date).
+
+DOJ's motion for a stay pending appeal in the D.C. case, filed 10/16/26 (filing date), told that court that before suit "no government agency requested California’s unredacted voter roll" and that "DHS obtained the publicly accessible voter roll through a lawful purchase." It cites section 2188, "making California’s voter roll available for purchase", and adds that "DHS also did not use SAVE." This is a brief, signed by counsel and not sworn. It names no seller, date, price or requester.
+
+McLoughlin's declaration, filed 10/19/26 (filing date), says his office "received what appeared to be the California voter roster." On the signing dates, the sworn declaration and the emailed "lawfully purchased" sentence are from the same day, and the brief came a day later. The documents are of different kinds, in different cases.
 
 Secretary of State Shirley Weber's reply to DHS is attached to DOJ's own complaint. In it, Weber writes that her office "has not shared our statewide voter registration list with DHS or any other federal agency." She also writes that "state law prohibits sharing voters’ sensitive information, including social" security numbers. She replied on July 23 (letter date). The letter she answered, dated July 16, 2026 (letter date), from Secretary Markwayne Mullin, describes its source as "publicly available voter registration database information." It reports 81,336 California registrants whose "date of birth, address and Social Security number match a non-citizen" in DHS files. Nothing in the filed record reconciles a public-file source with a Social Security number match.
 
