@@ -37,7 +37,9 @@ sources:
     tier: 1
 capture_lanes:
   - Civil Rights Suppression
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 ## Opening

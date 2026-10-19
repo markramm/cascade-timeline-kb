@@ -83,6 +83,9 @@ actors:
 - Isaac Auman Sant
 - William Morgan
 - Natasha Rakotz
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 # Minnesota US Attorney Indicts 15 Members of Direct Action Minnesota, Alleging Antifa Ties, Invoking NSPM-7

@@ -152,6 +152,9 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 On August 27, 2026 (upload date), HSI Special Agent Katherine Wespetal uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). August 27 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives "Time: 3:30 P.M. / 5:00 P.M." for the hearing, and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.

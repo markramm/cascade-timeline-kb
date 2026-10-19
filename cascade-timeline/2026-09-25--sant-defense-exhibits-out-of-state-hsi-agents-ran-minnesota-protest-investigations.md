@@ -161,6 +161,9 @@ sources:
     publisher: "US District Court, D. Minn., 0:26-cr-00115-KMM-DTS"
     date: '2026-09-10'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 In the Sant prosecution, the defense response to the government's supplemental brief on CUC Keyhole is dated September 25, 2026. The government's brief had described Keyhole as a certified undercover operation "administered exclusively by the Special Agent in Charge (SAC) for Homeland Security Investigations (HSI) St. Paul." The response: "Nearly all the HSI agents who worked on Operation Puppet Master and Project Whipple Shield were detailed here from other jurisdictions."

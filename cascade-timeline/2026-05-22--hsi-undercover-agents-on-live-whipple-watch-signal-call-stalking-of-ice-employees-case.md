@@ -224,6 +224,9 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 On May 22, 2026, Homeland Security Investigations undercover agents, designated UCA-SC-003 and UCA 7810, were "participants in some of the group chats" of the Whipple Watch observer network and joined a live Signal group call run over the network's chat about the Bishop Henry Whipple Federal Building at Fort Snelling, Minnesota, according to HSI's own report of investigation. The report, ROI MS05FR26MS0009-015, is in HSI case MS05FR26MS0009, opened 4/20/2026 under the title "Stalking of ICE Employees by Rapid Response Network Members." It reached the public record as Exhibit K to Doc. 297, which defendant Isaac Auman Sant filed in *United States v. Sant*, 0:26-cr-00115 (D. Minn.). Exhibit O, ROI MS05FR26MS0009-020, was filed with it.

@@ -51,6 +51,8 @@ coverage:
     title: "A Federal Agent investigated the Collection Basket at Zion Lutheran in Ann Arbor"
   - path: daily-capture-reports/feed/2026-10-03--minneapolis-15-ice-protest-indictment-labor-solidarity-oct3-2026.md
     note: "The Intercept feature on the labor movement's response to the indictment; its HSI-infiltration and SEIU/CWA financial-records subpoena claims (c4, c5) are already recorded in this entry and in 2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions. Dropped as duplicate 2026-10-13."
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 corrections:
 - date: '2026-10-17'
   was: "title: Court Filings Expose 'Operation Puppet Master': HSI Infiltrated Minnesota Unions, Churches, and Activist Groups After Alex Pretti Killing"

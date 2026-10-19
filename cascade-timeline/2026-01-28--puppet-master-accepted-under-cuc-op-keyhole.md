@@ -48,6 +48,8 @@ capture_lanes:
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 corrections:
 - date: '2026-10-08'
   was: "that brief adds no new documentary fact about Keyhole beyond ... already stated."

@@ -58,6 +58,9 @@ sources:
   outlet: Raw Story
   date: '2026-08-15'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
 Court filings unsealed in the prosecution of anti-ICE activists in Minnesota revealed that the Department of Homeland Security conducted surveillance of at least five Midwest churches — four in the Twin Cities and one in Michigan — while under a federal injunction that expressly prohibited it.
