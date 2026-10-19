@@ -4,7 +4,7 @@ id: 2026-05-08--doj-sues-new-mexico-immigrant-safety-act-hb9-preemption-1-26-cv-
 date: '2026-05-08'
 title: DOJ Sues New Mexico Over the Immigrant Safety Act, Moves for a Preliminary Injunction the Same Day, Then Withdraws It Under a Stipulation
 importance: 7
-status: confirmed
+status: reported
 tags:
   - state-preemption-fight
   - new-mexico
@@ -36,6 +36,8 @@ sources:
     publisher: D.N.M. filing via CourtListener storage
     date: '2026-08-19'
     tier: 1
+verification: captured
+verification_note: 'Conductor QC 2026-10-19: written after 2026-10-01 without claims (structured USAspending/docket data the claim gate cannot span-bind), so captured/reported, not confirmed. Figures are from the worker read of the primary record; rebind when the gate supports JSON or docket sources.'
 ---
 
 The United States filed suit against New Mexico in the District of New Mexico on May 8, 2026, challenging the Immigrant Safety Act (HB9) and a related state law on preemption and intergovernmental-immunity grounds. The case is 1:26-cv-01471, assigned to Chief District Judge Kenneth J. Gonzales, with Magistrate Judge Laura Fashing referred. It was filed with a motion for a preliminary injunction (Doc. 2) and a temporary-restraining-order status conference was set for May 12, 2026.
