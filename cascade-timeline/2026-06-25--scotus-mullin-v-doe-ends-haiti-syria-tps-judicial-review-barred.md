@@ -3,7 +3,7 @@ type: timeline_event
 id: 2026-06-25--scotus-mullin-v-doe-ends-haiti-syria-tps-judicial-review-barred
 date: '2026-06-25'
 importance: 9
-status: confirmed
+status: reported
 title: "Supreme Court (Mullin v. Doe, 6-3) Lets Trump End Haitian and Syrian TPS, Holds Terminations Shielded from Judicial Review"
 actors:
   - Supreme Court of the United States
