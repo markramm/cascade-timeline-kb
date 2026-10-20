@@ -42,6 +42,9 @@ claims:
   - {id: c1, type: figure, value: "100 mph (160 km/h)", qualifier: "ceiling, per Beskrestnov", span: "SpaceX had stopped the operation of its military-grade version above 100 miles per hour (160 km/h)", url: "https://www.investing.com/news/stock-market-news/ukraine-says-spacex-limits-starlink-operations-disrupting-military-4948343", read: fetched, source_kind: secondary}
   - {id: c2, type: figure, value: "10 to 20 seconds at 110 to 120 km/h", qualifier: "reported by 7th Rapid Reaction Corps", span: "connection dropped for 10-20 seconds at speeds of 110-120 km/h", url: "https://www.themoscowtimes.com/2026/10/14/ukraine-says-spacex-limits-starlink-operations-disrupting-military-a93970", read: fetched, source_kind: secondary}
   - {id: c3, type: quote, value: "Any limits on speed or usage are decided by the US military and ultimately POTUS", qualifier: "Musk, X post, Oct 14 (Meduza/Kyiv Independent/Newsweek relay; original unfetched)", span: "Any limits on speed or usage are decided by the US military and ultimately POTUS", url: "https://meduza.io/en/news/2026/10/14/starshield-systems-are-owned-and-controlled-by-the-u-s-government-musk-responds-to-ukraine-s-complaints-about-restrictions-on-the-military-version-of-starlink", read: fetched, source_kind: secondary}
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence of dated events, each with its date kind. No finding here about who ordered the limit or why.

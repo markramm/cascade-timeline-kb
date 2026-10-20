@@ -52,6 +52,9 @@ claims:
   - {id: c8, type: quote, value: "unable to reach designated bunkers during Russian air raids", qualifier: "alarmed", span: "incidents in which U.S. diplomatic, military, and security personnel were unable to reach designated bunkers during Russian air raids, amid reported disruptions to intelligence-sharing and early-warning capabilities", url: "https://www.foreign.senate.gov/download/letter-to-dodig-re-starlink-over-ukraine_-final-signed", read: fetched, source_kind: primary}
   - {id: c9, type: quote, value: "remains unclear", qualifier: "cause", span: "The precise cause of these incidents, including whether they resulted from technical failures, interruptions in intelligence sharing, changes in U.S. government policy, or other factors, remains unclear.", url: "https://www.foreign.senate.gov/download/letter-to-dodig-re-starlink-over-ukraine_-final-signed", read: fetched, source_kind: primary}
 event_date_claim: c1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 **Date kinds.** Oct 15, 2026 is the date line on the letter itself (c1). The sponsors' press release was republished Oct 16, 2026 01:58 GMT and says the letter went "Today"; the tracker cites an NYT story of Oct 15 (not fetched here; nytimes.com blocked). The requested reporting date is Nov 1, 2026 (c7). The events the letter asks about span Oct 12 to 14, 2026 (c3).

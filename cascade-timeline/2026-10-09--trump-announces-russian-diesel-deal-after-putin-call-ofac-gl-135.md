@@ -31,6 +31,9 @@ claims:
   - {id: c2, type: event, value: "Treasury suspended sanctions on Russian diesel until April 2027", qualifier: "MercoPress paraphrase", span: "the Treasury Department temporarily suspended sanctions on Russian diesel until April 2027.", url: "https://en.mercopress.com/2026/10/09/trump-says-russia-will-supply-millions-of-tonnes-of-diesel-as-us-eases-sanctions-on-moscow", read: fetched, source_kind: secondary}
   - {id: c3, type: date, value: "12:01 a.m. eastern time on April 7, 2027", qualifier: "GL 135 expiry, per trade press; OFAC text itself not fetched", span: "until 12:01 a.m. eastern time on April 7, 2027", url: "https://shipandbunker.com/news/world/445068-us-lifts-sanctions-on-russian-diesel-for-six-months-after-trump-putin-call", read: fetched, source_kind: secondary}
   - {id: c4, type: quote, value: "a highly successful discussion with President Vladimir Putin, of Russia", qualifier: "Trump's description of the call", span: "a highly successful discussion with President Vladimir Putin, of Russia", url: "https://en.mercopress.com/2026/10/09/trump-says-russia-will-supply-millions-of-tonnes-of-diesel-as-us-eases-sanctions-on-moscow", read: fetched, source_kind: primary}
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence only, with date kinds. BBC (the lead's cited source) and Reuters were not fetchable; this entry rests on Trump's own post as quoted, MercoPress, Ship & Bunker and NBC.

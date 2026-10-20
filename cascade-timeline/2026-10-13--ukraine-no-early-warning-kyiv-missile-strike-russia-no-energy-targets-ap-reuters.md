@@ -27,6 +27,9 @@ claims:
   - {id: c1, type: quote, value: "received no early warning from its partners", qualifier: "AP paraphrase of Zelensky; partners not named", span: "received no early warning from its partners", url: "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773", read: fetched, source_kind: secondary}
   - {id: c2, type: quote, value: "This is precisely what helps prevent people from being killed", qualifier: "Zelensky, X post, per AP", span: "This is precisely what helps prevent people from being killed — when there is an early warning about ballistic missiles", url: "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773", read: fetched, source_kind: primary}
   - {id: c3, type: quote, value: "We are helping them, and we are sharing intel", qualifier: "Trump to reporters at White House, per AP", span: "We are helping them, and we are sharing intel", url: "https://abcnews.com/International/wireStory/zelenskyy-ukraine-received-intelligence-partners-incoming-missile-strike-137219773", read: fetched, source_kind: primary}
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence only, with date kinds.

@@ -26,6 +26,9 @@ claims:
   - {id: c1, type: event, value: "Witkoff and Kushner threatened to stop sharing intelligence", qualifier: "per a Ukrainian official cited by Axios; relay", span: "envoys Steve Witkoff and Jared Kushner threatened during talks with the Ukrainian team to stop sharing intelligence", url: "https://www.pravda.com.ua/eng/news/2026/10/10/8057319/", read: fetched, source_kind: secondary}
   - {id: c2, type: event, value: "Trump could cut off Ukraine's access to US intelligence", qualifier: "per a Ukrainian official", span: "Trump could cut off Ukraine's access to US intelligence if it continued to ignore his requests", url: "https://www.pravda.com.ua/eng/news/2026/10/10/8057319/", read: fetched, source_kind: secondary}
   - {id: c3, type: event, value: "US official denied any such threat", qualifier: "per same relay", span: "A US official, however, denied that any such threat had been made", url: "https://www.pravda.com.ua/eng/news/2026/10/10/8057319/", read: fetched, source_kind: secondary}
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence only, with date kinds.

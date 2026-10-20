@@ -49,6 +49,9 @@ claims:
   - {id: c12, type: date, value: "Oct 15", qualifier: "Reuters", span: "NEW YORK/WASHINGTON, Oct 15 (Reuters)", url: "https://www.933thedrive.com/2026/10/15/exclusive-order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/", read: fetched, source_kind: secondary}
   - {id: c13, type: quote, value: "received a message that the SpaceX Starshield service for the Ukrainian military needed to be slowed", qualifier: "officials", span: "The officials said leaders at the Defense Department received a message that the SpaceX Starshield service for the Ukrainian military needed to be slowed.", url: "https://www.933thedrive.com/2026/10/15/exclusive-order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/", read: fetched, source_kind: secondary}
 event_date_claim: c12
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 - Report, Oct 15: the order "came from inside the White House" (Reuters, Erin Banco and Gram Slattery).

@@ -27,6 +27,9 @@ claims:
   - {id: c3, type: quote, value: "playing", qualifier: "accused the U.S. instead of", span: "they accused the U.S. instead of \"playing\" with the system.", url: "https://www.cbsnews.com/news/us-ukraine-intelligence-russia-war-missile-strikes-kyiv-power-outages/", read: fetched, source_kind: secondary}
   - {id: c4, type: quote, value: "received no advance warning from our partners", qualifier: "Zelenskyy said Ukraine", span: "President Volodymyr Zelenskyy said Ukraine \"received no advance warning from our partners\" when Russia launched a ballistic missile barrage at Kyiv and other locations early Tuesday.", url: "https://www.cbsnews.com/news/us-ukraine-intelligence-russia-war-missile-strikes-kyiv-power-outages/", read: fetched, source_kind: primary}
 gate_note: 'Added 2026-10-16: the quoted words "received no advance warning from our partners" are CBS''s rendering. Zelensky''s own Telegram post (Kyiv Post translation) reads "Unfortunately, there was no warning from our partners regarding this strike." Quote Zelensky from his post, not from this entry.'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence only. The CBS article is the primary for what CBS reported; every US-side statement in it comes from anonymous sources.

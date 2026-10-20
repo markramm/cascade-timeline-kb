@@ -23,6 +23,9 @@ sources:
 claims:
   - {id: c1, type: quote, value: "They told my generals, not me", qualifier: "Zelensky, NPR interview, per Hromadske", span: "They told my generals, not me", url: "https://hromadske.ua/en/war/272494-us-threatened-to-cut-intelligence-sharing-over-strikes-on-russian-refineries-zelenskyy-confirms", read: fetched, source_kind: secondary}
   - {id: c2, type: date, value: "October 13", qualifier: "NPR interview publication date per Hromadske", span: "NPR interview published October 13", url: "https://hromadske.ua/en/war/272494-us-threatened-to-cut-intelligence-sharing-over-strikes-on-russian-refineries-zelenskyy-confirms", read: fetched, source_kind: secondary}
+coverage:
+  - url: https://theramm.transparencycascade.org/p/ukraine-week-the-notices-the-law
+    title: "Ukraine Week: The Notices the Law Requires"
 ---
 
 Sequence only, with date kinds.
