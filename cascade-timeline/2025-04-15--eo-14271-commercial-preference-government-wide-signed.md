@@ -87,13 +87,13 @@ The dual-EO architecture created April 9–15, 2025:
 
 The framing in the White House fact sheet presents EO 14271 as enforcement of FASA 1994's statutory commercial-preference requirement against prior administrations' evasion — citing a 2019 report that estimated $345B in potential savings over 25 years from greater commercial IT adoption. The reform package cites the 2024 Senate committee report "Restoring Freedom's Forge" and a 2019 Advisory Panel report as supporting analysis. No Heritage Foundation or specific think-tank drafting attribution is documented in public sources.
 
-Kevin Rhodes' background (Director of Acquisition, White House Military Office; EVP at Systecon North America — a commercial defense logistics software firm) aligns directly with the commercial-item preference framework he helped author. No OGE conflict documentation for Systecon has been located.
+Kevin Rhodes' background (Director of Acquisition, White House Military Office; EVP at Systecon North America — a commercial defense logistics software firm) aligns with the commercial-item preference framework. (Updated 2026-10-20: his OGE ethics agreement, signed 2025-05-30, required resignation from Systecon and a one-year recusal from specific-party matters involving it, with no divestiture; his certification, signed 2025-11-19, reports both met. It does not mention EO 14271. An earlier version of this entry said he helped author the framework; that was not sourced and is withdrawn.)
 
 ## Research Gaps
 
 - [ ] Internal OFPP/OMB drafting attribution — career staff who wrote EO 14271 text are not in public record; FOIA-eligible
 - [ ] Rhodes Senate confirmation hearing testimony (HSGAC, June 5, 2025) — PDF unreadable by automated fetch; manual review may name his EO 14271 drafting role explicitly
-- [ ] OGE disclosure for Rhodes re: Systecon equity at time of OMB appointment
+- [x] OGE ethics agreement and certification for Rhodes read 2026-10-20 (resignation + one-year recusal; no Systecon equity or divestiture)
 - [ ] Any EO 14271 invoking protest against a civilian agency (non-DoD) — Saronic's was against NAVSEA (DoD); first true civilian-agency invocation remains unresearched
 
 ## Related Entries
