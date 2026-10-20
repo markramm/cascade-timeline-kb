@@ -104,3 +104,6 @@ The CMBS special servicer transfer is the **real estate credit leg** of that sam
 - [[2026-04-02--blue-owl-caps-redemptions-ocic-otic]] — BDC redemption caps, simultaneous crisis
 - [[2026-04-17--blue-owl-founders-remove-pledged-shares]] — founder derisking, concurrent stress event
 - [[blue-owl-cmbs-425m-net-lease-default-status]] — full research note with source citations
+
+
+**Correction (2026-10-19):** SEC EDGAR 10-D/EX-102 filings for the three public trusts holding the Oak Street NLP Fund Portfolio loan show no payment default: paymentStatusLoanCode is 0/blank except 'B' (late under 30 days) in two periods. The March 2025 special-servicing transfer was a collateral-threshold default (properties over 40% of allocated loan amount rejected in bankruptcy court), which the August 2025 report called 'a potential default'. The loan returned to the master servicer 2026-01-09 and the workout is coded Resolved (distribution date 2026-09-17). 'SitusAMC' as special servicer and an 'October 2025 capital injection' are not visible in EDGAR and rest on press reports only; treat as unverified. See [[2026-01-16--oak-street-nlp-425mm-loan-special-servicer-reports-modification-closed-return-to-master-edgar-10d]].
