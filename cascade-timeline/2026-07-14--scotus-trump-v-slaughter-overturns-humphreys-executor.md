@@ -4,7 +4,8 @@ id: 2026-07-14--scotus-trump-v-slaughter-overturns-humphreys-executor
 date: '2026-07-14'
 title: "Supreme Court Rules for Trump in Slaughter, Erasing 90-Year Humphrey's Executor Precedent on Agency Removal"
 importance: 9
-status: confirmed
+status: disputed
+corrected: '2026-10-20'
 tags:
   - judicial-capture
   - executive-power-expansion
@@ -44,6 +45,8 @@ sources:
     date: '2026-07-09'
     tier: 1
 ---
+
+> **Correction (2026-10-20):** this entry's date and posture are wrong. Per the slip opinion (supremecourt.gov), *Trump v. Slaughter*, No. 25-332, was decided on the merits on **June 29, 2026** (6-3, Roberts), not July 14-15, and it was not a follow-on to a shadow-docket order. The canonical record of the decision is [[2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power]]; this entry is retained only so existing links resolve. See also [[2026-06-29--scotus-trump-v-cook-denies-stay-fed-governor-stays-in-office]].
 
 The Supreme Court decided *Trump v. Slaughter* on July 14-15, 2026, ruling 6-3 that Trump could remove FTC Commissioner Rebecca Kelly Slaughter — the ruling the Court had signaled was coming when it allowed the firing to proceed on the shadow docket the previous month ([[2026-06-27--scotus-trump-v-slaughter-firing-power-ruling-imminent]]). The decision overturns nine decades of *Humphrey's Executor* precedent that had insulated independent regulatory commissions (FTC, SEC, CFPB, and similar bodies) from at-will presidential removal.
 

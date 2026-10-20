@@ -42,7 +42,7 @@ This is the merits ruling that the timeline anticipated through the cert grant (
 
 ## The same-day Fed carve-out, and what the ruling has actually produced (added 2026-08-27)
 
-**A companion decision bounds this one, and the corpus was missing it.** On the same day, the Court decided ***Trump v. Cook*, No. 25A312 (June 29, 2026), 5-4**, upholding the Federal Reserve's for-cause protection as a **Fed-specific carve-out**. Governor **Lisa Cook** — whose removal was attempted in August 2025 — **remains in office** under an active district-court injunction. Canon has the January oral argument ([[2026-01-21--scotus-hears-trump-v-cook-fed-independence-case]]) but had no entry for the decision.
+**A companion decision bounds this one, and the corpus was missing it.** On the same day, the Court decided ***Trump v. Cook*, No. 25A312 (June 29, 2026), 5-4**, denying the government's application to stay the lower-court order on the narrow ground that the President did not give Cook the notice and opportunity to respond the statute requires (an interim-docket order, not a merits ruling on the Fed's for-cause protection; corrected 2026-10-20 from "upholding the Federal Reserve's for-cause protection"; see [[2026-06-29--scotus-trump-v-cook-denies-stay-fed-governor-stays-in-office]]). Governor **Lisa Cook** — whose removal was attempted in August 2025 — **remains in office** under an active district-court injunction. Canon has the January oral argument ([[2026-01-21--scotus-hears-trump-v-cook-fed-independence-case]]) but had no entry for the decision.
 
 So the unitary-executive holding is broad but not total: it reaches roughly two dozen independent agencies and **stops at the Fed**.
 
