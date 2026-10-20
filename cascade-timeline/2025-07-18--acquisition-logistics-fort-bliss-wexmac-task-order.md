@@ -64,7 +64,7 @@ The Army issued a solicitation June 9, 2025, restricted to small disadvantaged b
 
 **The WEXMAC mechanism**: The Army used NAVSUP's WEXMAC vehicle under its multi-agency use provision. The N0002325 contract prefix is Navy (NAVSUP Mechanicsburg); the Army's MICC Fort Sam Houston issued the delivery order against Acquisition Logistics' pre-qualified WEXMAC seat. This is the same IDIQ vehicle — now amended as WEXMAC 2.1/TITUS — that underlies the 11 warehouse detention sites. Fort Bliss is the only confirmed military-base soft-sided facility issued as a WEXMAC task order.
 
-**Protest**: Gemini Tech Services (Willow Park, TX) filed suit in the U.S. Court of Federal Claims on August 11, 2025, alleging Acquisition Logistics failed to comply with two material solicitation requirements and that the Army violated the Competition in Contracting Act by proceeding while the protest was active. Outcome not publicly confirmed as of May 2026.
+**Protest** (updated 2026-10-20): Gemini Tech Services (Willow Park, TX) protested the award at GAO (B-423775.1, filed July 28, 2025), raising its objections to the awardee there. Its Court of Federal Claims suit (No. 25-1337C) challenged only the Army's override of the automatic stay. The court denied a preliminary injunction and dismissed the complaint in an opinion issued under seal on September 8, 2025 and published September 18; it found the Army had "violated the statute" by proceeding before its written override but held the override determination rational ([opinion, govinfo](https://www.govinfo.gov/content/pkg/USCOURTS-cofc-1_25-cv-01337/pdf/USCOURTS-cofc-1_25-cv-01337-0.pdf)). Gemini withdrew the GAO protest on September 9, 2025. No forum ruled on the merits of the award.
 
 The task order was administratively transferred from DOD to DHS/ICE in November 2025 (FPDS: CONT_AWD_70CDCR26FR0000001_7012_N0002325D0004_9700).
 
@@ -80,7 +80,7 @@ The WEXMAC vehicle was originally designed for expeditionary military logistics 
 
 ## Research Gaps
 
-- [ ] Gemini Tech Services court protest outcome (Court of Federal Claims, filed August 11, 2025)
+- [x] Gemini Tech Services protest outcome: CoFC denied PI and dismissed (stay-override challenge only); GAO protest withdrawn 2025-09-09
 - [ ] Whether any other military-base soft-sided facilities were issued WEXMAC task orders under different awardee seats
 - [ ] Complete roster of all WEXMAC 2.1/2.2 TITUS awardees (partial lists only publicly available)
 - [ ] Whether DOD authorization process for cross-agency WEXMAC use included any oversight review
