@@ -3,7 +3,7 @@ type: timeline_event
 id: 2025-09-27--show-faith-by-works-registers-fara-israel-mfa-christian-outreach
 date: 2025-09-27
 importance: 6
-title: Show Faith by Works LLC (Reg. 7653) Registers Under FARA for Israel's Foreign Ministry: Christian Outreach in the Western U.S., $2.31M Received by March 2026
+title: "Show Faith by Works LLC (Reg. 7653) Registers Under FARA for Israel's Foreign Ministry: Christian Outreach in the Western U.S., $2.31M Received by March 2026"
 location: San Diego, CA; Riverside, CA
 actors:
 - Show Faith by Works LLC

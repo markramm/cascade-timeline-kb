@@ -59,7 +59,7 @@ claims:
 - id: c3
   type: figure
   value: $21,000,000 (approx.)
-  qualifier: Timothy Dunn of Midland TX to Jefferson Rising, my sum, not one filing line: 2024 cycle $18,000,000 (2024-05-02 to 2024-09-16, OpenFEC), 2026 cycle $2,000,000 (2025-11-03, OpenFEC) plus $1,000,000 (2026-08-05, Q3 report)
+  qualifier: "Timothy Dunn of Midland TX to Jefferson Rising, my sum, not one filing line: 2024 cycle $18,000,000 (2024-05-02 to 2024-09-16, OpenFEC), 2026 cycle $2,000,000 (2025-11-03, OpenFEC) plus $1,000,000 (2026-08-05, Q3 report)"
   span: 'SA11AI "DUNN" "TIMOTHY" MIDLAND TX 20260805 1000000.00'
   url: https://docquery.fec.gov/dcdev/posted/2023578.fec
   read: fetched
@@ -67,7 +67,7 @@ claims:
 - id: c4
   type: figure
   value: $109,500
-  qualifier: Jefferson Rising payments to Campaign Nucleus LLC across two cycles, not one: $104,500 (2023-08 to 2024-09, three payments) plus $5,000 (2025-07, one payment); FEC bulk oppexp24 and oppexp26
+  qualifier: "Jefferson Rising payments to Campaign Nucleus LLC across two cycles, not one: $104,500 (2023-08 to 2024-09, three payments) plus $5,000 (2025-07, one payment); FEC bulk oppexp24 and oppexp26"
   span: 'Jefferson Rising C00769232 payee CAMPAIGN NUCLEUS LLC 2024 cycle 104500.0 (3 txns); 2026 cycle 5000.0 (1 txn)'
   url: https://www.fec.gov/files/bulk-downloads/2026/oppexp26.zip
   read: fetched
