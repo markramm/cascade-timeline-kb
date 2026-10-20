@@ -24,7 +24,7 @@ sources:
   - url: https://storage.courtlistener.com/recap/gov.uscourts.ksd.166015/gov.uscourts.ksd.166015.1.0.pdf
     title: "United States v. D., D. Kan. 6:26-cr-10133, ECF 1, indictment (RECAP)"
 claims:
-  - {id: c1, type: quote, value: "ultimately pleaded guilty to disorderly election conduct under Kansas law", qualifier: "ultimately", span: "Dewey ultimately pleaded guilty to disorderly election conduct under Kansas law.", url: "https://www.dhs.gov/news/2026/09/10/hsi-arrests-non-citizen-voting-illegally-2024-general-election", read: fetched, source_kind: primary}
+  - {id: c1, type: quote, value: "ultimately pleaded guilty to disorderly election conduct under Kansas law", qualifier: "ultimately", span: "ultimately pleaded guilty to disorderly election conduct under Kansas law.", url: "https://www.dhs.gov/news/2026/09/10/hsi-arrests-non-citizen-voting-illegally-2024-general-election", read: fetched, source_kind: primary}
   - {id: c2, type: quote, value: "VOTING BY AN ALIEN IN A FEDERAL ELECTION", qualifier: "VOTING", span: "VOTING BY AN ALIEN IN A FEDERAL ELECTION", url: "https://storage.courtlistener.com/recap/gov.uscourts.ksd.166015/gov.uscourts.ksd.166015.1.0.pdf", read: fetched, source_kind: primary}
   - {id: c3, type: date, value: "September 10, 2026", qualifier: "September", span: "A TRUE BILL. September 10, 2026", url: "https://storage.courtlistener.com/recap/gov.uscourts.ksd.166015/gov.uscourts.ksd.166015.1.0.pdf", read: fetched, source_kind: primary}
 event_date_claim: c3
