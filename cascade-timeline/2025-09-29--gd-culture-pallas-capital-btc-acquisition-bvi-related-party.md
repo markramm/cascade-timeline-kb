@@ -106,3 +106,9 @@ Addentax Group (also China-linked, also Nasdaq-delisted-risk) made a similar ann
 - [[memecoin-bribery-receipts-named-foreign-buyers-on-chain-transaction-documentation]]
 - [[memecoin-as-pseudonymous-foreign-payment-gateway]]
 - [[2025-05-21--chinese-firms-plan-to-avoid-stock-delisting-buy-trump-s-meme]]
+
+## Correction (2026-10-20, EDGAR read directly)
+
+- The Share Exchange Agreement names ten sellers, not two (8-K filed 2025-09-16, acc. 0001213900-25-087946, Item 1.01). The 4.12% and 7.28% holders in that 8-K are Yan Wang and Qing Wang, the Target's directors. Zhang Binyang and Cui Runan control two of the ten sellers (Wealthy Concord Limited, East Valley Technology Limited), each of which received 2,782,443 shares (4.6% each) per the Schedule 13D filed 2026-05-05 (acc. 0001096906-26-000697, Items 2-3). That the two held GDC shares before the deal is not shown in any filing read.
+- The May 2025 agreement is not described as BVI in any GDC filing read (8-K filed 2025-05-13, acc. 0001213900-25-042662, says "an investor"). The sentence above calling it "an unnamed BVI accredited investor" repeats press wording, not the filing. The counterparty's identity is structurally untestable from public records; see the research task work log.
+- Going-private status: proposal dated 2026-05-01 (announced 2026-05-05/06); no merger agreement, Schedule 13E-3 or 13D amendment appears on EDGAR through 2026-08-14.
