@@ -212,8 +212,6 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-16'
-
-GATE PASSED: 1 entries clean.
 ---
 
 Senator Lindsey Graham (R-SC), 71, died on the evening of Saturday, the date this entry carries, after a brief and sudden illness, his office said. CBS reports an emergency call that evening to a residence belonging to the senator, mentioning a dispatch for cardiac arrest, and that Graham had returned from Ukraine, where he had been the day before. His spokesperson said Sunday afternoon that the preliminary finding of the D.C. Medical Examiner was aortic dissection due to arteriosclerotic cardiovascular disease. Graham had recently won the Republican primary in his bid for a fifth term.

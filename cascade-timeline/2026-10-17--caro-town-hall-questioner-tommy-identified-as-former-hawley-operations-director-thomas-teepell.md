@@ -36,7 +36,7 @@ sources:
     tier: 1
   - title: "Abdul El-Sayed schools a heckler in deep red Caro Mi. 10/17/26 (video)"
     url: https://www.youtube.com/watch?v=LYKucEYGQw4
-    publisher: YouTube (Todd Breadon / michigantodd)
+    publisher: YouTube (independent uploader)
     date: '2026-10-17'
     tier: 1
 related_events:

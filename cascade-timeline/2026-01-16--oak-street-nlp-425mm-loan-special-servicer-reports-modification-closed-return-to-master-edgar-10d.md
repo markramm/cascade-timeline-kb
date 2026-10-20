@@ -79,5 +79,3 @@ The special servicer comment for one loan in a registered commercial mortgage-ba
 The same comment states: "The Loan is a $425MM 1st lien, fixed-rate, interest-only, mortgage loan." It also states: "The Borrower entered into a 6-mos. forbearance, which requires the Loan remains current, while the Borrower works to get below the 40% level."
 
 It closes: "Modification has closed and loan will be returned to the Master in next 30 to 45 days."
-
-Later monthly asset-level filings, per-trust balances and field codes are in [[oak-street-nlp-425m-whole-loan-edgar-10d-status-2026-10]].

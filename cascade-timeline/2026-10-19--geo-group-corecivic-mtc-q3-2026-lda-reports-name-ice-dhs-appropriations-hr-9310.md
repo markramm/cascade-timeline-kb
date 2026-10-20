@@ -7,7 +7,7 @@ importance: 6
 status: reported
 lane: detention-industrial-complex
 tier: 1
-verification: confirmed
+verification: source-verified
 event_date_claim: c1
 tags:
 - lobbying
@@ -50,5 +50,3 @@ claims:
 - 10/19/2026 (signature date on the filing, LDA database): GEO Group filed its own third-quarter 2026 lobbying form. Its issue text reads: "Issues related to: ICE, immigration enforcement, and alternatives to detention."
 - 10/19/2026 (signature date): Tower 19, an outside firm, filed a third-quarter form for CoreCivic. Its budget issue text reads: "Funding related to the Bureau of Prisons, United States Marshals Service, the Office of the Federal Detention Trustee and Immigration and Customs Enforcement."
 - 10/17/2026 (signature date): Holland & Knight filed a third-quarter form for Management & Training Corporation with the issue text "Use and procurement relating to ICE and U.S. Marshalls facilities" (spelling as filed).
-
-Dollar amounts, the quarter-by-quarter totals back to 2025 and the full firm roster are in [[detention-contractor-lobbying-lda-2025-26-2026-10-19]]. The same companies' PAC and super PAC money: [[detention-contractor-political-spending-2025-26-2026-10-17]].

@@ -209,6 +209,5 @@ A statement that no other Indiana utility had proposed a similar arrangement app
 
 ## Related Entries
 
-- [[indiana-genco-unregulated-affiliate-precedent]]
 - [[2025-09-24--iurc-cause-46322-nipsco-genco-approved]]
 - [[2025-11-19--iurc-cause-46322-nipsco-genco-amazon-special-contract-reaffirmed]]

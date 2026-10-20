@@ -121,4 +121,4 @@ On **September 30, 2026** (press report date), Commercial Observer reported that
 
 The portfolio includes 7525 Cogswell Street in Romulus, Mich., the Eastwind Logistics Center in Socorro, Texas, and sites in Tremont, Pa., Salt Lake City, Social Circle and Flowery Branch.
 
-**What this is and is not.** No sale has closed. The asking terms come from a trade outlet citing another trade outlet, not from a published GSA listing, and the $706.8 million total has not been reconciled here to the corpus's census of warehouse purchases ([[wexmac-titus-warehouse-census]]).
+**What this is and is not.** No sale has closed. The asking terms come from a trade outlet citing another trade outlet, not from a published GSA listing, and the $706.8 million total has not been reconciled here to other counts of warehouse purchases.

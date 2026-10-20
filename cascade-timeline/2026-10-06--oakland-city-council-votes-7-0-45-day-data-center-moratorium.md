@@ -64,6 +64,6 @@ claims:
 
 The Oakland City Council on Tuesday unanimously approved a 45-day moratorium on approvals for new data centers (Oaklandside). With a 7-0 vote, the council approved Councilmember Carroll Fife's proposal to enact a pause on all approvals related to data center development (Local News Matters).
 
-Council vote on the moratorium; the city's own agenda and ordinance text were not retrieved, so the ordinance number, effective date and expiry are unverified. See the tracker note [[2026-10-19-data-center-moratorium-tracker-volusia-little-rock-oakland-sb-484]].
+Council vote on the moratorium; the city's own agenda and ordinance text were not retrieved, so the ordinance number, effective date and expiry are unverified.
 
 Context: compare [[2026-10-06--volusia-county-council-votes-6-1-first-reading-ban-large-data-centers]].

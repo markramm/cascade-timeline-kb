@@ -79,6 +79,6 @@ The entry date is the work-authorization expiration date then expected (a schedu
 
 Per the article, a spokesperson for the capital firm that owns Dole Fresh Produce, which has a Springfield facility that has employed Haitian TPS holders, declined to comment on the ruling, and a McGregor Metal representative declined to comment on the Supreme Court decision. Several other area businesses did not return requests for comment. The Greater Springfield Partnership, the local chamber, said the Haitian community "has been vital to Springfield's recent manufacturing and logistics growth, filling critical labor shortages." The head of the local Haitian support organization said he had heard that families working for Ohio companies had been laid off as of July 1; no employer is named for those layoffs.
 
-**What this does and does not show.** The article does not say how many layoffs occurred or at which firms. Jobs-data context is in the cascade-research note on Springfield employer and BLS reporting; it does not by itself identify who left or why.
+**What this does and does not show.** The article does not say how many layoffs occurred or at which firms. It does not by itself identify who left or why.
 
 Related: [[2026-06-25--scotus-mullin-v-doe-ends-haiti-syria-tps-judicial-review-barred]], [[2026-08-05--reyes-order-haiti-tps-stay-no-longer-in-effect-after-mandate-discovery-continues]]

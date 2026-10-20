@@ -53,7 +53,7 @@ The water dispute sits directly on top of the facility-identification question t
 
 ## Broader Context
 
-This is the water-depletion story flagged by the Eyes on ICE amplifier restack lead (`amplifier/2026-07-09--eyes-on-ice-estancia-nm-prison-water-depletion-restack.md`), which characterized itself as unverified and identified the operator gap. Both gaps — operator identification and primary-source confirmation of the water claim — are resolved by this entry and its companion, [[2026-05-01--corecivic-direct-federal-contract-torrance-cibola-bypasses-nm-hb9]].
+This is the water-depletion story flagged by an Eyes on ICE restack, which characterized itself as unverified and identified the operator gap. Both gaps — operator identification and primary-source confirmation of the water claim — are resolved by this entry and its companion, [[2026-05-01--corecivic-direct-federal-contract-torrance-cibola-bypasses-nm-hb9]].
 
 ## Research Gaps
 

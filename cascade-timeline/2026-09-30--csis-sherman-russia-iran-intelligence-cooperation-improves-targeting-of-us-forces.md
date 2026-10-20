@@ -5,7 +5,7 @@ date: '2026-09-30'
 title: CSIS Commentary on Russia-Iran Intelligence Cooperation and the Targeting of U.S. Forces
 importance: 5
 status: reported
-verification: captured
+verification: source-verified
 event_date_claim: c_date
 source_published_date: '2026-09-30'
 claims:
@@ -81,4 +81,3 @@ CSIS published a commentary by Justin Sherman on September 30, 2026 (publication
 
 **Documents versus infers.** CSIS says Russian intelligence has reportedly provided Iran with targeting information on ships and aircraft. It says one story on a list of critical-infrastructure targets is not corroborated elsewhere, and that for joint offensive cyber operations "the available evidence has yet to rise to that level of claim." It also warns that "Wide-ranging claims about lockstep alliances" are counterproductive. The commentary does not say Russia is directing Iranian missile targeting; that framing is Seth Abramson's, not a finding.
 
-The Trump remark in the task prompt is unlocated; see the task log.

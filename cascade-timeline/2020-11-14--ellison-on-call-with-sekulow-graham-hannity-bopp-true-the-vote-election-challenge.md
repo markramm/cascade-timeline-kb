@@ -51,7 +51,7 @@ claims:
   type: date
   value: 'Saturday, November 14, 2020, 10:45 P M'
   qualifier: send time of the email (time zone not stated on the page); the email says the call was "this evening"
-  span: 'From: Catherine Engelbrecht <catherine@truethevote.org> Sent: Saturday, November 14, 2020 10:45 P M To: Fred Eshelman <fred@eshelmanventures.com>'
+  span: 'Sent: Saturday, November 14, 2020 10:45 P M To: Fred Eshelman'
   url: 'https://storage.courtlistener.com/recap/gov.uscourts.gand.285098/gov.uscourts.gand.285098.156.44_2.pdf'
   read: fetched
   source_kind: primary
@@ -83,7 +83,7 @@ claims:
   type: identification
   value: 'Jim Bopp'
   qualifier: the Nov. 16, 2020 email from Engelbrecht to Eshelman is addressed jointly to Eshelman and "Jim Bopp"; the Nov. 14 email says only "Jim"
-  span: 'To: Fred Eshelman <fred@eshelmanventures.com>, Jim Bopp <jboppjr@aol.com>'
+  span: 'Jim Bopp'
   url: 'https://storage.courtlistener.com/recap/gov.uscourts.gand.285098/gov.uscourts.gand.285098.156.43_1.pdf'
   read: fetched
   source_kind: primary

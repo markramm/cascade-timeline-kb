@@ -54,4 +54,4 @@ claims:
 
 The Little Rock Board of Directors voted 4 to 4 at Tuesday night's City Board meeting on a data center moratorium proposed by Director Kathy Webb (Arkansas Times). Directors Capi Peck, Lance Hines, Dean Kumpuris and Joan Adcock voted against the moratorium.
 
-Vote on a moratorium; this was not a vote on any October item. See the tracker note [[2026-10-19-data-center-moratorium-tracker-volusia-little-rock-oakland-sb-484]].
+Vote on a moratorium; this was not a vote on any October item.

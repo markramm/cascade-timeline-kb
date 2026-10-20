@@ -44,15 +44,7 @@ claims:
   type: figure
   value: "26 of the 84"
   qualifier: 26 of the 84
-  span: "In Denton County, where Sofia Minotti lives, checks by elections administrator Frank Phillips’ staff delivered clear answers on the citizenship status of 26 of the 84 voters flagged by SAVE."
-  url: https://www.propublica.org/article/save-voter-citizenship-tool-mistakes-confusion
-  read: fetched
-  source_kind: secondary
-- id: c6
-  type: quote
-  value: "Twelve, including Minotti, proved they were citizens"
-  qualifier: proved they were citizens
-  span: "Twelve, including Minotti, proved they were citizens."
+  span: "checks by elections administrator Frank Phillips’ staff delivered clear answers on the citizenship status of 26 of the 84 voters flagged by SAVE."
   url: https://www.propublica.org/article/save-voter-citizenship-tool-mistakes-confusion
   read: fetched
   source_kind: secondary
@@ -97,4 +89,4 @@ On Missouri, the article reports that state officials directed county election a
 
 On what happens after a flag, the article reports a remark by Brian Broderick, who leads the verification division at U.S. Citizenship and Immigration Services: that when SAVE flags voters as noncitizens, "they are also referred to DHS for possible criminal investigation." The article gives this as his statement at a conference; the article does not say how many flagged voters were referred or that any flagged citizen was contacted by an agent.
 
-In Denton County, Texas, county staff reached clear answers on 26 of the 84 flagged voters. "Twelve, including Minotti, proved they were citizens." "Fourteen more had marked on their registration forms that they weren’t." The county elections administrator, Frank Phillips, said he removed anyone who did not provide proof by the deadline, but "he fears some were eligible voters."
+In Denton County, Texas, county staff reached clear answers on 26 of the 84 flagged voters: some proved they were citizens, and "Fourteen more had marked on their registration forms that they weren’t." The county elections administrator, Frank Phillips, said he removed anyone who did not provide proof by the deadline, but "he fears some were eligible voters."

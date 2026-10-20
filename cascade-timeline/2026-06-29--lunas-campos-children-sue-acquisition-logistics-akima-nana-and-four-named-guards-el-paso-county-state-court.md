@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-29--lunas-campos-children-sue-acquisition-logistics-akima-nana-and-four-named-guards-el-paso-county-state-court
 date: '2026-06-29'
-title: "Lunas Campos Children Sue Acquisition Logistics, Akima, NANA and Four Named Guards in El Paso County State Court"
+title: "Lunas Campos Children Sue Acquisition Logistics, Akima, NANA and Four Individual Defendants in El Paso County State Court"
 importance: 8
 status: confirmed
 event_date_claim: c1
@@ -37,8 +37,8 @@ claims:
   checked: '2026-10-19'
 - id: c2
   type: quote
-  value: 'Four guards physically restrained Mr. Lunas Campos: Defendants Lopez, Flores, Meta, and Walden.'
-  span: 'Four guards physically restrained Mr. Lunas Campos: Defendants Lopez, Flores, Meta, and Walden.'
+  value: Four guards physically restrained Mr. Lunas Campos
+  span: Four guards physically restrained Mr. Lunas Campos
   url: https://kfoxtv.com/resources/pdf/1ea3dd93-6b4e-4691-9c63-f395c0650dc3-2026DCV3228OriginalPetition13pgs.pdf
   read: fetched
   source_kind: primary
@@ -46,8 +46,8 @@ claims:
   checked: '2026-10-19'
 - id: c3
   type: quote
-  value: Defendant Walden was a lieutenant supervisor at Camp East Montana.
-  span: Defendant Walden was a lieutenant supervisor at Camp East Montana.
+  value: was a lieutenant supervisor at Camp East Montana
+  span: was a lieutenant supervisor at Camp East Montana.
   url: https://kfoxtv.com/resources/pdf/1ea3dd93-6b4e-4691-9c63-f395c0650dc3-2026DCV3228OriginalPetition13pgs.pdf
   read: fetched
   source_kind: primary
@@ -55,26 +55,8 @@ claims:
   checked: '2026-10-19'
 - id: c4
   type: quote
-  value: Defendant Lopez was a guard at Camp East Montana.
-  span: Defendant Lopez was a guard at Camp East Montana.
-  url: https://kfoxtv.com/resources/pdf/1ea3dd93-6b4e-4691-9c63-f395c0650dc3-2026DCV3228OriginalPetition13pgs.pdf
-  read: fetched
-  source_kind: primary
-  outcome: verified
-  checked: '2026-10-19'
-- id: c5
-  type: quote
-  value: Defendant Flores was a guard at Camp East Montana.
-  span: Defendant Flores was a guard at Camp East Montana.
-  url: https://kfoxtv.com/resources/pdf/1ea3dd93-6b4e-4691-9c63-f395c0650dc3-2026DCV3228OriginalPetition13pgs.pdf
-  read: fetched
-  source_kind: primary
-  outcome: verified
-  checked: '2026-10-19'
-- id: c6
-  type: quote
-  value: Defendant Meta was a guard at Camp East Montana.
-  span: Defendant Meta was a guard at Camp East Montana.
+  value: was a guard at Camp East Montana
+  span: was a guard at Camp East Montana.
   url: https://kfoxtv.com/resources/pdf/1ea3dd93-6b4e-4691-9c63-f395c0650dc3-2026DCV3228OriginalPetition13pgs.pdf
   read: fetched
   source_kind: primary
@@ -129,11 +111,11 @@ claims:
   checked: '2026-10-19'
 ---
 
-The children of Geraldo Lunas Campos filed a wrongful death petition in El Paso County, Texas, state court. The clerk's stamp gives the filing date as 6/29/2026. The defendants are Acquisition Logistics, LLC, Akima Global Services, LLC, NANA Regional Corporation, Inc., and four individuals the petition names: Paul Walden, Hector Lopez, Victor Flores and Daniel Meta. The petition spells the third name "Flores" in the caption and in the body and "Florez" once in its opening paragraph.
+The children of Geraldo Lunas Campos filed a wrongful death petition in El Paso County, Texas, state court. The clerk's stamp gives the filing date as 6/29/2026. The defendants are Acquisition Logistics, LLC, Akima Global Services, LLC, NANA Regional Corporation, Inc., and four individual defendants. The petition names all four; this entry does not.
 
 The four individuals are named as defendants by the plaintiffs, and what follows is the plaintiffs' account. Nothing here is a finding by a court.
 
-The petition says "Defendant Walden was a lieutenant supervisor at Camp East Montana." It says "Defendant Lopez was a guard at Camp East Montana." It says "Defendant Flores was a guard at Camp East Montana." It says "Defendant Meta was a guard at Camp East Montana." It then says "Four guards physically restrained Mr. Lunas Campos: Defendants Lopez, Flores, Meta, and Walden." and that the guards kept restraining him on the ground, "putting pressure on his neck and chest until his body went limp." The petition pleads wrongful death, negligence, gross negligence, and battery and assault, and says the family expects to ask the jury for damages over $1 million.
+The petition says one individual defendant "was a lieutenant supervisor at Camp East Montana" and that each of the others "was a guard at Camp East Montana." It then says "Four guards physically restrained Mr. Lunas Campos", naming the four individual defendants, and that the guards kept restraining him on the ground, "putting pressure on his neck and chest until his body went limp." The petition pleads wrongful death, negligence, gross negligence, and battery and assault, and says the family expects to ask the jury for damages over $1 million.
 
 This is the formal suit that the earlier federal petition to perpetuate testimony anticipated. The court in that federal case granted the family's motion to dismiss, and its order says "DISMISSED WITHOUT PREJUDICE in their entirety". The order was signed on the 25th day of February 2026. The family's motion told the court that "the depositions in the above-captioned action have been completed."
 

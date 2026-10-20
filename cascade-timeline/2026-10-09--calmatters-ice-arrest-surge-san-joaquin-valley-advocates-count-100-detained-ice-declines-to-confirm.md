@@ -94,8 +94,6 @@ tags:
 actors:
 - Immigration and Customs Enforcement
 - Esmeralda Soria
-- Alfred Aldrete
-- Luis Arreguin
 lane: immigration-enforcement-violence
 related_events:
 - 2026-08-13--frimpong-injunction-warrantless-ice-arrests-los-angeles
@@ -110,6 +108,6 @@ sources:
   tier: 2
 ---
 
-CalMatters reported a sudden surge of Immigration and Customs Enforcement activity in the San Joaquin Valley. Advocates said at least 100 people had been detained in the preceding days, and a Fresno activist said that where a couple of vans a day typically arrived at the downtown ICE office, 10-15 vans per day now do. ICE declined to confirm the increased activity. Among those detained was a skilled laborer, Luis Arreguin, arrested Oct. 1 on his way to work, his family said. Assemblymember Esmeralda Soria, whose district covers Fresno and Madera, rejected federal officials' description of the operation as "targeted enforcement": "It's a flat lie."
+CalMatters reported a sudden surge of Immigration and Customs Enforcement activity in the San Joaquin Valley. Advocates said at least 100 people had been detained in the preceding days, and a Fresno activist said that where a couple of vans a day typically arrived at the downtown ICE office, 10-15 vans per day now do. ICE declined to confirm the increased activity. Among those detained was a skilled laborer arrested Oct. 1 on his way to work, his family said. Assemblymember Esmeralda Soria, whose district covers Fresno and Madera, rejected federal officials' description of the operation as "targeted enforcement": "It's a flat lie."
 
 The Valley's legal posture changed in August, when the 9th Circuit lifted the injunction that had restricted immigration sweeps there. The arrest counts and van counts come from advocates, not ICE data, and this is the single outlet's reporting; the operation's name and scope are unconfirmed. For context CalMatters cites ICE records obtained by the Deportation Data Project showing arrests in the San Francisco region spiked nearly 70%.

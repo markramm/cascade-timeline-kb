@@ -35,7 +35,7 @@ claims:
   type: date
   value: '2026-08-26T15:03:42'
   qualifier: Published
-  span: 'Obermiller, Christina Ms. 2026-08-26T15:03:42 Published'
+  span: '2026-08-26T15:03:42 Published'
   url: https://web.archive.org/web/20260830004746id_/https://www.fvap.gov/api/public/cms/citizen-voter/reside
   read: fetched
   source_kind: primary
@@ -43,4 +43,4 @@ claims:
 
 The Internet Archive's copy of FVAP's live Federal Post Card Application from the end of August still carried the third civilian-abroad box, "I have never lived in the United States." The archive's copy from the second week of September is the revised edition, which ends "Previous editions are obsolete." The box is gone. The swap happened between the earlier and later captures; the archive does not say which day, so the swap itself is undated here. OMB had approved the change in the last days of August.
 
-FVAP's own page listing the states where a never-resided citizen can vote, which opened "The following states allow these citizens to vote absentee," was archived intact at the end of August. Its content feed has returned an error in every archive capture since the second week of September, and returns an error now. The page's link still sits in the live site's navigation and opens to a notice that the page is temporarily unavailable. Whether this is deliberate is not documented. The state counts, the comparison with FVAP's 2020 list, and the exact capture timestamps are in the research note [[overseas-voters-fpca-never-resided-checkbox-removal-dnc-v-dod-2026-10-10]].
+FVAP's own page listing the states where a never-resided citizen can vote, which opened "The following states allow these citizens to vote absentee," was archived intact at the end of August. Its content feed has returned an error in every archive capture since the second week of September, and returns an error now. The page's link still sits in the live site's navigation and opens to a notice that the page is temporarily unavailable. Whether this is deliberate is not documented.
