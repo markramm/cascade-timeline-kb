@@ -119,8 +119,9 @@ filing responds to the Council vote is not yet known — its content hasn't been
 Council Aug 26) are two different, sequential proceedings arguing the same CUP-vs-correctional-use
 theory, not the same action.** No source found cites one within the other.
 
-Full detail, full docket chronology, and remaining gaps (notably: the substantive text of the TRO
-denial, which may already contain a merits ruling on the CUP theory, has not been retrieved):
+The TRO denial (Doc. 33, read 2026-10-20) rests on irreparable harm alone; its footnote 2 says it is
+"not necessary to address the other prongs," so it contains no merits ruling on the CUP theory.
+Full detail, docket chronology and remaining gaps:
 [[track-california-city-pending-lawsuit-dignity-not-detention-strategy]].
 
 Corrected 2026-10-01: title and body changed from "sidesteps federal/congressional/IG oversight" (not supported by Mother Jones) to "insulates the facilities from state efforts to outlaw private detention," per Mother Jones's own text; "17th custody death... one every six days" changed to "at least 21 deaths," per Andrew Free's tracker as reported by Mother Jones.
