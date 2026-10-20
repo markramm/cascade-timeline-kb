@@ -10,7 +10,6 @@ verification: source-verified
 lane: detention
 named_actors:
 - Emiliano Andrade-Covarrubias
-- Estefani Andrade
 - Henry Cuellar
 - GEO Group
 - ICE
@@ -57,7 +56,7 @@ claims:
   type: quote
   value: give him his medications
   qualifier: staff
-  span: Estefani Andrade said her dad had a heart condition, along with diabetes and high blood pressure. He had medicine with him when he was detained, but she said staff at the center wouldn’t “give him his medications.”
+  span: said her dad had a heart condition, along with diabetes and high blood pressure. He had medicine with him when he was detained, but she said staff at the center wouldn’t “give him his medications.”
   url: https://foxsanantonio.com/news/local/migrant-found-dead-at-laredo-ice-facility
   read: fetched
   source_kind: secondary
@@ -151,9 +150,9 @@ claims:
   source_kind: secondary
 - id: c16
   type: attribution
-  value: Estefani Andrade, 29 and a U.S. citizen
-  qualifier: Estefani Andrade
-  span: Estefani Andrade, 29 and a U.S. citizen, said the family is going to visit the detention facility on Monday to get his belongings.
+  value: 29 and a U.S. citizen
+  qualifier: U.S. citizen
+  span: 29 and a U.S. citizen, said the family is going to visit the detention facility on Monday to get his belongings.
   url: https://foxsanantonio.com/news/local/migrant-found-dead-at-laredo-ice-facility
   read: fetched
   source_kind: secondary
@@ -201,7 +200,7 @@ claims:
   type: attribution
   value: her family has not yet been contacted by federal agencies
   qualifier: Webb County Medical Examiner
-  span: Andrade-Covarrubias’ daughter, Estefani Andrade, told the Tribune that her family has not yet been contacted by federal agencies. Instead, she said, they heard about his death on Saturday through the Webb County Medical Examiner, which is performing his autopsy.
+  span: told the Tribune that her family has not yet been contacted by federal agencies. Instead, she said, they heard about his death on Saturday through the Webb County Medical Examiner, which is performing his autopsy.
   url: https://foxsanantonio.com/news/local/migrant-found-dead-at-laredo-ice-facility
   read: fetched
   source_kind: secondary
@@ -210,7 +209,7 @@ event_date_claim: c1
 
 Emiliano Andrade-Covarrubias, 56, a Mexican national who had lived in Dallas for decades, was found unresponsive in his cell at the Rio Grande Processing Center in Laredo, Texas, on Saturday, October 17, 2026, and died. Rep. Henry Cuellar put the discovery at about 10 a.m. during a security check (Texas Tribune); ICE's statement, reproduced in the Tribune's updated story, gives a discovery time of approximately 9:48 a.m. CST and a pronouncement of death at 10:10 a.m. The Webb County Medical Examiner is performing the autopsy and the cause of death is unknown.
 
-His daughter, Estefani Andrade, 29, a U.S. citizen, told the Tribune that her father had a heart condition, diabetes and high blood pressure, that he had medicine with him when he was detained, and that staff at the center would not "give him his medications." She said he had a cough, told her he was not feeling well, and that medical staff "would just ignore him" even when he reported trouble breathing and tightness in his chest. These are her account as relayed by the Tribune, not findings. DHS, per FOX 4, and ICE, in a statement the Tribune reproduces, say he received proper medical care. Rep. Cuellar told FOX 4 he has audio from people who said Andrade-Covarrubias asked for medicine and did not receive it, and that he could not verify what treatment he actually got.
+His daughter, 29, a U.S. citizen, told the Tribune that her father had a heart condition, diabetes and high blood pressure, that he had medicine with him when he was detained, and that staff at the center would not "give him his medications." She said he had a cough, told her he was not feeling well, and that medical staff "would just ignore him" even when he reported trouble breathing and tightness in his chest. These are her account as relayed by the Tribune, not findings. DHS, per FOX 4, and ICE, in a statement the Tribune reproduces, say he received proper medical care. Rep. Cuellar told FOX 4 he has audio from people who said Andrade-Covarrubias asked for medicine and did not receive it, and that he could not verify what treatment he actually got.
 
 On his status and the arrest, the family and DHS give different accounts. DHS says he was arrested at the Laredo port of entry on June 26, 2026 for allegedly not disclosing a 2004 theft arrest when applying for status, and did not say whether he was convicted; the family says he was a lawful permanent resident. He is the second death in a Laredo ICE facility this year after Felix Alcorta-Rodriguez (June 19), and the family told the Tribune they learned of the death from the Webb County Medical Examiner, not from a federal agency.
 
