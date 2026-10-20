@@ -48,7 +48,7 @@ On December 27, 2023, **Dalfen Industrial** (Dallas, TX) acquired the 470,044-sq
 
 The seller was **Adler Roxbury, LLC** — an affiliate of New Jersey-based Adler Development — which had developed the property (site plans submitted to Roxbury Township in 2019, building completed approximately 2022). The 2023 acquisition price was not disclosed by any party.
 
-The building sat **vacant for approximately two years** after acquisition — a point explicitly acknowledged by Goldman Sachs spokesperson Ylan Mui in March 2026 press coverage: "This property, which sat vacant for two years, was held in a real estate investment fund that we manage. We had a fiduciary obligation to investors in the fund to sell it."
+The building sat **vacant for approximately two years** after acquisition, according to a Goldman Sachs statement summarized in March 2026 press coverage (Gothamist), which also reported that Goldman said it had an obligation to the fund's investors to sell. (Corrected 2026-10-20: an earlier version quoted a Goldman spokesperson verbatim; that wording could not be found in the cited sources, so the direct quote is withdrawn.)
 
 **Approximately 14 months later**, on February 19, 2026, DG Roxbury Property Owner LP sold the property to the U.S. Department of Homeland Security for **$129.3 million** — reported at ~137% over assessed value — for conversion into a 1,500-bed ICE detention facility ([[2026-02--dhs-purchases-goldman-dalfen-roxbury-nj-warehouse]]).
 
