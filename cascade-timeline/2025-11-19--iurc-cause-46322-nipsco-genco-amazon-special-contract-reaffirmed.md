@@ -59,6 +59,8 @@ capture_lanes:
 coverage: []
 ---
 
+> **CORRECTION 2026-10-19 (primary-source check).** No IURC action approving the Amazon contract occurred on November 19, 2025; the 46322 docket shows a November 18, 2025 docket entry giving preliminary confidential treatment, and the press (Utility Dive, November 25, 2025) is the only source in hand for a "reaffirmation". Read the IURC orders themselves: Cause No. 46183 (GenCo jurisdiction, order approved September 24, 2025) and Cause No. 46322 (Amazon special contract and NIPSCO-GenCo PPA; petition filed November 7, 2025; order approved June 17, 2026). See [[2026-06-17--iurc-order-cause-46322-approves-nipsco-genco-amazon-special-contract-ppa-confidential-terms]]. Statements below that place the September 24, 2025 approval, or a "November 19, 2025" reaffirmation, in Cause 46322 are wrong as to the cause number, and the Cause 46322 order did not exist until June 17, 2026. "First in the U.S." and "no comparable structure" are intervenor-testimony characterizations in the 46183 record, not Commission findings. Other body text is unre-checked.
+
 ## Opening
 
 On November 19, 2025, the Indiana Utility Regulatory Commission reaffirmed its September 24, 2025 approval of the NIPSCO GenCo framework in Cause No. 46322 and approved the structure of NIPSCO's 15-year special contract with Amazon Web Services. The same day, NiSource and NIPSCO publicly announced the full terms of the Amazon deal: 2.6 GW of combined-cycle gas generation plus a 400 MW / 1,600 MWh battery energy storage system at the Schahfer Generating Station site, at approximately $7 billion in total capital investment, to serve Amazon's planned multi-billion-dollar data center campuses in northern Indiana.

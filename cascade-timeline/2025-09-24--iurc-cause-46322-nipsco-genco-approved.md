@@ -59,6 +59,8 @@ coverage:
     title: "The Electric Bill: How Texas Consumers Pay for Industrial Capacity"
 ---
 
+> **CORRECTION 2026-10-19 (primary-source check).** This entry describes the Cause 46183 order. Read the IURC orders themselves: Cause No. 46183 (GenCo jurisdiction, order approved September 24, 2025) and Cause No. 46322 (Amazon special contract and NIPSCO-GenCo PPA; petition filed November 7, 2025; order approved June 17, 2026). See [[2026-06-17--iurc-order-cause-46322-approves-nipsco-genco-amazon-special-contract-ppa-confidential-terms]]. Statements below that place the September 24, 2025 approval, or a "November 19, 2025" reaffirmation, in Cause 46322 are wrong as to the cause number, and the Cause 46322 order did not exist until June 17, 2026. "First in the U.S." and "no comparable structure" are intervenor-testimony characterizations in the 46183 record, not Commission findings. Other body text is unre-checked.
+
 ## Opening
 
 On September 24, 2025, the Indiana Utility Regulatory Commission (IURC) approved NiSource subsidiary NIPSCO's petition to create NIPSCO Generation LLC ("GenCo") as a limited-regulation affiliate — the first such entity in the United States authorized to build dedicated generation for hyperscale data center customers outside a regulated utility's standard ratebase. The IURC reaffirmed the decision on November 19, 2025, in IURC Cause No. 46322.
