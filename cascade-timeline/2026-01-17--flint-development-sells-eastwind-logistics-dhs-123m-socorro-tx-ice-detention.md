@@ -36,12 +36,17 @@ sources:
     publisher: Johnson County Post
     date: '2026-02-17'
     tier: 1
+  - title: "ICE's purchases for big detention centers are marked by secrecy, frustrating towns"
+    url: https://www.boston.com/news/national-news/2026/02/22/ices-purchases-for-big-detention-centers-are-marked-by-secrecy-frustrating-towns/
+    publisher: Associated Press (via Boston.com)
+    date: '2026-02-22'
+    tier: 2
 capture_lanes:
   - Military-Industrial Complex
 coverage: []
 ---
 
-El Paso Logistics II LLC — the Delaware entity controlled by Flint Development (Prairie Village, KS) — transferred the Eastwind Logistics Center in Socorro, El Paso County, TX to the U.S. Department of Homeland Security via general warranty deed on January 17, 2026, for **$122.8 million**. The three-building industrial complex (~888,000 sqft total, three reinforced concrete tilt-up warehouses of ~296,000 sqft each, on approximately 60 acres off Gateway Boulevard East) is planned for conversion to an 8,500-bed ICE mega-detention facility — one of the largest in the country.
+El Paso Logistics II LLC — the Delaware entity controlled by Flint Development (Prairie Village, KS) — transferred the Eastwind Logistics Center in Socorro, El Paso County, TX to the U.S. Department of Homeland Security by a general warranty deed that El Paso Matters reports was "executed Jan. 17" (execution date; recording date not read). The Associated Press reported that the deed showed DHS had "inked a $122.8 million deal for the 826,000-square-foot" warehouses; El Paso Matters reported "nearly $123 million… according to newly filed deeds." The deed itself has not been read by us. The complex comprises "three reinforced concrete warehouses of about 296,000 square feet each" according to a CBRE brochure cited by El Paso Matters; reported total square footage therefore varies by source, and which buildings the deed conveys is not confirmed. It sits off Gateway Boulevard East and is planned for conversion to an 8,500-bed ICE mega-detention facility — one of the largest in the country.
 
 ## What Happened / Key Facts
 
@@ -49,7 +54,7 @@ The deed transfer was a WEXMAC-TITUS acquisition — part of DHS's "Detention Re
 
 Flint Development had constructed the Eastwind Logistics Center as a speculative three-building Class A industrial park, with Harvey Cleary Builders as general contractor and Davidson Architecture & Engineering as the architect. ZTEX Construction performed site civil work beginning in 2021. A LinkedIn milestone post from Flint showed slab pours and tilt-panel work progressing toward a Q2 2025 scheduled completion. The property was listed for lease via CBRE with brokers Jacob Quinn and William R. Caparis. It was sold to DHS rather than leased commercially.
 
-The sale price — approximately $138/sqft for Socorro, TX industrial — is consistent with a meaningful market premium, though Flint's land acquisition cost and construction basis are not publicly disclosed. El Paso County deed records would establish the land basis.
+Flint's land acquisition cost has not been established, and El Paso County deed records would establish it. A per-square-foot price is not stated here because the conveyed square footage is not confirmed (see correction below).
 
 Flint Development simultaneously retained the position of master developer for a $3.1 billion AI hyperscale datacenter campus at De Soto, KS — the Beale Infrastructure / Blue Owl Capital project at Flint Commerce Center, approved by De Soto City Council in August 2025 and broken ground April 29, 2026.
 
@@ -69,7 +74,7 @@ Flint had also negotiated an OKC ICE deal (2800 S. Council Road, Oklahoma City) 
 
 ## Research Gaps
 
-- [ ] Flint's land acquisition cost and Harvey Cleary construction cost for Eastwind Logistics Center — requires El Paso County deed records (interactive portal)
+- [ ] Flint's land acquisition cost (prior vesting deed) and the DHS deed's own consideration and legal description: the El Paso County Clerk portal is behind a human-verification check. Owner-declared construction costs are filed with the Texas Department of Licensing and Regulation (TDLR); see internal research note `eastwind-logistics-center-tdlr-declared-construction-cost-and-portal-blockers-2026-10-20`.
 - [ ] FOIA ICE for the revised program of requirements and detainee capacity plans behind the scale-back
 - [ ] Status of adjacent plot off Gateway Boulevard East
 
@@ -81,3 +86,5 @@ Flint had also negotiated an OKC ICE deal (2800 S. Council Road, Oklahoma City) 
 - [[wexmac-titus-comprehensive-seller-census]]
 - [[procurement-overlap-detention-datacenter-matrix]]
 - [[2026-04-29--beale-blue-owl-breaks-ground-de-soto-ks-hyperscale-datacenter-flint-commerce-center]]
+
+**Correction, October 20, 2026.** An earlier version of this entry described the $122.8 million price as stated in a deed and cited only El Paso Matters, which reports "nearly $123 million." The $122.8 million figure comes from the Associated Press's description of the deed, now cited. The earlier version also gave about 888,000 square feet and "approximately $138/sqft." Square footage differs by source: the AP reports 826,000 square feet, and a CBRE brochure gives three buildings of about 296,000 each. Because the conveyed square footage is unconfirmed, the per-square-foot figure has been removed.
