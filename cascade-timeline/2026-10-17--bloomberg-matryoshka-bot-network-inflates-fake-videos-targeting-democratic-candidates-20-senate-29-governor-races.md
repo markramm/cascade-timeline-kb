@@ -116,4 +116,4 @@ The Japan Times reported on Oct 17, 2026 that Russian disinformation operators a
 Both outlets republish Bloomberg's investigation, so this is one investigation reported twice, and Bloomberg's original was not read. It extends the earlier Matryoshka coverage at [[2026-09-11--matryoshka-storm-1679-cnn-branded-celebrity-voice-clone-videos-target-democrats-midterms-ms-now]] to the Senate and governor races.
 
 
-**Correction (2026-10-19):** The '200,000 views in the first hour' line is Bloomberg's own narration in the original feature, not a quote from researchers; Kyiv Post rendered it as a quotation. Bloomberg's full text (via The Age syndication) is now read: see [[2026-10-17--bloomberg-baker-bengani-matryoshka-bots-inflate-view-counts-of-fake-midterm-videos-antibot4navalny-snapshots]].
+**Correction:** The line about first-hour views is Bloomberg's own narration in the original feature, not a quote from researchers; Kyiv Post rendered it as a quotation. Bloomberg's full text (via The Age syndication) is now read: see [[2026-10-17--bloomberg-baker-bengani-matryoshka-bots-inflate-view-counts-of-fake-midterm-videos-antibot4navalny-snapshots]].
