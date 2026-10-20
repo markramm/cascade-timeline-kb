@@ -17,6 +17,11 @@ actors:
   - Homeland Security Investigations
   - U.S. Immigration and Customs Enforcement
 sources:
+  - title: "Alien from Mexico pleads guilty and convicted of voter fraud for falsely claiming to be U.S. citizen"
+    url: https://www.dhs.gov/news/2026/04/22/alien-mexico-pleads-guilty-and-convicted-voter-fraud-falsely-claiming-be-us-citizen
+    publisher: DHS
+    date: '2026-04-22'
+    tier: 1
   - title: "Exclusive: DHS plans to launch voter fraud investigation surge Tuesday"
     url: https://www.cnn.com/2026/08/31/politics/homeland-security-voter-fraud-investigations
     publisher: CNN
@@ -45,6 +50,11 @@ coverage:
   - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
     title: "The Election is a Homeland Security Investigations Case Now."
 corrections:
+- date: '2026-10-20'
+  was: "The 24,000 SAVE referrals ... are confirmed across CNN's original reporting and ABC."
+  now: "The 24,000 figure is from DHS's own April 22, 2026 release, not CNN's Aug 31 story or ABC's story, neither of which contains it; MS NOW (Sept 10) re-quoted DHS."
+  why: "DHS release https://www.dhs.gov/news/2026/04/22/alien-mexico-pleads-guilty-and-convicted-voter-fraud-falsely-claiming-be-us-citizen (page last updated 04/23/2026), CNN Aug 31 and ABC pages read live 2026-10-20"
+  found_by: "Funnel draft reviser (efa6810c); verified by agent:claude-sonnet-5-5-parallel-tick1020a-f"
 - date: '2026-10-08'
   was: "The ratio is the finding ... 250,000 flags have produced 41 charges (title: '41 Charges Against 250,000 Flags')"
   now: "41 charged and 250,000 'potential' noncitizens are different populations from different sources: 41 charged is the outcome of ProPublica's ~25,000-lead pipeline (Jan 2025-May 2026); 250,000 is DHS's preliminary four-state figure"
@@ -62,7 +72,7 @@ Former HSI officials identify the mechanism generating the gap: many flagged ind
 
 What the record shows is a screening system whose flags include derived citizens, being used to justify armed federal investigators conducting field interviews in nine states during a pre-election window. On the record so far, the prior effort's yield was a few dozen charges, and the surge's output is contact. This sits alongside the September ICE/HSI pre-solicitation to acquire voter files nationwide through a private contractor, and the Justice Department's September 10 preservation letters warning state election officials of criminal sanctions — three instruments, one apparatus, all arriving inside the same eight weeks.
 
-**Sourcing note.** The nine states, the surge dates, the directive language, the 24,000 SAVE referrals and the four-state "potential noncitizen" figures are confirmed across CNN's original reporting and ABC. The 41-charges figure is ProPublica's, as reported by MS NOW and in ProPublica's August 25, 2026 reconstruction, covering January 2025 to May 2026 and the lead-to-charge pipeline (about 25,000 leads, fewer than 150 referred, 14 convicted); it is a different population from the 250,000 "potential" noncitizens in four states, and the window ends before this surge began, so it measures the prior effort's yield, not this one's. CNN's own page returns HTTP 451 to automated retrieval; its contents here are taken from syndicated and secondary accounts of the exclusive rather than read directly. Experts quoted across these reports state there is no evidence of widespread noncitizen voting in recent elections.
+**Sourcing note.** The nine states, the surge dates and the directive language are confirmed in CNN's original reporting (Aug 31). The four-state "potential noncitizen" figures (250,000+; 16,000 in Nevada reduced to 185 confirmed) are in CNN's story and DHS's July 17 release. The 24,000 SAVE referrals are not from CNN or ABC: the figure is from DHS's own release of April 22, 2026 ("Since April 2025, more than 24,000 cases have been identified by SAVE as potential non-U.S. citizens who were on voter rolls, and those cases have been referred to ICE's Homeland Security Investigations (HSI) for further investigation"; https://www.dhs.gov/news/2026/04/22/alien-mexico-pleads-guilty-and-convicted-voter-fraud-falsely-claiming-be-us-citizen; page last updated 04/23/2026), which MS NOW (Sept 10) re-quoted from a DHS spokesperson. The 41-charges figure is ProPublica's, as reported by MS NOW and in ProPublica's August 25, 2026 reconstruction, covering January 2025 to May 2026 and the lead-to-charge pipeline (about 25,000 leads, fewer than 150 referred, 14 convicted); it is a different population from the 250,000 "potential" noncitizens in four states, and the window ends before this surge began, so it measures the prior effort's yield, not this one's. CNN's own page returns HTTP 451 to automated retrieval; its contents here are taken from syndicated and secondary accounts of the exclusive rather than read directly. Experts quoted across these reports state there is no evidence of widespread noncitizen voting in recent elections.
 
 Finding not reproduced (2026-10-01 recheck): the state-by-state subpoena breakdown (Georgia ~13, Wisconsin ~15, Washington 2) and the nine-state list are confirmed as written on refetch of MS NOW's reporting, which gives all three counts and all nine states verbatim. CNN remains unreachable (HTTP 451) on retry, consistent with the entry's existing sourcing note.
 
