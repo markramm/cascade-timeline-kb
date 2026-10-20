@@ -5,7 +5,7 @@ date: '2026-09-11'
 title: 'MS NOW reports Matryoshka (Storm-1679) campaign of CNN-branded, voice-cloned celebrity videos urging a vote against Democrats ahead of the 2026 midterms'
 importance: 6
 status: confirmed
-verification: source-verified
+verification: captured
 event_date_claim: m1
 claims:
 - id: m1

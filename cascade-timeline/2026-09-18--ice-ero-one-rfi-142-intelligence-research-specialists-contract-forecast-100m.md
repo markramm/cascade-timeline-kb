@@ -5,7 +5,7 @@ date: '2026-09-18'
 title: ICE Posts ERO ONE RFI for About 142 Contract Intelligence Research Specialists
 importance: 7
 status: confirmed
-verification: source-verified
+verification: captured
 event_date_claim: c1
 claims:
 - id: c1

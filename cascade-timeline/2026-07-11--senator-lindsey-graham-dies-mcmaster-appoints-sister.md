@@ -50,7 +50,7 @@ sources:
     tier: 2
 event_date_claim: c1
 source_published_date: '2026-07-12'
-verification: source-verified
+verification: captured
 claims:
 - id: c1
   type: date

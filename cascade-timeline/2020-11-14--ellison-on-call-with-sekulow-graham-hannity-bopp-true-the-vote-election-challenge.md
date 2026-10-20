@@ -44,7 +44,7 @@ sources:
   date: '2022-05-20'
   tier: 2
 status: reported
-verification: source-verified
+verification: captured
 event_date_claim: c1
 claims:
 - id: c1
