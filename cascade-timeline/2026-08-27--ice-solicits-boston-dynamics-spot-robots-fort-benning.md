@@ -66,3 +66,7 @@ agency's robot fleet.
 
 Open ticket: the corpus already carries a robot-dogs research task filed 2026-08-30, previously
 `blocked` on exactly this distinction (SSN vs. solicitation). **This is the solicitation.**
+
+## Correction, 2026-10-19
+
+This entry's premises did not hold. The 2026-08-27 record was a budget-forecast listing, and the SAM.gov action that followed was a Sources Sought Notice (market research, 2026-08-28), not a solicitation. ICE then awarded a $1,304,296 not-competed purchase order to RADeCO, Inc., a Connecticut Boston Dynamics distributor, not to Boston Dynamics. See [[2026-09-25--ice-awards-radeco-1-3m-sole-source-order-four-cerberus-spot-robots]]. The Fort Benning place of performance and the $1M-$2M range do not appear in the award.
