@@ -100,6 +100,6 @@ The 2015-2016 "Going Dark" debate, 2019-2020 Barr "responsible encryption" campa
 
 ## Related Entries
 
-- [[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]]
+- [[1992-03-06--fbi-announces-digital-telephony-legislation]]
 - [[1993-02-01--zimmermann-pgp-criminal-investigation-crypto-wars]]
 - [[1994-10-25--calea-signed-digital-telephony-surveillance-mandate]]

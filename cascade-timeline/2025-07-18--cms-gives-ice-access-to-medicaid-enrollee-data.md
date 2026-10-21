@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 2025-10-01--cms-shares-medicaid-data-with-ice
+id: 2025-07-18--cms-gives-ice-access-to-medicaid-enrollee-data
+previous_ids:
+  - 2025-10-01--cms-shares-medicaid-data-with-ice
 date: 2025-07-18
 date_is_publication_date: true
 title: "CMS Gives ICE Access to Medicaid Enrollee Data; Court Enjoins DHS Use of 20 States' Data on Administrative Procedure Act Grounds"

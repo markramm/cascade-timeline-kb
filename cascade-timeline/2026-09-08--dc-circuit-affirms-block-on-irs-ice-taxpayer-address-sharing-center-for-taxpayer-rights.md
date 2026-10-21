@@ -36,7 +36,7 @@ sources:
     date: '2026-09-22'
     tier: 1
 related_events:
-  - 2026-02-07--irs-admits-unlawful-taxpayer-data-sharing-dhs
+  - 2026-02-11--irs-declaration-may-have-released-taxpayer-addresses-to-ice
   - 2026-02-26--kollar-kotelly-irs-violated-tax-code-about-42695-times-ice-addresses
 capture_lanes:
   - Surveillance Infrastructure

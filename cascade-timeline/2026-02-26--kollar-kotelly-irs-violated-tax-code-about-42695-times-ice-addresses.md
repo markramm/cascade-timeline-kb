@@ -32,7 +32,7 @@ sources:
     date: '2026-02-11'
     tier: 1
 related_events:
-  - 2026-02-07--irs-admits-unlawful-taxpayer-data-sharing-dhs
+  - 2026-02-11--irs-declaration-may-have-released-taxpayer-addresses-to-ice
   - 2026-09-08--dc-circuit-affirms-block-on-irs-ice-taxpayer-address-sharing-center-for-taxpayer-rights
 capture_lanes:
   - Surveillance Infrastructure
@@ -127,4 +127,4 @@ Judge Colleen Kollar-Kotelly issued an indicative ruling while the case was on a
 
 **Two numbers, two different defects.** The under-5% figure counts defective ICE address fields. The figure of about 42,695 counts disclosures made without the statutory address check at all. They are not interchangeable. The rule here is the tax code's confidentiality provision, not the Privacy Act.
 
-**Ledger class.** ADMITTED, then FOUND. The court's preliminary relief was later affirmed on appeal; see [[2026-09-08--dc-circuit-affirms-block-on-irs-ice-taxpayer-address-sharing-center-for-taxpayer-rights]]. Earlier corpus entry: [[2026-02-07--irs-admits-unlawful-taxpayer-data-sharing-dhs]], dated before the IRS filing.
+**Ledger class.** ADMITTED, then FOUND. The court's preliminary relief was later affirmed on appeal; see [[2026-09-08--dc-circuit-affirms-block-on-irs-ice-taxpayer-address-sharing-center-for-taxpayer-rights]]. Earlier corpus entry: [[2026-02-11--irs-declaration-may-have-released-taxpayer-addresses-to-ice]], dated before the IRS filing.

@@ -112,7 +112,7 @@ As HHS CTO/CIO, Minor has authority over:
 
 ## The Immediately Consequential Outcome
 
-The July 2025 data-sharing agreement between CMS and ICE — giving ICE access to the personal data of 79 million Medicaid enrollees ([[2025-10-01--cms-shares-medicaid-data-with-ice]]) — was executed during Minor's tenure as HHS CTO/CIO. The agreement was the technical-operational foundation for Palantir's ELITE targeting tool (documented in [[2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance]] and exposed publicly by EFF on January 15, 2026). The data flows from HHS (Minor's portfolio) → Palantir's ELITE platform (Minor's former employer) → ICE targeting operations.
+The July 2025 data-sharing agreement between CMS and ICE — giving ICE access to the personal data of 79 million Medicaid enrollees ([[2025-07-18--cms-gives-ice-access-to-medicaid-enrollee-data]]) — was executed during Minor's tenure as HHS CTO/CIO. The agreement was the technical-operational foundation for Palantir's ELITE targeting tool (documented in [[2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance]] and exposed publicly by EFF on January 15, 2026). The data flows from HHS (Minor's portfolio) → Palantir's ELITE platform (Minor's former employer) → ICE targeting operations.
 
 Minor was in a position to shape the technical implementation and data-flow architecture of a pipeline that ultimately connected his former employer to his agency's most sensitive protected-population data.
 
@@ -133,7 +133,7 @@ The Revolving Door Project, which tracks revolving-door appointments across admi
 
 ## Related Entries
 
-- [[2025-10-01--cms-shares-medicaid-data-with-ice]] — the data-sharing agreement executed during Minor's tenure
+- [[2025-07-18--cms-gives-ice-access-to-medicaid-enrollee-data]] — the data-sharing agreement executed during Minor's tenure
 - [[2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance]] — ELITE tool deployment using HHS data
 - [[2026-04-23--144-trump-appointees-palantir-disclosures]] — the broader personnel-capture pattern
 - [[2026-04-18--palantir-22-point-manifesto-published]] — ideological production layer

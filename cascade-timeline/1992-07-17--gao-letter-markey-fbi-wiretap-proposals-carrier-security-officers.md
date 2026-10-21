@@ -20,7 +20,7 @@ tags:
   - surveillance-infrastructure
 related:
   - 1992-03-18--barr-sessions-meeting-carrier-executives-fbi-digital-telephony
-  - 1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push
+  - 1992-03-06--fbi-announces-digital-telephony-legislation
 sources:
   - url: https://archive.org/download/digitaltelephony00wash/digitaltelephony00wash_djvu.txt
     title: "Digital Telephony and Law Enforcement Access to Advanced Telecommunications Technologies and Services: Joint Hearings, 103d Cong., 2d Sess., S. Hrg. 103-1022 (Mar. 18 and Aug. 11, 1994), reprinting GAO letter B-249358 to Rep. Edward J. Markey, July 17, 1992, pp. 217-219"

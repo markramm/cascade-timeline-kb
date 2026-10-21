@@ -48,7 +48,7 @@ coverage: []
 
 ## Opening
 
-President Clinton signs the Communications Assistance for Law Enforcement Act (CALEA) on October 25, 1994, Public Law 103-414. The statute requires telecommunications carriers to engineer their networks so law enforcement can execute court-ordered wiretaps and pen registers on demand — on any subscriber, any service, any time, without detectable modification, without requiring advance carrier engineering assistance, and without adding infrastructure beyond the routine compliance capability. CALEA represents the culmination of FBI Director Louis Freeh's two-year legislative campaign ([[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]]) and becomes the single most important US law regulating the architecture of telecommunications networks for the next three decades. CALEA's design-in mandate is the infrastructure precondition for every subsequent NSA and FBI domestic surveillance capability.
+President Clinton signs the Communications Assistance for Law Enforcement Act (CALEA) on October 25, 1994, Public Law 103-414. The statute requires telecommunications carriers to engineer their networks so law enforcement can execute court-ordered wiretaps and pen registers on demand — on any subscriber, any service, any time, without detectable modification, without requiring advance carrier engineering assistance, and without adding infrastructure beyond the routine compliance capability. CALEA represents the culmination of FBI Director Louis Freeh's two-year legislative campaign ([[1992-03-06--fbi-announces-digital-telephony-legislation]]) and becomes the single most important US law regulating the architecture of telecommunications networks for the next three decades. CALEA's design-in mandate is the infrastructure precondition for every subsequent NSA and FBI domestic surveillance capability.
 
 ## What Happened / Key Facts
 
@@ -103,6 +103,6 @@ CALEA is also the template for subsequent surveillance-by-design proposals: Clie
 - [[1968-06-19--title-iii-wiretap-act-omnibus-crime]]
 - [[1978-10-25--foreign-intelligence-surveillance-act-signed]]
 - [[1986-10-21--electronic-communications-privacy-act-ecpa]]
-- [[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]]
+- [[1992-03-06--fbi-announces-digital-telephony-legislation]]
 - [[1993-04-16--clipper-chip-announced-nsa-key-escrow-backdoor]]
 - [[1997-10-01--fbi-carnivore-dcs1000-development-begins]]

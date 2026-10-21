@@ -94,6 +94,6 @@ The Karp-Wyden letter is referenced repeatedly in subsequent reporting — parti
 - [[hhs-palantir-cluster]]
 - [[palantir]]
 - [[2025-06-01--palantir-ice-surveillance-system]]
-- [[2025-10-01--cms-shares-medicaid-data-with-ice]]
+- [[2025-07-18--cms-gives-ice-access-to-medicaid-enrollee-data]]
 - [[2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance]]
 - [[2026-04-23--144-trump-appointees-palantir-disclosures]]

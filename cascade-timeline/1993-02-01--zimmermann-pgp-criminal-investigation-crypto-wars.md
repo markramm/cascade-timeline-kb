@@ -98,6 +98,6 @@ The 2021-present debates over E2E-encryption legislation in the UK (Online Safet
 
 ## Related Entries
 
-- [[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]]
+- [[1992-03-06--fbi-announces-digital-telephony-legislation]]
 - [[1993-04-16--clipper-chip-announced-nsa-key-escrow-backdoor]]
 - [[1996-01-11--zimmermann-pgp-investigation-dropped-crypto-wars-inflection]]

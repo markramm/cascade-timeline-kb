@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push
+id: 1992-03-06--fbi-announces-digital-telephony-legislation
+previous_ids:
+  - 1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push
 date: '1992-03-06'
 title: "FBI Announces Digital Telephony Legislation"
 importance: 7

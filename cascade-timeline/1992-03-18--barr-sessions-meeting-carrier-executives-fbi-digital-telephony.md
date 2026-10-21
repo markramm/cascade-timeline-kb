@@ -20,7 +20,7 @@ tags:
   - calea-predecessor
   - surveillance-infrastructure
 related:
-  - 1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push
+  - 1992-03-06--fbi-announces-digital-telephony-legislation
   - 1986-01-30--house-ecpa-hearing-carriers-describe-limits-of-wiretap-assistance
   - 1994-10-25--calea-signed-digital-telephony-surveillance-mandate
 sources:
@@ -56,6 +56,6 @@ coverage: []
 
 ## Research Gaps
 
-- [ ] The existing entry [[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]] needs checking against this record; see the task file for the specific discrepancies.
+- [ ] The existing entry [[1992-03-06--fbi-announces-digital-telephony-legislation]] needs checking against this record; see the task file for the specific discrepancies.
 - [ ] Whether any 1992 congressional hearing on the proposal was held is unconfirmed; a Congressional Record or committee-calendar check would settle it.
 - [ ] No carrier's own account of the March 18, 1992 meeting was found.

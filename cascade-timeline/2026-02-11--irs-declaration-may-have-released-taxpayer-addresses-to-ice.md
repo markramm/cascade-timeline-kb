@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 2026-02-07--irs-admits-unlawful-taxpayer-data-sharing-dhs
+id: 2026-02-11--irs-declaration-may-have-released-taxpayer-addresses-to-ice
+previous_ids:
+  - 2026-02-07--irs-admits-unlawful-taxpayer-data-sharing-dhs
 date: 2026-02-11
 status: reported
 verification: source-verified

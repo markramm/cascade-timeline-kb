@@ -91,7 +91,7 @@ The 1994 Blaze episode also illustrates a specific feature of 1990s communicatio
 
 ## Related Entries
 
-- [[1992-03-01--fbi-digital-telephony-initiative-wiretap-mandate-push]]
+- [[1992-03-06--fbi-announces-digital-telephony-legislation]]
 - [[1993-02-01--zimmermann-pgp-criminal-investigation-crypto-wars]]
 - [[1993-04-16--clipper-chip-announced-nsa-key-escrow-backdoor]]
 - [[1994-10-25--calea-signed-digital-telephony-surveillance-mandate]]
