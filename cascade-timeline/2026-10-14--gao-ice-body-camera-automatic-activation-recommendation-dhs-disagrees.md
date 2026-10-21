@@ -107,6 +107,11 @@ sources:
   verified: true
   tier: 1
 tags: [ice, cbp, body-cameras, gao, accountability]
+coverage:
+- title: ICE rejects suggestion that its officers wear body cameras that automatically activate
+  url: https://www.boston.com/news/politics/2026/10/14/ice-rejects-suggestion-that-its-officers-wear-body-cameras-that-automatically-activate/
+  outlet: Associated Press via Boston.com
+  date: '2026-10-14'
 capture_lanes:
 - Immigration Enforcement
 - Accountability
