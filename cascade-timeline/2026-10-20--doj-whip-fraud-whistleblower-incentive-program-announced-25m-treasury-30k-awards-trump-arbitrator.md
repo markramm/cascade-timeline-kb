@@ -269,6 +269,9 @@ sources:
     publisher: Fox News
     date: '2026-04-03'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
+    title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
 ---
 
 Date: Tuesday, Oct. 20, 2026 (the day of the press release and the Oval Office event). In that press release the Justice Department and its National Fraud Enforcement Division "announced the creation of the Fraud Whistleblower Incentive Program (WHIP)." It calls WHIP "the first ever whistleblower rewards program that pays an up-front award for tips leading to criminal charges." Trump and Vance presented it the same day at an Oval Office event.

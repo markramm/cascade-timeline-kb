@@ -78,6 +78,9 @@ sources:
     publisher: Federal Register
     date: '2026-06-17'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
+    title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
 ---
 
 Date: the Federal Register publication date, 06/17/2026, not the date the Fraud.gov form opened to the public. Treasury "proposes to establish a new system of records titled" Federal Program Waste, Fraud, and Abuse Tip Intake and Referral Records. "This new system will be effective upon publication."

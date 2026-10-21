@@ -238,6 +238,9 @@ sources:
   publisher: CNBC Television
   date: '2026-09-29'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
+    title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
 ---
 
 **Date kind.** Sept. 29 is the event date and the site's go-live date: Fox News says America.gov "launched Sept. 29" and the White House fact sheet of that day says the President launched it. The orders signed that day were published in the Federal Register later (see the linked order entries).

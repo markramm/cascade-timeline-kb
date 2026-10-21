@@ -213,6 +213,9 @@ sources:
   publisher: Federal Register
   date: '2026-10-02'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
+    title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
 ---
 
 **Date kind.** Signing date is September 29, 2026, the day of the America.gov launch ([[2026-09-29--national-design-studio-hello-america-event-launches-america-gov-trump-names-coristine-lead-engineer-thanks-arnell-musk]]). The Federal Register published it at 91 FR 63121 (document 2026-20319) as Executive Order 14432.

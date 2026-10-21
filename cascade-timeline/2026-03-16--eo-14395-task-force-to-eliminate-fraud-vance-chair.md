@@ -82,7 +82,9 @@ capture_lanes:
   - Loyalty Enforcement
 relocated_lanes:
   - State Resistance
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
+    title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
 corrections:
 - date: '2026-10-08'
   was: "1. **Proactive funding pause authority.** The Task Force is authorized to coordinate agency action \"to determine when ongoing fraud or potential fraud require proactively pausing certain types of funding\""
