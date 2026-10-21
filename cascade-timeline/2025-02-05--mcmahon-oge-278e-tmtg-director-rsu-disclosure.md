@@ -241,7 +241,7 @@ The McMahon variant is structurally the **cleanest "paid director" case** — a 
 - [[epic-inv4-trump-family-gulf-capital]] — parent investigation
 - [[investigation-map-april-2026]] — the four-investigation map
 
-**Conductor verification of the negative, 2026-08-28.** A "no filing exists" claim is a
+**Editorial verification of the negative, 2026-08-28.** A "no filing exists" claim is a
 strong one, so McMahon's **complete** EDGAR filing history was re-pulled directly
 (`data.sec.gov/submissions/CIK0001593763.json`, reporting person "McMahon Linda E."). It
 returns **9 filings total with no paginated overflow** (`files: []`), so this is the whole

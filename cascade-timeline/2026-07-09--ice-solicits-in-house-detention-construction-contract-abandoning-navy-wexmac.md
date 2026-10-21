@@ -39,7 +39,7 @@ corrections:
   was: ICE awarded GardaWorld $17.3 million for the San Antonio warehouse conversion through WEXMAC/TITUS on August 27
   now: The $17.3 million (exactly $17,333,698.50) was the first-day obligation on the Aug. 27, 2026 delivery order. A Sept. 29, 2026 modification (P00001) added $44,495,339.04, for $61,829,037.54 total obligated as of the 2026-10-20 re-fetch; the potential value (base and all options, a ceiling) is $1,008,135,768.12.
   why: USAspending award CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700 (api.usaspending.gov v2 awards and transactions endpoints, re-fetched 2026-10-20); research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13
-  found_by: correction pass 2026-10-20 (agent:claude-sonnet-5-5-parallel-tick1020c-d)
+  found_by: "editorial verification, 2026-10-20"
 ---
 
 ICE posted a pre-solicitation on SAM.gov on July 9, 2026 for a single-award construction contract covering new construction and renovation at ICE-owned Service Processing Centers — the warehouse-conversion facilities of the Detention Reengineering Initiative. The replacement vehicle carries a $10 billion maximum ordering limit over five years and requires $300 million in minimum bonding from bidders, with a formal request for bids to follow by July 17 and award expected by the end of September 2026, the close of the fiscal year. The move follows Senators Elizabeth Warren and Jeanne Shaheen pressing the Pentagon to end the arrangement under which DHS was buying and retrofitting detention facilities through the Navy's WEXMAC/TITUS vehicle, and ICE Director Markwayne Mullin's statement that ICE was no longer using the Navy contract for detention services.

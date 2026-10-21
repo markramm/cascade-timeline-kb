@@ -141,12 +141,12 @@ corrections:
   was: ruled that the Trump administration's mandatory ICE detention policy ... violates statute and due process protections
   now: The Second Circuit held that 8 U.S.C. 1225(b)(2)(A) does not apply to noncitizens who entered without inspection and were not apprehended at or near the border; the holding is statutory, with constitutional avoidance as an additional ground, and no standalone due-process holding.
   why: Barbosa da Cunha v. Freden, No. 25-3141 (2d Cir. Apr. 28, 2026), 175 F.4th 61, as reproduced in the petition for certiorari in No. 26-104 (App. A) and described at p. 13 of that petition.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the Fifth Circuit, which on April 25 expanded ICE no-bond detention authority and limited habeas review
   now: The April 25 date is cut because no document read establishes it. The Fifth Circuit decision on the statutory question is Buenrostro-Mendez v. Bondi, filed Feb. 6, 2026, holding the government's position correct.
   why: Buenrostro-Mendez v. Bondi, No. 25-20496 (5th Cir. Feb. 6, 2026), https://www.ca5.uscourts.gov/opinions/pub/25/25-20496-CV0.pdf
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 On April 28, 2026, the Second Circuit Court of Appeals held in *Barbosa da Cunha v. Freden*, No. 25-3141, that 8 U.S.C. 1225(b)(2)(A), the provision the administration relies on for mandatory detention without a bond hearing, does not apply to noncitizens who are present in the United States after entering without inspection and admission and who were not apprehended at or near the border at the time of entry. The holding is statutory. The court added that it would reach the same conclusion under the doctrine of constitutional avoidance.

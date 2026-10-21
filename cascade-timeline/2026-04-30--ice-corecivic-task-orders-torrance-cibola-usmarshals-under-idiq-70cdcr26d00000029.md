@@ -36,7 +36,7 @@ sources:
     date: '2026-10-16'
     tier: 1
 verification: captured
-verification_note: 'Conductor QC 2026-10-19: written after 2026-10-01 without claims (structured USAspending/docket data the claim gate cannot span-bind), so captured/reported, not confirmed. Figures are from the worker read of the primary record; rebind when the gate supports JSON or docket sources.'
+verification_note: 'Editorial QC 2026-10-19: written after 2026-10-01 without claims (structured USAspending/docket data the claim gate cannot span-bind), so captured/reported, not confirmed. Figures are from the worker read of the primary record; rebind when the gate supports JSON or docket sources.'
 ---
 
 The CoreCivic IDIQ covering Torrance and Cibola was signed April 30, 2026 (USAspending `date_signed` field on the IDV and on each order). USAspending shows the money moving through three delivery orders written against it, not through the IDIQ itself.

@@ -72,7 +72,7 @@ corrections:
   was: "USPS published its proposed implementing rule the next day (May 29, 2026) at Federal Register docket 2026-10968,"
   now: "USPS filed its proposed implementing rule the next day (May 29, 2026; published in the Federal Register June 2, 2026, 91 FR 32915) at docket 2026-10968,"
   why: "https://www.govinfo.gov/content/pkg/FR-2026-06-02/pdf/2026-10968.pdf - Federal Register Vol. 91, No. 105, Tuesday, June 2, 2026, Proposed Rules, p. 32915 (Ballot Mail for Federal Elections, 39 CFR Part 111); end of document: \"[FR Doc. 2026-10968 Filed 5-29-26; 12:15 pm]\""
-  found_by: "election tick 2026-10-10"
+  found_by: "editorial verification, 2026-10-10"
 ---
 
 ## What happened

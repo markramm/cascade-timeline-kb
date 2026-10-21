@@ -72,7 +72,7 @@ The structural pattern: Eduardo used the CPAC Brasil/ICL institutional network h
 
 ## Broader Context
 
-- The FARA database at efile.fara.gov is an interactive-search-only system; no API or bulk download is available. Worker B (tick4-b) flagged this access barrier. This investigation's FARA findings are therefore limited to what secondary sources document about non-registration, not a confirmed absence of a filing via direct database search.
+- The FARA database at efile.fara.gov is an interactive-search-only system; no API or bulk download is available. Research flagged this access barrier. This investigation's FARA findings are therefore limited to what secondary sources document about non-registration, not a confirmed absence of a filing via direct database search.
 - Flávio Bolsonaro (Jair's eldest son, Brazilian Senator) spoke at **CPAC USA 2026** in Grapevine, Texas (March 25-28, 2026), using the CPAC platform to demand US pressure on Brazil's 2026 elections. Whether Flávio registered as a foreign agent for this appearance is not documented in available sources.
 - **CPAC Brasil 2024** (Balneário Camboriú, SC, July 6-7, 2024) was organized by ICL, co-sponsored by the **American Conservative Union (ACU)**, with **PL (Partido Liberal)** providing R$250,000 to ICL from the Brazilian party fund (paid July 2024, per TSE filings). CPAC Brasil 2025 was announced for Manaus, ahead of COP30.
 

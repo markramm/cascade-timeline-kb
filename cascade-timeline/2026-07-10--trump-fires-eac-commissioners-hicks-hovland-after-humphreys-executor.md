@@ -18,7 +18,7 @@ corrections:
   was: "Title and body: Trump fired \"the two remaining Democratic members\" on July 10, 2026, \"nine days after\" the Supreme Court's ruling (\"a nine-day turnaround\"); the Update said McCormick \"resigned in the same window\"."
   now: "The firing was July 9, 2026, ten days after the June 29 ruling: Democrats Thomas Hicks and Benjamin Hovland were fired by email, and Republican Christy McCormick was allowed to resign. The entry's date field and id keep July 10 so links do not break."
   why: "Votebeat, 2026-07-09 (\"fired all three remaining members ... on Thursday\"; McCormick \"was allowed to resign\"): https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/ ; Roll Call, 2026-07-10, headline \"After Thursday night firings, election commission has no members\": https://rollcall.com/2026/07/10/after-thursday-night-firings-election-commission-has-no-members/ ; June 29 to July 9 is ten days."
-  found_by: "the fact-check of the draft 'The Agency That Can't Answer the Phone' (tcp-kb-internal drafts/fact-checks/the-agency-that-cant-answer-the-phone--fact-check-2026-10-14), rows 1, 2, 10, 27"
+  found_by: "editorial verification"
 sources:
   - title: "Trump guts independent elections board ahead of the midterms"
     url: https://www.washingtonpost.com/politics/2026/07/10/trump-guts-independent-elections-board-ahead-midterms/

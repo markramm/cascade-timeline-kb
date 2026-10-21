@@ -209,27 +209,27 @@ corrections:
   was: 'Title: State Department Data Shows 10,255 of 10,258 FY2026 Refugee Admissions Were South Africans — 99.97% Under EO 14204'
   now: The title attributes the 10,255-of-10,258 count to Kocher's digest and says the State Department tables record nationality; it drops '99.97% Under EO 14204'.
   why: 'Refugee Processing Center tables (Refugee Admissions Report and Refugee Arrivals by State and Nationality as of Sept. 30, 2026, rpc.state.gov: FY2026 total 16,292, South Africa 16,287, Afghanistan 5; the tables are PDF/xlsx the gate cannot read, so these totals are in this note only); PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov'
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: admitted as Afrikaners under Executive Order 14204
   now: 'The State Department tables break admissions down by nationality (country of chargeability and primary applicant nationality) and carry no ethnicity field; the entry now says admissions of South African nationals. Full FY2026 (final table, Sept. 30, 2026): 16,292 admitted, 16,287 from South Africa, 5 from Afghanistan; the 10,255-of-10,258 figure is cumulative through July 31 only.'
   why: 'Refugee Processing Center tables (Refugee Admissions Report and Refugee Arrivals by State and Nationality as of Sept. 30, 2026, rpc.state.gov: FY2026 total 16,292, South Africa 16,287, Afghanistan 5; the tables are PDF/xlsx the gate cannot read, so these totals are in this note only); PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov'
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The FY2026 ceiling was set in October 2025 at 7,500, the lowest in the history of the program, with nearly the entire allocation effectively reserved for South Africans
   now: PD 2025-13 states admissions of up to 7,500 and that the numbers 'shall primarily be allocated among Afrikaners from South Africa pursuant to Executive Order 14204, and other victims of illegal or unjust discrimination in their respective homelands'; 'primarily' with an 'other victims' clause is not 'nearly the entire allocation'. 'Lowest in the history of the program' is Kocher's claim and is cut.
   why: 'Refugee Processing Center tables (Refugee Admissions Report and Refugee Arrivals by State and Nationality as of Sept. 30, 2026, rpc.state.gov: FY2026 total 16,292, South Africa 16,287, Afghanistan 5; the tables are PDF/xlsx the gate cannot read, so these totals are in this note only); PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov'
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: an emergency presidential determination in May 2026 added 10,000 slots and raised the ceiling to 17,500
   now: '''Added 10,000 slots'' is arithmetic (17,500 minus 7,500), not text from PD 2026-14. The entry states the two ceilings as the documents do: PD 2025-13 ''up to 7,500''; PD 2026-14 ''an increase in the ceiling to 17,500 is warranted'' with the additional admissions allocated among Afrikaners from South Africa.'
   why: 'Refugee Processing Center tables (Refugee Admissions Report and Refugee Arrivals by State and Nationality as of Sept. 30, 2026, rpc.state.gov: FY2026 total 16,292, South Africa 16,287, Afghanistan 5; the tables are PDF/xlsx the gate cannot read, so these totals are in this note only); PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov'
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Cut: the mechanism essay, ''substitution of a single nationality for the program itself'', the entry-ban comparison, the ''independently confirmed on 2026-09-20'' verification note, IRAP and embassy-page statements'
   now: Cut because no fetched document binds them; the claims block is now the sourcing record.
   why: 'Refugee Processing Center tables (Refugee Admissions Report and Refugee Arrivals by State and Nationality as of Sept. 30, 2026, rpc.state.gov: FY2026 total 16,292, South Africa 16,287, Afghanistan 5; the tables are PDF/xlsx the gate cannot read, so these totals are in this note only); PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov'
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 verification: source-verified
 ---
 

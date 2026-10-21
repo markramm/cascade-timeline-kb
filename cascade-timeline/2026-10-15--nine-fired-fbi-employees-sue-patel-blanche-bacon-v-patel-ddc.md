@@ -187,7 +187,7 @@ coverage:
 - url: https://theramm.transparencycascade.org/p/the-fbi-purge-complaint-in-de-fired
   title: "The FBI Purge Complaint in Detail: Fired for the work"
 - daily-capture-reports/headline/2026-10-15--fbi-nine-plasmic-echo-agents-sue-patel-political-retribution.md
-gate_note: 'Conductor 2026-10-15: complaint paragraph pairing. The rebuttal to Patel''s Mar 19 House Intelligence answer is ¶148; the end of ¶153 rebuts his Sept 15 Senate Judiciary testimony. Do not pair the House quote with the ¶153 rebuttal. Patel''s words are the complaint''s allegation (transcript unread).'
+gate_note: 'Editorial note 2026-10-15: complaint paragraph pairing. The rebuttal to Patel''s Mar 19 House Intelligence answer is ¶148; the end of ¶153 rebuts his Sept 15 Senate Judiciary testimony. Do not pair the House quote with the ¶153 rebuttal. Patel''s words are the complaint''s allegation (transcript unread).'
 ---
 
 Complaint filed 10/15/26 in the U.S. District Court for the District of Columbia, Bacon v. Patel, No. 1:26-cv-03604, against FBI Director Kash Patel, Attorney General Todd Blanche, the FBI and the Department of Justice. Caption plaintiffs: JENNIFER BACON; ZACH FELDMAN; GILBERT GRANADOS; CATHERINE HERRERA; HARRISON KAUFMAN; JEREMY LINTON; ERIN MATANIC; DANIELLE RAY; and RACHEL VACCARO, all named. These are the plaintiffs’ allegations; the court has made no ruling.

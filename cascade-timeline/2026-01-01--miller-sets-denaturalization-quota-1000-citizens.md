@@ -24,7 +24,7 @@ corrections:
   was: "Body: 'Stephen Miller directed USCIS field offices ...'; a Miller quote ('turbocharged'); 'every inconsistency, no matter how small or unintentional'; 'Targets mentioned include Rep. Ilhan Omar (D-Minn.) and NYC Mayor Zohran Mamdani'; actors Stephen Miller, Ilhan Omar, Zohran Mamdani; tag stephen-miller"
   now: "The directive is attributed to USCIS guidance as the New York Times reported it (via Truthout); the Miller attribution, the Miller quote, the 'every inconsistency' phrase and the Omar and Mamdani lines are removed, with those actors and the tag. The entry id still contains 'miller' and is left unchanged so links resolve."
   why: "Both sources re-read 2026-10-14 (truthout.org, Dec 18, 2025; nationofchange.org, Dec 19, 2025): neither contains 'Omar' or 'Mamdani'; neither contains 'turbocharged' or 'every inconsistency'; Truthout names Miller only in a photo caption and says 'New guidance issued on Tuesday directs the U.S. Citizenship and Immigration Services (USCIS) field offices to \"supply Office of Immigration Litigation with 100-200 denaturalization cases per month\" next year, according to The New York Times.'"
-  found_by: "Omar draft fact-check (tcp-kb-internal drafts/drafts/omar-search-no-60-day-rule-pin-approval.md, for_mark 'Cut / not used'); fixed on Mark's instruction 2026-10-14"
+  found_by: "editorial verification"
 type: timeline_event
 actors:
 - U.S. Citizenship and Immigration Services

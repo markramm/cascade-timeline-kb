@@ -110,22 +110,22 @@ corrections:
   was: 'Title: "SDNY Strikes Down ICE''s Immigration Court Arrest Policy as \"Arbitrary and Capricious\" in African Communities Together v. Lyons"; "striking down one of the Trump administration''s policies"'
   now: The judgment, declaring the 2025 ICE Courthouse Arrest Policy arbitrary and capricious and vacating and setting aside the January 2025 and May 2025 guidance to the extent they purport to rescind the April 2021 Guidance as applied to civil enforcement actions in or near immigration courts.
   why: 'Judgment, ECF 111, No. 1:25-cv-06366-PKC (S.D.N.Y. Sept. 30, 2026): https://storage.courtlistener.com/recap/gov.uscourts.nysd.646893/gov.uscourts.nysd.646893.111.0.pdf'
-  found_by: correction pass 2026-10-13 (research note sdny-ice-courthouse-arrest-ruling-what-the-opinion-holds-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"African Communities Together and The Door v. Todd Lyons"'
   now: The case is African Communities Together and The Door v. Venturella et al., No. 1:25-cv-06366-PKC, per the Sept. 30, 2026 judgment's caption.
   why: https://storage.courtlistener.com/recap/gov.uscourts.nysd.646893/gov.uscourts.nysd.646893.111.0.pdf
-  found_by: correction pass 2026-10-13 (research note sdny-ice-courthouse-arrest-ruling-what-the-opinion-holds-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The entry treated Oct. 1, 2026 as the date of the ruling.
   now: The Opinion and Order and the judgment are dated Sept. 30, 2026; the file keeps its Oct. 1 date because that is the date of the ACLU press release.
   why: https://storage.courtlistener.com/recap/gov.uscourts.nysd.646893/gov.uscourts.nysd.646893.111.0.pdf
-  found_by: correction pass 2026-10-13 (research note sdny-ice-courthouse-arrest-ruling-what-the-opinion-holds-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"The ACLU says that in March the government admitted that a 2025 memorandum ... ''does not and has never authorized any immigration courthouse arrests''" (an ACLU paraphrase in quotation marks)'
   now: 'The quotation is the government''s own letter: the May 27, 2025 memorandum "does not and has never applied to civil immigration enforcement actions in or near" immigration courts.'
   why: 'Government letter, ECF 77 (Mar. 24, 2026): https://storage.courtlistener.com/recap/gov.uscourts.nysd.646893/gov.uscourts.nysd.646893.77.0.pdf'
-  found_by: correction pass 2026-10-13 (research note sdny-ice-courthouse-arrest-ruling-what-the-opinion-holds-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 The Southern District of New York entered judgment in African Communities Together and The Door v. Venturella et al., No. 1:25-cv-06366-PKC, declaring the 2025 ICE Courthouse Arrest Policy arbitrary and capricious, and vacating and setting aside the January 2025 Interim Guidance and the May 2025 Final Guidance to the extent they purport to rescind the April 2021 Guidance as applied to civil enforcement actions in or near immigration courts. The judgment refers to the Court's Opinion and Order dated September 30, 2026. The ACLU press release on the ruling is dated October 1, 2026, which is the date this entry carries.

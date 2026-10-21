@@ -55,7 +55,7 @@ The ruling allowed the underlying claim against Doha Bank to proceed to further 
 
 2. **Procedural effect on the BB v Doha Bank proceeding** — The ruling kept the claim alive through 2023 and into the subsequent claimant-expansion phase (~330 additional claimants joined in a parallel filing). The case ultimately ended in January 2026 on procedural-dismissal grounds rather than on state-immunity or merits grounds (see [[2026-01-05--bb-v-doha-bank-dismissed-failure-to-prosecute]]).
 
-3. **Structural framing** — The Court of Appeal's analysis placed Doha Bank in what the cascade-research [[qatar-five-investigation-node]] framework describes as "sub-node C" — state-adjacent private capital, distinct from sovereign-fund and state-ministerial sub-nodes.
+3. **Structural framing** — The Court of Appeal's analysis placed Doha Bank in what the Qatar five-investigation-node framework describes as "sub-node C" — state-adjacent private capital, distinct from sovereign-fund and state-ministerial sub-nodes.
 
 ## Related Entries
 

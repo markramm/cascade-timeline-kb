@@ -51,4 +51,4 @@ Allegations are the plaintiffs'. No defendant response or ruling exists as of th
 
 **Counsel** (Doc. 1 pp. 38-39): Democracy Defenders Fund (including Norman L. Eisen), ACLU of the District of Columbia, Roger Baldwin Foundation of ACLU (Illinois), Willkie Farr & Gallagher, and Matthew J. Platkin.
 
-Detail on the seven plaintiffs, the cited contempt cases and the two ICE directives: [[gonzalez-v-dhs-ice-property-return-class-action-complaint-reading-and-directives-2026-10]] (cascade-research). Related earlier entries: [[2026-03-03--judge-bryan-contempt-hearing-ice-property-us-attorney-rosen]], [[2026-03-05--second-minnesota-judge-threatens-contempt-ice-property]], [[2026-03-06--tunheim-orders-ice-replace-eads-free-and-pay-ftca-claims-jbco-v-bondi]].
+Related earlier entries: [[2026-03-03--judge-bryan-contempt-hearing-ice-property-us-attorney-rosen]], [[2026-03-05--second-minnesota-judge-threatens-contempt-ice-property]], [[2026-03-06--tunheim-orders-ice-replace-eads-free-and-pay-ftca-claims-jbco-v-bondi]].

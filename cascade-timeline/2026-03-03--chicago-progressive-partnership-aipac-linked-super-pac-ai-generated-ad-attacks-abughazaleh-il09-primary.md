@@ -82,7 +82,7 @@ This is the **mirror specimen** to the May 7 2026 [[2026-05-07--ashley-st-clair-
 ## Cross-References
 
 - [[2026-05-07--ashley-st-clair-exposes-tpusa-influencer-fight-fight-fight-marching-orders]] — Trump-admin / Fight Fight Fight mirror specimen
-- The AIPAC institutional thread (existing cascade-research entries on AIPAC's broader 2024-2026 cycle activity)
+- The AIPAC institutional thread (existing entries on AIPAC's broader 2024-2026 cycle activity)
 - The "viral-outrage infrastructure" framing — applies cross-partisan
 - NJ-11 special-election precedent (referenced by Abughazaleh; likely warrants its own timeline event if not already documented)
 - Demographic-targeting paid-influence pattern — paid-influence-operation as cross-investigation theme candidate
@@ -98,7 +98,7 @@ This is the **mirror specimen** to the May 7 2026 [[2026-05-07--ashley-st-clair-
 
 ## Why This Matters
 
-The cascade-research thread emerging from the May 7 St. Clair disclosure (`research-fight-fight-fight-influencer-coordination-architecture-st-clair-disclosures-2026-05-07`) was originally framed as Trump-admin-specific paid-influence-operation. The CPP/Abughazaleh case establishes that the **operational architecture** — opaque funding source + AI-or-influencer-mediated content production + narrow demographic targeting + disclosure-architecture designed to obscure source — is **bipartisan in deployment**.
+The thread emerging from the May 7 St. Clair disclosure was originally framed as Trump-admin-specific paid-influence-operation. The CPP/Abughazaleh case establishes that the **operational architecture** — opaque funding source + AI-or-influencer-mediated content production + narrow demographic targeting + disclosure-architecture designed to obscure source — is **bipartisan in deployment**.
 
 This forces the structural reframe: the paid-influence-operation is not a feature of one administration's information warfare. It is a feature of how money buys speech under the current FEC disclosure regime, and the architecture is available to any sufficiently-funded organized interest.
 

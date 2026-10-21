@@ -57,12 +57,12 @@ corrections:
   was: "The ground the majority chose is the whole story. ... Kavanaugh's opinion does not say USPS lacks the authority ...; it says USPS cannot impose it *this late*. That distinction leaves the rules available for a future cycle ... premature then, too late now, with the substance untouched in both directions."
   now: "The unsigned order and Kavanaugh's concurrence rest on different grounds. Only Kavanaugh's concurrence rests on timing. The unsigned order says: \"The Government is unlikely to succeed on the merits of its challenge to the District Court's preliminary injunction. And the equitable factors applicable for obtaining emergency relief from this Court do not favor a stay.\""
   why: "https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf - USPS v. California, No. 26A305, order of Sept. 14, 2026, p.1 (per curiam text above the Kavanaugh concurrence); Kavanaugh concurrence p.1: \"at least a fair prospect that the final rule falls within the Postal Service's statutory authority\" but applying it in 2026 \"would be arbitrary and capricious\" for lack of time (39 U.S.C. 3001(m); 5 U.S.C. 706(2)(A)). Read from the archived copy 2026-10-10"
-  found_by: "election tick 2026-10-10"
+  found_by: "editorial verification, 2026-10-10"
 - date: '2026-10-10'
   was: "What it leaves open is whether ... lawful at all ... without a merits answer. The administration retains the vehicle; it has only lost the calendar."
   now: "What it leaves open is whether ... lawful at all ... without a final merits answer. The administration retains the vehicle, but it lost the stay on the Court's interim view of the merits as well as on Kavanaugh's calendar."
   why: "https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf - order p.1: \"unlikely to succeed on the merits\" and equitable factors \"do not favor a stay\""
-  found_by: "election tick 2026-10-10"
+  found_by: "editorial verification, 2026-10-10"
 ---
 
 On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system before ballots could be mailed, with non-compliant ballot mail subject to rejection. **Justice Brett Kavanaugh**, in a concurrence (the underlying order was per curiam), reasoned that applying the rules to an election already underway was unlawful because state and local election officials had insufficient time to implement the changes — mail ballots had already gone out in several states, North Carolina first. Voters face no new federal mail-voting hurdle this cycle.

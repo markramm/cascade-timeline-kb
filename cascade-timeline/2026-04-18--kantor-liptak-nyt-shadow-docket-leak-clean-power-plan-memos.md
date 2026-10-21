@@ -171,7 +171,7 @@ On April 18, 2026, the New York Times published "The Inside Story of Five Days T
 
 ## Why This Event Matters
 
-The Kantor/Liptak reporting is primary documentary evidence of how the modern shadow (interim) docket was institutionalized — not as the gradual accretion of legal doctrine but as a five-day procedural forcing by a particular chief justice on a particular regulatory target. This matters for cascade-research in three specific ways:
+The Kantor/Liptak reporting is primary documentary evidence of how the modern shadow (interim) docket was institutionalized — not as the gradual accretion of legal doctrine but as a five-day procedural forcing by a particular chief justice on a particular regulatory target. This matters here in three specific ways:
 
 ### 1. Origin-of-mechanism documentation
 

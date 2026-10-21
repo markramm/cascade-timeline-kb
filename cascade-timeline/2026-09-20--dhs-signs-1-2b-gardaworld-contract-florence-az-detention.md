@@ -265,37 +265,37 @@ corrections:
   was: 'Title: DHS Signs $1.2B Contract With GardaWorld to Expand Florence, AZ Detention on Federal Land'
   now: Title now says the Florence award is a construction IDIQ with a $1,200,000,000 potential value and $0 obligated, and that '$1.2 billion contract' is the press's phrase.
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: DHS signed a $1.2 billion contract with GardaWorld ... to expand immigration detention in Florence, Arizona
   now: 'The award is IDV 70CMSW26D00000014, a single-award construction IDIQ for ICE''s Office of Asset and Facilities Management: $1.2 billion is its potential value (base and all options), $0 is obligated, and its one order, 70CMSW26FR0000093, is the $10,000 guaranteed minimum. It is not a detention-operations or bed-capacity contract.'
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the recurrence of a single vendor ... GardaWorld has been the repeat recipient of the agency's next capital commitment rather than a competitively-sourced alternative
   now: Cut. USAspending codes every GardaWorld award read (Florence, Surprise, San Antonio) as full and open competition with offers received (5, 6, 8); Florence is coded 5 offers. 'Not competitively sourced' is not supported.
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: four separate Arizona detention awards in six months
   now: 'Cut: San Antonio is in Texas, and the environmental-review retainer was not in the award record read.'
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: a $313 million operating contract for the Surprise, AZ warehouse conversion; a separate $17.3 million San Antonio warehouse-conversion award
   now: Surprise order 70CDCR26FR0000043 is a renovation-plus-wraparound-services order with $313,357,612.46 obligated and $704,091,073 potential; San Antonio order 70CDCR26FR0000103 now has $61,829,037.54 obligated and $1,008,135,768.12 potential.
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: which had itself stalled after Arizona's Attorney General won a court-ordered environmental-review pause
   now: Tucson.com/Arizona Republic reports the department 'agreed to hold off on physically converting the warehouse until the completion of an environmental review' after the AG's suit; the entry now attributes that.
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Cut: ''Florence is ICE''s largest detention hub in the Southwest''; ''a $7.3 billion, five-state IDIQ award followed the next day''; GardaWorld ''Montreal-based'' and the Alligator Alcatraz link'
   now: Cut because no document fetched binds them; the $7.3 billion and five states are now KJZZ's report.
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 verification: source-verified
 ---
 

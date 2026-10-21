@@ -52,7 +52,7 @@ related:
 
 ## Work Log
 
-### 2026-08-19 (agent:claude-sonnet-5-parallel-tick1-c)
+### 2026-08-19 (editorial verification)
 
 **Sources:** TheWrap, Hollywood Reporter (headline/search-snippet), TVInsider (tier 2); LateNighter (tier 3, ratings detail only, not load-bearing for any figure not corroborated elsewhere).
 

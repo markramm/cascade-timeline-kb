@@ -39,7 +39,7 @@ corrections:
   was: "id and date 2026-03-06; body 'By March 2026'; source dates all '2026-03-06'"
   now: "id, file name and date 2025-09-22, the NOTUS publication date; old id kept in previous_ids so /event/2026-03-06--.../ still resolves; source dates set to each page's own date (NOTUS 2025-09-22, NBC 2025-06-03, Whitehouse release 2025-03-20)"
   why: "https://www.notus.org/courts/doj-public-integrity re-read 2026-10-14: datePublished 2025-09-22T09:30:00Z; 'When Donald Trump took office eight months ago ... 36 experienced attorneys ... Today it has two.' NBC datePublished 2025-06-03; Whitehouse release page dated March 20, 2025. No source on the entry is from March 2026."
-  found_by: "hsi-search-of-a-members-home-oct-12-what-the-record-shows-2026-10-13 (tcp-kb-internal cascade-research/notes, line 126); conductor tick 2026-10-14T04:43Z; fixed on Mark's instruction 2026-10-14"
+  found_by: "editorial verification, 2026-10-14"
 capture_lanes:
 - Institutional Capture
 - Systematic Corruption

@@ -20,7 +20,7 @@ corrections:
   was: "Title and body: Johnson's attempt to attach the SAVE Act to the NDAA \"failed in the Senate\" on June 30, with the SAVE Act \"dying in Senate\"; actors listed the United States Senate."
   now: "On June 30 the House rejected its own rule for the NDAA, H.Res. 1398, 198-224. The Senate never voted on the SAVE attachment; the Senate's July 14 NDAA cloture failure (50-46) was over Iran."
   why: "House Rules Committee page for H.R. 8800 (H.Res. 1398 \"Not agreed to by a record vote of 198-224\"): https://rules.house.gov/bill/119/hr-8800 ; CRS mirror on the Senate NDAA (\"Cloture failed 50-46 on July 14\"): https://legis1.com/news/fy2027-ndaa-senate-stalls-in-after-house-passage"
-  found_by: "the fact-check of the draft 'The Agency That Can't Answer the Phone' (tcp-kb-internal drafts/fact-checks/the-agency-that-cant-answer-the-phone--fact-check-2026-10-14), rows 24, 26, 43"
+  found_by: "editorial verification"
 sources:
   - title: "How the SAVE America Act would affect the 2026 elections"
     url: https://www.votebeat.org/2026/02/16/save-america-act-passes-house-proof-of-citizenship-register-vote-photo-id/

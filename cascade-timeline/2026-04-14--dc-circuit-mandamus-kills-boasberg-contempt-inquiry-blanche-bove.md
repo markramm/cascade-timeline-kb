@@ -133,12 +133,12 @@ corrections:
   was: 'Title: "DC Circuit Grants Mandamus Ordering Boasberg to Drop Criminal Contempt Inquiry Into Blanche and Bove"; body: the mandamus "functionally insulates executive-branch officials from criminal accountability" and the panel''s termination order "is the mechanism by which the inquiry lost force"'
   now: The panel's April 14 order was vacated by the full court's June 22, 2026 order granting rehearing en banc, argued Sept. 29, 2026; the entry no longer describes the order as in force.
   why: CADC No. 25-5452 docket, en banc order of June 22, 2026 (Doc. 2179802), https://www.courtlistener.com/docket/72029089/in-re-donald-trump/
-  found_by: correction pass 2026-10-13 (research note criminal-contempt-against-executive-officials-en-banc-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"targeting Acting Attorney General Todd Blanche and former acting Deputy Attorney General Emil Bove — officials Boasberg had found probable cause to believe willfully defied the March 2025 TRO"'
   now: The government identified then-Secretary Kristi Noem as the responsible official; Blanche and Bove filed declarations that they gave her privileged legal advice. Bove's office was Principal Associate Deputy Attorney General, not acting Deputy Attorney General. The probable-cause order (April 16, 2025) names no individual and the entry no longer links the finding to the 2025-11-26 and 2025-11-30 entries.
   why: CADC No. 25-5452 opinion (Doc. 2168528), Childs dissent n.14, https://media.cadc.uscourts.gov/opinions/docs/2026/04/25-5452.pdf
-  found_by: correction pass 2026-10-13 (research note criminal-contempt-against-executive-officials-en-banc-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 tags:
 - judicial-capture
 - executive-power-expansion

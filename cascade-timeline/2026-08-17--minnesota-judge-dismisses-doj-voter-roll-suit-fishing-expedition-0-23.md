@@ -47,7 +47,7 @@ corrections:
   was: "characterizing the demand as a \"fishing expedition\" with no statutory basis under either the Civil Rights Act of 1960 or the Help America Vote Act"
   now: "dismissing both counts; the Civil Rights Act count failed because the statewide list \"is not a record or paper that comes into Minnesota election officials' possession\"; \"fishing expedition\" is the court's phrase for the government's HAVA discovery theory only (title no longer says the judge dismissed the suit 'as a Fishing Expedition')"
   why: "Order, Doc. 210 (https://storage.courtlistener.com/recap/gov.uscourts.mnd.227974/gov.uscourts.mnd.227974.210.0.pdf), re-read 2026-10-13 — p.20: 'The unredacted SVRL the government demanded from the State Defendants in this case is not a record or paper that comes into Minnesota election officials' possession.'; p.26: 'the government suggests it is permitted to use a civil action as a \"fishing expedition.\" But an ordinary litigant isn't allowed to seek discovery first and allege a claim later'; p.26 ends 'For these reasons, Count II of the complaint is dismissed.'"
-  found_by: "correction pass 2026-10-13 (research note minnesota-thread-doj-letter-voter-roll-suit-section-611-cases-answers-2026-10-10)"
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: "Bondi explicitly tied voter-roll demands to ICE enforcement tensions in January (id 2026-01-26--bondi-voter-rolls-request-minnesota-ice-enforcement)"
   now: "the January 24 letter to Gov. Walz put a voter-roll demand, stated as a compliance review, in the same letter as an ICE-cooperation demand; the link now points to the renamed entry 2026-01-24--bondi-voter-rolls-request-minnesota-ice-enforcement"

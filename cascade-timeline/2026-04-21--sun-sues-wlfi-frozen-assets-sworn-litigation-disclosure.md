@@ -157,7 +157,7 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 
 ---
 
-**Conductor QC, 2026-08-31.** **Docket independently re-verified** via a separate CourtListener v4
+**Editorial QC, 2026-08-31.** **Docket independently re-verified** via a separate CourtListener v4
 query: **`Sun v. World Liberty Financial LLC` | court `cand` | filed 2026-04-21`** — court, party,
 and filing date all match.
 

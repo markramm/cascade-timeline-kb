@@ -59,12 +59,12 @@ corrections:
   was: "On the most economical reading of the prefix as an office code, the Ann Arbor operation was opened under a Detroit field office case number and therefore outside St. Paul's CUC."
   now: "The Ann Arbor case number (DD02PR26MS0003) ends with Puppet Master's serial, and the Chicago case number (CH02PR26MS0004) ends with Whipple Shield's and its report names Whipple Shield; the numbering does not place either operation outside St. Paul's CUC, and whether the collateral cases drew on Keyhole funds is not established."
   why: "Sant Doc. 212-18 (Ann Arbor ROI, case DD02PR26MS0003, a collateral request from the SAC Saint Paul) and Doc. 297 Ex. J (Chicago ROI, case CH02PR26MS0004; 'request HSI Chicago's assistance in the current Project Whipple Shield investigation'); Doc. 263 pp.3-4 names only Puppet Master and Whipple Shield as included in Keyhole. HSI case-file audit 2026-10-17."
-  found_by: "HSI case-file audit (desk, 2026-10-17)"
+  found_by: "editorial verification"
 - date: '2026-10-17'
   was: "Across 'narcotics trafficking, child sexual abuse, financial investigations, and counter-proliferation'; ... an operation certified in 2008 for narcotics and child-exploitation work"
   now: "Doc. 263 lists those areas as 'including but not limited to' and does not say what Keyhole was certified for or how the 77 divide by area."
   why: "Doc. 263 p.4: 'dozens of separate investigations into multiple areas of criminal activity, including but not limited to, narcotics trafficking, child sexual abuse, financial investigations, and counter-proliferation.' HSI case-file audit 2026-10-17."
-  found_by: "HSI case-file audit (desk, 2026-10-17)"
+  found_by: "editorial verification"
 ---
 
 On September 10, 2026 the government filed a supplemental brief (Doc. 263) describing CUC Operation Keyhole on the record for the first time. It came after an August 27 discovery hearing at which, in the government's own words, "it became clear how important 'Operation Keyhole' is to the defendants' motion for discovery." The government moved for leave on September 1; Magistrate Judge David Schultz granted it September 2 and set a September 11 deadline.

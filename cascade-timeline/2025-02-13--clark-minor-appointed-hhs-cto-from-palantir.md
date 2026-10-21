@@ -138,6 +138,4 @@ The Revolving Door Project, which tracks revolving-door appointments across admi
 - [[2026-04-23--144-trump-appointees-palantir-disclosures]] — the broader personnel-capture pattern
 - [[2026-04-18--palantir-22-point-manifesto-published]] — ideological production layer
 - [[2026-04-10--trump-truthsocial-palantir-pltr-endorsement]] — stock-price intervention
-- [[palantir]] — organization profile (existing in cascade-research)
 - [[warehouse-fungibility-and-the-detention-hedge]] — the broader capture-cascade framework
-- [[hhs-palantir-cluster]] — *(see the cascade-research analysis entry below)*

@@ -186,32 +186,32 @@ corrections:
   was: 'Title: FERC Rejects Elements of PJM Backstop Procurement Plan Built to Cover a Data-Center-Driven Capacity Shortfall'
   now: 'The title now says what the order does: accepts PJM''s filing, suspends it five months to Feb. 28, 2027 and sets a paper hearing on cost allocation, exit rules and collateral. The file name and id keep the old word ''rejects''.'
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The Federal Energy Regulatory Commission on Sept. 29, 2026, rejected elements of a plan by the PJM Interconnection
   now: The order accepts PJM's revisions for filing, suspends them for five months (effective Feb. 28, 2027), subject to refund, and sets a paper hearing on cost allocation, Transmission Owner exit rules and LSE collateral; it does not reject the plan.
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: PJM failed to adequately show that its plan for allocating the costs ... meets the agency's 'just and reasonable' standard
   now: The order says, of cost allocation, that on the current record 'PJM has not adequately demonstrated that its proposal is just and reasonable and consistent with the cost causation principle', and that the method 'may be unjust and unreasonable'; it directs briefing rather than a final finding.
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Northern Virginia Electric Cooperative ... said it would have to post roughly $2 billion in collateral under the proposal, according to the decision
   now: The $1.95 billion and $2 billion figures are NOVEC's own argument, recorded in the order's summary of protests; they are not a Commission finding.
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: FERC Chairman Laura Swett said in a concurring statement (the only concurrence named)
   now: Chairman Swett and Commissioners Rosner, See and LaCerte each filed a separate concurring statement; the order attaches no dissent. The Swett quotation is now bound to the order text itself.
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The order itself and its docket number were not pulled.
   now: 'Cut: the order is 196 FERC ¶ 61,245, Docket Nos. ER26-3380-000 and EL26-108-000, and is now the source.'
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
-  found_by: correction pass 2026-10-13 (research note ferc-pjm-backstop-order-what-the-order-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 On September 29, 2026 the Federal Energy Regulatory Commission issued its order in PJM Interconnection, L.L.C., 196 FERC ¶ 61,245, Docket Nos. ER26-3380-000 and EL26-108-000. The order says: "we accept the proposed RBP for filing, suspend it for five months, effective February 28, 2027, subject to refund, and establish a paper hearing." It describes the Reliability Backstop Procurement (RBP) as a "one-time procurement of new capacity" for resource adequacy challenges driven by an influx of large loads, and records PJM's statement that the RBP aims to procure capacity equal to the 6,831 MW shortfall in the 2028/2029 base residual auction.

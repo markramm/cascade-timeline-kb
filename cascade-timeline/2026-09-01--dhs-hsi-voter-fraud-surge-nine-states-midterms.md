@@ -54,7 +54,7 @@ corrections:
   was: "The 24,000 SAVE referrals ... are confirmed across CNN's original reporting and ABC."
   now: "The 24,000 figure is from DHS's own April 22, 2026 release, not CNN's Aug 31 story or ABC's story, neither of which contains it; MS NOW (Sept 10) re-quoted DHS."
   why: "DHS release https://www.dhs.gov/news/2026/04/22/alien-mexico-pleads-guilty-and-convicted-voter-fraud-falsely-claiming-be-us-citizen (page last updated 04/23/2026), CNN Aug 31 and ABC pages read live 2026-10-20"
-  found_by: "Funnel draft reviser (efa6810c); verified by agent:claude-sonnet-5-5-parallel-tick1020a-f"
+  found_by: "editorial verification"
 - date: '2026-10-08'
   was: "The ratio is the finding ... 250,000 flags have produced 41 charges (title: '41 Charges Against 250,000 Flags')"
   now: "41 charged and 250,000 'potential' noncitizens are different populations from different sources: 41 charged is the outcome of ProPublica's ~25,000-lead pipeline (Jan 2025-May 2026); 250,000 is DHS's preliminary four-state figure"

@@ -96,17 +96,17 @@ corrections:
   was: "KBR was the sole bidder despite the \"competitive\" award designation."
   now: "USAspending (FPDS) records the master contract W9126G06D0005 as full and open competition with three offers received. The 'sole bidder' statement is not supported by that record and is removed."
   why: "https://api.usaspending.gov/api/v2/awards/CONT_IDV_W9126G06D0005_9700/ latest_transaction_contract_data: number_of_offers_received '3', extent_competed_description 'FULL AND OPEN COMPETITION'. The KBR press release also calls the award competitive."
-  found_by: "build-cascade-timeline-2006-01-24 task, tick106 (USAspending API v2)"
+  found_by: "editorial verification"
 - date: '2026-10-19'
   was: "The contract was awarded on January 24, 2006."
   now: "January 24, 2006 is the announcement date (KBR press release, reported same day). USAspending records the first obligation under the contract, a $481,212 order, with an action date of 2005-12-23, a month before the announcement."
   why: "https://api.usaspending.gov/api/v2/awards/CONT_AWD_9001_9700_W9126G06D0005_9700/ date_signed '2005-12-23', total_obligation 481212.0, period_of_performance 2005-12-23 to 2006-11-30; https://halliburtonwatch.org/news/ice_contract.html dateline Jan. 24"
-  found_by: "build-cascade-timeline-2006-01-24 task, tick106 (USAspending API v2)"
+  found_by: "editorial verification"
 - date: '2026-10-19'
   was: "No public record confirms that the $385 million ceiling was approached ... USASpending.gov records for this specific 2006 IDIQ were not retrievable."
   now: "The contract is retrievable: PIID W9126G06D0005 (U.S. Army Corps of Engineers Fort Worth, vendor now recorded as KBR Services, LLC). Its six orders total $2,668,546.38 obligated, under one percent of the $385 million ceiling."
   why: "https://api.usaspending.gov/api/v2/idvs/amounts/CONT_IDV_W9126G06D0005_9700/ child_award_count 6, child_award_total_obligation 2668546.38. Identification of this PIID with the ICE contract rests on the matching $481,212 readiness amount and the 'MASS MIGRATION PLAN' and 'TDC' order descriptions, not on a document naming the PIID."
-  found_by: "build-cascade-timeline-2006-01-24 task, tick106 (USAspending API v2)"
+  found_by: "editorial verification"
 event_date_claim: c3
 verification: source-verified
 claims:

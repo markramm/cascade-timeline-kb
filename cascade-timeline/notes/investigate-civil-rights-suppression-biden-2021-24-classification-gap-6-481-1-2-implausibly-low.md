@@ -24,5 +24,4 @@ This is very likely a classification gap rather than content gap. The Biden-era 
 Not a research task on civil-rights policy generally. Classification pass on existing entries only.
 
 ## Related
-- Parent analytical context: cascade-research historical-gap analysis 2026-04-23
 - Sibling tickets: backfill-labor-suppression-capture-lanes-on-2025-26-dol-nlrb-federal-workforce-events (same classification-drift pattern)

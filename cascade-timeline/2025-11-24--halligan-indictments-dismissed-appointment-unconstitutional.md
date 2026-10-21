@@ -73,7 +73,7 @@ corrections:
   was: '"U.S. District Judge Patricia Tolliver Currie of the Eastern District of Virginia dismissed both the James Comey and Letitia James indictments"; "Her complete lack of criminal prosecution experience was central to the ruling"; Brann "August 22, 2025"; "This was the fourth federal judge to rule"; "the DOJ continued to treat Halligan as U.S. Attorney until January 20, 2026, when Judge Novak issued his ''charade of masquerading'' ruling"; title "Judge Currie Dismisses Comey and James Indictments, Rules Halligan Appointment Unconstitutional"'
   now: 'The order is signed by Cameron McGowan Currie, Senior United States District Judge sitting by designation (Columbia, South Carolina); it dismisses the Comey indictment without prejudice and holds Halligan''s appointment violated 28 U.S.C. § 546 and the Appointments Clause. The James indictment, the ''central to the ruling'' characterisation, the ranking of rulings and the January 20, 2026 sentence are removed: the Comey order is the document read and supports none of them.'
   why: United States v. Comey, No. 1:25-cr-00272 (E.D. Va. Nov. 24, 2025), ECF 213, https://storage.courtlistener.com/recap/gov.uscourts.vaed.582135/gov.uscourts.vaed.582135.213.0.pdf
-  found_by: correction pass 2026-10-13 (research note unlawfully-serving-us-attorneys-essayli-order-and-the-ninth-circuit-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 actors:
 - Cameron McGowan Currie
 - Lindsey Halligan

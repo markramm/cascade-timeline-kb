@@ -43,7 +43,7 @@ corrections:
 - date: '2026-10-08'
   was: "The Justice Department sent letters on or about September 10, 2026 ... Harmeet Dhillon ... said the letters"
   now: "The letters came from the Civil Rights Division's Voting Section; the West Virginia letter is dated September 4, 2026 and signed by Eric Neff, Acting Chief, Voting Section; September 10 is the date of the AP/Washington Times reporting; Dhillon is quoted on their purpose"
-  why: "doj-voting-section-preservation-letter-west-virginia-2026-09-04.pdf (archived, cascade-research/documents/sources/files) — letter dated September 4, 2026, signature block 'Eric Neff, Acting Chief, Voting Section, Civil Rights Division'"
+  why: "doj-voting-section-preservation-letter-west-virginia-2026-09-04.pdf (archived copy) — letter dated September 4, 2026, signature block 'Eric Neff, Acting Chief, Voting Section, Civil Rights Division'"
   found_by: "HSI case file 2026-10-08"
 - date: '2026-10-08'
   was: "ICE/HSI's September pre-solicitation for recurring nationwide voter-file acquisition"

@@ -161,7 +161,7 @@ corrections:
   was: Two U.S. appeals courts have allowed noncitizens to be subject to mandatory detention without bond, but nine others have ruled the Trump administration must provide certain immigrants with bond hearings.
   now: The respondent's filing counts two circuits for the government (5th, 8th) and seven for bond hearings (1st, 2nd, 6th, 7th, 9th, 10th, 11th); no filing read for the correction counts nine. The entry now also gives docket No. 26-104 and the question presented.
   why: Respondent's response to the petition, Rhoney v. Barbosa da Cunha, No. 26-104 (S. Ct. Aug. 21, 2026), at 1 and 16-17; Supreme Court docket No. 26-104.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 The Supreme Court on Thursday said it will consider whether the Trump administration can detain tens of thousands of immigrants during their removal proceedings without access to bond hearings. The case is known as Rhoney v. Barbosa da Cunha, No. 26-104, and the Court's docket records "Petition GRANTED." The question presented is whether 8 U.S.C. 1225(b)(2)(A) "mandates the detention pending removal proceedings of aliens who, like respondent, are present in the United States without having been admitted."

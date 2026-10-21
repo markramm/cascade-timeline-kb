@@ -80,4 +80,4 @@ This entry is convergence with, not merger into, the broader christian-nationali
 
 ## Related
 
-- Christian-nationalism / captured-pulpits lane; cross-link to a future SBC-governance actor profile (Willy Rice; Center for Baptist Leadership) once stood up in cascade-research.
+- Christian-nationalism / captured-pulpits lane; cross-link to a future SBC-governance actor profile (Willy Rice; Center for Baptist Leadership) once stood up.

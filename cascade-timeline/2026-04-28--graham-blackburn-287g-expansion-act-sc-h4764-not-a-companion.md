@@ -80,7 +80,7 @@ Even stripped of the "companion bill" and "state pilot" framing, the sequence do
 
 ---
 
-**Conductor QC, 2026-08-31.** **The sponsorship correction is verified verbatim at the primary
+**Editorial QC, 2026-08-31.** **The sponsorship correction is verified verbatim at the primary
 source.** I fetched the GPO bill text directly (`govinfo.gov/content/pkg/BILLS-119s4405is/html/`,
 HTTP 200):
 

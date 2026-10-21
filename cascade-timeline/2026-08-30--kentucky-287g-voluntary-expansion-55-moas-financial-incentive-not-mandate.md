@@ -90,7 +90,7 @@ The task's underlying instinct — that "voluntary expansion" is structurally di
 
 ---
 
-**Conductor QC, 2026-08-31 — the roster was re-downloaded and re-counted independently, and every
+**Editorial QC, 2026-08-31 — the roster was re-downloaded and re-counted independently, and every
 figure reproduces.**
 
 I pulled ICE's own file from the same endpoint (`ice.gov/file-download/download/public/208609`,

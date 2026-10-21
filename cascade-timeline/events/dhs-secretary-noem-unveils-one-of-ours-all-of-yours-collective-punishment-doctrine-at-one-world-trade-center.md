@@ -2,7 +2,7 @@
 id: dhs-secretary-noem-unveils-one-of-ours-all-of-yours-collective-punishment-doctrine-at-one-world-trade-center
 title: DHS Secretary Noem Unveils "One of Ours, All of Yours" Collective Punishment Doctrine at One World Trade Center
 type: timeline_event
-gate_note: 'Qualified 2026-10-16. The slogan "ONE OF OURS, ALL OF YOURS" was displayed on the lectern (per secondary sources; video not yet checked against the primary). DHS''s own release on the remarks (dated Jan 9, 2026) does not contain the phrase; her quoted words are "If you lay a finger on one of our officers, we will catch you." The body''s reading (that the whole immigrant community faces collective enforcement) is interpretation of the displayed slogan, not her stated policy. See cascade-research note shield-of-the-americas-membership-operations-stress-and-noem-envoy-record-2026-03-to-10.'
+gate_note: 'Qualified 2026-10-16. The slogan "ONE OF OURS, ALL OF YOURS" was displayed on the lectern (per secondary sources; video not yet checked against the primary). DHS''s own release on the remarks (dated Jan 9, 2026) does not contain the phrase; her quoted words are "If you lay a finger on one of our officers, we will catch you." The body''s reading (that the whole immigrant community faces collective enforcement) is interpretation of the displayed slogan, not her stated policy.'
 tags:
 - immigration-enforcement
 - immigration

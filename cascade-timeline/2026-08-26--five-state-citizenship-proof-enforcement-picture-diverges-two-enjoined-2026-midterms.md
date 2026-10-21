@@ -109,7 +109,7 @@ corrections:
   was: "Body, Federal SAVE Act Status: \"Speaker Johnson's attempt to attach it to the NDAA failed in the Senate June 30, 2026, with some Republicans joining Democrats\"."
   now: "On June 30, 2026 the House rejected its own rule for the NDAA, 198-224; the Senate has not voted on a SAVE attachment; the Senate's NDAA failed cloture 50-46 on July 14 over Iran."
   why: "https://rules.house.gov/bill/119/hr-8800 ; https://legis1.com/news/fy2027-ndaa-senate-stalls-in-after-house-passage"
-  found_by: "the fact-check of the draft 'The Agency That Can't Answer the Phone' (tcp-kb-internal drafts/fact-checks/the-agency-that-cant-answer-the-phone--fact-check-2026-10-14), rows 24, 26"
+  found_by: "editorial verification"
 verification: captured
 claims:
 - id: c0
@@ -214,6 +214,6 @@ The instrument matters as much as the outcome. Conflating "documentary proof of 
 - [ ] Confirm whether the DOJ's separate 30+ state voter-roll-list lawsuits (Utah, Oklahoma, Kentucky, West Virginia, New Jersey named) interact procedurally with any of the five states' proof-of-citizenship laws
 - [ ] Federal SAVE Act Senate floor schedule for September 2026 — no confirmed vote date found
 
-**Conductor verification, 2026-08-28.** The five-state correction was re-checked against the Brennan Center's own cited page rather than against this entry. Their text, verbatim: *"Including Arizona, which has had a proof-of-citizenship requirement for over 20 years, **5 states will have a show-your-papers requirement for all people registering or updating their registration for the 2026 midterms: Arizona, New Hampshire, South Dakota, Utah, and Wyoming.**"* Ohio appears in a **separate** sentence, grouped with Indiana and Mississippi as states whose 2025 laws "apply to **some** voters or registrants" — Ohio's arriving via a late amendment to a transportation bill.
+**Editorial verification, 2026-08-28.** The five-state correction was re-checked against the Brennan Center's own cited page rather than against this entry. Their text, verbatim: *"Including Arizona, which has had a proof-of-citizenship requirement for over 20 years, **5 states will have a show-your-papers requirement for all people registering or updating their registration for the 2026 midterms: Arizona, New Hampshire, South Dakota, Utah, and Wyoming.**"* Ohio appears in a **separate** sentence, grouped with Indiana and Mississippi as states whose 2025 laws "apply to **some** voters or registrants" — Ohio's arriving via a late amendment to a transportation bill.
 
 So the harvested lead substituted **Ohio for Arizona** and thereby merged two different categories: a universal registration requirement and a channel-specific one. **Confirmed: the worker's correction is right and the lead was wrong.**

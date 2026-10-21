@@ -58,6 +58,6 @@ Rather than litigate, the township settled. A consent judgment was filed October
 
 A Saline Township resident living 256 yards from the planned site, Kathryn Haushalter, later moved to intervene in the settlement, alleging it had been negotiated in secret. In February 2026, Washtenaw County Circuit Court Judge Julia Owdziej denied the motion, ruling that by-right intervention was not available in an already-closed case.
 
-Construction proceeded; the project broke ground June 1, 2026 (see `2026-07-15--saline-township-oracle-openai-caps-then-reverses-tax-abatement.md` for the subsequent tax-abatement fight, and cascade-research note `washtenaw-county-mi-data-center-trilogy-saline-ypsilanti-ycua-dte-ratepayer.md` for full groundbreaking/community-benefits/financing context).
+Construction proceeded; the project broke ground June 1, 2026 (see `2026-07-15--saline-township-oracle-openai-caps-then-reverses-tax-abatement.md` for the subsequent tax-abatement fight).
 
 This sequence — local democratic rejection, followed by litigation that overrides the rejection via settlement rather than trial — is a structurally significant pattern distinct from the other two Washtenaw County data-center fights: Augusta Township's resistance took the form of a zoning referendum (a direct-democracy override of an approval the board granted), while Ypsilanti Township's resistance has taken the form of a utility-capacity moratorium (YCUA Resolution 26-08) rather than a zoning fight, since no rezoning vote has yet occurred there.

@@ -293,22 +293,22 @@ corrections:
   was: a $1.3 billion contract ... awarded to Sullivan Land Services Co.
   now: 'The entry now attributes that name and figure to ProPublica and gives the award record: recipient SLS FEDERAL SERVICES LLC, total obligation $1,313,227,200, base-and-all-options value $2,214,283,200, award 70B01C26F00000385 (figures printed as USAspending prints them).'
   why: USAspending award CONT_AWD_70B01C26F00000385_7014_70B01C26D00000003_7014 (API record).
-  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the judge's denial of the emergency injunction on Aug. 14
   now: The order denied a motion for a preliminary injunction, in Tohono O'odham Nation v. Mullin, No. 1:26-cv-02127-RJL (D.D.C.), Judge Leon; appeal D.C. Cir. No. 26-5306. The entry now says so (the ProPublica wording is attributed).
   why: D.D.C. ECF 46 (order) and ECF 45 (memorandum opinion), entered Aug. 14, 2026; D.C. Cir. docket 26-5306.
-  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: tapping nearly $52 billion from ... One Big Beautiful Bill Act [stated as fact]
   now: Attributed to ProPublica, set beside the $46 billion Judge Leon's opinion cites for CBP barrier construction; the two figures are not reconciled.
   why: D.D.C. ECF 45 (Aug. 14, 2026), at 2-3.
-  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave.
   now: 'Attributed to ProPublica, and followed by what the court record shows: a government declarant said the contractor was instructed to confine the footprint to the 60-foot Roosevelt Reservation. No court filing read alleges a breach.'
   why: D.D.C. ECF 45, citing Enriquez Decl. para. 13.
-  found_by: correction pass 2026-10-13 (research note tohono-oodham-nation-v-dhs-ruling-appeal-and-tucson-5-award-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 At 4:59 a.m. on Aug. 25, Tohono O'odham Nation Chairman Verlon Jose received an email from the head of the U.S. Border Patrol's Tucson Sector; Border Patrol wrote that government contractors were en route to conduct soil tests for construction of a 62-mile wall along the Nation's southern boundary (ProPublica). KJZZ reports Jose said armed Border Patrol agents, U.S. Bureau of Indian Affairs officers and other federal entities were in the tribal nation, some wearing tactical gear and masks, and that Border Patrol told his office the pre-construction work will go on for seven to 10 days. ProPublica reports that a trio of Border Patrol supervisors approached, including one representing BORTAC, the agency's special operations wing, and that Jose's statement revealed the Department of Homeland Security had deployed a surveillance blimp and enlisted Mexican security forces to help protect the work crews. ProPublica writes that the contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave. The court's opinion records a government declarant's statement that the contractor has been instructed to confine the project footprint to the 60-foot federal Roosevelt Reservation.

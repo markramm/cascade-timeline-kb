@@ -42,6 +42,6 @@ capture_lanes:
 
 ---
 
-**Provenance note (conductor, 2026-09-01).** This entry was written by a worker whose process was killed mid-task by a machine sleep — an environment interruption, not a worker or sourcing failure — after this entry was complete but **before it was committed**. The conductor verified it independently (valid `type: timeline_event`, quoted dates, tier-1 slip-opinion source, argued-vs-decided distinguished, footnote-3 authorship quoted verbatim from the syllabus) and committed it rather than let complete work be lost to an uncommitted working tree.
+**Provenance note (editorial note, 2026-09-01).** This entry was written by a worker whose process was killed mid-task by a machine sleep — an environment interruption, not a worker or sourcing failure — after this entry was complete but **before it was committed**. The conductor verified it independently (valid `type: timeline_event`, quoted dates, tier-1 slip-opinion source, argued-vs-decided distinguished, footnote-3 authorship quoted verbatim from the syllabus) and committed it rather than let complete work be lost to an uncommitted working tree.
 
 **The companion entry for *Carson v. Makin* (2022) was NOT written** — the worker died at exactly that step. Its ticket remains open for that half. Do not assume the Carson entry exists because this one does.

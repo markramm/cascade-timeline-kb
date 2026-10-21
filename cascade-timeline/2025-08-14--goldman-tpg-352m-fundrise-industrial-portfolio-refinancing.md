@@ -44,11 +44,6 @@ sources:
     publisher: Project Salt Box
     date: '2026-03'
     tier: 1
-  - title: "Goldman/TPG Fundrise Portfolio DHS Cross-Reference (cascade-research KB)"
-    url: cascade-research/research-notes/goldman-352m-fundrise-portfolio-dhs-cross-reference.md
-    publisher: Cascade Research KB (internal)
-    date: '2026-05-07'
-    tier: 1
 capture_lanes:
   - Detention Industrial Complex
   - Investment Bank Lender Recovery

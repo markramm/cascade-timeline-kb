@@ -90,7 +90,6 @@ The AIM consensus was reached the same week that the DOE fire-then-rehire restru
 ## Related Entries
 
 - [[higher-ed-capture-accreditation-pressure]] — theme documenting this event in context
-- [[desantis-cphe-six-state-accreditor-launch-substrate-tick3-worker-e]] — CPHE acceleration via new-entrant provision
 - [[university-and-academia-capture-evidence]] — Channel 4 (Title VI) and accreditation-pressure gap filled by this event
 - [[2026-03-18--kent-compliance-letters-msche-capte-dei-standards]] — *needs entry*
 - [[2025-06-04--columbia-accreditor-notification-title-vi-violation]] — *needs entry*

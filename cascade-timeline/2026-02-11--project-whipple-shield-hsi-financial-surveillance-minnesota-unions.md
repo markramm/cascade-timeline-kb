@@ -96,12 +96,12 @@ corrections:
   was: "HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury ... HSI Agent Desmond Garcia testified about it directly; ... [Sunrise] was not presented to the grand jury as a node; ... rendered them to a grand jury as nodes in a terrorism conspiracy chart."
   now: "The defense's motion says the diagram was prepared by HSI and presented to the grand jury (Doc. 212 p.5); the transcript excerpt it files shows an HSI agent asked about page 5 of Grand Jury Exhibit 1A (Ex. 4, 27:4-11). That Doc. 212-3 is that page is the defense's identification. Sunrise does not appear on the chart."
   why: "The entry stated the defense's account as fact in some sentences and, in another, said Sunrise was 'not presented to the grand jury', which read as denying the first. Primary: Doc. 212 (motion) p.5 and Ex. 4 p.27, read 2026-10-17. HSI case-file audit 2026-10-17, item 10."
-  found_by: "HSI case-file audit (desk, 2026-10-17)"
+  found_by: "editorial verification"
 - date: '2026-10-17'
   was: "The same investigation tasked HSI Detroit Metro Airport to put an undercover agent into a church sanctuary in Ann Arbor ... A church collection basket entered a financial investigation whose stated subject was terrorist financing."
   now: "HSI Chicago's report says it was asked to help 'in the current Project Whipple Shield investigation' (Doc. 297 Ex. J). The Ann Arbor report (Doc. 212-18) names no investigation; its number matches Puppet Master's, an inference only."
   why: "Doc. 212-18 synopsis cites only a collateral request from the SAC, Saint Paul, and 18 U.S.C. 111 and 372; Doc. 297 Ex. J names Whipple Shield. HSI case-file audit 2026-10-17."
-  found_by: "HSI case-file audit (desk, 2026-10-17)"
+  found_by: "editorial verification"
 verification: captured
 claims:
 - id: c0

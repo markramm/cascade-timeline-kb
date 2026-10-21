@@ -243,22 +243,22 @@ corrections:
   was: 'Title: ICE Awards GardaWorld $17.3M to Convert an East Side San Antonio Warehouse into a Detention Facility'
   now: The title attributes the $17.3 million to KSAT and gives the award's current obligated and potential values from USAspending.
   why: USAspending awards 70CDCR26FR0000103 and 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); KSAT/San Antonio Business Journal, Sept. 1, 2026
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: ICE awarded a $17.3 million contract on August 27, 2026
   now: KSAT reported $17.3 million at award; the USAspending record for 70CDCR26FR0000103 now lists $61,829,037.54 obligated (a Sept. 29, 2026 modification added $44.5M to the first-day $17.33M) and a potential value of $1,008,135,768.12, with performance to 2027-08-26. The order is a delivery order under Navy contract N0002325D0032, not a contract awarded by a separate solicitation.
   why: USAspending awards 70CDCR26FR0000103 and 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); KSAT/San Antonio Business Journal, Sept. 1, 2026
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: GardaWorld is the same contractor holding the $313M operating contract at the Surprise, Arizona warehouse
   now: The Surprise order 70CDCR26FR0000043 has $313,357,612.46 obligated and a potential value of $704,091,073; it is a renovation-plus-wraparound-services order, not described as an operating contract, and the $313M is an obligation, not the potential value.
   why: USAspending awards 70CDCR26FR0000103 and 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); KSAT/San Antonio Business Journal, Sept. 1, 2026
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Cut: ''one of the first Texas sites with a formally awarded conversion contract under the Detention Reengineering Initiative''; ''the recurrence of a single vendor ... is a feature of the program''s procurement structure, not a coincidence of bidding''; ''Federal ownership of the structure is what routes around both''; the Bexar County NEPA and San Antonio ordinance paragraph'
   now: 'Cut: no fetched document binds these characterisations. The linked entries remain in related events.'
   why: USAspending awards 70CDCR26FR0000103 and 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); KSAT/San Antonio Business Journal, Sept. 1, 2026
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 related_events:
 - 2026-06-23--ice-detention-reengineering-initiative-100k-warehouse-network
 - 2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract

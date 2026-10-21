@@ -59,11 +59,6 @@ sources:
     publisher: CREW
     date: '2025-03'
     tier: 2
-  - title: "13 Crypto Enforcement Pullbacks: Five-Beat Structure Completion Audit"
-    url: ""
-    publisher: cascade-research internal
-    date: '2026-05-14'
-    tier: 1
 capture_lanes:
   - Executive Power Expansion
 relocated_lanes:

@@ -99,16 +99,16 @@ Abughazaleh's statement to MS NOW called the material *"filled with false and de
 
 ## Structural Significance: The Third Specimen of the Cross-Partisan Architecture
 
-This is the **third documented specimen** in 2026 of the paid-influence-operation-as-cross-partisan-architecture theme (cascade-research/themes/paid-influence-operation-as-cross-partisan-architecture.md, just landed by Worker tick98-a). The previous two specimens:
+This is the **third documented specimen** in 2026 of the paid-influence-operation-as-cross-partisan-architecture theme. The previous two specimens:
 
 1. **2026-05-07 Trump-admin / Fight Fight Fight** ([[2026-05-07--ashley-st-clair-exposes-tpusa-influencer-fight-fight-fight-marching-orders]]) — Republican-aligned creator-payment + group-chat-coordination operation, exposed by St. Clair's defection
 2. **2026-03-03 AIPAC-linked Chicago Progressive Partnership** ([[2026-03-03--chicago-progressive-partnership-aipac-linked-super-pac-ai-generated-ad-attacks-abughazaleh-il09-primary]]) — AIPAC-aligned super-PAC + AI-generated digital ad against same Abughazaleh race
 
 This Democracy Unmuted specimen is operationally **the most fully-documented chain yet**: funder layer (sham org with no disclosures) → marketing-agency layer (Anthes / Advocators / Upstart Factory dual-use vendor pattern) → creator-payment layer ($1,500 per post documented) → talking-points-distribution layer (brief language quoted verbatim by Kralemann).
 
-This third specimen confirms Worker tick98-a's key analytical claim: **the architecture is operationally identical across partisan valences, varying only in implementing instruments**. Within the same primary (IL-09), at least two distinct dark-money operations attack the same progressive candidate from different funder networks (CPP-AIPAC + Democracy Unmuted-undisclosed-IL-individuals), using the same three-layer architecture (coordination / compensation / activation) but different marketing-agency vendors.
+This third specimen confirms the earlier analysis's key claim: **the architecture is operationally identical across partisan valences, varying only in implementing instruments**. Within the same primary (IL-09), at least two distinct dark-money operations attack the same progressive candidate from different funder networks (CPP-AIPAC + Democracy Unmuted-undisclosed-IL-individuals), using the same three-layer architecture (coordination / compensation / activation) but different marketing-agency vendors.
 
-## Layer-by-Layer Mapping (per Worker tick98-a's three-layer decomposition)
+## Layer-by-Layer Mapping (per the three-layer decomposition)
 
 | Layer | Function | Democracy Unmuted instrument |
 |---|---|---|
@@ -116,7 +116,7 @@ This third specimen confirms Worker tick98-a's key analytical claim: **the archi
 | **Compensation** | Funded payment that obscures source from creator and audience | $1,500 per post; payment from Anthes's agency, not Democracy Unmuted directly; agency claims "fully compliant with FEC rules" without naming clients |
 | **Activation** | Convert paid coordination into authentic-seeming amplification | Brief talking points → creator's own production → creator's own audience; Kralemann's "WOKE"-hatted progressive-aesthetic delivery is the authenticity-presentation that the architecture requires; the creator removes the post when scrutinized to avoid persistence-of-evidence |
 
-## Forecasted Specimens Confirmed (per Worker tick98-a's predictions)
+## Forecasted Specimens Confirmed (per the earlier predictions)
 
 Worker A's three predictions on May 7 forecast:
 1. ✅ **Democratic-aligned creator-payment specimen surfacing in 2026 general** — Democracy Unmuted's targeting of a progressive Democrat in a Democratic primary is structurally adjacent to this prediction (Democratic-side dark-money money, attacking a Democratic-primary progressive)
@@ -128,7 +128,7 @@ Worker A's three predictions on May 7 forecast:
 - [[paid-influence-operation-as-cross-partisan-architecture]] — the just-landed theme entry; this is the third specimen
 - [[2026-03-03--chicago-progressive-partnership-aipac-linked-super-pac-ai-generated-ad-attacks-abughazaleh-il09-primary]] — second specimen, same primary
 - [[2026-05-07--ashley-st-clair-exposes-tpusa-influencer-fight-fight-fight-marching-orders]] — first specimen
-- [[fight-fight-fight-influencer-coordination-architecture]] — Worker tick97-a's three-layer decomposition (now confirmed across 3 specimens)
+- [[fight-fight-fight-influencer-coordination-architecture]] — the three-layer decomposition (now confirmed across 3 specimens)
 - [[st-clair-ashley]] — Trump-admin defector
 - [[blair-james-trump-campaign]] — Trump-admin operative
 

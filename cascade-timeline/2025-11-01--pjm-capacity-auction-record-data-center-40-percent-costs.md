@@ -80,7 +80,6 @@ The preceding 2026/2027 BRA (run July 22, 2025) cleared at $329.17/MW-day (all z
 ## Related Entries
 
 - [[convergent-energy-demand-shock-crypto-and-ai]]
-- [[task-inv6-ai-datacenter-grid-strain-ratepayer-cost-shift]]
 - [[epic-inv6-energy-systems-convergent-demand-shock]]
 - [[pjm-capacity-auction-december-2025-and-2026-2027-data-center-attribution-reliability-standard-2026-05-28]]
 - [[the-inflation-echo-chamber-second-order-ratepayer-cost-shift-inter-state-policy-coordination-investigation-brief]]

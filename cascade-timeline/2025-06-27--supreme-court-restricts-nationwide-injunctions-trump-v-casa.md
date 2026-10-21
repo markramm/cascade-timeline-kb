@@ -73,5 +73,4 @@ The ruling explicitly overturned the approach that allowed single district court
 
 ## Coverage updates
 
-- **2026-06-02**: One-year impact analysis added to cascade-research substrate. See [[trump-v-casa-impact-analysis-2026-06-02]] for the post-ruling assessment of which open injunctions narrowed, which procedural strategies (Rule 23(b)(2) class actions, state-AG complete-relief, APA § 706 vacatur, association standing) became primary, and the Lederman / Just Security critique of Barrett's historical-Chancery framing. Companion watch-list at [[trump-v-casa-downstream-ruling-watchlist]] tracks Trump v. Barbara (No. 25-365, argued 4/1/2026), the New Hampshire class certification under Judge Laplante, and other downstream rulings testing the new procedural boundary. The substantive birthright-citizenship question CASA left open is now before the Court on the merits in Barbara; decision expected end of June 2026.
 

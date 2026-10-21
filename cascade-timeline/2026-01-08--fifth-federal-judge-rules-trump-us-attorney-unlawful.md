@@ -253,7 +253,7 @@ corrections:
   was: Actor "Daniel Essayli"; "Judge Jack Campbell" (D. Nev.); Brann "Aug 22, 2025"; "Judge Patricia Tolliver Currie"; "Fifth and final ruling"; "Appointees did not meet statutory qualifications"; "Five federal judges ... unanimously rejected"; "filed appeals rather than comply"; title "Fifth Federal Judge Rules Trump-Appointed U.S. Attorney Unlawfully Installed"
   now: 'The official is Bilal A. Essayli; the Nevada judge is David G. Campbell; Brann''s opinion is dated Aug. 21, 2025; the Essayli order (C.D. Cal. No. 5:25-cr-264, Document 56, Oct. 28, 2025) disqualifies him as Acting U.S. Attorney from three defendants'' cases and denies dismissal; Brann did not reach the constitutional issues; the Second Circuit affirmed the Sarcone ruling Aug. 21, 2026. ''Fifth and final'' and the ''common findings'' are removed: no read source counts the rulings or supports them, and the cited NBC URL returns an unrelated page.'
   why: D.N.J. No. 1:24-cr-00768 ECF 144; D. Nev. No. 2:25-cr-00240 ECF 42; C.D. Cal. No. 5:25-cr-264 ECF 56; 2d Cir. No. 26-156 (Aug. 21, 2026); 9th Cir. No. 25-6214 (Aug. 17, 2026); 3d Cir. Nos. 25-2635, 25-2636 (Dec. 1, 2025)
-  found_by: correction pass 2026-10-13 (research note unlawfully-serving-us-attorneys-essayli-order-and-the-ninth-circuit-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 actors:
 - Lorna Schofield
 - John A. Sarcone III

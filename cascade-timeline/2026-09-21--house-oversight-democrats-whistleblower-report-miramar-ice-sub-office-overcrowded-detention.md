@@ -248,22 +248,22 @@ corrections:
   was: 'Title: "House Oversight Democrats Release Whistleblower Report: Miramar ICE Check-In Office Held 342 People, Capacity 50"; "the building, with its maximum capacity of 50 people, at one point held 342 people"'
   now: The letters say the facility has "a rated capacity of 56 people" and is "allegedly routinely detaining hundreds, including up to 342 people during one day in August"; the 342 is what ICE employees alleged to lawmakers, not a count.
   why: Sept. 21, 2026 letters from Reps. Garcia, Thompson and Frost to the Acting ICE Director, https://oversightdemocrats.house.gov/imo/media/doc/2026-09-21garciathompsonfrosttoicerefloridawbsappendixa.pdf
-  found_by: correction pass 2026-10-13 (research note miramar-ice-sub-office-what-the-primary-record-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"released a whistleblower report on Sept. 21 that prompted the committee to open an investigation"'
   now: The entry describes two Sept. 21 letters from the Ranking Members, which say Democrats on the Oversight and Homeland Security committees "are investigating".
   why: https://oversightdemocrats.house.gov/imo/media/doc/2026-09-21garciathompsonfrosttoicerefloridawbsappendixa.pdf (letter, p. 2)
-  found_by: correction pass 2026-10-13 (research note miramar-ice-sub-office-what-the-primary-record-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"alleges as many as 150 people held there at the time it was filed"; "The suit puts the maximum occupancy at 56 rather than 50"'
   now: The class action is Salmeron v. Secretary of DHS, No. 1:26-cv-26911 (S.D. Fla.); its 150 is the number Rep. Wasserman Schultz observed on her July 2, 2026 inspection, and it takes the 342 and the capacity of 56 from the congressional letters.
   why: https://storage.courtlistener.com/recap/gov.uscourts.flsd.725158/gov.uscourts.flsd.725158.1.0.pdf (Dkt 1, paras. 1, 8, 76, 148)
-  found_by: correction pass 2026-10-13 (research note miramar-ice-sub-office-what-the-primary-record-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: The entry omitted ICE's public response.
   now: The entry adds NBC6's July 2026 report that ICE called the site a "check-in location" and said the number held "varies based on operational needs".
   why: https://www.nbcmiami.com/news/local/congresswoman-allegations-miramar-ice-processing-facility/3828909/
-  found_by: correction pass 2026-10-13 (research note miramar-ice-sub-office-what-the-primary-record-says-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 Reps. Robert Garcia, Bennie G. Thompson and Maxwell Frost, the Ranking Members of the House Oversight and Homeland Security committees and an Oversight subcommittee, wrote to the Acting ICE Director and the DHS Inspector General on September 21, 2026, citing confidential whistleblower disclosures about the Miramar, Florida ICE office. The letters say the whistleblowers are ICE employees. They say the facility, with "a rated capacity of 56 people," is "allegedly routinely detaining hundreds, including up to 342 people during one day in August." The 342 is what the employees alleged to the lawmakers, not a count. The letters say Democrats on the Oversight and Homeland Security committees "are investigating," and describe brutal conditions that put "staff, detainees, and the public at imminent risk of serious harm or death." The facility is intended as a check-in and processing center where people are held for less than 12 hours.

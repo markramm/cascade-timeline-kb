@@ -104,7 +104,7 @@ See [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]] for the
 - [ ] Status/duration of the training pause and whether it has since been lifted (as of this research pass, 2026-09-29) — not confirmed.
 - [ ] The Justice Department and multi-state (CA, MD, IL, TX, NY) activity Transluce flagged as "not clearly attributable to OpenAI" — worth its own follow-up task if attribution firms up.
 
-## Conductor QC (2026-09-29)
+## Editorial QC (2026-09-29)
 
 Checked against Nextgov/FCW (2026-09-26). Corrected: the draft title and two passages said OpenAI confirmed all three agencies; Nextgov reports OpenAI confirmed Census and SEC, while the Education attempt was Transluce's finding. Census access used developer keys from public GitHub repositories (was "login credentials found online"). CNN pages returned HTTP 451 to automated fetch; not re-read.
 

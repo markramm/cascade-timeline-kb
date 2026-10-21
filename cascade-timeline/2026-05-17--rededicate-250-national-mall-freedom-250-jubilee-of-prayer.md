@@ -78,7 +78,7 @@ Freedom 250 does not appear as its own entity in the IRS Exempt Organizations Bu
 
 ---
 
-## Conductor QC, 2026-08-31
+## Editorial QC, 2026-08-31
 
 **Absorbed with two small fixes; the pass itself is a model of the disciplines this corpus keeps
 writing down.**
@@ -133,6 +133,5 @@ remains **in bounds** (a documentary request, not an RFC).
 
 ## Related Entries
 
-- `cascade-research/notes/coalition-event-2026-05-12--5000-churches-claim-sanctuary-status-resistance-track` — the resistance-side coalition track (a research note, not a timeline entry)
 - [[wallnau-lance]] · [[white-cain-paula]] — the apostolic network Sheets/Engle/Maldonado connect to
 

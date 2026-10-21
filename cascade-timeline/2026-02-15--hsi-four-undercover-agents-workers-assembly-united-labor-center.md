@@ -33,11 +33,6 @@ sources:
     publisher: "US District Court, District of Minnesota — Case 0:26-cr-00115-KMM-DTS, Doc. 212-14, filed 08/13/26"
     date: '2026-08-13'
     tier: 1
-  - title: "US v. Sant, 0:26-cr-00115 (D. Minn.), Doc. 212 — full unsealed Report-of-Investigation set"
-    url: "cascade-research/documents/sources/us-v-sant-0-26-cr-00115-doc-212-full-roi-set.md"
-    publisher: "cascade-research internal catalog, sourced to CourtListener RECAP archive"
-    date: '2026-08-20'
-    tier: 1
   - title: "As Minnesotans organized against ICE, DHS spied on meetings, subpoenaed bank records, court filings say"
     url: "https://kstp.com/kstp-news/top-news/as-minnesotans-organized-against-ice-dhs-spied-on-meetings-subpoenaed-bank-records/"
     publisher: KSTP 5 Eyewitness News

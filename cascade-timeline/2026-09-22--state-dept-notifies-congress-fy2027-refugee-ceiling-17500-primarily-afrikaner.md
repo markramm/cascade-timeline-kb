@@ -215,22 +215,22 @@ corrections:
   was: 'Title: State Department Notifies Congress It Will Propose a 17,500 FY2027 Refugee Ceiling, ''Primarily'' Afrikaners Again'
   now: The 'primarily' in the title was PD 2025-13's word for FY2026, not the FY2027 notice's; AP's account says 'mostly white South Africans'. The title now attributes the plan to AP's reporting of the notice.
   why: AP (via ClickOnDetroit), Sept. 22, 2026; House Judiciary Committee Democrats' press release of Sept. 24, 2026; PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the same 17,500 figure ... reserved the entire 10,000-slot increase for Afrikaners from South Africa
   now: '''10,000-slot increase'' is arithmetic (17,500 minus 7,500), not text from PD 2026-14. The entry states the two ceilings as the documents do: PD 2025-13 ''up to 7,500''; PD 2026-14 ''an increase in the ceiling to 17,500 is warranted'', with the additional admissions allocated among Afrikaners from South Africa.'
   why: AP (via ClickOnDetroit), Sept. 22, 2026; House Judiciary Committee Democrats' press release of Sept. 24, 2026; PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: argues Afrikaners face uncompensated land seizures and employment/education discrimination
   now: AP's account of the notice is that it said the white South Africans faced seizures of their land and other forms of persecution; 'uncompensated' and 'employment/education discrimination' are not in AP's text and are cut.
   why: AP (via ClickOnDetroit), Sept. 22, 2026; House Judiciary Committee Democrats' press release of Sept. 24, 2026; PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Cut: ''No Presidential Determination for FY2027 had issued as of September 28 (confirmed against the Federal Register)''; ''of 12,904 total FY2026 arrivals through August, exactly 3 were not South African''; ''a formal congressional consultation session followed on September 23'''
   now: Cut because no document the gate can fetch binds them (the Refugee Processing Center tables are PDF/xlsx; the press release says only that the meeting was 'yesterday' relative to Sept. 24).
   why: AP (via ClickOnDetroit), Sept. 22, 2026; House Judiciary Committee Democrats' press release of Sept. 24, 2026; PD 2025-13 (90 FR 49005) and PD 2026-14 (91 FR 31645) at govinfo.gov
-  found_by: correction pass 2026-10-13 (research note fy2026-refugee-admissions-by-nationality-and-the-eo-14204-determination-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 verification: source-verified
 ---
 

@@ -33,4 +33,3 @@ On 2025-09-04, President Alan Garber issued a statement ("An Update on Our Litig
 ## Cross-references
 
 - Predicate: [[2025-08-26--harvard-extortion-demand]] (Trump's $500M demand tied to the same funding freeze)
-- Related structural-analysis note: [[media-capture-completion-event-pattern-60-minutes-black-thursday-2026]] (cascade-research) — higher-ed Phase 4 completion-event analog discussion

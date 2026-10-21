@@ -73,7 +73,7 @@ The Department of Justice filed suit against the City of Los Angeles, Mayor Kare
 
 LA City Attorney **Hydee Feldstein Soto**: the order *"reinforces the well-established principle that local governments have the authority to decide how to use their personnel and resources."* Then-Attorney General **Pamela Bondi**, at filing: *"Sanctuary policies were the driving cause of the violence, chaos, and attacks on law enforcement that Americans recently witnessed in Los Angeles."* **That confirms the "fueled riots" framing was DOJ's own causal claim** — the open question the entry correctly refused to assume from headlines.
 
-The dismissal was reported contemporaneously from Courthouse News, Bloomberg Law, the Los Angeles Daily News, Police1, the Washington Examiner, and the Guardian — a striking cross-spectrum convergence (left, right, and legal-trade outlets all reporting dismissal within a 48-hour window, June 22-24, 2026). This is a ruling, not an allegation; quote it directly once the opinion text is recovered (not done this pass). A separate July 2026 cascade-research entry on DOJ's Maryland suit ([[2026-07-09--doj-sues-maryland-community-trust-act-21st-state]]) independently corroborates the June 2026 LA dismissal date and states DOJ's suits rely on 8 U.S.C. §§ 1373 and 1644 preemption theory — consistent with, though not confirmed identical to, the LA complaint's theory.
+The dismissal was reported contemporaneously from Courthouse News, Bloomberg Law, the Los Angeles Daily News, Police1, the Washington Examiner, and the Guardian — a striking cross-spectrum convergence (left, right, and legal-trade outlets all reporting dismissal within a 48-hour window, June 22-24, 2026). This is a ruling, not an allegation; quote it directly once the opinion text is recovered (not done this pass). A separate July 2026 timeline entry on DOJ's Maryland suit ([[2026-07-09--doj-sues-maryland-community-trust-act-21st-state]]) independently corroborates the June 2026 LA dismissal date and states DOJ's suits rely on 8 U.S.C. §§ 1373 and 1644 preemption theory — consistent with, though not confirmed identical to, the LA complaint's theory.
 
 **Pattern**: This LA case sits within a documented, much larger DOJ litigation campaign against sanctuary jurisdictions that by July 2026 had reached at least 21 state-level suits (per the Maryland entry) plus city-level suits against Chicago/Illinois, four New Jersey cities, Minnesota, Colorado/Denver, and Boston — nearly all reported dismissed on similar grounds (Illinois/Chicago July 25 2025; four NJ cities and Minnesota reported dismissed around July 20-24 2026; Colorado/Denver dismissed March 31, 2026). The recurrence of near-identical suits and near-identical dismissals across many jurisdictions is strong evidence of a limited legal move-set (a single preemption theory DOJ's Civil Division is running repeatedly), not evidence of coordination among the defendant cities/states — the cities did not choose to be sued using the same theory; DOJ chose to file it repeatedly.
 
@@ -82,7 +82,7 @@ The dismissal was reported contemporaneously from Courthouse News, Bloomberg Law
 
 ---
 
-**Conductor QC, 2026-08-31 — the one resolvable source was resolved, and it changed the finding.**
+**Editorial QC, 2026-08-31 — the one resolvable source was resolved, and it changed the finding.**
 
 This entry landed with **seven source URLs, all publisher homepages**. One — Courthouse News —
 resolved on a constructed path (HTTP 200), and **its title and byline were checked against the

@@ -174,7 +174,7 @@ corrections:
   was: 'Title: "Federal Judge Orders Top DOJ Officials to Testify in Criminal Contempt Inquiry Over Secret Alien Enemies Act Deportations That Defied Court Order"; body: the stay is "temporary" and testimony "will proceed" if the appeals court rules against the government'
   now: The entry states what the Dec. 8, 2025 order says (Reuveni to testify Dec. 15, Ensign Dec. 16), that the D.C. Circuit administratively stayed it on Dec. 12, that a panel vacated it on April 14, 2026, and that the full court vacated that order on June 22, 2026; the title no longer calls the witnesses top DOJ officials or says the deportations defied the order.
   why: D.D.C. No. 1:25-cv-00766, ECF 200 and ECF 208; CADC No. 25-5452 orders of Dec. 12, 2025 (Doc. 2150230) and April 14, 2026 (Doc. 2168525); docket entry of June 22, 2026 (Doc. 2179802), https://www.courtlistener.com/docket/72029089/in-re-donald-trump/
-  found_by: correction pass 2026-10-13 (research note criminal-contempt-against-executive-officials-en-banc-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 tags:
 - courts
 - contempt

@@ -104,8 +104,7 @@ The Star Tribune report is cited as independent confirmation of the filing; its 
 retrievable (HTTP 429) at the time of writing.
 
 **Own-words pass (2026-09-02).** The defendants' own accounts were gathered and verified at
-primary sources after this entry was written: `own-words-pass-cities-church-prosecution-defendants-2026`
-in cascade-research. All three named defendants are **deployable as witnesses**. Georgia Fort
+primary sources after this entry was written. All three named defendants are **deployable as witnesses**. Georgia Fort
 narrated her own arrest on livestream — *"This is all stemming from the fact that I filmed a
 protest as a member of the media"* — and later described the prosecution's effect on her work:
 *"I also worry that if I return to Cities Church to cover the ongoing protests taking place

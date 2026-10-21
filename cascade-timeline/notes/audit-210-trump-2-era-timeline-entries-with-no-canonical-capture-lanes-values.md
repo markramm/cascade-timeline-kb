@@ -18,7 +18,6 @@ This is blocking the pyrite/backlog/canonicalize-capture-lanes-taxonomy-cascade-
 - Produce a CSV or markdown report: entry-id | current-field-value | proposed-canonical-lanes | notes
 
 ## Produces
-- Report file: `cascade-research/notes/2026-04-23-unclassified-timeline-entries-audit.md`
 - Optional: PR-ready patch file for batch frontmatter updates
 
 ## Scope guard

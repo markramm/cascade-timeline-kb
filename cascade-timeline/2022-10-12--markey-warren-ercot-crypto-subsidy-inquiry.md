@@ -82,4 +82,3 @@ The inquiry predates the 2023 legislative battles (SB 1751 failed in the Texas H
 
 - [[ercot-miner-curtailment-subsidy]]
 - [[2023-09-06--riot-platforms-august-2023-ercot-curtailment-31m]]
-- [[task-inv6-crypto-energy-no-federal-data-gap]]

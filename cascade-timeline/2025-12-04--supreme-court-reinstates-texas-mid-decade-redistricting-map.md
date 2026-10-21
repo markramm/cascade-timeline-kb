@@ -254,12 +254,12 @@ corrections:
   was: "Title: Supreme Court Reinstates Texas Mid-Decade Congressional Map Designed for Republican Advantage Despite Racial Gerrymandering Findings. The body called the December 4 action a ruling that 'overrules' the district court, said the order 'was issued by Justice Samuel Alito', and described 'the Supreme Court's unsigned majority opinion' that 'overturn[ed]' the district court's findings."
   now: "The December 4, 2025 order grants Texas's application for a stay of the November 18, 2025 district court order pending appeal; Justice Alito wrote a concurrence joined by Justices Thomas and Gorsuch, and Justice Kagan a dissent joined by Justices Sotomayor and Jackson."
   why: "The Court's order and opinions in No. 25A608 (https://www.supremecourt.gov/opinions/25pdf/25a608_7khn.pdf) and its docket (https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25a608.html): a stay on an application, not a merits ruling; Alito's writing is a concurrence."
-  found_by: "correction pass 2026-10-13 (research note scotus-25a608-abbott-v-lulac-december-2025-stay-no-april-2026-entry)"
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: "Body: the stay 'virtually ensures' the map will be used, with the plaintiffs' case effectively decided by timing; the CNN and Houston Public Media characterisations of the stay as 'temporary'."
   now: "The entry states what the order says about its own duration: the stay remains in effect through any timely appeal. It says the stay application's docket (No. 25A608) ends on Dec. 4, 2025, and that the appeal (No. 25-845) was decided by summary reversal on April 27, 2026, with a link to the entry for that order."
   why: "Docket for No. 25A608 (https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/25a608.html); order list of April 27, 2026 (https://www.supremecourt.gov/orders/courtorders/042726zor_08l1.pdf) and docket for No. 25-845."
-  found_by: "correction pass 2026-10-13 (research note scotus-25a608-abbott-v-lulac-december-2025-stay-no-april-2026-entry)"
+  found_by: "editorial verification, 2026-10-13"
 ---
 The Supreme Court granted Texas's application for a stay of the district court order that had blocked the state's new congressional map. The order is dated December 4, 2025, the same day on which the Court's docket for No. 25A608 lists the application as referred to the Court. The application came from the State of Texas and several of its officials, and the stay applies to the November 18, 2025 order of the United States District Court for the Western District of Texas.
 

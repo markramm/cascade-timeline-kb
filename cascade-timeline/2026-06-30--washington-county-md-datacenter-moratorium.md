@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-30--washington-county-md-datacenter-moratorium
 date: '2026-06-30'
-date_corrected_2026_09_10: "Was 2026-07-02 (id, filename, date field and body prose). The county's own announcement (washco-md.net) states the Board of County Commissioners meeting was 2026-06-30 and the announcement was published 2026-07-01; the Maryland Daily Record piece dated 2026-07-01 says the vote happened 'Tuesday' (June 30, 2026 was a Tuesday). The 07-02 date was a publication-date-as-event-date error from the capture fleet -- see cascade-research note capture-fleet-writes-publication-date-as-event-date-audit-2026-09-10."
+date_corrected_2026_09_10: "Was 2026-07-02 (id, filename, date field and body prose). The county's own announcement (washco-md.net) states the Board of County Commissioners meeting was 2026-06-30 and the announcement was published 2026-07-01; the Maryland Daily Record piece dated 2026-07-01 says the vote happened 'Tuesday' (June 30, 2026 was a Tuesday). The 07-02 date was a publication-date-as-event-date error from the capture fleet."
 title: "Washington County MD Votes 4-1 for 12-Month Data Center Moratorium Over Infrastructure Cost-Shift Concerns"
 importance: 7
 status: confirmed

@@ -19,11 +19,6 @@ sources:
   date: '2026-08-13'
   publisher: "US District Court, District of Minnesota — Case 0:26-cr-00115-KMM-DTS, Doc. 212-21, filed 08/13/26"
   tier: 1
-- title: "US v. Sant, 0:26-cr-00115 (D. Minn.), Doc. 212 — full unsealed Report-of-Investigation set"
-  url: "cascade-research/documents/sources/us-v-sant-0-26-cr-00115-doc-212-full-roi-set.md"
-  date: '2026-08-20'
-  publisher: "cascade-research internal catalog, sourced to CourtListener RECAP archive"
-  tier: 1
 - title: "DHS Surveilled at Least Five Midwest Churches While Under a Federal Injunction Barring It"
   url: "cascade-kb/cascade-timeline/2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist.md"
   date: '2026-08-15'

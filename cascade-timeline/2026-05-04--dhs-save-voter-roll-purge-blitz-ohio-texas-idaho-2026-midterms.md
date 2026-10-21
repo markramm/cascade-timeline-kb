@@ -45,7 +45,7 @@ corrections:
   was: "An Idaho review using SAVE initially flagged 760 potential non-citizen voters; law enforcement referrals after review fell to approximately 36 - a 95% false-positive rate on naturalized citizens whose citizenship records predate SAVE's integration with Social Security Administration data. (Title: '95% False-Positive Rate Documented')"
   now: "Rewritten. 760 flags and 'about three dozen' referrals are CNN's figures (quoting Idaho's Secretary of State). The 95% was this entry's own arithmetic on a referral step (about 36 of 760 is 4.7%); CNN does not call it a false-positive rate, the referrals are not confirmed noncitizens, and the unreferred flags were not shown to be citizens. CNN dates the Idaho review to 'last year', not 2026. The clause about naturalized citizens whose records predate SAVE's SSA integration is not in CNN and is removed. Also removed as unverified: the claim that a state board voted to send its entire list, and the SAVE Act and Callais paragraphs. Title changed; the filename keeps its old slug."
   why: "https://us.cnn.com/2026/05/04/politics/voter-roll-purges-election-day ; Texas figures: https://www.sos.state.tx.us/about/newsreleases/2026/091526.shtml"
-  found_by: "task correct-canon-2026-06-04-and-2026-05-04-save-citizenship-list-entries (tick82-h), from research note 2026-10-17-state-citizenship-lists-status-before-nov-3"
+  found_by: "editorial verification"
 
 event_date_claim: c1
 date_is_publication_date: true

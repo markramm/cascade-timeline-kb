@@ -219,7 +219,7 @@ into sworn pleadings exposed to Rule-11-equivalent sanctions risk under Florida 
 
 ---
 
-**Conductor QC, 2026-08-31.** **Two premise corrections, both correct, both stated rather than
+**Editorial QC, 2026-08-31.** **Two premise corrections, both correct, both stated rather than
 written around.**
 
 **1. "Countersuit" is a misnomer in the strict sense, and the venue split is the real finding.**

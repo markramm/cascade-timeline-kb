@@ -195,5 +195,3 @@ Canon already holds seven prior White House ballroom entries (announcement, demo
 - [[2025-09-29--youtube-settlement-ballroom-funding]]
 - [[2025-10-20--white-house-ballroom-corporate-donors]]
 - [[2025-10-23--white-house-ballroom-corporate-donations]]
-- research-scotus-emergency-application-census-2026-08-27 (cascade-research)
-- leads-harvested-daily-capture-2026-08-27 (cascade-research)

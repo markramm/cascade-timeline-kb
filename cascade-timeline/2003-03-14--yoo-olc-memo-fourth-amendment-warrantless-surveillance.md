@@ -118,7 +118,7 @@ Three structural consequences:
 
 OLC withdrew the March 14, 2003 interrogation opinion through Acting AAG Daniel Levin (Dec. 30, 2004 memo; Feb. 4, 2005 letter to Haynes). Bradbury's January 15, 2009 memo disavowed the core propositions of the earlier opinions, including their reading of FISA and the Fourth Amendment for warrantless surveillance, and said OLC had not relied on them since 2003 (DOJ OLC, Jan. 15, 2009); no source shows a 2006-07 re-approval. The 2008 FISA Amendments Act codified parts of the framework in statute, providing telecom-company immunity for prior participation and authorizing Section 702 bulk collection.
 
-The March 14, 2003 memo is critical to the cascade-research investigation because the Section 702 framework established on its doctrinal foundation has become the principal federal surveillance authority of the 2020s. Contemporary debates over Section 702 reauthorization (most recently 2024) implicitly rely on the doctrinal architecture Yoo articulated in March 2003.
+The March 14, 2003 memo is critical to this investigation because the Section 702 framework established on its doctrinal foundation has become the principal federal surveillance authority of the 2020s. Contemporary debates over Section 702 reauthorization (most recently 2024) implicitly rely on the doctrinal architecture Yoo articulated in March 2003.
 
 The declassification history is itself significant. The companion Second Torture Memo was publicly released in April 2008 after sustained FOIA litigation. The surveillance memo was released in phases from 2008 forward, but substantial portions remain classified, and the OLC has not publicly indexed the full March 14, 2003 memo corpus.
 

@@ -146,12 +146,12 @@ corrections:
   was: 'vacating the panel ruling and restoring the no-bond mandatory detention policy pending rehearing [title: "5th Circuit En Banc Vacates Panel Ruling, Reinstates Mandatory No-Bond Detention"]'
   now: The en banc order vacated the panel's due-process ruling; it did not itself restore mandatory detention, whose statutory basis (Buenrostro-Mendez, Feb. 6, 2026) predated it. Title now says the order leaves the no-bond policy in place.
   why: Petition for certiorari, Rhoney v. Barbosa da Cunha, No. 26-104 (S. Ct. July 23, 2026), at 13 (citing Sosnava Rodriguez v. Ortega, 2026 WL 2014647 (5th Cir. July 10, 2026)); Buenrostro-Mendez v. Bondi, No. 25-20496 (5th Cir. Feb. 6, 2026).
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Oral argument before the full court is set for September 2026.
   now: Stateline reports the court will rehear the case in September; the day within the sitting is not established.
   why: Stateline, July 13, 2026; Bloomberg Law, July 10, 2026 (no argument date given).
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 After a three-judge panel of the 5th Circuit ruled 2-1 on July 2, 2026 that the government cannot hold immigrants for more than 90 days without a bond hearing, the full court sua sponte ordered rehearing en banc on July 10, 2026 and vacated the panel decision. Stateline reported that the appeals court will rehear the case in September, and that the order leaves the no-bond policy in place.

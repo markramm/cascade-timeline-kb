@@ -23,7 +23,7 @@ corrections:
   was: "Title and body: ICE used the warehouse \"in Violation of a May Court Agreement\"; the site was \"barred from housing detainees under a May 12 court agreement requiring completion of a NEPA environmental review before any ICE use\"; \"A contempt motion would be the first such enforcement action at the site.\""
   now: "The May 12 instrument is a joint stipulation staying adjudication of the preliminary-injunction motion, so-ordered the same day (D.N.J. 2:26-cv-02884, ECF 35, 36). It restricts conversion activities, not holding people, until a decision document relying on a final environmental assessment. As of the Sept. 15 joint report plaintiffs were \"assessing\" the reports; no enforcement motion was on the docket."
   why: "ECF 35 (stipulation): https://storage.courtlistener.com/recap/gov.uscourts.njd.593967/gov.uscourts.njd.593967.35.0.pdf ; ECF 50 (Sept. 15 joint status report): https://storage.courtlistener.com/recap/gov.uscourts.njd.593967/gov.uscourts.njd.593967.50.0.pdf"
-  found_by: "research note track-nj-ag-roxbury-contempt-response-first-enforcement-of-may-12-agreement (docket pull 2026-10-14)"
+  found_by: "editorial verification"
 sources:
   - title: "NJ AG 'carefully reviewing' claims of illegal ICE activity in Roxbury warehouse"
     url: https://pix11.com/news/local-news/ice-roxbury-warehouse-nj-ag/

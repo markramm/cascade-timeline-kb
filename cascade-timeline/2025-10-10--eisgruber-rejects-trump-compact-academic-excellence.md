@@ -39,5 +39,3 @@ On 2025-10-01 the Trump administration sent nine universities — Brown, Dartmou
 
 ## Cross-references
 
-- Related structural-analysis note: [[media-capture-completion-event-pattern-60-minutes-black-thursday-2026]] (cascade-research)
-- Corrects framing in cascade-research task `higher-ed-president-letter-sequence-fall-2025-winter-2026-...` — see that task's work log for the full negative/adjacency finding

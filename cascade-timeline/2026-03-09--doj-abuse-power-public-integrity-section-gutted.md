@@ -47,7 +47,7 @@ corrections:
   was: "'By March 9, 2026, reporting confirmed ... The section had been reduced from 36 career prosecutors to just 2' (presented the 36-to-2 figure as March 2026 reporting)"
   now: "The 36-to-2 figure is bound to NOTUS, September 22, 2025 (added as a source, and linked to the re-dated 2025-09-22 entry); the March 9 entry keeps the Washington Post assessment of that date."
   why: "https://www.notus.org/courts/doj-public-integrity re-read 2026-10-14: datePublished 2025-09-22; 'When Donald Trump took office eight months ago ... 36 experienced attorneys ... Today it has two.'"
-  found_by: "hsi-search-of-a-members-home-oct-12-what-the-record-shows-2026-10-13 (tcp-kb-internal cascade-research/notes, line 126); fixed on Mark's instruction 2026-10-14"
+  found_by: "editorial verification"
 capture_lanes:
 - Institutional Capture
 - Systematic Corruption

@@ -58,7 +58,7 @@ Separately, Variety reported Paramount Skydance CEO **David Ellison** telling St
 
 ## Work Log
 
-### 2026-08-19 (agent:claude-sonnet-5-parallel-tick1-c)
+### 2026-08-19 (editorial verification)
 
 **Sources:** Barrett Media x2, Deadline (tier 2, dated June 2026, cross-corroborating on the extension terms — two years, through 2028, signed ~June 11).
 

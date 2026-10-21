@@ -63,7 +63,7 @@ The loan places Vulcan Elements at the base of the Trump family's vertically int
 
 The $620 million Pentagon loan to the first link in this chain means taxpayer funds are flowing to a company backed by the president's son to produce components that ultimately feed into other companies backed by the president's sons, all procured by a military commanded by their father. The self-dealing is structural and systemic rather than transactional.
 
-## DATE CORRECTION — conductor, 2026-08-28
+## DATE CORRECTION — editorial note, 2026-08-28
 
 **This entry's date (`2025-11-01`, carried in its filename and `date:` field) is wrong. The
 DoD announcement is dated `Nov. 21, 2025`.**

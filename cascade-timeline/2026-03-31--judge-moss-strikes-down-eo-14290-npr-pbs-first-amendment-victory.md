@@ -27,7 +27,7 @@ sources:
     publisher: "U.S. District Court for the District of Columbia"
     date: '2026-03-31'
     tier: 1
-    note: "PRIMARY SOURCE — the opinion itself. Civil Action No. 25-1674 (RDM), consolidated with No. 25-1722. Archived in-repo with SHA-256 at cascade-research/documents/sources/files/npr-pbs-v-trump-moss-opinion-2026-03-31-dcd-25-1674-25-1722.pdf. Retrieved 2026-08-19 by the conductor to re-anchor this entry off secondary synthesis. Both disputed quotes verified verbatim; PBS co-plaintiff status confirmed."
+    note: "PRIMARY SOURCE — the opinion itself. Civil Action No. 25-1674 (RDM), consolidated with No. 25-1722. Retrieved 2026-08-19 to re-anchor this entry off secondary synthesis. Both disputed quotes verified verbatim; PBS co-plaintiff status confirmed."
   - title: "Federal Court delivers victory for press freedom and the First Amendment in NPR's challenge to Executive Order"
     url: https://www.npr.org/2026/03/31/g-s1-115996/federal-court-delivers-victory-for-press-freedom-and-the-first-amendment-in-nprs-challenge-to-executive-order
     publisher: NPR
@@ -92,7 +92,7 @@ The "draws a line" quote used above is likewise verified verbatim — and the op
 
 ## Work Log
 
-### 2026-08-19 (agent:claude-sonnet-5-parallel-tick1-c)
+### 2026-08-19 (editorial verification)
 
 **Sources:** NPR.org (direct successful fetch, tier 1), VPM (tier-1 NPR-wire mirror, search-snippet corroborated), CPR and RCFP (tier 1, search-snippet corroborated), Engadget (tier 2, direct fetch, provided the confirmed direct quote and case details: 62-page opinion, NPR v. Trump, 29 member-station plaintiffs).
 

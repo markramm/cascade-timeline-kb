@@ -77,7 +77,7 @@ This corrects and extends [[2026-05-20--new-mexico-immigrant-safety-act-hb9-take
 - [[2026-07-01--estancia-nm-water-emergency-torrance-county-detention-facility-biggest-customer]]
 - [[corecivic]]
 
-**Conductor verification of the contract record, 2026-08-27.** PIID `70CDCR26D00000029` confirmed independently against the USAspending API: **CORECIVIC, INC. / Department of Homeland Security / IDV / period beginning 2026-05-01**. The agency, recipient, instrument type, and start date all hold.
+**Editorial verification of the contract record, 2026-08-27.** PIID `70CDCR26D00000029` confirmed independently against the USAspending API: **CORECIVIC, INC. / Department of Homeland Security / IDV / period beginning 2026-05-01**. The agency, recipient, instrument type, and start date all hold.
 
 **Two precision notes on the dollar figure.** The USAspending IDV record itself shows **$0 obligated** — normal for an unfunded base IDIQ, where money moves through task orders written against the vehicle rather than through the base. So **$135,421,013.76 is a ceiling (base and all options), not money spent**, and must never be reported as an amount ICE has paid. The obligated total will accrue on the task orders and should be pulled separately before any dollar claim is published.
 

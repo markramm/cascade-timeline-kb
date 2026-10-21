@@ -121,7 +121,7 @@ This sequence is the clearest publicly documented foreign-policy-capture-through
 - [[2025-06-13--trump-2025-annual-financial-disclosure-filed]]
 
 
-## Title corrected, conductor, 2026-08-28
+## Title corrected, editorial note, 2026-08-28
 
 The title read **"Won $12 Billion in Syrian Reconstruction Contracts"** — the precise claim the
 correction above retracts. The body said "not executed contracts" while the headline said "won

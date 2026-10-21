@@ -15,7 +15,7 @@ corrections:
   was: "Body: the moratorium \"exempts projects that already have permits for site improvements — grading, paving, flood control, construction — in hand\"; \"Chair Jennifer Allen made the motion and Vice Chair Matt Heinz seconded it\"."
   now: "Section B, as amended 4-1, applies where permits \"have not been submitted for the site\", so the exemption reaches projects that had submitted, not only been issued, permits. Heinz moved and Cano seconded the resolution as amended, 3-2 (Christy and Scott no)."
   why: "Board of Supervisors meeting summary, Sept. 22, 2026: https://legistar.granicus.com/pima/meetings/2026/9/1828_M_Board_of_Supervisors_26-09-22_Meeting_Summary.pdf ; agenda-packet draft of Resolution 2026-56 (\"where permits have not been issued for site improvements\"): https://legistar.granicus.com/pima/attachments/12c764f2-f432-4394-ade0-5a388cc6cdbd.pdf ; KJZZ on Project Gravel: https://www.kjzz.org/fronteras-desk/2026-10-09/pima-county-hears-public-input-on-proposed-data-center-rules-final-vote-expected-in-december"
-  found_by: "research note pima-county-moratorium-adopted-text-submitted-not-issued-and-pipeline-2026-10-14 (ticket pima-county-data-center-zoning-policy-grandfathered-permits)"
+  found_by: "editorial verification"
 sources:
   - title: "Pima County passes 120-day moratorium on future data center projects"
     url: https://www.kjzz.org/fronteras-desk/2026-09-23/pima-county-passes-120-day-moratorium-on-future-data-center-projects

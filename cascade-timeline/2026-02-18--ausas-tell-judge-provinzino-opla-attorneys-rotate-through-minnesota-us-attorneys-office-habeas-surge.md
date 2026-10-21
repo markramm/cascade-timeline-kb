@@ -6,7 +6,7 @@ title: US Attorney's Office Tells Judge Provinzino OPLA Lawyers Rotate Through I
 importance: 5
 status: confirmed
 verification: source-verified
-verification_note: 'Conductor, 2026-10-15: check_sourcing --gate reports span-missing on c2-c4 because the transcript PDF interleaves court-reporter line numbers into the text. With the line numbers stripped, all three spans are on the page verbatim (8th Cir. 26-1327, Entry ID 5617236). Gate also flags summary wording (Oct. 13 date, "two", posture lines) as unbound; those are context, not new facts from this source.'
+verification_note: 'Editorial note, 2026-10-15: check_sourcing --gate reports span-missing on c2-c4 because the transcript PDF interleaves court-reporter line numbers into the text. With the line numbers stripped, all three spans are on the page verbatim (8th Cir. 26-1327, Entry ID 5617236). Gate also flags summary wording (Oct. 13 date, "two", posture lines) as unbound; those are context, not new facts from this source.'
 event_date_claim: c1
 claims:
 - id: c1

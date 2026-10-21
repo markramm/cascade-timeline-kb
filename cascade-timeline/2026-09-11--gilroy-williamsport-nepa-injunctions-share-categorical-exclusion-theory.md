@@ -75,7 +75,6 @@ Arizona (Surprise) — per the state's own complaint, D. Ariz. 2:26-cv-02857-SMB
 ## Related
 
 - [[wexmac-titus-warehouse-census]] — full 11-site census this template could be tested against
-- `test-whether-gilroy-and-williamsport-nepa-injunctions-share-one-legal-theory` (cascade-research task) — full work log, sourcing, and research gaps
 
 
 **Correction (2026-10-19):** The Surprise and Social Circle complaints say the plaintiffs are unaware of any categorical-exclusion document; both cases were stayed before DHS had to produce one, so these are not verified absences. DHS later filed a Record of Environmental Consideration for Roxbury, NJ (D.N.J. 2:26-cv-02884, ECF 26-3, filed 2026-04-23) invoking DHS CATEX E2*, D1, C1, signed in February 2026. GSA Form 4002 appears in the Gilroy record (a GSA lease), not in Williamsport ECF 43, which is a DHS REC citing the same C1/D1/E2* exclusions. See [[2026-04-23--dhs-files-roxbury-nj-rec-three-categorical-exclusions-signed-february]].

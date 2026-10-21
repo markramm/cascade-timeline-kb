@@ -100,7 +100,7 @@ Combined Goldman direct-seller and lender exposure across just these two transac
 
 The Roxbury transaction is the case study for the **alumni-firm procurement capture** pattern. A GSA Administrator retains material financial exposure to a major investment bank that previously employed him — and whose asset-management division he formerly co-led. The procurement architecture through which the bank sells to the federal government routes *around* the administrator's agency (via WEXMAC-TITUS). The result is a formal separation between agency responsibility and agency-administrator conflict — while the financial benefit to the administrator's retained Goldman PE positions flows through regardless.
 
-This is the cleanest single-transaction illustration of the Forst-specific conflict structure documented in his cascade-research actor profile ([[forst-edward]]).
+This is the cleanest single-transaction illustration of the Forst-specific conflict structure documented in the research record.
 
 ## Research Gaps
 

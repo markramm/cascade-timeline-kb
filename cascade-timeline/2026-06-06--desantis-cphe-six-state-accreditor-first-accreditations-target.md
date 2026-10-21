@@ -101,5 +101,3 @@ The six founding systems were all in Republican-governor-controlled states with 
 - [[rulemaking-tracking-education-dept-firings-accreditation-rule-restructuring-mechanism]] — AIM rulemaking context (May 21, 2026 final consensus)
 - [[coalition-event-neche-proposes-removing-dei-standards-under-trump-pressure-accreditor-capture-mechanism]] — NECHE parallel pattern (federal lever vs. state alternative)
 - [[administrative-engineering-of-accountability-evasion-2026]] (fe65eba8) — Mode 4 candidate: accreditation-as-substitute-jurisdiction; conductor synthesis required
-- [[desantis-ron]] — actor profile: **does not exist in cascade-research as of June 2026; follow-up task needed**
-- Substrate note: [[desantis-cphe-six-state-accreditor-launch-substrate-tick2-worker-e]]

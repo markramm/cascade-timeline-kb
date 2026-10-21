@@ -199,12 +199,12 @@ corrections:
   was: 'against the federal government and the Sainte Genevieve County sheriff [title: "... Sue the Federal Government and a Sheriff Over Clergy Access ..."]'
   now: The defendants are three county officials (Sheriff Stolzer, Major Schott, Lt. Johnson) and three federal officials (Secretary Mullin, ICE Acting Director Venturella, Associate Director Fenton), each in an official capacity; no agency or government is named. The entry now names them and the case, No. 1:26-cv-00224-MTS.
   why: Complaint, Rozanski v. Stolzer, No. 1:26-cv-00224-MTS (E.D. Mo. Oct. 5, 2026), ECF 1, caption and paras. 17-19.
-  found_by: correction pass 2026-10-13 (research note archbishop-of-st-louis-v-dhs-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Archbishop Mitchell Thomas Rozanski of St. Louis, with the Archdiocese, filed a complaint
   now: Fr. Christopher Schroeder, a priest of the Archdiocese who visits detainees at the jail, is also a named plaintiff; the visitation and contract facts are the complaint's allegations and are labelled so.
   why: Complaint, ECF 1, caption and para. 14.
-  found_by: correction pass 2026-10-13 (research note archbishop-of-st-louis-v-dhs-what-the-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 Archbishop Mitchell Thomas Rozanski of St. Louis, Fr. Christopher Schroeder and the Archdiocese filed a complaint on Monday (Oct. 5) in the U.S. District Court for the Eastern District of Missouri, *Rozanski, Schroeder and Archdiocese of St. Louis v. Stolzer et al.*, No. 1:26-cv-00224-MTS. The defendants are Sheriff Gary Stolzer, Major Jason Schott and Lt. Andrew Johnson of the Sainte Genevieve County jail, and DHS Secretary Markwayne Mullin, ICE Acting Director David J. Venturella and Jennifer M. Fenton, Associate Director of ICE's Office of Professional Responsibility, each sued in an official capacity. The complaint alleges that the government has instituted a 'no contact' policy at the Sainte Genevieve County Detention Center, where immigrants detained by Immigration and Customs Enforcement officials are being held, that forces clergy to speak to detainees through a glass partition and 'prevents priests from administering the sacraments of confession and Communion', limiting clergy to one four-hour visit a week. The Catholic leaders also allege lawyers visiting clients at the facility are not bound by the same rules or are 'readily' granted exemptions.

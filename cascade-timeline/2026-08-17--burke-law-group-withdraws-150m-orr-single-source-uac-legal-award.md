@@ -117,7 +117,7 @@ precisely because the tool is a RELEVANCE-RANKED search, not a filter: the same 
 returns 20 rows, the remainder being unrelated NRC and USDA notices. The finding is
 "no re-announcement among the Burke-matching documents," which the ranking supports —
 not "the corpus contains exactly two documents," which it does not show.
-(Corrected by conductor QC, tick 3: the original read the row count as a filter result.)
+(Corrected by Editorial QC, tick 3: the original read the row count as a filter result.)
 
 Plaintiffs' counsel in CLSEPA told the court that **"these half-baked plans are not
 sufficient to comply with this court's order."** Meanwhile Acacia confirmed its providers

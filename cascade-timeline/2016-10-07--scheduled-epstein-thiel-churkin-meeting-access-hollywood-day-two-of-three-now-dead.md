@@ -26,11 +26,6 @@ actors:
   - Vitaly Churkin
   - Cara Groff (Epstein scheduler)
 sources:
-  - title: "Vitaly Churkin actor profile"
-    publisher: cascade-research / epstein-network
-    type: KB-cross-reference
-    note: "EFTA02040190 staff coordination email noting 'Peter Thiel and Vitaly Churkin will be coming' — documented in epstein-network/actors/vitaly-churkin.md"
-    tier: 1
   - title: "Epstein-Thiel-Churkin scheduling: Access Hollywood-day overlap"
     url: https://theramm.substack.com/p/a-senator-said-epstein-explains-trump
     publisher: The RAMM (Mark Ramm)
@@ -70,13 +65,13 @@ Whatever the meeting was about, two of the three named subjects are now dead and
 
 ## Update 2026-05-07: The Meeting Executed (Multiple Tier-1 Confirmations)
 
-The original "scheduling-shows-intent-not-execution" framing is **overturned** by tick105 worker findings. The meeting on Friday, October 7, 2016 took place. Documented:
+The original "scheduling-shows-intent-not-execution" framing is **overturned** by later research findings. The meeting on Friday, October 7, 2016 took place. Documented:
 
-### Documentary smoking gun (Worker tick105-d, EFTA Groff retrieval)
+### Documentary smoking gun (EFTA Groff retrieval)
 
-Five EFTA exhibits not previously in the cascade-research KB now establish execution:
+Five EFTA exhibits not previously documented in this timeline now establish execution:
 
-- **EFTA02447480**: Thiel's affirmative reply confirming Friday the 7th. *"Would lunch on Friday the 7th work?"* per Worker tick105-c — **Thiel proposed the date himself**, not passive acceptance.
+- **EFTA02447480**: Thiel's affirmative reply confirming Friday the 7th. *"Would lunch on Friday the 7th work?"* — **Thiel proposed the date himself**, not passive acceptance.
 - **EFTA02448859**: Epstein same-day invite to Ken Starr — *"peter thiel and vitaly churkin for lunch today"* — Starr invited; whether he attended is not confirmed.
 - **EFTA02329682**: Lesley Groff to Shuliak (same-day directive) — to be *"in charge of the important lunch today."*
 - **EFTA02040252**: Groff staff memo — *"important lunch on Friday."*
@@ -86,7 +81,7 @@ Five EFTA exhibits not previously in the cascade-research KB now establish execu
 
 The scheduler in the cited correspondence is **Lesley Groff**, Epstein's executive assistant of ~18 years. "Cara Groff" appears in some secondary sources as a transcription error and does not appear in any primary document. Lesley Groff is the second-most cited individual in the DOJ Epstein-file corpus (~150,000 mentions) and received a House Oversight testimonial-interview request dated March 3, 2026.
 
-### Thiel's WSJ 2023 acknowledgment (Worker tick105-b)
+### Thiel's WSJ 2023 acknowledgment
 
 In **August 2023**, Wall Street Journal reporter Rebecca Ballhaus published an Epstein-calendar investigation in which Peter Thiel addressed Epstein-arranged meetings with Russian officials including Churkin. Thiel's two on-record quotes:
 
@@ -130,11 +125,11 @@ The first quote is a content-deflection. The second is a partial admission frame
 
 **The load-bearing question that has NEVER been put to Thiel**: *"Were you scheduled with Churkin and Epstein on October 7, 2016 — the same day the Access Hollywood tape dropped, six days before your $1.25M Trump donation?"*
 
-Worker tick105-b's negative-finding-as-finding: no journalist has anchored the question to that specific date or to the donation-timing convergence. The WSJ framing was general (Epstein arranged meetings with Russian officials including Churkin); the specific Access-Hollywood-day convergence has not been put to Thiel.
+The negative finding: no journalist has anchored the question to that specific date or to the donation-timing convergence. The WSJ framing was general (Epstein arranged meetings with Russian officials including Churkin); the specific Access-Hollywood-day convergence has not been put to Thiel.
 
 ## The Counterintelligence Question (load-bearing 2026 unknown)
 
-Worker tick105-b also surfaced a structural contradiction worth load-bearing analytical weight:
+Research also surfaced a structural contradiction worth load-bearing analytical weight:
 
 **Thiel was simultaneously (a) an FBI confidential human source under codename "Philosopher" reporting Kremlin recruitment attempts, AND (b) publicly dismissing Russian 2016 election interference as not "material" and the Mueller investigation as "an insane wild goose chase" at NYT DealBook 2018.**
 
@@ -191,8 +186,6 @@ The narrative arc: a meeting was scheduled; we know it was scheduled; we don't k
 ## Cross-References
 
 - [[vitaly-churkin]] (epstein-network actor entry, full scheduling-document analysis)
-- [[thiel-peter]] (cascade-research + thiel-network actor entries)
-- [[epstein-jeffrey]] (cascade-research actor entry)
 - [[russian-intelligence-lineage-belyakov-churkin-rdif-and-the-2]] (epstein-network synthesis entry)
 - [[2014-01-01--epstein-belyakov-meetings]] (FSB Academy graduate Epstein-corresponded)
 - [[2016-07-21--thiel-rnc-speech]] (prior Thiel public Trump support)

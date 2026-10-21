@@ -147,7 +147,7 @@ corrections:
   was: 'The five people facing federal charges are alleged by federal authorities to have disrupted operations at the NCATC on multiple occasions. [title: "... Charge Five Over Disruptions at ICE''s Vermont Targeting Center ..."]'
   now: The Information (D. Vt. No. 2:26-mj-00186-kjd, filed Sept. 30, 2026) charges obstructing the usual use, enjoyment, and access to the NCATC under 40 U.S.C. 1315 and 6 C.F.R. 139.35(d); it does not use the words "disrupted operations". The Intercept's wording is no longer stated as the charge.
   why: Information, Doc. 1, United States v. Booth et al., D. Vt. No. 2:26-mj-00186-kjd (counts One to Three), https://storage.courtlistener.com/recap/gov.uscourts.vtd.41777/gov.uscourts.vtd.41777.1.0.pdf
-  found_by: correction pass 2026-10-13 (research note vermont-federal-charges-over-ice-protests-what-the-filings-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 The Intercept reported on October 7 2026 that, last week, federal prosecutors unveiled surprise charges against five people, some of whom were already being charged by Vermont Attorney General Charity Clark. The Information in the federal case (D. Vt. No. 2:26-mj-00186-kjd, filed September 30, 2026) charges that the defendants knowingly obstructed the usual use, enjoyment, and access to federal property, ICE's National Criminal Analysis and Targeting Center in Williston, under 40 U.S.C. 1315 and 6 C.F.R. 139.35(d). In late September, Clark introduced surprise misdemeanor charges against 13 protesters for allegedly participating in a July sit-in at the NCATC.

@@ -60,11 +60,6 @@ sources:
     publisher: Federal Register / DHS
     date: '2025-10-27'
     tier: 1
-  - title: "DHS R&D-to-Operational Conversion: Quantification and companies.json ICE/CBP/TSA Cross-Reference"
-    url: file:///Users/markr/tcp-kb-internal/cascade-research/notes/dhs-r-d-to-operational-conversion-quantification-companies-cross-reference.md
-    publisher: cascade-research KB (worker-e tick-8, 2026-05-14)
-    date: '2026-05-14'
-    tier: 1
 capture_lanes:
   - Surveillance Infrastructure
   - DHS-RD-Pipeline-Accountability-Gap

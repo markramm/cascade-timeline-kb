@@ -22,7 +22,6 @@ Gap analysis (2026-04-23): 2026 timeline entries show dramatic drops in capture_
 - Identify which lanes appear genuinely absent (content gap) vs present-but-unclassified (process gap)
 
 ## Produces
-- Brief report in `cascade-research/notes/` on findings
 - Recommendations: fix daily-capture skill, update ingestion scripts, add validation hook, or (if real content gap) new research tickets per lane
 
 ## Scope guard

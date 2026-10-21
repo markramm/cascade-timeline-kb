@@ -43,11 +43,6 @@ sources:
     outlet: Lawfare
     date: '2026-06'
     tier: 1
-  - title: "Todd Blanche — Cross-Investigation Hinge: Acting AG Managing Endpoint on Four Accountability Threads"
-    url: internal://cascade-research/actors/blanche-todd
-    outlet: cascade-research internal substrate (commit 8382c9fe)
-    date: '2026-06-09'
-    tier: 2
 capture_lanes:
   - Democratic Erosion
 relocated_lanes:
@@ -63,7 +58,7 @@ On June 5, 2026 — the deadline set by Judge Amit Mehta's May 29 order — the 
 
 ## The DOJ supplemental filing
 
-DOJ filed its supplemental response by the June 5 deadline. The substance of that filing as documented in cascade-research substrate: the response was characterized by legal analysts and critics — including coverage tracked in Lawfare, PBS NewsHour, and associated legal-domain commentary — as insufficient to satisfy Mehta's order. Specifically, critics described the filing as continuing to rely on conclusory assertions of public interest rather than supplying the specific factual documentation Mehta had ordered.
+DOJ filed its supplemental response by the June 5 deadline. The substance of that filing as documented in the record: the response was characterized by legal analysts and critics — including coverage tracked in Lawfare, PBS NewsHour, and associated legal-domain commentary — as insufficient to satisfy Mehta's order. Specifically, critics described the filing as continuing to rely on conclusory assertions of public interest rather than supplying the specific factual documentation Mehta had ordered.
 
 **Discipline on framing**: The characterization of the filing as "insufficient" or as evidence that "DOJ defied" the court is critics' characterization — documented in Lawfare and associated legal-domain commentary — and is preserved as such. As of the June 9 digest compile date, Mehta had issued no finding of contempt, no order denying the dismissal motion on the merits, and no further order compelling DOJ compliance. The motion remains pending. The "DOJ defies court" frame is the critics' read of DOJ's response posture; it is not a judicial finding.
 

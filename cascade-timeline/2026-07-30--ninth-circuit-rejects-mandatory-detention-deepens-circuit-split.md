@@ -137,17 +137,17 @@ corrections:
   was: 'The ruling deepens a circuit split now standing at 4-2: the Second Circuit, Eleventh Circuit, and now the Ninth Circuit have rejected the policy [title: "Deepening 4-2 Circuit Split"]'
   now: The Associated Press counts four other circuits that had rejected the policy before the Ninth (the Ninth's own opinion cites the 2d, 6th, 10th and 11th), against the Fifth and Eighth; the 4-2 count omitted the Sixth and Tenth.
   why: Rodriguez Vazquez v. Bostock, No. 25-6842 (9th Cir. July 30, 2026), https://cdn.ca9.uscourts.gov/datastore/opinions/2026/07/30/25-6842.pdf; AP report at https://www.aljazeera.com/news/2026/7/30/us-appeals-court-rejects-trump-expansion-of-mandatory-migrant-detention
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: a cert petition is already pending in a related case ([[...genalo...]])
   now: Genalo was a granted case on a different (prolonged-detention) question, not a petition on this question; the sentence now says only that the administration had asked the Supreme Court to consider the question, per the AP.
   why: Supreme Court docket No. 25-886 (granted June 15, 2026; dismissed under Rule 46); AP report of July 30, 2026.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the Fifth Circuit's en banc panel ([[2026-07-10--5th-circuit-en-banc-reinstates-mandatory-detention]]) and the Eighth Circuit have upheld it
   now: The Fifth Circuit's statutory holding for the government is Buenrostro-Mendez (Feb. 6, 2026), not an en banc ruling; the en banc court vacated a different, due-process panel opinion. The sentence now says the Fifth and Eighth Circuits sided with the administration and points to the 07-10 entry as a separate order.
   why: Buenrostro-Mendez v. Bondi, No. 25-20496 (5th Cir. Feb. 6, 2026); Sosnava Rodriguez v. Ortega, No. 26-50183 (5th Cir. July 21, 2026) published order.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 The U.S. Court of Appeals for the Ninth Circuit ruled, in an opinion filed July 30, 2026 in *Rodriguez Vazquez v. Bostock*, that aliens present without admission who are apprehended in the interior of the United States are subject to the detention regime of § 1226, not § 1225(b)(2)(A), rejecting the Trump administration's expansion of mandatory no-bond detention. The vote was two to one, with a judge appointed by President Donald Trump in the majority; Judge Bea dissented.

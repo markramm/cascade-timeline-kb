@@ -28,7 +28,7 @@ tags:
 capture_lanes:
 - Electoral Manipulation
 status: reported
-gate_note: 'Conductor 2026-10-15: dated to first press reports. The Garman v. Patel complaint (D.D.C. 1:26-cv-01086) pleads the firings on Oct. 7, 2025. Not re-dated; see register-of-retaliatory-fbi-doj-firings-and-the-suits-they-produced-2025-2026 (cascade-research).'
+gate_note: 'Editorial note 2026-10-15: dated to first press reports. The Garman v. Patel complaint (D.D.C. 1:26-cv-01086) pleads the firings on Oct. 7, 2025. Not re-dated.'
 coverage:
 - url: https://theramm.transparencycascade.org/p/the-fbi-purge-complaint-in-de-fired
   title: "The FBI Purge Complaint in Detail: Fired for the work"

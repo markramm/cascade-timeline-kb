@@ -47,7 +47,7 @@ notes: Event highlights potential quid pro quo between campaign donations and pr
 capture_lanes:
 - Regulatory Capture
 - Electoral Manipulation
-gate_note: 'Conductor 2026-10-15: the DOJ Pardon Attorney list gives the grant date as March 27, 2025; this entry carries the March 28 announcement/report date (not re-dated). The "$695.2M" restitution figure is unsupported: prosecutors sought about $661M and no restitution amount was set before the pardon. See cascade-research register-milton-pardon-donations-and-kennedy-zeldin-letters-payments-and-outcomes. Donations: $1,844,600 from Trevor and Chelsey Milton to the Trump 47 Committee JFC (Oct 10/17, 2024, FEC); $750,000 from Trevor to MAHA Alliance (Sept 18, 2024).'
+gate_note: 'Editorial note 2026-10-15: the DOJ Pardon Attorney list gives the grant date as March 27, 2025; this entry carries the March 28 announcement/report date (not re-dated). The "$695.2M" restitution figure is unsupported: prosecutors sought about $661M and no restitution amount was set before the pardon. Donations: $1,844,600 from Trevor and Chelsey Milton to the Trump 47 Committee JFC (Oct 10/17, 2024, FEC); $750,000 from Trevor to MAHA Alliance (Sept 18, 2024).'
 ---
 
 President Trump pardoned Nikola founder Trevor Milton, who was convicted of securities fraud in October 2022, after Milton donated $1.8M to Trump's 2024 re-election campaign. The pardon effectively eliminates $695.2 million in potential restitution to Nikola shareholders and prevents further legal consequences for Milton's fraudulent actions.

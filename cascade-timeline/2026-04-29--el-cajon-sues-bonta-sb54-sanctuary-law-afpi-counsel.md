@@ -66,7 +66,7 @@ The City of El Cajon (San Diego County) **announced** a lawsuit against Californ
 
 ---
 
-**Conductor QC, 2026-08-31 — three corrections against the one live source.**
+**Editorial QC, 2026-08-31 — three corrections against the one live source.**
 
 Of twelve source URLs across this entry and its sibling, **eleven are publisher homepages**, not
 articles. The KPBS URL is the only one with a real path; it returns **200** and was read in full.

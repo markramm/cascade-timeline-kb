@@ -82,5 +82,4 @@ On **October 31, 2016**, Thiel gave a full public defense of his Trump support a
 
 - [[2016-10-07--scheduled-epstein-thiel-churkin-meeting-access-hollywood-day-two-of-three-now-dead]] — eight days prior; scheduled Churkin-Thiel lunch
 - [[2016-07-21--thiel-rnc-speech]] — prior public Trump endorsement; financial commitment followed four months later
-- [[thiel-peter]] — cascade-research actor profile
 - [[epstein-thiel-vance-pipeline]] — 15-year arc context

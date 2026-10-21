@@ -233,17 +233,17 @@ corrections:
   was: ICE purchased the warehouse for $66 million in January.
   now: 'Attributed to the outlets: TPR says January; KSAT, citing the San Antonio Business Journal, says February. The deed of record is dated Feb. 3, 2026.'
   why: 'Deed of record: General Warranty Deed dated 2026-02-03, CRP OIG SAN ANTONIO 410 OWNER LP to the United States, instrument 20260020383 (county deed index as shown on the BCAD portal, Property ID 1371100, read 2026-09-14; not fetchable by the gate, so the date is in this note only); KSAT/San Antonio Business Journal, Sept. 1, 2026 (''in February''); USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13)'
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'According to the Bexar County Appraisal District, the property was appraised at $37.6 million and sold for $66.1 million. (claims c2, c2b, c9 labelled source_kind: primary)'
   now: The $66 million and $66.1 million figures are outlet reporting (KSAT attributes the price to the appraisal district; the BCAD record read shows a deed, not a price; no deed or federal record read states it). The claims are relabelled secondary and the body no longer states the price as verified.
   why: 'Deed of record: General Warranty Deed dated 2026-02-03, CRP OIG SAN ANTONIO 410 OWNER LP to the United States, instrument 20260020383 (county deed index as shown on the BCAD portal, Property ID 1371100, read 2026-09-14; not fetchable by the gate, so the date is in this note only); KSAT/San Antonio Business Journal, Sept. 1, 2026 (''in February''); USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13)'
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: ICE subsequently awarded GardaWorld a roughly $17 million contract to renovate the warehouse and provide services.
   now: TPR's 'roughly $17 million' was the first-day obligation; USAspending now lists award 70CDCR26FR0000103 at $61,829,037.54 obligated (a Sept. 29, 2026 modification added $44.5M) and $1,008,135,768.12 potential.
   why: 'Deed of record: General Warranty Deed dated 2026-02-03, CRP OIG SAN ANTONIO 410 OWNER LP to the United States, instrument 20260020383 (county deed index as shown on the BCAD portal, Property ID 1371100, read 2026-09-14; not fetchable by the gate, so the date is in this note only); KSAT/San Antonio Business Journal, Sept. 1, 2026 (''in February''); USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13)'
-  found_by: correction pass 2026-10-13 (research note san-antonio-east-side-ice-warehouse-purchase-what-the-records-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 The Oct. 2 statement by San Antonio Mayor Gina Ortiz Jones signals an escalation in her opposition to the ICE warehouse project. She said: "I support legal action to halt all activities related to renovating the Eastside facility into a 1,500-person ICE processing center". She said a Sept. 30 deadline for the latest inquiry passed without a response.

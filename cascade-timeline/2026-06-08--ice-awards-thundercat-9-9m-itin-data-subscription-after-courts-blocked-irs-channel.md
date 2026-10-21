@@ -219,27 +219,27 @@ corrections:
   was: 'Title: ICE Awards Thundercat $9.97M for an ITIN Data Subscription Months After Two Courts Blocked the IRS Channel'
   now: The title states the obligated amount, the signing date and the Feb. 5, 2026 D. Mass. injunction by its subject, IRS-sourced return information.
   why: 'USAspending award 70CMSD26FR0000045 (api.usaspending.gov): signed 2026-06-05, performance 2026-06-08 to 2027-06-07, $9,968,353.56; Dkt 75, Memorandum & Order, Talwani, J., Feb. 5, 2026, D. Mass. No. 1:25-cv-12822-IT (https://storage.courtlistener.com/recap/gov.uscourts.mad.289669/gov.uscourts.mad.289669.75.0_1.pdf)'
-  found_by: correction pass 2026-10-13 (research note ice-taxpayer-id-data-purchase-what-the-docket-and-contract-record-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: the capture ledger gave the date as June 5 (the publication date of the 404 Media story) ... June 8 is the award record's own start date
   now: June 5, 2026 is the award's signing date (date_signed) and June 8 the start of performance; neither is a publication date. The 404 Media page read carries the date Jun 17, 2026; the source date is changed to that and its original publication date is not resolved.
   why: 'USAspending award 70CMSD26FR0000045 (api.usaspending.gov): signed 2026-06-05, performance 2026-06-08 to 2027-06-07, $9,968,353.56; Dkt 75, Memorandum & Order, Talwani, J., Feb. 5, 2026, D. Mass. No. 1:25-cv-12822-IT (https://storage.courtlistener.com/recap/gov.uscourts.mad.289669/gov.uscourts.mad.289669.75.0_1.pdf)'
-  found_by: correction pass 2026-10-13 (research note ice-taxpayer-id-data-purchase-what-the-docket-and-contract-record-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Judge Indira Talwani (D. Mass.) went further — a 42-page order blocking the entire program
   now: The Feb. 5, 2026 order (No. 1:25-cv-12822-IT) stays the IRS-ICE information-sharing arrangements and bars DHS and ICE from acting on return information obtained from the IRS under them; it does not block 'the entire program', and it does not mention purchases from vendors or brokers.
   why: 'USAspending award 70CMSD26FR0000045 (api.usaspending.gov): signed 2026-06-05, performance 2026-06-08 to 2027-06-07, $9,968,353.56; Dkt 75, Memorandum & Order, Talwani, J., Feb. 5, 2026, D. Mass. No. 1:25-cv-12822-IT (https://storage.courtlistener.com/recap/gov.uscourts.mad.289669/gov.uscourts.mad.289669.75.0_1.pdf)'
-  found_by: correction pass 2026-10-13 (research note ice-taxpayer-id-data-purchase-what-the-docket-and-contract-record-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: An appeals court has also found ICE submitted mass requests lacking the identifying information the statute requires for disclosure.
   now: 'Cut: unsourced in the entry and not checked in the note.'
   why: 'USAspending award 70CMSD26FR0000045 (api.usaspending.gov): signed 2026-06-05, performance 2026-06-08 to 2027-06-07, $9,968,353.56; Dkt 75, Memorandum & Order, Talwani, J., Feb. 5, 2026, D. Mass. No. 1:25-cv-12822-IT (https://storage.courtlistener.com/recap/gov.uscourts.mad.289669/gov.uscourts.mad.289669.75.0_1.pdf)'
-  found_by: correction pass 2026-10-13 (research note ice-taxpayer-id-data-purchase-what-the-docket-and-contract-record-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Unbound passages cut: ITIN characterisation (''very likely undocumented''); Thundercat''s other ICE licences; ''The injunction and the purchase are not in conflict as a matter of law''; the Nov. 21, 2025 date of the D.D.C. ruling'
   now: Cut because no fetched document binds them; the note finds that whether the Massachusetts order reaches a purchased dataset is not established.
   why: 'USAspending award 70CMSD26FR0000045 (api.usaspending.gov): signed 2026-06-05, performance 2026-06-08 to 2027-06-07, $9,968,353.56; Dkt 75, Memorandum & Order, Talwani, J., Feb. 5, 2026, D. Mass. No. 1:25-cv-12822-IT (https://storage.courtlistener.com/recap/gov.uscourts.mad.289669/gov.uscourts.mad.289669.75.0_1.pdf)'
-  found_by: correction pass 2026-10-13 (research note ice-taxpayer-id-data-purchase-what-the-docket-and-contract-record-show-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 verification: source-verified
 ---
 

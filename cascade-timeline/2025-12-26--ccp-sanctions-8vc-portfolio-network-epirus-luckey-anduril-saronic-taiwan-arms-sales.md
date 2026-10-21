@@ -161,5 +161,4 @@ The December 2024 Saronic sanction did not dampen investor appetite: Saronic clo
 - [[2026-03-03--anduril-4-billion-raise-60-billion-valuation]] — March 2026 Anduril $4B raise; CCP sanctions did not slow Anduril's trajectory
 - [[lonsdale-joe]] — 8VC managing partner, Epirus co-founder, X post primary source for portfolio-cluster framing
 - [[gulf-sovereign-lp-base-defense-ai-vc-funds-cross-investigation-bridge]] — Gulf sovereign LP base cross-investigation; Anduril convergence-point analysis
-- [[profile-saronic-technologies-2022-autonomous-maritime-a16z-american-dynamism-8vc-cross-network-coordination]] — Saronic org profile (cascade-research)
 - [[dsca-taiwan-mnd-confirmation-epirus-saronic-2026-08-31]] — 2026-08-31 follow-up: Saronic-NCSIST MOU dated (Apr 2026); Epirus-Taiwan remains a bounded negative; DSCA notification index blocked (403)

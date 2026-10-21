@@ -130,22 +130,6 @@ Armitage identifies the currently available institutional infrastructure for thi
 
 ## Significance for the Institutional-Capture Investigation
 
-This essay is the most systematic prosecution-theory synthesis Armitage has published within the tracking window, and it names the precise legal mechanism — dual sovereignty — that converts oppositional federalism from a rhetorical frame into a prosecutorial instrument. For the cascade-research institutional-capture investigation, the significance is structural: Armitage is not merely describing resistance but architecting a route around federal-enforcement capture that does not require waiting for an election, a federal indictment, or congressional action.
+This essay is the most systematic prosecution-theory synthesis Armitage has published within the tracking window, and it names the precise legal mechanism — dual sovereignty — that converts oppositional federalism from a rhetorical frame into a prosecutorial instrument. For the institutional-capture investigation, the significance is structural: Armitage is not merely describing resistance but architecting a route around federal-enforcement capture that does not require waiting for an election, a federal indictment, or congressional action.
 
 The essay connects directly to the cascade-timeline's existing documentation of (a) the 287(g) funding pipeline and local-law-enforcement deputization as the soldier-level infrastructure (May 7, 2026 entries); (b) the DOGE/SSA unauthorized data access confirmed in *AFSCME v. SSA* (January 2026); (c) the Hennepin County charging decision as a live test case; and (d) the broader multi-funder coalition treaty pattern in which the named 24-AG / 23-governor / 15-trifecta coalition is the structural counter-mechanism to the coalition-capture-and-stay-together dynamic the cascade investigation tracks.
-
-Cross-links: [[armitage-christopher]]; [[armitage-prosecutorial-predicate-corpus-cross-walk]]; downstream synthesis: [[build-theme-prosecutorial-predicate-architecture-dual-sovereignty-state-prosecution-as-oppositional-federalism-coalition-disassembly-counter-mechanism]].
-
----
-
-**Work log — Actor-profile annotation recommendation (for conductor single-agent pass; do NOT edit [[armitage-christopher]] directly):**
-
-The May 4, 2026 essay warrants the following additions to the [[armitage-christopher]] canonical actor profile in the cascade-research KB:
-
-1. **Published essays section** — Add full citation: Christopher Armitage, "This is way bigger than RICO. Is There a Legal Strategy That Could Put the Entire Trump-GOP Criminal Enterprise in Jail Without Waiting for an Election?" *The Existentialist Republic* (Substack), May 4, 2026. https://cmarmitage.substack.com/p/is-there-a-legal-strategy-that-could
-
-2. **One-paragraph summary of structural contribution** — This essay is Armitage's most ambitious legal-strategy synthesis in the tracking window. It extends his oppositional-federalism / soft-secession framework into a specifically prosecutorial register by grounding dual-sovereignty doctrine (*Gamble v. United States*, 587 U.S. 678, 2019) in state RICO statutes and the 1985 federal Commission Case methodology. It transitions Armitage's analytical framework from descriptive (documenting institutional capture) to prescriptive (providing a roadmap for coordinated multi-state prosecution from operatives upward). The Moriarty/Morgan Hennepin County prosecution, which Armitage documents as a worked example, suggests this framework is already being partially executed.
-
-3. **Doctrinal additions to "Key concepts" or "Legal framework" section** — Add: *Gamble* dual-sovereignty foundation; In re Neagle federal-officer-liability scope; Barrett concurrence limitation on presidential immunity; 1985 Commission Case methodology applied to hierarchical prosecution; hierarchical-structure frame (soldiers / capos / consiglieres / underbosses / boss); the 24-AG / 23-governor / 15-trifecta coalition consolidation.
-
-4. **Thematic cross-link** — Add cross-link to [[build-theme-prosecutorial-predicate-architecture-dual-sovereignty-state-prosecution-as-oppositional-federalism-coalition-disassembly-counter-mechanism]] as the downstream synthesis task that develops Armitage's framework against the full cascade-research corpus.

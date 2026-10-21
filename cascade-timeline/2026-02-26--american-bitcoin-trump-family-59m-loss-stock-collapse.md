@@ -44,7 +44,7 @@ The American Bitcoin debacle was part of a broader pattern of Trump family crypt
 
 ---
 
-## Conductor QC, 2026-08-31 — THE $59M FIGURE AND THE DATE ARE BOTH UNSUPPORTED BY THE PRIMARY RECORD. Do not publish from this entry.
+## Editorial QC, 2026-08-31 — THE $59M FIGURE AND THE DATE ARE BOTH UNSUPPORTED BY THE PRIMARY RECORD. Do not publish from this entry.
 
 **All three sources fail to resolve**: Reuters **401**, CNBC **404**, CoinDesk **429**. The 404 is
 the serious one — 401 and 429 are access blocks, but a 404 means **no article exists at that path**.

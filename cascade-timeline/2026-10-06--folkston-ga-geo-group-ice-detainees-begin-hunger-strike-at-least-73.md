@@ -176,27 +176,27 @@ corrections:
   was: 'Title: Detainees at GEO-Run Folkston ICE Center in Georgia Begin Hunger Strike; Advocates Count at Least 73'
   now: The title attributes the count of at least 73 to advocates as reported by the Guardian.
   why: The Guardian, José Olivares, Oct. 7, 2026 (https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia); Mediazona, Oct. 7, 2026 (https://en.zona.media/article/2026/10/07/hungerstrike); the ICE inspection report Mediazona describes was not read
-  found_by: correction pass 2026-10-13 (research note folkston-hunger-strike-and-congressional-access-injunction-primary-record-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Advocates estimate at least 73 people have joined, according to the Guardian. (cited to Mediazona); 'Both outlets relay the Guardian's reporting; the Guardian article itself was not retrieved.'
   now: The Guardian article (José Olivares, Oct. 7, 2026) was retrieved and is now cited directly. It says advocates estimate at least 73 detained immigrants are participating, and names no advocate; it is an estimate, not an ICE, GEO or facility count.
   why: The Guardian, José Olivares, Oct. 7, 2026 (https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia); Mediazona, Oct. 7, 2026 (https://en.zona.media/article/2026/10/07/hungerstrike); the ICE inspection report Mediazona describes was not read
-  found_by: correction pass 2026-10-13 (research note folkston-hunger-strike-and-congressional-access-injunction-primary-record-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: began a hunger strike on October 6
   now: The Guardian says only 'this week'. 'October 6' is a Campaign to Shut Down FIPC spokesperson's statement to WSAV as relayed by Mediazona (the WSAV report was not read); the entry date stands on that attribution.
   why: The Guardian, José Olivares, Oct. 7, 2026 (https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia); Mediazona, Oct. 7, 2026 (https://en.zona.media/article/2026/10/07/hungerstrike); the ICE inspection report Mediazona describes was not read
-  found_by: correction pass 2026-10-13 (research note folkston-hunger-strike-and-congressional-access-injunction-primary-record-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Mediazona reports ICE's own inspectors found the facility compliant with 22 of 24 detention standards ... (implied to rest on the Guardian)
   now: The inspection figures are Mediazona's own and are not in the Guardian; the ICE inspection report itself was not read. The entry attributes them to Mediazona.
   why: The Guardian, José Olivares, Oct. 7, 2026 (https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia); Mediazona, Oct. 7, 2026 (https://en.zona.media/article/2026/10/07/hungerstrike); the ICE inspection report Mediazona describes was not read
-  found_by: correction pass 2026-10-13 (research note folkston-hunger-strike-and-congressional-access-injunction-primary-record-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: A document alleging substandard medical care, threats by GEO Group guards, moldy food ... (cited to the Ghanaian Times)
   now: 'Cited to the Guardian, which the Ghanaian Times rewrites; the items remain allegations in a document by two detainees. Added from the Guardian: GEO Group referred all questions to ICE; DHS did not respond to detailed questions or requests for comment; GEO Group and ICE did not respond to questions about the allegations.'
   why: The Guardian, José Olivares, Oct. 7, 2026 (https://www.theguardian.com/us-news/2026/oct/07/ice-detention-facility-georgia); Mediazona, Oct. 7, 2026 (https://en.zona.media/article/2026/10/07/hungerstrike); the ICE inspection report Mediazona describes was not read
-  found_by: correction pass 2026-10-13 (research note folkston-hunger-strike-and-congressional-access-injunction-primary-record-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 Detainees at the Folkston D. Ray James ICE Processing Center in southern Georgia began a hunger strike on October 6, a spokesperson for the Campaign to Shut Down FIPC told the local broadcaster WSAV, per Mediazona; the Guardian says the strike was launched this week. The Guardian reports that advocates estimate at least 73 detained immigrants are participating; the sentence names no advocate, and the figure is an estimate, not a count by ICE, GEO Group or the facility. The Folkston facility, a former state prison, is run by the private prison company GEO Group under a contract with ICE.

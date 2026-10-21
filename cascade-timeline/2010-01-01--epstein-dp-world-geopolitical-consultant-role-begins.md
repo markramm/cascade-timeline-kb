@@ -25,11 +25,6 @@ sources:
   outlet: U.S. House Committee on Oversight and Accountability
   date: '2025-09-01'
   tier: 1
-- title: epstein-network/actors/sulayem-sultan.md (cascade KB)
-  url: https://github.com/cascade-research/sulayem-sultan
-  outlet: cascade-research
-  date: '2026-04'
-  tier: 2
 capture_lanes:
 - Foreign State Cultivation
 - Sovereign-Adjacent Brokerage

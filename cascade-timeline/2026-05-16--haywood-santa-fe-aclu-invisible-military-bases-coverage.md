@@ -56,4 +56,4 @@ On May 16, 2026, Santa Fe New Mexican courts reporter Phaedra Haywood published 
 
 The piece also documents specific contested legal text: Wormuth's May 2025 order on the state-of-mind standard for the two federal trespass statutes (one requiring "willful" violation of "defense property regulation"; the other potentially requiring "knowledge or notice"); Wormuth's ruling that "the mere existence of signs in the area does not prove that a person has seen the signs"; the practice of charging documents now routinely showing trespass counts crossed out with "no pc" handwritten notations.
 
-The Haywood piece does not cite RAMM. It is a peer-coverage candidate for future RAMM citation on the NDA architecture and the broader administrative-redesignation-as-criminalization-precondition mechanism. See peer-coverage note: `cascade-research/notes/peer-coverage-haywood-santa-fe-invisible-military-bases-2026-05-16.md`.
+The Haywood piece does not cite RAMM. It is a peer-coverage candidate for future RAMM citation on the NDA architecture and the broader administrative-redesignation-as-criminalization-precondition mechanism.

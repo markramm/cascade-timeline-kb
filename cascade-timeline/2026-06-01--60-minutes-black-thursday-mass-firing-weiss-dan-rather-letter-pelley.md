@@ -44,12 +44,6 @@ sources:
     publisher: Nieman Journalism Lab
     date: '2026-06-02'
     tier: 1-equivalent
-coverage:
-  - id: media-capture-completion-event-pattern-60-minutes-black-thursday-2026
-    title: "Media-Capture Completion Event Pattern — 60 Minutes Black Thursday (2026-06-01) as Canonical Instance + Higher-Ed Cascade Cross-Reference"
-    kb: cascade-research
-    type: structural-analysis-note
-    date: '2026-06-02'
 ---
 
 On June 1, 2026 — dubbed "Black Thursday" by insiders — CBS News Editor-in-Chief Bari Weiss fired three senior 60 Minutes figures in a single day: correspondent Sharyn Alfonsi (whose contract had technically lapsed May 27), correspondent Cecilia Vega, and executive producer Tanya Simon (nearly 30 years at the show). New executive producer Nick Bilton — a journalist known for technology coverage, not long-form investigative reporting — was introduced to staff the same day. In the ensuing staff meeting, veteran correspondent Scott Pelley openly accused Weiss of "murdering" 60 Minutes. On June 2, Dan Rather, joined by dozens of signatories — including at least 22 named figures such as CBS alumni Lowell Bergman, Peter Klein, Betsy West, Steve Kroft, and filmmaker Alex Gibney and actor Glenn Close — published an open letter to Paramount Skydance CEO David Ellison demanding a public pledge to maintain editorial independence. The signatories wrote that acquiring CBS News "came with a legal requirement to serve the public interest, avoid political interference and maintain editorial independence."

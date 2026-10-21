@@ -65,7 +65,7 @@ The dismissal fell approximately one month after Caesar Act repeal, approximatel
 
 ## Jurisdictional Note
 
-This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, not a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier cascade-research entries that framed the 2019 litigation as "U.S. federal ATA" reflected a source-level error; the dismissal confirms the UK-venue framing — a U.S. court would not be the jurisdiction to make a procedural-failure-to-prosecute ruling on this matter because no U.S. case was ever filed. See [[doha-bank]] for the full correction.
+This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, not a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier entries that framed the 2019 litigation as "U.S. federal ATA" reflected a source-level error; the dismissal confirms the UK-venue framing — a U.S. court would not be the jurisdiction to make a procedural-failure-to-prosecute ruling on this matter because no U.S. case was ever filed. See [[doha-bank]] for the full correction.
 
 ## Why This Matters
 

@@ -104,7 +104,3 @@ The B-423754 denial is not merely a contract dispute outcome. It is a documented
 ## Post-Denial Contract Status
 
 Following the December 3 denial, the stop-work order was lifted and SNA resumed performance under task order 70CMSD25FR0000034. The task order period runs through November 6, 2026. The base IDIQ ordering period extends to approximately 2027. Of the $25M ceiling, $6.2M has been obligated; $18.8M capacity remains for additional task orders. Bloomberg Law's coverage of the denial quoted the contract's total value as $28M — consistent with the $25M IDIQ ceiling plus potential option-year value beyond the base ordering period.
-
-## Needs-Entry Note
-
-A SNA International organization profile does not exist in the cascade-research corpus. Candidate entry: `/Users/markr/tcp-kb-internal/cascade-research/organizations/sna-international-llc.md` — should document: SBIR history (Phase I 2019, Phase II 2020), DNAConnect product, Ballard Partners lobbying engagement (March 2025), ICE contract 70CMSD25D00000001, woman-owned small business status, Alexandria VA headquarters, and position in the multi-vendor biometric chain (SNA → ICE ERO → Palantir ICM).

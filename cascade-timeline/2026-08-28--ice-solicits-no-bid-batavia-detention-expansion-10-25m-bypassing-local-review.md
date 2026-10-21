@@ -124,4 +124,3 @@ not a verified absence of a filed protest.**
 both cite the same ~100-bed figure and may describe **one project surfacing through two disclosure
 channels**, not two expansions. Not resolved here; flagged so no downstream piece sums them.
 
-Full working record: `cascade-research/notes/procurement-batavia-akima-sole-source-70cmsw26r00000012.md`.

@@ -42,6 +42,4 @@ Verbatim opening line: "As leaders of America's colleges, universities, and scho
 
 ## Cross-references
 
-- Related structural-analysis note: [[media-capture-completion-event-pattern-60-minutes-black-thursday-2026]] (cascade-research)
 - Fall-2025-window candidates checked and found NOT to be joint-signature letters by Garber/Eisgruber: [[2025-09-04--harvard-federal-court-ruling-garber-statement]], [[2025-10-10--eisgruber-rejects-trump-compact-academic-excellence]]
-- See cascade-research task `higher-ed-president-letter-sequence-fall-2025-winter-2026-...` work log for the full research verdict

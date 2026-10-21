@@ -44,7 +44,7 @@ On **July 30, 2019**, a claim form was issued in the Queen's Bench Division of t
 
 ## Jurisdictional Framing
 
-This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, **not** a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier cascade-research entries that described the 2019 matter as "U.S. federal ATA litigation" reflected a source-level error; the primary court-record citations confirm the UK venue. See [[doha-bank]] for the full jurisdictional correction.
+This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, **not** a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier entries that described the 2019 matter as "U.S. federal ATA litigation" reflected a source-level error; the primary court-record citations confirm the UK venue. See [[doha-bank]] for the full jurisdictional correction.
 
 ## Parties
 

@@ -61,7 +61,7 @@ corrections:
   was: 'title and body: six states "were scheduling August 2026 special sessions for mid-decade partisan redistricting"; status: confirmed; all three sources dated 2026-08-15'
   now: 'status: disputed. No source cited supports an August 2026 scheduling of special sessions; each state named had enacted or adopted its map earlier, and the only August special sessions were in 2025 (Texas, Missouri). Source dates corrected to their pages: Brennan 2026-04-30, KQED 2026-05-05, Fulcrum 2026-01-17.'
   why: 'Legislature and governor records: Texas HB 4 filed 08/15/2025, signed 08/29/2025; Missouri session convened Aug 29, 2025; NC S.L. 2025-95 on 10/22/2025; Florida HB 1-D filed 4/27/2026; Tennessee HB 7003 passed 05/07/2026, signed 06/03/2026. Synthesis: 2026-mid-decade-redistricting-state-by-state-status-as-of-2026-10-15.'
-  found_by: 'canon-correction task, 2026-10-15 (agent:claude-sonnet-5-5-parallel-tick11-a)'
+  found_by: "editorial verification, 2026-10-15"
 gate_note: 'Conductor ruling 2026-10-15: check_sourcing --gate fails structurally on this disputed-correction entry. The entry date has no event behind it (the filename must match), and the correction sentences state what the sources do NOT say, which no span can bind. All 14 positive claims verify. Accepted as disputed; do not re-date (links resolve by id).'
 ---
 

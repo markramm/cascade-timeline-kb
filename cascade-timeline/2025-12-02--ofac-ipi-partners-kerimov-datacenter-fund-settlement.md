@@ -69,7 +69,7 @@ See also: [[task-inv6-russian-capital-us-datacenter-realestate-hunt]] (the resea
 
 ---
 
-**Conductor verification, 2026-08-31 — the OFAC release was pulled and read directly.** Every element
+**Editorial verification, 2026-08-31 — the OFAC release was pulled and read directly.** Every element
 of this entry checks out against Treasury's own enforcement release
 (`ofac.treasury.gov/media/934786`, HTTP 200, PDF read in full):
 

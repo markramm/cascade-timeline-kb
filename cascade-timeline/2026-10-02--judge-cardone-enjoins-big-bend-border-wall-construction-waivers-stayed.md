@@ -212,22 +212,22 @@ corrections:
   was: '"The docket was not retrieved; the order was read from the bench and the written order was not located."'
   now: 'A written order exists: ECF 66, signed Oct. 2, 2026, in Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex.).'
   why: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.66.0.pdf
-  found_by: correction pass 2026-10-13 (research note big-bend-border-wall-injunction-what-the-docket-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: '"The federal waivers had allowed construction to proceed without following the National Environmental Policy Act, the Archaeological and Historic Preservation Act and many other laws" (stated with the ruling)'
   now: The order finds plaintiffs "likely to succeed on the merits of at least one of the claims in suit", names no legal ground, and says a memorandum opinion will follow.
   why: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.66.0.pdf
-  found_by: correction pass 2026-10-13 (research note big-bend-border-wall-injunction-what-the-docket-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Entry named only the Center for Biological Diversity; "The suit argues the five contracted border wall projects in the region are unconstitutional"
   now: The plaintiffs are Friends of the Ruidosa Church, Danny William Miller Junior and the Center for Biological Diversity; the order both enjoins construction in the Big Bend Sector and stays the effect of the Big Bend Waivers.
   why: 'https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.66.0.pdf ; complaint ECF 26: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.26.0.pdf'
-  found_by: correction pass 2026-10-13 (research note big-bend-border-wall-injunction-what-the-docket-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: Entry did not record the government's response.
   now: The entry adds the government's Oct. 8, 2026 motion for a memorandum opinion and a stay pending certiorari (ECF 74).
   why: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.74.0.pdf
-  found_by: correction pass 2026-10-13 (research note big-bend-border-wall-injunction-what-the-docket-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 A written order exists. In Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex., El Paso Division), brought by Friends of the Ruidosa Church, Danny William Miller Junior and the Center for Biological Diversity, Judge Kathleen Cardone granted a preliminary injunction in a written order signed on the 2nd day of October, 2026. Inside Climate News reported that she granted the injunction Friday to halt construction on the border wall in the Big Bend sector, including the national and state parks. The order finds that plaintiffs are "likely to succeed on the merits of at least one of the claims in suit." It states no legal ground, and says "A memorandum opinion will follow."

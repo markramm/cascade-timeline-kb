@@ -47,4 +47,3 @@ The memorandum opinion goes further than the TRO, which rested on due process al
 
 Defendants asked in two sentences for a stay pending appeal; the court denied it in a footnote. No notice of appeal appeared on the RECAP docket through October 13. Press reports say the order does not reach the Oval Office or Air Force One.
 
-Full record and doctrine: [[research-white-house-press-credential-revocation-due-process-record-2026-10-14]] (cascade-research).

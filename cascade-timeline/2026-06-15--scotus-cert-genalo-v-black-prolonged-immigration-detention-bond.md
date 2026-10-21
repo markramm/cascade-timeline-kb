@@ -175,17 +175,17 @@ corrections:
   was: A decision is expected by June 2027.
   now: Genalo v. Black, No. 25-886, was dismissed on Sept. 11, 2026 under Rule 46 and will not be decided; a new petition, No. 26-379, was filed Sept. 21, 2026.
   why: Supreme Court docket No. 25-886 (entry "Case Dismissed - Rule 46."); respondent's letters of Sept. 14 and Sept. 25, 2026 in No. 26-104.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: It follows the circuit split between [the Second and Eleventh Circuit rulings]
   now: Genalo concerns the statute requiring mandatory detention of noncitizens convicted of listed crimes, a different question from the 1225(b)(2)(A) circuit split; the sentence now says so.
   why: CNN report of the grant of June 15, 2026 describing the law at issue; Supreme Court docket No. 26-104 and the 1225(b)(2)(A) split in the research note.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: a ruling for the government would constitutionally sanction indefinite civil immigration detention without judicial review
   now: Cut. The characterisation was not checked against the Genalo papers and no source read supports it.
   why: Not bound by any fetched span; research note item 2.
-  found_by: correction pass 2026-10-13 (research note rhoney-v-barbosa-da-cunha-scotus-docket-and-the-circuit-split-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 ---
 
 On **June 15, 2026**, the Supreme Court agreed to hear *Genalo v. Black*, No. 25-886, in which the Trump administration challenges a Second Circuit ruling requiring bond hearings for noncitizens held for prolonged periods. The case involves two green card holders detained for seven months and nearly two years without a hearing.

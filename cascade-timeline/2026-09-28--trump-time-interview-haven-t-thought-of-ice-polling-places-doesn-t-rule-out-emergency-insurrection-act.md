@@ -82,4 +82,4 @@ President **Donald Trump** sat down with TIME at the White House on **Sept. 28**
 
 The transcript attaches the emergency answer, not the ICE answer, to the Insurrection Act exchange. Secondary outlets that quote "We'll see" as the ICE answer have merged those exchanges.
 
-**Statement against the record.** The statements are documented in TIME's own transcript. Whether any order followed is a separate question, checked in the research note [[cascade-research:time-interview-insurrection-act-polling-place-statements-2026-10-08]] against the Federal Register's presidential documents; the interview itself is not an order, and intent is not inferred.
+**Statement against the record.** The statements are documented in TIME's own transcript. Whether any order followed is a separate question, checked against the Federal Register's presidential documents; the interview itself is not an order, and intent is not inferred.

@@ -231,22 +231,22 @@ corrections:
   was: 'Title: ICE Awards GardaWorld $313M Contract to Convert Surprise Arizona Warehouse Into 1,500-Bed Detention Center via DOD Procurement'
   now: Title now gives the award's obligated and potential values and says reported capacity differs by source; the '1,500-Bed' and 'via DOD Procurement' characterisations are removed.
   why: USAspending award 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); Tucson Sentinel, KJZZ, Latin Times and HRW for the press and official-statement attributions
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: a $313.4 million contract
   now: $313,357,612.46 is the amount obligated on delivery order 70CDCR26FR0000043; its potential value (base and all options) is $704,091,073.
   why: USAspending award 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); Tucson Sentinel, KJZZ, Latin Times and HRW for the press and official-statement attributions
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: capacity for up to 1,500 people; considering scaling the planned capacity down to roughly 542 beds
   now: No document read states a bed count. 1,500 is attributed to HRW and to Reps. Grijalva, Stanton and Ansari's letter as reported by Tucson Sentinel; around 550 to the Surprise mayor (KJZZ); roughly 542 to local officials (Latin Times).
   why: USAspending award 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); Tucson Sentinel, KJZZ, Latin Times and HRW for the press and official-statement attributions
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: 'Cut: ''The federal government had previously spent approximately $70 million acquiring the 418,000-square-foot warehouse''; the Tremont, Williamsport and Salt Lake City comparison; GardaWorld''s detention history and Alligator Alcatraz; ''Arizonans began organized protests ... April 2026''; the 400,000-square-foot figure'
   now: 'Cut or attributed: the $70 million purchase is now Tucson.com''s report; the rest is not bound by a fetched document. The sourcing footnote (FPDS record) is replaced by claims on the USAspending record.'
   why: USAspending award 70CDCR26FR0000043 (api.usaspending.gov, retrieved 2026-10-13); Tucson Sentinel, KJZZ, Latin Times and HRW for the press and official-statement attributions
-  found_by: correction pass 2026-10-13 (research note gardaworld-florence-az-contract-value-and-capacity-what-the-award-record-shows-2026-10-13)
+  found_by: "editorial verification, 2026-10-13"
 verification: source-verified
 ---
 

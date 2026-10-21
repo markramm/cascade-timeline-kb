@@ -184,12 +184,12 @@ corrections:
   was: "USPS Docket 2026-10968 mail-ballot barcode rule (published May 29, documented at"
   now: "USPS Docket 2026-10968 mail-ballot barcode rule (filed May 29, published June 2, 2026 at 91 FR 32915, documented at"
   why: "https://www.govinfo.gov/content/pkg/FR-2026-06-02/pdf/2026-10968.pdf - Federal Register Vol. 91, No. 105, Tuesday, June 2, 2026, Proposed Rules, p. 32915 (Ballot Mail for Federal Elections, 39 CFR Part 111); end of document: \"[FR Doc. 2026-10968 Filed 5-29-26; 12:15 pm]\""
-  found_by: "election tick 2026-10-10"
+  found_by: "editorial verification, 2026-10-10"
 - date: '2026-10-17'
   was: "state election officials are required to submit entire statewide voter registration lists - including Social Security numbers, driver's license numbers, and dates of birth - to USCIS's SAVE database ... Both systems are expected to be operational by June 30, 2026 ... The June 30 operational date is the action-forcing event: the SAVE database goes live"
   now: "Rewritten. DOJ's June 5 notice says state election officials 'can' submit voter rolls to SAVE, not that they are required to. The June 4 approval was rescinded and superseded on June 8, and the replacement memo dropped the SAVE voter-roll part. The SSN and driver's-license detail appears in neither notice. The SAVE 'goes live' framing is removed (SAVE already existed). Common Cause v. DOJ details were not checked against a primary source and are removed. Source row 4 pointed to FR Doc. 2026-06963 (an unrelated stablecoin rule) under a title that is not EO 14399's; replaced with the FR text of EO 14399 (FR Doc. 2026-06601). Title changed; the filename keeps its old slug."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.149.0_4.pdf (DOJ Doc. 149, June 5) and https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.150.0_1.pdf (DOJ Doc. 150, June 8)"
-  found_by: "task correct-canon-2026-06-04-and-2026-05-04-save-citizenship-list-entries (tick82-h), from research note 2026-10-17-state-citizenship-lists-status-before-nov-3"
+  found_by: "editorial verification"
 
 ---
 

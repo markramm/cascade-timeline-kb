@@ -80,6 +80,5 @@ The PUCT suit follows the same pattern as the DOE/EIA mandatory survey fight: at
 ## Related Entries
 
 - [[ercot-miner-curtailment-subsidy]]
-- [[task-inv6-crypto-energy-no-federal-data-gap]]
 - [[2023-09-06--riot-platforms-august-2023-ercot-curtailment-31m]]
 - [[2025-06-20--texas-sb-6-large-load-interconnection-signed]]
