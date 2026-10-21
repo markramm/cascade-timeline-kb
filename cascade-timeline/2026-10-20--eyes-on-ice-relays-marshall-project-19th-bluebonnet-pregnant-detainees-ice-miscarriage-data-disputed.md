@@ -9,6 +9,15 @@ event_date_claim: c_date
 date_is_publication_date: true
 verification: source-verified
 claims:
+- id: c_ice1
+  type: operator
+  value: 70CDCR19DIG000017
+  span: MODIFICATION OF CONTRACT/ORDER NO. x 10A. 70CDCR19DIG000017
+  url: https://www.ice.gov/doclib/foia/detFacContracts/70CDCR19DIG000017-P00043_BluebonnetIGSA_AnsonTX.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c_nip1
   type: quote
   value: As of October 19, 2026, at least 29* people have reportedly died in ICE custody this year
@@ -258,6 +267,11 @@ corrections:
   now: 'NIPNLG''s 29 is its 2026 year-to-date count ("this year"), not additional to ICE''s 33 for 2025; the two are separate years and should not be summed. NIPNLG''s 29 includes deaths shortly after release from custody.'
   why: "https://nipnlg.org/news/mourning-those-who-have-died-ice-custody"
   found_by: "editorial verification, 2026-10-21"
+- date: '2026-10-21'
+  was: 'ICE Contract 70CDCR19DIG000017 bound to the Eyes on ICE article alone'
+  now: 'The contract number is confirmed by ICE''s own posted modification P00043 to 70CDCR19DIG000017, an agreement with Jones County, Anson TX (ICE detention-contract library). Eyes on ICE''s figure is not independent: it links a third-party dossier that draws on the same ICE.gov record.'
+  why: "https://www.ice.gov/doclib/foia/detFacContracts/70CDCR19DIG000017-P00043_BluebonnetIGSA_AnsonTX.pdf"
+  found_by: "editorial verification, 2026-10-21"
 tags:
 - ice-detention
 - pregnant-detainees
@@ -293,6 +307,10 @@ sources:
   url: https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf
   publisher: DHS Office of Inspector General
   date: '2026-06-24'
+  tier: 1
+- title: 'Modification P00043 to IGSA 70CDCR19DIG000017 (ICE detention-contract library)'
+  url: https://www.ice.gov/doclib/foia/detFacContracts/70CDCR19DIG000017-P00043_BluebonnetIGSA_AnsonTX.pdf
+  publisher: U.S. Immigration and Customs Enforcement
   tier: 1
 - title: 'Mourning Those Who Have Died in ICE Custody (NIPNLG)'
   url: https://nipnlg.org/news/mourning-those-who-have-died-ice-custody
