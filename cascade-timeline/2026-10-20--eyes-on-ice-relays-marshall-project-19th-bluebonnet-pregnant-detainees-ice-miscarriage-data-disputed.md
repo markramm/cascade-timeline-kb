@@ -223,27 +223,27 @@ corrections:
   was: 'ICE recorded 18 miscarriages in detention during the first 9 months of 2025 while booking nearly 500 pregnant or nursing women'
   now: 'The Marshall Project / The 19th article gives two separate figures over different windows: DHS reported 498 pregnant, postpartum and nursing immigrants booked out of ICE custody from January 2025 to February 2026, and, per The Guardian, 18 people miscarried in the first nine months of the administration.'
   why: "https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/ (The 19th co-publication of the Marshall Project article, read in full 2026-10-21); the Marshall Project original returned 403, title, author and date confirmed from its RSS feed"
-  found_by: "task pull-marshall-project-and-the-19th-bluebonnet-investigation-and-bind-the-medical-conditions-claims"
+  found_by: "editorial verification"
 - date: '2026-10-21'
   was: 'ICE quietly stopped compiling or releasing data on in-custody miscarriages after October 3, 2025; ICE claims it has "no updated information"'
   now: 'The primary article says only that records show ICE stopped tracking miscarriages after October 2025; it gives no October 3 date and no "no updated information" quote, and says ICE did not reply to its requests for comment.'
   why: "https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/"
-  found_by: "task pull-marshall-project-and-the-19th-bluebonnet-investigation-and-bind-the-medical-conditions-claims"
+  found_by: "editorial verification"
 - date: '2026-10-21'
   was: 'Citing records and testimony gathered by the Marshall Project and The 19th, it reports that poultry served to pregnant detainees at Bluebonnet was routinely pink, cold, and visibly undercooked.'
   now: 'The primary article gives the pink, cold and watery chicken as the account of one detainee, identified only as Maria at her request; the records it cites show high blood pressure, gestational diabetes and low weight gain, not the food. It adds a general anecdote from the Women''s Refugee Commission about raw chicken. It does not say "routinely" about Bluebonnet.'
   why: "https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/"
-  found_by: "task pull-marshall-project-and-the-19th-bluebonnet-investigation-and-bind-the-medical-conditions-claims"
+  found_by: "editorial verification"
 - date: '2026-10-21'
   was: 'operated ... under an Intergovernmental Service Agreement with Jones County ... ICE Contract 70CDCR19DIG000017 (stated as the article''s reporting)'
   now: 'The primary article does not mention the contract number or Jones County; it says only that Management and Training Corporation runs the facility under its ICE contract, capacity 1,000. These details remain Eyes on ICE''s, not independently bound.'
   why: "https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/"
-  found_by: "task pull-marshall-project-and-the-19th-bluebonnet-investigation-and-bind-the-medical-conditions-claims"
+  found_by: "editorial verification"
 - date: '2026-10-21'
   was: 'the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody (no announcement date given)'
   now: 'OIG announced two separate evaluations by memo dated June 24, 2026: detainee deaths in ICE custody (Project 26-035-OIE-ICE) and use-of-force compliance (26-031-OIE-ICE). Neither names Bluebonnet; no report published as of 2026-10-21. "Forced to announce" is Eyes on ICE''s characterization.'
   why: "https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf"
-  found_by: "task verify-dhs-oig-review-of-ice-detainee-deaths-and-use-of-force-announcement-date-scope-and-primary-document"
+  found_by: "editorial verification"
 tags:
 - ice-detention
 - pregnant-detainees

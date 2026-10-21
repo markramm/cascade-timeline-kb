@@ -56,6 +56,6 @@ coverage: []
 
 ## Research Gaps
 
-- [ ] The existing entry [[1992-03-06--fbi-announces-digital-telephony-legislation]] needs checking against this record; see the task file for the specific discrepancies.
+- [ ] The existing entry [[1992-03-06--fbi-announces-digital-telephony-legislation]] needs checking against this record.
 - [ ] Whether any 1992 congressional hearing on the proposal was held is unconfirmed; a Congressional Record or committee-calendar check would settle it.
 - [ ] No carrier's own account of the March 18, 1992 meeting was found.

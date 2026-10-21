@@ -52,12 +52,12 @@ corrections:
   was: "though the Supreme Court would later overturn this injunction in June 2025."
   now: "On June 6, 2025 the Supreme Court granted the government's application for a stay, writing that SSA \"may proceed to afford members of the SSA DOGE Team access to the agency records in question\"; on April 10, 2026 the Fourth Circuit, en banc, vacated the injunction \"without addressing whether plaintiffs satisfy the remaining three Winter factors\" (irreparable harm only)."
   why: "https://www.supremecourt.gov/opinions/24pdf/24a1063_6j37.pdf (stay pending appeal, not a merits ruling); https://www.ca4.uscourts.gov/opinions/251411.P.pdf (vacatur on irreparable harm; merits not reached). A stay and a vacatur on one Winter factor are neither an overturning nor a holding that SSA's access was lawful."
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "The judge wrote that DOGE's approach to identifying fraud at the SSA was \"tantamount to hitting a fly with a sledgehammer,\" finding the administration never justified the need to access the data and likely violated multiple federal laws."
   now: "The opinion held plaintiffs likely to succeed on their Privacy Act and APA claims. The sledgehammer phrase is attributed by NPR to the March 20 temporary-restraining-order stage; it does not appear in the April 17 opinion (ECF 146), which was searched for it."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.146.0.pdf (no occurrence of 'sledgehammer'; holding at the conclusion is Privacy Act and APA); https://www.npr.org/2025/04/18/nx-s1-5369295/doge-data-social-security (attributes the phrase to the March 20 TRO stage)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21; sledgehammer finding by the correcting worker"
+  found_by: "editorial verification, 2026-10-21"
 event_date_claim: c9
 claims:
 - id: c9

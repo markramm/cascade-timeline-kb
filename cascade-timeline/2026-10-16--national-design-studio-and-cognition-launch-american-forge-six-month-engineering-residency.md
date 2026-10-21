@@ -64,4 +64,3 @@ sources:
 
 **What was announced.** The program page says American Forge is "a six-month engineering residency run by the National Design Studio in partnership with Cognition". Cognition's post calls it "a six-month residency for exceptional engineers to take on the toughest problems in government". Cognition is the company behind the Devin coding agent.
 
-Sourcing detail, the contract search and open questions: [[american-forge-nds-cognition-residency-research-2026-10-21]].

@@ -11,7 +11,7 @@ corrections:
   was: "A June 11, 1992 House subcommittee hearing (Kallstrom; Bell Atlantic and CTIA witnesses); H.R. 4922 / S. 2375 described as 1993 bills reintroducing the proposal; date March 1, 1992; status confirmed; plus Freeh's 1993 swearing-in and lobbying, specific draft provisions, a named advocacy coalition, campaign remarks and a Salt Typhoon comparison, sourced to Wikipedia, EFF and an FAS hearings page."
   now: "June 11 hearing removed (not found in the FAS 1992 hearings page, web search, the 1992-09-29 Congressional Record or the 1994 joint hearing record; a hearing those sources do not index cannot be ruled out). H.R. 4922 / S. 2375 identified as 1994 bills; the 1992 draft was never introduced. Date set to 1992-03-06, the announcement date in Freeh's 1994 statement; the filename keeps 1992-03-01 so existing links and the public page URL do not break. Other unsupported material removed. Status set to reported."
   why: "S. Hrg. 103-1022 (1994 joint hearings on digital telephony), Freeh statement p. 26; Edwards p. 105; Leahy p. 110; Neel p. 57"
-  found_by: "surveillance backfill hearing-record pass 2026-10-20"
+  found_by: "editorial verification, 2026-10-20"
 status: reported
 actors:
   - William Sessions

@@ -52,27 +52,27 @@ corrections:
   was: "The DOJ filing revealed that DOGE employees created a copy of the agency's Numerical Identification System (NUMIDENT) database without following required security protocols, bypassing strict security measures for federal databases. The copy allegedly lacked security oversight from SSA or tracking to determine who accessed the data."
   now: "The Notice (ECF 197) does not say DOGE created a copy of NUMIDENT. It says one DOGE Team member ran PII searches on SSA's own copy of the Numident within the Enterprise Data Warehouse on the morning of March 24, 2025. The claim of a vulnerable copy lacking oversight is from Charles Borges's whistleblower disclosure, which CNN reports and the agency denied; Borges told PBS that piece of his disclosure \"has not yet been validated or refuted yet with any documentation.\""
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (no creation of a NUMIDENT copy; Section I, p. 2); https://www.cnn.com/2026/01/20/politics/doge-social-security-data-unauthorized-server (attributes the copy claim to the whistleblower disclosure and notes the agency denied it); https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data (Borges: third piece not validated)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "retained access to data even after a judge temporarily halted it"
   now: "The Notice discloses that SSA granted DOGE Team members PII access after the TRO: on March 26, 2025 (SSA says never used) and on April 9, 2025 (a call-center profile; SSA does not know whether PII was accessed). It does not say access was retained after the TRO; it says access to all PII was terminated at about noon on March 24, 2025, after PII searches that morning."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Sections I and III, pp. 2-3)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "improperly shared sensitive personal data of more than 300 million Americans to an unauthorized Cloudflare server"
   now: "The 300-million figure belongs to Borges's disclosure as CNN reports it, and Borges told PBS it \"was just initial news reporting.\" The Notice says Cloudflare is not approved for storing SSA data and that SSA cannot determine what data were shared, and identifies one encrypted file believed to hold names and addresses of approximately 1,000 people, emailed to DHS."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Sections II and VI); https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "SSA admitted it still had \"little knowledge of what data was shared\" and could not verify the extent of violations; Privacy experts noted the violations likely breached the Privacy Act; Borges stated the revelations were \"disappointing to be proven right\" and called for congressional investigation; sent password-protected files of private records to DOGE affiliates outside the agency"
   now: "Removed or narrowed: the quoted phrases \"little knowledge of what data was shared\" and \"disappointing to be proven right\" were not found in ECF 197, CNN or PBS as re-read, and no source read supports the Privacy-Act-experts sentence. The Notice says SSA \"has not been able to determine exactly what data were shared to Cloudflare\"; it describes one encrypted file emailed to DHS, copying a senior DOGE advisor and a DOGE-affiliated Department of Labor employee. Borges told PBS that validation of two of his three concerns was \"disappointing.\" Kept and now sourced: Reps. Larson and Neal's statement that the matter \"could very well be the largest data breach in our nation's history.\""
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Sections II and VI); https://www.pbs.org/newshour/show/whistleblower-responds-after-doj-confirms-doge-mishandled-social-security-data ; https://larson.house.gov/media-center/press-releases/larson-neal-demand-full-criminal-investigation-doge-leak-private-0 (the quoted statement, conditional: 'could very well be')"
-  found_by: "privacy-rules compliance ledger, 2026-10-21; unsupported quotes found by the correcting worker"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "date: 2026-01-20 (as the filing's date)"
   now: "The Notice was filed 2026-01-16. 2026-01-20 is the date of the CNN report and of the Larson-Neal statement this entry summarizes (the PBS interview is dated 2026-01-27). The date is kept so the id and ordering stay stable."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Filed 01/16/26); https://larson.house.gov/media-center/press-releases/larson-neal-demand-full-criminal-investigation-doge-leak-private-0 (January 20, 2026); PBS page metadata article:published_time 2026-01-27"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 date_is_publication_date: true
 event_date_claim: c15
 claims:

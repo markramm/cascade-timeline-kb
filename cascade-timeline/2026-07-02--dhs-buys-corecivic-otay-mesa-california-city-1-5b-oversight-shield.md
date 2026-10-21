@@ -34,7 +34,7 @@ corrections:
   was: "CoreCivic's two largest California detention facilities"
   now: "two of the largest immigration detention facilities in California (CalMatters, July 6, 2026), both CoreCivic's:"
   why: "https://calmatters.org/justice/2026/07/corecivic-sells-ice-detention-centers/ — 'CoreCivic has sold two of the largest immigration detention facilities in California'; a ranking among California facilities, not within CoreCivic's portfolio"
-  found_by: "timeline fact-check slice 1 2026-10-08"
+  found_by: "editorial verification, 2026-10-08"
 verification: captured
 claims:
 - id: c0

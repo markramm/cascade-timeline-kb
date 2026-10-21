@@ -74,7 +74,7 @@ Flint had also negotiated an OKC ICE deal (2800 S. Council Road, Oklahoma City) 
 
 ## Research Gaps
 
-- [ ] Flint's land acquisition cost (prior vesting deed) and the DHS deed's own consideration and legal description: the El Paso County Clerk portal is behind a human-verification check. Owner-declared construction costs are filed with the Texas Department of Licensing and Regulation (TDLR); see internal research note `eastwind-logistics-center-tdlr-declared-construction-cost-and-portal-blockers-2026-10-20`.
+- [ ] Flint's land acquisition cost (prior vesting deed) and the DHS deed's own consideration and legal description: the El Paso County Clerk portal is behind a human-verification check. Owner-declared construction costs are filed with the Texas Department of Licensing and Regulation (TDLR).
 - [ ] FOIA ICE for the revised program of requirements and detainee capacity plans behind the scale-back
 - [ ] Status of adjacent plot off Gateway Boulevard East
 

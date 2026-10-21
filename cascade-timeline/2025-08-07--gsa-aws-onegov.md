@@ -44,22 +44,22 @@ corrections:
   was: "Title and body: \"GSA enters $1B OneGov cloud agreement with AWS\" / \"a $1 billion 'OneGov' cloud agreement\""
   now: "GSA announced a OneGov agreement under which AWS provides up to $1 billion in direct incentive credits (AWS, modernization and training credits), aggregated across federal civilian agencies, through December 31, 2028. The figure is a ceiling on credits, not a $1 billion contract value."
   why: "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-announces-onegov-agreement-with-aws-08072025 — release states 'up to a total of $1 billion in direct incentive credits aggregated across Federal civilian agencies'"
-  found_by: "vendor-verification worker, conductor QC 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "Primary citation https://www.gsa.gov/about-us/newsroom/news-releases/gsa-enters-into-1b-onegov-cloud-agreement-with-aws (GSA release, dated 2025-07-18 in sources)"
   now: "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-announces-onegov-agreement-with-aws-08072025; release dated 2025-08-07"
   why: "the old URL returns 404; the live release is at the new URL and is dated August 7, 2025, not July 18"
-  found_by: "vendor-verification worker, conductor QC 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "Sources list included FTC commissioner rulings, GENIUS Act coverage, the Trump v. WSJ suit and IRS workforce reports, plus a Reuters 'Amazon inks $1 billion cloud deal' link dated 2025-07-18"
   now: "Sources limited to the GSA release, FedScoop and Nextgov. The unrelated items were removed. The Reuters link returned HTTP 401 and could not be read, and its July 18 date precedes the August 7 announcement, so it is not retained."
   why: "none of the removed items concern the AWS agreement (or could not be verified); FedScoop and Nextgov fetched and describe the same up-to-$1B credits and December 2028 end date"
-  found_by: "vendor-verification worker, conductor QC 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "This agreement centralizes government cloud services under Amazon ... through December 31, 2028 ... raises concerns about vendor concentration, competitive fairness, and potential conflicts of interest; notes: single-vendor contract raises antitrust concerns, follows GSA's mass layoffs"
   now: "Body limited to what the release states. Nextgov describes the pact as non-exclusive, so 'centralizes ... under Amazon' and 'single-vendor contract' are removed; the concern and layoff statements are unsourced characterisations and are removed. Entry status set to reported."
   why: "https://www.gsa.gov/about-gsa/newsroom/news-releases/gsa-announces-onegov-agreement-with-aws-08072025; https://www.nextgov.com/acquisition/2025/08/gsa-amazon-sign-new-centralized-cloud-pact/407277/ ('non-exclusive'); no fetched source supports the concern or layoff language"
-  found_by: "vendor-verification worker, conductor QC 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 verification: source-verified
 claims:
 - id: c1

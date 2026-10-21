@@ -55,22 +55,22 @@ corrections:
   was: "date: 2026-02-07 (and \"In a sworn declaration filed in federal court, IRS Chief Risk and Control Officer Dottie Romo revealed\")"
   now: "The Romo declaration was executed and filed on 2026-02-11 (ECF 66-1; notice of filing ECF 66). The frontmatter date is now 2026-02-11. The filename keeps the original 2026-02-07 prefix, which no source supports; the gate's filename-date rule therefore cannot pass without a rename."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277519/gov.uscourts.dcd.277519.66.1.pdf — 'Filed 02/11/26' and 'Executed on February 11, 2026'; the docket shows nothing filed 2026-02-07"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "For less than 5% of verified individuals, the IRS provided ICE with additional address information based on incomplete or insufficient data—a clear violation of federal taxpayer privacy protections. This means thousands of people's confidential tax information was improperly shared with immigration enforcement authorities."
   now: "The declaration says IRS \"currently estimates that less than 5% of the 47,289 individuals\" for whom it provided a last known address \"had potentially incomplete or potentially insufficient ICE-provided address information,\" and that it \"may have supplied\" addresses in those instances. The declaration does not call this a violation and gives no count of people harmed. The court, in its 2026-02-26 indicative ruling, read the declaration as an admission and counted violations on a different defect: about 42,695 disclosures made through TIN Matching without confirming the address element of the request."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277519/gov.uscourts.dcd.277519.66.1.pdf (paras. 11, 13, 16); https://storage.courtlistener.com/recap/gov.uscourts.dcd.277519/gov.uscourts.dcd.277519.74.0.pdf (42,695 count; 'Defendants admit' is the court's wording)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "ICE submitted 1.28 million names for verification, but the IRS was only able to verify roughly 47,000 individuals. [...] The IRS notified DHS of the error on January 23, 2026"
   now: "ICE's June 2025 datafile covered approximately 1.28 million individuals and sought last known addresses; the IRS rejected some requests as not meeting the MOU's specifications and disclosed last known addresses for 47,289 (3.7%) of the requests on August 7, 2025. It was Treasury, not the IRS, that notified DHS on January 23, 2026, and the request to DHS was to prevent disclosure or dissemination and ensure disposal of data based on deficient address information."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277519/gov.uscourts.dcd.277519.66.1.pdf (paras. 4, 7, 10, 18)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "Most recently, a Massachusetts federal court ordered the IRS to stop sharing residential addresses with ICE. [...] The IRS stated it planned to take steps to \"prevent the disclosure or dissemination\" [...] The incident reflects broader concerns about the Trump administration's construction of a vast surveillance infrastructure"
   now: "The declaration refers to \"a related injunction enjoining the MOU\" (CEDC v. Bessent); that order was not read and its terms are not described here. DHS and ICE told Treasury and the IRS that pending resolution of that injunction they will not inspect, use or act on return information obtained under the MOU. The closing paragraph on surveillance infrastructure is not sourced to any primary read and was removed."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.277519/gov.uscourts.dcd.277519.66.1.pdf (paras. 18-19)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 event_date_claim: c1
 claims:
 - id: c13

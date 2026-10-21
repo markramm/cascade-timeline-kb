@@ -22,7 +22,7 @@ corrections:
   was: "Body: the ruling \"directly enabled the EAC commissioner firings nine days later\"."
   now: "The entry says the EAC commissioner firings (July 9) came ten days after the June 29 ruling."
   why: "Votebeat, 2026-07-09: https://www.votebeat.org/national/2026/07/09/trump-fires-election-assistance-commission-members-hicks-hovland-mccormick/ ; June 29 to July 9 is ten days."
-  found_by: "the fact-check of the draft 'The Agency That Can't Answer the Phone' (tcp-kb-internal drafts/fact-checks/the-agency-that-cant-answer-the-phone--fact-check-2026-10-14), row 10"
+  found_by: "editorial verification, 2026-10-14"
 sources:
   - title: "Inside the Supreme Court's key 2026 decisions"
     url: "https://law.stanford.edu/2026/07/09/inside-the-supreme-courts-key-2026-decisions/"

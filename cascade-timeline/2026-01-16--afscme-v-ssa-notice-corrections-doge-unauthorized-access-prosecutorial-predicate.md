@@ -47,32 +47,32 @@ corrections:
   was: "formally admitting to Judge Ellen Lipton Hollander that DOGE personnel had engaged in data access practices that violated agency security protocols and potentially defied the March 2025 Temporary Restraining Order. [...] SSA acknowledged that previous representations to the court had contained material misstatements"
   now: "The Notice says SSA identified DOGE Team actions \"potentially outside of SSA policy and/or noncompliant with\" the March 20, 2025 TRO, and states for each earlier declaration it revisits that \"SSA believed\" the statement \"to be accurate at the time it was made.\" The phrase \"material misstatements\" does not appear in the Notice."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (pp. 1-6) — no occurrence of 'material' or 'misstatement'; the Notice uses 'potentially' and 'believed to be accurate at the time'; it concedes no Privacy Act violation"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "Unauthorized server transfer: DOGE team members shared SSA data via Cloudflare, an unapproved third-party server, outside agency security protocols"
   now: "SSA learned that \"beginning March 7, 2025, and continuing until March 17\" DOGE Team members used links to share data through Cloudflare, which \"is not approved for storing SSA data.\" That use ended about a week before the TRO was entered; it is not post-TRO conduct. SSA says it cannot determine what data were shared."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Section VI, p. 6) — dates March 7 to March 17, 2025, 'approximately one week before the TRO was entered'"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "AFSCME case was filed in early 2025 challenging DOGE's access to Social Security Administration databases containing the sensitive personal records of more than 300 million Americans"
   now: "The 300-million figure was removed. The Notice contains no such figure, and the case background sentence was not sourced to a read primary."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf — no '300 million' anywhere in the Notice (7 pp.)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "A DOGE affiliate signed a \"Voter Data Agreement\" as an SSA employee with an advocacy group (believed to be True the Vote) [...] signed March 24, 2025; Two DOGE employees referred to the Office of Special Counsel"
   now: "One DOGE Team member signed a \"Voter Data Agreement\" in his capacity as an SSA employee and sent it to an unnamed political advocacy group on March 24, 2025; the Notice does not name the group, and says SSA \"has not yet seen evidence that SSA data were shared with the advocacy group.\" SSA made two Hatch Act referrals to the Office of Special Counsel in late December 2025; the Notice does not say they concern two employees."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (Section V and n.1, pp. 5-6) — group unnamed; 'sent the executed agreement ... on March 24, 2025'; 'two Hatch Act referrals'"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "The Notice constitutes a government admission — in a federal court filing — that DOGE personnel: Accessed data of residents of all 50 states [...] Violated agency security protocols and defied a court order [...] Potentially violated computer-crime statutes [...] Potentially violated the Privacy Act"
   now: "The Notice admits specific facts (PII searches on the morning of 2025-03-24 before access was cut at noon; two post-TRO access grants, one never used; an encrypted file of PII on about 1,000 people emailed to DHS copying a senior DOGE advisor; Cloudflare use; the voter-data agreement). It does not mention the 50 states, does not concede any statutory violation, and does not concede that anyone defied the TRO. The prosecutorial-predicate reading is a third party's characterization, not the Notice's content."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf — full text read; 'all 50 states', 'Privacy Act', '1030' and 'defied' do not appear"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "[[2026-01-20--doj-confirms-doge-social-security-data-breach]] — covers a later DOJ court filing; partially overlapping but distinct"
   now: "That entry covers press and whistleblower reaction to this same Notice (ECF 197); there was no later DOJ filing."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mdd.577321/gov.uscourts.mdd.577321.197.0.pdf (filed 2026-01-16; the 2026-01-20 reports cite it)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 event_date_claim: c1
 claims:
 - id: c14

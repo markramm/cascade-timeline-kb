@@ -51,17 +51,17 @@ corrections:
   was: "No appeal, stay motion or compliance filing appeared on the docket as of October 10, 2026. [...] Whether DOJ will appeal. A notice of appeal is due within 60 days; none had been filed as of October 10."
   now: "DOJ filed a notice of appeal to the D.C. Circuit on 2026-10-16 (district ECF 55, from the final judgment ECF 52 and opinion ECF 51; docketed as D.C. Cir. No. 26-5362) and moved for a stay pending appeal the same day (ECF 57). The district court ordered plaintiffs to respond by 2026-10-23 and DOJ to reply by 2026-10-26. The vacatur has been neither stayed nor reversed in the docket entries read. The October 10 statement was accurate when written and is superseded."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.55.0.pdf (notice of appeal); https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.57.0.pdf (motion for stay pending appeal); docket 73218916 read with cl entries on 2026-10-21 for the 26-5362 case number and the briefing minute order (the docket page itself is not machine-fetchable)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "granted summary judgment to the plaintiffs"
   now: "The order grants the plaintiffs' motion for partial summary judgment (ECF 29) and denies DOJ's cross-motion and motion to dismiss."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.52.0.pdf — 'the Court GRANTS the Plaintiffs’ Motion for Partial Summary Judgment, ECF No. 29'"
-  found_by: "correcting worker, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "citing the administrative-record letters of March 6 and March 12, 2026"
   now: "Removed the two letter dates and the page, count and docket-number pinpoints from the body. The memorandum opinion's account of the HSI arrangement cites administrative-record pages (CRT-3400, CRT-3330); the March dates do not appear in the opinion text, so they are carried by the linked entry, not asserted here."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.51.0.pdf — no occurrence of 'March 6' or 'March 12'"
-  found_by: "correcting worker, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 event_date_claim: c11
 claims:
 - id: c1

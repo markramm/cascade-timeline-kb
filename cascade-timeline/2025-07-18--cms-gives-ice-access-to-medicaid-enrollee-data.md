@@ -44,12 +44,12 @@ corrections:
   was: "date: 2025-10-01; title \"DHS and CMS Share Personal Data of 79 Million Medicaid Patients With ICE\""
   now: "The court dates the start of sharing to June 2025 and the formal CMS-ICE agreement to July 2025; the preliminary-injunction order is dated 2025-08-12. The frontmatter date is now 2025-07-18, the publication date of the AP report as carried by CNN (date_is_publication_date: true), because the entry opens with that report. Nothing read supports 2025-10-01 (the HIPAA Journal article carried as a source is dated 2025-08-18). The 79-million figure is the AP's, reported by CNN on 2025-07-18, and is attributed as such. The filename keeps its 2025-10-01 prefix, so the gate's filename-date rule cannot pass without a rename."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.98.0_1.pdf (ECF 98: 'in June 2025, CMS began sharing'; 'in July 2025, CMS and ICE entered into a formal data-sharing agreement'; dated August 12, 2025); https://www.cnn.com/2025/07/18/politics/medicaid-ice-personal-data (79 million, AP); https://www.hipaajournal.com/federal-judge-blocks-hhs-sharing-medicaid-data-ice/ (page metadata published 2025-08-18)"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 - date: '2026-10-21'
   was: "A federal judge later granted a preliminary injunction requested by 20 state attorneys general"
   now: "The court granted the motion in part and denied it in part, on Administrative Procedure Act grounds only (likely arbitrary-and-capricious policy change, not a Privacy Act or HIPAA holding). The injunction bars DHS from using, and HHS from sharing for immigration enforcement, Medicaid data obtained from the plaintiff states; it runs until the litigation ends or 14 days after the agencies complete a reasoned decisionmaking process. The judge also wrote that nothing appears categorically unlawful about DHS obtaining such data. A later narrowing of this order reported in the press (December 2025) was not read and is not described here."
   why: "https://storage.courtlistener.com/recap/gov.uscourts.cand.452203/gov.uscourts.cand.452203.98.0_1.pdf — 'granted in part and denied in part'; APA 'arbitrary and capricious' holding; scope limited to 'the plaintiff states'"
-  found_by: "privacy-rules compliance ledger, 2026-10-21"
+  found_by: "editorial verification, 2026-10-21"
 event_date_claim: c13
 claims:
 - id: c13
