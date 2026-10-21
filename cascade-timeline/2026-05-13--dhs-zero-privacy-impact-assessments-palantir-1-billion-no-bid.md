@@ -5,7 +5,18 @@ date: '2026-05-13'
 title: "DHS Posts Far Fewer Privacy Impact Assessments (51 in 2024, 22 in 2025, 5 in 2026 Through Early October) While Palantir's Single-Award BPA Grows to About $132M Obligated"
 title_corrected: '2026-10-15: earlier title said "$1B No-Bid"; $1B is the ceiling and the BPA is coded full-and-open with one bid (see the 2026-08-28 audit below)'
 importance: 9
-status: disputed
+status: reported
+corrections:
+- date: '2026-10-21'
+  was: "The privacy-assessment blackout is concurrent with DHS's $1 billion Palantir deal signed in February 2026 [...] without competitive bidding. [...] The DHS Inspector General has accused the agency of \"obstructing audits\" of biometric data management and immigration enforcement activities."
+  now: "The lead paragraph now says \"decline in PIA postings\" and describes the Palantir vehicle as a blanket purchase agreement with a ceiling of about $1 billion, with the \"without competitive bidding\" phrase removed; the entry's own FPDS note below records that the award is coded full-and-open with one offer received. The Inspector General sentence was removed: the privacy-rules ledger found it was not verified against any primary and no completed IG report with a privacy-rule finding on DOGE or data sharing was located."
+  why: "cascade-research/themes/privacy-rules-compliance-ledger-2025-2026.md (ALLEGED table and IG paragraph); no primary supports the quoted \"obstructing audits\" phrase; FPDS characterisation is the entry's own 2026-08-28 note and was not re-read in this pass"
+  found_by: "privacy-rules compliance ledger, 2026-10-21"
+- date: '2026-10-21'
+  was: "slug and id: 2026-05-13--dhs-zero-privacy-impact-assessments-palantir-1-billion-no-bid"
+  now: "Slug and id kept unchanged so links resolve (house convention: keep filename and id). The slug still says \"zero\" and \"no-bid\" although the title, status and body no longer make either claim: five 2026 PIAs exist on DHS's server, and the BPA is coded full-and-open with one offer. Anyone citing this entry should cite the title, not the filename."
+  why: "https://www.dhs.gov/sites/default/files/2026-01/26_0129_priv_pia-ice-067-bondmanagement.pdf and https://www.dhs.gov/sites/default/files/2026-07/26_0729_privacy-usss-pia034-helix.pdf both returned HTTP 200 on 2026-10-21 per the ledger; counts of 51, 22 and 5 were not re-audited this pass"
+  found_by: "privacy-rules compliance ledger, 2026-10-21"
 tags:
   - surveillance
   - government-contracts
@@ -45,7 +56,7 @@ sources:
     tier: 2
 ---
 
-DHS posted five new or updated Privacy Impact Assessments (PIAs) dated 2026 through early October, against 51 in 2024 and 22 in 2025 on the same document count (DHS's own PDFs, re-audited 2026-10-08): a steep decline, not zero. Federal law — the E-Government Act of 2002 — requires agencies to file a PIA before developing or procuring any IT system that collects or disseminates information about the public, including when the agency intends to identify U.S. citizens alongside other data elements. The privacy-assessment blackout is concurrent with DHS's $1 billion Palantir deal signed in February 2026, which grants every major DHS component — CBP, ICE, FEMA, CISA — access to Palantir's surveillance platforms without competitive bidding. Documents reveal DHS plans to spend additional hundreds of millions on AI-powered mobile surveillance trucks and 198 border watch towers within the same umbrella arrangement. The DHS Inspector General has accused the agency of "obstructing audits" of biometric data management and immigration enforcement activities.
+DHS posted five new or updated Privacy Impact Assessments (PIAs) dated 2026 through early October, against 51 in 2024 and 22 in 2025 on the same document count (DHS's own PDFs, re-audited 2026-10-08): a steep decline, not zero. Federal law — the E-Government Act of 2002 — requires agencies to file a PIA before developing or procuring any IT system that collects or disseminates information about the public, including when the agency intends to identify U.S. citizens alongside other data elements. The decline in PIA postings is concurrent with DHS's February 2026 Palantir blanket purchase agreement (ceiling about $1 billion), which grants every major DHS component — CBP, ICE, FEMA, CISA — access to Palantir's surveillance platforms. Documents reveal DHS plans to spend additional hundreds of millions on AI-powered mobile surveillance trucks and 198 border watch towers within the same umbrella arrangement.
 
 The 2026 decline in PIA postings runs alongside the Palantir procurement expansion; no PIA was found for ELITE or ImmigrationOS on DHS's component pages (bounded search, 2026-10-08).
 
