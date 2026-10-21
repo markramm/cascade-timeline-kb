@@ -148,6 +148,46 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-21'
+- id: c15
+  type: quote
+  value: powered by artificial intelligence from Google's Gemini and Elon Musk's Grok
+  qualifier: powered
+  span: The Trump administration's new chatbot aimed at helping Americans navigate official government websites is powered by artificial intelligence from Google 's Gemini and Elon Musk 's Grok, U.S. Chief Design Officer Joe Gebbia said Tuesday.
+  url: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
+- id: c16
+  type: quote
+  value: We have great partners behind the scenes
+  qualifier: partners
+  span: '"We have great partners behind the scenes," Gebbia told CNBC''s " Squawk Box " shortly before the site, America.gov , went live around 10 a.m. ET.'
+  url: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
+- id: c18
+  type: quote
+  value: Gebbia sits on the board of directors of Tesla, which is led by Musk, owns a piece of SpaceXAI and uses Grok in its vehicles.
+  qualifier: sits
+  span: Gebbia sits on the board of directors of Tesla, which is led by Musk, owns a piece of SpaceXAI and uses Grok in its vehicles.
+  url: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
+- id: c19
+  type: quote
+  value: which was acquired by SpaceX and renamed SpaceXAI
+  qualifier: acquired
+  span: Grok developer xAI, which was acquired by SpaceX and renamed SpaceXAI, did not respond to CNBC's request for comment.
+  url: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
 tags:
 - america-gov
 - national-design-studio
@@ -156,6 +196,10 @@ tags:
 - gebbia
 - login-gov
 - surveillance-inc-layer-3
+- grok
+- gemini
+- conflict-of-interest
+- tesla-board
 actors:
 - Donald Trump
 - Joe Gebbia
@@ -184,6 +228,16 @@ sources:
   publisher: The White House
   date: '2026-09-29'
   tier: 1
+- title: 'Trump admin AI website uses Gemini, Grok: Joe Gebbia (CNBC)'
+  url: https://www.cnbc.com/2026/09/29/trump-ai-gemini-grok.html
+  publisher: CNBC
+  date: '2026-09-29'
+  tier: 2
+- title: CNBC Television, Squawk Box interview with Joe Gebbia (YouTube; English auto-generated captions)
+  url: https://www.youtube.com/watch?v=8u1a_QYR2AM
+  publisher: CNBC Television
+  date: '2026-09-29'
+  tier: 2
 ---
 
 **Date kind.** Sept. 29 is the event date and the site's go-live date: Fox News says America.gov "launched Sept. 29" and the White House fact sheet of that day says the President launched it. The orders signed that day were published in the Federal Register later (see the linked order entries).
@@ -201,3 +255,7 @@ sources:
 **Connections.** The Justice Department fraud-tip program announced weeks later tells the public to "report fraud by going to america.gov/fraud": [[2026-10-20--doj-whip-fraud-whistleblower-incentive-program-announced-25m-treasury-30k-awards-trump-arbitrator]]. NDS was created by [[2025-08-21--eo-14338-creates-nds-ndstudio-gov-pre-registered-day-prior]]; GSA's OneGov AI deals are at [[2025-08-07--gsa-aws-onegov]].
 
 **Unconfirmed.** Whether the second order was signed on stage is not established.
+
+**Update, added after the original entry: Gebbia names the AI vendors on camera.** CNBC reports that the America.gov chatbot "powered by artificial intelligence from Google's Gemini and Elon Musk's Grok", citing Gebbia, who told CNBC's Squawk Box "We have great partners behind the scenes". The English auto-generated caption of that CNBC Television interview (YouTube), at roughly 0:25, carries the words Gemini and Grok are both powering America.gov, as caption text only; the caption is machine-generated and the saved caption file is held in the research record. The CNBC article is the written corroboration. Vendor-by-vendor detail is outside this entry.
+
+**Update, added after the original entry: conflict-of-interest posture.** CNBC places Gebbia's studio role next to a Tesla board seat: "Gebbia sits on the board of directors of Tesla, which is led by Musk, owns a piece of SpaceXAI and uses Grok in its vehicles." CNBC also writes that xAI "which was acquired by SpaceX and renamed SpaceXAI" did not respond to its request for comment. Those ownership statements are CNBC's and are not independently verified here. The studio was created within the White House Office of the Executive Office of the President by [[2025-08-21--eo-14338-creates-nds-ndstudio-gov-pre-registered-day-prior]]. Gebbia's federal employment classification is not documented in the public record, and no public or confidential financial disclosure has been located, so this entry draws no conclusion that a legal conflict exists. His arrival at DOGE is at [[2025-02-13--nyt-reports-joe-gebbia-joining-doge-gebbia-confirms-opm-retirement-process-project-volunteering]].
