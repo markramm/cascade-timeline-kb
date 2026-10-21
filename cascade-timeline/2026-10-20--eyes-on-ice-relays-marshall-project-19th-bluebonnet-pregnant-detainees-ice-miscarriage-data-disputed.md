@@ -9,6 +9,33 @@ event_date_claim: c_date
 date_is_publication_date: true
 verification: source-verified
 claims:
+- id: c_oig1
+  type: date
+  value: June 24, 2026
+  span: 'Washington, DC 20528 | www.oig.dhs.gov June 24, 2026 MEMORANDUM FOR: David J. Venturella'
+  url: https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-21'
+- id: c_oig2
+  type: quote
+  value: whether systemic factors, policies, or processes contributed to detainee deaths that occurred in ICE custody from October 1, 2021, through March 31, 2026
+  span: whether systemic factors, policies, or processes contributed to detainee deaths that occurred in ICE custody from October 1, 2021, through March 31, 2026
+  url: https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-21'
+- id: c_oig3
+  type: quote
+  value: because of an increase of detainee deaths in ICE custody each year since fiscal year 2022
+  span: We are conducting this evaluation because of an increase of detainee deaths in ICE custody each year since fiscal year 2022
+  url: https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c1
   type: operator
   value: Management and Training Corporation (MTC)
@@ -161,6 +188,8 @@ claims:
   url: https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c16
   type: date
   value: October 2025
@@ -169,6 +198,8 @@ claims:
   url: https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c17
   type: figure
   value: first nine months
@@ -176,6 +207,8 @@ claims:
   url: https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c18
   type: posture
   value: pink, cold and watery
@@ -183,6 +216,8 @@ claims:
   url: https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-10-21'
 corrections:
 - date: '2026-10-21'
   was: 'ICE recorded 18 miscarriages in detention during the first 9 months of 2025 while booking nearly 500 pregnant or nursing women'
@@ -204,6 +239,11 @@ corrections:
   now: 'The primary article does not mention the contract number or Jones County; it says only that Management and Training Corporation runs the facility under its ICE contract, capacity 1,000. These details remain Eyes on ICE''s, not independently bound.'
   why: "https://19thnews.org/2026/10/pregnant-woman-ice-detention-camp-nightmare/"
   found_by: "task pull-marshall-project-and-the-19th-bluebonnet-investigation-and-bind-the-medical-conditions-claims"
+- date: '2026-10-21'
+  was: 'the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody (no announcement date given)'
+  now: 'OIG announced two separate evaluations by memo dated June 24, 2026: detainee deaths in ICE custody (Project 26-035-OIE-ICE) and use-of-force compliance (26-031-OIE-ICE). Neither names Bluebonnet; no report published as of 2026-10-21. "Forced to announce" is Eyes on ICE''s characterization.'
+  why: "https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf"
+  found_by: "task verify-dhs-oig-review-of-ice-detainee-deaths-and-use-of-force-announcement-date-scope-and-primary-document"
 tags:
 - ice-detention
 - pregnant-detainees
@@ -235,6 +275,11 @@ sources:
   publisher: The 19th / The Marshall Project
   date: '2026-10-14'
   tier: 2
+- title: 'Detainee Deaths in ICE Custody, FY 2022 through the Second Quarter of FY 2026 (OIG announcement memo)'
+  url: https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf
+  publisher: DHS Office of Inspector General
+  date: '2026-06-24'
+  tier: 1
 ---
 
 The primary article, read in full on The 19th's co-publication, is a profile of one detainee identified only as Maria, not a miscarriage-data investigation; see [[2026-10-14--the-19th-marshall-project-pregnant-detainee-maria-bluebonnet-six-months-records-show-gestational-diabetes]]. On ICE's data it says DHS reported 498 pregnant, postpartum and nursing immigrants booked out of ICE custody from January 2025 to February 2026, and, citing The Guardian, that 18 people miscarried in the first nine months of the administration, with records showing ICE stopped tracking miscarriages after October 2025.
@@ -243,6 +288,6 @@ Eyes on ICE, in a synthesis of that Marshall Project and The 19th report dated O
 
 The Eyes on ICE piece centers on the Bluebonnet Detention Center in Jones County, Texas, which it says is operated by the private prison conglomerate Management and Training Corporation (MTC) under an Intergovernmental Service Agreement with Jones County and overseen by the U.S. Immigration and Customs Enforcement (ICE) Dallas Field Office, under ICE Contract 70CDCR19DIG000017. It reports that poultry served to pregnant detainees at Bluebonnet was routinely pink, cold, and visibly undercooked; the primary article gives that as one detainee's account (the chicken was pink, cold and watery), while its records-based findings are her high blood pressure, gestational diabetes and low weight gain. The contract number and the Jones County agreement are Eyes on ICE's and do not appear in the primary article, which says only that Management and Training Corporation runs the facility.
 
-Eyes on ICE also reports that, following 33 reported detainee deaths in 2025 and at least 29 additional deaths recorded by the National Immigration Project (NIPNLG) through October 19, 2026, the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody; the source does not give the date of that announcement.
+Eyes on ICE also reports that, following 33 reported detainee deaths in 2025 and at least 29 additional deaths recorded by the National Immigration Project (NIPNLG) through October 19, 2026, the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody; the source does not give the date of that announcement. The OIG's own announcement memo for the detainee-deaths evaluation is dated June 24, 2026; its objective is to determine "whether systemic factors, policies, or processes contributed to detainee deaths that occurred in ICE custody from October 1, 2021, through March 31, 2026," and it says OIG is conducting the evaluation "because of an increase of detainee deaths in ICE custody each year since fiscal year 2022." A separate use-of-force evaluation was announced the same day; neither memo names Bluebonnet.
 
 See also [[2025-09-01--ice-pregnant-detainee-crisis-miscarriages-deportations]], [[2026-06-02--dhs-oig-26-08-unannounced-inspection-winn-correctional-medical-records-use-of-force]] and [[2026-07-21--ice-data-blackout-since-april-2026]].
