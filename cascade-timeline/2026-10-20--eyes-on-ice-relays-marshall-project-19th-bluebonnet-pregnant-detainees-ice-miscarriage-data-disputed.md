@@ -9,6 +9,15 @@ event_date_claim: c_date
 date_is_publication_date: true
 verification: source-verified
 claims:
+- id: c_nip1
+  type: quote
+  value: As of October 19, 2026, at least 29* people have reportedly died in ICE custody this year
+  span: As of October 19, 2026, at least 29* people have reportedly died in ICE custody this year.
+  url: https://nipnlg.org/news/mourning-those-who-have-died-ice-custody
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-21'
 - id: c_oig1
   type: date
   value: June 24, 2026
@@ -244,6 +253,11 @@ corrections:
   now: 'OIG announced two separate evaluations by memo dated June 24, 2026: detainee deaths in ICE custody (Project 26-035-OIE-ICE) and use-of-force compliance (26-031-OIE-ICE). Neither names Bluebonnet; no report published as of 2026-10-21. "Forced to announce" is Eyes on ICE''s characterization.'
   why: "https://www.oig.dhs.gov/sites/default/files/projects/memos/2026-06/Detainee%20Deaths%20in%20U.S.%20Immigration%20and%20Customs%20Enforcement%20%28ICE%29%20Custody%2C%20FY%202022%20through%20the%20Second%20Quarter%20of%20FY%202026.pdf"
   found_by: "editorial verification"
+- date: '2026-10-21'
+  was: 'at least 29 additional deaths recorded by the National Immigration Project (NIPNLG) through October 19, 2026'
+  now: 'NIPNLG''s 29 is its 2026 year-to-date count ("this year"), not additional to ICE''s 33 for 2025; the two are separate years and should not be summed. NIPNLG''s 29 includes deaths shortly after release from custody.'
+  why: "https://nipnlg.org/news/mourning-those-who-have-died-ice-custody"
+  found_by: "editorial verification, 2026-10-21"
 tags:
 - ice-detention
 - pregnant-detainees
@@ -280,6 +294,11 @@ sources:
   publisher: DHS Office of Inspector General
   date: '2026-06-24'
   tier: 1
+- title: 'Mourning Those Who Have Died in ICE Custody (NIPNLG)'
+  url: https://nipnlg.org/news/mourning-those-who-have-died-ice-custody
+  publisher: National Immigration Project (NIPNLG)
+  date: '2026-10-19'
+  tier: 2
 ---
 
 The primary article, read in full on The 19th's co-publication, is a profile of one detainee identified only as Maria, not a miscarriage-data investigation; see [[2026-10-14--the-19th-marshall-project-pregnant-detainee-maria-bluebonnet-six-months-records-show-gestational-diabetes]]. On ICE's data it says DHS reported 498 pregnant, postpartum and nursing immigrants booked out of ICE custody from January 2025 to February 2026, and, citing The Guardian, that 18 people miscarried in the first nine months of the administration, with records showing ICE stopped tracking miscarriages after October 2025.
@@ -288,6 +307,6 @@ Eyes on ICE, in a synthesis of that Marshall Project and The 19th report dated O
 
 The Eyes on ICE piece centers on the Bluebonnet Detention Center in Jones County, Texas, which it says is operated by the private prison conglomerate Management and Training Corporation (MTC) under an Intergovernmental Service Agreement with Jones County and overseen by the U.S. Immigration and Customs Enforcement (ICE) Dallas Field Office, under ICE Contract 70CDCR19DIG000017. It reports that poultry served to pregnant detainees at Bluebonnet was routinely pink, cold, and visibly undercooked; the primary article gives that as one detainee's account (the chicken was pink, cold and watery), while its records-based findings are her high blood pressure, gestational diabetes and low weight gain. The contract number and the Jones County agreement are Eyes on ICE's and do not appear in the primary article, which says only that Management and Training Corporation runs the facility.
 
-Eyes on ICE also reports that, following 33 reported detainee deaths in 2025 and at least 29 additional deaths recorded by the National Immigration Project (NIPNLG) through October 19, 2026, the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody; the source does not give the date of that announcement. The OIG's own announcement memo for the detainee-deaths evaluation is dated June 24, 2026; its objective is to determine "whether systemic factors, policies, or processes contributed to detainee deaths that occurred in ICE custody from October 1, 2021, through March 31, 2026," and it says OIG is conducting the evaluation "because of an increase of detainee deaths in ICE custody each year since fiscal year 2022." A separate use-of-force evaluation was announced the same day; neither memo names Bluebonnet.
+Eyes on ICE also reports that, following 33 reported detainee deaths in 2025 and at least 29 additional deaths recorded by the National Immigration Project (NIPNLG) through October 19, 2026, the DHS Office of Inspector General was forced to announce a formal review of detainee deaths and use of force across ICE custody; the source does not give the date of that announcement. The OIG's own announcement memo for the detainee-deaths evaluation is dated June 24, 2026; its objective is to determine "whether systemic factors, policies, or processes contributed to detainee deaths that occurred in ICE custody from October 1, 2021, through March 31, 2026," and it says OIG is conducting the evaluation "because of an increase of detainee deaths in ICE custody each year since fiscal year 2022." A separate use-of-force evaluation was announced the same day; neither memo names Bluebonnet. NIPNLG's own post gives the figure as a count for 2026: "As of October 19, 2026, at least 29* people have reportedly died in ICE custody this year"; it is not in addition to the 2025 total.
 
 See also [[2025-09-01--ice-pregnant-detainee-crisis-miscarriages-deportations]], [[2026-06-02--dhs-oig-26-08-unannounced-inspection-winn-correctional-medical-records-use-of-force]] and [[2026-07-21--ice-data-blackout-since-april-2026]].
