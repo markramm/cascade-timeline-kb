@@ -52,6 +52,9 @@ capture_lanes:
 - Institutional Capture
 - Systematic Corruption
 - Democratic Erosion
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 By March 9, 2026, reporting described the Trump administration as having effectively dismantled the U.S. Department of Justice's Public Integrity Section -- the office created in response to the Watergate scandal specifically to investigate corruption by public officials. The headcount collapse was not new in March: NOTUS had reported on September 22, 2025 that the section went from 36 attorneys assigned full-time when Trump took office to two (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]). The section had also been stripped of its authority to review potential cases against public officials and could no longer prosecute new cases on its own.

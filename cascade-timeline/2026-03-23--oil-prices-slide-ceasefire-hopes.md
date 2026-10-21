@@ -25,6 +25,9 @@ sources:
 status: confirmed
 capture_lanes:
 - Military Capture
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 On March 23, 2026, global oil prices fell sharply after President Trump postponed his threatened strikes on Iran's power grid and claimed productive conversations were underway. Brent crude dropped approximately 11 percent to $99.94 per barrel, pulling back from a war-time peak of $126 per barrel. West Texas Intermediate fell more than 10 percent to $88.13. The price decline represented the largest single-day drop since the conflict began on February 28.

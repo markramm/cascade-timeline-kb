@@ -45,6 +45,9 @@ capture_lanes:
 - Systematic Corruption
 - Democratic Erosion
 - Executive Power Expansion
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 By September 2025, the Department of Justice's Public Integrity Section -- the unit created after Watergate specifically to prosecute corruption by government officials at all levels -- had been reduced from 36 full-time lawyers to just two. NOTUS reported the collapse in detail on September 22, 2025: "When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two." The section, NOTUS wrote, "is now smaller than it's ever been since its creation in 1976."

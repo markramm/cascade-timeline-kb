@@ -34,6 +34,9 @@ sources:
 capture_lanes:
   - Military-Industrial Complex
   - Democratic Erosion
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 President Trump agreed to suspend planned attacks on Iranian infrastructure for two weeks, backing off his April 7 ultimatum to destroy Iran's "whole civilization" including all power plants and bridges. The ceasefire was conditioned on Iran's "COMPLETE, IMMEDIATE, and SAFE OPENING of the Strait of Hormuz." The agreement came after six weeks of US-Israel military strikes against Iran that began February 28, targeting military infrastructure, key officials, and facilities including strikes on Iran's Kharg Island energy export hub.

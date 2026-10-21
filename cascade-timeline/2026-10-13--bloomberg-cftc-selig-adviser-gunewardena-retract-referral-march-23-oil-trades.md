@@ -179,6 +179,9 @@ claims:
   url: https://dailycaller.com/2026/10/13/cftc-oil-trades-insider-trading-referral-mel-gunewardena-michael-selig-iran-bloomberg/
   read: fetched
   source_kind: secondary
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 On Tuesday, October 13 (Bloomberg report date), Bloomberg reported that a senior adviser to CFTC Chairman Michael Selig, Mel Gunewardena, told a supervisor to retract an insider-trading referral that analysts in the Division of Market Oversight had sent to the CFTC's enforcement division. The referral concerned oil-futures trading on March 23 (trade date), ahead of President Trump's Truth Social post that day postponing strikes on Iranian power plants (the same day as the existing timeline entry on Trump's postponement).

@@ -56,6 +56,9 @@ sources:
     publisher: Benzinga
     date: '2026-05-07'
     tier: 2
+coverage:
+  - url: https://theramm.substack.com/p/iran-oil-futures-four-incidents-3
+    title: "Iran Oil-Futures: Four Incidents, $3 Billion in Reported Trades, Zero Names"
 ---
 
 At 3:40 a.m. Eastern on May 6, 2026, a trader (or coordinated group of traders) placed approximately 10,000 crude oil short contracts on the WTI and Brent futures markets — roughly $920 million in notional value — without any concurrent public news to justify the position. **Seventy minutes later**, at 4:50 a.m. Eastern, Axios published a report stating that the United States and Iran were "close" to a "memorandum of understanding" to end the Iran War. By 7:00 a.m. Eastern, oil prices had fallen more than 12 percent. The shorts gained approximately $125 million. Minutes later, Iran's government launched what it called the "Persian Gulf Strait Authority" and oil prices surged 8 percent, but by then the original short positions had already been monetized.
