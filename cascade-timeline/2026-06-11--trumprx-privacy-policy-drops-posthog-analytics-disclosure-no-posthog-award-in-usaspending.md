@@ -4,7 +4,7 @@ id: 2026-06-11--trumprx-privacy-policy-drops-posthog-analytics-disclosure-no-pos
 date: '2026-06-11'
 title: TrumpRx Privacy Policy Drops Its PostHog Analytics Disclosure in a Revision Dated June 11; No PostHog Award Found in USAspending
 importance: 6
-status: confirmed
+status: reported
 event_date_claim: c1
 verification: captured
 claims:
