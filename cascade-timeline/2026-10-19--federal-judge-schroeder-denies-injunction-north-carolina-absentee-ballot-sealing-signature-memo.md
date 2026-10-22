@@ -163,6 +163,9 @@ sources:
   date: '2026-10-19'
 capture_lanes:
 - Civil Rights Suppression
+coverage:
+  - url: https://theramm.transparencycascade.org/p/mail-your-ballot-now-or-get-the-postmark
+    title: "Mail Your Ballot Now, or Get the Postmark by Hand"
 ---
 
 On October 19, 2026, U.S. District Judge Thomas D. Schroeder (M.D.N.C.) denied the plaintiffs' motion for a preliminary injunction in *North Carolina Alliance for Retired Americans et al. v. North Carolina State Board of Elections et al.*, No. 1:26-cv-00965. The plaintiffs (the Alliance, North Carolina Asian Americans Together, Down Home North Carolina and two voters) challenged two provisions of the State Board's September 4, 2026 update to Numbered Memo 2021-03: a "Sealing Requirement" (a returned ballot whose inner container-return envelope is unsealed is spoiled and reissued) and a "Signature Verification Requirement." The Republican National Committee and the North Carolina Republican Party intervened as defendants.
