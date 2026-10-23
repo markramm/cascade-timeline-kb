@@ -112,6 +112,9 @@ claims:
   checked: '2026-10-19'
 event_date_claim: c1
 verification: source-verified
+coverage:
+- url: https://www.democracydocket.com/news-alerts/todd-blanche-must-confirm-doj-wont-seize-ballots-senators-demand/
+  title: "Todd Blanche must confirm DOJ won't seize ballots, senators demand (Democracy Docket)"
 ---
 
 The letter to Attorney General Todd Blanche is dated **October 15, 2026**; Sen. Padilla's office released it on **October 16, 2026**. It is signed by Sens. Alex Padilla (Ranking Member, Rules and Administration), Dick Durbin (Ranking Member, Judiciary) and Sheldon Whitehouse (Ranking Member, Judiciary subcommittee on federal courts).

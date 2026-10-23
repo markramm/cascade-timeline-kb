@@ -167,6 +167,9 @@ sources:
   date: '2026-10-19'
   tier: 3
 lane: Immigration Enforcement
+coverage:
+- url: https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850
+  title: "US citizen injured during ICE detainment in Long Beach; officials call for investigation (ABC News)"
 ---
 
 On Saturday, October 17, 2026, immigration agents in North Long Beach, California, tased and injured a U.S. citizen who lives in the neighborhood, according to neighbors quoted by the Long Beach Post. Neighbors said an agent jumped out of an unmarked car and tackled him as he rode an e-bike, that agents tased him, and that one knelt on his back while he yelled in pain and said his arm was broken. A crowd of roughly 50 people blocked the agents' vehicles; one agent, a neighbor said, made racist comments to the mostly Latino crowd, and agents briefly grabbed two women, both U.S. citizens, who were soon freed. Long Beach police uncuffed the man and took him to a fire station, and paramedics took him to a hospital. Long Beach police said federal agents had called for help for medical aid and a crowd that had vandalized vehicles. DHS did not respond to the Post's questions. Congressman Robert Garcia said "ICE agents brutally attacked and broke the arm of a North Long Beach resident and U.S. citizen," and Mayor Rex Richardson said he is demanding answers from DHS.
