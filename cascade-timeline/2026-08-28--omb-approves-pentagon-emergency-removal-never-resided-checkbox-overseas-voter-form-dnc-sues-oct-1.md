@@ -104,6 +104,9 @@ sources:
   publisher: The Epoch Times
   date: '2026-10-01'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-overseas-voter-form-no-longer
+    title: "The Overseas Voter Form No Longer Has a Box for Americans Who Have Never Lived Here"
 ---
 
 The Democratic National Committee sued the Department of War and the Office of Management and Budget on Oct. 1 over the removal of a checkbox from the federal form Americans abroad use to register to vote and request mail ballots, per The Epoch Times; NPR reported that the suit seeks to block the revised forms. Among the changes was removing a checkbox for an overseas U.S. citizen to identify as having never lived in the United States. Some version of that checkbox has been on the Federal Post Card Application and the Federal Write-In Absentee Ballot since 2013.

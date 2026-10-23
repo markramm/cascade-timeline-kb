@@ -39,6 +39,9 @@ claims:
   url: https://web.archive.org/web/20260830004746id_/https://www.fvap.gov/api/public/cms/citizen-voter/reside
   read: fetched
   source_kind: primary
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-overseas-voter-form-no-longer
+    title: "The Overseas Voter Form No Longer Has a Box for Americans Who Have Never Lived Here"
 ---
 
 The Internet Archive's copy of FVAP's live Federal Post Card Application from the end of August still carried the third civilian-abroad box, "I have never lived in the United States." The archive's copy from the second week of September is the revised edition, which ends "Previous editions are obsolete." The box is gone. The swap happened between the earlier and later captures; the archive does not say which day, so the swap itself is undated here. OMB had approved the change in the last days of August.
