@@ -57,7 +57,7 @@ Two of the four gaps this entry was commissioned to close turned out to have pri
 | Nassau County Sheriff's Office | Nassau County | Warrant Service Officer | 2025-02-28 |
 | Rensselaer County Sheriff's Office | Rensselaer County | Jail Enforcement Model | 2020-06-10 |
 
-**This directly answers three of the four uncovered-agency questions this ticket carried forward, and updates a fourth.** Grepping the full 2,383-row file (all states, not just New York) for "Otsego," "Niagara," "Steuben," "Broome," "Madison," "Cattaraugus," "Mohawk," "Camden," or "Allegany" returns zero New York hits (the string matches that do appear are all Madison/Camden/Allegany-named jurisdictions in other states — Alabama, Arkansas, Florida, Georgia, etc. — a useful negative-control check that the filter logic itself works). Per ICE's own August 25 roster:
+**This directly answers three of the four open agency questions carried forward, and updates a fourth.** Grepping the full 2,383-row file (all states, not just New York) for "Otsego," "Niagara," "Steuben," "Broome," "Madison," "Cattaraugus," "Mohawk," "Camden," or "Allegany" returns zero New York hits (the string matches that do appear are all Madison/Camden/Allegany-named jurisdictions in other states — Alabama, Arkansas, Florida, Georgia, etc. — a useful negative-control check that the filter logic itself works). Per ICE's own August 25 roster:
 
 - **Otsego County Sheriff's Office** — not listed. Terminated (or never executed to ICE's own recognition).
 - **Mohawk Village Police Department** — not listed. Terminated.

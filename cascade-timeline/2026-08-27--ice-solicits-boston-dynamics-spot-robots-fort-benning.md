@@ -64,8 +64,7 @@ agency's robot fleet.
 - **Single source, tier 2.** Eyes on ICE reports record number and dates specifically enough to be
   checkable — **pull Record F2026075113 from SAM.gov directly** before any piece cites it.
 
-Open ticket: the corpus already carries a robot-dogs research task filed 2026-08-30, previously
-`blocked` on exactly this distinction (SSN vs. solicitation). **This is the solicitation.**
+**This is the solicitation**, as distinct from a sources-sought or special-notice (SSN) posting.
 
 ## Correction, 2026-10-19
 

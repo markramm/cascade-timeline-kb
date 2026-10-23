@@ -47,13 +47,13 @@ The Kennedy appointment establishes a precedent for staffing regulatory agencies
 
 ---
 
-## Verification corrections (2026-08-28)
+## Corrections (2026-08-28)
 
-An outward verification pass against scholarly and reference sources produced three corrections to this entry:
+Three corrections to this entry, against scholarly and reference sources:
 
 1. **"431 days" was wrong and has been replaced.** Kennedy was appointed **June 30, 1934** (the Commission was constituted **July 2, 1934**) and resigned **September 23, 1935** — **about 450 days**, or roughly fifteen months. Do not cite 431.
 
-2. **"Set a thief to catch a thief" is very likely not FDR's.** The phrase is a **stock English proverb catalogued in Bohn & Ray's *A Hand-book of Proverbs* (1855)**, long predating Roosevelt, and the verification pass found it **unsourced in every reachable source** — absent from Kennedy's standard biographical record and its citation apparatus, and unattested in scholarship tying it to the SEC appointment. What is documented is a milder, managerial rationale: the Brain Trust rated Kennedy "the best bet for Chairman because of executive ability, knowledge of habits and customs of business to be regulated and ability to moderate different points of view on Commission" (David Nasaw, *The Patriarch*, p. 208). Treat the quote as legend, not as a quotation from FDR.
+2. **"Set a thief to catch a thief" is very likely not FDR's.** The phrase is a **stock English proverb catalogued in Bohn & Ray's *A Hand-book of Proverbs* (1855)**, long predating Roosevelt, and it is **unsourced in every reachable source** — absent from Kennedy's standard biographical record and its citation apparatus, and unattested in scholarship tying it to the SEC appointment. What is documented is a milder, managerial rationale: the Brain Trust rated Kennedy "the best bet for Chairman because of executive ability, knowledge of habits and customs of business to be regulated and ability to moderate different points of view on Commission" (David Nasaw, *The Patriarch*, p. 208). Treat the quote as legend, not as a quotation from FDR.
 
 3. **Kennedy did not build the enforcement architecture.** The **Securities Act of 1933** was drafted by **Benjamin Cohen, Thomas Corcoran, and James Landis**, and the **Securities Exchange Act of 1934** was signed **June 6, 1934 — before Kennedy took office**, with over-the-counter markets already within its long title. Kennedy administered a statutory regime others designed; Landis, a drafter, then served on his Commission and succeeded him as chairman. Kennedy's most durable contributions were staffing (he recruited William O. Douglas, Abe Fortas, and David Saperstein, who wrote the first federal OTC rules).
 

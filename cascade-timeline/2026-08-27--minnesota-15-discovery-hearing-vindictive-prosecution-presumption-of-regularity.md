@@ -94,7 +94,7 @@ impose autocratic rule."*
 
 **This is a defendant's characterization of material in discovery, not an established fact.** The
 Nov. 28 date and the five-day interval are **checkable against the produced documents and the Metro
-Surge declaration date** — and that check is a research ticket, not an assumption. **Do not print the
+Surge declaration date** — and that check is still to be done, not assumed. **Do not print the
 interval as fact on this sourcing.**
 
 ## Surrounding posture

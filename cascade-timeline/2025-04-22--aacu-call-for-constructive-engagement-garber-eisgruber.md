@@ -34,9 +34,9 @@ status: reported
 
 On 2025-04-22, AAC&U (American Association of Colleges and Universities) published "A Call for Constructive Engagement," a joint statement developed in collaboration with university and college presidents and other educational leaders following national meetings convened by AAC&U and the American Academy of Arts & Sciences. Both Alan M. Garber (President, Harvard University) and Christopher L. Eisgruber (President, Princeton University) are named individual signers in the statement's endorsement list, alongside 600+ other college/university presidents and higher-ed leaders (list confirmed by direct fetch of the primary source; not independently counted in full here).
 
-This is the one instance in the record checked for this ticket that satisfies **documented coordination** rather than mere adjacency: a joint drafting process (convened national meetings), a shared text, and individual named signature by both Garber and Eisgruber on the same document.
+This is the one instance in the record checked that satisfies **documented coordination** rather than mere adjacency: a joint drafting process (convened national meetings), a shared text, and individual named signature by both Garber and Eisgruber on the same document.
 
-**Date correction relevant to research framing**: this letter is dated **April 22, 2025** — this predates, and is outside, the "fall 2025 through winter 2026" window that motivated this entry's parent research task. No comparably coordinated joint-signature letter naming both Garber and Eisgruber was found dated within the fall-2025/winter-2026 window itself; see cross-reference below for the fuller negative finding.
+**Date correction relevant to research framing**: this letter is dated **April 22, 2025** — this predates, and is outside, the "fall 2025 through winter 2026" window this entry was originally meant to cover. No comparably coordinated joint-signature letter naming both Garber and Eisgruber was found dated within the fall-2025/winter-2026 window itself; see cross-reference below for the fuller negative finding.
 
 Verbatim opening line: "As leaders of America's colleges, universities, and scholarly societies, we speak with one voice against..." (full statement at primary source).
 

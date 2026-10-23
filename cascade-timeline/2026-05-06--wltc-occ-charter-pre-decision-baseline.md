@@ -173,7 +173,7 @@ The 49% Aryam/G42 stake — see [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-5
 
 ## Research Gaps
 
-- [ ] **OCC actual decision** — not yet announced as of May 6, 2026 EOD; monitor next tick
+- [ ] **OCC actual decision** — not yet announced as of May 6, 2026 EOD; monitor
 - [ ] **Whether the application was extended past 120 days** — OCC has not publicly stated; deferral is technically permissible if OCC requires additional information
 - [ ] **Aryam/G42 disclosure question resolution** — Gould has refused to confirm publicly; the form of any approval order may surface this
 - [ ] **Federal Reserve master-account application status** — separate process; no public filing located. Interactive-database gap

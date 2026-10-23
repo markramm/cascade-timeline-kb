@@ -122,7 +122,7 @@ Hughes-Ryan is the structural source of every subsequent covert-action oversight
 
 4. **Trump II (2025-26)**: The administration has asserted findings authorizing Venezuelan and Iranian operations but public record indicates HPSCI Democrats have been denied timely notification (no source cited in this entry).
 
-The amendment connects directly to Worker U's **"authority migration"** finding: Hughes-Ryan is the statute intelligence agencies formally comply with (there is always a finding) while the substantive authorization architecture migrates to new instruments (Gang-of-Eight-only briefings, delayed notifications, reliance on 2001 AUMF as a generic authorization). The formal compliance does not constrain the operational reality.
+The amendment connects directly to **"authority migration"** finding: Hughes-Ryan is the statute intelligence agencies formally comply with (there is always a finding) while the substantive authorization architecture migrates to new instruments (Gang-of-Eight-only briefings, delayed notifications, reliance on 2001 AUMF as a generic authorization). The formal compliance does not constrain the operational reality.
 
 ## Broader Context
 

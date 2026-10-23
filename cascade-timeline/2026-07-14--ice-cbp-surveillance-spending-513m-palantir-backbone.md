@@ -35,7 +35,7 @@ A joint report from Mijente, Just Futures Law, and Surveillance Resistance Lab (
 
 This is the aggregate spending figure underlying individual contract stories the timeline has tracked piecemeal through 2026, including the illegal Medicaid-to-Palantir data transfer disclosed three days later ([[2026-07-17--ice-medicaid-palantir-illegal-data-transfer]]) — the report converts scattered contract disclosures into a single documented total, confirming that Palantir's role is now structural rather than incidental to ICE's enforcement capacity.
 
-## Independent verification, 2026-08-19 (ticket ledger-lead-source-or-refute-the-513m-ice-surveillance-figure)
+## Independent verification, 2026-08-19
 
 The Guardian independently confirmed the same $310M(2025)/$513M(2026) figures in its own June 24, 2026 coverage of this report, naming Palantir and Anduril as the two vendors driving the 2025→2026 spike (Anduril for border towers/drones/sensors; Palantir for data analytics/targeting) — corroborating this entry's figures from a second tier-1 outlet independent of Truthout.
 

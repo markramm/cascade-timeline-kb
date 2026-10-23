@@ -165,7 +165,7 @@ Per the government's own court filings, reported by AP/PBS: as of the Aug 21 sta
 
 **What Judge Leon's order does and does not stop**: per AP/PBS, Leon's injunction "allows belowground work on bunkers and military installations to continue" — it enjoins **aboveground** construction only. That belowground carve-out is the likely source of the "medical center" framing that circulated in aggregator coverage: hardened structures, bomb shelters, medical facilities, and drone/missile-defense infrastructure appear in the government's own filings describing the belowground work, which is not itself the object of the injunction or the stay. The "medical center" is not a separate legal target — it is one item in the administration's description of work the injunction never reached.
 
-**Net effect of the Aug 21 stay**: it lifts Leon's aboveground-construction halt "for now," allowing the 65%-complete, $200M-and-counting build to proceed while the government's National Park Service defense-of-authority argument gets full-Court treatment. The stay favors the administration's position, not the National Trust's — a correction to any framing (including the leads that generated this ticket) that treats the stay as blocking or pausing the ballroom itself.
+**Net effect of the Aug 21 stay**: it lifts Leon's aboveground-construction halt "for now," allowing the 65%-complete, $200M-and-counting build to proceed while the government's National Park Service defense-of-authority argument gets full-Court treatment. The stay favors the administration's position, not the National Trust's — a correction to any framing that treats the stay as blocking or pausing the ballroom itself.
 
 ## Legal basis for emergency relief
 
@@ -177,7 +177,7 @@ This is the Trump administration's latest use of the Supreme Court's emergency (
 
 ## Broader Context
 
-Canon already holds seven prior White House ballroom entries (announcement, demolition, corporate-donor funding, the YouTube settlement) running through October 2025 — see Related Entries below — but none previously covered this litigation. The carrying story that generated this research ticket (`2026-08-22--roberts-trump-ballroom-medical-center-stay-roberts-sunk-cost`, dropped as contradicted) had misidentified the property as Mar-a-Lago; the correct subject throughout is the White House East Wing.
+Canon already holds seven prior White House ballroom entries (announcement, demolition, corporate-donor funding, the YouTube settlement) running through October 2025 — see Related Entries below — but none previously covered this litigation. An initial lead had misidentified the property as Mar-a-Lago; the correct subject throughout is the White House East Wing.
 
 ## Research Gaps
 

@@ -129,7 +129,7 @@ CoreCivic updated its 2026 guidance "to reflect a recent decrease in nationwide 
 
 ## Capital Deployment
 
-- **$100M Incremental Term Loan** (April 10, 2026, matures April 9, 2027): CoreCivic's May 6 release says the company used the loan "to pay down a portion of the amounts outstanding under the Revolving Credit Facility and for working capital and general corporate purposes"; Swindle said it was obtained "to maintain our strong liquidity position." This reconciles the use-of-proceeds question raised in the parent task: the term loan is liquidity refinancing, not facility-acquisition capex.
+- **$100M Incremental Term Loan** (April 10, 2026, matures April 9, 2027): CoreCivic's May 6 release says the company used the loan "to pay down a portion of the amounts outstanding under the Revolving Credit Facility and for working capital and general corporate purposes"; Swindle said it was obtained "to maintain our strong liquidity position." This reconciles the use-of-proceeds question raised earlier: the term loan is liquidity refinancing, not facility-acquisition capex.
 - **Share repurchases Q1 2026**: 2.3M shares for $44.7M; cumulative 28.1M shares for $444.2M since 2022 authorization; $255.8M remains.
 - **2026 capex guidance**: Maintenance real estate $30–35M; Maintenance IT/other $30–35M; **Facility activation $40–45M**; Other $15M. Total ~$115–130M.
 - **Clinical Solutions Pharmacy** ($148M, closed April 1): Diversification into an adjacent corrections-services business; characterized by Swindle as "diversification of our cash flows in a complementary business."

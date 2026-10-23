@@ -100,4 +100,4 @@ The six founding systems were all in Republican-governor-controlled states with 
 - [[university-and-academia-capture-evidence]] — existing theme; CPHE fills the documented "accreditation-pressure gap"; Channel 7 candidate
 - [[rulemaking-tracking-education-dept-firings-accreditation-rule-restructuring-mechanism]] — AIM rulemaking context (May 21, 2026 final consensus)
 - [[coalition-event-neche-proposes-removing-dei-standards-under-trump-pressure-accreditor-capture-mechanism]] — NECHE parallel pattern (federal lever vs. state alternative)
-- [[administrative-engineering-of-accountability-evasion-2026]] (fe65eba8) — Mode 4 candidate: accreditation-as-substitute-jurisdiction; conductor synthesis required
+- [[administrative-engineering-of-accountability-evasion-2026]] (fe65eba8) — Mode 4 candidate: accreditation-as-substitute-jurisdiction

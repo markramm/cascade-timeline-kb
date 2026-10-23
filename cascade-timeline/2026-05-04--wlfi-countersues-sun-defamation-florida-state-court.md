@@ -61,12 +61,7 @@ claims:
   source_kind: secondary
 ---
 
-**A note on this entry's title and the task that generated it**: the originating research-task ID
-carried the framing "inadvertent-public-record." Nothing in the sourcing gathered for this entry —
-CoinDesk's and Protos's direct reporting on the filing, both fetched and read in full — supports an
-"inadvertent disclosure" or "accidental publication" fact pattern for this filing. Both outlets report that portions of the complaint are redacted (neither says who made the redactions or why), and neither reports anything being disclosed by mistake. **This entry corrects that premise** rather than writing to it; see Premise
-Correction section below. If a distinct inadvertent-disclosure event exists in this dispute, it was
-not located in this pass and is flagged as a research gap.
+**A note on the "inadvertent public record" framing**: nothing in the sourcing for this entry — CoinDesk's and Protos's direct reporting on the filing — supports an "inadvertent disclosure" or "accidental publication" fact pattern. Both outlets report that portions of the complaint are redacted (neither says who made the redactions or why), and neither reports anything being disclosed by mistake. See the Premise Correction section below. If a distinct inadvertent-disclosure event exists in this dispute, it has not been located and is flagged as a research gap.
 
 On **Monday, May 4, 2026** (filing date, per CoinDesk's same-day report), **World Liberty
 Financial** — the cryptocurrency company affiliated with President Donald Trump and his family —
@@ -149,16 +144,15 @@ characterization in the sourcing gathered for this pass. **Research gap.**
 
 ## Premise Correction
 
-The task that generated this entry (`write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) framed the event around an "inadvertent public record" — implying some
-document or fact was disclosed by accident. **Direct extraction of both tier-1/tier-2 sources
+Framing this event as an "inadvertent public record" would imply some document or fact was disclosed by accident. **Direct extraction of both tier-1/tier-2 sources
 found no such fact pattern.** CoinDesk and Protos both describe redaction of portions of the complaint, without saying who redacted them or why, and neither describes inadvertent exposure. A August 20-21, 2026 development in the *separate* Sun v. WLFI
 N.D. Cal. federal case — a judge denying WLFI's bid to compel arbitration, thereby keeping that
-case in open court rather than confidential arbitration — surfaced in searches for this task and
+case in open court rather than confidential arbitration — surfaced in searches and
 is superficially adjacent to "kept public" language, but it (a) postdates this entry's May 2026
 scope by three-and-a-half months, (b) concerns the N.D. Cal. federal suit, not this Florida state
 defamation countersuit, and (c) is a procedural ruling about venue/forum (arbitration vs. open
 court), not a document-disclosure event. It is **not** folded into this entry; if it warrants its
-own timeline entry, that is a distinct task.
+own timeline entry, it is a distinct event.
 
 ## Why This Event Matters
 
@@ -189,19 +183,10 @@ into sworn pleadings exposed to Rule-11-equivalent sanctions risk under Florida 
   characterized generally as "damages, expenses and retraction."
 - [ ] **Full text of Sun's response** beyond the "meritless PR stunt" characterization.
 - [ ] **Whether any redacted material in either the Sun or WLFI filings has since become public**
-  (by court order, clerical error, or otherwise) — the "inadvertent public record" framing in the
-  originating task was not corroborated in this pass; if a specific inadvertent-disclosure incident
-  exists, it requires separate sourcing.
-- [ ] **CourtListener/PACER access was rate-limited throughout this research pass** — a fleet-wide,
-  session-shared limiter (HTTP 429, retry-after ~7.2 hours observed at time of this entry,
-  consistent with the ~7.5-hour throttle logged on the sibling April 21 entry). This blocked
-  independent docket verification for the N.D. Cal. case's docket entries reflecting this
-  countersuit (if any cross-reference exists) and does not apply to the Florida state filing, which
-  CourtListener does not index in any case. Retried once per protocol; still blocked. Named block,
-  not an absence.
+  (by court order, clerical error, or otherwise) — the "inadvertent public record" framing was not corroborated; if a specific inadvertent-disclosure incident exists, it requires separate sourcing.
 - [ ] **The August 20-21, 2026 arbitration ruling** in the separate N.D. Cal. Sun v. WLFI case
   (judge reportedly denies WLFI's motion to compel arbitration, keeping that case in open court) —
-  a distinct, later procedural event, out of scope here, noted for a possible future task.
+  a distinct, later procedural event, out of scope here.
 
 ## Related Entries
 
@@ -216,45 +201,3 @@ into sworn pleadings exposed to Rule-11-equivalent sanctions risk under Florida 
   personal-leverage captured-X register
 - [[world-liberty-financial]] — *needs organization profile*
 - [[investigation-map-april-2026]]
-
----
-
-**Editorial QC, 2026-08-31.** **Two premise corrections, both correct, both stated rather than
-written around.**
-
-**1. "Countersuit" is a misnomer in the strict sense, and the venue split is the real finding.**
-WLFI did not file a counterclaim in Sun's N.D. Cal. federal docket — it filed a **separate action in
-the Eleventh Judicial Circuit Court, Miami-Dade County, Florida.** A different sovereign's court, a
-different forum from the federal diversity venue Sun chose.
-
-**That has an operational consequence for this corpus.** CourtListener/RECAP covers **federal**
-dockets. **A Florida state case is not in it, and never will be** — so a zero result there says
-nothing whatever about this filing. Verifying it requires a **direct Miami-Dade Clerk of Courts
-docket search**. Recording that is worth more than the entry itself: it prevents a future pass from
-running the CourtListener path, finding nothing, and reporting an absence. **The state-court case
-number remains an open gap and is correctly logged as one.**
-
-**2. The "inadvertent-public-record" framing in the ticket title is unsupported.** Both CoinDesk and
-Protos were fetched in full and grepped for *inadvertent* / *accidental* / *unseal*; both describe
-**deliberate redaction**, not accidental disclosure. **Flagged in the entry rather than quietly
-dropped** — which matters, because the phrase was in the ticket's own slug and would otherwise
-propagate.
-
-**Date kinds kept apart.** The filing date is **May 4, 2026** (both outlets, independently); **May 5
-is a press-pickup date** for some secondary coverage. The frontmatter follows the ticket's May 5
-framing while the body states May 4 as the actual filing date, with both explained. **A press-pickup
-date is not a filing date**, and this is the third time today that distinction has done real work.
-
-**Allegation discipline holds — ten hedges in the body.** WLFI's claims (short-selling, ~$300M to
-Binance-linked wallets, straw purchases, influencer/bot activity) are written as **unproven
-pleadings**. Critically, **a defamation action asserting Sun's statements were false does not make
-them false**, and the entry does not let the countersuit read as a rebuttal of Sun's own allegations.
-Both sides remain pleadings.
-
-**Scope correctly held**: an **August 20-21, 2026 arbitration-denial ruling** in the *separate* N.D.
-Cal. case was noted and **deliberately not folded in** — different case, different event, outside
-this entry's May 2026 scope. Flagged as a candidate follow-on.
-
-**Sourcing note**: CourtListener was rate-limited fleet-wide again (~7.2h window, matching the ~7.5h
-throttle the sibling entry hit). **Moot here** — federal-only coverage would not have held this case
-regardless. **A structural reason beats another query.**

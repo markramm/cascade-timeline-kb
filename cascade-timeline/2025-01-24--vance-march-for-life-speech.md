@@ -81,7 +81,7 @@ Vance delivered the speech in person to thousands of marchers assembled near the
 
 ## Why This Event Matters
 
-Per [[vance-project-2025-alignment-audit]] (tick-19 Worker C, 2026-04-27): this speech is the most explicit VP-era articulation of the [[mandate-for-leadership]] **Chapter 9 — Department of Health and Human Services / "Family Office"** framework authored by [[severino-roger]] — *needs entry*.
+Per [[vance-project-2025-alignment-audit]] (2026-04-27): this speech is the most explicit VP-era articulation of the [[mandate-for-leadership]] **Chapter 9 — Department of Health and Human Services / "Family Office"** framework authored by [[severino-roger]] — *needs entry*.
 
 The Severino chapter proposes restructuring HHS as a "Family Office" — a pronatalist, religiously framed institution that restricts abortion and contraception via Comstock Act enforcement, restricts Title X, promotes "religious liberty" and "Eradicating Anti-Christian Bias" as cross-cutting authority, and explicitly frames pronatalism as a government-level priority.
 

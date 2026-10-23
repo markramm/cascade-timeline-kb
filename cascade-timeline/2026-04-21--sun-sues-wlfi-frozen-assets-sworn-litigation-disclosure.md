@@ -137,7 +137,7 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 
 - [ ] **Reconciliation of the $45M complaint figure against the $75M cumulative WLFI investment figure** used elsewhere in this KB's Sun coverage — these may describe different things (a single tranche vs. total position) but the complaint's own $45M framing as "at that pivotal time" is ambiguous without the underlying paragraph context.
 - [ ] **Precise identity and structure of Blue Anthem Limited and Black Anthem Limited** — their relationship to Sun personally (wholly owned vehicles, investment funds, other) is not established in the sourcing for this entry.
-- [ ] **Full complaint text** — this entry relies on CoinDesk's direct quotations rather than the underlying PDF; CourtListener's docket entry for the initial complaint was not independently retrieved in this pass (the docket confirms the case's existence, parties, judge, and filing date, but the specific complaint document was not pulled). CourtListener's search API was rate-limited mid-session (a fleet-wide, session-shared limiter; confirmed via a direct throttled response citing a ~7.5-hour retry window) before the complaint document itself could be fetched.
+- [ ] **Full complaint text** — this entry relies on CoinDesk's direct quotations rather than the underlying PDF; CourtListener's docket entry for the initial complaint was not independently retrieved (the docket confirms the case's existence, parties, judge, and filing date, but the specific complaint document was not pulled). The complaint document itself was not fetched.
 - [ ] **The specific dollar amount of tokens frozen as of April 21, 2026** — not stated in the CoinDesk coverage available; whether it matches, exceeds, or is less than the September 2025 $107M figure is unconfirmed.
 - [x] **Sun's X post** — resolved 2026-10-08: CoinDesk quotes two separate sentences; April 15 is the date of WLFI's governance proposal.
 - [ ] **WLFI's substantive answer or motion to dismiss**, once filed, will bear on how much of the complaint's factual narrative survives adversarial testing — not yet available as of this entry.
@@ -153,35 +153,6 @@ Litigation between two parties who both benefited from the Trump-crypto alignmen
 - [[world-liberty-financial]] — *needs organization profile*
 - [[investigation-map-april-2026]]
 
-**Note on the sibling event**: World Liberty Financial's May 5, 2026 defamation countersuit against Sun (per task `write-timeline-event-2026-05-05-wlfi-countersues-sun-defamation-inadvertent-public-record`) is a **separate filing with its own docket, its own allegations (short-selling, a "scorched-earth pressure campaign"), and its own claims** — genuinely severable from this entry. It is documented as its own timeline event, not folded into this one; the countersuit task remains open for a separate worker.
+**Note on the sibling event**: World Liberty Financial's May 5, 2026 defamation countersuit against Sun is a **separate filing with its own docket, its own allegations (short-selling, a "scorched-earth pressure campaign"), and its own claims** — genuinely severable from this entry. It is documented as its own timeline event, not folded into this one.
 
----
-
-**Editorial QC, 2026-08-31.** **Docket independently re-verified** via a separate CourtListener v4
-query: **`Sun v. World Liberty Financial LLC` | court `cand` | filed 2026-04-21`** — court, party,
-and filing date all match.
-
-**And the verification surfaced exactly the trap that makes case-number discipline necessary.** The
-same query returned **three different cases sharing the number `3:26-cv-03360`**: this one in
-`cand`, *Mursalov v. Field Office Director, ICE San Diego* in `casd` (filed 2026-06-02), and
-*LUCE v. PFIZER INC* in `flnd` (filed 2026-04-03). **A case number is only unique within its
-district.** Any citation to this docket must carry **N.D. Cal.** — a bare "3:26-cv-03360" points at
-three unrelated matters, one of them an ICE detention case that would look plausible in this corpus.
-
-**The allegation framing is right throughout** — twelve separate hedges in the body, and the opening
-paragraph states it flatly: *"Everything below attributed to 'the complaint' or 'Sun alleges' is one
-party's sworn pleading, not an adjudicated fact."* **An unverified complaint signed by counsel carries Rule 11 obligations for counsel; it is not a sworn statement by Sun.** That matters most for the named
-allegation against **Chase Herro**, which is written strictly as Sun's unproven assertion.
-
-**The figure conflict was flagged, not resolved — correct.** The complaint's own **$45 million**
-differs from the **$75 million** cumulative figure used elsewhere in this KB's Sun coverage. They
-trace to different documents (the April 2026 complaint vs. earlier reporting on cumulative
-position). **Not interchangeable, and not silently merged.**
-
-**Correctly kept separate from the May 5 countersuit** — a genuinely severable filing with its own
-docket. The sibling ticket remains open and cross-referenced rather than absorbed.
-
-**Sourcing note**: CourtListener hit its shared throttle (~7.5-hour message) *after* the primary
-docket was captured, and web tiers were rate-limited fleet-wide. Two tier-1 sources stand, one of
-them **the court record itself** — which independently corroborates the filing the secondary source
-describes, rather than restating it.
+**Case-number caution**: a case number is unique only within its district. `3:26-cv-03360` is also assigned to unrelated matters in other districts, so any citation to this docket should carry N.D. Cal.

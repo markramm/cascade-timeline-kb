@@ -67,7 +67,7 @@ The structural consequences of *Chadha* have been enormous and almost all run in
 
 5. **Delegation expanded, oversight contracted.** Louis Fisher's influential 1993 study documented that Congress did not respond to *Chadha* by withdrawing delegations — it responded by informal accommodations (committee-level approvals, appropriations riders, consultation requirements) that lacked the legal force of the vetoed provision. The practical effect was to convert formal oversight mechanisms into informal ones with far less institutional weight.
 
-Critically for Worker U's **"authority migration"** pattern: *Chadha* is the moment when Congressional attempts to retain oversight through simple procedural mechanisms became constitutionally impossible, forcing reassertion efforts into formal legislation subject to presidential veto. The one-house veto had been the political compromise enabling broad 1940s-1970s delegations; its elimination without a replacement means post-1983 delegations transfer far more operational authority to the executive than their sponsors intended.
+Critically for the **"authority migration"** pattern: *Chadha* is the moment when Congressional attempts to retain oversight through simple procedural mechanisms became constitutionally impossible, forcing reassertion efforts into formal legislation subject to presidential veto. The one-house veto had been the political compromise enabling broad 1940s-1970s delegations; its elimination without a replacement means post-1983 delegations transfer far more operational authority to the executive than their sponsors intended.
 
 ## Broader Context
 

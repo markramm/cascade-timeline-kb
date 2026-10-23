@@ -87,5 +87,4 @@ This event is load-bearing evidence for the [[convergent-energy-demand-shock-cry
 ## Related Entries
 
 - [[convergent-energy-demand-shock-crypto-and-ai]]
-- [[task-inv6-bitcoin-mining-electricity-price-floor]]
 - [[epic-inv6-energy-systems-convergent-demand-shock]]

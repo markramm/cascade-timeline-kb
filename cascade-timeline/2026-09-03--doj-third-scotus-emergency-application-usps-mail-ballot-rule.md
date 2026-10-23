@@ -94,23 +94,14 @@ number and drew briefing). Under that rule 26A297 is **#2** and **26A305 is the 
 
 **Three tier-1 outlets called this filing "third"** (NBC News, NPR, SCOTUSblog). Their count was not
 adopted: none states whether it counts the intervenor-states' companion application or counts
-filings across all courts rather than SCOTUS dockets. Per
-[[feedback_parse_primary_lists_dont_cite_counts]], the docket was parsed rather than the total
+filings across all courts rather than SCOTUS dockets. The docket was parsed rather than the total
 inherited — including from outlets that agree with each other.
 
 **The source title at tier 1 retains the word "third"** and has not been altered; it is quoted as
 published.
 
-**The file's `id` and slug still read `doj-third-...`.** Not renamed: seven timeline entries and
-five research/ledger files reference this ID across two repositories, and a rename would break those
-links for no analytical gain. **The slug is known-wrong; the text is correct.** Cite this event by
+**The file's `id` and slug still read `doj-third-...`.** They were not renamed, to keep inbound links intact. **The slug is known-wrong; the text is correct.** Cite this event by
 docket number (26A297), never by its filename's ordinal.
 
 **Also corrected**: [[2026-09-04--talwani-preliminary-injunction-usps-mail-ballot-rule-seventy-days-before-election]],
 which inherited the same off-by-one.
-
-**Still carrying the wrong ordinal, out of scope here**: the capture ledger's story ID
-`daily-capture-reports/headline/2026-09-03--scotus-mail-ballot-third-emergency-midterm-2026`.
-
-Full reconciliation, the rejected alternative counting rules, and the canon-fix inventory:
-[[reconcile-the-ordinal-count-of-scotus-mail-ballot-emergency-applications-august-september-2026]].

@@ -85,4 +85,4 @@ This is the same mechanism the Maryland AG complaint names ([[2026-08-20--maryla
 - **"600+ brokers"** — a floor; the actual current count is **865**. Use that.
 - **"260,000 queued requests"** — **did not survive.** No source corroborates it. The corpus's existing **345,000+** figure is better sourced; drop the 260,000.
 
-**No FOIA was needed.** The registry publishes exactly what the research ticket was going to request — a reminder that checking what is already public is the cheapest step in a records strategy.
+**No FOIA was needed.** The registry publishes exactly what a records request would have asked for — a reminder that checking what is already public is the cheapest step in a records strategy.

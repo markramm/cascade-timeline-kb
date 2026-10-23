@@ -105,13 +105,13 @@ Per the letter PDF itself (primary source, verified directly, not via the press 
 
 ## Date discipline — three distinct dates, not one
 
-Per [[feedback_every_date_must_say_what_kind_it_is]], this event is indexed under the **letter date**, verified from the PDF's own header ("September 01, 2026") and its filename (`2026.09.01_Fetterman-Letter-to-ICE...`) — not the press-release publication date. Three distinct dates apply to this single episode and must not be collapsed:
+This event is indexed under the **letter date**, verified from the PDF's own header ("September 01, 2026") and its filename (`2026.09.01_Fetterman-Letter-to-ICE...`) — not the press-release publication date. Three distinct dates apply to this single episode and must not be collapsed:
 
 - **2026-09-01** — the letter itself is dated and signed (primary; this entry's `date` field).
 - **2026-09-11** — Fetterman's office published the press release announcing the letter (a ten-day gap between sending and publicizing). WTAJ's coverage carries this same date.
 - **2026-09-12** — MyChesCo's secondary relay.
 
-The originating research ticket for this entry instructed dating the event to 2026-09-11 as "the letter date." Direct inspection of the primary-source PDF shows this is incorrect — 2026-09-11 is the press-release/press-pickup date, and 2026-09-01 is printed on the letter itself. Per the correct-the-prompt discipline, this entry uses the verified 2026-09-01 letter date and flags the correction here rather than propagating the ticket's premise.
+One framing dated the event to 2026-09-11 as "the letter date." Direct inspection of the primary-source PDF shows this is incorrect — 2026-09-11 is the press-release/press-pickup date, and 2026-09-01 is printed on the letter itself. This entry uses the verified 2026-09-01 letter date.
 
 ## Did ICE respond by the September 15, 2026 deadline? — Verified absence, checked 2026-09-17
 
@@ -122,7 +122,7 @@ The originating research ticket for this entry instructed dating the event to 20
 - `evidence-search news` query `"Moshannon Valley EMS" ICE payment` (run 2026-09-17, 1/1 sources responsive, 9 results) surfaced no coverage past the original WTAJ piece; remaining hits are unrelated WTAJ local stories matched on outlet only.
 - `evidence-search web` (general web / SearXNG) was rate-limited on this pass (`RateLimited`, `searxng` backing off after 5 consecutive failures) — this is a **tooling-limited gap, not a content-exhausted negative**, and should be retried by a later pass before this absence is treated as fully exhausted across the general web tier specifically.
 
-Per [[feedback_no_rfc_to_dhs_bulletproof_sourcing_instead]], ICE was not contacted directly to ask whether it responded — the check is confined to whether Fetterman's office (the party expecting the response) has published anything indicating one arrived. **Silence in the record as of 2026-09-17, two days past a self-set deadline, is a documented gap, not evidence of stonewalling** — no public statement from ICE either confirming or denying a response exists in the reviewed sources, and it remains possible a non-public response was sent directly to the Senator's office without a public release. Re-check should resume from the general-web tier once the SearXNG rate limit clears, and periodically thereafter for any newsroom update.
+ICE was not contacted directly to ask whether it responded — the check is confined to whether Fetterman's office (the party expecting the response) has published anything indicating one arrived. **Silence in the record as of 2026-09-17, two days past a self-set deadline, is a documented gap, not evidence of stonewalling** — no public statement from ICE either confirming or denying a response exists in the reviewed sources, and it remains possible a non-public response was sent directly to the Senator's office without a public release. Re-check should resume from the general-web tier once the SearXNG rate limit clears, and periodically thereafter for any newsroom update.
 
 ## Named-harm layer — checked, not present for this specific mechanism
 
@@ -154,6 +154,4 @@ The letter sits inside an eleven-month arc already in canon: VA/ICE contract ter
 - [[2026-05-13--venturella-geo-group-executive-named-acting-ice-director]]
 - [[2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure]]
 - [[detention-fiscal-architecture-clearfield-appleton-tax-base-and-medical-nonpayment]]
-- [[feedback_every_date_must_say_what_kind_it_is]]
-- [[feedback_no_rfc_to_dhs_bulletproof_sourcing_instead]]
 - [[victim-story-deployment-index-and-deploy-with-dignity-standard-2026]]

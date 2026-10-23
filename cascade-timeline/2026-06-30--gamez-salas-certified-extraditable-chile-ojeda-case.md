@@ -69,8 +69,8 @@ See [[2024-02-21--ojeda-kidnapping-killing-santiago-chile]] for the underlying k
 ## Research Gaps
 
 - [ ] No confirmed surrender/transfer date to Chile located as of this pass (August 2026); ProPublica's July 10, 2026 story states the process "could still take a few weeks" from that date but does not give a date certain, and the docket's last known filing (a status report, Aug. 28, 2026) was not independently pulled for its content in this pass — flagged for a follow-up check rather than assumed.
-- [ ] The underlying Chilean charging instrument against Gámez Salas (the actual charge(s) he faces in Chile) was not independently retrieved in this pass; per [[feedback_absence_in_wrong_document]], charge status must come from that instrument, not from this U.S. extradition docket, and this entry deliberately does not characterize Chilean charge language.
-- [ ] govinfo.gov does not appear to carry district-court extradition-certification orders (these are not published opinions); attempted as a CourtListener fallback per ticket instruction, found not applicable to this document type rather than blocked — noted for future tickets citing similar unpublished district-court orders.
+- [ ] The underlying Chilean charging instrument against Gámez Salas (the actual charge(s) he faces in Chile) was not independently retrieved in this pass; charge status must come from that instrument, not from this U.S. extradition docket, and this entry deliberately does not characterize Chilean charge language.
+- [ ] govinfo.gov does not appear to carry district-court extradition-certification orders (these are not published opinions); attempted as a CourtListener fallback, found not applicable to this document type rather than blocked — noted for citations of similar unpublished district-court orders.
 
 ## Related Entries
 

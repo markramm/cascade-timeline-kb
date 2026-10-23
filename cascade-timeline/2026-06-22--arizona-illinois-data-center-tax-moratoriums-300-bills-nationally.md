@@ -70,4 +70,3 @@ was a surge in exactly the applications it was meant to stop. The identities of 
 applicants have not been pulled and are an open lead; so is whether the $38M figure reconciles
 against Arizona Commerce Authority reporting.
 
-*Source: daily-capture-reports ledger story `2026-06-10--arizona-data-center-tax-incentive-3yr-pause-hobbs-2026` (datacenter-watch), 2026-09-16 consume pass.*

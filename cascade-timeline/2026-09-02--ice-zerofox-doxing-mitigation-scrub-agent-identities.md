@@ -59,8 +59,7 @@ The HSI Office of Intelligence routing matches the leaked memo exactly, and the 
 recipient all corroborate. But the public procurement record describes this as law-enforcement
 software licensing. **Two readings are open and this entry does not choose between them**: the
 Doxing Mitigation Initiative may be one funded activity under a broader license purchase, or the
-procurement description may be generic to the point of being uninformative. Per
-[[feedback_absence_in_wrong_document]], the contract description is not the document that would
+procurement description may be generic to the point of being uninformative. The contract description is not the document that would
 settle what the money buys — the **statement of work** is, and it is not public.
 
 **So the citable form is**: ICE awarded ZeroFox a $13M firm-fixed-price contract through HSI's Office

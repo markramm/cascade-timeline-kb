@@ -48,37 +48,10 @@ The refund mechanism sits beneath a documented presidential retaliation threat: 
 
 ---
 
-## Sourcing flag, 2026-08-28 — the validation-count statistics are in none of the cited sources
+## Sourcing flag — the validation-count statistics are not in the cited sources
 
-Found by the canon sourcing audit
-([[audit-high-importance-confirmed-canon-for-source-claim-mismatch]]) and independently
-re-verified by a conductor pass.
+**Supported and unaffected**: the **$166 billion** refund-liability figure is carried verbatim by GovExec and CNBC. The portal launch, the CBP process, and the Supreme Court's February strike-down of the IEEPA tariffs all stand. This flag is scoped to one set of numbers.
 
-**Supported and unaffected**: the **$166 billion** refund-liability figure is carried verbatim by
-GovExec and CNBC. The portal launch, the CBP process, and the Supreme Court's February strike-down
-of the IEEPA tariffs all stand. This flag is scoped to one set of numbers.
+**Not supported**: the specific claim about **47,000 of 75,000 claims validated**, and the derived **21% / 3%** percentages. These appear in **none of the four cited sources**. Full-text extracts of CBS News, GovExec and CBP.gov returned zero matches; the GovExec extract reaches the article body and does carry "$166 billion," so the absence is in the article text, not an extraction artifact. On CBP's own page, "validated" appears only as process vocabulary describing how a CAPE Declaration is accepted, never attached to a count. Neither "47,000" nor "75,000" occurs anywhere.
 
-**Not supported**: the specific claim about **47,000 of 75,000 claims validated**, and the derived
-**21% / 3%** percentages. These appear in **none of the four cited sources**.
-
-**Method, stated because it is what makes this absence meaningful** — three sources returned large
-successful extracts with zero matches:
-- CBS News — 154,972 tokens read
-- GovExec — 38,711 tokens read
-- CBP.gov — 53,655 tokens read
-
-The conductor re-ran two of these directly. The GovExec extract plainly reaches article body
-(headline, byline, and lede all present, and it **does** carry "$166 billion") — so the absence is
-in the article text, not an extraction artifact. On CBP's own page, "validated" appears **only as
-process vocabulary** describing how a CAPE Declaration is accepted — never attached to a count.
-Neither "47,000" nor "75,000" occurs anywhere.
-
-**Do not cite the validation counts or the derived percentages** until a source is found. They may
-come from a later CBP update, a press briefing, or a trade publication not among the four cited —
-which is why this is **flagged, not deleted**. A real figure may exist; it is simply not in this
-entry's sourcing.
-
-**Note on derived percentages specifically**: 21% and 3% are arithmetic performed on the two
-unsourced counts. If the counts go, the percentages go with them — retiring inputs without
-retiring what was computed from them is a documented failure mode in this corpus
-([[feedback_real_statistic_mutated_by_paraphrase]]).
+**The validation counts and the derived percentages should not be cited** until a source is found. They may come from a later CBP update, a press briefing, or a trade publication not among the four cited, which is why this is flagged, not deleted. A real figure may exist; it is simply not in this entry's sourcing. The 21% and 3% are arithmetic performed on the two unsourced counts, and fall with them.

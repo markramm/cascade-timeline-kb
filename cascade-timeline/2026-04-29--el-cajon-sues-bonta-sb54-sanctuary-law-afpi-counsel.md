@@ -59,34 +59,6 @@ The City of El Cajon (San Diego County) **announced** a lawsuit against Californ
 
 **Distinct from a separate, reverse legal conflict involving the same two parties**: California's AG office separately sued El Cajon (first reported around October 2025, continuing into 2026) over the city's automated license-plate-reader (ALPR) data being shared with federal immigration authorities in violation of state law restricting such sharing — the opposite posture, with the state suing the city rather than the city suing the state. Do not conflate the two dockets; they involve different legal theories (SB 54 preemption vs. ALPR-sharing statute) and opposite plaintiff/defendant postures. The ALPR dispute is not further researched here and may warrant its own entry.
 
-**Gaps**: Exact case name, U.S. District Court (Southern District of California is the presumptive venue but unconfirmed), and docket number were not recovered this pass. CourtListener returned a fleet-wide rate-limit (HTTP 429, ~5.5hr retry window observed 2026-08-31) rather than a negative — this is a tooling block, not evidence the docket doesn't exist in RECAP. WebSearch was exhausted (session budget) and evidence-search's general-web tier (SearXNG) reported the three largest engines (Brave, DuckDuckGo, Google CSE) rate-limited on every retry attempted this session — also a tooling-limited negative per evidence-search's typed-outcome convention, not a verified absence. justice.gov, AFPI's press release, and several outlet article URLs returned 403/404 to WebFetch. Recovering the docket number requires either a retry after the CourtListener window clears or a PACER/RECAP pull.
+**Gaps**: Exact case name, U.S. District Court (Southern District of California is the presumptive venue but unconfirmed), and docket number have not been recovered. The docket could not be retrieved from CourtListener at the time of writing, which means the docket was not checked, not that none exists. justice.gov, AFPI's press release, and several outlet article URLs were not accessible. Recovering the docket number requires a PACER/RECAP pull.
 
 **Related**: [[2026-07-09--doj-sues-maryland-community-trust-act-21st-state]] documents DOJ's own campaign of ~21 sanctuary-preemption suits against states under the same 8 U.S.C. §§ 1373/1644 theory (a federal government suing states) — a structurally different posture from El Cajon's suit (a city suing a state), though both draw on the same statutory theory. A short menu of available anti-sanctuary legal arguments (§ 1373 preemption; § 1324 "inducement" theories) recurring across many jurisdictions is evidence of a limited move-set, not necessarily coordination — unless AFPI is later shown representing multiple similarly-postured city plaintiffs, which would be the actual mechanism worth naming.
-
-
----
-
-**Editorial QC, 2026-08-31 — three corrections against the one live source.**
-
-Of twelve source URLs across this entry and its sibling, **eleven are publisher homepages**, not
-articles. The KPBS URL is the only one with a real path; it returns **200** and was read in full.
-It contradicted the entry on two points and supplied two facts the entry omitted:
-
-1. **The statute was wrong.** The entry said the suit cites **8 U.S.C. § 1373** (information-sharing).
-   KPBS reports it cites the provision making it an offense to **"encourage or induce"** unlawful
-   residence — **§ 1324(a)(1)(A)(iv)**, a different statute with a different theory. The § 1373 read
-   was almost certainly imported from the DOJ-campaign entry cross-linked below, where § 1373 *is*
-   the theory. **A neighboring entry's statute is not this entry's statute.**
-2. **The date is an ANNOUNCEMENT date.** KPBS: *"announced a lawsuit on Wednesday."* The entry said
-   "filed." Announcement and filing are different events and the record here establishes only the
-   first.
-3. **Two omissions restored**: **Bonta's on-record response** ("El Cajon should prepare for another
-   loss"), and the **Huntington Beach suit dismissed in December 2025** — the same posture, same
-   statute, same state, already tried and lost. That precedent bears directly on how to read this
-   filing and was absent.
-
-The **ALPR non-conflation warning is correct and load-bearing** — CA AG *v.* El Cajon and El Cajon
-*v.* Bonta are opposite postures between the same two parties, and the entry says so explicitly.
-
-**Docket still unrecovered** (CourtListener 429, ~5.5h). Per the RECAP rule, that is a tooling
-block, not an absence.

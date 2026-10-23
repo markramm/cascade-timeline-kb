@@ -64,7 +64,7 @@ The PUCT-vs.-Paxton suit is the clearest demonstration of how Texas's regulatory
 
 The irony: the PUCT (a state regulatory agency, not the mining industry) became the party shielding the data, while AG Paxton's office (no ally of journalists) was the entity arguing for release. The mining industry did not need to fight the disclosure directly — the regulatory body it is supposed to be regulated by was doing it for them.
 
-This connects directly to [[task-inv6-crypto-energy-no-federal-data-gap]]: the federal data gap (EIA mandatory survey killed by industry lawsuit in early 2024) now has a state-level parallel. Texas's SB 1929 data, which would be the most detailed U.S. state dataset on mining power use, is now in legal limbo.
+This connects directly to the federal data gap: (EIA mandatory survey killed by industry lawsuit in early 2024) now has a state-level parallel. Texas's SB 1929 data, which would be the most detailed U.S. state dataset on mining power use, is now in legal limbo.
 
 ## Broader Context
 

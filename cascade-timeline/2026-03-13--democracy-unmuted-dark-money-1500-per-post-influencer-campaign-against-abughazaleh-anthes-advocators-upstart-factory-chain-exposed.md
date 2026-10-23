@@ -118,7 +118,7 @@ This third specimen confirms the earlier analysis's key claim: **the architectur
 
 ## Forecasted Specimens Confirmed (per the earlier predictions)
 
-Worker A's three predictions on May 7 forecast:
+Three predictions made on May 7 forecast:
 1. ✅ **Democratic-aligned creator-payment specimen surfacing in 2026 general** — Democracy Unmuted's targeting of a progressive Democrat in a Democratic primary is structurally adjacent to this prediction (Democratic-side dark-money money, attacking a Democratic-primary progressive)
 2. ✅ **Additional AIPAC-aligned super-PAC deployments against progressive primaries** — the existing CPP-AIPAC specimen is in the same race; whether Democracy Unmuted is also AIPAC-affiliated is open
 3. **Commercial-PR deployment using same three-layer architecture** — Anthes's Advocators-with-American-Heart-Association-client-list is structurally adjacent to this third prediction

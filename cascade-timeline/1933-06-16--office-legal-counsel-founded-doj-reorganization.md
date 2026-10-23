@@ -100,7 +100,7 @@ The documented consequential OLC opinions include:
 - **Yoo surveillance memos (2001-03)**: Authorizing warrantless surveillance outside FISA, on the theory that Article II Commander-in-Chief authority supersedes statute.
 - **Trump II OLC (2025-26)**: Currently producing opinions supporting unilateral impoundment, removal of independent-agency heads, IEEPA-based tariff authority, and unilateral military action — all rooted in the unitary-executive theory traced back to Scalia's *Morrison* dissent [[1988-06-29--morrison-v-olson-independent-counsel-scalia-dissent]] and the Iran-Contra Minority Report [[1987-11-18--iran-contra-minority-report-cheney-unitary-executive]].
 
-Worker U and Worker AC's pattern observations — "authority migration" and "infrastructure-before-authority" — both run through OLC. When Worker AC notes that "post-2001 programs chose from a pre-built menu," that menu was largely the accumulated OLC memo corpus. When Worker U notes that "every major intelligence authority expansion post-1919 runs via executive directive, not statute," those directives are typically drafted with (or accompanied by) OLC legal-authority opinions.
+The "authority migration" and "infrastructure-before-authority" patterns both run through OLC. The observation that "post-2001 programs chose from a pre-built menu" fits here: that menu was largely the accumulated OLC memo corpus. And the observation that "every major intelligence authority expansion post-1919 runs via executive directive, not statute" means those directives are typically drafted with (or accompanied by) OLC legal-authority opinions.
 
 ## Broader Context
 

@@ -83,8 +83,8 @@ This entry is a **synthesis** of a same-window cluster, not three separate thin 
 
 - [[2026-06-10--abbott-directive-puct-ercot-data-center-infrastructure-costs]] — the **electricity / ratepayer** half of the same structural problem, Texas-specific. This entry is the **fiscal / tax-exemption / electoral** half, multi-state. Together they describe the full data-center public-subsidy extraction.
 
-## Verified Absences / Follow-Up (research-ticket candidates)
+## Verified Absences / Follow-Up
 
-- A per-state ledger of enacted vs. proposed sales-tax-exemption repeals (which states actually repealed vs. merely filed bills) would convert this synthesis into a sourced procurement/fiscal table — strong candidate for a `procurement-deep-dive` or `regulatory-rulemaking` ticket.
+- A per-state ledger of enacted vs. proposed sales-tax-exemption repeals (which states actually repealed vs. merely filed bills) would convert this synthesis into a sourced procurement/fiscal table — a strong candidate for further research.
 - The specific Pennsylvania primary candidate's name and district (Capital & Main) should be pinned to a primary source before any RAMM/Notes use.
 - Hyperscaler-by-hyperscaler exemption beneficiaries (which companies captured which state's exemption) is undocumented here and is the load-bearing actor layer for a Data Colonialism S3 (Operating Mechanism) brief.

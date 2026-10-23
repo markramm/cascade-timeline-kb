@@ -277,8 +277,7 @@ same district prosecuting the Michigan 8 case and, presumptively, issuing the GE
 Washtenaw County Prosecutor **Eli Savit** brought the state charges against Teshome on UMPD's
 referral; he is currently a candidate for Michigan Attorney General to succeed the term-limited Dana
 Nessel. No source reviewed in this pass carries an on-record statement from Savit's office about the
-dismissal or about the federal subpoena specifically. Per [[feedback_no_rfc_to_dhs_bulletproof_sourcing_instead]]-style
-discipline extended to a still-open matter, no RFC was sent to Savit's office as part of this pass;
+dismissal or about the federal subpoena specifically. No request for comment was sent to Savit's office as part of this pass;
 his silence in the record is a gap, not evidence of anything.
 
 ## Named-harm-subject note
@@ -292,8 +291,7 @@ our employer collaborating with the state and the federal government to weaken l
 violate our right to collective action."* Per the deploy-with-dignity standard in
 [[victim-story-deployment-index-and-deploy-with-dignity-standard-2026]], this makes her **deployable**
 (a speaking subject in her own words) rather than **documented-act** only. A row for her has not been
-added to that index in this pass — flagged for whoever maintains it next, per this ticket's scope
-limits.
+added to that index.
 
 ## Why this matters structurally
 

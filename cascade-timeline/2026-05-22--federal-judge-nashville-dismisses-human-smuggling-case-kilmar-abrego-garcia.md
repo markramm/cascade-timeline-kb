@@ -122,7 +122,7 @@ This ruling is analytically distinct from the broader judicial-floor-pushback pa
 
 The shared structural feature is the same three-step pattern: (1) executive action taken in violation of legal constraints; (2) legal architecture constructed after the fact to retroactively justify the violation; (3) court refusing to let the retroactive architecture stand once the sequencing is documented.
 
-See [[doj-reverse-engineered-charges-to-retroactively-justify-executive-action-errors]] (candidate mechanism note flagged for conductor review — 2+ documented cases now on record: Abrego Garcia + SPLC indictment + Broadview Six/Chicago protesters charging sequence).
+See [[doj-reverse-engineered-charges-to-retroactively-justify-executive-action-errors]] (2+ documented cases now on record: Abrego Garcia + SPLC indictment + Broadview Six/Chicago protesters charging sequence).
 
 ## DOJ appeal pending
 

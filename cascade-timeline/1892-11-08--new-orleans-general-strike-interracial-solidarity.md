@@ -47,19 +47,10 @@ The striking workers refuse to break ranks along racial lines. Large majorities 
 However, racial unity on the New Orleans docks collapses in the economic depression beginning in 1893. Race riots break out in 1894 and 1895 as white workers try to oust Black workers from all waterfront work, revealing how economic crisis can destroy interracial solidarity when employers and political leaders actively promote racial division. The 1892 general strike thus represents both a remarkable achievement—proving interracial labor solidarity possible even in the Jim Crow South—and a cautionary tale about its fragility. The strike demonstrates that when workers unite across racial lines and maintain discipline, they can defeat even powerful employer associations, but also that such unity requires constant reinforcement and remains vulnerable to economic pressure, media propaganda, and employers' deliberate exploitation of racism. The New Orleans general strike stands as the high-water mark of Gilded Age interracial labor organizing, an achievement not replicated in the South for decades, showing what might have been possible if the labor movement had prioritized racial solidarity over craft exclusionism and accommodation to Jim Crow.
 
 
-## Sourcing correction, 2026-08-28 — attribution added to a superlative the corpus asserted flatly
+## Sourcing note on the "first" claim
 
-The entry stated in its own voice that this was *"the first time in U.S. history that Black and
-white workers carry out a general strike together."* **The entry's own cited source does not assert
-that.** Wikipedia quotes a *contemporary observer's* exclamation ("Never in the history of the
-world...") — a rhetorical remark, and a different and broader claim than a historical first.
+An earlier version of this entry stated in its own voice that this was "the first time in U.S. history that Black and white workers carry out a general strike together." The cited source does not assert that: Wikipedia quotes a *contemporary observer's* exclamation ("Never in the history of the world...") — a rhetorical remark, and a different and broader claim than a historical first.
 
-**No genuine counterexample was found**, so the underlying point stands. The 1877 Great Railroad
-Strike had scattered cross-racial participation in some cities (St. Louis, Galveston) but was a
-spontaneous, fragmented multi-city uprising, in most places largely white and often racially
-exclusionary — not a coordinated general strike.
+No genuine counterexample was found, so the underlying point stands. The 1877 Great Railroad Strike had scattered cross-racial participation in some cities (St. Louis, Galveston) but was a spontaneous, fragmented multi-city uprising, in most places largely white and often racially exclusionary — not a coordinated general strike.
 
-**What changed is the voice, not the substance**: the claim is now scoped to what the record
-supports (formally organized, citywide, sustained interracial solidarity via the Triple Alliance,
-in the Deep South) and framed as **what labor historians identify** rather than as a flat corpus
-assertion. A superlative should carry whoever is making it.
+The claim is therefore scoped to what the record supports (formally organized, citywide, sustained interracial solidarity via the Triple Alliance, in the Deep South) and framed as what labor historians identify rather than as a flat assertion.

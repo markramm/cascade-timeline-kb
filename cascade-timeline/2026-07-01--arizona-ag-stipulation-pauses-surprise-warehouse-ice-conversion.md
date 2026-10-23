@@ -49,4 +49,4 @@ have been filed against the facility. The Rinchem chemical warehouse directly ac
 stores hazardous materials with no confirmed evacuation plan — the proximity underlying Mayes's
 NEPA theory.
 
-*Coverage: daily-capture-reports ledger story `2026-07-08--surprise-az-ice-warehouse-nepa-paused-capacity-gap` (detention-watch), 2026-09-02 consume pass. Source: noiceinsurprise.com facts-and-timeline compilation (tier 2, community-advocacy compilation — the 1,500-bed NEPA scope and 60-day reporting schedule warrant confirmation against the stipulated order itself before the discrepancy is published).*
+*Source: noiceinsurprise.com facts-and-timeline compilation (tier 2, community-advocacy compilation — the 1,500-bed NEPA scope and 60-day reporting schedule warrant confirmation against the stipulated order itself before the discrepancy is published).*

@@ -130,7 +130,7 @@ SIO's wind-down fits within a documented 2022-2024 wave of Republican pressure o
 
 The wave was enabled by a structural asymmetry: congressional subpoena power is effectively cost-free for the committee (staff time only), while compliance costs for target institutions run to millions in legal fees, staff diversion, and reputational management. The asymmetry means the mechanism does not require successful prosecution or a favorable legal outcome — the cost-imposition itself achieves the operational goal of attrition.
 
-Stanford's institutional decision — to honor Stanford's stated mission of academic inquiry while declining to sustain the financial and reputational cost of defending it — reflects the broader university-capture dynamic documented in the open task `build-university-and-academia-capture-evidence-theme`. The SIO case is a worked example of that broader mechanism.
+Stanford's institutional decision — to honor Stanford's stated mission of academic inquiry while declining to sustain the financial and reputational cost of defending it — reflects the broader university-capture dynamic documented elsewhere in this timeline. The SIO case is a worked example of that broader mechanism.
 
 ## Research Gaps
 
@@ -144,7 +144,7 @@ Stanford's institutional decision — to honor Stanford's stated mission of acad
 
 - [[algorithmic-discovery-and-recommender-system-capture-feed-ranking-layer]] — SIO's EIP and Virality Project produced the primary-source evidence base that this theme draws on; SIO's shutdown leaves the ongoing documentation of this mechanism without its primary academic custodian
 - [[epistemic-capture-layer-evidence-base-status-and-research-gaps]] — SIO shutdown flagged as open question §"Stanford Internet Observatory shutdown documentation"
-- [[content-moderation-policy-as-epistemic-boundary]] — open task; SIO's fate is a direct input to the case study on platform-research capture
+- [[content-moderation-policy-as-epistemic-boundary]] — SIO's fate is a direct input to the case study on platform-research capture
 - [[mechanisms/media-capture]] — analogue pattern (watchdog attrition) at the journalistic level
 - [[nspm-7-deployment-architecture]] — the subcommittee's "weaponization" framing is the political-operational companion to the administrative-state weaponization documented in NSPM-7
 - [[epic-surveillance-inc-privatized-surveillance-industrial-complex-2003-2026]] — parent epic; SIO's documentation of algorithmic surveillance mechanisms was epistemically load-bearing for this epic's evidence base

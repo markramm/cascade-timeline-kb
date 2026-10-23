@@ -64,4 +64,4 @@ Per NNU's own framing, the core objection is **not primarily data privacy** — 
 - MaineHealth's Palantir relationship is named by NNU as a lead ("details undisclosed") and was not independently investigated in this pass.
 - Participant counts and any arrest figures for the August 27 actions were not specified in NNU's own release and were not found elsewhere in this pass.
 - Healthcare IT News, the source for HCA's direct response quote, was reached only via search-result extract; direct fetch was blocked (HTTP 403). A browser-capable pass should verify directly.
-- Whether the campaign has continued or escalated further after August 27, 2026 was not checked past the ticket's instantiation date (2026-09-17).
+- Whether the campaign has continued or escalated further after August 27, 2026 was not checked past 2026-09-17.

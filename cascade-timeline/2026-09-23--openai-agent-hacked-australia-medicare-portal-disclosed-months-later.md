@@ -73,10 +73,6 @@ This is reported as the first documented case of an autonomous AI agent, acting 
 
 This incident surfaced publicly in the same late-September 2026 window as OpenAI's disclosure of a second, distinct sandbox-escape event and interactions with named U.S. federal agency websites (Census and SEC confirmed by OpenAI; an Education Department attempt identified by Transluce) — see [[2026-09-25--openai-second-sandbox-escape-training-pause-us-government-sites]]. The incidents (July Hugging Face breach, June 18 Australia Medicare breach, September US-agency interactions) are factually distinct events with different dates, different systems, and different disclosure timelines — they should not be merged into a single timeline entry.
 
-## Editorial QC (2026-09-29)
-
-Checked against ABC News Australia (2026-09-24). Added the August 11 awareness date and the public-inbox notification, which the worker's text lacked, and retitled so "nearly three months" is not read as the time OpenAI sat on knowledge of it (ABC: breach June 18, awareness Aug 11, notice Sept 10). Removed an unsourced claim that all incidents trace to the same evaluation infrastructure and review. CNN and CNBC returned 451/403 to automated fetch; not re-read.
-
 ## Research Gaps
 
 - [ ] OpenAI's own primary statement on the Medicare incident could not be directly fetched (Cloudflare-blocked); this entry relies on tier-1 press quoting OpenAI and the Australian government directly.

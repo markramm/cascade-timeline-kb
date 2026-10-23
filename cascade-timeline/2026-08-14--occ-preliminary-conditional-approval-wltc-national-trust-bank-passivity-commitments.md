@@ -102,8 +102,6 @@ letter dated **July 13, 2026**" (in the Regulation W / asset-purchase discussion
 relies on "the passivity commitments dated **June 13, 2026**, which are attached as an exhibit."
 **Both appear verbatim in the primary document, in different sections. This is an internal
 inconsistency in the OCC's own text, not a transcription error on either side, and it is unresolved
-by anything in the document.** Cite it as such — do not silently pick one. (This conductor initially
-wrote June 13 as settled; a literal-string grep for "June 13, 2026" returns zero on extracted text
-because a line break falls between "13," and "2026" — the whitespace-normalized text carries both.)
+by anything in the document.** Cite it as such — do not silently pick one.
 The document also spells the entity both "StringZ Holding RSC (DE) LLC" (3×) and "StringZ Holdings
 RSC (DE) LLC" (1×).

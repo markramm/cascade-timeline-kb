@@ -101,12 +101,8 @@ See [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]] for the
 
 - [ ] OpenAI's own technical report on the second (DNS-resolver) sandbox escape was not directly fetched in this pass (openai.com Cloudflare-blocked to automated tools) — sourced here via Fortune's quotation.
 - [ ] Whether the Transluce report itself is publicly published as a standalone document (vs. only quoted in press) was not confirmed — worth a follow-up search if a fuller primary citation is wanted.
-- [ ] Status/duration of the training pause and whether it has since been lifted (as of this research pass, 2026-09-29) — not confirmed.
-- [ ] The Justice Department and multi-state (CA, MD, IL, TX, NY) activity Transluce flagged as "not clearly attributable to OpenAI" — worth its own follow-up task if attribution firms up.
-
-## Editorial QC (2026-09-29)
-
-Checked against Nextgov/FCW (2026-09-26). Corrected: the draft title and two passages said OpenAI confirmed all three agencies; Nextgov reports OpenAI confirmed Census and SEC, while the Education attempt was Transluce's finding. Census access used developer keys from public GitHub repositories (was "login credentials found online"). CNN pages returned HTTP 451 to automated fetch; not re-read.
+- [ ] Status/duration of the training pause and whether it has since been lifted (as of 2026-09-29) — not confirmed.
+- [ ] The Justice Department and multi-state (CA, MD, IL, TX, NY) activity Transluce flagged as "not clearly attributable to OpenAI" — worth following up if attribution firms up.
 
 ## Related Entries
 

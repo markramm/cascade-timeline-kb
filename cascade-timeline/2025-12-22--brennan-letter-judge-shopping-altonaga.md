@@ -98,10 +98,9 @@ to a request for comment," per CNN. A Southern District of Florida court
 official, responding to CNN's request for comment on behalf of both Altonaga
 and Cannon, said: "The Court has no response."
 
-## What is NOT in the sourcing (correcting the ticket's premise)
+## What is NOT in the sourcing (the Judicial Conference premise)
 
-The task ticket that generated this entry framed the event as "involving...
-the Judicial Conference." **No source located — the CNN article, the
+One framing of this event is that it involves the Judicial Conference. **No source located — the CNN article, the
 `prosecutorial-revenge-faction` theme note, or the existing
 [[2026-04-20--digenova-appointed-brennan-probe-medetis-long-removed]] timeline
 entry — mentions the Judicial Conference of the United States, its March 2024
@@ -110,7 +109,7 @@ account is specific and narrow: Wainstein's complaint is about the Southern
 District of Florida's *own local* grand jury and case-assignment procedures —
 an intra-district venue question, adjudicated (if at all) by the district's
 chief judge under her own administrative authority, not a national Judicial
-Conference matter. The Judicial Conference reference in the ticket is not
+Conference matter. The Judicial Conference reference is not
 supported by the sourcing found and should be treated as an unverified
 premise, not fact, absent a primary document that says otherwise. No such
 document was located in this search.
@@ -136,11 +135,7 @@ assignment across the district's other divisions and judges.
 - [[2026-04-20--digenova-appointed-brennan-probe-medetis-long-removed]] — the
   April 2026 consolidation event this letter anticipated four months earlier;
   contains a fuller "Sequence of Events" section stating the same December 22
-  date and Wainstein/Altonaga/Cannon facts. **NOT independent corroboration
-  (conductor correction, 2026-09-01):** that entry attaches no source to those
-  specific facts, and its own source list includes this same CNN article. A KB
-  entry agreeing with another KB entry that draws on the same reporting is one
-  source cited twice, not two sources agreeing. **The December 22 send date and
+  date and Wainstein/Altonaga/Cannon facts. **NOT independent corroboration:** that entry attaches no source to those specific facts, and its own source list includes this same CNN article. One report cited twice is not two sources agreeing. **The December 22 send date and
   the Wainstein/Altonaga/Cannon facts rest on CNN alone.**
 - [[prosecutorial-revenge-faction]] — theme note documenting the four-node
   prosecutorial architecture and the Cannon forum-selection strategy this

@@ -155,7 +155,7 @@ The Q1 release is therefore Shayn March's first quarterly cycle as CFO. Suchinsk
 
 This is the disclosure-tracking finding for Investigation 1. The Q1 2026 release contains:
 
-- **No reference** to the March 29, 2026 Warren-Raskin letter to GEO Group, even though the letter requested specific responses on profit margins, Trump-administration contributions, and inhumane-conditions oversight by an April 13, 2026 deadline that has now passed without a public response from GEO (see parent task `task-inv1-warren-raskin-response-deadline`).
+- **No reference** to the March 29, 2026 Warren-Raskin letter to GEO Group, even though the letter requested specific responses on profit margins, Trump-administration contributions, and inhumane-conditions oversight by an April 13, 2026 deadline that has now passed without a public response from GEO.
 - **No reference** to the Warren-Shaheen March 22, 2026 letter to DoD on the Navy-procurement-bypass (WEXMAC-TITUS) mechanism (see [[2026-03-22--warren-shaheen-dod-letter-wexmac-navy-procurement-bypass]]).
 - **No new risk-factor language** distinguishing the Q1 2026 disclosure from Q4 2025 on congressional inquiries, regulatory-environment political risk, or contract-cancellation exposure tied to administrative oversight.
 - **No reference** to the Mullin-pause / Stateline reporting on DHS scaling back warehouse-detention plans from 1,500 to 542 beds at Williamsport MD and Surprise AZ (see [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]]).
@@ -163,7 +163,7 @@ This is the disclosure-tracking finding for Investigation 1. The Q1 2026 release
 
 ## Pattern-of-Silence Confirmation
 
-The pattern documented as a `task-inv1-warren-raskin-response-deadline` finding — that none of the six Warren-Raskin recipient companies (PNK Group / Sharkov, CoreCivic, GEO Group, GardaWorld Federal Services, Newmark Group, KVG LLC) is known to have responded publicly to the April 13 deadline (CoreCivic told Bloomberg on March 30 that it "is not involved in any of these efforts" outlined in the letter) — extends through GEO's Q1 2026 SEC-disclosure cycle. A publicly traded company with first-tier disclosure obligations did not treat the 52-lawmaker congressional inquiry as material enough to acknowledge on the record, neither in its Q1 press release nor (per the businesswire materials) in its forward-looking risk-factor language.
+The pattern documented finding — that none of the six Warren-Raskin recipient companies (PNK Group / Sharkov, CoreCivic, GEO Group, GardaWorld Federal Services, Newmark Group, KVG LLC) is known to have responded publicly to the April 13 deadline (CoreCivic told Bloomberg on March 30 that it "is not involved in any of these efforts" outlined in the letter) — extends through GEO's Q1 2026 SEC-disclosure cycle. A publicly traded company with first-tier disclosure obligations did not treat the 52-lawmaker congressional inquiry as material enough to acknowledge on the record, neither in its Q1 press release nor (per the businesswire materials) in its forward-looking risk-factor language.
 
 This is itself a documentary fact: **the Warren-Raskin probe has not generated a disclosed materiality threshold at GEO Group through Q1 2026.** Whether that judgment was tested by securities counsel, audit committee, or the new CFO Shayn March in his first cycle is not visible from the press release; the 10-Q filing (typically follows the press release within days) may carry tighter risk-factor language. That document is not yet available as of this entry's writing.
 

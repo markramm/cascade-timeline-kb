@@ -205,44 +205,30 @@ not 8 U.S.C. § 1225(d)(4) immigration authority, not an IRS-style summons, not 
 
 **2. A SHARPER MECHANISM THAN "NO JUDICIAL OVERSIGHT": THE ASYMMETRY IS NOTICE, NOT STANDING.**
 [[standing-to-resist-an-administrative-subpoena-why-unions-did-not-move-to-quash-when-doe-plaintiffs-did]]
-carries a **conductor correction dated 2026-08-20** establishing this, and it is the more precise
-claim:
+establishes this, and it is the more precise claim:
 
 - The **Doe/LBRRN** account-holder **could and did move to quash**: DHS's subpoena to Meta was dated
   **2025-09-03**; the motion followed **2025-09-19**, sixteen days later.
 
-  **CORRECTION 2026-08-30 — the conductor's error, caught by the § 1509 fact-check.** I originally
-  wrote that Doe/LBRRN *was* "the Philadelphia-suburbs ICE-monitoring account the Guardian mentions."
-  **It is not, and it is not even a § 1509 case.** A checker pulled the actual motion-to-quash PDF
-  from RECAP, docket **3:25-mc-80288 (N.D. Cal.)**: it invokes **8 U.S.C. § 1225(d)** throughout,
-  **never mentions § 1509 or the Tariff Act in 27 pages**, and its fact pattern is **Long Beach,
-  California** — **LBRRN = Long Beach Rapid Response Network**, centred on an "Officer Simeon"
-  incident.
-
-  **The source note I drew from says "8 U.S.C. § 1225(d) / 19 U.S.C. § 1509" — naming BOTH authorities
-  — and never says Philadelphia. I resolved that ambiguity in the wrong direction and added a
-  geography that was not in the source.** Two failures at once: **collapsing two statutes into one**,
-  and **inferring a location.**
+  **Correction 2026-08-30.** An earlier version of this entry identified Doe/LBRRN as "the Philadelphia-suburbs ICE-monitoring account the Guardian mentions." **It is not, and it is not even a § 1509 case.** The actual motion-to-quash PDF (RECAP, docket **3:25-mc-80288, N.D. Cal.**) invokes **8 U.S.C. § 1225(d)** throughout, **never mentions § 1509 or the Tariff Act in 27 pages**, and its fact pattern is **Long Beach, California** — **LBRRN = Long Beach Rapid Response Network**, centred on an "Officer Simeon" incident. The source note cites both authorities ("8 U.S.C. § 1225(d) / 19 U.S.C. § 1509") and never says Philadelphia.
 
   **Why it matters beyond the geography**: § 1225(d) is *immigration* authority — **precisely what
   the § 1509 forms do NOT cite.** So using this docket as the § 1509 comparison case argues against
   the very distinction the thread rests on.
 
   **A real § 1509 Philadelphia-suburbs case does exist** — "MontCo Community Watch," per EFF's
-  tracker and ACLU-PA's case page — **but its docket number was not located** (search rate limit;
-  recorded as an access blocker, not an absence). **Do not cite a docket for it until one is
-  obtained.**
+  tracker and ACLU-PA's case page — **but its docket number was not located** (an access
+  blocker, not an absence).
 
   **The notice-not-standing MECHANISM still holds** — a party who learns of a summons in time can
   move to quash; one who does not, cannot. **But Doe/LBRRN illustrates it under § 1225(d), not
-  § 1509, and any piece using it must say so.**
+  § 1509.**
 - The **Whipple Shield unions did not** — **not because they lacked standing**, which they doctrinally
   likely had, **but because nothing in the record notified them in time relative to compliance.**
 
 **"No judge in the loop" is true but incomplete. The operative variable is WHO FOUND OUT, AND WHEN,
 RELATIVE TO COMPLIANCE.** A challengeable summons that nobody learns about is unchallenged, not
-unchallengeable. **The note explicitly requires distinguishing CANNOT from DID NOT — do not write
-"the unions couldn't fight it."**
+unchallengeable. **The distinction is between CANNOT and DID NOT: the unions did not fight it, which is not the same as being unable to.**
 
 **3. THE AGGREGATE THAT SIZES THE PATTERN.**
 [[litigation-surface-search-strategy-and-the-wider-pattern]], citing **Just Security's tracker
@@ -268,7 +254,7 @@ for § 1509 specifically that is right, but the adjacent § 111 record is measur
   Gutenschwager.
 
 **Drafting note.** The corpus rule is that our edge is holding the whole sequence when other outlets
-hold single incidents ([[feedback_prior_coverage_is_not_a_fence]]). **This is that case exactly:
+hold single incidents. **This is that case exactly:
 Levine has the national frame; we have the form, the notice mechanism, the union case, and the
 § 111 denominator. Acknowledge and credit the Guardian, then assemble what only this corpus can.**
 

@@ -127,7 +127,7 @@ Obadal's nomination is the **structural-conflict event of the 2025 personnel pip
 2. **The contract trajectory is observable.** The March 2026 Anduril $20B Army Lattice OS enterprise contract — announced approximately twelve months after the nomination — is the subsequent operational outcome that the [[trump-2-surveillance-procurement-chronology-2025-2026]] Phase 5 temporal-coupling analysis depends on.
 3. **The recusal-scope question is statutorily framed.** Under 18 U.S.C. § 208, Obadal would need to recuse from "particular matters" affecting his retained Anduril holdings — but the broad-policy decisions of an Army Under Secretary may not constitute "particular matters" as construed.
 
-Per the [[luckey-palmer]] actor profile finding (Worker F tick-24): the Obadal nomination is the documented evidence base for the claim that the Anduril-to-procurement-principal pipeline is structurally captured. The nominee retained equity, the Army's largest active procurement category was the nominee's former employer's product line, and the post-nomination contract awarded to that former employer reached $20 billion.
+Per the [[luckey-palmer]] actor profile finding: the Obadal nomination is the documented evidence base for the claim that the Anduril-to-procurement-principal pipeline is structurally captured. The nominee retained equity, the Army's largest active procurement category was the nominee's former employer's product line, and the post-nomination contract awarded to that former employer reached $20 billion.
 
 ## Broader Context
 

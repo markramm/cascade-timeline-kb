@@ -60,4 +60,4 @@ Edward S. Herman and Noam Chomsky publish *Manufacturing Consent: The Political 
 
 **Why this entry matters to the corpus's own analytical spine**: the propaganda model is a documented 1988 prior articulation of the same discipline this corpus applies elsewhere — explaining a systemic output pattern (media serving concentrated power) via structural filters rather than alleging individual coordination or conspiracy. It is cited here for what it says in its own terms, not as an anticipation of this corpus's later framing; the resemblance is a matter for the reader to draw, not an equivalence this entry asserts.
 
-**Corpus note on internal attribution**: this KB's own `mechanisms/media-capture.md` node (Fox News section) currently cites the model repeatedly as "Chomsky's five filters," "Chomsky's insight," and "Chomsky's innovation" while crediting "Noam Chomsky and Edward Herman" (Chomsky first) in its single full-name citation — the exact misattribution pattern this entry corrects. That mechanism prose was not edited as part of this task; a follow-up correction pass is warranted but out of scope here.
+

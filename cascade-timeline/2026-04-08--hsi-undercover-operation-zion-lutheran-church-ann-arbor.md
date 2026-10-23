@@ -269,10 +269,10 @@ both `MS02PR26MS0003` and `DD02PR26MS0003` — which is consistent with Detroit 
 as Minnesota-originated.
 
 **This is inference from three observed prefixes, not a documented key.** No HSI case-numbering
-reference has been located, and the corpus has an open, blocked ticket on a fourth prefix
+reference has been located, and a fourth prefix remains unexplained
 (`MS05DR26MS0004`, a `DR` rather than `PR` series with an `05` rather than `02` office code,
-carrying the December 2025 pre-Puppet-Master surveillance) precisely because the numbering scheme
-is not understood. Per the discipline recorded on that ticket — *do not assert what a case number
+carrying the December 2025 pre-Puppet-Master surveillance) because the numbering scheme
+is not understood. Under the discipline of not asserting — *do not assert what a case number
 means without a document saying so* — this section states the reading and its basis rather than
 treating it as established. What **is** established is the bare fact that the Ann Arbor ROI carries
 a different case number than every Minnesota document in the set.

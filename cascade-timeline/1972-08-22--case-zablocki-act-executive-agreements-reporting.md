@@ -77,7 +77,7 @@ Case-Zablocki is the statute that formalizes the dominant 20th-21st-century inst
 
 5. **Trump II withdrawal pattern.** The administration has repeatedly announced non-compliance with existing executive agreements (most prominently WHO, Paris climate accord, multiple bilateral security arrangements) on the theory that executive agreements — because they lack Senate ratification — are terminable at will. This is a position Case-Zablocki does not address and which has never been definitively resolved judicially.
 
-For the **"authority migration"** pattern (Worker U): Case-Zablocki is the example of a reassertion statute that accepted the underlying authority migration (from treaties to executive agreements) and attempted only to constrain its invisibility rather than reverse it. The practical result is that the statute formalized a foreign-policy-by-executive-fiat regime that was unimaginable in the Constitution's original design.
+For the **"authority migration"** pattern: Case-Zablocki is the example of a reassertion statute that accepted the underlying authority migration (from treaties to executive agreements) and attempted only to constrain its invisibility rather than reverse it. The practical result is that the statute formalized a foreign-policy-by-executive-fiat regime that was unimaginable in the Constitution's original design.
 
 ## Broader Context
 

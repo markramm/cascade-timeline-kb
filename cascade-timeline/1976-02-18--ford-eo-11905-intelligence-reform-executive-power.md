@@ -75,7 +75,7 @@ EO 11905 is the paradigmatic case of "executive-branch self-regulation" as an in
 
 6. **Trump II era.** As of April 2026, the administration has expanded the operational envelope substantially while preserving the textual ban. Yemen strikes, Iran strikes, and the contested "global counter-terror" architecture all operate within EO 12333's continuing framework.
 
-The EO 11905 → EO 12333 sequence demonstrates Worker U's **"authority migration"** pattern in action: the apparent reform (executive self-regulation) preserved rather than constrained the underlying authority. The ban formally exists but does not constrain targeting decisions. The institutional-reform structure (Intelligence Oversight Board, Committee on Foreign Intelligence) has been preserved across administrations but the reformist constraints have been interpreted away.
+The EO 11905 → EO 12333 sequence demonstrates the **"authority migration"** pattern in action: the apparent reform (executive self-regulation) preserved rather than constrained the underlying authority. The ban formally exists but does not constrain targeting decisions. The institutional-reform structure (Intelligence Oversight Board, Committee on Foreign Intelligence) has been preserved across administrations but the reformist constraints have been interpreted away.
 
 ## Broader Context
 

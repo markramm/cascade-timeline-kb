@@ -119,7 +119,7 @@ On the morning of June 10, 2026, the FBI raided homes in Michigan, Illinois, and
 
 **Mark's own photographs from the scene corroborate the armored vehicle and residents standing on the sidewalk. They do not corroborate flashbangs.** That distinction is deliberate: the flashbang detail rests on Viscito's account alone and has no independent visual or documentary confirmation in this corpus.
 
-**U-M police participation** is asserted in the same Katz/Ward account ("with help from local and state police departments, including the University of Michigan Police") but is **not confirmed by U-M or the FBI** — see the sibling ticket, not chased further here.
+**U-M police participation** is asserted in the same Katz/Ward account ("with help from local and state police departments, including the University of Michigan Police") but is **not confirmed by U-M or the FBI** — see the related entry; not chased further here.
 
 ## The framing trap — what the indictment alleges is not "property damage"
 
@@ -133,12 +133,12 @@ Per the indictment's overt-acts sections:
 
 **"Property damage" is not a defensible summary of what is charged.** A conspiracy count naming a hit list, a "gotta die" characterization, a plan to strip-search a suspected informant for a wire, and jars of unknown chemicals thrown through windows into occupied homes is a materially different allegation than vandalism — regardless of whether any of it is ultimately proven. Adopting the "property damage" frame from movement coverage would hand away any downstream piece built on this entry.
 
-## What remains open (a separate ticket covers all of these)
+## What remains open
 
 - Whether University of Michigan police participated in the raid in an official capacity, and under what agreement — asserted in Katz/Ward, not confirmed by U-M or FBI.
 - Where the armored vehicle came from.
 - What happened to the devices seized in the April 23, 2025 search of Sepulveda's residence (indictment ¶¶ 68-69), and whether that seizure supplied evidentiary basis for this indictment — the "fourteen-month question."
-- Whether Michigan AG Dana Nessel's office referred this case federally, or was displaced by it. (Note: Truthout, in passing, states that "last April, Nessel collaborated with President Donald Trump's FBI in raids of homes of Palestine solidarity protesters" — an unverified lead worth checking against the sibling ticket, not confirmed here.)
+- Whether Michigan AG Dana Nessel's office referred this case federally, or was displaced by it. (Note: Truthout, in passing, states that "last April, Nessel collaborated with President Donald Trump's FBI in raids of homes of Palestine solidarity protesters" — an unverified lead worth checking against the related entry, not confirmed here.)
 - Why the FBI declined a congresswoman's request for a briefing on the case.
 
 See [[ypsilanti-raid-participation-and-referral-um-police-armored-vehicle-nessel-fbi-briefing]] for that work.

@@ -111,7 +111,7 @@ The lawsuit further alleges Kutscher participated in an October 2024 executive s
 applicant regarding tax-abatement policy changes, and that despite recusing/abstaining from Palomino
 Alpha votes (December 2024, February 2026, and the March 25, 2026 development-agreement vote that failed
 2-2), he "lobbied behind the scenes." **This is the plaintiffs' characterization in a verified complaint,
-which attests to good faith, not to accuracy** ([[feedback_party_filing_not_authoritative_for_another_docket]]).
+which attests to good faith, not to accuracy**.
 It has not been independently verified in this pass and should not be written as established fact.
 
 **What the public record shows, checked directly (2026-09-17):** the Guadalupe Appraisal District's free
@@ -132,7 +132,7 @@ Clerk's official records) or the private contract itself would show that. **This
 county clerk's deed-record search** (`roam.guadalupetx.gov`) — it is a Granicus/GovOS portal requiring
 account registration, not a plain public search; the county's historical pre-1970 index
 (`stage.kofilequicklinks.com`) was not checked as it is out of scope for a 2020s-era transaction. **This is
-the one load-bearing document this ticket asked for and it remains unretrieved — recorded here as an open
+the one load-bearing document here and it remains unretrieved — recorded here as an open
 gap requiring either account registration or a records request, not as a verified absence**, since no
 search of the actual grantor/grantee index was completed (distinct from the appraisal-roll ownership check
 above, which was completed and is reported as of 2026-09-17).
@@ -158,7 +158,7 @@ Palomino Alpha's development agreement, by contrast, has not yet passed as of th
 - [ ] Whether a TRO was sought or granted — not reported in press coverage reviewed.
 - [ ] The actual recorded deed or land-sale contract for the Kutscher/Palomino Alpha land relationship —
       genuinely unretrieved (access-blocked, not verified-absent). This is the single most important
-      unresolved item relative to the ticket's own framing ("the deed is the document").
+      unresolved item ("the deed is the document").
 - [ ] Reconciliation of the ~10.1-acre (Kyle W & Lori R Kutscher, direct record) vs. ~100-200-acre
       ("Kutscher and family," press coverage) figures — not resolved; flagged as a real discrepancy.
 - [ ] Palomino Alpha, LLC beneficial ownership — see [[cloudburst-texas-palomino-alpha-guadalupe-county]].

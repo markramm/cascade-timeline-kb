@@ -128,7 +128,7 @@ The pattern across all these: Congress provides statutory legitimation; executiv
 
 4. **Trump II 2025-26 challenge.** The administration has reportedly circulated OLC memoranda arguing that Section 702's restrictions on "U.S. person queries" (so-called "backdoor searches") impermissibly constrain the President's inherent Article II intelligence authority. If the administration acts on this theory — by ordering the NSA to ignore Section 702's querying restrictions — it would replicate the 2001-04 Terrorist Surveillance Program's bypass of FISA's Title I requirements. The structural question: whether the FISA bargain's authorization-for-oversight model can survive an administration that rejects the oversight component.
 
-Critically for the "authority migration" pattern (Worker U): FISA is a canonical case of how reform statutes can formally constrain an authority while practically preserving its operation. The 1978 Act did not reduce the volume of foreign-intelligence surveillance; it increased it, by legitimating it. The 2008 Amendments multiplied the scope by adding Section 702. The 2015 and 2020 reauthorizations added additional layers. Each reform has been less constraining than the one before.
+Critically for the "authority migration" pattern: FISA is a canonical case of how reform statutes can formally constrain an authority while practically preserving its operation. The 1978 Act did not reduce the volume of foreign-intelligence surveillance; it increased it, by legitimating it. The 2008 Amendments multiplied the scope by adding Section 702. The 2015 and 2020 reauthorizations added additional layers. Each reform has been less constraining than the one before.
 
 ## Broader Context
 

@@ -137,7 +137,7 @@ event_date_claim: c2
 - SAM.gov posted date, a few days after signing: the Justification for Other Than Full and Open Competition was posted, after signing.
 - Press: the Boston Globe then reported the purchase of four robots.
 
-## The vendor, and corrections to the ticket's premises
+## The vendor, and corrections
 
 - The awardee is RADeCO, Inc., not Boston Dynamics. Boston Dynamics holds no ICE or DHS award in USAspending. RADeCO sells a customized package called CERBERUS built on the Boston Dynamics Spot robot. The Globe reports that RADeCO describes itself as an authorized distributer and industry partner of Boston Dynamics; that is RADeCO's own description and was not confirmed with Boston Dynamics.
 - NBC's August report said ICE "plans to spend as much as $2 million to purchase robot 'dogs'" according to a government funding document it reviewed; that is a planning figure. The signed amount is $1,304,296.

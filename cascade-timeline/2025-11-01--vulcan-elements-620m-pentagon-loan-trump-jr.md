@@ -72,9 +72,7 @@ Resolved from the primary. `war.gov` returns 403 to direct fetch, but the Waybac
 the cited release (`web.archive.org/web/20260821043410/...Article/4339788/...`) carries the
 byline date **"Nov. 21, 2025"** in the release's own dateline.
 
-A worker fixing an unrelated error in [[1789-capital]] flagged the conflict rather than
-silently choosing a date, and declined day-precision it had not re-verified — the right call.
-The conflict was real, and the KB was the side that had it wrong.
+The conflict between the two dates was real, and the earlier version of this entry had it wrong.
 
 **Two further precision notes from the same primary text**, both of which this entry's title
 currently blurs:

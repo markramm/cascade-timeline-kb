@@ -102,7 +102,7 @@ FERC did not close Docket RM26-4-000 with a NOPR or final rule in June 2026 as t
 
 ## Access limitations (disclosed)
 
-This entry rests on **convergent secondary-source headlines and article summaries**, not on the primary FERC order text or its exact docket citation for the Section 206 proceedings. ferc.gov returned Cloudflare 403 responses to both evidence-search's browser escalation (blocked at the tool's public-records allow-list, since ferc.gov is not on it) and to direct WebFetch, consistent with this KB's standing note that ferc.gov has been blocked this session. Several law-firm alert pages (White & Case, McGuireWoods) and most individual RTO Insider article URLs returned 403 or 404 when fetched directly — likely paywall/CMS-gating rather than a Cloudflare challenge specifically. The finding is corroborated across four independent outlets (two law firms, two trade publications) reporting the same June 18-19, 2026 date and the same Section 206/show-cause characterization, which is a reasonable evidentiary basis for the fact of the order's issuance and general content — but exact docket numbers for the individual RTO show-cause proceedings, the precise compliance-deadline date, and any dissenting-commissioner statements were not independently verified against the primary order. Anyone tightening this citation should retry ferc.gov via a non-blocked browser session or pull the order from a legal database (Westlaw/Lexis FERC service).
+This entry rests on **convergent secondary-source headlines and article summaries**, not on the primary FERC order text or its exact docket citation for the Section 206 proceedings. ferc.gov returned Cloudflare 403 responses to browser-based access and to direct fetches; ferc.gov was blocked throughout. Several law-firm alert pages (White & Case, McGuireWoods) and most individual RTO Insider article URLs returned 403 or 404 when fetched directly — likely paywall/CMS-gating rather than a Cloudflare challenge specifically. The finding is corroborated across four independent outlets (two law firms, two trade publications) reporting the same June 18-19, 2026 date and the same Section 206/show-cause characterization, which is a reasonable evidentiary basis for the fact of the order's issuance and general content — but exact docket numbers for the individual RTO show-cause proceedings, the precise compliance-deadline date, and any dissenting-commissioner statements were not independently verified against the primary order. Tightening this citation requires the order text from ferc.gov or a legal database.
 
 ## Research Gaps
 
@@ -123,18 +123,11 @@ This entry rests on **convergent secondary-source headlines and article summarie
 - [[epic-inv6-energy-systems-convergent-demand-shock]]
 
 
-## Conductor note, 2026-08-28 — status set to `reported`, and what IS primary-verified
+## Sourcing status — `reported`, and what is primary-verified
 
-**Downgraded `confirmed` → `reported`** to match the entry's own sourcing disclosure. The body
-states plainly that it "rests on convergent secondary-source headlines and article summaries, not
-on the primary FERC order text" — an entry cannot be `confirmed` on that basis. The disclosure
-itself is exemplary and is why the downgrade is a one-word fix rather than a rewrite.
+**Status is `reported`, not `confirmed`.** The body states plainly that it "rests on convergent secondary-source headlines and article summaries, not on the primary FERC order text," and an entry cannot be `confirmed` on that basis.
 
-Context for the strictness: a canon sourcing audit the same day found **two of twelve**
-high-importance `confirmed` entries asserting claims their sources do not contain. `confirmed` has
-to mean something.
-
-**What IS primary-verified**, checked by the conductor against the Federal Register directly:
+**What IS primary-verified**, checked against the Federal Register directly:
 FERC's own **Unified Regulatory Agenda (2026-08-14, 91 FR / doc 2026-16616)** lists
 **"Interconnection of Large Loads to the Interstate Transmission System," RIN 1902-AG47**, at
 **ANPRM stage** with **"Next Action Undetermined, 11/00/26."** A `fedreg` search returns **no NPRM
@@ -144,8 +137,7 @@ by rulemaking* — is confirmed from a primary source, independent of the law-fi
 **What remains secondary-sourced**: the Section 206 show-cause orders themselves (four independent
 outlets — McGuireWoods, White & Case, RTO Insider, Utility Dive — agreeing on the June 18-19 date
 and the Section 206 characterization), the exact docket numbers, the precise compliance deadline,
-and any dissents. ferc.gov 403s (Cloudflare; not on evidence-search's allow-list), so no claim
+and any dissents. ferc.gov 403s (it blocks automated access), so no claim
 here rests on a successfully-read ferc.gov page.
 
-**To restore `confirmed`**: pull the primary order text from a non-blocked browser session or a
-legal database and cite the docket numbers directly.
+Upgrading to `confirmed` requires the primary order text, cited by docket number.

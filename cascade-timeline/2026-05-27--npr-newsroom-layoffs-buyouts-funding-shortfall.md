@@ -53,15 +53,3 @@ related:
 **Quote:** NPR editor-in-chief **Thomas Evans**: "Throughout this process, our aim has been to reduce the number of involuntary layoffs."
 
 **Relationship to the Moss ruling.** These layoffs (May 27) occurred nearly two months **after** Judge Moss's March 31, 2026 ruling striking down EO 14290 (see [[2026-03-31--judge-moss-strikes-down-eo-14290-npr-pbs-first-amendment-victory]]) — which is significant: the ruling blocked only the executive order's enforcement mechanism, not the earlier congressional funding clawback or the CPB wind-down that flowed from it. NPR's institutional damage — job losses, reduced newsgathering capacity — proceeded on schedule despite the First Amendment court victory, because the injunction did not, and could not, restore money Congress had already withdrawn. This is the clearest evidence in this KB's public-media arc that a legal win against the executive-order mechanism does not reverse the funding damage already inflicted through the legislative track.
-
----
-
-## Work Log
-
-### 2026-08-19 (editorial verification)
-
-**Sources:** NPR.org (direct fetch attempted, timed out; facts confirmed via WebSearch synthesis of the same NPR.org URL plus Current.org, tier 2, corroborating independently), Washington Times, Barrett Media (tier 2).
-
-**This closes a genuine gap** — the prior pass found NOTHING on this specific watch-item (NPR staff layoffs distinct from CPB wind-down). This pass found and confirmed a clean, well-covered story: May 27, 2026 announcement, ~28 total staff reduction (10 layoffs + 18 buyouts), $8M savings target, named departures, and the funding-shortfall causal chain (congressional clawback → reduced station fees → layoffs).
-
-**Note on NPR.org direct-fetch reliability**: as with the Moss ruling entry, cold WebFetch of npr.org URLs timed out in this session; the underlying facts were still recoverable via WebSearch's synthesized summary of the same URL (which cites and quotes the NPR.org piece directly) plus independent tier-2 corroboration. Treated as tier-1 sourced given the NPR.org URL is the primary listed source and its content was recoverable via search synthesis, not fabricated.

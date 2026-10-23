@@ -92,4 +92,4 @@ None of this establishes deployment against any person. What the cluster documen
 
 **A caution on portfolio research.** SRI holds roughly **11,664 patents**. Search engines attribute patents to it incorrectly: both "Distance Iris Recognition" (US 8,285,005) and "Assisted video surveillance of persons-of-interest" (US 9,111,147) surface in SRI-related searches and belong to **Honeywell/Gentex** and **MIT** respectively. Every patent cited here was verified against its own assignee field. Any future sweep must do the same.
 
-**Open questions** (tracked as research tasks): whether SRI holds DHS/ICE/CBP contracts; whether this technique or its authors moved into any fielded system; SRI's current ownership, leadership, and any financial ties to the current administration.
+**Open questions** (open): whether SRI holds DHS/ICE/CBP contracts; whether this technique or its authors moved into any fielded system; SRI's current ownership, leadership, and any financial ties to the current administration.

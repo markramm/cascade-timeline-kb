@@ -150,11 +150,4 @@ consistent tier-1 secondary reporting is good evidence, but the governing instru
 document, and nobody in this corpus has read it. Upgrade to `confirmed` only once the FEMA
 NOFO / award-terms text or a complaint quoting it has been retrieved and cited directly.
 
-**Conductor note, 2026-08-28**: an earlier draft of this paragraph said `status: confirmed` was
-used, contradicting the frontmatter, which correctly reads `reported`. Corrected here so the
-stale sentence cannot be read as licence to upgrade. This entry replaced a deleted predecessor
-(`2026-06-15--trump-dhs-1b-grant-threat-force-state-voting-overhaul-midterms`) that was
-`importance: 9`, `status: confirmed`, and headlined on a "$1B DHS Grant Cutoff" its two cited
-sources did not contain — so the standard for calling anything here `confirmed` is deliberately
-high. Deletion rather than patching was the right call: the predecessor's date, title, sources,
-and central figure were each wrong, and git preserves it at commits `fc5d0880` / `58d6a749`.
+This entry replaced an earlier entry on this topic that was headlined on a "$1B DHS Grant Cutoff" figure its two cited sources did not contain, so the standard for calling anything here `confirmed` is deliberately high.

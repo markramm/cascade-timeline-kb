@@ -64,7 +64,7 @@ sources:
     tier: 2
 ---
 
-**Correction to the KB's own prior record:** two earlier timeline entries in this corpus —
+**Correction to earlier entries:** two earlier timeline entries —
 [[2026-07-02--fifth-circuit-90-day-bond-hearing-mandatory-detention-ruling]] and
 [[2026-07-10--5th-circuit-en-banc-reinstates-mandatory-detention]] — cited
 `ca5.uscourts.gov/opinions/pub/25/25-20496-CV0.pdf` as the source of the July 2, 2026 panel
@@ -136,21 +136,21 @@ theories and separate dockets.
 - **September 2026** — En banc briefing is scheduled to be complete; the Fifth Circuit's en banc
   argument sitting for September is calendared for **September 23-25, 2026** in New Orleans, with
   five cases (Sosnava Rodriguez plus four others) set for that session. Bloomberg Law reported
-  July 10 that "the court didn't provide a date for the argument" within that sitting. **The
-  ticket's premise of a specific "September 20, 2026" argument date could not be verified against
-  any primary or tier-1 source found in this pass** — see correction note below.
+  July 10 that "the court didn't provide a date for the argument" within that sitting. **A
+  specific "September 20, 2026" argument date could not be verified against
+  any primary or tier-1 source found** — see correction note below.
 
 ## Premise correction: no verified September 20, 2026 argument date
 
-The originating ticket states the en banc argument is "September 20, 2026 — 24 days out." Every
-source found in this research pass that gives a specific window says **September 23-25, 2026**
+One account states the en banc argument is "September 20, 2026 — 24 days out." Every
+source found that gives a specific window says **September 23-25, 2026**
 (a three-day en banc sitting), and Bloomberg Law's July 10 report states explicitly that the
 court had not yet set a specific argument date within that session as of its filing. The Fifth
 Circuit's own calendar page (`ca5.uscourts.gov/oral-argument-information/court-calendars`) is
-JavaScript-rendered and could not be scraped in this pass; the court's own practice, per that
+JavaScript-rendered and could not be scraped; the court's own practice, per that
 page's static text, is to release specific case-to-date assignments "about a month before each
 sitting" — meaning a Sosnava Rodriguez-specific date may not yet be public, or may have been
-released after this research pass's tools reached it. **Do not cite "September 20" as confirmed.**
+released since. **Do not cite "September 20" as confirmed.**
 Recommend checking the Fifth Circuit's oral-argument calendar directly (a human browser session
 can render the JS calendar; evidence-search's browser escalation could not reach the dynamic
 content) in the 1-2 weeks before the September 23-25 sitting to pin the exact day and confirm
@@ -158,7 +158,7 @@ Sosnava Rodriguez is on it.
 
 ## Genalo v. Black does NOT absorb this split — separate case, separate provision, later argument
 
-The ticket's lead speculated "*Genalo v. Black* (SCOTUS cert granted June 15) likely absorbs this
+One lead speculated "*Genalo v. Black* (SCOTUS cert granted June 15) likely absorbs this
 split — watch briefing schedule, oral argument likely fall 2026." Verified directly against
 SCOTUSblog's case page: *Genalo v. Black*, No. 25-886, is on appeal from the **Second Circuit**,
 addresses **8 U.S.C. § 1226(c)** "unreasonably prolonged" detention (a different statutory
@@ -174,10 +174,10 @@ matter asks the Court to hold that petition pending disposition of *Lopez-Campos
 (Buenrostro-Mendez) and 8th (Avila v. Bondi) do not. Sosnava Rodriguez's constitutional theory is
 a separate, still-live track within the 5th Circuit itself, now before the en banc court.
 
-## DOJ compliance during the eight-day window — not directly documented in this pass
+## DOJ compliance during the eight-day window — not directly documented
 
-The ticket asks whether DOJ complied with the panel ruling or sought an emergency stay during the
-July 2-10 window it was briefly binding. This research pass did not locate a DOJ public statement
+The open question is whether DOJ complied with the panel ruling or sought an emergency stay during the
+July 2-10 window it was briefly binding. No source located a DOJ public statement
 or filing specifically addressing compliance actions taken in that eight-day window (as opposed
 to the subsequent stay motion granted July 21). NIPNLG's August 4 advisory references district
 courts continuing to grant habeas relief on due-process grounds even after the July 10 vacatur
@@ -187,14 +187,14 @@ advisory's framing, not a confirmed compliance record. **Remains an open researc
 
 ## DOJ courthouse-arrest-concealment motion — confirmed as a SEPARATE, unrelated docket
 
-The ticket's lead "The DOJ motion to conceal courthouse arrest records is the accountability gap"
+The framing "The DOJ motion to conceal courthouse arrest records is the accountability gap"
 refers to a **different case entirely**: the SDNY litigation over ICE arrests at 26 Federal Plaza
 in New York (African Communities Together and The Door v. DOJ, before Judge P. Kevin Castel),
 not any filing on the Sosnava Rodriguez docket. Verified via Documented NY's July 7, 2026
 reporting: DOJ resisted disclosing ICE's specific justifications for five courthouse arrests made
 after Judge Castel's May preliminary halt; three of the five were released without explanation,
 two remained detained pending habeas petitions as of that report. This is a live, distinct,
-checkable filing thread but is **not part of the 5th Circuit en banc docket** this ticket tracks,
+checkable filing thread but is **not part of the 5th Circuit en banc docket** tracked here,
 and does not directly bind or inform the September argument.
 
 ## Detention population figures — the "63,000" lead figure is a national total, not TX/LA/MS-specific
@@ -205,10 +205,10 @@ did not place in the top-5 state table, which ran through Florida at 3,934 — m
 count is below that). **Texas + Louisiana alone total roughly 24,000-25,000**, well short of the
 lead's "63,000 current detainees in TX/LA/MS" framing — that figure appears to be the *national*
 total, misattributed to the three-state circuit. A precise 90+-day-holding count within the
-circuit was not attempted in this pass; it would require record-level TRAC or Vera Institute data
+circuit was not attempted; it would require record-level TRAC or Vera Institute data
 matched against individual arrest/detention-start dates, which is a distinct data-analysis task
-beyond this ticket's docket-posture scope. **Remains an open research gap**, flagged for a
-follow-up ticket rather than attempted here.
+beyond this entry's docket-posture scope. **Remains an open research gap**, flagged for a
+follow-up rather than attempted here.
 
 ## What this means for detention-pipeline capacity economics
 

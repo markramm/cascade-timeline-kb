@@ -96,7 +96,7 @@ Fetched directly (`curl` + HTML-strip, confirmed against the WebFetch summary) f
 
 ## Why This Event Matters
 
-This is the tier-2, EOIR-records-sourced figure behind the "279 out, ~38%" claim that motivated this research task. It supersedes the corpus's prior cumulative snapshots — Feb 23, 2026 (NPR, "a quarter fewer" judges), Apr 15, 2026 (NAIJ, 113 fired/forced out), Jun 10, 2026 (NPR, "over 130") — documented in [[2026-eoir-immigration-judge-firing-record]], extending the tracked cumulative total to TRAC's August 31, 2026 publication (the report gives no as-of date for the 279).
+This is the tier-2, EOIR-records-sourced figure behind the "279 out, ~38%" claim. It supersedes prior cumulative snapshots — Feb 23, 2026 (NPR, "a quarter fewer" judges), Apr 15, 2026 (NAIJ, 113 fired/forced out), Jun 10, 2026 (NPR, "over 130") — documented in [[2026-eoir-immigration-judge-firing-record]], extending the tracked cumulative total to TRAC's August 31, 2026 publication (the report gives no as-of date for the 279).
 
 ## Broader Context
 

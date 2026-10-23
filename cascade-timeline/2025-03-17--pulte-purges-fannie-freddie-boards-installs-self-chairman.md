@@ -245,7 +245,7 @@ Fannie Mae's Q1 2025 10-Q reported that the board had not yet considered Malik's
 
 ## Sourcing and Gaps
 
-The 14 director names are confirmed via the Washington Post's March 18, 2025 report ("Fannie Mae, Freddie Mac boards overhauled by Pulte FHFA"), National Mortgage News' contemporaneous coverage ("New FHFA chief shakes up Fannie Mae, Freddie Mac's boards"), and Inman's March 18 summary ("Pulte is New Chair Of Fannie And Freddie After Purge Of 14 Board Members"). Worker V's [[pulte-bill]] actor profile aggregates these names from the same sources.
+The 14 director names are confirmed via the Washington Post's March 18, 2025 report ("Fannie Mae, Freddie Mac boards overhauled by Pulte FHFA"), National Mortgage News' contemporaneous coverage ("New FHFA chief shakes up Fannie Mae, Freddie Mac's boards"), and Inman's March 18 summary ("Pulte is New Chair Of Fannie And Freddie After Purge Of 14 Board Members"). The [[pulte-bill]] actor profile aggregates these names from the same sources.
 
 **Open documentation gaps** (not blocking this entry):
 - **Exact timing** of the removal notices to each director (March 17 letter? March 18 board announcement? Each director's effective date individually?) — WaPo and NMN coverage treats the cohort as a two-day event; per-director notification timing is not public.

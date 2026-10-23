@@ -78,7 +78,7 @@ The entry's central claim — zero PIAs filed in 2026 against 24 in 2024 and 8 i
 
 **The central claim of this entry — that DHS filed ZERO Privacy Impact Assessments in 2026 — is false**, and the title has been changed accordingly. Status downgraded to `disputed` pending a full re-audit.
 
-**How it was caught.** A fact-checker working a draft that cited this entry ([[drafts/anthropic-refused-lin-ruling]]) went to dhs.gov rather than to this note, and found published 2026 PIAs. Independently re-verified here the same day:
+**Published 2026 PIAs are on dhs.gov:**
 
 - **DHS/USSS/PIA-034 (HELIX)**, dated **2026-07-29** — `https://www.dhs.gov/sites/default/files/2026-07/26_0729_privacy-usss-pia034-helix.pdf` returns **HTTP 200**, a 587,549-byte PDF, served from a `2026-07/` path. A Secret Service assessment covering video and image data for protective and law-enforcement missions.
 - A DHS Office of Health Affairs PIA on a `2026-05/` path, also HTTP 200.
@@ -86,10 +86,10 @@ The entry's central claim — zero PIAs filed in 2026 against 24 in 2024 and 8 i
 
 At least three, therefore, not zero.
 
-**Why the error survived this long — the instructive part.** The DHS **index page** (`dhs.gov/privacy-impact-assessments`) lists no 2026 publications even though the documents exist at 2026-dated paths on DHS's own server. Anyone checking the index rather than searching for the documents would conclude, reasonably and wrongly, that the year was empty. **An agency index is not the agency's record.** This is [[feedback_absence_in_wrong_document]] exactly: a zero-hit search only proves absence if the document searched could have held the answer.
+**Why the error survived this long — the instructive part.** The DHS **index page** (`dhs.gov/privacy-impact-assessments`) lists no 2026 publications even though the documents exist at 2026-dated paths on DHS's own server. Anyone checking the index rather than searching for the documents would conclude, reasonably and wrongly, that the year was empty. **An agency index is not the agency's record.**
 
-The source chain compounded it. The figure came from secondary write-ups (State of Surveillance, Tech Policy Press); a 2026-08-19 note on this entry re-verified an adjacent dollar figure and stated in terms that "the entry's central claim — zero PIAs filed in 2026 — is untouched by this note and was not re-audited here." The caveat was recorded and then not acted on for a month, while the claim kept being cited.
+The source chain compounded it. The figure came from secondary write-ups (State of Surveillance, Tech Policy Press);
 
 **What survives.** The structural argument — that PIA filings collapsed while surveillance procurement expanded — may well hold; "three" against 24 in 2024 and 8 in 2025 is still a steep decline. **But "collapsed" and "zero" are different claims, and only one of them was ever checked.** The 24/2024 and 8/2025 baselines are also unaudited and inherit the same index-vs-documents problem.
 
-**Do not cite a 2026 PIA count from this entry until the re-audit lands.** A ticket should enumerate 2026 PIAs from the documents themselves, not the index.
+**A 2026 PIA count should not be cited from this entry until it is re-audited.** The re-audit should enumerate 2026 PIAs from the documents themselves, not the index.

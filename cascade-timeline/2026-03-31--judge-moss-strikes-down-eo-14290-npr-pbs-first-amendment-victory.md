@@ -74,28 +74,16 @@ related:
 
 **Reaction:** Reporters Committee for Freedom of the Press Vice President of Legal Programs **Lisa Zycherman** stated the ruling "affirms that the government cannot use its power to punish reporting that it does not like."
 
-**RESOLVED 2026-08-19 — the disputed quote is real.** An earlier pass attributed to this ruling the phrase *"difficult to conceive of clearer evidence that a government action is targeted at viewpoints…"*; the 2026-08-19 pass could not verify it in any tier-1 source fetched and correctly flagged it as unconfirmed rather than asserting or dropping it. The conductor subsequently retrieved **the opinion itself** (located via CourtListener REST v4, fetched from the court's own ECF public-document URL) and verified it verbatim at page 52:
+**The ruling's language on viewpoint targeting is verified from the opinion itself.** The phrase *"difficult to conceive of clearer evidence that a government action is targeted at viewpoints…"* appears verbatim at page 52 of the opinion (retrieved from the court's own ECF public-document URL):
 
 > "It is difficult to conceive of clearer evidence that a government action is targeted at viewpoints that the President does not like and seeks to squelch. The Executive Order seeks to exclude NPR and PBS from receiving federal grants or other funding because they have provided more positive coverage of his political opponents than of his party and allies…"
 
 The "draws a line" quote used above is likewise verified verbatim — and the opinion attributes its internal quotation to **Nat'l Rifle Ass'n of Am. v. Vullo, 602 U.S. 175, 188 (2024)**, a citation none of the secondary coverage carried. That matters: the court grounds its "power of the purse" holding in a recent unanimous Supreme Court precedent on government coercion of private intermediaries.
 
-**This entry no longer depends on secondary synthesis.** Its quotes and case details were originally sourced partly to an Engadget (tier 2) rendering; they are now anchored to the primary document, archived in-repo with SHA-256. See [[npr-pbs-v-trump-moss-opinion-2026-03-31]].
+**This entry no longer depends on secondary synthesis.** Its quotes and case details were originally sourced partly to an Engadget (tier 2) rendering; they are anchored to the primary document. See [[npr-pbs-v-trump-moss-opinion-2026-03-31]].
 
 **Structural significance.** This is a genuine institutional-resistance win: a Trump-administration executive order aimed explicitly at defunding disfavored press coverage was struck down on First Amendment grounds by a federal judge, with the "power of the purse" reasoning explicitly foreclosing viewpoint-based funding retaliation as a workaround for direct censorship. It sits alongside the NPR staff layoffs (see companion 2026-05-27 entry) as evidence that the funding damage from the underlying congressional clawback and CPB wind-down was not undone by this ruling — the legal principle was vindicated, but the institutional damage (job losses, station-fee revenue loss) proceeds regardless, because the injunction reaches only the executive order, not the funding clawback that preceded and outlasts it.
 
 **Update (2026-10-19): finality of the NPR/PBS case, and a scope correction.** Sequence only, with date kinds, from the court's own docket filings. On April 23, 2026 (order date) Judge Moss entered partial final judgment under Rule 54(b) on the claims against Sections 1 and 3(a) of the executive order. The parties' joint status report (filing date July 6, 2026) states: "No appeal was taken from the partial final judgment." The later joint stipulation (filing date July 16, 2026) repeats that "the Federal Defendants did not appeal from that partial final judgment" and dismisses the remaining claims.
 
 **Scope correction to the paragraphs above.** The permanent injunction, as the parties' stipulation recites it, bars action "from taking any action to implement or enforce Section 1 or Section 3(a) of the Executive Order." For Sections 3(b) and 3(c) the court "denied both Plaintiffs’ and the Federal Defendants’ motions for summary judgment without prejudice," and those remaining claims were then "voluntarily dismissed without prejudice." The text above that describes the injunction as covering the whole of EO 14290 is therefore broader than the order. CPB's own dissolution, which the stipulation also recites, is in [[2026-01-05--cpb-announces-board-vote-to-dissolve-after-congress-rescinds-all-funding]].
-
----
-
-## Work Log
-
-### 2026-08-19 (editorial verification)
-
-**Sources:** NPR.org (direct successful fetch, tier 1), VPM (tier-1 NPR-wire mirror, search-snippet corroborated), CPR and RCFP (tier 1, search-snippet corroborated), Engadget (tier 2, direct fetch, provided the confirmed direct quote and case details: 62-page opinion, NPR v. Trump, 29 member-station plaintiffs).
-
-**Upgraded from tier-3 (Wikipedia-only) to tier-1**, resolving the prior pass's primary blocker. Direct NPR.org WebFetch succeeded this pass via WebSearch-returned URL (the prior pass's direct NPR.org attempts failed/timed out; this pass's search-then-fetch-via-secondary-mirror pattern worked where cold-fetching NPR.org directly did not).
-
-**Not confirmed:** the specific "difficult to conceive of clearer evidence" quote attributed to the ruling in the prior pass's work log — flagged as unverified in the entry body above rather than silently dropped or asserted.

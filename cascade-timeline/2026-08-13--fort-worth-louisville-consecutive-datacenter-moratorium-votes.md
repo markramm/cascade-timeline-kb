@@ -83,4 +83,4 @@ Full sourcing and method: [[research-fort-worth-datacenter-moratorium-grandfathe
 
 ## Dover, DE confirmed as a separate entry (added 2026-08-28)
 
-A Dover, Delaware data-center moratorium was surfaced buried inside an August 13 daily-capture story about this Fort Worth/Louisville pairing and initially dropped as a duplicate. It is not a duplicate — Dover's proposal is procedurally two days *earlier* (Committee of the Whole advanced it August 11, unanimous) and is its own committee-stage action, unconnected to Fort Worth or Louisville. See [[2026-08-11--dover-de-committee-advances-18-month-datacenter-moratorium]] for the confirmed, independently sourced write-up.
+A Dover, Delaware data-center moratorium proposal was reported alongside this Fort Worth/Louisville pairing, but it is a separate action — Dover's proposal is procedurally two days *earlier* (Committee of the Whole advanced it August 11, unanimous) and is its own committee-stage action, unconnected to Fort Worth or Louisville. See [[2026-08-11--dover-de-committee-advances-18-month-datacenter-moratorium]] for the confirmed, independently sourced write-up.

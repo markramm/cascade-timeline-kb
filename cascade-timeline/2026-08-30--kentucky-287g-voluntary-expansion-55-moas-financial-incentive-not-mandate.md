@@ -56,9 +56,9 @@ ICE publishes a downloadable roster of every signed 287(g) Memorandum of Agreeme
 - **National total: 2,411 MOAs** across 39 states and 2 U.S. territories — broken down as 1,682 Task Force Model (TFM), 547 Warrant Service Officer (WSO), and 182 Jail Enforcement Model (JEM) agreements. These three sub-totals sum exactly to 2,411, and my independent parse of the roster's 2,411 non-blank rows reproduces the same three figures, confirming the parse is accurate against the page's own stated breakdown.
 - **Kentucky: 55 MOA rows across 53 distinct law-enforcement agencies** (two agencies — Grayson County Detention Center and Oldham County Detention Center — each hold two separate model MOAs, which is why rows exceed distinct agencies). By model: **50 Task Force Model, 3 Jail Enforcement Model, 2 Warrant Service Officer.** The three JEM signatories are Grayson County Detention Center, Oldham County Detention Center, and Kenton County Sheriff's Office.
 
-**This 287(g) roster is a different dataset from Kentucky's ICE detention-contract (IGSA) count.** The "11 county jails" figure that appears in the task framing and in KY Center for Economic Policy's reporting refers to jails holding ICE detainees under separate detention/IGSA-type contracts — tracked in this KB's `kentucky-ice-detention-overview-2025-2026` note — not to 287(g) law-enforcement-authority agreements. Only 3 of Kentucky's 53 287(g) agencies hold the Jail Enforcement Model variant that authorizes jail-based immigration processing; the other 8 of the 11 detaining jails hold ICE detainees under a distinct contractual authority with no corresponding 287(g) MOA in this roster. Headline counts that merge "287(g) participants" and "ICE-contracting jails" into one number are combining two different legal instruments.
+**This 287(g) roster is a different dataset from Kentucky's ICE detention-contract (IGSA) count.** The "11 county jails" figure that appears in KY Center for Economic Policy's reporting refers to jails holding ICE detainees under separate detention/IGSA-type contracts, not to 287(g) law-enforcement-authority agreements. Only 3 of Kentucky's 53 287(g) agencies hold the Jail Enforcement Model variant that authorizes jail-based immigration processing; the other 8 of the 11 detaining jails hold ICE detainees under a distinct contractual authority with no corresponding 287(g) MOA in this roster. Headline counts that merge "287(g) participants" and "ICE-contracting jails" into one number are combining two different legal instruments.
 
-**The count is a floor, not a ceiling, and grows continuously.** Sorting Kentucky's 55 rows by signing date: the earliest is Grayson County (March 5, 2025); the most recent in this pull is Simpson County Sheriff's Office (August 17, 2026) — thirteen days before this retrieval. Of the 55 signings, **19 occurred in 2025 and 36 occurred in 2026** (through Aug. 17) — meaning the pace of new signings roughly doubled year over year, and the "36" figure that appears in the KB task framing (drawn from an earlier KY Policy snapshot cited as "36 LE agencies") is coincidentally close to, but not the same measurement as, "36 agreements signed in 2026" found here. The KY Policy article's own figure at the time of the original task (an earlier pull) read 24 agencies/30 contracts; a more recent KY Policy page revision, extracted the same day as this roster pull, still shows the 24-agency figure as its most recent stated number — meaning the advocacy org's public-facing count is now roughly 18 months stale relative to ICE's own roster. **Always count from the primary roster and date the count; a citation to any secondary tally, including this KB's own prior entries, will already be out of date by the time it is read.**
+**The count is a floor, not a ceiling, and grows continuously.** Sorting Kentucky's 55 rows by signing date: the earliest is Grayson County (March 5, 2025); the most recent in this pull is Simpson County Sheriff's Office (August 17, 2026) — thirteen days before this retrieval. Of the 55 signings, **19 occurred in 2025 and 36 occurred in 2026** (through Aug. 17) — meaning the pace of new signings roughly doubled year over year. A "36 LE agencies" figure from an earlier KY Policy snapshot is a different measurement from the "36 agreements signed in 2026" counted here. An earlier KY Policy figure read 24 agencies/30 contracts; a more recent KY Policy page revision, extracted the same day as this roster pull, still shows the 24-agency figure as its most recent stated number — meaning the advocacy org's public-facing count is now roughly 18 months stale relative to ICE's own roster. **Always count from the primary roster and date the count; a citation to any secondary tally, will already be out of date by the time it is read.**
 
 ## Mechanism: voluntary participation, structured by a strong federal financial incentive — not a mandate
 
@@ -74,63 +74,16 @@ For completeness against the "bill is not a law" discipline: **HB47** (primary s
 
 ## Why this belongs on detention-pipeline as its own entry
 
-The task's underlying instinct — that "voluntary expansion" is structurally distinct from "legislative mandate" and deserves separate tracking — holds up under primary-source testing, with the correction that "voluntary" needs the financial-incentive qualifier attached every time it's used, and that the 287(g)-agreement count and the ICE-detention-jail count are two different rosters that should not be added together or substituted for one another in headline figures.
+The distinction between "voluntary expansion" and "legislative mandate" holds up against the primary roster, with the qualifications that "voluntary" needs the financial-incentive qualifier attached every time it's used, and that the 287(g)-agreement count and the ICE-detention-jail count are two different rosters that should not be added together or substituted for one another in headline figures.
 
 ## Research Gaps
 
 - [ ] KY Policy's most recent published page (extracted same day as this roster pull) still shows a 24-agency figure; unclear whether that reflects a stale unrevised page or a narrower definitional scope (e.g., counting unique agencies signed before a specific cutoff). Not resolved here — flagged for a future KY Policy methodology check rather than assumed.
-- [ ] Whether HB47 or SB86 (or successor bills) will be pre-filed for Kentucky's 2027 legislative session is unknown as of this pass; the 2025-2026 biennium technically remains open per the SC entry's precedent reasoning about two-year general assembly cycles, though Kentucky's assembly structure should be confirmed independently rather than assumed identical to South Carolina's.
-- [ ] The 8 of 11 ICE-contracting Kentucky jails that hold no corresponding 287(g) JEM MOA in this roster were not individually re-verified against the jail-contract list in this pass; cross-referencing the two Kentucky datasets (287(g) roster vs. IGSA/detention-contract list) by facility name is a natural follow-up task.
+- [ ] Whether HB47 or SB86 (or successor bills) will be pre-filed for Kentucky's 2027 legislative session is unknown as of this entry; the 2025-2026 biennium technically remains open per the SC entry's precedent reasoning about two-year general assembly cycles, though Kentucky's assembly structure should be confirmed independently rather than assumed identical to South Carolina's.
+- [ ] The 8 of 11 ICE-contracting Kentucky jails that hold no corresponding 287(g) JEM MOA in this roster were not individually re-verified against the jail-contract list in this entry; cross-referencing the two Kentucky datasets (287(g) roster vs. IGSA/detention-contract list) by facility name is a natural follow-up task.
 
 ## Related Entries
 
 - [[2026-04-28--graham-blackburn-287g-expansion-act-sc-h4764-not-a-companion]] (the "voluntary vs. incentivized vs. mandatory" distinction was first established here for South Carolina/federal; this entry applies the same discipline to Kentucky)
 - `kentucky-hb47-mandatory-287g-legislation` (detention-pipeline KB — the dead mandate track)
 - `kentucky-ice-detention-overview-2025-2026` (detention-pipeline KB — the separate 11-jail ICE detention-contract dataset, and full Kentucky enforcement context)
-
----
-
-**Editorial QC, 2026-08-31 — the roster was re-downloaded and re-counted independently, and every
-figure reproduces.**
-
-I pulled ICE's own file from the same endpoint (`ice.gov/file-download/download/public/208609`,
-HTTP 200, 273,956 bytes, confirmed **Microsoft Excel 2007+** despite the `.pdf`-styled link),
-unzipped the XLSX and parsed the sheet XML directly:
-
-| Measure | This entry | My independent parse |
-|---|---:|---:|
-| Kentucky MOAs | 55 | **55** |
-| Kentucky distinct agencies | 53 | **53** |
-| Task Force Model | 50 | **50** |
-| Jail Enforcement Model | 3 | **3** |
-| Warrant Service Officer | 2 | **2** |
-| National TFM / WSO / JEM | 1,682 / 547 / 182 | **1,682 / 547 / 182** |
-
-**The national breakdown matching is the strongest validation available** — it means the parse
-covered the whole file, not a filtered subset, so the Kentucky figures are counted from the same
-complete roster ICE publishes.
-
-**This is what "parse the primary list, do not cite anyone's total" produces.** The entry
-demonstrates the cost of the alternative in the same breath: **KY Center for Economic Policy's public
-page still shows 24 agencies** — roughly 18 months stale against the primary roster. Citing that
-secondary tally would have understated participation by more than half.
-
-**The dataset conflation in the ticket's own framing is correctly caught.** "36 LE + 11 jails" merges
-**two different ICE datasets** — the 287(g) agreement roster and the separate detention/IGSA
-jail-contract list. **Only 3 of Kentucky's 53 agencies hold a Jail Enforcement Model MOA.** Reporting
-the three support types separately, rather than as one headline number, is what makes this usable:
-they are materially different authorities.
-
-**The "voluntary" test is the finding, and it holds the SC precedent's triad.** Voluntary at signing
-— no statute compels it, and **HB47/SB86 both died without a floor vote**. But **incomplete as a
-label**: DHS's OBBBA-funded salary reimbursement plus performance bonuses took effect 2025-10-01, and
-**36 of 55 Kentucky signings occurred in 2026 alone versus 19 in 2025.** The pace roughly doubled
-after the incentive landed, **with no mandate ever passing.**
-
-**That is a second state confirming the mechanism triad** established on South Carolina today —
-voluntary / incentivized / mandatory — and it points the same way: **the incentive track alone is
-sufficient; the mandate track keeps failing.** Two states is a pattern worth naming and not yet a
-national claim.
-
-**Date kinds held**: roster **retrieved 2026-08-30** (stated, as it must be — this file changes
-continuously), incentive **effective 2025-10-01**, signings counted by **signing year**.

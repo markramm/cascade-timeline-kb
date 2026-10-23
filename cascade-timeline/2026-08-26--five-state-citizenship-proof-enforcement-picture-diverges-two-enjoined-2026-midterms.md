@@ -156,7 +156,7 @@ claims:
 
 ## Correction to prior instantiation
 
-The task that produced this entry (`write-save-act-five-state-2026-midterm-enforcement`) was instantiated from a capture-leads harvest naming **NH, WY, SD, OH, UT** as the five states enforcing documentary proof-of-citizenship for the 2026 midterms. Pulling the Brennan Center's own current tracker directly (rather than the ledger's secondhand citation) shows the source names a *different* fifth state: **the Brennan Center's operative "5 states" list is Arizona, New Hampshire, South Dakota, Utah, and Wyoming — not Ohio.** Ohio appears in the same report in a separate paragraph, grouped with Indiana and Mississippi, as a state that "enacted show-your-papers laws that apply to **some** voters or registrants" — a narrower requirement (BMV registrants only) than the universal registration requirement the "5 states" language describes. This is exactly the projection-vs-attribution error pattern flagged in this ticket's own discipline section: a real figure, correctly stated at its source, misattributed on the way into this corpus.
+An earlier framing of this entry named **NH, WY, SD, OH, UT** as the five states enforcing documentary proof-of-citizenship for the 2026 midterms. Pulling the Brennan Center's own current tracker directly (rather than a secondhand citation) shows the source names a *different* fifth state: **the Brennan Center's operative "5 states" list is Arizona, New Hampshire, South Dakota, Utah, and Wyoming — not Ohio.** Ohio appears in the same report in a separate paragraph, grouped with Indiana and Mississippi, as a state that "enacted show-your-papers laws that apply to **some** voters or registrants" — a narrower requirement (BMV registrants only) than the universal registration requirement the "5 states" language describes. This is exactly the projection-vs-attribution error pattern a real figure, correctly stated at its source, misattributed on the way in.
 
 Independent research below further shows that as of the write date, **of the five states the Brennan Center actually lists, one — New Hampshire — is enjoined**, not enforcing; Ohio, which is not on that list, has a narrower BMV requirement that a federal judge also blocked on August 25, 2026. The following reconstructs the picture as verified against primary sources on 2026-08-26.
 
@@ -203,7 +203,6 @@ The instrument matters as much as the outcome. Conflating "documentary proof of 
 - [[2026-02-11--save-america-act-passes-house]] — first House passage, 218-213
 - [[2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms]]
 - [[2013-01-01--kansas-kobach-proof-citizenship-interstate-crosscheck]]
-- [[leads-harvested-daily-capture-2026-08-27]] — instantiating lead, corrected here
 
 ## Research Gaps
 

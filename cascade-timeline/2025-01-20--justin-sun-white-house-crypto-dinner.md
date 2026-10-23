@@ -51,9 +51,7 @@ Chinese crypto billionaire Justin Sun invested $75 million in Trump's World Libe
 
 ## CORRECTION, 2026-08-28 — the date, the venue, and the title describe three different things
 
-Found by the canon sourcing audit
-([[audit-high-importance-confirmed-canon-for-source-claim-mismatch]]), on an unbiased
-deterministic sample. **Status downgraded `confirmed` → `disputed`.**
+**Status downgraded `confirmed` → `disputed`.**
 
 **The mismatch, stated plainly.** This entry was dated **2025-01-20**, titled *"Justin Sun Becomes
 First White House Crypto Dinner Guest,"* and carried `location: White House, Washington DC`. Its

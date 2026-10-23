@@ -128,7 +128,7 @@ The National Security Act's structural consequence was the creation of what this
 
 5. **Personnel pipeline insulation.** The CIA, DoD, and NSC career personnel systems operate under Title 50 authorities distinct from civil-service protections; the intelligence community's personnel structure has become substantially insulated from executive-branch political direction in ways that both enable mission continuity and create (as Trump I and II have alleged) "deep state" resistance to political direction.
 
-Critically for the "authority migration" pattern (Worker U) and the "infrastructure-before-authority" pattern (Worker AC): the 1947 Act is the single most consequential infrastructure investment. Every post-2001 surveillance, detention, covert-action, and drone program was built on this infrastructure. The pattern Worker AC identified — "post-2001 programs chose from a pre-built menu" — is most visible here: the CIA, NSA, DoD, NSC, and intelligence community authorities that the Bush II administration activated in 2001-02 had all been built and rehearsed in the 54 years following the Act's passage.
+Critically for the "authority migration" pattern and the "infrastructure-before-authority" pattern: the 1947 Act is the single most consequential infrastructure investment. Every post-2001 surveillance, detention, covert-action, and drone program was built on this infrastructure. The pattern identified — "post-2001 programs chose from a pre-built menu" — is most visible here: the CIA, NSA, DoD, NSC, and intelligence community authorities that the Bush II administration activated in 2001-02 had all been built and rehearsed in the 54 years following the Act's passage.
 
 ## Broader Context
 
