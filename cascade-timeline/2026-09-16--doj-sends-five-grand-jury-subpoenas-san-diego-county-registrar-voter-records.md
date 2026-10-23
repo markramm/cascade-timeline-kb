@@ -180,6 +180,9 @@ sources:
   publisher: inewsource
   date: '2026-10-08'
   tier: 2
+coverage:
+- url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
+  title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
 ---
 
 San Diego County's Registrar of Voters Office received five grand jury subpoenas from the U.S. Justice Department for voter information between June 1 and Sept. 16, a county spokesperson disclosed to inewsource. County spokespeople said they do not know what investigations prompted the subpoenas, and Registrar spokesperson Antonia Hutzell said: "there is no evidence of widespread voter fraud in San Diego County." The county says the subpoenas generally sought information it is required to disclose, like registration records and voting history but not how an individual voted. The Registrar confirmed it received just one subpoena for voter records from the DOJ in 2025 and no subpoenas for voter records at all in 2024 or 2023.

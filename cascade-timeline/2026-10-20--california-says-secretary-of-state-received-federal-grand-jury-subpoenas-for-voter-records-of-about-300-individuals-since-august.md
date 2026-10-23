@@ -72,6 +72,9 @@ sources:
   publisher: U.S. District Court, C.D. Cal. (RECAP copy)
   date: '2026-10-20'
   tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
+  title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
 ---
 
 Filed 10/20/26 in the DOJ election suit in the Central District of California, by a Secretary of State attorney under penalty of perjury: the Secretary of State has received grand jury subpoenas for voter records for approximately 300 individuals; the Secretary of State has provided responsive records, or is in the process of providing, them. The subpoenas are not in the record we located.

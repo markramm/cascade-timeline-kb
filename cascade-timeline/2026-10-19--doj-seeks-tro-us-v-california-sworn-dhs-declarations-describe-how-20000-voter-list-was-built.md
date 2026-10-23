@@ -354,6 +354,9 @@ sources:
     publisher: U.S. District Court, C.D. Cal. (via RECAP)
     date: '2026-10-19'
     tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
+  title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
 ---
 
 The Justice Department filed an ex parte application for a temporary restraining order and an order to show cause why a preliminary injunction should not issue in United States v. California, No. 2:26-cv-12025 (filing date 10/19/26, ECF 22-2). The memorandum asks the court to grant relief by November 3, 2026 (the requested-ruling deadline, before the end of voting) ordering California to set aside vote-by-mail ballots of voters on the federal list. It says DHS components narrowed a preliminary list of over 175,000 potential noncitizen voters to the final list. It says that "Just this morning" the United States "charged dozens" of noncitizens, and that "Every single one" of those charged is on the list; that case is [[2026-10-19--operation-protect-the-vote-28-lprs-charged-11-arrested-doj-says-all-on-20000-list]].
