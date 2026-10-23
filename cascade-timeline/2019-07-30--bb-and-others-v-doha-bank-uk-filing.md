@@ -44,7 +44,7 @@ On **July 30, 2019**, a claim form was issued in the Queen's Bench Division of t
 
 ## Jurisdictional Framing
 
-This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, **not** a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier entries that described the 2019 matter as "U.S. federal ATA litigation" reflected a source-level error; the primary court-record citations confirm the UK venue. See [[doha-bank]] for the full jurisdictional correction.
+This is a **United Kingdom** civil proceeding under English terrorism-financing tort liability, **not** a U.S. Anti-Terrorism Act (18 U.S.C. § 2333) case. Earlier entries that described the 2019 matter as "U.S. federal ATA litigation" reflected a source-level error; the primary court-record citations confirm the UK venue. See Doha Bank for the full jurisdictional correction.
 
 ## Parties
 
@@ -76,7 +76,7 @@ The exact filing date (July 30, 2019) is established by the claim-form docket re
 
 ## Related Entries
 
-- [[doha-bank]]
+- Doha Bank
 - [[al-khayyat-brothers]]
 - [[power-international-holding]]
 - [[2009-04--doha-bank-ny-fincen-occ-5m-bsa-penalty]]

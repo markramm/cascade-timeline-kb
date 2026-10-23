@@ -34,7 +34,7 @@ corrections:
 - date: '2026-10-22'
   was: "Following the 2020 presidential election, J.D. Vance shifts from a Trump critic to an election denier ... stating he 'would have voted against certification' and claiming the election was improperly conducted."
   now: "No source cited here dates any Vance statement to November 2020. All three cited sources are October 2024 reports of his statements then (Oct. 16, 2024 NPR: 'no,' he does not think Trump lost). The entry's Nov. 4, 2020 date is unsupported."
-  why: "Axios, NBC News and NPR URLs are all dated October 2024; CNN KFile (2024-10-08) reports that in late November 2020 Vance did not repeat fraud claims. See cascade-research note election-deniers-office-table-starting-names-2026-10-22."
+  why: "Axios, NBC News and NPR URLs are all dated October 2024; CNN KFile (2024-10-08) reports that in late November 2020 Vance did not repeat fraud claims."
   found_by: "election-deniers parent-table worker, 2026-10-22"
   applied: true
 ---

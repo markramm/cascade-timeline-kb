@@ -128,7 +128,7 @@ Worker A's three predictions on May 7 forecast:
 - [[paid-influence-operation-as-cross-partisan-architecture]] — the just-landed theme entry; this is the third specimen
 - [[2026-03-03--chicago-progressive-partnership-aipac-linked-super-pac-ai-generated-ad-attacks-abughazaleh-il09-primary]] — second specimen, same primary
 - [[2026-05-07--ashley-st-clair-exposes-tpusa-influencer-fight-fight-fight-marching-orders]] — first specimen
-- [[fight-fight-fight-influencer-coordination-architecture]] — the three-layer decomposition (now confirmed across 3 specimens)
+- [[2026-05-07--ashley-st-clair-exposes-tpusa-influencer-fight-fight-fight-marching-orders]] — the three-layer decomposition (now confirmed across 3 specimens)
 - [[st-clair-ashley]] — Trump-admin defector
 - [[blair-james-trump-campaign]] — Trump-admin operative
 
