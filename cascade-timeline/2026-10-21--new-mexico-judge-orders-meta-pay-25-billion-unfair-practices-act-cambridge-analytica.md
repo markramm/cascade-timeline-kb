@@ -180,6 +180,11 @@ actors:
 - Raúl Torrez
 - New Mexico Department of Justice
 sources:
+- title: State of New Mexico ex rel. Torrez v. Meta Platforms, No. D-101-CV-2021-00132, Findings of Fact, Conclusions of Law and Judgment (filed Oct. 21, 2026)
+  url: https://nmdoj.gov/wp-content/uploads/Facebook-Judgement.pdf
+  publisher: First Judicial District Court, Santa Fe County (posted by NM DOJ)
+  date: '2026-10-21'
+  tier: 1
 - title: New Mexico judge orders Meta to pay state $25B
   url: https://sourcenm.com/2026/10/21/new-mexico-judge-orders-meta-to-pay-state-25b/
   publisher: Source NM
