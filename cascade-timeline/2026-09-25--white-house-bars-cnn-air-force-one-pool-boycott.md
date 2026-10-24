@@ -175,6 +175,8 @@ related_events:
   - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
 coverage:
   - daily-capture-reports/feed/2026-09-26--trump-cnn-af1-pool-ban-press-freedom-sept26.md
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 The White House barred **CNN** from the television-pool seat on Air Force One for President Trump's trip to a college football game in Knoxville, Tennessee. CNN reported the move was "announced Friday night in a White House note that lays out the president's schedule" (CNN); the flight was the next day. The flight was the next day.

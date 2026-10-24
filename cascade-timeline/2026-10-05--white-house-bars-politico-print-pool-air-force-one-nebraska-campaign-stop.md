@@ -170,6 +170,9 @@ claims:
   checked: '2026-10-17'
 event_date_claim: c1
 source_published_date: '2026-10-05'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 On **Monday, October 5, 2026**, the White House refused to let **Politico** board Air Force One for President Trump's trip to Nebraska, where he held a campaign stop. Politico had been scheduled to serve as the primary print representative in the travel pool, the small group of reporters who fly with the president and share notes with the wider press corps. A Politico spokesperson confirmed to CNN that the outlet was excluded. The Press Freedom Tracker records that Politico was notified on Oct. 4, 2026.

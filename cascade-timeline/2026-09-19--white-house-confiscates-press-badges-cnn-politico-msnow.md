@@ -44,6 +44,8 @@ related_events:
   - 2026-03-20--judge-strikes-pentagon-press-policy-unconstitutional
 coverage:
   - daily-capture-reports/headline/2026-09-19--white-house-bans-cnn-politico-msnow-press-passes-september-2026.md
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 On **September 19, 2026** the White House barred journalists from **CNN**, **Politico**, and **MS NOW** from the complex, with **U.S. Secret Service** personnel physically confiscating their press badges at the security gates. CNN's **Betsy Klein** and Politico's **Cheyenne Haslett** were among those denied entry. Asked what prompted the action, Trump cited "cumulative stories over the past few years" and identified no specific report. All three outlets signaled they may challenge the exclusion on First Amendment grounds. The action came the evening after a reported "Hands Around the Kennedy Center" protest.

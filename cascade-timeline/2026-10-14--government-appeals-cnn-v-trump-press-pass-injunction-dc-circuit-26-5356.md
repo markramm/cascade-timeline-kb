@@ -89,6 +89,9 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 event_date_claim: c1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 On **October 14, 2026**, the government appealed Judge Timothy J. Kelly's preliminary injunction in *Cable News Network, Inc. v. Trump* (D.D.C.) to the D.C. Circuit, the day after the injunction issued. The notice of appeal is a single sentence: "Defendants hereby respectfully provide notice of their appeal of this Court's opinion and order dated October 13, 2026, ECF Nos. 49 & 50." It is signed for the Civil Division of the Justice Department, and the docket lists the appellants as Donald J. Trump, Sean M. Curran, Susan Wiles and Steven Cheung. The appeal is interlocutory, taken from the order granting the injunction and the memorandum opinion. The D.C. Circuit assigned it No. 26-5356.

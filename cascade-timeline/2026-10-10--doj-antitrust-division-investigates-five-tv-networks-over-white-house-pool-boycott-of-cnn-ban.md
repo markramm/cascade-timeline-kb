@@ -167,6 +167,9 @@ claims:
   checked: '2026-10-17'
 event_date_claim: c2
 source_published_date: '2026-10-10'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 On **Saturday, October 10, 2026**, the Justice Department confirmed that its Antitrust Division is investigating the five major U.S. television networks, **ABC, CBS, CNN, NBC and Fox News**, for possible Sherman Act violations. The basis is the networks' decision not to fill CNN's slot in the White House television press pool after the White House barred CNN. DOJ spokeswoman **Emily Covington** said: "Members of the television press pool have boycotted covering White House events. Group boycotts among commercial competitors can violate the Sherman Act. The Antitrust Division is simply investigating to determine whether these news organizations have violated the antitrust laws." NBC reports the department sent "civil investigative demands" the day before, per a Justice Department official; CNN's sources describe demands for documents on the pool's formation and its recent operations. The inquiry was first reported by The New York Times (not read; paywalled), so this entry rests on NBC, CNN and NPR.

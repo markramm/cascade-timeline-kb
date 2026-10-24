@@ -129,6 +129,9 @@ sources:
   publisher: CNN
   date: '2026-10-08'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
+    title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
 ---
 
 At a preliminary-injunction hearing Thursday, U.S. District Judge Timothy Kelly said his temporary restraining order, which was set to expire Thursday, will remain in place through Tuesday (CBS News). The judge said a ruling could come on Tuesday or earlier (CNN). The president's ban impacts 78 credentialed journalists across the three media organizations, Kelly said.
