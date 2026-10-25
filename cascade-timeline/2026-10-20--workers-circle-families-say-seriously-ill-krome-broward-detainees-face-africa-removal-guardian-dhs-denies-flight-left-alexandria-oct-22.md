@@ -152,6 +152,6 @@ Relatives of detainees at Krome North and the Broward Transitional Center said a
 
 A charter did leave Louisiana. Documents obtained by the American Prospect planned drops of 25 in Equatorial Guinea, 30 in Burundi and 100 in the Central African Republic. "Activists in Louisiana watched from a distance on Thursday as dozens of shackled immigrants were loaded onto the plane at Alexandria International Airport." One deportee's account: "none of the deportees were informed of the flight's destination". His wife's description: "practically like hostages".
 
-Status: unverified. Open: whether a Krome or Broward detainee was aboard, and whether any flight left Florida.
+Not established: whether any Krome or Broward detainee was aboard the Louisiana charter, and whether any flight left Florida.
 
 Context: [[2026-09-29--scotus-stays-dvd-judgment-grants-cert-third-country-removals]], [[2026-09-11--dhs-oig-krome-inspection-25-percent-over-capacity-1102-detainees-882-max]].
