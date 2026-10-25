@@ -6,6 +6,7 @@ title: ICE Arrests Bronx Food Pantry President Aleksander Nilaj at Manhattan Imm
 importance: 7
 status: confirmed
 verification: source-verified
+event_date_claim: c1
 claims:
 - id: c1
   type: date
