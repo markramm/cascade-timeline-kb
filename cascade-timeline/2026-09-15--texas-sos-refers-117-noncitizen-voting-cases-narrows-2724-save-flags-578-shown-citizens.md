@@ -114,6 +114,9 @@ sources:
   publisher: Texas Secretary of State
   date: '2026-09-15'
   tier: 1
+coverage:
+- url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+  title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 ---
 
 The Texas Secretary of State's office "referred 117 cases to the Office of the Attorney General for investigation of potential noncitizen voting," per its own release dated September 15, 2026. The release says the office's SAVE run "identified 2,724 potential noncitizens on the voter rolls," that "578 voters demonstrated citizenship" on later review, and that for 506 of them citizenship was proven because "passport information was added to SAVE after the state’s initial run." Counties were advised to reinstate those registrations "if they were removed."
