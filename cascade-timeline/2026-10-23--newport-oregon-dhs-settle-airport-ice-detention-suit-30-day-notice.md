@@ -103,6 +103,26 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-25'
+- id: c20
+  type: attribution
+  value: City of Newport v. Noem, 6:25-cv-02396
+  qualifier: (D. Or.)
+  span: City of Newport v. Noem, 6:25-cv-02396, (D. Or.)
+  url: https://www.courtlistener.com/docket/72069863/city-of-newport-v-noem/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-25'
+- id: c21
+  type: attribution
+  value: State of Oregon v. Noem, 6:26-cv-00186
+  qualifier: (D. Or.)
+  span: State of Oregon v. Noem, 6:26-cv-00186, (D. Or.)
+  url: https://www.courtlistener.com/docket/72200938/state-of-oregon-v-noem/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-25'
 tags:
   - detention
   - local-resistance
@@ -128,6 +148,6 @@ sources:
     tier: 2
 ---
 
-On Friday, Newport, Oregon, and the U.S. Department of Homeland Security settled the litigation over a planned ICE detention center at the city's municipal airport, after 10 months of legal fights that cost the city more than $368,000 in attorney fees, KLCC reported. The city announced that "ICE has stipulated that it currently has no plans to expand existing detention facilities or open new long- or short-term detention facilities anywhere in Oregon," and that DHS will give the city at least 30 days notice before issuing an environmental assessment or environmental impact statement for a detention facility in Newport. The Oregon Capital Chronicle reports DHS agreed to those terms through Aug. 1, 2027, in a settlement with the Oregon Department of Justice filed in federal court in Eugene; Attorney General Dan Rayfield said "ICE doesn't get to skirt the law to build a facility for locking up and deporting our neighbors."
+On Friday, Newport, Oregon, and the U.S. Department of Homeland Security settled the litigation over a planned ICE detention center at the city's municipal airport, after 10 months of legal fights that cost the city more than $368,000 in attorney fees, KLCC reported. The city announced that "ICE has stipulated that it currently has no plans to expand existing detention facilities or open new long- or short-term detention facilities anywhere in Oregon," and that DHS will give the city at least 30 days notice before issuing an environmental assessment or environmental impact statement for a detention facility in Newport. The State of Oregon settled its own, coordinated suit the same day: the city's case is [City of Newport v. Noem, 6:25-cv-02396](https://www.courtlistener.com/docket/72069863/city-of-newport-v-noem/) and the state's is [State of Oregon v. Noem, 6:26-cv-00186](https://www.courtlistener.com/docket/72200938/state-of-oregon-v-noem/), both in federal court in Eugene. The Oregon Capital Chronicle reports the notice commitment runs through Aug. 1, 2027 (the settlement text is not in RECAP); Attorney General Dan Rayfield said "ICE doesn't get to skirt the law to build a facility for locking up and deporting our neighbors."
 
 The settlement is a notice requirement, not a bar: KLCC notes it "doesn't necessarily block future plans," and the Capital Chronicle notes the notice period "does not apply to other Oregon cities." The state's theory was procedural, that the federal government had been "skirting federal environmental and coastal land use regulations." It joins other siting fights that ended with DHS stepping back after a local lawsuit without giving up the authority to return, as in Roxbury, New Jersey ([[2026-06-29--dhs-abandons-roxbury-nj-warehouse-ice-detention-after-lawsuit]]); see also [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]].
