@@ -56,6 +56,8 @@ coverage:
   - daily-capture-reports/feed/2026-09-25--scotus-save-database-voter-citizenship-lifted.md
   - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
     title: "The Election is a Homeland Security Investigations Case Now."
+  - url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+    title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 corrections:
 - date: '2026-10-08'
   was: "the May purge blitz that produced a 95% false-positive rate on naturalized citizens in Idaho"

@@ -89,6 +89,9 @@ claims:
   source_kind: primary
 event_date_claim: c1
 verification: source-verified
+coverage:
+- url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+  title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 ---
 
 On **10/16/26** (filing date), the Justice Department asked Judge Sooknanan to stay her **October 9, 2026** order (order date) vacating the Voter List Maintenance Policy; see [[2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy]]. The motion opens: "There is no such policy." It asks the court to "stay its order entering judgment for Plaintiffs, ECF No. 52, pending the resolution of Defendants' appeal of that order to the D.C. Circuit."

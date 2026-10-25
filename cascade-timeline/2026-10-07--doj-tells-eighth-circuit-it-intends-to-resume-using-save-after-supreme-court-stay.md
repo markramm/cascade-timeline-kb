@@ -75,6 +75,9 @@ related_events:
 - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
 capture_lanes:
 - Electoral Manipulation
+coverage:
+- url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+  title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 ---
 
 In a letter of supplemental authority to the Eighth Circuit in United States v. Simon, the appeal in the Minnesota voter-roll case, DOJ's Civil Rights Division wrote on October 7, 2026 that, because the Supreme Court on September 25, 2026 granted the United States' application for a stay of the district court's order, the United States intends to resume using the SAVE system.

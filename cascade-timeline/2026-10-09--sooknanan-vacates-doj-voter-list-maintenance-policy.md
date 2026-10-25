@@ -214,6 +214,9 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-21'
+coverage:
+- url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+  title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 ---
 
 On the ninth of October, 2026, Judge Sparkle L. Sooknanan of the U.S. District Court for the District of Columbia granted the plaintiffs' motion for partial summary judgment in *Common Cause v. DOJ* and vacated the Justice Department's Voter List Maintenance Policy. The order states that "The Court sets aside and vacates the Defendants’ Voter List Maintenance Policy" as defined in the memorandum opinion. It directs the clerk to terminate the case and states: "This is an appealable final order."

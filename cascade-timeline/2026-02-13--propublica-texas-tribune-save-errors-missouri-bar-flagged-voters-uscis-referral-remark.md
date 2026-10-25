@@ -81,6 +81,9 @@ sources:
   publisher: ProPublica (co-published with The Texas Tribune)
   date: '2026-02-13'
   tier: 2
+coverage:
+- url: https://theramm.substack.com/p/the-flagged-voter-a-citizen-texas
+  title: "The Flagged Voter: A Citizen Texas Cancelled, in His Own Sworn Words"
 ---
 
 The byline date is February 13, 2026.
