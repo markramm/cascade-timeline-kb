@@ -165,6 +165,9 @@ claims:
   outcome: verified
   checked: '2026-10-23'
 event_date_claim: c1
+coverage:
+- url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
+  title: "At the Door, in Court, and Over the Count: The Election Week in Review"
 ---
 
 On Thursday, **October 22, 2026**, in Norfolk, Va., NBC News reports, Attorney General Todd Blanche "left open the possibility that the Justice Department could seek to block states from certifying votes in the midterm elections." He spoke to reporters before boarding a plane, ahead of a news conference with FBI Director Kash Patel on racketeering charges against a Virginia state senator.

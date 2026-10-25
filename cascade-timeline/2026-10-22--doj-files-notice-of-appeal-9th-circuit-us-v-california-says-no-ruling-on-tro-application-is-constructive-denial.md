@@ -93,6 +93,8 @@ sources:
 coverage:
 - url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
   title: California Says Under Oath That Grand Jury Subpoenas Have Gone to ~300 Voter Records
+- url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
+  title: "At the Door, in Court, and Over the Count: The Election Week in Review"
 ---
 
 Dated and filed October 22, 2026 by the United States in the Central District of California: a notice of appeal to the Ninth Circuit. The notice says the United States requested an expedited ruling on its emergency application by 12:00 p.m. on October 22, 2026, and says the court has not ruled on it. It says the court's silence is a constructive denial, and the United States appeals the constructive denial of an injunction.

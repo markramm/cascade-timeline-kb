@@ -210,6 +210,9 @@ sources:
   publisher: Democracy Docket
   date: '2026-10-24'
   tier: 2
+coverage:
+- url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
+  title: "At the Door, in Court, and Over the Count: The Election Week in Review"
 ---
 
 A Secretary of State attorney swore that letters from U.S. Attorney's Offices had reached at least 40 counties, and the State attached some of them to its supplemental opposition (the Evans declaration exhibits). The Fresno, Madera and Sacramento letters are signed by Eric Grant, U.S. Attorney for the Eastern District of California, not by the Central District's Bilal Essayli. Each carries a county-specific list: 670 likely aliens for Fresno, 602 for Sacramento, 78 for Madera.
