@@ -34,6 +34,9 @@ tags:
 capture_lanes:
 - Media Capture and Control
 - Democratic Backsliding
+coverage:
+- url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
+  title: "ABC Says No Candidate Has Been on The View Since February, and Says Why"
 ---
 FCC Chair Brendan Carr confirmed an investigation of ABC over alleged equal-time violations after Democratic candidates appeared on "The View," extending the administration's pattern of using broadcast regulators to intimidate media outlets. The investigation came alongside CBS blocking a Stephen Colbert interview with a Democratic candidate, suggesting broadcast networks were preemptively censoring political content to avoid regulatory retaliation.
 

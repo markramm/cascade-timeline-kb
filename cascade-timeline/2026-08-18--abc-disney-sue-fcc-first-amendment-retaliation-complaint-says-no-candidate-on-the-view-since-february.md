@@ -239,6 +239,9 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 event_date_claim: c1
+coverage:
+- url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
+  title: "ABC Says No Candidate Has Been on The View Since February, and Says Why"
 ---
 
 On August 18, 2026 (filing date), ABC, Disney and ABC's eight owned stations sued the FCC, Chairman Brendan Carr, Commissioners Anna Gomez and Olivia Trusty, and unnamed commissioners in the U.S. District Court for the District of Columbia, *American Broadcasting Companies, Inc. v. FCC*, No. 1:26-cv-02902 (Judge Loren L. AliKhan). The single count is First Amendment retaliation: the plaintiffs ask the court to declare the April early-renewal order retaliatory and to bar further action on the renewal applications, "including issuing a Hearing Designation Order." They moved for a TRO and preliminary injunction the same day. Statements attributed to ABC below are pleadings, not findings.

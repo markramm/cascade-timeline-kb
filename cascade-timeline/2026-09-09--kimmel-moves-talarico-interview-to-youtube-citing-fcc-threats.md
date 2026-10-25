@@ -142,6 +142,9 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 event_date_claim: c1
+coverage:
+- url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
+  title: "ABC Says No Candidate Has Been on The View Since February, and Says Why"
 ---
 
 On the night of Wednesday, Jimmy Kimmel said in his monologue that *Jimmy Kimmel Live* would not broadcast its interview with **James Talarico**, the Democratic U.S. Senate candidate in Texas, and would post it on YouTube on Thursday instead (CNBC, and the New York Times report as carried by the Honolulu Star-Advertiser). The entry date is that Wednesday, September 2026.

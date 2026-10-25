@@ -233,6 +233,9 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 event_date_claim: c1
+coverage:
+- url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
+  title: "ABC Says No Candidate Has Been on The View Since February, and Says Why"
 ---
 
 On **April 28, 2026** (adopted and released the same day), the Chief of the FCC Media Bureau's Video Division, David J. Brown, issued Order DA 26-416 directing The Walt Disney Company and ABC to "file license renewals for all of their licensed TV stations within 30 days," by May 28, 2026. The order covers the eight ABC-owned stations: KFSN-TV (Fresno), KABC-TV (Los Angeles), KGO-TV (San Francisco), WLS-TV (Chicago), WABC-TV (New York), WTVD (Durham), WPVI-TV (Philadelphia) and KTRK-TV (Houston). It is a two-page Bureau order issued on delegated authority; the Commission did not vote.
