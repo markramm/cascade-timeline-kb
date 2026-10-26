@@ -39,5 +39,32 @@ notes: First major law firm to capitulate to economic coercion
 status: confirmed
 capture_lanes:
 - Systematic Corruption
+claims:
+- id: c1
+  type: quote
+  value: "dedicating the equivalent of $40 million in pro bono legal services during my term in office"
+  qualifier: "dedicating"
+  span: "dedicating the equivalent of $40 million in pro bono legal services during my term in office to support causes including assisting our Nation's veterans, fairness in the justice system, and combating anti-Semitism"
+  url: https://www.federalregister.gov/documents/full_text/text/2025/03/26/2025-05291.txt
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: date
+  value: "March 21, 2025"
+  qualifier: "Executive"
+  span: "Executive Order 14244 of March 21, 2025"
+  url: https://www.federalregister.gov/documents/full_text/text/2025/03/26/2025-05291.txt
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: quote
+  value: "I hereby revoke Executive Order 14237 of March 14, 2025"
+  qualifier: "revoke"
+  span: "Sec. 2. Revocation I hereby revoke Executive Order 14237 of March 14, 2025 (Addressing Risks from Paul Weiss)."
+  url: https://www.federalregister.gov/documents/full_text/text/2025/03/26/2025-05291.txt
+  read: fetched
+  source_kind: primary
 ---
 Paul Weiss, facing what its chair called an "existential threat" that could "destroy our firm," became the first prestigious law firm to settle for $40 million after losing business "within hours" of being targeted by Trump's intimidation campaign.
+
+Correction, 2026-10-26: the $40 million is a pledge of services, not a payment. The order that records the deal, Executive Order 14244 of March 21, 2025, describes the firm as "dedicating the equivalent of $40 million in pro bono legal services during my term in office" and revokes Executive Order 14237 of March 14, 2025. The Newsweek link above carries a February 2025 date and cannot be the source of a March deal; the order text is the primary document. See cascade-research note settlements-ledger-trump-library-platforms-law-firms-universities-2026-10-26.
