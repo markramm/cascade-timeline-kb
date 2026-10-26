@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-03-19--dhs-reopens-williamsport-section-106-consultation-after-objection
 date: '2026-03-19'
-title: "DHS Sends Second Letter Continuing Section 106 Consultation on Williamsport ICE Warehouse After Resident's Objection Prompted Maryland Historical Trust to Reopen Review"
+title: "DHS Sends Second Letter Continuing Section 106 Consultation on Williamsport ICE Warehouse After Maryland Historical Trust Asked for More Information"
 importance: 7
 status: confirmed
 tags:
@@ -42,14 +42,24 @@ sources:
 capture_lanes:
   - Detention Industrial Complex
 coverage: []
+corrections:
+- date: '2026-10-26'
+  was: "a Hagerstown resident's formal objection (February 3) over a wrong address led the Maryland Historical Trust to reopen its review of the January 14 finding"
+  now: "the Trust's February 10 letter relays resident information that its submittal was incomplete and that the area of potential effects may need to include the Wright Road Relocation, and asks DHS for more information; it does not call itself an objection and does not say it reopens a closed review. The Trust had concurred January 29. The wrong-address account is not in the letter; the 'Hopewell Road' address is DHS's own letter header"
+  why: "Exhibit C (Doc. 1-4) to State of Maryland v. Noem, D. Md. 1:26-cv-00733, RECAP copy, read in full; Exhibit A (Doc. 1-2) for the DHS letter"
+  found_by: "tick-17 correction task 2026-10-26"
 ---
+
+## Correction (2026-10-26)
+
+An earlier version said a resident's formal objection over a wrong address caused the Maryland Historical Trust to reopen its review. The Trust's own February 10, 2026 letter (Exhibit C to the State's complaint) says something narrower: after concurring, it heard from county residents that it had not been given complete information and that the project area might include the Wright Road Relocation, and it asked DHS for more information. See [[2026-02-10--maryland-historical-trust-asks-dhs-for-more-information-wright-road-relocation]]. Also, the January letter was not a "same-day close"; it proposed a finding on January 12 (see [[2026-01-12--dhs-ice-section-106-letter-to-maryland-historical-trust-williamsport]]). Text below that still carries the older framing (the "same-day close" sequence, the February 3 "wrong address" objection, the Trust "reopening") is superseded by this note and the two linked entries.
 
 ## Opening paragraph
 
 A second DHS letter, dated March 19, 2026 and received by the Washington County Historic District
-Commission, reopened Section 106 consultation on the Williamsport ICE warehouse — five weeks after
-a Hagerstown resident's formal objection led the Maryland Historical Trust to reopen its own review
-of DHS's January 14, 2026 "No Historic Properties Affected" finding (see
+Commission, continued Section 106 consultation on the Williamsport ICE warehouse — five weeks after
+the Maryland Historical Trust, having concurred January 29, asked DHS for more information (February 10)
+about DHS's January 12, 2026 proposed "No Historic Properties Affected" finding (county copy received January 14; see
 [[2026-01-14--dhs-williamsport-section-106-same-day-review]]). Washington County's own March 27,
 2026 press release states the letter "was provided to continue consultation regarding this
 undertaking subject to Section 106 of the National Historic Preservation Act."
@@ -64,10 +74,7 @@ would "be reaching out in the near future to schedule a consulting meeting," and
 environmental-staff email address for correspondence — signaling that DHS/ICE was treating the
 matter as an active, continuing consultation rather than a closed determination.
 
-This sits between two documented milestones: the February 3, 2026 objection to Maryland Historical
-Trust (Project Salt Box, per the objector's filing obtained by that outlet) that argued DHS had used
-an incorrect address (10900 Hopewell Road, versus the deed address of 16220 Wright Road) to process
-its January 14 review, and DHS's subsequent May 5, 2026 letter (reported by the county on May 12,
+This sits between two documented milestones: the Trust's February 10, 2026 request for more information (Exhibit C; Project Salt Box separately reports a February 3 resident objection alleging an incorrect address, which this pass has not read and which the Trust's letter does not mention), and DHS's subsequent May 5, 2026 letter (reported by the county on May 12,
 2026) stating that "ICE has received a request for additional information from one tribe as part of
 this undertaking" under Section 106, and that ICE was awaiting final design information from its
 contractor before re-engaging that tribe and other consulting parties. The May 5 letter also states
@@ -78,19 +85,18 @@ tested in [[wexmac-titus-categorical-exclusion-template-test]] and the injunctio
 
 ## Why This Event Matters
 
-The sequence — same-day close (Jan. 14) → resident objection (Feb. 3) → Trust reopening (reported
-Feb. 2026) → DHS re-engagement letter (Mar. 19) → continued consultation, including a tribal
+The sequence — proposed finding (letter Jan. 12) → deed (Jan. 16) → Trust concurrence (Jan. 29) → Trust request for more information (Feb. 10) → DHS re-engagement letter (Mar. 19) → continued consultation, including a tribal
 request for information (through at least May 5) — shows the Section 106 process at Williamsport
-did not simply stay closed after its January 14 disposition. Community and tribal objection reopened
-it, and DHS has kept it formally open for months since. This complicates a flat "the review was
-bypassed" framing: the review was disposed of quickly and only reopened under outside pressure, and
-what happened after the reopening is a genuinely separate, still-partially-open process, distinct
-from the January 14 letter's same-day close.
+did not simply stay closed after DHS's proposed finding. The Trust's request and a tribal request kept
+it open, and DHS has kept it formally open for months since. This complicates a flat "the review was
+bypassed" framing: the review was proposed closed on a 30-day window that ran past the deed, and the Trust later asked for more, and
+what happened after the Trust's request is a genuinely separate, still-partially-open process, distinct
+from the January letter's proposed finding.
 
 ## Broader Context
 
-See [[2026-01-14--dhs-williamsport-section-106-same-day-review]] for the original same-day
-determination this reopening responds to, and [[williamsport-section-106-review-bypass]] for the
+See [[2026-01-14--dhs-williamsport-section-106-same-day-review]] for the county-received copy of the
+January letter this one follows, and [[williamsport-section-106-review-bypass]] for the
 consolidated mechanism analysis across both letters.
 
 ## Research Gaps
@@ -109,6 +115,8 @@ consolidated mechanism analysis across both letters.
 
 ## Related Entries
 
+- [[2026-01-12--dhs-ice-section-106-letter-to-maryland-historical-trust-williamsport]]
+- [[2026-02-10--maryland-historical-trust-asks-dhs-for-more-information-wright-road-relocation]]
 - [[2026-01-14--dhs-williamsport-section-106-same-day-review]]
 - [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]]
 - [[wexmac-titus-categorical-exclusion-template-test]]
