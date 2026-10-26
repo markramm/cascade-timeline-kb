@@ -248,6 +248,126 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-20'
+- id: c25
+  type: quote
+  value: 'the Motion to Stay Preliminary Injunction, ECF No. 74, is DENIED.'
+  qualifier: DENIED
+  span: 'the Motion to Stay Preliminary Injunction, ECF No. 74, is DENIED. The Court’s October 2, 2026, Preliminary Injunction REMAINS IN EFFECT.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c26
+  type: quote
+  value: 'the Court finds that Defendants’ likelihood of success on appeal is low'
+  qualifier: court
+  span: 'the Court finds that Defendants’ likelihood of success on appeal is low.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c27
+  type: quote
+  value: 'Given the urgency of Defendants’ request, the Court considers it without awaiting a response'
+  qualifier: court
+  span: 'Given the urgency of Defendants’ request, the Court considers it without awaiting a response.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c28
+  type: figure
+  value: '$462,800 per day'
+  qualifier: at least
+  span: '“incur at least $462,800 per day in suspension costs based on rough projections provided by . . . contractors.”'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c29
+  type: date
+  value: Oct 21 2026
+  qualifier: submitted to Justice Alito
+  span: 'Oct 21 2026 Application (26A560) for a stay, submitted to Justice Alito.'
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c30
+  type: date
+  value: 'October 29, 2026'
+  qualifier: due by
+  span: 'Response to application (26A560) requested by Justice Alito, due by 4 p.m. (EDT) on October 29, 2026.'
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c31
+  type: quote
+  value: 'An appeal to the court of appeals is not available'
+  qualifier: not available
+  span: 'An appeal to the court of appeals is not available.'
+  url: https://www.supremecourt.gov/DocketPDF/26/26A560/430290/20261021153649084_Ruidosa_Application_Final.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c32
+  type: date
+  value: '10/20/26'
+  qualifier: Filed
+  span: 'Case 3:26-cv-01099-KC Document 78 Filed 10/20/26 Page 1 of 6'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c33
+  type: figure
+  value: '78'
+  qualifier: Document
+  span: 'Case 3:26-cv-01099-KC Document 78 Filed 10/20/26 Page 1 of 6'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c34
+  type: figure
+  value: '26A560'
+  qualifier: Application
+  span: 'Application (26A560) for a stay, submitted to Justice Alito.'
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c35
+  type: quote
+  value: 'submitted to Justice Alito'
+  qualifier: submitted
+  span: 'Application (26A560) for a stay, submitted to Justice Alito.'
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c36
+  type: figure
+  value: '4 p.m.'
+  qualifier: due by
+  span: 'due by 4 p.m. (EDT) on October 29, 2026'
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
 tags:
 - border-wall
 - litigation
@@ -263,6 +383,21 @@ actors:
 - Markwayne Mullin
 - Office of the Solicitor General
 sources:
+- title: Order Denying Motion to Stay, ECF 78, Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex. Oct. 20, 2026)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.78.0_1.pdf
+  publisher: U.S. District Court, W.D. Tex. (via CourtListener)
+  date: '2026-10-20'
+  tier: 1
+- title: Docket for 26A560, Mullin v. Friends of the Ruidosa Church (U.S. Supreme Court)
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26a560.html
+  publisher: Supreme Court of the United States
+  date: '2026-10-26'
+  tier: 1
+- title: Application for a Stay of the Injunction, Mullin v. Friends of the Ruidosa Church (filed Oct. 21, 2026)
+  url: https://www.supremecourt.gov/DocketPDF/26/26A560/430290/20261021153649084_Ruidosa_Application_Final.pdf
+  publisher: Supreme Court of the United States
+  date: '2026-10-21'
+  tier: 1
 - title: Memorandum Opinion, ECF 75, Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex. Oct. 14, 2026)
   url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172902145/gov.uscourts.txwd.1172902145.75.0.pdf
   publisher: U.S. District Court, W.D. Tex. (via CourtListener)
@@ -282,3 +417,7 @@ On the merits the opinion turns on a limit in the waiver statute. The Secretary 
 This is a preliminary-injunction opinion, not a merits judgment: the Court says Defendants "only suffer a temporary delay" while it assesses the pending summary judgment motions. And it does not reach the other claims; a footnote says the Court "need not consider likelihood of success on the merits of Plaintiffs’ remaining claims."
 
 On 10/16/26 the government filed a notice (Document 76) saying it "intend to request a stay of the Court’s preliminary injunction from the United States Supreme Court" if this Court has not granted the stay it requested by Wednesday, October 21, 2026. The notice says that if no decision issues by then, Defendants "will treat the absence of a ruling as a constructive denial." That is a stated intention, not a filing: the notice records no application to the Supreme Court. It also reports that "the Court has taken no action on Defendants’ motion or scheduling request."
+
+**Update.** The Court denied the stay. The order of 10/20/26 (Document 78) says: "the Motion to Stay Preliminary Injunction, ECF No. 74, is DENIED." It decided without waiting for the response, writing "Given the urgency of Defendants’ request, the Court considers it without awaiting a response," and found that "Defendants’ likelihood of success on appeal is low."
+
+The Supreme Court docket for No. 26A560 shows the application docketed on "Oct 21 2026" and "submitted to Justice Alito." A response was requested, "due by" 4 p.m. (EDT) on October 29, 2026. The application's own footnote says "An appeal to the court of appeals is not available," so the record shows no Fifth Circuit filing.
