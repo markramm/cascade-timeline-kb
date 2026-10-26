@@ -134,6 +134,114 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- type: date
+  value: October 21
+  span: October 21, 20268:18 PM ET
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: this week began notifying the counties it wants to monitor on Election Day
+  span: The Department of Justice this week began notifying the counties it wants to monitor on Election Day, NPR has learned.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: posture
+  value: Colorado, Florida, Minnesota, Texas and Washington
+  span: Counties in Colorado, Florida, Minnesota, Texas and Washington have received notifications from the Justice Department so far, but the list seems to be growing in real time.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: closer to the election
+  span: A DOJ spokesperson, Kiersten Pels, told NPR those details will be shared "closer to the election."
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: This year, that did not happen initially, according to officials in three states
+  span: This year, that did not happen initially, according to officials in three states who spoke to NPR anonymously because they weren't authorized to speak to the press.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: 64 jurisdictions
+  span: The department under President Biden monitored 64 jurisdictions in 24 states on Election Day in the last midterm year, 2022.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: 24 states
+  span: The department under President Biden monitored 64 jurisdictions in 24 states on Election Day in the last midterm year, 2022.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: '2022'
+  span: The department under President Biden monitored 64 jurisdictions in 24 states on Election Day in the last midterm year, 2022.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-26'
+- type: posture
+  value: Marion and Lake counties
+  span: Federal observers are coming to Indiana’s Marion and Lake counties on Election Day as voters in the two heavily Democratic areas cast their votes.
+  url: https://indianacapitalchronicle.com/2026/10/22/doj-sending-election-observers-to-indianapolis-lake-county/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: didn’t indicate why the counties were selected
+  span: A U.S. Department of Justice email addressed to the Marion County Election Board didn’t indicate why the counties were selected for monitoring.
+  url: https://indianacapitalchronicle.com/2026/10/22/doj-sending-election-observers-to-indianapolis-lake-county/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: only observe
+  span: The DOJ, meanwhile, assured officials that the monitors “only observe.”
+  url: https://indianacapitalchronicle.com/2026/10/22/doj-sending-election-observers-to-indianapolis-lake-county/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-10-26'
+- type: posture
+  value: notified at the same time as the counties
+  span: In previous election cycles, state officials in the states where monitors were assigned were notified at the same time as the counties.
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-10-26'
 tags:
 - election-capture
 - election-monitors
@@ -157,10 +265,41 @@ sources:
   publisher: U.S. District Court, D.D.C.
   date: '2026-10-15'
   tier: 1
+- title: The DOJ begins notifying counties about election monitoring
+  url: https://www.npr.org/2026/10/21/nx-s1-6009896/justice-department-monitors
+  publisher: NPR
+  date: '2026-10-21'
+  tier: 2
+- title: DOJ sending election observers to Indianapolis, Lake County
+  url: https://indianacapitalchronicle.com/2026/10/22/doj-sending-election-observers-to-indianapolis-lake-county/
+  publisher: Indiana Capital Chronicle
+  date: '2026-10-22'
+  tier: 2
 related_events:
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
 coverage: []
+updates:
+- date: '2026-10-21'
+  date_kind: publication date
+  heading: DOJ begins notifying counties it will monitor on Election Day
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 CBS News reported on August 18, 2026 (updated 5:54 PM EDT) that Civil Rights Division head Harmeet Dhillon made the announcement "in remarks to Bloomberg on Monday", which was August 17, 2026 and matches the date the NAACP's court filing gives. CBS says the Justice Department plans 1,000 federal monitors for the midterms; "record" is CBS's word. The Bloomberg article itself sits behind an anti-bot wall and was not read, so the plan is sourced to CBS's report of it and to the NAACP's allegation that Dhillon announced it for the November 3, 2026 general election.
@@ -168,3 +307,9 @@ CBS News reported on August 18, 2026 (updated 5:54 PM EDT) that Civil Rights Div
 CBS's context, attributed to its own sourcing: a DOJ official told CBS there were 289 people sent to polling places in 2022 and 714 in 2024, across 27 states in 86 jurisdictions. Former officials told CBS "a majority of those 714 were DOJ attorneys and staff," with a smaller share from the separate Office of Personnel Management observer program tied to court orders. CBS wrote that it "remains unclear" how the Department can reach 1,000, that the department "will seek federal employees to volunteer," and that "A full list of locations is expected to be made public once the primaries are concluded."
 
 The distinction that matters for what these people may do: the number counts monitors, and by CBS's account of past practice most are Department staff, not court-appointed observers. CBS does not report how many of the 1,000 would be observers. Related: [[2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet]] and [[2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461]].
+
+## Update (2026-10-21, publication date): DOJ begins notifying counties it will monitor on Election Day
+
+NPR reported on October 21 that the Justice Department "this week began notifying the counties it wants to monitor on Election Day." Counties in Colorado, Florida, Minnesota, Texas and Washington had been notified at that point, and a DOJ spokesperson said which jurisdictions would be monitored would be shared "closer to the election." In earlier cycles states were told at the same time as counties; "This year, that did not happen initially, according to officials in three states" who spoke to NPR. For scale, the department monitored 64 jurisdictions in 24 states on Election Day in 2022.
+
+Local reporting then named counties one by one. In Indiana, monitors are assigned to Marion and Lake counties; the department's email to the Marion County Election Board "didn’t indicate why the counties were selected," and the department told officials the monitors "only observe."
