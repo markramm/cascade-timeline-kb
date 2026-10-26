@@ -35,6 +35,12 @@ capture_lanes:
 - Detention Industrial Complex
 - No-Experience Contractor Awards
 - WEXMAC-TITUS Operating Contracts
+corrections:
+- date: '2026-10-26'
+  was: "825,000-square-foot warehouse (Contract Details)"
+  now: "825,620-square-foot warehouse (SDAT above-grade area)"
+  why: "Maryland v. Noem (now captioned State of Maryland v. Mullin), D. Md. 1:26-cv-00733, ECF 1 (complaint filed 2026-02-23), para. 57, quoting the Maryland Department of Assessments and Taxation record: \"MEGA WAREHOUSE\" with \"an above grade area of 825,620 square feet\"; para. 62 quotes a Washington County permit (Aug. 2021) for an \"825,620 sq. ft. one story shell building\"; para. 63 notes the prior owners' brochure says \"825,000 square foot\" (a marketing round figure). RECAP: https://www.courtlistener.com/recap/gov.uscourts.mdd.600507/gov.uscourts.mdd.600507.1.0.pdf. The complaint's quotation of SDAT was read; the SDAT page itself was not separately fetched."
+  found_by: "correction-williamsport-warehouse-square-footage task 2026-10-26"
 ---
 
 On March 7, 2026, ICE awarded **KVG LLC** — a Gettysburg, Pennsylvania-registered contractor with a ~$120 million cumulative federal contracting history over 13 years — a **$113 million** contract to operate a detention facility at the **Williamsport, Maryland** warehouse DHS had purchased from Fundrise for $102.4M on January 27, 2026. The contract includes option provisions extending ceiling value through 2029 to approximately **$641.8 million**. Combined with the companion March 6 GardaWorld Surprise AZ award ([[2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract]]), the two contracts carry combined potential value through 2029 of **~$1.35 billion** — both awarded to operators with no prior ICE detention experience.
@@ -43,7 +49,7 @@ On March 7, 2026, ICE awarded **KVG LLC** — a Gettysburg, Pennsylvania-registe
 
 - **Award date**: March 7, 2026
 - **Awardee**: KVG LLC
-- **Facility**: 825,000-square-foot warehouse at 16220 Wright Road, Williamsport, MD
+- **Facility**: 825,620-square-foot warehouse (Maryland SDAT above-grade area; the prior owners' brochure rounds to 825,000) at 16220 Wright Road, Williamsport, MD
 - **Purchase context**: DHS bought the warehouse from Fundrise for $102.4M, January 27, 2026 ([[2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse]])
 - **Initial contract value**: $113 million
 - **Option-expanded ceiling through 2029**: ~$641.8 million

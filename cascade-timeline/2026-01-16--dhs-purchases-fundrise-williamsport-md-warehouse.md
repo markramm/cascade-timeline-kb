@@ -3,7 +3,7 @@ type: timeline_event
 id: 2026-01-16--dhs-purchases-fundrise-williamsport-md-warehouse
 previous_ids: ["2026-01-27--dhs-purchases-fundrise-williamsport-md-warehouse"]
 date: '2026-01-16'
-title: "DHS Pays Fundrise $102.4M for 830,000 sqft Williamsport, MD Warehouse — Goldman Sachs Refinanced Seller via $352.7M Loan Portfolio; CBRE Brokered"
+title: "DHS Pays Fundrise $102.4M for 825,620 sqft Williamsport, MD Warehouse — Goldman Sachs Refinanced Seller via $352.7M Loan Portfolio; CBRE Brokered"
 importance: 9
 actors:
 - Fundrise
@@ -19,7 +19,7 @@ tags:
 - goldman-sachs
 - williamsport-md
 - cbre
-- 830000-sqft
+- 825620-sqft
 - 1500-beds
 - wexmac-titus
 - goldman-352m-refinancing
@@ -56,17 +56,23 @@ capture_lanes:
 - Detention Industrial Complex
 - Investment Bank Lender Recovery
 - Retail-Investor Real Estate Platform
+corrections:
+- date: '2026-10-26'
+  was: "830,000-square-foot warehouse (title, body, Transaction Details, tag)"
+  now: "825,620 square feet, per the Maryland SDAT record quoted in the state's complaint"
+  why: "Maryland v. Noem (now captioned State of Maryland v. Mullin), D. Md. 1:26-cv-00733, ECF 1 (complaint filed 2026-02-23), para. 57, quoting the Maryland Department of Assessments and Taxation record: \"MEGA WAREHOUSE\" with \"an above grade area of 825,620 square feet\"; para. 62 quotes a Washington County permit (Aug. 2021) for an \"825,620 sq. ft. one story shell building\"; para. 63 notes the prior owners' brochure says \"825,000 square foot\" (a marketing round figure). RECAP: https://www.courtlistener.com/recap/gov.uscourts.mdd.600507/gov.uscourts.mdd.600507.1.0.pdf. The complaint's quotation of SDAT was read; the SDAT page itself was not separately fetched."
+  found_by: "correction-williamsport-warehouse-square-footage task 2026-10-26"
 ---
 
 > **Correction, 2026-08-27**: This entry's filename/id originally carried the January 27 date (the date the transaction was first *publicly reported*); on 2026-10-17 the filename and id were corrected to 2026-01-16 and the old id kept in `previous_ids`, so published links still resolve. The actual **purchase/deed date is January 16, 2026** — the deed was recorded January 22 and reported January 27. Canon's `date:` field above has been corrected to 2026-01-16 to match. Source: signed memorandum opinion, *State of Maryland v. Mullin*, 1:26-cv-00733-BAH (D. Md.), ECF 43 at 2 ("On January 16, 2026, DHS and ICE purchased the Williamsport Warehouse... for $102.4 million"), corroborated by the deed's January 15, 2026 notarization and the REC's January 15 signature timestamp (after 4:00 p.m.). Planned capacity is also corrected below: ICE's own Record of Environmental Consideration states the facility is "designed to accommodate up to **542** detainees" — not the 1,500 previously stated here, which is the *ceiling* figure from a separate, later-stage internal comment ("could ultimately house 1,500 detainees") rather than the REC's operative design capacity.
 
-In mid-to-late January 2026, **Fundrise** — the retail-facing real-estate crowdfunding platform based in Washington, DC — sold an 830,000-square-foot warehouse in Williamsport, Maryland to the U.S. Department of Homeland Security for **$102.4 million**, with the deed dated January 16, 2026 (recorded January 22; first publicly reported January 27 — the date this entry's filename retains for URL stability). The sale represented a ~33% markup over the property's prior valuation. The transaction was **brokered by CBRE Group** (the global commercial real-estate brokerage). The selling entity's asset was **previously refinanced by Goldman Sachs** as part of a documented **$352.7 million Goldman loan portfolio** covering 12 Fundrise properties (see [[goldman-352m-loan-portfolio]] in detention-industrial KB). ICE's own Record of Environmental Consideration states the Williamsport facility is designed to accommodate **up to 542 detainees**; a separate internal DHS comment says the facility "could ultimately house" up to 1,500 if capacity is later expanded (a ceiling, not the REC's operative design figure).
+In mid-to-late January 2026, **Fundrise** — the retail-facing real-estate crowdfunding platform based in Washington, DC — sold an 825,620-square-foot warehouse (Maryland's tax-assessment record, as quoted in the state's complaint; earlier coverage rounded it to 830,000) in Williamsport, Maryland to the U.S. Department of Homeland Security for **$102.4 million**, with the deed dated January 16, 2026 (recorded January 22; first publicly reported January 27 — the date this entry's filename retains for URL stability). The sale represented a ~33% markup over the property's prior valuation. The transaction was **brokered by CBRE Group** (the global commercial real-estate brokerage). The selling entity's asset was **previously refinanced by Goldman Sachs** as part of a documented **$352.7 million Goldman loan portfolio** covering 12 Fundrise properties (see [[goldman-352m-loan-portfolio]] in detention-industrial KB). ICE's own Record of Environmental Consideration states the Williamsport facility is designed to accommodate **up to 542 detainees**; a separate internal DHS comment says the facility "could ultimately house" up to 1,500 if capacity is later expanded (a ceiling, not the REC's operative design figure).
 
 A judge has since **extended a restraining order against ICE detention operations at the Williamsport facility**; Maryland state officials have publicly challenged the site's conversion; and a separate April 15, 2026 NEPA-based judicial halt on construction is documented at [[2026-04-15--judge-halts-williamsport-ice-construction-nepa]].
 
 ## Transaction Details
 
-- **Property**: 830,000 sqft warehouse in Williamsport, MD (Washington County)
+- **Property**: 825,620 sqft warehouse (above-grade area per Maryland SDAT, quoted in Maryland v. Noem, ECF 1 para. 57; the 830,000 figure in early coverage is a rounding) in Williamsport, MD (Washington County)
 - **Seller**: Fundrise entity
 - **Broker**: CBRE Group
 - **Lender to seller**: Goldman Sachs (via $352.7M 12-property loan portfolio)
