@@ -170,6 +170,51 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- type: date
+  value: October 22, 2026
+  span: Minute Entry for Motion Hearing held before Judge Sparkle L. Sooknanan on October 22, 2026.
+  url: https://www.courtlistener.com/docket/74912693/national-association-for-the-advancement-of-colored-people-v-dhillon/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: For the reasons stated on the record, the Court DENIES the Plaintiff's 5 Motion.
+  span: For the reasons stated on the record, the Court DENIES the Plaintiff's 5 Motion.
+  url: https://www.courtlistener.com/docket/74912693/national-association-for-the-advancement-of-colored-people-v-dhillon/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: attribution
+  value: The Court heard argument on the Plaintiff's 5 Motion for Temporary Restraining Order
+  span: The Court heard argument on the Plaintiff's 5 Motion for Temporary Restraining Order.
+  url: https://www.courtlistener.com/docket/74912693/national-association-for-the-advancement-of-colored-people-v-dhillon/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: narrowing the scope of the FOIA request at issue
+  span: The Parties are directed to meet and confer to discuss narrowing the scope of the FOIA request at issue, and to file a joint status report by October 26, 2026, updating the Court as to their efforts at narrowing and outlining any remaining disagreements.
+  url: https://www.courtlistener.com/docket/74912693/national-association-for-the-advancement-of-colored-people-v-dhillon/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: October 26, 2026
+  span: The Parties are directed to meet and confer to discuss narrowing the scope of the FOIA request at issue, and to file a joint status report by October 26, 2026, updating the Court as to their efforts at narrowing and outlining any remaining disagreements.
+  url: https://www.courtlistener.com/docket/74912693/national-association-for-the-advancement-of-colored-people-v-dhillon/
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
 tags:
 - election-capture
 - election-monitors
@@ -204,6 +249,20 @@ related_events:
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
 - 2026-10-16--all-parties-tell-alikhan-consolidation-appropriate-lulac-naacp-dscc-polling-place-suits-joint-status-report
 coverage: []
+updates:
+- date: '2026-10-22'
+  date_kind: hearing and ruling date
+  heading: Judge Sooknanan denies the NAACP's emergency TRO motion from the bench
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-election-monitors-what-they-may-do
 ---
 
 The NAACP sued the Civil Rights Division and Harmeet Dhillon in the D.D.C. (No. 1:26-cv-03461, Judge Sparkle L. Sooknanan) on October 2, 2026 (the filing date, per the government's opposition), under the Freedom of Information Act, and seeks a Writ of Mandamus under 28 U.S.C. 1361. Its FOIA request, dated September 1, 2026, lists categories of records about DOJ election monitors; one is "Legal authority, if any, of the Department of Justice to deploy 'election monitors'". Others cover final legal advice, complaints, deployment locations, training materials, written consents from jurisdictions, and whether federal law-enforcement personnel serve as monitors. The Division acknowledged the request by email on September 21, 2026 (the acknowledgment date, per the complaint), saying it "may encounter delays." The NAACP says that is not the determination FOIA requires.
@@ -215,3 +274,7 @@ The government's opposition, filed 10/13/26, argues "Plaintiff did not seek expe
 Docket status from the CourtListener record read via API (RECAP copy as of the 10/19/2026 minute orders; the orders are in the docket data, not stored as PDFs): a minute order signed 10/19/2026 sets a hearing on the NAACP's emergency motion for a temporary restraining order for October 22, 2026, at 10:00 AM, and another orders any government sur-reply by October 21, 2026. No ruling had been entered as of that read; the outcome of the October 22 hearing is not yet recorded and belongs here once known.
 
 Function: this is the filing in which the Department is asked on the record what authority it claims for staff monitors. Until it answers, the question rests on its public releases. The case is separate from the D.D.C. polling-place suits against DHS and ICE ([[2026-10-16--all-parties-tell-alikhan-consolidation-appropriate-lulac-naacp-dscc-polling-place-suits-joint-status-report]]). Context: [[2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg]], [[2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet]].
+
+## Update (2026-10-22, hearing and ruling date): Judge Sooknanan denies the NAACP's emergency TRO motion from the bench
+
+At the October 22, 2026 hearing (the hearing date), Judge Sparkle L. Sooknanan heard argument on the NAACP's emergency motion and denied it from the bench. The docket's minute entry says: "For the reasons stated on the record, the Court DENIES the Plaintiff's 5 Motion." No written opinion is on the docket; the grounds were stated orally. The court directed the parties to confer on "narrowing the scope of the FOIA request at issue" and to file a joint status report by October 26, 2026.

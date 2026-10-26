@@ -117,6 +117,69 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-25'
+- type: date
+  value: October 25, 2026
+  span: I hereby certify that on October 25, 2026, I filed a true and correct copy of the foregoing document
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: attribution
+  value: Proposed Intervenors Alaskans for Mary and DSCC respectfully move for leave
+  span: Proposed Intervenors Alaskans for Mary and DSCC respectfully move for leave to file their proposed Motion to Dismiss, attached hereto as Exhibit 1.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: The NVRA provides no legal basis for DOJ’s claim.
+  span: The NVRA provides no legal basis for DOJ’s claim.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: DOJ has no other legal authority to interfere with Alaska’s election.
+  span: DOJ has no other legal authority to interfere with Alaska’s election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: emergency motion to expedite
+  span: Proposed Intervenors Alaskans for Mary and DSCC respectfully file this emergency motion to expedite the Court’s consideration of their Motion to Intervene
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.9.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: by 5:00 p.m. AKDT on Tuesday, October 27
+  span: to simultaneously respond to all three motions by 5:00 p.m. AKDT on Tuesday, October 27
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.9.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: dismiss the case this week
+  span: by Wednesday at 12:00 p.m., and dismiss the case this week.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.9.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-26'
 tags:
   - election-2026
   - certification
@@ -156,11 +219,46 @@ sources:
     publisher: CNBC
     date: '2026-10-23'
     tier: 2
+  - title: Motion for Leave to File Motion to Dismiss (Alaskans for Mary and DSCC), ECF 8, U.S. v. State of Alaska, No. 3:26-cv-00376-SLG (D. Alaska)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.0.pdf
+    publisher: U.S. District Court, District of Alaska (via RECAP)
+    date: '2026-10-25'
+    tier: 1
+  - title: Proposed Motion to Dismiss, ECF 8-1
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.8.1.pdf
+    publisher: U.S. District Court, District of Alaska (via RECAP)
+    date: '2026-10-25'
+    tier: 1
+  - title: Emergency Motion to Expedite Consideration, ECF 9
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.9.0.pdf
+    publisher: U.S. District Court, District of Alaska (via RECAP)
+    date: '2026-10-25'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
+updates:
+- date: '2026-10-25'
+  date_kind: filing date
+  heading: Alaskans for Mary and the DSCC file a proposed motion to dismiss and ask the court to expedite
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-alaska-senate-certification-suit
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
 
 On 10/23/26, Alaskans for Mary and the DSCC moved to intervene, and the League of Women Voters of Alaska, Common Cause and individual voters moved to intervene as defendants. The suit sets up a post-election certification fight before any ballots are counted, through the Justice Department's own civil enforcement power.
+
+## Update (2026-10-25, filing date): Alaskans for Mary and the DSCC file a proposed motion to dismiss and ask the court to expedite
+
+On October 25, 2026 (the filing date), Alaskans for Mary and the DSCC, still proposed intervenors, moved for leave to file a motion to dismiss, attached as an exhibit. That proposed motion argues "The NVRA provides no legal basis for DOJ’s claim" and "DOJ has no other legal authority to interfere with Alaska’s election." A companion filing, styled an "emergency motion to expedite," asks the court to order DOJ to respond to the intervention motion, the leave motion and the proposed motion to dismiss "by 5:00 p.m. AKDT on Tuesday, October 27" and to "dismiss the case this week." These are a proposed party's arguments, not rulings.

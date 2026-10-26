@@ -318,6 +318,109 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- type: date
+  value: October 24, 2026
+  span: 'Filed 10/24/26 Dated: October 24, 2026 Page 9 of 9 Page ID Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: has demonstrated that it is deeply flawed
+  span: Recent developments may help contextualize Plaintiff’s specious claim 6 further. First, Los Angeles County’s sampling of the federal government’s list of 7 supposed noncitizen registrants has demonstrated that it is deeply flawed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: less than half
+  span: 32-3 at ¶ 24. Of the individuals in the sample, less than half have active voter 9 registration records, over a third have canceled registrations, and nearly three- 10 quarters of the list have never voted.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: active voter
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: over a third
+  span: 32-3 at ¶ 24. Of the individuals in the sample, less than half have active voter 9 registration records, over a third have canceled registrations, and nearly three- 10 quarters of the list have never voted.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: canceled registrations
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: nearly three-
+  span: 32-3 at ¶ 24. Of the individuals in the sample, less than half have active voter 9 registration records, over a third have canceled registrations, and nearly three- 10 quarters of the list have never voted.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: never voted
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: over a third
+  span: Id. Additionally, among those for whom 11 birthplace was reported, over a third indicated they were born in the United States.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: born in the United States
+  id: u6
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: October 23
+  span: instead. On October 23, federal agents delivered a thumb drive to the Secretary’s 2 Office, presumably containing the list.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: presumably containing the list
+  span: instead. On October 23, federal agents delivered a thumb drive to the Secretary’s 2 Office, presumably containing the list.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: October 27, 2026
+  span: 'STATE DEFENDANTS’ Plaintiff, SUPPLEMENTAL OPPOSITION TO PLAINTIFF’S APPLICATION v. FOR A TEMPORARY RESTRAINING ORDER STATE OF CALIFORNIA and SHIRLEY N. WEBER, in her official Date: October 27, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: 1:00 p.m.
+  span: 'capacity as the California Secretary Time: 1:00 p.m. of State, and DEAN C. LOGAN, in Courtroom: 1'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-26'
+- type: attribution
+  value: Hon. David O. Carter
+  span: 'Courtroom: 1 his official capacity as the County of Judge: Hon. David O. Carter Los Angeles Registrar-Recorder /'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-10-26'
 tags:
   - electoral-manipulation
   - voter-rolls
@@ -354,9 +457,34 @@ sources:
     publisher: U.S. District Court, C.D. Cal. (via RECAP)
     date: '2026-10-19'
     tier: 1
+  - title: State Defendants' Supplemental Opposition to Plaintiff's Application for a TRO, ECF 97, United States v. California, No. 2:26-cv-12025-DOC-ADS (C.D. Cal.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.97.0.pdf
+    publisher: U.S. District Court, C.D. Cal. (via RECAP)
+    date: '2026-10-24'
+    tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
   title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
+updates:
+- date: '2026-10-24'
+  date_kind: filing date
+  heading: California's supplemental opposition cites Los Angeles County's sample of the federal list
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: bought-or-received-california-voter-roll
 ---
 
 The Justice Department filed an ex parte application for a temporary restraining order and an order to show cause why a preliminary injunction should not issue in United States v. California, No. 2:26-cv-12025 (filing date 10/19/26, ECF 22-2). The memorandum asks the court to grant relief by November 3, 2026 (the requested-ruling deadline, before the end of voting) ordering California to set aside vote-by-mail ballots of voters on the federal list. It says DHS components narrowed a preliminary list of over 175,000 potential noncitizen voters to the final list. It says that "Just this morning" the United States "charged dozens" of noncitizens, and that "Every single one" of those charged is on the list; that case is [[2026-10-19--operation-protect-the-vote-28-lprs-charged-11-arrested-doj-says-all-on-20000-list]].
@@ -364,3 +492,7 @@ The Justice Department filed an ex parte application for a temporary restraining
 Eric McLoughlin, HSI Assistant Director for the Cyber and Operational Technology section, declares that his office "received what appeared to be the California voter roster" and that he believes the file reflects the rolls "as of August 2025" (the file's as-of date), without naming who supplied the roster. On October 13, 2026 (delivery date) he helped deliver to DOJ a list of "just over 20,000 individuals" HSI believes are registered, were sent a mail ballot and are noncitizens; an HSI agent took it to the Los Angeles County registrar on "an encrypted hard drive." A footnote says USCIS flagged "approximately 189 records with minor data discrepancies" on that list. Nicolas Bartell, Associate Director of the USCIS Fraud Detection and National Security Directorate (FDNS), submitted his declaration to "outline how USCIS identifies potential noncitizens" on voter rolls. He says the process is "distinct from the Systematic Alien Verification for" Entitlements (SAVE) program, enhances voter data through "a reliable third-party data analytics" and investigative platform that he does not name, and screens matches against Department of State and Social Security data. He says FDNS received the rolls from HSI "On or around May 8, 2026" (receipt date) and that USCIS has a further "separate batch of more than 17,000" records under review.
 
 Exhibit A is LA County Counsel's letter of October 15, 2026 (letter date). It says the DOJ letter came with "a USB flash drive" and "a sticky note with a handwritten password"; that the file held "20,000+ individuals" across the State and was "not a distinct list" for the county; and that the letter "does not provide any information on how the Government compiled the list." Exhibit B, Secretary of State Weber's letter, recalls the July 16, 2026 DHS letter alleging "over 190,000" noncitizen registrants and calls the new list "a fraction of Secretary Mullin's initial allegation." Earlier steps: [[2026-10-13--doj-letters-give-california-48-hours-on-likely-noncitizen-list-demand-la-county-segregate-ballots]], [[2026-10-15--doj-sues-california-weber-la-county-logan-cd-cal-2-26-cv-12025-block-tabulating-ballots-of-20000-flagged-voters]], [[2026-10-16--calif-and-la-county-oppose-doj-related-case-notice-two-civil-rights-coalitions-move-to-intervene-us-v-california]], [[2026-10-16--doj-mccotter-letter-to-la-county-counsel-tabulating-flagged-ballots-risks-aiding-and-abetting-federal-crime]]. Related: [[2026-07-16--dhs-mullin-writes-california-up-to-190832-noncitizens-may-be-registered]]; [[2026-09-14--whistleblower-disclosure-uscis-fdns-unlawful-voter-initiative-state-voter-sites-12-minute-quota]].
+
+## Update (2026-10-24, filing date): California's supplemental opposition cites Los Angeles County's sample of the federal list
+
+In a supplemental opposition dated October 24, 2026 (the filing date), California and Secretary of State Shirley N. Weber told Judge David O. Carter that Los Angeles County's sampling of the federal list "has demonstrated that it is deeply flawed." Citing the county's filing, the State says that in the sample less than half have active voter registration records, over a third have canceled registrations and nearly three-quarters have never voted, and that over a third of those whose birthplace was reported said they were born in the United States. It also says federal agents delivered a thumb drive to the Secretary's office on October 23, "presumably containing the list." These are the State's characterizations of the county's sample, not findings. The brief's caption gives the hearing as October 27, 2026 at 1:00 p.m.
