@@ -21,6 +21,8 @@ tags:
 - laredo
 - geo-group
 sources:
+- url: https://www.ice.gov/news/releases/criminal-alien-mexico-passes-away-ice-custody-texas
+  title: Criminal alien from Mexico passes away in ICE custody in Texas, ICE detainee death notification, Oct 20, 2026
 - url: https://foxsanantonio.com/news/local/migrant-found-dead-at-laredo-ice-facility
   title: Migrant found dead at Laredo ICE facility, The Texas Tribune (via Fox San Antonio), Oct 19, 2026, updated 6:03 PM; reproduces ICE's full statement
 - url: https://www.fox4news.com/news/family-demands-answers-after-dallas-man-dies-laredo-immigration-detention
@@ -204,6 +206,21 @@ claims:
   url: https://foxsanantonio.com/news/local/migrant-found-dead-at-laredo-ice-facility
   read: fetched
   source_kind: secondary
+- id: c23
+  type: attribution
+  value: a lawful permanent resident
+  span: Andrade, a lawful permanent resident, was determined to have obtained status through fraudulent means by failing to disclose his previous arrest during the review process.
+  url: https://www.ice.gov/news/releases/criminal-alien-mexico-passes-away-ice-custody-texas
+  read: fetched
+  source_kind: primary
+- id: c24
+  type: attribution
+  value: The Consulate of Mexico was notified.
+  qualifier: notified
+  span: The Consulate of Mexico was notified.
+  url: https://www.ice.gov/news/releases/criminal-alien-mexico-passes-away-ice-custody-texas
+  read: fetched
+  source_kind: primary
 event_date_claim: c1
 ---
 
@@ -213,4 +230,6 @@ His daughter, 29, a U.S. citizen, told the Tribune that her father had a heart c
 
 On his status and the arrest, the family and DHS give different accounts. DHS says he was arrested at the Laredo port of entry on June 26, 2026 for allegedly not disclosing a 2004 theft arrest when applying for status, and did not say whether he was convicted; the family says he was a lawful permanent resident. He is the second death in a Laredo ICE facility this year after Felix Alcorta-Rodriguez (June 19), and the family told the Tribune they learned of the death from the Webb County Medical Examiner, not from a federal agency.
 
-Not established here: the cause of death, whether medication was withheld, and ICE's formal detainee-death posting and notice to Congress. The New York Times story (Oct 19) that prompted this entry was paywalled and not read.
+ICE's own detainee death notification confirms the date, the 9:48 a.m. and 10:10 a.m. times and the unknown cause, and itself describes him as a lawful permanent resident (while saying he was found to have obtained status through fraudulent means by not disclosing an earlier arrest), which settles the point on which the family and DHS had appeared to differ; the dispute that remains is over the arrest's basis and over his medical care. The notification says the Consulate of Mexico was notified.
+
+Not established here: the cause of death, whether medication was withheld, and ICE's posting on the Detainee Death Reporting page (its newest entry lags the news releases). The New York Times story (Oct 19) that prompted this entry was paywalled and not read.
