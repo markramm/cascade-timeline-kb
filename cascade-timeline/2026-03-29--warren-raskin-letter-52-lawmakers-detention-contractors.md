@@ -70,6 +70,11 @@ capture_lanes:
 - Detention Industrial Complex
 - Warren-Raskin Probe
 corrections:
+- date: '2026-10-26'
+  was: "$102.4 million paid for an 830,000-square-foot warehouse in Williamsport, Maryland"
+  now: "$102.4 million paid for a Williamsport, MD warehouse that Salon put at 830,000 sq ft; Maryland SDAT gives 825,620"
+  why: "Maryland v. Noem (now captioned State of Maryland v. Mullin), D. Md. 1:26-cv-00733, ECF 1 (complaint filed 2026-02-23), para. 57, quoting the Maryland Department of Assessments and Taxation record: \"MEGA WAREHOUSE\" with \"an above grade area of 825,620 square feet\"; para. 62 quotes a Washington County permit (Aug. 2021) for an \"825,620 sq. ft. one story shell building\"; para. 63 notes the prior owners' brochure says \"825,000 square foot\" (a marketing round figure). RECAP: https://www.courtlistener.com/recap/gov.uscourts.mdd.600507/gov.uscourts.mdd.600507.1.0.pdf. The complaint's quotation of SDAT was read; the SDAT page itself was not separately fetched."
+  found_by: "correction-williamsport-warehouse-square-footage task 2026-10-26"
 - date: '2026-10-08'
   was: "- **Target of ~100,000 beds by November 2026** — ICE's Detention Reengineering Initiative capacity goal"
   now: "- **Capacity goal**: the letters cite ICE's plan to \"increase bed capacity to 92,600 beds\" nationwide and \"activate all facilities by November 30, 2026\"; the press release describes the system as built to \"hold nearly 100,000 people by November 2026\""
@@ -176,7 +181,7 @@ Per the press release and cover letter language, each company was asked to provi
 
 - **$38.3 billion** total Trump administration budget for the warehouse detention expansion
 - **$129 million** paid for a Georgia detention facility (approximately 5x prior assessed value) — the Social Circle, GA warehouse sold by PNK S1 LLC
-- **$102.4 million** paid for an **830,000-square-foot warehouse in Williamsport, Maryland** (new data point from Salon coverage)
+- **$102.4 million** paid for a **warehouse in Williamsport, Maryland** that Salon coverage put at 830,000 square feet; Maryland's tax-assessment record gives 825,620 (new data point from Salon coverage)
 - **Capacity goal**: the letters cite ICE's plan to "increase bed capacity to 92,600 beds" nationwide and "activate all facilities by November 30, 2026"; the press release describes the system as built to "hold nearly 100,000 people by November 2026"
 - **Merrimack, NH facility** referenced in the Detention Reengineering Initiative documentation
 
