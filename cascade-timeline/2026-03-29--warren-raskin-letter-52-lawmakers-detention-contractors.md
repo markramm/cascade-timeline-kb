@@ -71,6 +71,11 @@ capture_lanes:
 - Warren-Raskin Probe
 corrections:
 - date: '2026-10-26'
+  was: "$102.4 million paid for a warehouse in Williamsport, Maryland ... cited in the letters"
+  now: "Removed from this entry. The PNK letter names Maryland only in a list of states where ICE has acquired warehouses; it does not cite a Williamsport price or square footage."
+  why: "Read the PNK letter PDF (Wayback id_ capture of the senate.gov file) in full; no Williamsport, $102.4 million, 830,000 or 825,620 appears. The square-footage correction below (Maryland v. Noem complaint) stands as a record of the earlier text."
+  found_by: "repair-rebind task 2026-10-26"
+- date: '2026-10-26'
   was: "$102.4 million paid for an 830,000-square-foot warehouse in Williamsport, Maryland"
   now: "$102.4 million paid for a Williamsport, MD warehouse that Salon put at 830,000 sq ft; Maryland SDAT gives 825,620"
   why: "Maryland v. Noem (now captioned State of Maryland v. Mullin), D. Md. 1:26-cv-00733, ECF 1 (complaint filed 2026-02-23), para. 57, quoting the Maryland Department of Assessments and Taxation record: \"MEGA WAREHOUSE\" with \"an above grade area of 825,620 square feet\"; para. 62 quotes a Washington County permit (Aug. 2021) for an \"825,620 sq. ft. one story shell building\"; para. 63 notes the prior owners' brochure says \"825,000 square foot\" (a marketing round figure). RECAP: https://www.courtlistener.com/recap/gov.uscourts.mdd.600507/gov.uscourts.mdd.600507.1.0.pdf. The complaint's quotation of SDAT was read; the SDAT page itself was not separately fetched."
@@ -106,157 +111,246 @@ corrections:
   why: "https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf Q13 — 'Will you commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation?'; no question asks about exit provisions"
   found_by: "timeline fact-check slice 1 2026-10-08"
 verification: captured
+event_date_claim: c2
+
 claims:
 - id: c0
   type: figure
-  value: "92,600 beds"
-  qualifier: "increase bed capacity"
-  span: "increase bed capacity to 92,600 beds"
-  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  value: "52"
+  qualifier: "members led"
+  span: "led 52 members of Congress in a new investigation"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c1
+  type: figure
+  value: "six companies"
+  qualifier: ""
+  span: "The lawmakers wrote to six companies"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: date
+  value: "March 29, 2026"
+  qualifier: ""
+  span: "March 29, 2026 Andrey Sharkov Founder & Owner PNK Group 17 State St, Floor 39 New York, NY 10004 Dear Mr. Sharkov:"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
   read: fetched
   source_kind: primary
-- id: c1
+- id: c3
+  type: date
+  value: "March 30, 2026"
+  qualifier: ""
+  span: "March 30, 2026 Warren, Raskin Lead 45+ Lawmakers"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: date
+  value: "April 13, 2026"
+  qualifier: ""
+  span: "we ask that you provide answers to the following questions by April 13, 2026"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c5
+  type: quote
+  value: "These warehouses were built to hold products, not people"
+  qualifier: ""
+  span: "These warehouses were built to hold products, not people."
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c6
+  type: quote
+  value: "Placing thousands of people in warehouses that were never intended to house human beings will only exacerbate these problems"
+  qualifier: ""
+  span: "Placing thousands of people in warehouses that were never intended to house human beings will only exacerbate these problems."
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c7
+  type: figure
+  value: "$38.3 billion"
+  qualifier: ""
+  span: "The Trump Administration plans to spend $38.3 billion on its warehouse system."
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c8
+  type: quote
+  value: "increase bed capacity to 92,600 beds"
+  qualifier: ""
+  span: "ICE plans to use the warehouses to “increase bed capacity to 92,600 beds” nationwide"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c9
+  type: quote
+  value: "activate all facilities by November 30, 2026"
+  qualifier: ""
+  span: "“activate all facilities by November 30, 2026”"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c10
+  type: quote
+  value: "hold nearly 100,000 people by November 2026"
+  qualifier: ""
+  span: "a warehouse system to hold nearly 100,000 people by November 2026"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c11
+  type: quote
+  value: "Prime, but with human beings"
+  qualifier: ""
+  span: "like [Amazon] Prime, but with human beings"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c12
+  type: quote
+  value: "close to $1 billion"
+  qualifier: ""
+  span: "Already, DHS has spent close to $1 billion acquiring warehouses from owners such as PNK S1 LLC Group"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c13
   type: quote
   value: "a subsidiary of a Russian-founded industrial developer"
   qualifier: "PNK S1 LLC Group"
   span: "PNK S1 LLC Group (a subsidiary of a Russian-founded industrial developer)"
-  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
   read: fetched
   source_kind: primary
-- id: c2
+- id: c14
   type: quote
   value: "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year"
   qualifier: ""
   span: "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year"
-  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
   read: fetched
   source_kind: primary
-- id: c3
-  type: "quote"
-  value: "Raphael Warnock (D-Ga.) joined in signing the letters"
-  qualifier: ""
-  span: "and Raphael Warnock (D-Ga.) joined in signing the letters"
-  url: https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
-  read: fetched
-  source_kind: secondary
-- id: c4
+- id: c15
   type: quote
-  value: "to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation"
+  value: "WEXMAC 2.2 TITUS"
+  qualifier: "contract vehicle"
+  span: "The contract award vehicle, known as WEXMAC 2.2 TITUS, allows ICE to bypass competitive bidding"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c16
+  type: quote
+  value: "commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation"
   qualifier: ""
   span: "Will you commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation?"
-  url: https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
   read: fetched
   source_kind: primary
+- id: c17
+  type: quote
+  value: "Border Czar” Tom Homan reportedly trading promises of assistance with obtaining immigration contracts in exchange for a bag of $50,000 in cash"
+  qualifier: ""
+  span: "“Border Czar” Tom Homan reportedly trading promises of assistance with obtaining immigration contracts in exchange for a bag of $50,000 in cash"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c18
+  type: quote
+  value: "reportedly requesting that the immigration contractor GEO Group pay him"
+  qualifier: ""
+  span: "reportedly requesting that the immigration contractor GEO Group pay him"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/imo/media/doc/letter_from_sen_warren_repraskinlawmakerstopnkgrouponinvolvementindetentionwarehousesystem.pdf
+  read: fetched
+  source_kind: primary
+- id: c19
+  type: quote
+  value: "Senators Edward Markey (D-MA), Bernard Sanders (D-VT), Richard Blumenthal (D-Conn.), Chris Van Hollen (D-Md.), Mark Kelly (D-Ariz.), Cory Booker (D-N.J.), Andy Kim (D-N.J.), and Raphael Warnock (D-Ga.) joined in signing the letters"
+  qualifier: ""
+  span: "Senators Edward Markey (D-MA), Bernard Sanders (D-VT), Richard Blumenthal (D-Conn.), Chris Van Hollen (D-Md.), Mark Kelly (D-Ariz.), Cory Booker (D-N.J.), Andy Kim (D-N.J.), and Raphael Warnock (D-Ga.) joined in signing the letters"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c20
+  type: quote
+  value: "David Venturella"
+  qualifier: ""
+  span: "David Venturella, who recently joined ICE after leaving the GEO Group"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
+- id: c21
+  type: quote
+  value: "Pam Bondi is also a former lobbyist for the GEO Group"
+  qualifier: ""
+  span: "Attorney General Pam Bondi is also a former lobbyist for the GEO Group"
+  url: https://web.archive.org/web/2026id_/https://www.warren.senate.gov/newsroom/press-releases/warren-raskin-lead-45-lawmakers-in-investigating-contractors-real-estate-firms-involved-in-trumps-expansion-of-inhumane-warehouse-detention-centers
+  read: fetched
+  source_kind: secondary
 ---
 
-On March 29, 2026, Senator Elizabeth Warren (D-MA, Ranking Member of the Senate Banking Committee) and Representative Jamie Raskin (D-MD, Ranking Member of the House Judiciary Committee), leading a coalition of 52 Congressional Democrats (8 senators + 44 representatives), sent formal inquiry letters to **six detention contractors and real estate firms** involved in the Trump administration's warehouse-based ICE detention expansion. The press release was published March 30, 2026, with a response deadline of **April 13, 2026**.
+On March 29, 2026, Senator Elizabeth Warren and Representative Jamie Raskin sent letters to six companies about the administration's warehouse-based ICE detention expansion. The press release is dated March 30, 2026. The letters ask for answers by April 13, 2026. The pair led 52 members of Congress in the inquiry.
 
 ## Recipients
 
-| Company | Role in Buildout |
-|---|---|
-| **PNK Group** (Andrey Sharkov) | Seller, Social Circle GA warehouse ($128.5M) |
-| **CoreCivic** | Private detention operator |
-| **GEO Group** | Private detention operator |
-| **GardaWorld Federal Services** | Detention operator |
-| **Newmark Group** | Real estate brokerage |
-| **KVG LLC** | Real estate firm |
+- **PNK Group** (Andrey Sharkov)
+- **CoreCivic**
+- **GEO Group**
+- **GardaWorld Federal Services**
+- **Newmark Group**
+- **KVG LLC**
 
 ## Signatories
 
-**Senators (9):** Warren (lead), Markey (MA), Sanders (VT), Blumenthal (CT), Van Hollen (MD), Kelly (AZ), Booker (NJ), Kim (NJ), Warnock (GA).
+Names as listed in the press release. Warren and Raskin lead. Press release: "Senators Edward Markey (D-MA), Bernard Sanders (D-VT), Richard Blumenthal (D-Conn.), Chris Van Hollen (D-Md.), Mark Kelly (D-Ariz.), Cory Booker (D-N.J.), Andy Kim (D-N.J.), and Raphael Warnock (D-Ga.) joined in signing the letters" Representatives on the list: Ansari, Balint, Brownley, Casten, Castro, Cherfilus-McCormick, Chu, Crockett, Dean, DeGette, Dexter, Escobar, Frost, Garcia (Jesus), Garcia (Sylvia), Goldman, Ivey, Jayapal, Johnson, Kamlager-Dove, Kelly (Robin), Lofgren, McClain Delaney, McClellan, McGovern, Menendez, Moulton, Nadler, Neguse, Norton, Omar, Ross, Ryan, Salinas, Scanlon, Schakowsky, Stansbury, Swalwell, Tlaib, Underwood, Ramirez, Beyer and Walkinshaw.
 
-**Representatives (44):** Raskin (lead), Ansari, Balint, Brownley, Casten, Castro, Cherfilus-McCormick, Chu, Crockett, Dean, DeGette, Dexter, Escobar, Frost, García (Jesús), Garcia (Sylvia), Goldman, Ivey, Jayapal, Johnson, Kamlager-Dove, Kelly (Robin), Lofgren, McClain Delaney, McClellan, McGovern, Menendez, Moulton, Nadler, Neguse, Norton, Omar, Ross, Ryan, Salinas, Scanlon, Shakowsky, Stansbury, Swalwell, Tlaib, Underwood, Ramirez, Beyer, Walkinshaw.
+## What the letters ask
 
-## Questions Asked of Each Recipient
+Question 13 of the PNK letter asks whether the recipient will "commit to not allowing your goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation." Other questions in the same letter ask about the recipient's role, expected profit margin, lobbying, and donations to Trump campaigns, affiliated committees, and cabinet or administration appointees.
 
-Per the press release and cover letter language, each company was asked to provide:
+## Specific facts cited in the PNK letter
 
-1. **Roles in the warehouse expansion projects** — specific properties, contracts, and services
-2. **Expected profit margins from the project**
-3. **Campaign donations or contributions to Trump officials** — direct and indirect
-4. **Commitment** — whether they will "commit to not allowing [their] goods, services, or property to be used to facilitate the operation of a warehouse that lacks the basic necessities for human habitation" (Q13)
+- **Planned spend**: $38.3 billion is the amount the administration plans to spend on the warehouse system.
+- **Georgia facility**: "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year." The letter does not name PNK as that facility's seller or compare the price with PNK's own acquisition price (see [[2026-01-09--pnk-social-circle-dhs-detention-sale]] for the sale).
+- **Capacity goal**: ICE plans to "increase bed capacity to 92,600 beds" and "activate all facilities by November 30, 2026"; the press release describes a system to "hold nearly 100,000 people by November 2026."
+- **Acquisitions**: the letter puts DHS spending at "close to $1 billion" on warehouses bought from owners such as PNK S1 LLC Group and the PCCP real estate firm, and describes PNK S1 LLC Group as "a subsidiary of a Russian-founded industrial developer." It says nothing about Sharkov's citizenship or when PNK left Russia.
+- **Procurement vehicle**: the letter says the contract vehicle, "WEXMAC 2.2 TITUS", lets ICE bypass competitive bidding. The letter does not tie PNK's sale to that vehicle.
 
-## Specific Facts Cited in the Letters
+## Quoted language from the letter
 
-- **$38.3 billion** total Trump administration budget for the warehouse detention expansion
-- **$129 million** paid for a Georgia detention facility (approximately 5x prior assessed value) — the Social Circle, GA warehouse sold by PNK S1 LLC
-- **$102.4 million** paid for a **warehouse in Williamsport, Maryland** that Salon coverage put at 830,000 square feet; Maryland's tax-assessment record gives 825,620 (new data point from Salon coverage)
-- **Capacity goal**: the letters cite ICE's plan to "increase bed capacity to 92,600 beds" nationwide and "activate all facilities by November 30, 2026"; the press release describes the system as built to "hold nearly 100,000 people by November 2026"
-- **Merrimack, NH facility** referenced in the Detention Reengineering Initiative documentation
-
-## Quoted Language from the Letters
-
-> "These warehouses were built to hold products, not people … Given the public's grave concerns about this warehouse system, we request prompt answers to questions about your involvement in the system."
+> "These warehouses were built to hold products, not people."
 
 > "Placing thousands of people in warehouses that were never intended to house human beings will only exacerbate these problems."
 
-## Named Administration Officials and Procurement Mechanisms
+## Officials the letter names
 
-The letters contextualize the inquiry by identifying revolving-door conflicts:
+- **Todd Lyons** (Acting ICE Director): the letter quotes the vision as "Prime, but with human beings."
+- **David Venturella**: the press release says he recently joined ICE after leaving the GEO Group and leads the division overseeing detention contracts.
+- **Pam Bondi**: the press release calls her a former lobbyist for the GEO Group (see [[2026-04-02--trump-fires-bondi-attorney-general]]).
+- **Tom Homan**: the letter cites reports of him "trading promises of assistance with obtaining immigration contracts in exchange for a bag of $50,000 in cash."
+- **Corey Lewandowski**: the letter cites reports of him "requesting that the immigration contractor GEO Group pay him" in exchange for protecting and growing its DHS contracts.
 
-- **Todd Lyons** (Acting ICE Director) — quoted by Warren/Raskin as describing the vision as "Amazon Prime, but with human beings"
-- **David Venturella** (ICE official) — formerly at GEO Group
-- **Pam Bondi** (Attorney General) — former GEO Group lobbyist (prior to April 2, 2026 firing, see [[2026-04-02--trump-fires-bondi-attorney-general]])
-- **Tom Homan** (Border Czar)
-- **Corey Lewandowski** (former Homeland Security official)
 
-The procurement mechanism identified: **Navy contracting program bypassing competitive bidding** (WEXMAC-TITUS) with **non-disclosure agreements on transaction details**.
+## Responses
 
-## The PNK-Specific Letter
-
-The letter addressed to Andrey Sharkov at PNK Group's 17 State Street, Floor 39 NYC headquarters specifically raises:
-
-- **PNK's Russian origin** — the letter describes PNK S1 LLC Group as "a subsidiary of a Russian-founded industrial developer"; it says nothing about Sharkov's citizenship, a 2004 founding date or a 2023 break with Russia (those details need their own source)
-- **The Georgia facility** — the letter says "ICE paid $129 million for a facility in Georgia — nearly five times the amount it was assessed for last year" (citing the Guardian, Feb. 18, 2026); it does not name PNK as the seller of that facility or compare the price with PNK's 2023 acquisition price (the $128,555,500 deed figure is from CovNews)
-- **DHS spending "close to $1 billion"** acquiring warehouses from owners including PNK S1 LLC
-
-(The PNK letter PDF was read directly in the 2026-10-08 fact-check.)
-
-## Significance
-
-This is the most consequential Congressional oversight action documented in the detention-industrial-KB to date. Six named companies; 52 lawmakers; formal questions on profit margins, campaign contributions, and inhumane-conditions prevention; an April 13, 2026 deadline.
-
-As of the original Convergence Brief on April 23, 2026, it is not yet publicly documented whether any of the six recipients responded by the deadline, what their responses were, or whether Warren and Raskin have filed follow-up inquiries.
-
-## Response Trail (updated 2026-05-06)
-
-**Public-disclosure track through Q1 2026 quarterly cycle:**
-
-| Recipient | Public-Response Status | Source |
-|---|---|---|
-| **PNK Group** (Sharkov) | No public response located | Search through 2026-05-06 |
-| **CoreCivic** | Q1 2026 earnings release scheduled after market close May 6, 2026; conference call May 7. Pre-release press materials and the April 10, 2026 8-K (a $100M Incremental Term Loan from existing lenders) contain no Warren-Raskin reference. CEO Patrick Swindle's first quarterly cycle (succeeded Damon Hininger January 1, 2026). | [CoreCivic IR](https://ir.corecivic.com/news-releases); [Q4 2025 release](https://www.globenewswire.com/news-release/2026/02/11/3236679/0/en/corecivic-reports-fourth-quarter-and-full-year-2025-financial-results.html) |
-| **GEO Group** | **Q1 2026 results released May 6, 2026.** No reference to Warren-Raskin letter, no new risk-factor language on congressional inquiry, no Mullin-pause acknowledgment. Raised full-year guidance to $2.95B-$3.10B revenue. CFO transition (Suchinski → Shayn March effective April 1, 2026). | [[2026-05-06--geo-group-q1-2026-results-raises-guidance]] |
-| **GardaWorld Federal Services** | Private; no public-disclosure obligation; no public statement located | Search through 2026-05-06 |
-| **Newmark Group** | No public response located in Q1 2026 disclosure cycle (publicly traded; 10-Q forthcoming) | Search through 2026-05-06 |
-| **KVG LLC** | Private; no public-disclosure obligation; no public statement located | Search through 2026-05-06 |
-
-**Pattern-of-silence finding now extends through one full quarterly disclosure cycle.** GEO Group, the publicly traded recipient with the most ICE-detention exposure, did not treat the 52-lawmaker inquiry as a Q1 2026 materiality event in its earnings release. Whether the Q1 10-Q filing (forthcoming) carries different risk-factor language is the next monitoring milestone. CoreCivic Q1 release follows after market close May 6.
-
-The letter to PNK Group creates a specific public record:
-
-1. **Congressional documentation of Sharkov's Russian-origin corporate history.**
-2. **The letter's "nearly five times" assessed-value comparison for a $129 million Georgia facility** (cover letters).
-3. **A general description of the WEXMAC-TITUS procurement bypass in the same letter** (the letter does not tie PNK's sale to that vehicle).
-
-Combined with Sharkov's sworn deposition of February 20, 2025 (continuing Moscow residence per the divorce case, see [[sharkov-andrey]]), the ICIJ Offshore Leaks entry, and the five-jurisdiction aircraft-ownership litigation with former pilot Aleksandr Buzin, this creates a documentary record sufficient for sustained investigative reporting.
+Whether any recipient answered by the deadline is not established here. GEO Group's quarterly results disclosure is in [[2026-05-06--geo-group-q1-2026-results-raises-guidance]]. A search for public responses from the other recipients is still open (see Research Gaps).
 
 ## Research Gaps
 
-- [ ] What did each of the six recipients respond by April 13, 2026? Are the responses publicly available?
+- [ ] What did each of the six recipients answer, and are the answers public?
 - [ ] Did Sharkov respond personally, through counsel, or not at all?
-- [ ] Did any of the companies disclose expected profit margins as requested? What were the numbers?
-- [ ] Have Warren and Raskin issued follow-up inquiries since April 13?
-- [ ] Is there a parallel House or Senate committee investigation that might subpoena documents the voluntary response may have omitted?
+- [ ] Have Warren and Raskin issued follow-up inquiries?
 - [ ] KVG LLC is the least-documented recipient. What is its role and ownership?
-- [ ] The full text of the PNK-specific letter — specific questions for Sharkov vs. the boilerplate questions — requires a native-PDF text extraction.
+- [ ] The letters to the five other recipients have not been read side by side with the PNK letter to see which questions are specific to each.
 
 ## Related Entries
 
 - [[sharkov-andrey]]
 - [[pnk-group]]
 - [[2026-01-09--pnk-social-circle-dhs-detention-sale]]
-- [[2026-04-21--blue-owl-system-ramm-published]] — parallel Tremont transaction (Blue Owl, not PNK)
+- [[2026-04-21--blue-owl-system-ramm-published]]
 - [[warehouse-fungibility-and-the-detention-hedge]]
 - [[wexmac-titus-military-procurement-bypass]] (in detention-industrial KB)
