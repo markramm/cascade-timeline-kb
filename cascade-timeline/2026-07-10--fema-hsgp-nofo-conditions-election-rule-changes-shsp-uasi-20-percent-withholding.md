@@ -56,10 +56,10 @@ On or around **July 10, 2026**, FEMA published a Notice of Funding Opportunity (
 **$1 billion Homeland Security Grant Program (HSGP)** — the umbrella program that funds the
 **State Homeland Security Program (SHSP)** and **Urban Area Security Initiative (UASI)**
 counterterrorism grants — that conditioned full funding on states adopting five election-related
-requirements FEMA characterized as "critical, common-sense steps to protect U.S. elections":
+requirements, as set out in the notice (Nashville v. DHS, D.D.C., ECF 28-10, Exhibit A, printed pp. 15-16):
 
 1. Submit a plan to use **hand-marked paper ballots**.
-2. Conduct a **manual audit of at least 5% of all ballots cast** after every federal election.
+2. Conduct a post-election manual audit. FEMA's Aug 10 information bulletin (IB 580, same exhibit) specifies 5% of precincts and 5% of centrally tabulated batches, not 5% of all ballots.
 3. **Reconcile** the number of voters who participated in each federal election with the number
    of ballots cast.
 4. Use DHS/USCIS's **SAVE (Systematic Alien Verification for Entitlements)** system to verify the
@@ -151,3 +151,11 @@ document, and nobody in this corpus has read it. Upgrade to `confirmed` only onc
 NOFO / award-terms text or a complaint quoting it has been retrieved and cited directly.
 
 This entry replaced an earlier entry on this topic that was headlined on a "$1B DHS Grant Cutoff" figure its two cited sources did not contain, so the standard for calling anything here `confirmed` is deliberately high.
+
+## Correction (2026-10-26)
+
+Two statements in this entry did not hold up against the primary documents (Nashville v. DHS, D.D.C. 1:26-cv-02886, ECF 28-10 (https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf): the FEMA notice, DHS's July 9 explainer and FEMA IB 580, read in full by a research worker on 2026-10-26):
+- The quoted phrase "critical, common-sense steps to protect U.S. elections" appears in none of those documents. It has been removed.
+- The audit condition was described as 5% of all ballots. IB 580 specifies 5% of precincts and 5% of centrally tabulated batches.
+
+The court's opinion says the notice was issued in June 2026, so this entry's July 10 date is the date it was reported, not the date it was issued. A fuller rebuild with primary claims is pending.
