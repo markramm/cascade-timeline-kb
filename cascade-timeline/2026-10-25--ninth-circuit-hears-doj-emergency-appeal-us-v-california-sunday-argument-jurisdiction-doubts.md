@@ -115,6 +115,60 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: 10/26/2026
+  span: 'Case: 26-7070, 10/26/2026, DktEntry: 63.1, (1 of 91) FOR PUBLICATION FILED UNITED STATES COURT OF APPEALS OCT 26 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: attribution
+  value: Dissent by Judge BUMATAY
+  span: 'PER CURIAM: Concurrence by Judge BENNETT; Concurrence by Judge SANCHEZ; Dissent by Judge BUMATAY'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: failed to allow the district court adequate opportunity to consider its application for a Temporary Restraining Order
+  span: But the United States failed to allow the district court adequate opportunity to consider its application for a Temporary Restraining Order (“TRO”). For that reason, we lack jurisdiction over this appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: For that reason, we lack jurisdiction over this appeal.
+  span: For that reason, we lack jurisdiction over this appeal. So we grant the County’s motion to dismiss this appeal and deny as moot the United States’s emergency motion for relief.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: October 27, 2026
+  span: has reiterated his plans to hold a hearing on Tuesday, October 27, 2026; and has committed to
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: 26-7070
+  span: United States v. California et al., No. 26-7070 BUMATAY, Circuit Judge, dissenting
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-26'
 event_date_claim: c1
 source_published_date: '2026-10-26'
 captured_by: capture-watch
@@ -142,12 +196,36 @@ sources:
   publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
   date: '2026-10-24'
   tier: 1
+- title: United States v. California, No. 26-7070, Order (Dkt. 63)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6.63.0.pdf
+  publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+  date: '2026-10-26'
+  tier: 1
 related_events:
 - 2026-10-22--doj-files-notice-of-appeal-9th-circuit-us-v-california-says-no-ruling-on-tro-application-is-constructive-denial
 - 2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built
 coverage: []
+updates:
+- date: '2026-10-26'
+  date_kind: order date
+  heading: Ninth Circuit dismisses DOJ's appeal for lack of jurisdiction
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 A Ninth Circuit panel heard the Justice Department's emergency appeal in United States v. California (No. 26-7070) on Sunday, the day after the court set the argument on October 24, Law Dork reported. DOJ asks for an order that California officials "set aside vote-by-mail ballots from persons identified by the Federal Government likely to be noncitizens". Law Dork's account of the argument says "there did not appear to any path to the panel siding with the Justice Department at this time" and "It appeared most likely that the appeals court will dismiss the appeal altogether," for lack of jurisdiction over an appeal from Judge David Carter's failure to rule. Of DOJ's comparison to the Alien Enemies Act case, one judge said from the bench that it was "far, far, far different than A.A.R.P. ... I don't see how we have jurisdiction." That is a reporter's account of an argument, not a ruling.
 
 The jurisdiction question was already in the briefs: the court ordered the United States to answer the Los Angeles County registrar's "emergency motion under Circuit Rule 27-3 to dismiss appeal for lack of appellate jurisdiction" by October 25, 2026 at 9 a.m. PDT. The appeal rests on DOJ's theory that the district court's silence was a "constructive denial" of its TRO request ([[2026-10-22--doj-files-notice-of-appeal-9th-circuit-us-v-california-says-no-ruling-on-tro-application-is-constructive-denial]]). Carter's own TRO argument stays set for 1:00 p.m. PT Tuesday. For the federal list behind the request, see [[2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built]].
+
+## Update (2026-10-26, order date): Ninth Circuit dismisses DOJ's appeal for lack of jurisdiction
+
+On October 26, 2026, the Ninth Circuit (No. 26-7070) dismissed the United States' appeal in a per curiam order for publication, with concurrences by Judge Bennett and Judge Sanchez and a dissent by Judge Bumatay. The order says the United States "failed to allow the district court adequate opportunity to consider its application for a Temporary Restraining Order" and that "For that reason, we lack jurisdiction over this appeal." It grants the County's motion to dismiss and denies as moot the United States' emergency motion. Judge Carter's TRO hearing remains set for October 27.
