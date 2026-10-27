@@ -1,7 +1,8 @@
 ---
 type: timeline_event
-id: 2026-06-12--fbi-raids-ohio-organizing-collaborative-probe-expands-america-votes
-date: '2026-06-12'
+id: 2026-06-11--fbi-raids-ohio-organizing-collaborative-probe-expands-america-votes
+previous_ids: ["2026-06-12--fbi-raids-ohio-organizing-collaborative-probe-expands-america-votes"]
+date: '2026-06-11'
 title: "FBI Raids Ohio Organizing Collaborative on 'Voter Fraud' Framing; Probe Expands to America Votes Network by June 17"
 importance: 9
 status: confirmed
@@ -23,6 +24,11 @@ sources:
   - title: "FBI searches offices of Ohio voter registration group, seizing computers"
     url: https://www.washingtonpost.com/national-security/2026/06/12/fbi-searches-offices-ohio-voter-registration-group-seizing-computers/
     publisher: The Washington Post
+    date: '2026-06-12'
+    tier: 1
+  - title: "Ohio voting rights group facing criminal fraud investigation, sources say"
+    url: https://www.cbsnews.com/news/ohio-organizing-collaborative-fraud-investigation-fbi/
+    publisher: CBS News
     date: '2026-06-12'
     tier: 1
   - title: "Ohio progressive group searched by FBI accuses Trump's DOJ of intimidation"
@@ -47,8 +53,14 @@ related_events:
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2025-08-26--doj-weaponization-russia-investigators
 coverage: []
+corrections:
+  - date: '2026-10-27'
+    was: "On June 12, 2026, FBI agents raided the Cleveland offices of the Ohio Organizing Collaborative (OOC)"
+    now: "On Thursday, June 11, 2026 (search date), FBI agents searched the Cleveland offices of the Ohio Organizing Collaborative (OOC); NBC and CBS reported it on Friday, June 12 (publication date)."
+    why: "NBC (published 2026-06-12, re-fetched 2026-10-27): 'FBI special agents searched an office of a progressive organization in Ohio on Thursday'; CBS (published 2026-06-12, re-fetched 2026-10-27): 'Around the same time the search warrant was executed on Thursday, federal agents also started showing up at the homes of employees and volunteers'. June 11, 2026 was a Thursday; June 12 was the publication date the entry had used. File id and date moved from 2026-06-12 to 2026-06-11 (previous_ids keeps the old id)."
+    found_by: "tick 26 conductor QC from research note ohio-hsi-black-fork-and-fbi-ooc-search-one-investigation-2026-10-10; re-fetched NBC and CBS 2026-10-27"
 ---
 
-On June 12, 2026, FBI agents raided the Cleveland offices of the Ohio Organizing Collaborative (OOC), seizing computers and fanning out to staff homes statewide under a voter-fraud investigation framing. By June 17, the probe had expanded to subpoena America Votes, the national network that had given OOC more than $500,000. The Brennan Center for Justice called the action an "outrageous fishing expedition" and characterized it as DOJ intimidation of democracy infrastructure. OOC is an 18-group coalition active since 2007 with no documented fraud history; civil rights groups say the bureau has opened similar investigations against progressive voter-registration groups in recent months based on conspiracy theories.
+On Thursday, June 11, 2026 (the search date; NBC and CBS reported it on June 12, the publication date), FBI agents searched the Cleveland offices of the Ohio Organizing Collaborative (OOC), seizing computers and fanning out to staff homes statewide under a voter-fraud investigation framing. By June 17, the probe had expanded to subpoena America Votes, the national network that had given OOC more than $500,000. The Brennan Center for Justice called the action an "outrageous fishing expedition" and characterized it as DOJ intimidation of democracy infrastructure. OOC is an 18-group coalition active since 2007 with no documented fraud history; civil rights groups say the bureau has opened similar investigations against progressive voter-registration groups in recent months based on conspiracy theories.
 
 The raid extends the DOJ's voter-data offensive — the demands for state voter rolls ([[2025-09-09--doj-demands-voter-data-centralized-database]], [[2026-01-02--doj-demands-minnesota-voter-data]]), the suits against states that refused ([[2025-12-03--doj-sues-six-additional-states-voter-data]]), and the SAVE-driven purge blitz across Ohio, Texas, and Idaho ahead of the midterms ([[2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms]]) — from coercing election officials to raiding the private civil-society groups that register voters. The subpoena to America Votes, which connects voter-registration infrastructure across swing states, signals the probe is built to reach a national network, not a single Ohio nonprofit.
