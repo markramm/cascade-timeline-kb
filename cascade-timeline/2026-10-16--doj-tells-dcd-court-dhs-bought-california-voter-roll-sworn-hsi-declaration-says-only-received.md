@@ -261,7 +261,9 @@ sources:
 gate_note: "Corrected 2026-10-19 (task correct-2026-10-16-voter-roll-entry-mcloughlin-declaration-signed-oct-15-filed): the McLoughlin and Bartell declarations were signed Oct 15, 2026 (handwritten day on the execution line, read from the PDF image) and filed Oct 19; the DOJ attorney email using \"lawfully purchased\" was sent Oct 15; the D.D.C. brief was filed Oct 16. The earlier title and body dated the declaration only by filing date and read as a later retreat. The handwritten day is not in the PDF text layer, so the gate binds only \"October 2026\" mechanically; Bartell's page (ECF 22-4 p.7) is a scan with no text layer; it is hand-dated the 15th of October 2026 on the image, so the Bartell signing date is carried here only, not in the body. Read in full, neither declaration uses \"purchase\" or \"bought\" or says by what means the roster reached HSI (McLoughlin uses \"obtaining\" and \"acquired\" only for HSI's general workflow, paras 11 and 14); a zero-hit grep over both text layers, not a finding about intent. The filename slug (\"says-only-received\") is retained unchanged pending Mark, because renaming changes the public URL."
 capture_lanes:
   - Election Administration Capture
-coverage: []
+coverage:
+- title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
+  url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
 ---
 
 DOJ's account that DHS bought California's voter roll and the sworn HSI account that its office "received" a roster were written in a different order than the filing dates suggest. Each date below says which kind it is.

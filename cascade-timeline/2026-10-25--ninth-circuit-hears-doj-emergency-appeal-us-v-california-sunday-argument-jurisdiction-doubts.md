@@ -204,7 +204,9 @@ sources:
 related_events:
 - 2026-10-22--doj-files-notice-of-appeal-9th-circuit-us-v-california-says-no-ruling-on-tro-application-is-constructive-denial
 - 2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built
-coverage: []
+coverage:
+- title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
+  url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
 updates:
 - date: '2026-10-26'
   date_kind: order date
