@@ -160,6 +160,36 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-13'
+- id: o1
+  type: date
+  value: November 18, 2026
+  qualifier: hearing
+  span: 'an in-person hearing on Plaintiffs’ Motion for Preliminary Injunction is set for Wednesday, November 18, 2026, at 2:00 p.m., in Courtroom 4B'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.28.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
+- id: o2
+  type: date
+  value: October 27, 2026
+  qualifier: Defendants
+  span: 'Defendants shall file any opposition to Plaintiffs’ Motion for Preliminary Injunction no later than Tuesday, October 27, 2026.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.28.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
+- id: o3
+  type: date
+  value: November 06, 2026
+  qualifier: Plaintiffs
+  span: 'Plaintiffs may file any reply thereto no later than Friday, November 06, 2026.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.28.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
 tags:
 - ice-detention
 - clergy-access
@@ -179,6 +209,11 @@ actors:
 - David J. Venturella
 - Jennifer M. Fenton
 sources:
+- title: Order, Rozanski v. Stolzer, No. 1:26-cv-00224-MTS (E.D. Mo. Oct. 21, 2026), ECF 28
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.28.0.pdf
+  publisher: U.S. District Court for the Eastern District of Missouri
+  date: '2026-10-21'
+  tier: 1
 - title: For the first time, a Catholic archbishop sues Trump over access to immigrant detainees
   url: https://wordandway.org/2026/10/08/for-the-first-time-a-catholic-archbishop-sues-trump-over-access-to-immigrant-detainees/
   publisher: Word&Way (RNS)
@@ -212,3 +247,5 @@ Archbishop Mitchell Thomas Rozanski of St. Louis, Fr. Christopher Schroeder and 
 DHS denied the claims in a statement to Religion News Service, which reads: 'These allegations are FALSE,' and adds that the facility is 'a non-contact county jail, not an ICE facility.' The report notes the suit marks the first time a Catholic bishop has individually joined one of the lawsuits, and adds to two similar cases filed over the past year in Illinois and Minnesota. These are allegations in a complaint; no court ruling is reported.
 
 Prior: [[2025-11-19--clergy-plaintiffs-constitutional-lawsuit-trump-administration-broadview]].
+
+By order, Judge Matthew T. Schelp granted a joint motion adopting the parties' proposed briefing schedule and set an in-person hearing on the preliminary-injunction motion for Wednesday, November 18, 2026, at 2:00 p.m. in Cape Girardeau. Defendants' opposition is due October 27, 2026 and plaintiffs may reply afterward. No ruling on the motion appears on the docket.
