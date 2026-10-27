@@ -328,6 +328,51 @@ claims:
   id: u11
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: 10/26/2026
+  span: So ORDERED by Chief Judge James E. Boasberg on 10/26/2026.
+  url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: 2:00 p.m. on October 27, 2026
+  span: The Government shall file any response to Plaintiffs' 16 Motion to Expedite Discovery by 2:00 p.m. on October 27, 2026;
+  url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: 12:00 noon on October 28, 2026
+  span: 2) Plaintiffs shall file any reply by 12:00 noon on October 28, 2026;
+  url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: October 29, 2026, at 2:00 p.m.
+  span: 3) The parties shall appear for a hearing via zoom on October 29, 2026, at 2:00 p.m.
+  url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-10-27'
+- type: attribution
+  value: Chief Judge James E. Boasberg
+  span: So ORDERED by Chief Judge James E. Boasberg on 10/26/2026.
+  url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - election-capture
   - electoral-manipulation
@@ -364,6 +409,9 @@ sources:
     publisher: U.S. District Court for the District of Columbia (via RECAP)
     date: '2026-10-23'
     tier: 1
+  - title: CourtListener docket text, DSCC v. Trump (D.D.C.), minute order of 10/26/2026
+    url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+    tier: 1
 updates:
 - date: '2026-10-23'
   date_kind: order date
@@ -384,6 +432,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-10-26'
+  date_kind: order date (minute order after a scheduling conference)
+  heading: Chief Judge Boasberg sets an Oct. 29 hearing on the plaintiffs' motion to expedite discovery
+  claims:
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  event_date_claim: u12
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: rnc-gop-election-suits-2026
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -393,3 +454,7 @@ This is a new D.D.C. case, separate from the polling-place suit [[2026-09-23--ds
 ## Update (2026-10-23, order date): Plaintiffs move for expedited discovery; Boasberg sets a scheduling hearing
 
 On October 23, 2026, Chief Judge James E. Boasberg ordered that "the parties shall appear for a scheduling hearing via zoom on October 26, 2026, at 10:30 a.m." The order came the same day the plaintiffs filed an [emergency motion to expedite discovery](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.16.0.pdf). The motion says the plaintiffs "are seriously contemplating a request for emergency relief" and asks the court to "require that Defendants fully respond to the discovery requests" by October 28. It seeks the departments' communications since July 1, 2026 to state or local election officials demanding voter removals, refusals to issue ballots or segregation of ballots, and communications that "reference criminal prosecution, investigation, or any other form of legal action" against those officials. It relies on a peer order in NAACP v. DHS that permitted expedited discovery, and reports that government counsel in the related Trujillo case "indicated that Defendants in this matter will oppose the motion." A motion is not an order: the court has not ruled on it.
+
+## Update (2026-10-26, order date (minute order after a scheduling conference)): Chief Judge Boasberg sets an Oct. 29 hearing on the plaintiffs' motion to expedite discovery
+
+After a scheduling conference on 10/26/2026, Chief Judge Boasberg ordered the government to respond to the plaintiffs' motion to expedite discovery by 2:00 p.m. on October 27, 2026, the plaintiffs to reply by 12:00 noon on October 28, 2026, and the parties to appear for a hearing via Zoom on October 29, 2026, at 2:00 p.m. The hearing has not happened.
