@@ -87,6 +87,8 @@ sources:
 coverage:
   - url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
     title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
+  - title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
+    url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
 ---
 
 DHS Secretary Markwayne Mullin's letter to California Secretary of State Shirley Weber is dated July 16, 2026. It says a "preliminary review" of California's publicly available voter data found there "may be as many as 190,832" noncitizens registered, and gives one example: 81,336 registrants whose name, date of birth, address and Social Security number match a noncitizen in DHS files. It asks California to contact DHS by July 30, 2026. A parallel letter to Nevada put its figure at 15,903.

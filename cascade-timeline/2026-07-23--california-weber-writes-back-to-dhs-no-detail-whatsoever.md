@@ -80,6 +80,8 @@ sources:
 coverage:
   - url: https://theramm.transparencycascade.org/p/ca-told-to-hold-ballots-justice-says
     title: "CA told to “hold” Ballots. Justice Says They Can't Investigate: The Suit Over Tens of Thousands of Votes"
+  - title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
+    url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
 ---
 
 California Secretary of State Shirley Weber's reply to Mullin is dated July 23, 2026. She wrote that Mullin's "letter provides no detail whatsoever" the state could use to evaluate the allegations, and that her office has not shared the statewide voter registration list with DHS or any other federal agency. She asked for DHS's data sources, software, matching criteria and whether AI was used, by August 3, 2026.
