@@ -373,6 +373,105 @@ claims:
   id: u16
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: 10/27/2026
+  span: at the previously scheduled hearing via zoom on October 29, 2026, at 2:00 p.m. So ORDERED by Chief Judge James E. Boasberg on 10/27/2026. (lcjeb1)
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: by 5:00 p.m. on October 28, 2026
+  span: 1) The Government shall file any response to Plaintiffs' 19 Motion for Temporary Restraining Order and Preliminary Injunction by 5:00 p.m. on October 28, 2026;
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Plaintiffs shall not be permitted a reply
+  span: 2) Plaintiffs shall not be permitted a reply; and 3) The parties shall be prepared to discuss Plaintiffs' 19 Motion for Temporary Restraining Order at the previously scheduled hearing via zoom on October 29, 2026, at 2:00 p.m.
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: October 29, 2026, at 2:00 p.m.
+  span: at the previously scheduled hearing via zoom on October 29, 2026, at 2:00 p.m.
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: removal of registered voters from statewide voter registration lists
+  span: 'to: (1) removal of registered voters from statewide voter registration lists; (ii) issuance of ballots'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: the counting and tabulation of ballots
+  span: to registered voters; and (iii) the counting and tabulation of ballots.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Defendants have indicated that Nevada is a likely next target
+  span: 333, 343–44 (1977). Moreover, Defendants have indicated that Nevada is a likely next target for
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Defendants oppose the motion.
+  span: preliminary injunction. Defendants oppose the motion.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: 272 pages
+  span: motion for expedited discovery and a motion seeking emergency relief, totaling 272 pages and
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.20.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: facially seek privileged, deliberative and lawenforcement-sensitive information
+  span: not—Plaintiffs’ requests are overbroad, facially seek privileged, deliberative and lawenforcement-sensitive information, and risk creating and causing public confusion in a manner
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.23.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: 41 exhibits
+  span: including 41 exhibits. Equipped with a number of lawyers and, having taken adequate time on
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.20.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - election-capture
   - electoral-manipulation
@@ -445,6 +544,25 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: rnc-gop-election-suits-2026
+- date: '2026-10-27'
+  date_kind: order date (minute order)
+  heading: Plaintiffs move for a TRO; Boasberg orders the government's response by Oct. 28 and folds it into the Oct. 29 hearing
+  claims:
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  - u27
+  event_date_claim: u17
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -458,3 +576,9 @@ On October 23, 2026, Chief Judge James E. Boasberg ordered that "the parties sha
 ## Update (2026-10-26, order date (minute order after a scheduling conference)): Chief Judge Boasberg sets an Oct. 29 hearing on the plaintiffs' motion to expedite discovery
 
 After a scheduling conference on 10/26/2026, Chief Judge Boasberg ordered the government to respond to the plaintiffs' motion to expedite discovery by 2:00 p.m. on October 27, 2026, the plaintiffs to reply by 12:00 noon on October 28, 2026, and the parties to appear for a hearing via Zoom on October 29, 2026, at 2:00 p.m. The hearing has not happened.
+
+## Update (2026-10-27, order date (minute order)): Plaintiffs move for a TRO; Boasberg orders the government's response by Oct. 28 and folds it into the Oct. 29 hearing
+
+On 10/27/2026, Chief Judge Boasberg [ordered](https://www.courtlistener.com/docket/74994590/dscc-v-trump/) the government to respond to the TRO motion "by 5:00 p.m. on October 28, 2026", ruled that "Plaintiffs shall not be permitted a reply", and set the motion for discussion at the hearing already scheduled for October 29, 2026, at 2:00 p.m. No ruling on either motion exists yet.
+
+On the day before the order, the plaintiffs [moved for a temporary restraining order and preliminary injunction](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf) barring the defendants from interfering in "removal of registered voters from statewide voter registration lists", the issuance of ballots and "the counting and tabulation of ballots." The motion says "Defendants have indicated that Nevada is a likely next target" and records: "Defendants oppose the motion." In a [joint scheduling notice](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.20.0.pdf) the next day, the government objected that the plaintiffs' two motions total "272 pages" with 41 exhibits. Its [opposition to expedited discovery](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.23.0.pdf) says the requests "facially seek privileged, deliberative" and law-enforcement-sensitive information.
