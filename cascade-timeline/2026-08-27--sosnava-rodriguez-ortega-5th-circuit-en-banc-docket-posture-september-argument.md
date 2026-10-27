@@ -35,7 +35,7 @@ sources:
   - title: "Rhoney v. Barbosa da Cunha, cert. petition (cites Sosnava Rodriguez v. Ortega, 2026 WL 1906557 and 2026 WL 2014647, with exact panel/en banc dates)"
     url: https://www.justice.gov/osg/media/1454546/dl
     publisher: Office of the Solicitor General, U.S. Department of Justice
-    date: '2026-07-02'
+    date: '2026-07-23'
     tier: 1
   - title: "Genalo v. Black (25-886) case page — argument set for Oct. 13, 2026"
     url: https://www.scotusblog.com/cases/genalo-v-black/
@@ -62,6 +62,27 @@ sources:
     publisher: National Immigration Project
     date: '2026-08-04'
     tier: 2
+corrections:
+- date: '2026-10-27'
+  was: '*Genalo* is "set for argument October 13, 2026" and does not absorb the split.'
+  now: '*Genalo* (No. 25-886) was dismissed under Rule 46 on September 11, 2026; the sentence now says so. It is a § 1226(c) prolonged-detention case, not part of the § 1225(b)(2)(A) split.'
+  why: 'Supreme Court docket No. 25-886 ("Case Dismissed - Rule 46," Sept. 11, 2026); 10-13 research note, item 3(a).'
+  found_by: 'editorial verification, 2026-10-27'
+- date: '2026-10-27'
+  was: 'The Rhoney cert petition is dated 2026-07-02 (source date).'
+  now: 'The Rhoney petition (No. 26-104) was filed July 23, 2026; July 2 is the filing date of the Buenrostro-Mendez petition (No. 26-43). The source date is corrected; the body already gave July 2 only for No. 26-43.'
+  why: 'Supreme Court docket No. 26-104 (petition filed July 23, 2026); petition PDF 20260723134955891_Rhoney Petition.pdf.'
+  found_by: 'editorial verification, 2026-10-27'
+- date: '2026-10-27'
+  was: 'Split map "2nd, 6th, 10th, and 11th ... vs 5th and 8th" presented without date limit.'
+  now: 'Correct as of the July 23 petition; incomplete now. Later decisions add the 1st, 7th and 9th, and the 3d (Aug. 28) and 4th (Sept. 10) Circuits: nine against the 5th and 8th.'
+  why: 'Third Circuit, Buele Morocho (Aug. 28, 2026); Fourth Circuit, Lopez Garcia v. Guadian (Sept. 10, 2026), survey of circuits; archived under documents/sources/files/rhoney-v-barbosa-da-cunha-2026-10-27/.'
+  found_by: 'editorial verification, 2026-10-27'
+- date: '2026-10-27'
+  was: 'DOJ''s brief "asks the Court to hold that petition" (antecedent reads as the Buenrostro-Mendez petition).'
+  now: 'The Rhoney petition (No. 26-104) asks the Court to hold itself, the Rhoney petition, pending Lopez-Campos (No. 25-1415).'
+  why: 'Petition in No. 26-104, at 2: "The Court should hold the petition in this case pending the resolution of the petition in Lopez-Campos."'
+  found_by: 'editorial verification, 2026-10-27'
 ---
 
 **Correction to earlier entries:** two earlier timeline entries —
@@ -160,18 +181,19 @@ Sosnava Rodriguez is on it.
 
 One lead speculated "*Genalo v. Black* (SCOTUS cert granted June 15) likely absorbs this
 split — watch briefing schedule, oral argument likely fall 2026." Verified directly against
-SCOTUSblog's case page: *Genalo v. Black*, No. 25-886, is on appeal from the **Second Circuit**,
-addresses **8 U.S.C. § 1226(c)** "unreasonably prolonged" detention (a different statutory
-provision than Sosnava Rodriguez's §1225(b)(2)(A)), and is **set for argument October 13,
-2026** — three weeks after the Fifth Circuit's September 23-25 en banc sitting, not concurrent
-with it. Genalo does not procedurally absorb Sosnava Rodriguez; the two proceed on independent
-tracks addressing related but distinct detention-duration questions under different statutory
-hooks. A cert petition already exists on the closer statutory cousin — *Buenrostro-Mendez v.
-Bondi* petition for cert, No. 26-43, filed July 2, 2026 — and DOJ's own brief in the *Rhoney*
-matter asks the Court to hold that petition pending disposition of *Lopez-Campos v. Raycraft*
-(6th Cir., cert petition No. 25-1415). The circuit-split map as of the SG's own July 2026 filing:
-2nd, 6th, 10th, and 11th Circuits require bond hearings on the statutory theory; 5th
-(Buenrostro-Mendez) and 8th (Avila v. Bondi) do not. Sosnava Rodriguez's constitutional theory is
+SCOTUSblog's case page: *Genalo v. Black*, No. 25-886, is on appeal from the **Second Circuit**
+and addresses **8 U.S.C. § 1226(c)** "unreasonably prolonged" detention (a different statutory
+provision than Sosnava Rodriguez's §1225(b)(2)(A)). It was then set for argument in October;
+*Genalo* was later dismissed under Rule 46 on September 11, 2026 and will not be decided (see
+the corrected [[2026-06-15--scotus-cert-genalo-v-black-prolonged-immigration-detention-bond]]).
+It never absorbed Sosnava Rodriguez; the two proceeded on independent tracks addressing related
+but distinct detention-duration questions under different statutory hooks. A cert petition already exists on the closer statutory cousin — *Buenrostro-Mendez v.
+Bondi* petition for cert, No. 26-43, filed July 2, 2026 — and DOJ's own *Rhoney* petition (No. 26-104, filed July 23, 2026) asks
+the Court to hold *that* petition, the Rhoney petition, pending disposition of *Lopez-Campos v.
+Raycraft* (6th Cir., cert petition No. 25-1415). The circuit-split map as of the SG's July 2026
+Rhoney petition: 2nd, 6th, 10th, and 11th Circuits require bond hearings on the statutory theory;
+5th (Buenrostro-Mendez) and 8th (Avila v. Bondi) do not. Decisions after that petition added the
+1st, 7th and 9th (by October the 3rd and 4th as well), nine circuits in all against the 5th and 8th. Sosnava Rodriguez's constitutional theory is
 a separate, still-live track within the 5th Circuit itself, now before the en banc court.
 
 ## DOJ compliance during the eight-day window — not directly documented

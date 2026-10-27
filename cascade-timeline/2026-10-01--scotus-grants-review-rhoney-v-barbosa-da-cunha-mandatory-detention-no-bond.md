@@ -118,6 +118,46 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-13'
+- id: c12
+  type: figure
+  value: 'Third'
+  qualifier: 'concluded'
+  span: 'The First, Second, Third, Sixth, Seventh, Ninth, Tenth, and Eleventh Circuits concluded that Section 1226 applies to noncitizens inside our country, like the Petitioners, and that they must thus be provided a bond hearing.'
+  url: https://www.ca4.uscourts.gov/opinions/257044.P.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
+- id: c13
+  type: quote
+  value: 'Section 1226, not Section 1225, applies to noncitizens who, like the Petitioners, have been present in the United States for years'
+  qualifier: 'hold'
+  span: 'we hold that Section 1226, not Section 1225, applies to noncitizens who, like the Petitioners, have been present in the United States for years regardless of how they entered our country.'
+  url: https://www.ca4.uscourts.gov/opinions/257044.P.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
+- id: c14
+  type: figure
+  value: '25-1415'
+  qualifier: 'hold'
+  span: 'Raycraft v. Lopez-Campos, petition for cert. pending, No. 25-1415 (filed June 22, 2026). This Court should hold this petition pending the disposition of the petition in Lopez-Campos and then dispose of this petition as appropriate.'
+  url: https://www.supremecourt.gov/DocketPDF/26/26-104/417161/20260723134955891_Rhoney%20Petition.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-27'
+- id: c15
+  type: figure
+  value: nine
+  qualifier: others
+  span: 'Two U.S. appeals courts have allowed noncitizens to be subject to mandatory detention without bond, but nine others have ruled the Trump administration must provide certain immigrants with bond hearings.'
+  url: https://www.cbsnews.com/news/supreme-court-trump-mandatory-detention-policy-rhoney-v-barbosa-da-cunha/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-27'
 tags:
 - detention-industrial-complex
 - mandatory-detention
@@ -162,10 +202,17 @@ corrections:
   now: The respondent's filing counts two circuits for the government (5th, 8th) and seven for bond hearings (1st, 2nd, 6th, 7th, 9th, 10th, 11th); no filing read for the correction counts nine. The entry now also gives docket No. 26-104 and the question presented.
   why: Respondent's response to the petition, Rhoney v. Barbosa da Cunha, No. 26-104 (S. Ct. Aug. 21, 2026), at 1 and 16-17; Supreme Court docket No. 26-104.
   found_by: "editorial verification, 2026-10-13"
+- date: '2026-10-27'
+  was: 'On the respondent''s count, only two courts of appeals ... and seven ... have held that such noncitizens are subject to the bond-hearing provision (entry text of 2026-10-13).'
+  now: 'Nine courts of appeals hold the bond-hearing reading (First, Second, Third, Fourth, Sixth, Seventh, Ninth, Tenth, Eleventh) against two (Fifth, Eighth). The respondent''s brief counted seven because the Third and Fourth Circuit opinions came later; CBS''s "nine" matches the opinions. The entry now states the docket number 26-104, that the question presented is statutory only, and that the government''s petition asked the Court to hold it for Lopez-Campos (No. 25-1415).'
+  why: 'Fourth Circuit, Lopez Garcia v. Guadian (published, Sept. 10, 2026), survey and holding; Third Circuit, Buele Morocho v. Warden Philadelphia FDC (Aug. 28, 2026); petition in No. 26-104 at 2 and 12. Archived under documents/sources/files/rhoney-v-barbosa-da-cunha-2026-10-27/.'
+  found_by: 'editorial verification, 2026-10-27'
 ---
 
 The Supreme Court on Thursday said it will consider whether the Trump administration can detain tens of thousands of immigrants during their removal proceedings without access to bond hearings. The case is known as Rhoney v. Barbosa da Cunha, No. 26-104, and the Court's docket records "Petition GRANTED." The question presented is whether 8 U.S.C. 1225(b)(2)(A) "mandates the detention pending removal proceedings of aliens who, like respondent, are present in the United States without having been admitted."
 
-On the respondent's count, only two courts of appeals (the Fifth and Eighth Circuits) agree with the government's reading and seven (the First, Second, Sixth, Seventh, Ninth, Tenth and Eleventh Circuits) have held that such noncitizens are subject to the bond-hearing provision instead. The 2nd Circuit called the policy the "broadest mass-detention-without-bond mandate in our nation's history for millions of noncitizens." CNN's Supreme Court analyst Steve Vladeck said the administration's reading of the statute has provoked more than 20,000 rulings in the lower courts.
+Nine courts of appeals, matching CBS's count of nine, have now held that noncitizens arrested in the interior get bond hearings: the Fourth Circuit's published opinion holds that "Section 1226, not Section 1225, applies to noncitizens who, like the Petitioners, have been present in the United States for years" and lists the First, Second, Third, Sixth, Seventh, Ninth, Tenth and Eleventh Circuits as agreeing. Only two (the Fifth and Eighth Circuits) agree with the government's reading. The respondent's brief in opposition counted seven because the Third and Fourth Circuit opinions came later. The question presented is statutory only, and the government's petition asked the Court to hold it pending *Lopez-Campos* (No. 25-1415).
 
-Circuit rulings already in the corpus: [[2026-04-28--second-circuit-rules-ice-mandatory-detention-policy-illegal]], [[2026-05-08--eleventh-circuit-rejects-trump-no-bond-detention-policy-circuit-split]], [[2026-07-02--fifth-circuit-90-day-bond-hearing-mandatory-detention-ruling]], [[2026-07-10--5th-circuit-en-banc-reinstates-mandatory-detention]], [[2026-07-30--ninth-circuit-rejects-mandatory-detention-deepens-circuit-split]]; earlier cert: [[2026-06-15--scotus-cert-genalo-v-black-prolonged-immigration-detention-bond]].
+The 2nd Circuit called the policy the "broadest mass-detention-without-bond mandate in our nation's history for millions of noncitizens." CNN's Supreme Court analyst Steve Vladeck said the administration's reading of the statute has provoked more than 20,000 rulings in the lower courts.
+
+Circuit rulings already in the corpus: [[2026-04-28--second-circuit-rules-ice-mandatory-detention-policy-illegal]], [[2026-05-06--eleventh-circuit-rejects-trump-no-bond-detention-policy-circuit-split]], [[2026-07-02--fifth-circuit-90-day-bond-hearing-mandatory-detention-ruling]], [[2026-07-10--5th-circuit-en-banc-reinstates-mandatory-detention]], [[2026-07-30--ninth-circuit-rejects-mandatory-detention-deepens-circuit-split]]; earlier cert: [[2026-06-15--scotus-cert-genalo-v-black-prolonged-immigration-detention-bond]].
