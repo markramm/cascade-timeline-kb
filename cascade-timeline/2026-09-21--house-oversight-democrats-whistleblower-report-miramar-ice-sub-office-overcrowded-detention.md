@@ -198,6 +198,66 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-13'
+- type: date
+  value: 10/16/2026
+  qualifier: Entered
+  span: 'Signed by Judge Beth Bloom (isn) (Entered: 10/16/2026)'
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: unreachable
+  checked: '2026-10-27'
+- type: quote
+  value: as the Expedited Motion seeks relief that extends beyond preserving the status quo
+  qualifier: denied
+  span: Plaintiffs' request for a Temporary Restraining Order is denied as the Expedited Motion seeks relief that extends beyond preserving the status quo.
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: unreachable
+  checked: '2026-10-27'
+- type: quote
+  value: in abeyance until Plaintiffs file a notice with the Court verifying that Defendants have been served with the Expedited Motion
+  qualifier: held
+  span: Plaintiffs' request for a Preliminary Injunction is held in abeyance until Plaintiffs file a notice with the Court verifying that Defendants have been served with the Expedited Motion.
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: unreachable
+  checked: '2026-10-27'
+- type: quote
+  value: will set a hearing
+  qualifier: Upon verification
+  span: Upon verification of proper service, the Court will set a hearing on Plaintiffs' request for a Preliminary Injunction.
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: unreachable
+  checked: '2026-10-27'
+- type: date
+  value: 10/21/2026
+  qualifier: Entered
+  span: 'NOTICE of Service of Expedited Motion by John Doe, Orlando Rosales Salmeron re 20 Order,,,, (Udelsman, Andrew) (Entered: 10/21/2026)'
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: unreachable
+  checked: '2026-10-27'
+- type: date
+  value: November 20, 2026
+  qualifier: respond
+  span: Defendants' shall respond to Plaintiffs' Motion for Class Certification and Memorandum of Law in Support, ECF No. 9, by November 20, 2026.
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: unreachable
+  checked: '2026-10-27'
 tags:
 - ice-detention
 - overcrowding
@@ -243,6 +303,11 @@ sources:
   publisher: Florida Phoenix
   date: '2026-10-02'
   tier: 2
+- title: Docket, Salmeron v. Secretary of the U.S. Department of Homeland Security, No. 1:26-cv-26911 (S.D. Fla.), entries 20, 23, 24
+  url: https://www.courtlistener.com/docket/74907791/salmeron-v-secretary-of-the-us-department-of-homeland-security/
+  publisher: CourtListener/RECAP
+  date: '2026-10-27'
+  tier: 1
 corrections:
 - date: '2026-10-13'
   was: 'Title: "House Oversight Democrats Release Whistleblower Report: Miramar ICE Check-In Office Held 342 People, Capacity 50"; "the building, with its maximum capacity of 50 people, at one point held 342 people"'
@@ -264,8 +329,27 @@ corrections:
   now: The entry adds NBC6's July 2026 report that ICE called the site a "check-in location" and said the number held "varies based on operational needs".
   why: https://www.nbcmiami.com/news/local/congresswoman-allegations-miramar-ice-processing-facility/3828909/
   found_by: "editorial verification, 2026-10-13"
+updates:
+- date: '2026-10-16'
+  date_kind: order entered
+  heading: Judge Bloom denies a TRO in the Miramar class action and holds the preliminary injunction in abeyance
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: captured
+  captured_by: capture-watch
+  cluster: ice-detention-miramar
 ---
 
 Reps. Robert Garcia, Bennie G. Thompson and Maxwell Frost, the Ranking Members of the House Oversight and Homeland Security committees and an Oversight subcommittee, wrote to the Acting ICE Director and the DHS Inspector General on September 21, 2026, citing confidential whistleblower disclosures about the Miramar, Florida ICE office. The letters say the whistleblowers are ICE employees. They say the facility, with "a rated capacity of 56 people," is "allegedly routinely detaining hundreds, including up to 342 people during one day in August." The 342 is what the employees alleged to the lawmakers, not a count. The letters say Democrats on the Oversight and Homeland Security committees "are investigating," and describe brutal conditions that put "staff, detainees, and the public at imminent risk of serious harm or death." The facility is intended as a check-in and processing center where people are held for less than 12 hours.
 
 ICE has denied overcrowding allegations: in July, NBC6 reported that ICE called the Miramar site a "check-in location" and said "the number of individuals held at the facility varies based on operational needs." A federal class action filed in Miami, Salmeron v. Secretary of DHS, No. 1:26-cv-26911 (S.D. Fla.), alleges DHS and ICE are using the office as a de facto civil detention center. Its complaint describes a whistleblower allegation, later reported in congressional letters, that placed the Miramar Facility's population at 342 people on a single day in August; its figure of 150 is what Rep. Wasserman Schultz observed on her unannounced July 2 inspection.
+
+## Update (2026-10-16, order entered): Judge Bloom denies a TRO in the Miramar class action and holds the preliminary injunction in abeyance
+
+In Salmeron v. Secretary of the U.S. Department of Homeland Security in the Southern District of Florida, a paperless order entered 10/16/2026 denied the plaintiffs' request for a temporary restraining order "as the Expedited Motion seeks relief that extends beyond preserving the status quo." The order held the request for a preliminary injunction "in abeyance until Plaintiffs file a notice with the Court verifying that Defendants have been served with the Expedited Motion," and said that after verification the Court "will set a hearing" on it. The plaintiffs filed that notice on 10/21/2026. On the same day a second paperless order set the government's response to the class-certification motion for "November 20, 2026." In the docket copy read for this update, no preliminary-injunction hearing date appears among the entries.
