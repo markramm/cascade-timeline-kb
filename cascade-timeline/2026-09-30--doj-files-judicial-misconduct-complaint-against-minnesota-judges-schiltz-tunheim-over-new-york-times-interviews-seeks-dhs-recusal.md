@@ -129,6 +129,12 @@ sources:
 - title: emptywheel, Stan Woodward Defies Law of Gravity to Attack Minnesota Judges (Oct. 23, 2026)
   url: https://emptywheel.net/?p=219684
   tier: 3
+corrections:
+- date: '2026-10-27'
+  was: 'One motion is in a sealed habeas case before Schiltz (with filing dates and docket numbers unconfirmed)'
+  now: 'Motions filed 2026-10-20; the Schiltz motion is in a civil denaturalization case, United States v. Ahmed, 0:26-cv-02536 (D. Minn.); details moved to the 2026-10-20 entry'
+  why: 'CourtListener/RECAP docket 0:26-cv-02536 (ECF 11-12, filed 10/20/2026), read 2026-10-27 by tick37-b; the habeas characterization came from a secondary source'
+  found_by: investigation-conductor tick 37
 verification: source-verified
 ---
 
@@ -136,7 +142,7 @@ On September 30, 2026, the Justice Department announced it had filed a complaint
 
 **The government's framing.** Attorney General Todd Blanche said the judges spoke to the Times "in a manner that the Department of Justice views as a clear violation of their ethical duties." Associate Attorney General Stanley E. Woodward, Jr. accused them of "launching a partisan press campaign." These are DOJ's allegations. We found no finding by the Eighth Circuit.
 
-**Recusal motions, secondary source only.** Marcy Wheeler of emptywheel later reported that Woodward "has now moved to recuse the two judges named." One motion is in a sealed habeas case before Schiltz. The other is in a criminal case before Tunheim charging a defendant with "registering and voting as a non-citizen in 2024." We have not read either motion, and RECAP holds neither. Their filing dates and docket numbers are unconfirmed. Wheeler also disputes the complaint's account of the interview, writing that "Judge Schiltz didn’t compare the Administration to foreign adversaries." That is her reading, not a finding.
+**Recusal motions.** Marcy Wheeler of emptywheel later reported that Woodward "has now moved to recuse the two judges named." The motions and their dockets are in [[2026-10-20--doj-associate-ag-woodward-moves-to-disqualify-judges-schiltz-and-tunheim-over-new-york-times-interview-in-two-cases]]. Wheeler also disputes the complaint's account of the interview, writing that "Judge Schiltz didn’t compare the Administration to foreign adversaries." That is her reading, not a finding.
 
 **Not read.** The complaint itself. The DOJ release does not link a copy.
 
