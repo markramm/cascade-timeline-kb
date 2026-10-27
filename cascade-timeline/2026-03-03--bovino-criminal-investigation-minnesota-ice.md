@@ -48,6 +48,12 @@ sources:
   title: ICE and Border Patrol Agents Face Official Investigation
   url: https://www.newsweek.com/ice-border-patrol-agents-greg-bovino-official-investigation-11609431
 status: confirmed
+corrections:
+- date: '2026-10-27'
+  was: "Ellis, in a 233-page ruling, found that agents under Bovino's command 'falsely depicted ordinary Chicagoans as professional agitators'; 'During deposition, the judge described Bovino as evasive'"
+  now: "The 233-page opinion is ECF 281, dated 2025-11-20. It finds Bovino's testimony 'not credible' and says the agents' 'professional agitators' description 'undermines the agents' credibility' (p.116); it was Bovino who 'appeared evasive over the three days of his deposition' (p.11), not the judge describing him during a deposition. This is the same judicial act as the 2025-11-06 Ellis entry, not a second instance."
+  why: "Quote and speaker mismatch against the opinion text; 'falsely depicted' is not the court's wording. Verified against ECF 281 (CourtListener storage host)."
+  applied_to_substack: false
 tags:
 - immigration-enforcement
 - police-brutality
@@ -74,7 +80,7 @@ On March 3, 2026, Hennepin County Attorney Mary Moriarty announced the opening o
 
 Operation Metro Surge was a large-scale immigration enforcement operation launched in December 2025 under Bovino's command in the Minneapolis-St. Paul metropolitan area. The operation became nationally controversial in January 2026 when federal agents killed two individuals, Alex Pretti and Renee Good, during enforcement actions — deaths that sparked protests and calls for accountability. Investigators are examining Bovino's January 21, 2026 deployment of a chemical agent into a crowd of protesters near Mueller Park as a potential criminal offense.
 
-Bovino had previously been the subject of judicial criticism: in a federal court case arising from the Chicago immigration operations that preceded Operation Metro Surge, Judge Sara Ellis singled out Bovino in a 233-page ruling, finding that agents under his command "falsely depicted ordinary Chicagoans as professional agitators." During deposition, the judge described Bovino as "evasive," either providing "cute responses" or "outright lying."
+Bovino had previously been the subject of judicial criticism: in a federal court case arising from the Chicago immigration operations that preceded Operation Metro Surge, Judge Sara Ellis, in a 233-page opinion dated November 20, 2025 (ECF 281, Chicago Headline Club v. Noem), found that Bovino's testimony was "not credible." She wrote that he "appeared evasive over the three days of his deposition, either providing 'cute' responses to Plaintiffs' counsel's questions or outright lying," and that he admitted in his deposition that he lied multiple times about the events that prompted him to throw tear gas. The same opinion said the agents' description of neighbours and others as "professional agitators" undermined their credibility. The Seventh Circuit later vacated the injunction that rested on the opinion without reviewing the credibility finding; see [[2026-03-05--seventh-circuit-vacates-ellis-injunction-chicago-headline-club]].
 
 Following the killings of Pretti and Good and the resulting public backlash, the Trump administration removed Bovino from his command of the Minneapolis operation and reassigned him to his previous position as chief patrol agent in El Centro, California — a reassignment critics characterized as a lateral transfer protecting a favored official from accountability rather than discipline. White House border czar Tom Homan assumed personal oversight of the operation's final phase.
 

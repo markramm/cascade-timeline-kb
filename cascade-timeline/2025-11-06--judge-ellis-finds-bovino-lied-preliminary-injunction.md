@@ -58,6 +58,11 @@ sources:
   outlet: Chicago Sun-Times
 status: confirmed
 corrections:
+- date: '2026-10-27'
+  was: "The 16-page written order of November 6 (ECF 252) found the defendants' accounts 'simply not credible'; the Seventh Circuit 'vacated the preliminary injunction on March 5, 2026'"
+  now: "ECF 250 (Nov 6, 8 pages) is the injunction order; ECF 252 (Nov 6, 16 pages) is the class-certification opinion with one credibility sentence; the Bovino findings are in ECF 281, the 233-page opinion dated Nov 20, 2025. The Seventh Circuit opinion is dated March 5, 2026; the judgment vacating the injunction was entered April 27, 2026 (ECF 364); the panel said the credibility finding was never reviewed."
+  why: "Page counts and dates were attached to the wrong documents. Verified against the docket entries and the opinions on the CourtListener storage host (Chicago Headline Club v. Noem, No. 1:25-cv-12173 N.D. Ill.). The earlier '39-page' figure has no matching docket document; its origin is unresolved."
+  applied_to_substack: false
 - date: '2026-10-17'
   was: "\"The judge's 39-page ruling\"; \"Explicit finding of perjury\"; \"Defendant Bovino admitted that he lied\" attributed directly to the court"
   now: "16-page written order (233-page opinion on Nov 20); finding that Bovino's testimony was not credible and that he was 'either providing cute responses or outright lying'; the 'admitted that he lied' quote is WTTW's report of the oral ruling"
@@ -79,7 +84,7 @@ coverage:
     publication: theramm
 ---
 
-On November 6, 2025, U.S. District Judge Sara Ellis issued a devastating preliminary injunction against Border Patrol Commander Gregory Bovino and federal immigration enforcement agents in Chicago, in a ruling from the bench that, as WTTW reported it, found that Bovino "admitted that he lied" about the October 23, 2025 tear gas incident in Little Village. The 16-page written order the same day (ECF 252) found that the defendants' accounts of the protests and uses of force "are simply not credible"; the judge's 233-page Opinion and Order followed on November 20, 2025 (ECF 281). Together the rulings found that federal agents repeatedly used force that "shocks the conscience" and then gave accounts the court did not credit, imposing sweeping restrictions on immigration enforcement tactics in the Chicago area.
+On November 6, 2025, U.S. District Judge Sara Ellis issued a devastating preliminary injunction against Border Patrol Commander Gregory Bovino and federal immigration enforcement agents in Chicago, in a ruling from the bench that, as WTTW reported it, found that Bovino "admitted that he lied" about the October 23, 2025 tear gas incident in Little Village. The written preliminary injunction order the same day (ECF 250, 8 pages) set the terms; a 16-page Opinion and Order the same day (ECF 252) certified the class and described the defendants' accounts of the protests and uses of force as "simply not credible"; and the judge's 233-page Opinion and Order, the written preliminary-injunction opinion where the Bovino findings are set out, followed on November 20, 2025 (ECF 281). Together the rulings found that federal agents repeatedly used force that "shocks the conscience" and then gave accounts the court did not credit, imposing sweeping restrictions on immigration enforcement tactics in the Chicago area.
 
 ## The Central Finding: Bovino Lied Under Oath
 
@@ -198,6 +203,6 @@ Most critically, the ruling demonstrates that even explicit judicial findings of
 
 ## What the later record shows
 
-The November 20, 2025 Opinion and Order (ECF 281, 233 pages) found: "the Court specifically finds his testimony not credible"; Bovino was "either providing 'cute' responses to Plaintiffs' counsel's questions or outright lying" in his deposition; and "Bovino admitted in his deposition that he lied multiple times about the events that occurred in Little Village." The Seventh Circuit vacated the preliminary injunction on March 5, 2026 without ruling on the credibility finding; see [[2026-03-05--seventh-circuit-vacates-ellis-injunction-chicago-headline-club]]. CBP's Office of Professional Responsibility then compelled a declaration from Bovino on the findings; see [[2026-03-02--cbp-opr-compelled-declaration-bovino-ellis-credibility-findings]].
+The November 20, 2025 Opinion and Order (ECF 281, 233 pages) found: "the Court specifically finds his testimony not credible"; Bovino was "either providing 'cute' responses to Plaintiffs' counsel's questions or outright lying" in his deposition; and "Bovino admitted in his deposition that he lied multiple times about the events that occurred in Little Village." The Seventh Circuit decided the appeal in a per curiam opinion dated March 5, 2026, and its judgment vacating the preliminary injunction and dismissing the appeal was entered April 27, 2026 (No. 25-3023, ECF 364), without ruling on the credibility finding; see [[2026-03-05--seventh-circuit-vacates-ellis-injunction-chicago-headline-club]]. CBP's Office of Professional Responsibility then compelled a declaration from Bovino on the findings; see [[2026-03-02--cbp-opr-compelled-declaration-bovino-ellis-credibility-findings]].
 
 **Correction (2026-10-17):** An earlier version of this entry called the November 6 ruling a "39-page" order, attributed "admitted that he lied" directly to the court, and described an "explicit finding of perjury." The written order of November 6 is 16 pages; the quote is WTTW's report of the oral ruling; and no court made a perjury finding (perjury is a crime and Bovino was not charged). The court's own words are quoted above.
