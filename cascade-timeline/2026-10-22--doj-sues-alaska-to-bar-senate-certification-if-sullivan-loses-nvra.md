@@ -373,6 +373,8 @@ sources:
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
+- title: If Sullivan Narrowly Loses, DOJ Wants Alaska Barred From Certifying
+  url: https://theramm.transparencycascade.org/p/if-sullivan-narrowly-loses-doj-wants
 updates:
 - date: '2026-10-25'
   date_kind: filing date
