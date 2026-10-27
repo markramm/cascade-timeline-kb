@@ -278,6 +278,51 @@ claims:
   source_kind: reporting
   outcome: verified
   checked: '2026-10-22'
+- type: date
+  value: October 26, 2026
+  span: 'Date: October 26, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: hereby appeal to the United States Court of Appeals
+  span: PLEASE TAKE NOTICE that Defendants hereby appeal to the United States Court of Appeals
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-26'
+- type: figure
+  value: '89'
+  span: Case 4:26-cv-10680-AMO Document 89 Filed 10/26/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-26'
+- type: quote
+  value: NOTICE OF PI APPEAL
+  span: NOTICE OF PI APPEAL 4:26-cv-10680-AMO
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-26'
+- type: date
+  value: October 21, 2026
+  span: October 21, 2026 Order Granting Preliminary Injunction. See
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-26'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -303,11 +348,34 @@ sources:
     publisher: CBS News
     date: '2026-10-21'
     tier: 2
+  - title: CNA v. DHS, N.D. Cal. 4:26-cv-10680, Notice of PI Appeal (Dkt. 89)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.89.0.pdf
+    publisher: U.S. District Court, N.D. Cal. (via RECAP)
+    date: '2026-10-26'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
+updates:
+- date: '2026-10-26'
+  date_kind: filing date
+  heading: Government appeals the preliminary injunction to the Ninth Circuit
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
 
 This is a preliminary ruling with a narrow legal footing, not a merits decision. The court found only the nurses' associations (CNA/NNU) had shown standing, and only on intimidation of voter assistance and mobilization under Voting Rights Act section 11(b). It held the San Francisco and Santa Clara County plaintiffs and Voto Latino had not clearly shown standing, did not reach the Administrative Procedure Act claims for want of an adequately shown final agency action, and found CNA/NNU likely to succeed on the section 11(b) claim. The court says plainly it does not find that investigating unlawful voting is itself unlawful, and that it makes no findings on the extent of voter fraud. On the record, it points to a high likelihood of error in the review of target lists because no federal database holds the citizenship status of U.S. residents. Context: the injunction reaches the nine-state surge documented in [[2026-09-01--dhs-hsi-voter-fraud-surge-nine-states-midterms]], the government's own account of it in [[2026-09-28--cna-v-mullin-government-says-hsi-surged-voter-fraud-investigations-after-uscis-leads]], and the HSI broadcast in [[2026-08-28--hsi-domestic-operations-broadcast-to-all-sacs-voter-fraud-surge-requested-by-ad-krol-in-california-nurses-amended-record]]. It does not touch the California voter-list fight in [[2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built]].
+
+## Update (2026-10-26, filing date): Government appeals the preliminary injunction to the Ninth Circuit
+
+On October 26, 2026, the defendants filed a notice of appeal (Document 89, "NOTICE OF PI APPEAL") stating that they "hereby appeal to the United States Court of Appeals" for the Ninth Circuit from Judge Martínez-Olguín's October 21 order granting the preliminary injunction. A notice of appeal is not a ruling: the injunction stays in effect unless a court stays it.
