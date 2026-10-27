@@ -323,6 +323,78 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: Tuesday, October 27
+  span: 15 today, Tuesday, October 27, asking the Ninth Circuit to decide the stay motion by Thursday, October 29,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: the imminence of the election
+  span: 12 the district court to request a stay pending appeal. Given the imminence of the election, the government
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: as quickly as possible
+  span: 13 respectfully requests a decision on this ex parte motion as quickly as possible. The government
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: today, Tuesday, October 27,
+  span: 15 today, Tuesday, October 27, asking the Ninth Circuit to decide the stay motion by Thursday, October 29,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: Thursday, October 29
+  span: 15 today, Tuesday, October 27, asking the Ninth Circuit to decide the stay motion by Thursday, October 29,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-27'
+- type: attribution
+  value: plans to file a motion to stay in the Ninth Circuit
+  span: 14 respectfully informs the Court that the government plans to file a motion to stay in the Ninth Circuit
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: may be substantially chilled in enforcing federal voting law in the run-up to a nationwide election.
+  span: 9 DHS may be substantially chilled in enforcing federal voting law in the run-up to a nationwide election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-10-27'
+- type: attribution
+  value: immediately stay the preliminary injunction pending appeal
+  span: 10 The Court should immediately stay the preliminary injunction pending appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -353,6 +425,11 @@ sources:
     publisher: U.S. District Court, N.D. Cal. (via RECAP)
     date: '2026-10-26'
     tier: 1
+  - title: Defendants' Ex Parte Motion to Stay Preliminary Injunction Pending Appeal, ECF 90, California Nurses Ass'n v. DHS, No. 4:26-cv-10680-AMO (N.D. Cal.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.90.0.pdf
+    publisher: U.S. District Court, N.D. Cal. (via RECAP)
+    date: '2026-10-27'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -370,6 +447,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-10-27'
+  date_kind: filing date
+  heading: DHS asks the court to stay the injunction and says it will ask the Ninth Circuit to rule by Oct. 29
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -379,3 +472,7 @@ This is a preliminary ruling with a narrow legal footing, not a merits decision.
 ## Update (2026-10-26, filing date): Government appeals the preliminary injunction to the Ninth Circuit
 
 On October 26, 2026, the defendants filed a notice of appeal (Document 89, "NOTICE OF PI APPEAL") stating that they "hereby appeal to the United States Court of Appeals" for the Ninth Circuit from Judge Martínez-Olguín's October 21 order granting the preliminary injunction. A notice of appeal is not a ruling: the injunction stays in effect unless a court stays it.
+
+## Update (2026-10-27, filing date): DHS asks the court to stay the injunction and says it will ask the Ninth Circuit to rule by Oct. 29
+
+In an ex parte motion filed Tuesday, October 27, the government asks the court to stay the preliminary injunction pending appeal. Citing "the imminence of the election," it asks for a decision "as quickly as possible" and says it plans to file a motion to stay in the Ninth Circuit "today, Tuesday, October 27," asking that court to decide by Thursday, October 29, if the district court has not already granted a stay. The motion argues that DHS "may be substantially chilled in enforcing federal voting law in the run-up to a nationwide election." These are the government's arguments, not a ruling.
