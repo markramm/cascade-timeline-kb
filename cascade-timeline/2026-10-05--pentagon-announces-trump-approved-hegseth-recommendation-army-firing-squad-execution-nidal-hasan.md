@@ -2,9 +2,11 @@
 type: timeline_event
 id: 2026-10-05--pentagon-announces-trump-approved-hegseth-recommendation-army-firing-squad-execution-nidal-hasan
 date: '2026-10-05'
-title: "Pentagon announces Trump approved Hegseth's recommendation that Nidal Hasan be executed by Army firing squad; Acting Army Secretary Telle sets Dec. 3 at Fort Hood"
+title: "Pentagon announces Trump approved Hegseth's recommendation that Nidal Hasan be executed by Army firing squad; Army sets the execution at Fort Hood"
 importance: 7
 status: reported
+event_date_claim: c1
+source_published_date: '2026-10-06'
 tags:
 - death-penalty
 - military-justice
@@ -18,6 +20,16 @@ actors:
 - Adam Telle
 - Nidal Hasan
 sources:
+- title: "Parnell X post announcing the approval"
+  url: https://x.com/SeanParnellASW/status/2107252342097637558
+  publisher: X (@SeanParnellASW)
+  date_kind: posted
+  tier: 1
+- title: "Acting Army Secretary X post setting the execution schedule"
+  url: https://x.com/SecArmy/status/2107637981528125857
+  publisher: X (@SecArmy)
+  date_kind: posted
+  tier: 1
 - title: "Trump says government won't livestream execution of Fort Hood shooter Nidal Hasan"
   url: https://www.nbcnews.com/politics/donald-trump/trump-no-livestream-execution-nidal-hasan-rcna603697
   outlet: NBC News
@@ -46,22 +58,116 @@ sources:
   date: '2025-09-24'
   date_kind: publication
   tier: 3
+verification: source-verified
 claims:
-- {id: c1, type: quote, value: "signed off on a recommendation from Defense Secretary Pete Hegseth", qualifier: "Military.com's paraphrase of Pentagon chief spokesperson Sean Parnell's social-media announcement on Monday (2026-10-05); Parnell's own post text not retrieved", span: "signed off on a recommendation from Defense Secretary Pete Hegseth", url: "https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945", read: fetched, source_kind: secondary}
-- {id: c2, type: quote, value: "Justice.", qualifier: "Hegseth's one-word reply post, as reported", span: "Justice.", url: "https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945", read: fetched, source_kind: secondary}
-- {id: c3, type: date, value: "Dec. 3, 2026, 1 p.m. Central, Fort Hood", qualifier: "execution date set by Acting Army Secretary Adam Telle; announced Tuesday 2026-10-06 per CNBC/Al Jazeera reporting", span: "Telle set the execution for December 3 at 1pm local time (18:00 GMT), at Fort Hood, Texas", url: "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that", read: fetched, source_kind: secondary}
-- {id: c4, type: quote, value: "This savage terrorist deserves the harshest lawful punishment for his 2009 mass shooting at Fort Hood.", qualifier: "Hegseth to Fox News Digital, September 2025, before the approval", span: "This savage terrorist deserves the harshest lawful punishment for his 2009 mass shooting at Fort Hood.", url: "https://www.foxnews.com/politics/pentagon-seeks-trump-approval-first-us-military-execution-60-years-fort-hood-mass-shooting", read: fetched, source_kind: secondary}
-- {id: c5, type: date, value: "1961 (Bennett, hanging); 1945 (Slovik, firing squad)", qualifier: "'first since 1945' refers to the firing-squad method only; no service member has been executed by any method since 1961", span: "No service member has been executed by any method since 1961, when the Army hanged Pvt. John Bennett", url: "https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945", read: fetched, source_kind: secondary}
-- {id: c6, type: quote, value: "Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan", qualifier: "Parnell X post Monday 2026-10-05, quoted verbatim by CNBC (published 2026-10-06T02:23Z, read in full via direct fetch 2026-10-16); the X post itself not fetchable", span: "\"Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan, the jihadist who opened fire on unarmed American soldiers at Fort Hood in 2009,\" Pentagon spokesman Sean Parnell said in a post on X on Monday.", url: "https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html", read: fetched, source_kind: secondary}
-- {id: c7, type: record, value: "Terre Haute lethal injection planned for months; then Fort Leavenworth; officials surprised again by Fort Hood", qualifier: "one anonymous U.S. official to NBC News (2026-10-15), read in full via direct fetch", span: "For months, U.S. Army officials have been planning for an execution at the Federal Facility at Terre Haute by lethal injection, the official said. Once Hegseth began discussing the possibility of a firing squad, Army officials began planning for it to occur at Fort Leavenworth and were surprised again by the decision for Fort Hood, the official said.", url: "https://www.nbcnews.com/politics/donald-trump/trump-no-livestream-execution-nidal-hasan-rcna603697", read: fetched, source_kind: secondary}
+- id: c1
+  type: date
+  value: Monday
+  qualifier: said in a post on X
+  span: '"Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan, the jihadist who opened fire on unarmed American soldiers at Fort Hood in 2009," Pentagon spokesman Sean Parnell said in a post on X on Monday.'
+  url: https://www.cnbc.com/2026/10/06/trump-execution-nidal-hasan-firing-squad-fort-hood.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c2
+  type: quote
+  value: Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan
+  qualifier: has approved
+  span: Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan, the jihadist who opened fire on unarmed American soldiers at Fort Hood in 2009.
+  url: https://x.com/SeanParnellASW/status/2107252342097637558
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c3
+  type: quote
+  value: The Secretary of the Army will set the time and place of the execution.
+  qualifier: will set
+  span: The Secretary of the Army will set the time and place of the execution.
+  url: https://x.com/SeanParnellASW/status/2107252342097637558
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c4
+  type: quote
+  value: Justice.
+  qualifier: one-word
+  span: 'Hegseth marked the news with a one-word social media post: "Justice."'
+  url: https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c5
+  type: date
+  value: Thursday, December 3rd, 2026, at 1 p.m. CT
+  qualifier: will take place
+  span: The execution of Nidal Hasan by firing squad will take place at Fort Hood, Texas on Thursday, December 3rd, 2026, at 1 p.m. CT.
+  url: https://x.com/SecArmy/status/2107637981528125857
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c6
+  type: quote
+  value: This savage terrorist deserves the harshest lawful punishment for his 2009 mass shooting at Fort Hood.
+  qualifier: harshest lawful punishment
+  span: This savage terrorist deserves the harshest lawful punishment for his 2009 mass shooting at Fort Hood.
+  url: https://www.foxnews.com/politics/pentagon-seeks-trump-approval-first-us-military-execution-60-years-fort-hood-mass-shooting
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c7
+  type: date
+  value: '1961'
+  qualifier: any method
+  span: No U.S. service member has been executed by any method since 1961, when the Army hanged Pvt. John Bennett.
+  url: https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c8
+  type: date
+  value: '1945'
+  qualifier: firing squad
+  span: The last American service member executed by firing squad was Army Pvt. Eddie Slovik, who was put to death in France in 1945 for desertion—the only U.S. soldier executed for that offense since the Civil War.
+  url: https://www.military.com/trump-hegseth-clear-way-for-first-army-firing-squad-execution-since-1945
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c10
+  type: quote
+  value: will take place at Fort Hood, Texas on Thursday, December 3rd, 2026, at 1 p.m. CT
+  qualifier: will take place
+  span: The execution of Nidal Hasan by firing squad will take place at Fort Hood, Texas on Thursday, December 3rd, 2026, at 1 p.m. CT.
+  url: https://x.com/SecArmy/status/2107637981528125857
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-10-26'
+- id: c9
+  type: quote
+  value: surprised again by the decision for Fort Hood
+  qualifier: Army officials
+  span: Once Hegseth began discussing the possibility of a firing squad, Army officials began planning for it to occur at Fort Leavenworth and were surprised again by the decision for Fort Hood, the official said.
+  url: https://www.nbcnews.com/politics/donald-trump/trump-no-livestream-execution-nidal-hasan-rcna603697
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-26'
 ---
 
-The Pentagon announced on Monday 2026-10-05 (announcement date, via chief spokesperson Sean Parnell on social media) that President Trump had approved Defense Secretary Pete Hegseth's recommendation that Nidal Hasan, the Army psychiatrist sentenced to death in 2013 for the 2009 Fort Hood shooting, be executed by Army firing squad. Hegseth replied with the one word "Justice." The signing date itself is not stated in the coverage retrieved; one search summary gave 2026-10-02 from a Telle post on X, which could not be confirmed and is not relied on here. Acting Army Secretary Adam Telle then set the execution for 2026-12-03, 1 p.m. Central, at Fort Hood (set date, reported Tuesday 2026-10-06; the Army order itself was not retrieved).
+Chief Pentagon spokesperson Sean Parnell announced the decision Monday on social media: Pentagon spokesman Parnell wrote that "Secretary of War Pete Hegseth has recommended — and President Donald J. Trump has approved — death by U.S. Army firing squad for convicted terrorist Nidal Malik Hasan" (X post, posted Monday 23:31 UTC). Hasan is the Army psychiatrist convicted over the Fort Hood shooting. Parnell's post says "The Secretary of the Army will set the time and place of the execution." It gives no signing date. Hegseth marked the news with a one-word reply post, "Justice."
 
-What is "first": coverage frames it as the first Army firing-squad execution since Pvt. Eddie Slovik in 1945. That claim is about the method. No service member has been executed by any method since 1961 (Pvt. John Bennett, hanged), and that is the sense in which the CNN headline "first firing-squad execution in decades" is accurate. A death sentence in the military requires the President's confirmation; the approval here is that step.
+The Army then set the schedule. An X post from the Acting Secretary of the Army account, posted Tuesday evening Central time (Wednesday 01:03 UTC), says the execution "will take place at Fort Hood, Texas on Thursday, December 3rd, 2026, at 1 p.m. CT." The Army's written order was not retrieved.
 
-Context for the record: Hegseth told Fox News Digital in September 2025 that Hasan "deserves the harshest lawful punishment." Hasan's final legal challenge was rejected in April 2025 (per the same report). Habeas litigation in federal court could still delay the date (expert view reported by Axios/Al Jazeera, not tested). No victim of the 2009 shooting is named here; none was quoted in the sources used.
+Background: Hegseth told Fox News Digital before the approval that Hasan "deserves the harshest lawful punishment for his 2009 mass shooting at Fort Hood." Military.com reports that no U.S. service member has been executed by any method since 1961, when the Army hanged Pvt. John Bennett, and that the last American service member executed by firing squad was an Army private, in 1945. The 1945 date is about the method, not about any execution at all.
 
-Open: Parnell's own post, the Army order, and the actual approval date (Tier-1) were not retrieved; CNN, CNBC, NPR, WaPo returned 403/451/timeouts to this worker. Sequel entries: 2026-10-08 livestream plan, 2026-10-15 reversal.
+Site choice: a U.S. official told NBC News that Army officials had spent months planning a lethal injection at a federal facility; after Hegseth began discussing a firing squad they planned for Fort Leavenworth, and were "surprised again by the decision for Fort Hood." The base was renamed from Fort Cavazos in 2025 (see [[2025-06-10--army-announces-seven-base-name-reversals-fort-cavazos-becomes-fort-hood-honoring-col-robert-b-hood]]).
 
-**Site choice (added 2026-10-16).** A U.S. official told NBC News (2026-10-15) that Army officials had planned for months a lethal injection at the federal facility at Terre Haute; once Hegseth discussed a firing squad they planned for Fort Leavenworth, and were "surprised again by the decision for Fort Hood." The base had been renamed from Fort Cavazos in June 2025 (see [[2025-06-10--army-announces-seven-base-name-reversals-fort-cavazos-becomes-fort-hood-honoring-col-robert-b-hood]]).
+Sequel entries: the livestream plan, then the reversal.
