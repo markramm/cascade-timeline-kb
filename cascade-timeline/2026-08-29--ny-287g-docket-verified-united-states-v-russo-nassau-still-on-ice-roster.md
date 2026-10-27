@@ -53,6 +53,11 @@ sources:
     publisher: "ABC7 New York"
     date: '2026-08-26'
     tier: 2
+corrections:
+- date: '2026-10-27'
+  was: 'ECF 53 concerns only Civil Rights Law §§ 101-102 and is not the 287(g) ruling; its bearing on the 287(g) ban not established'
+  now: 'ECF 53 enjoins §§ 101-102 and, in footnote 15, denies the preliminary injunction against Executive Law § 170-k (the Termination Act, the 287(g) ban)'
+  why: 'ECF 53 read in full from the RECAP copy (gov.uscourts.nynd.154967.53.0_1.pdf); the 08-29 pass had not pulled the order'
 ---
 
 ## What happened
@@ -82,23 +87,14 @@ Verified directly from the federal docket (CourtListener/RECAP mirror,
 - **The complaint originally referenced 287(g) agreement counts** — on July 8, 2026 the court
   ordered the government to file a letter "identifying any references in the complaint to the
   number of 287(g) agreements in the Western District of New York" — so 287(g) is contextually
-  present in this litigation's background, but is **not the statute the Aug 3 ruling adjudicates.**
-- **The Aug 3, 2026 order (ECF 53) itself concerns New York Civil Rights Law § 101 (the "Face
-  Covering Act") and § 102 (the "Identification Act")** — statutes restricting ICE agent conduct
-  (mask-wearing, identification requirements) in the field. This is a **different, though
-  related, New York statute from the Local Cops, Local Crimes Act** that bans local 287(g)
-  participation. The order grants the United States' preliminary-injunction motion in part and
-  denies it in part as to those two statutes specifically. **Whether this ruling has any direct
-  bearing on the Local Cops, Local Crimes Act's 287(g) ban was not established this pass** — the
-  prior framing ("denying DOJ's injunction request against the Local Cops, Local Crimes Act") is
-  not supported by what this docket actually adjudicates and should not be repeated without
-  further verification.
+  present in this litigation's background.
+- **The Aug 3, 2026 order (ECF 53) decides both sets of statutes.** It preliminarily enjoins New York Civil Rights Law § 101 (the "Face
+  Covering Act") and § 102 (the "Identification Act"), and it denies the motion as to the 287(g) ban. Footnote 15 reads: "the Court finds that
+  the United States has not demonstrated a likelihood of success on the merits of its claims challenging New York Executive Law § 170-k (the
+  "Termination Act"). Thus, the United States' motion is denied to the extent it seeks a preliminary injunction enjoining the enforcement" of it.
+  The United States filed a notice of appeal from ECF 53 on Oct. 2, 2026.
 
-**Confidence**: high on docket identity, filing history, and subject matter (all read directly
-off the federal docket's own entries). Lower on how this ruling relates to the Local Cops, Local
-Crimes Act specifically — that connection, if any, was not confirmed and needs its own pass
-against the actual order text (ECF 53), which was not independently pulled this session (PACER
-paywall; RECAP has not purchased it).
+**Confidence**: high. The order was read from the RECAP copy (ECF 53) on 2026-10-27; see the correction below.
 
 ## Second docket confirmed cleanly
 
