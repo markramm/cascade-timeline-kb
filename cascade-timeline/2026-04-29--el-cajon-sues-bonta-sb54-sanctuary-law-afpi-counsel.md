@@ -16,23 +16,30 @@ actors:
   - Rob Bonta
   - America First Policy Institute
 sources:
+  - title: "El Cajon, backed by Trump-aligned think tank, sues California attorney general"
+    url: "https://www.nbcsandiego.com/news/local/el-cajon-trump-aligned-think-tank-sues-california-attorney-general/4017552/"
+    publisher: NBC 7 San Diego
+    author: Shelby Bremer
+    date: '2026-04-29'
+    tier: 2
+    note: "Fetched 2026-10-27 (HTTP 200). States the suit was 'filed Tuesday in San Diego County Superior Court'."
   - title: "El Cajon sues California Attorney General Bonta over California's sanctuary laws"
-    url: "https://www.cbs8.com"
+    url: "https://www.cbs8.com/article/news/local/el-cajon-sues-california-ag-bonta-over-californias-sanctuary-laws/509-85c4e933-772e-494c-8a33-508503a9e464"
     publisher: CBS 8 (San Diego)
     date: '2026-04-30'
     tier: 2
-    note: "URL is the outlet's homepage — evidence-search news_rss returned only a redirect link, not a direct article URL; WebFetch could not resolve the specific article path. Retrieve exact URL before publication use."
+    note: "Article URL surfaced by web search 2026-10-27; WebFetch returned HTTP 403, so content not read."
   - title: "El Cajon sues California attorney general over state's sanctuary law"
     url: "https://www.kpbs.org/news/border-immigration/2026/04/29/el-cajon-sues-california-attorney-general-over-states-sanctuary-law"
     publisher: KPBS
     date: '2026-04-29'
     tier: 2
   - title: "El Cajon sues California attorney general over state law limiting police cooperation with immigration"
-    url: "https://www.10news.com"
+    url: "https://www.10news.com/news/local-news/east-county-news/el-cajon-sues-california-attorney-general-over-state-law-limiting-police-cooperation-with-immigration-agents"
     publisher: ABC 10News San Diego
     date: '2026-04-29'
     tier: 2
-    note: "Homepage placeholder — same URL-resolution gap as CBS8 above."
+    note: "Fetched 2026-10-27 (HTTP 200). Says the mayor and AFPI 'announced the lawsuit outside City Hall'; does not name the court. Also states Bonta sued El Cajon 'late last year' over license plate data shared with federal and out-of-state agencies."
   - title: "El Cajon Sues California Attorney General Over Illegal Immigration Law | News Release"
     url: "https://www.americafirstpolicy.com"
     publisher: America First Policy Institute
@@ -59,6 +66,8 @@ The City of El Cajon (San Diego County) **announced** a lawsuit against Californ
 
 **Distinct from a separate, reverse legal conflict involving the same two parties**: California's AG office separately sued El Cajon (first reported around October 2025, continuing into 2026) over the city's automated license-plate-reader (ALPR) data being shared with federal immigration authorities in violation of state law restricting such sharing — the opposite posture, with the state suing the city rather than the city suing the state. Do not conflate the two dockets; they involve different legal theories (SB 54 preemption vs. ALPR-sharing statute) and opposite plaintiff/defendant postures. The ALPR dispute is not further researched here and may warrant its own entry.
 
-**Gaps**: Exact case name, U.S. District Court (Southern District of California is the presumptive venue but unconfirmed), and docket number have not been recovered. The docket could not be retrieved from CourtListener at the time of writing, which means the docket was not checked, not that none exists. justice.gov, AFPI's press release, and several outlet article URLs were not accessible. Recovering the docket number requires a PACER/RECAP pull.
+**Court and docket (checked 2026-10-27): this is a state-court case, so there is no federal docket to find.** NBC 7 San Diego reports the lawsuit "was filed Tuesday in San Diego County Superior Court" (Tuesday was April 28; KPBS and 10News describe the **announcement** on Wednesday, April 29). A CourtListener/RECAP search for El Cajon and Bonta in the Southern District of California returned no case, which fits a state filing but is not itself proof (RECAP holds only federal dockets that someone has pulled). The earlier assumption here that Southern District of California was the venue was wrong. The Superior Court case number is not in the sources read; it requires the San Diego Superior Court's online case index.
+
+**Gaps**: Superior Court case number and the complaint text (the § 1324(a)(1)(A)(iv) theory comes from KPBS's description, not the complaint). Any response, demurrer or ruling since April 2026 is unchecked. AFPI's press release (HTTP 403) and the CBS 8 article were not read.
 
 **Related**: [[2026-07-09--doj-sues-maryland-community-trust-act-21st-state]] documents DOJ's own campaign of ~21 sanctuary-preemption suits against states under the same 8 U.S.C. §§ 1373/1644 theory (a federal government suing states) — a structurally different posture from El Cajon's suit (a city suing a state), though both draw on the same statutory theory. A short menu of available anti-sanctuary legal arguments (§ 1373 preemption; § 1324 "inducement" theories) recurring across many jurisdictions is evidence of a limited move-set, not necessarily coordination — unless AFPI is later shown representing multiple similarly-postured city plaintiffs, which would be the actual mechanism worth naming.
