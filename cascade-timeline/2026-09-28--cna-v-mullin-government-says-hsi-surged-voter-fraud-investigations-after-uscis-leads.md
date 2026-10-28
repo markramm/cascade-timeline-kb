@@ -118,6 +118,9 @@ related_events:
 - 2026-10-01--ice-acting-director-lyons-tells-colorado-no-reason-for-ice-at-polling-places-hsi-investigates-voter-fraud
 capture_lanes:
 - Electoral Manipulation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 In its opposition to the plaintiffs' motion for an APA stay and preliminary injunction, filed 09/28/26 in California Nurses Association v. Mullin (N.D. Cal.), the government describes HSI's voter-fraud initiative in its own words. The brief says HSI made the operational decision to surge resources to these investigations in response to an influx of investigative leads from USCIS. It cites an August 31, 2026 weekly update that announced a coordinated Criminal Voter Fraud surge beginning September 1, 2026, to pursue investigative leads, conduct field interviews and support prosecutorial review. The brief lists the assigned states as Washington, Wisconsin, Missouri, Georgia, California and Pennsylvania, and adds that public reporting indicates Nevada, New York and Connecticut are included as well. It also says neither the update nor any other HSI guidance requires agents to interview all potential noncitizen voters.

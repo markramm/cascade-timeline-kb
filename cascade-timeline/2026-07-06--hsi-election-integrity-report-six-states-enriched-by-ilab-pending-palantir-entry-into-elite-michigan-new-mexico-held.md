@@ -73,6 +73,8 @@ claims:
 coverage:
   - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
     title: "What is Homeland Security Investigations? And why do you need to know?"
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 ## What the page says

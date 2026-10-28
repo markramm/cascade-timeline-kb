@@ -70,6 +70,9 @@ sources:
     publisher: Democracy Forward
     date: '2026-06-17'
     tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 An HSI criminal analyst in Victoria, Texas wrote to the Texas Secretary of State's Elections Division on April 7, 2026, citing "ongoing investigations within HSI Victoria, TX, Corpus Christi, TX, and surrounding areas," and asked how to obtain voter registration dates and methods and elections voted in. Her questions included whether to contact each county clerk or the Secretary of State, and: "Would an administrative subpoena suffice?"

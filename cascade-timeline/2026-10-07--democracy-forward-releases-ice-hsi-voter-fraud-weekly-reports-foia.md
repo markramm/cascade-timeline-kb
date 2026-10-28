@@ -211,6 +211,8 @@ coverage:
     title: "Why Is HSI Sending Undercover Agents Into Churches and Protest Groups? (The RAMM)"
   - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
     title: "What is Homeland Security Investigations? And why do you need to know?"
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 Democracy Forward published records it obtained from ICE's Homeland Security Investigations through the Freedom of Information Act: a 166-page production that it describes as containing a series of weekly reports. The requests were submitted on April 23, 2026, according to the joint status report in the case (Democracy Forward Foundation v. DHS, 1:26-cv-02624, Doc. 21 ¶1), consistent with Democracy Forward's release ("April 2026"). ICE's cover letter describes the requests as dated July 27, 2026, a date the government's own filing does not support, and carries the caption of Democracy Forward Foundation's FOIA suit, 1:26-cv-02624-BAH. ICE Bates-stamped 166 pages.

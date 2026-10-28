@@ -89,6 +89,8 @@ claims:
 coverage:
   - url: https://theramm.transparencycascade.org/p/506-million-records-seven-convictions
     title: "50.6 Million Records, Seven Convictions: HSI's Election Year, in Its Own Paper"
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 ## What the documents say

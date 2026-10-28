@@ -118,6 +118,9 @@ sources:
     publisher: Axios Raleigh
     date: '2026-06-17'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 An HSI Special Agent in the Laredo office (DSAC Laredo) emailed Webb County Elections Administrator Jose L. Castillo on May 12, 2026, "as discussed over the phone," asking for voter registration documents and voter records for seven listed individuals, and for a day to meet in person. On May 13, 2026 a Webb County staff member replied with scanned PDF attachments and wrote: "all the voter information you requested."

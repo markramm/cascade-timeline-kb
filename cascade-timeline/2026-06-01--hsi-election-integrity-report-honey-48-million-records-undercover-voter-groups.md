@@ -254,6 +254,8 @@ coverage:
     title: "Documents show DHS probed nonprofits, obtained millions of records in hunt for noncitizen voters (Michigan Advance, Oct. 7; covers the June 1 report's 82 reviewed nonprofits; ledger: daily-capture-reports/election/2026-10-07--hsi-voter-records-82-nonprofits-undercover-agents-democracy-forward-docs.md)"
   - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
     title: "What is Homeland Security Investigations? And why do you need to know?"
+  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 ---
 
 A Homeland Security Investigations election-integrity report dated 06/01/2026, headed Countering Transnational Organized Crime, records: "48.4 million records were obtained by DAS Heather Honey through independent sources of information." From a Justice Department dataset: "50.6 million records ingested; processing underway." It reports "Prioritizing 26,563 USCIS-derived records for downstream vetting" and "Leads Disseminated: 1,586 to 24 HSI field offices." It adds: "Datasets are currently with iLab for secondary enrichment and identification of high-value targets."
