@@ -39,6 +39,11 @@ sources:
     publisher: YouTube (independent uploader)
     date: '2026-10-17'
     tier: 1
+  - title: What Republicans mean when they ask Abdul El-Sayed to 'disavow' the Muslim Brotherhood
+    url: https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec
+    publisher: CNN
+    date: '2026-10-22'
+    tier: 2
 related_events:
   - 2026-10-02--michigan-daily-group-chat-200-offer-to-heckle-el-sayed-town-hall-claims-america-next
   - 2026-10-18--cbs-jan-crawford-deletes-post-praising-el-sayed-questioner-apologizes
@@ -116,6 +121,70 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-19'
+- type: quote
+  value: Will you disavow the Muslim Brotherhood?
+  qualifier: asked
+  span: At a town hall event in Caro, Michigan, over the weekend, a man in the audience asked Democratic Senate candidate Abdul El-Sayed, “Will you disavow the Muslim Brotherhood?”
+  url: https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Sure. Yeah, absolutely,
+  qualifier: replied
+  span: 'El-Sayed immediately recognized it as something more. “Sure. Yeah, absolutely,” he replied, then turned it back on the man: “Why are you asking the question?”'
+  url: https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Why are you asking the question?
+  qualifier: turned it back
+  span: 'El-Sayed immediately recognized it as something more. “Sure. Yeah, absolutely,” he replied, then turned it back on the man: “Why are you asking the question?”'
+  url: https://www.cnn.com/2026/10/22/us/word-of-week-abdul-el-sayed-disavow-cec
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Sure, yeah, absolutely,
+  qualifier: answered
+  span: 'El-Sayed answered: “Sure, yeah, absolutely,” then turned the question around, asking whether the man assumed he wouldn’t.'
+  url: https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: Saturday
+  qualifier: the event on Saturday
+  span: At the event on Saturday, an attender who gave his name only as “Tommy” shouted from the crowd, asking whether El-Sayed would disavow the movement.
+  url: https://www.theguardian.com/us-news/2026/oct/19/abdul-el-sayed-heckler-tommy
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-28'
+updates:
+- date: '2026-10-17'
+  date_kind: event date (town hall)
+  heading: El-Sayed's own words in answer to the disavowal question
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u5
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: america-next-baton-rouge-suite-el-sayed
 ---
 
 On October 17th, at an Abdul El-Sayed town hall in Caro, Michigan, an attender who gave his name
@@ -132,3 +201,7 @@ Louisiana governor Bobby Jindal.
 No document links Thomas Teepell's attendance to America Next, to its anti-El-Sayed spending, or to
 the College Republicans offer for the Flint town hall. The Handbasket asked America Next whether
 they hired and/or paid the younger Teepell and had yet to hear back when it published.
+
+## Update (2026-10-17, event date (town hall)): El-Sayed's own words in answer to the disavowal question
+
+Outlets that quote the exchange give El-Sayed's answer. CNN reports that when a man in the audience asked, "Will you disavow the Muslim Brotherhood?", El-Sayed replied, "Sure. Yeah, absolutely," then turned it back on the man: "Why are you asking the question?" The Guardian renders the reply as: "Sure, yeah, absolutely," and says he then asked whether the man assumed he wouldn't. The wording differs between them only in punctuation.
