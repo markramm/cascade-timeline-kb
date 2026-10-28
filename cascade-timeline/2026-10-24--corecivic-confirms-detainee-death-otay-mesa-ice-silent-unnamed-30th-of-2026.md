@@ -29,6 +29,16 @@ sources:
   publisher: ABC 10 News San Diego (KGTV)
   date: '2026-10-27'
   tier: 1
+- title: Family of man who died at Otay detention center says he had no previous medical conditions
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  publisher: KPBS (Alexander Nguyen)
+  date: '2026-10-27'
+  tier: 1
+- title: ICE detainee who died at Otay Mesa Detention Center identified as San Diego County supervisors demand answers
+  url: https://www.10news.com/news/local-news/san-diego-news/ice-detainee-who-died-at-otay-mesa-detention-center-identified-as-san-diego-county-supervisors-demand-answers
+  publisher: 10News San Diego (KGTV)
+  date: '2026-10-27'
+  tier: 1
 related_events:
 - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 - 2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026
@@ -117,6 +127,96 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: Tuesday
+  span: Supervisors Terra Lawson-Remer and Paloma Aguirre on Tuesday called on the Trump administration to stop obstructing the county from conducting health inspections at the Otay Mesa Facility.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-28'
+- type: figure
+  value: five children
+  span: His wife said Gutiérrez left behind five children and that he had no previous health conditions.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: no previous health conditions
+  span: His wife said Gutiérrez left behind five children and that he had no previous health conditions.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: fly his body back to Guatemala
+  span: The family is trying to fly his body back to Guatemala.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: Oct. 9
+  span: The agency said it arrested Gutiérrez in Escondido on Oct. 9 during an enforcement stop.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: cooperate with investigators and turn over records and video
+  span: called on ICE, the Trump administration and CoreCivic — the company that runs the facility — to cooperate with investigators and turn over records and video.
+  url: https://www.10news.com/news/local-news/san-diego-news/ice-detainee-who-died-at-otay-mesa-detention-center-identified-as-san-diego-county-supervisors-demand-answers
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: a timeline of this person's care from intake to death
+  span: Provide a timeline of this person's care from intake to death, including any health conditions noted at intake, requests for medical help, medical visits, and when staff last checked on them," Aguirre said.
+  url: https://www.10news.com/news/local-news/san-diego-news/ice-detainee-who-died-at-otay-mesa-detention-center-identified-as-san-diego-county-supervisors-demand-answers
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: letter to ICE and DHS
+  span: The supervisors sent a letter to ICE and DHS demanding access and information on whether anything has been fixed.
+  url: https://www.10news.com/news/local-news/san-diego-news/ice-detainee-who-died-at-otay-mesa-detention-center-identified-as-san-diego-county-supervisors-demand-answers
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-10-28'
+- type: figure
+  value: '29'
+  span: According to ICE's own reporting, there have been 29 deaths in custody so far this year.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-10-28'
+- type: figure
+  value: at least at 30
+  span: The National Immigrant Project, however, put that number at least at 30.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/27/man-who-died-in-ice-custody-at-otay-mesa-detention-center-idd
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-10-28'
 updates:
 - date: '2026-10-27'
   date_kind: publication date (ICE detainee death notification)
@@ -126,6 +226,24 @@ updates:
   - u2
   - u3
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
+- date: '2026-10-27'
+  date_kind: publication date (KPBS and KGTV reports of the supervisors' Tuesday statements)
+  heading: His wife says he had no previous health conditions; San Diego County supervisors demand records, video and inspection access
+  claims:
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u4
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
@@ -149,3 +267,11 @@ Open: ICE's detainee death notification (name, age, nationality, cause); the med
 ## Update (2026-10-27, publication date (ICE detainee death notification)): ICE posts its death notification for the Otay Mesa detainee: a 43-year-old man from Guatemala
 
 ICE posted a [detainee death notification](https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california) on October 27, 2026. It names him as Roberto Jimenez Gutierrez, 43, from Guatemala, and says he "died Oct. 24 while in the custody of U.S. Immigration and Customs Enforcement at the Otay Mesa Detention Center in San Diego." The notice gives a timeline of his last hour, says the death is under investigation and an autopsy will be done.
+
+## Update (2026-10-27, publication date (KPBS and KGTV reports of the supervisors' Tuesday statements)): His wife says he had no previous health conditions; San Diego County supervisors demand records, video and inspection access
+
+KPBS reports that his wife said he left behind five children and that he had no previous health conditions, and that the family is trying to fly his body back to Guatemala. The agency told KPBS it arrested him in Escondido on Oct. 9 during an enforcement stop.
+
+San Diego County Supervisor Terra Lawson-Remer and Supervisor Paloma Aguirre called on Tuesday on ICE, the Trump administration and CoreCivic to cooperate with investigators and turn over records and video. Aguirre asked for "a timeline of this person's care from intake to death". The supervisors also sent a letter to ICE and DHS demanding access and information on whether anything has been fixed.
+
+On the count that the entry above carried as a reporter's figure: KPBS reports that ICE's own reporting shows 29 deaths in custody so far this year, while the National Immigrant Project put the number at least at 30.
