@@ -55,7 +55,7 @@ sources:
 - title: Lead prosecutor on probe into ex-CIA Director John Brennan is removed from case
   url: https://www.cbsnews.com/news/lead-prosecutor-investigating-john-brennan-ex-cia-director-probe-removed-from-case/
   outlet: CBS News
-  date: '2026-04-18'
+  date: '2026-04-17'
   tier: 1
 - title: DOJ removes top prosecutor who questioned case against former CIA Director John Brennan
   url: https://www.ms.now/news/doj-removes-top-prosecutor-who-questioned-case-against-former-cia-director-john-brennan
@@ -94,7 +94,7 @@ capture_lanes:
 - Judicial Capture
 ---
 
-On April 20, 2026, the Department of Justice swore in Joseph diGenova — former Trump campaign lawyer, Reagan-era U.S. Attorney, and Fox News regular with a documented history of spreading false 2020-election claims — as Counselor to the Attorney General, assigning him to lead the "grand conspiracy" federal probe into former intelligence officials including former CIA Director John Brennan. The appointment followed the April 18 removal of career national-security prosecutor Maria Medetis Long from the case after she told supervisors the evidence was insufficient to support charges and resisted internal pressure to bring an indictment quickly.
+On April 20, 2026, the Department of Justice swore in Joseph diGenova — former Trump campaign lawyer, Reagan-era U.S. Attorney, and Fox News regular with a documented history of spreading false 2020-election claims — as Counselor to the Attorney General, assigning him to lead the "grand conspiracy" federal probe into former intelligence officials including former CIA Director John Brennan. The appointment followed the removal of career national-security prosecutor Maria Medetis Long from the case, first reported by CNN and CBS on Friday, April 17 (report date; CBS did not say which day she was removed, only that she told lawyers "late this week" that she was off the case). A source told CBS the change came after she told the U.S. Attorney she did not believe there was enough to make a case; CNN reported she had resisted pressure to bring charges quickly.
 
 DiGenova's appointment consolidated a coordinated prosecutorial architecture spanning the Office of the Acting Attorney General (Todd Blanche), the Civil Rights Division (Harmeet Dhillon), the FBI (Kash Patel), and the grand jury — a combination that supporters framed as a "grand conspiracy" prosecution and critics described as the most aggressive retaliatory-prosecution consolidation in modern U.S. history.
 
@@ -104,11 +104,13 @@ DiGenova's appointment consolidated a coordinated prosecutorial architecture spa
 
 **March 10, 2026.** CNN reported DOJ prosecutors leading the Brennan investigation were "facing increasing pressure from top Justice officials to bring criminal charges" after prior retaliatory prosecutions failed to produce indictments.
 
-**April 18, 2026.** Maria Medetis Long — head of the National Security Section, U.S. Attorney's Office for the Southern District of Florida, and a career prosecutor who served across multiple administrations — was removed from her role overseeing the Brennan probe. Per CBS and MSNBC reporting, she had told U.S. Attorney Jason Reding Quiñones directly that she did not believe there was enough evidence to make a case, and had resisted pressure to bring charges quickly. A DOJ spokesperson confirmed she "remains employed by the Justice Department" and characterized the reassignment as routine; no subsequent public reporting on her career trajectory has surfaced as of August 2026. See [[medetis-long-maria]] for full biographical detail and documented research gaps.
+**On or before April 17, 2026 (reported Friday, April 17).** Maria Medetis Long — head of the National Security Section, U.S. Attorney's Office for the Southern District of Florida, and a career prosecutor who served across multiple administrations — was removed from her role overseeing the Brennan probe. CBS published the news at 4:02 p.m. EDT on April 17 and said she informed lawyers with clients in the matter "late this week" that she was off the case; the removal date itself is not given, so April 17 is the date of the report, not of the removal. Per CBS, a source said the change came after she informed U.S. Attorney Jason Reding Quiñones that she did not believe there was enough to make a case; per CNN (as relayed by CBS), she had resisted pressure to quickly bring charges. A DOJ spokesperson confirmed she "remains employed by the Justice Department" and characterized the reassignment as routine; no subsequent public reporting on her career trajectory has surfaced as of August 2026. See [[medetis-long-maria]] for full biographical detail and documented research gaps.
 
-**April 18–20, 2026.** DOJ subpoenaed multiple witnesses — including "Obama officials" per Washington Post reporting — to testify before a federal grand jury in Washington, D.C. as cooperating witnesses.
+**April 18, 2026.** CNN and CBS reported that diGenova would join the Brennan probe (CBS: as counselor to Acting Attorney General Blanche, a Justice Department official said Saturday).
 
-**April 20, 2026.** DiGenova was sworn in as Counselor to the Attorney General. Acting Attorney General Todd Blanche had appointed him to oversee the "sprawling Russia collusion origins probe" with the grand jury seated in Miami since late 2025.
+**By April 20, 2026.** AP reported on Monday that DOJ had subpoenaed several witnesses in recent days to testify before a federal grand jury in Washington; Washington Post reporting (April 21) described the witnesses as including Obama officials.
+
+**April 20, 2026 (Monday).** AP reported that diGenova "was sworn in Monday in Florida" as a special counselor to the attorney general. The earlier April 18 reports (CNN, CBS) described him as being tapped, not yet sworn. Acting Attorney General Todd Blanche had appointed him to oversee the "sprawling Russia collusion origins probe" with the grand jury seated in Miami since late 2025.
 
 **April 21, 2026.** FBI Director Kash Patel told Fox News' *Sunday Morning Futures* that "arrests are coming" related to 2020 election conspiracy, saying developments could occur "this week." Patel described the inquiry as a "potential conspiracy case" pursued "in coordination with Attorney General Todd Blanche and federal prosecutors." The same day, Patel filed a $250 million defamation suit claiming he possessed evidence of 2020 election rigging.
 
@@ -137,6 +139,6 @@ The faction's genealogy runs through:
 
 1. **The 2019–2020 Ukraine pressure campaign** (Giuliani / DiGenova / Toensing / Parnas network), which was itself a prosecutorial-retaliation project targeting the Biden family and the 2016 investigation.
 2. **The 2024 transition and early-administration personnel decisions** that placed Patel, Blanche, Dhillon, and (now) DiGenova in the four key DOJ/FBI nodes required to execute a coordinated prosecution.
-3. **The April 18–22 consolidation sequence** that replaced the career prosecutor questioning the evidence with a loyalist willing to build the case regardless.
+3. **The April 17–22 consolidation sequence** that replaced the career prosecutor questioning the evidence with a loyalist willing to build the case regardless.
 
 The Medetis Long removal is the pivot event. It documents, at career-prosecutor level, the specific point at which professional prosecutorial judgment was overridden by political command. Her removal — after informing supervisors the evidence was insufficient — is the procedural fact that distinguishes this prosecutorial configuration from a normal DOJ investigation.
