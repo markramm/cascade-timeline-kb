@@ -45,6 +45,11 @@ sources:
     outlet: NPR
     date: "2026-02-05"
     tier: 1
+  - title: "M-J-M-A- v. Hermosillo et al., Opinion and Order on preliminary injunction, Dkt. 88 (D. Or. Feb. 27, 2026)"
+    url: "https://innovationlawlab.org/sites/default/files/2026-02/MJMA%20Dkt%2088%20Opinion%20on%20PI.pdf"
+    outlet: Innovation Law Lab (court filing)
+    date: "2026-02-27"
+    tier: 1
   - title: "M-J-M-A v. Wamsley combined filing (12-02-2025)"
     url: "https://innovationlawlab.org/sites/default/files/2026-01/12-02-2025%20M-J-M-A%20v.%20Wamsley,%20et%20al.%20Combined%20_0.pdf"
     outlet: Innovation Law Lab (court filing)
@@ -94,6 +99,16 @@ corrections:
   now: "Kasubhai issued a preliminary injunction on Wednesday, Feb 4 2026 (the AP story ran Feb 5); the date of the story is not the date of the ruling. The constitutional holding is not stated in the sourcing held, so it is not asserted here."
   why: "AP via NPR, Feb 5 2026: 'a federal judge ruled Wednesday'; 'issued a preliminary injunction'"
   found_by: "correct-canon worker 2026-10-28"
+- date: '2026-10-28'
+  was: "the nearest 'generally speaking ... not accurate' words are only J.B.'s, about intel-team baseball cards, a different product (earlier correction in this block)"
+  now: "The court's own Feb. 27, 2026 opinion wrote: Elite app leads also are, 'generally speaking,' 'not accurate,' citing Tr. 230-31. The phrase is the court's characterization (never a single quote 'generally not accurate'); at Tr. 230-31 J.B.'s words attach to intel-team baseball cards."
+  why: "Opinion and Order, Dkt. 88, p. 8 area: 'Elite app leads also are, \u201cgenerally speaking,\u201d \u201cnot accurate.\u201d Tr. 230-31.'"
+  found_by: "coordinator, 2026-10-28"
+- date: '2026-10-28'
+  was: "Kasubhai issued a preliminary injunction on Wednesday, Feb 4 2026"
+  now: "The preliminary-injunction opinion (Dkt. 88) was filed Feb. 27, 2026. Feb. 4, 2026 was the hearing on the motions (ECF 80); NPR's Feb. 5 story reported a Feb. 4 ruling, and the written opinion followed Feb. 27."
+  why: "Dkt. 88 p. 1 header 'Filed 02/27/26'; procedural background: oral argument on Feb. 4, 2026, ECF No. 80"
+  found_by: "coordinator, 2026-10-28"
 event_date_claim: c9
 claims:
 - id: c1
@@ -159,6 +174,24 @@ claims:
   url: https://innovationlawlab.org/sites/default/files/2026-01/12-02-2025%20M-J-M-A%20v.%20Wamsley,%20et%20al.%20Combined%20_0.pdf
   read: fetched
   source_kind: primary
+- id: c10
+  type: quote
+  value: "Elite app leads also are, \u201cgenerally speaking,\u201d \u201cnot accurate.\u201d"
+  qualifier: "generally speaking"
+  context: "the court's Feb. 27, 2026 opinion (Dkt. 88), citing Tr. 230-31; the court's characterization, not J.B.'s words"
+  span: "Elite app leads also are, \u201cgenerally speaking,\u201d \u201cnot accurate.\u201d Tr. 230-31."
+  url: https://innovationlawlab.org/sites/default/files/2026-02/MJMA%20Dkt%2088%20Opinion%20on%20PI.pdf
+  read: fetched
+  source_kind: primary
+- id: c11
+  type: date
+  value: "February 2026"
+  qualifier: "27th day"
+  context: "date of the preliminary-injunction opinion (Dkt. 88), signed and filed 02/27/26"
+  span: "DATED this 27th day of February 2026."
+  url: https://innovationlawlab.org/sites/default/files/2026-02/MJMA%20Dkt%2088%20Opinion%20on%20PI.pdf
+  read: fetched
+  source_kind: primary
 - id: c9
   type: date
   value: "December 2"
@@ -182,8 +215,8 @@ The December 2 evidentiary hearing was in the class-action suit *M-J-M-A v. Wams
 
 **The arrest target.** His target was set orally and, as the court summed it up, "So eight a day." Asked whether he complied with the "quota," he answered, "I made as -- as many arrests as I could, as long as it was lawful." Asked whether he met the expectation over his deployment: "Sometimes."
 
-**What he said about Elite.** Asked what he was working from in Woodburn: "Either an Elite lead." Asked whether he knew how the app's likelihood percentage is generated: "I don't know how that's generated." Asked how it compares with the older "baseball card" method, he said "The app could say 100 percent" and be wrong: "The person doesn't live there." The testimony about inaccuracy nearby concerns the intel team's baseball cards, a different product.
+**What he said about Elite.** Asked what he was working from in Woodburn: "Either an Elite lead." Asked whether he knew how the app's likelihood percentage is generated: "I don't know how that's generated." Asked how it compares with the older "baseball card" method, he said "The app could say 100 percent" and be wrong: "The person doesn't live there." In the hearing transcript the words "generally speaking" and "not accurate" attach to the intel team's baseball cards, a different product. The court's later written opinion wrote, citing that testimony: Elite app leads also are, “generally speaking,” “not accurate.” The phrase is the court's, not J.B.'s.
 
 **Palantir.** The word Palantir appears nowhere in the transcript. The link to Palantir rests on a separate news report: Palantir is working on a tool for Immigration and Customs Enforcement that populates a map with potential deportation targets.
 
-**The ruling.** In early February, Kasubhai issued a preliminary injunction in the class action: agents in Oregon may not arrest without warrants unless there is a likelihood of escape (AP via NPR).
+**The ruling.** Kasubhai granted a preliminary injunction in the class action in a written opinion dated February 2026: ICE's practice of arresting people without a warrant and without a probable-cause determination of likelihood of escape is enjoined.
