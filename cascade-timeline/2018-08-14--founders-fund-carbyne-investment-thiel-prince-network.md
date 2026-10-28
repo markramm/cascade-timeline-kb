@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2018-08-14--founders-fund-carbyne-investment-thiel-prince-network
 date: 2018-08-14
-title: Peter Thiel's Founders Fund Invests $15M in Carbyne, Connecting Epstein-Barak Surveillance Network to Erik Prince Operations
+title: Peter Thiel's Founders Fund Joins Carbyne's $15M Series B, Connecting Epstein-Barak Surveillance Network to Erik Prince Operations
 importance: 9
 tags:
 - surveillance-technology
@@ -51,18 +51,24 @@ sources:
   tier: 2
   outlet: Reason
 status: confirmed
+corrections:
+- date: '2026-10-28'
+  was: "Peter Thiel's Founders Fund led a $15 million Series B investment in Carbyne (title: 'Invests $15M')"
+  now: "The $15 million Series B was led by Elsted Capital Partners and joined by Founders Fund; the $15 million is the whole round, not Founders Fund's cheque (Carbyne release via PR Newswire 2018-08-14; Calcalist 2018-08-14). The entry's own first source is titled 'Founders Fund Joins Carbyne's $15 Million Series B Round'."
+  why: "https://www.prnewswire.com/news-releases/founders-fund-joins-carbyne-s-15-million-series-b-round-to-provide-life-saving-emergency-response-ecosystem-898902831.html"
+  found_by: "part-5 legacy-note audit of carbyne-expanded-analysis 2026-10-28; verified by full fetch of the release and Calcalist article"
 capture_lanes:
 - Surveillance Infrastructure
 - Digital and Tech Capture
 - International Kleptocracy
 ---
 
-Peter Thiel's Founders Fund led a $15 million Series B investment in Carbyne (formerly Reporty Homeland Security), the Israeli surveillance technology company founded by Unit 8200 intelligence veterans and previously funded by Jeffrey Epstein and Ehud Barak. The investment directly connected Thiel's Palantir surveillance network to Epstein's intelligence-linked portfolio, while Carbyne co-founder Lital Leshem simultaneously served as executive director of global business development for Erik Prince's Frontier Resource Group (FRG) in the United Arab Emirates.
+Peter Thiel's Founders Fund joined Carbyne's $15 million Series B round, which Elsted Capital Partners led. Carbyne (formerly Reporty Homeland Security) is the Israeli surveillance technology company founded by Unit 8200 intelligence veterans and previously funded by Jeffrey Epstein and Ehud Barak. Founders Fund's participation directly connected Thiel's Palantir surveillance network to Epstein's intelligence-linked portfolio, while Carbyne co-founder Lital Leshem simultaneously served as executive director of global business development for Erik Prince's Frontier Resource Group (FRG) in the United Arab Emirates.
 
 Carbyne's board at the time included former Israeli Prime Minister Ehud Barak (chairman), former Unit 8200 commander Pinchas Buchris, and Epstein associate Nicole Junkermann. Trae Stephens, co-founder of Thiel's Palantir Technologies and member of the Trump transition team, joined Carbyne's advisory board, while former Homeland Security Secretary Michael Chertoff also served as an advisor. The company's founders—Lital Leshem, Amir Elichai, and Alex Dizengof—all served in Unit 8200, Israel's signals intelligence and cyber warfare unit equivalent to the NSA.
 
 Leshem's dual role at Carbyne and Frontier Resource Group created a direct operational link between Epstein-Barak surveillance investments, Thiel's intelligence technology empire, and Erik Prince's private military and intelligence operations in the Middle East and Africa. FRG, a subsidiary of the Chinese-majority owned Frontier Services Group, partnered with major Chinese enterprises for Africa-focused investments, raising concerns about potential technology transfer of Israeli-American surveillance capabilities to Chinese intelligence services. Leshem and Prince also co-founded COMframe, further intertwining their business interests.
 
-The Founders Fund investment marked Thiel's first investment in an Israeli company and gave U.S.-Israeli intelligence-linked surveillance technology privileged entry into American municipal emergency response systems. Carbyne's platform provides complete access to smartphone GPS location data, live video streaming, and voice communications during 911 calls, raising serious privacy concerns about mass surveillance infrastructure. Critics noted the company harvests extensive information from smartphones contacting 911 call centers running Carbyne's software, with the stated goal of making all U.S. 911 systems nationwide interconnected through the Next-Generation 911 (NG911) platform.
+Founders Fund's participation marked Thiel's first investment in an Israeli company and gave U.S.-Israeli intelligence-linked surveillance technology privileged entry into American municipal emergency response systems. Carbyne's platform provides complete access to smartphone GPS location data, live video streaming, and voice communications during 911 calls, raising serious privacy concerns about mass surveillance infrastructure. Critics noted the company harvests extensive information from smartphones contacting 911 call centers running Carbyne's software, with the stated goal of making all U.S. 911 systems nationwide interconnected through the Next-Generation 911 (NG911) platform.
 
 The investment revealed systematic integration of surveillance technology development across Epstein's intelligence network (Carbyne via Barak), Thiel's data analytics empire (Palantir, Founders Fund), and Prince's private military intelligence operations (Frontier Resource Group). This convergence created infrastructure for privatized mass surveillance nominally serving public safety purposes while operated by individuals with documented ties to intelligence services, private military contractors, and international business interests spanning Israel, UAE, China, and the United States. The network's opacity and multi-national character raised fundamental questions about accountability, data sovereignty, and the use of emergency response infrastructure for intelligence gathering beyond stated public safety missions.
