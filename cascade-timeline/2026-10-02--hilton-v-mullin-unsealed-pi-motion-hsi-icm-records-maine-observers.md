@@ -147,6 +147,100 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-25'
+- type: date
+  value: 10/02/26
+  qualifier: Filed
+  span: Document 133 Filed 10/02/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.133.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: created records in HSI’s ICM system to document his encounters with 6 people
+  span: created records in HSI’s ICM system to document his encounters with 6 people
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.133.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: 09/18/26
+  qualifier: Filed
+  span: Document 117 Filed 09/18/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.117.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: documented contemporaneous subject records on 8 individuals he encountered in Maine
+  span: documented contemporaneous subject records on 8 individuals he encountered in Maine
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.117.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Agent J.C. created ICM records for six observers, including Plaintiff Williams.
+  span: Agent J.C. created ICM records for six observers, including Plaintiff Williams.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.132.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: 10/23/26
+  qualifier: Filed
+  span: Document 154 Filed 10/23/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.154.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: for the limited purpose of obtaining public access to certain judicial records
+  span: to intervene in the above-captioned case for the limited purpose of obtaining public access to certain judicial records filed in the case
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.154.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Defendants oppose the Press Herald’s Motion.
+  span: Defendants oppose the Press Herald’s Motion.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.154.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: 10/13/26
+  qualifier: Filed
+  span: Document 145 Filed 10/13/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.145.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Defendants’ Motion to Seal should be denied.
+  span: Defendants’ Motion to Seal should be denied.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.145.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-28'
 tags:
   - surveillance
   - first-amendment
@@ -174,8 +268,63 @@ sources:
     publisher: Wired (mirror)
     date: '2026-10-02'
     tier: 2
+  - title: Defendants' Opposition to Plaintiffs' Motion for a Preliminary Injunction, Hilton v. Mullin, ECF 133
+    url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.133.0.pdf
+    publisher: U.S. District Court, District of Maine (via RECAP)
+    date: '2026-10-02'
+    tier: 1
+  - title: Defendants' Motion to Dismiss, Hilton v. Mullin, ECF 117
+    url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.117.0.pdf
+    publisher: U.S. District Court, District of Maine (via RECAP)
+    date: '2026-09-18'
+    tier: 1
+  - title: Proposed Intervenor Maine Trust for Local News L3C's Motion to Intervene and for Access to Judicial Records, Hilton v. Mullin, ECF 154
+    url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.154.0.pdf
+    publisher: U.S. District Court, District of Maine (via RECAP)
+    date: '2026-10-23'
+    tier: 1
+  - title: Plaintiffs' Opposition to Defendants' Motion to Seal Preliminary Injunction Documents, Hilton v. Mullin, ECF 145
+    url: https://storage.courtlistener.com/recap/gov.uscourts.med.69985/gov.uscourts.med.69985.145.0.pdf
+    publisher: U.S. District Court, District of Maine (via RECAP)
+    date: '2026-10-13'
+    tier: 1
+updates:
+- date: '2026-10-02'
+  date_kind: filing date
+  heading: Government's opposition to the PI motion counts 6 ICM records; its motion to dismiss counted 8
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hilton-v-mullin
+- date: '2026-10-23'
+  date_kind: filing date
+  heading: Portland Press Herald moves to intervene to unseal the PI and motion-to-dismiss records
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hilton-v-mullin
 ---
 
 The plaintiffs in Hilton v. Mullin, a proposed class action by four observers of ICE operations in Maine, filed a redacted version of their preliminary-injunction motion on the public docket (ECF 132, stamped 10/02/26) after filing it under seal; Wired reported that "a redacted version was made public Friday." The motion, built on government documents and agent depositions, says Agent J.C. of Homeland Security Investigations created case-management (ICM) records for six observers, including plaintiff Carlyn Williams, and described observers in records as a "Threat to Law Enforcement, Professional Protestor." It says a CBP officer ran a facial recognition search on observers' photos using the Mobile Query application, and that J.C. identified Williams through her car's plate and Accurint for Law Enforcement, then called her and warned that people doing what her spouse did "might get added to a domestic terrorism watchlist." According to the motion, the records require Williams to be referred to secondary inspection when she travels internationally, at least through January 20, 2027, and on March 16, 2026, she and Pantos were held for about an hour at the Jackman Border Crossing. These are plaintiffs' allegations; DHS called the case "meritless."
 
 Wired adds that the ICM system "was built by Palantir." The motion opens by contrasting this record with the government's earlier description of the case as a few officers whose "empty threats" were contrary to policy, and it sits against ICE's April letter to Congress that the agency "does not maintain any kind of database of U.S. citizens protesting ICE activities." The defendants' own motion to dismiss had already conceded that an ICM record on Williams led to her border stop ([[2026-09-18--defendants-brief-admits-hsi-icm-record-on-maine-observer-led-to-border-stop]]). The conduct arose during the January Maine surge ([[2026-01-21--ice-operation-catch-of-the-day-maine-launched]]).
+
+## Update (2026-10-02, filing date): Government's opposition to the PI motion counts 6 ICM records; its motion to dismiss counted 8
+
+The government filed its opposition to the plaintiffs' preliminary-injunction motion the same day the redacted motion went public. It says HSI Agent J.C. "created records in HSI’s ICM system to document his encounters with 6 people." The government's earlier motion to dismiss, filed 09/18/26, said J.C. "documented contemporaneous subject records on 8 individuals he encountered in Maine." The plaintiffs' motion says "Agent J.C. created ICM records for six observers, including Plaintiff Williams." The filings read for this update do not explain the difference.
+
+## Update (2026-10-23, filing date): Portland Press Herald moves to intervene to unseal the PI and motion-to-dismiss records
+
+The Maine Trust for Local News, publisher of the Portland Press Herald, moved to intervene "for the limited purpose of obtaining public access to certain judicial records" filed with the preliminary-injunction motion and the motion to dismiss. The motion says "Defendants oppose the Press Herald’s Motion." It was filed after the plaintiffs, on 10/13/26, opposed the government's motion to seal, arguing that "Defendants’ Motion to Seal should be denied."
