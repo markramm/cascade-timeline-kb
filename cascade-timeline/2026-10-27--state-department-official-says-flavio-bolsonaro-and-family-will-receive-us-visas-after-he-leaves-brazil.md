@@ -62,3 +62,5 @@ sources:
 source_published_date: '2026-10-27'
 ---
 CBS News/AP reports that a senior State Department official said Flávio Bolsonaro and his family will receive U.S. visas. Bolsonaro departed Brazil for the U.S., according to multiple Brazilian media reports, as a deadline to surrender his regular and diplomatic passports expired at noon Tuesday; it remained unclear whether he had complied. The order is described as sealed and issued Sunday; Lula said "Brazil is their second nation, the U.S. is the first," per Reuters.
+
+Update: Argentina's migration agency later put the crossing into Argentina on the night of this report, with a private flight on to Miami; see the entry titled "Argentina's Migration Agency Says Flávio Bolsonaro Crossed at Puerto Iguazú" and the entry on the Moraes passport order.
