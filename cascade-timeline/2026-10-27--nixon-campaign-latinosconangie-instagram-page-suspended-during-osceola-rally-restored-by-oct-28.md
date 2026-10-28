@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-10-27--nixon-campaign-latinosconangie-instagram-page-suspended-during-osceola-rally-restored-by-oct-28
 date: '2026-10-27'
-title: Nixon Says Meta Took Down Her Campaign's Spanish-Language Instagram Page During an Osceola County Rally; Page Restored by Next Morning
+title: Nixon Says Meta Took Down Her Campaign's #LatinosConAngie Instagram Page During an Osceola County Rally; Page Restored by Next Morning
 importance: 4
 status: reported
 verification: captured
