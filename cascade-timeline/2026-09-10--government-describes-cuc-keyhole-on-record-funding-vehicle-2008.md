@@ -54,6 +54,8 @@ coverage:
     title: "What is Homeland Security Investigations? And why do you need to know?"
   - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+  - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
 corrections:
 - date: '2026-10-17'
   was: "On the most economical reading of the prefix as an office code, the Ann Arbor operation was opened under a Detroit field office case number and therefore outside St. Paul's CUC."

@@ -53,6 +53,8 @@ coverage:
     note: "The Intercept feature on the labor movement's response to the indictment; its HSI-infiltration and SEIU/CWA financial-records subpoena claims (c4, c5) are already recorded in this entry and in 2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions. Dropped as duplicate 2026-10-13."
   - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+  - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
 corrections:
 - date: '2026-10-17'
   was: "title: Court Filings Expose 'Operation Puppet Master': HSI Infiltrated Minnesota Unions, Churches, and Activist Groups After Alex Pretti Killing"

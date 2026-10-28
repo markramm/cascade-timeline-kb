@@ -50,6 +50,8 @@ coverage:
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
   - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+  - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
 corrections:
 - date: '2026-10-08'
   was: "that brief adds no new documentary fact about Keyhole beyond ... already stated."

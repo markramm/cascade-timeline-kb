@@ -57,6 +57,8 @@ status: reported
 coverage:
 - url: https://theramm.transparencycascade.org/p/what-is-homeland-security-investigations
   title: "What is Homeland Security Investigations? And why do you need to know?"
+- url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+  title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
 actors:
 - Erin Herrgott
 - Callum Robinet

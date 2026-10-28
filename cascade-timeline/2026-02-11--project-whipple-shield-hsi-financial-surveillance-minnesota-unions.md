@@ -66,11 +66,23 @@ sources:
     publisher: Solidarity
     date: '2026-08-16'
     tier: 3
+  - title: 'US v. Sant, Doc. 212-2: Whipple Shield case-opening report'
+    url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
+    publisher: US District Court, D. Minn. (RECAP)
+    date: '2026-08-13'
+    tier: 1
+  - title: ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History
+    url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    publisher: WIRED
+    date: '2026-10-28'
+    tier: 2
 capture_lanes:
   - Civil Rights Suppression
 coverage:
   - url: https://theramm.transparencycascade.org/p/certified-in-2008-for-narcotics-used
     title: "Certified in 2008 for Narcotics. Used in 2026 to Investigate Churches."
+  - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+    title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
 corrections:
 - date: '2026-10-08'
   was: "DHS said it \"doesn't comment on the existence or status of ongoing investigations.\""
@@ -164,6 +176,58 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
+- type: date
+  value: 3/10/2026
+  span: Project Whipple Shield MS02PR26MS0004-001 3/10/2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: In accordance with National Security Presidential Memorandum-7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation
+  qualifier: In accordance with
+  span: In accordance with National Security Presidential Memorandum–7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation into instances where individuals and organized networks have exploited events
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: will prioritize the identification of funding sources, organizational structures, and predicate actions
+  qualifier: will prioritize
+  span: This investigation will prioritize the identification of funding sources, organizational structures, and predicate actions behind these campaigns.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: authorized by the controversial National Security Presidential Memorandum 7
+  qualifier: authorized
+  span: They reveal the inner workings of the domestic terrorism investigations, running under the names Project Whipple Shield and Operation Puppet Master, authorized by the controversial National Security Presidential Memorandum 7.
+  url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-28'
+updates:
+- date: '2026-03-10'
+  date_kind: report approval date
+  heading: Report approved 3/10/2026 reads "In accordance with National Security Presidential Memorandum-7"
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-minnesota-15-surveillance
 ---
 
 ## Opening
@@ -236,3 +300,7 @@ This entry's harm is **class-level, not individually nameable** — see [[whippl
 ## Correction note, 2026-10-17
 
 Two statements in this entry were wrong or unsupported and have been changed above. (1) The "Conspiracy" slide: the entry told the grand-jury story in its own voice in some places and said Sunrise was "not presented to the grand jury" in another. The grand-jury link is the defense's account: its motion says the diagram was prepared by HSI and presented to the grand jury (Doc. 212 p.5), and files a transcript excerpt in which an HSI agent is asked about page 5 of Grand Jury Exhibit 1A (Ex. 4, 27:4-11). Whether the chart in Doc. 212-3 is that page is the defense's identification. Sunrise is not on the chart; no more is claimed. (2) The Ann Arbor visit was tied to Whipple Shield without support; the Ann Arbor report names no investigation. The Chicago report (Doc. 297 Ex. J) does name Whipple Shield. The entry's file name and id still carry 2026-02-15.
+
+## Update (2026-03-10, report approval date): Report approved 3/10/2026 reads "In accordance with National Security Presidential Memorandum-7"
+
+The case-opening report, approved 3/10/2026, says that "In accordance with National Security Presidential Memorandum-7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation". Its synopsis adds that the investigation "will prioritize the identification of funding sources, organizational structures, and predicate actions". WIRED reported that both Project Whipple Shield and Operation Puppet Master were "authorized by the controversial National Security Presidential Memorandum 7".
