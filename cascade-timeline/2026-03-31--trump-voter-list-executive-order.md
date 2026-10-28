@@ -56,6 +56,9 @@ capture_lanes:
 - Democratic Erosion
 - Surveillance State
 - Federal Election Control
+coverage:
+- url: https://theramm.transparencycascade.org/p/no-new-election-emergency-has-been
+  title: 'No New Election Emergency Has Been Declared.'
 ---
 
 On March 31, 2026 — one day before the Supreme Court heard oral arguments on birthright citizenship — President Trump signed an executive order titled "Ensuring Citizenship Verification and Integrity in Federal Elections" that directed the creation of a federal apparatus to control who can vote and how they receive ballots.

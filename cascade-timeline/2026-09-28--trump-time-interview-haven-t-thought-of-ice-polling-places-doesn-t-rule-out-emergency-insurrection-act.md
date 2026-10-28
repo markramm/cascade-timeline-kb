@@ -76,6 +76,9 @@ claims:
     url: https://www.federalregister.gov/documents/full_text/html/2026/09/02/2026-18046.html
     read: fetched
     source_kind: primary
+coverage:
+- url: https://theramm.transparencycascade.org/p/no-new-election-emergency-has-been
+  title: 'No New Election Emergency Has Been Declared.'
 ---
 
 President **Donald Trump** sat down with TIME at the White House on **Sept. 28**; TIME published a lightly edited transcript on **Oct 1, 2026**. Asked whether he plans to dispatch ICE agents to polling places in the midterms, he answered: "Haven't thought of it." Asked whether he would rule out a state of emergency before the midterms, he answered: "I don't rule anything out or in." On the Insurrection Act, which Trump himself raised, he said: "I've never used it. I could use it. A lot of people think I should use it sometimes."

@@ -30,6 +30,9 @@ sources:
     date: '2026-08-11'
     tier: 2
 gate_note: 'Corrected 2026-10-16 (D10 pilot defect): quote trimmed to the wording the Democracy Docket page prints, ''Let me just say stranger things have happened,''. The prior ''that'' and the trailing sentence ''OK? I''ll leave it at that'' were not found in any fetched source (CNN returned 451, The Hill 403 on 2026-10-16); the headline of the Hill source also reads ''Stranger things have happened''. Also: Body claim that the quotation is consistent across all three outlets narrowed to what was re-verified (Democracy Docket only).'
+coverage:
+- url: https://theramm.transparencycascade.org/p/no-new-election-emergency-has-been
+  title: 'No New Election Emergency Has Been Declared.'
 ---
 
 In an interview with conservative commentator Wayne Allyn Root released August 11, 2026, President Trump declined to rule out declaring a national security emergency to impose federal voting rules on the November midterms. Root proposed the mechanism himself and in detail: if the Senate fails to pass the SAVE America Act, the president could declare a national emergency and obtain photo-ID requirements, proof-of-citizenship voter registration, and restrictions on mail-in ballots without legislation. "If you do this in the next month," Root told him, "we will get photo ID, proof of citizenship and a limit to mail-in ballots, and you don't even need the Senate's help." Root further asserted that such a declaration "can't [be] challenge[d]" and "can only be overturned by a two-thirds vote by both houses of Congress" — a characterization of emergency-powers law advanced by Root, not by the administration and not established as a legal matter. Trump cut him off and answered: "Let me just say stranger things have happened." The exchange is reported by CNN, The Hill, and Democracy Docket; the quotation text was confirmed on the Democracy Docket page (CNN and The Hill were not retrievable on re-check).

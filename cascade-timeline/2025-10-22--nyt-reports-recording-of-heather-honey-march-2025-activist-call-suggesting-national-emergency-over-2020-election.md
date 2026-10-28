@@ -94,6 +94,9 @@ sources:
   publisher: The New York Times (read via Wayback snapshot 2025-11-17)
   date: '2025-10-24'
   tier: 2
+coverage:
+- url: https://theramm.transparencycascade.org/p/no-new-election-emergency-has-been
+  title: 'No New Election Emergency Has Been Declared.'
 ---
 
 The New York Times reported (entry date is the publication date; the call is dated only "March") that Heather Honey, before her August 2025 appointment as DHS deputy assistant secretary for election integrity, suggested on a March 2025 call with right-wing activists that the administration could declare a "national emergency" and justify dictating new rules to state and local governments. The Times reviewed a recording supplied by someone who joined the call. The call's day is not given, and the participants are not named beyond "right-wing activists" (the Times' follow-up Q&A calls it "an organizing call").
