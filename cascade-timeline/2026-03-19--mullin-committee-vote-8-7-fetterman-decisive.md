@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-03-19--mullin-committee-vote-8-7-fetterman-decisive
 date: '2026-03-19'
-title: Senate Committee Advances Mullin 8-7 with Fetterman's Decisive Vote; Floor Confirmation Expected March 24
+title: Senate Committee Advances Mullin 8-7 with Fetterman's Decisive Vote; Floor Confirmation Followed March 23
 importance: 9
 actors:
 - Markwayne Mullin
@@ -41,4 +41,4 @@ Fetterman's vote drew sharp criticism from progressive colleagues and immigrant 
 
 On March 22, the Senate took a procedural cloture vote, advancing Mullin's nomination 54-37. In addition to Fetterman, Sen. Martin Heinrich of New Mexico crossed party lines to support the procedural motion, citing the DHS funding crisis and the need for a confirmed secretary to negotiate with Congress. Heinrich's vote provided an additional cushion beyond the simple majority needed.
 
-A final confirmation vote was scheduled for March 24. With two Democrats already on record supporting the nomination and no additional Republican defections expected beyond Paul, Mullin's confirmation appeared all but certain. If confirmed, he would become the third DHS secretary of the Trump administration in just over a year, following the departures of both Noem and her brief interim successor.
+The Senate confirmed Mullin on March 23, 2026, by a vote of 54-45, and he was sworn in the next day, March 24 ([DHS release, March 24](https://www.dhs.gov/news/2026/03/24/us-senate-confirms-markwayne-mullin-secretary-department-homeland-security): "Yesterday, the United States Senate voted to confirm Markwayne Mullin as the 9th Secretary of the Department of Homeland Security (DHS) in a bipartisan vote of 54-45"). See [[2026-03-24--mullin-sworn-in-as-dhs-secretary]]. (Correction 2026-10-28: an earlier version of this entry said the final vote was scheduled for March 24; March 24 was the swearing-in. The date and tally of the cloture vote above were not independently re-checked against the Senate roll call.)
