@@ -592,6 +592,33 @@ claims:
   id: u30
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: on Tuesday
+  span: Los Angeles (AP) — A federal judge on Tuesday said he was considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls and to determine whether counties would be able to separate any ballots belonging to ineligible voters.
+  url: https://www.mdjonline.com/news/national/special-master-could-evaluate-justice-departments-claims-of-noncitizens-on-california-voter-rolls/article_0cb67a11-b873-5c4f-ad16-034409165b19.html
+  read: fetched
+  source_kind: secondary
+  id: u31
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: on Tuesday said he was considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls and to determine whether counties would be able to separate any ballots belonging to ineligible voters.
+  span: Los Angeles (AP) — A federal judge on Tuesday said he was considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls and to determine whether counties would be able to separate any ballots belonging to ineligible voters.
+  url: https://www.mdjonline.com/news/national/special-master-could-evaluate-justice-departments-claims-of-noncitizens-on-california-voter-rolls/article_0cb67a11-b873-5c4f-ad16-034409165b19.html
+  read: fetched
+  source_kind: secondary
+  id: u32
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: 20,000
+  span: Los Angeles (AP) — A federal judge on Tuesday said he was considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls and to determine whether counties would be able to separate any ballots belonging to ineligible voters.
+  url: https://www.mdjonline.com/news/national/special-master-could-evaluate-justice-departments-claims-of-noncitizens-on-california-voter-rolls/article_0cb67a11-b873-5c4f-ad16-034409165b19.html
+  read: fetched
+  source_kind: secondary
+  id: u33
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - electoral-manipulation
   - voter-rolls
@@ -698,6 +725,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-27'
+  date_kind: hearing date
+  heading: 'AP: Carter says he is considering a special master'
+  claims:
+  - u31
+  - u32
+  - u33
+  event_date_claim: u31
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The Justice Department filed an ex parte application for a temporary restraining order and an order to show cause why a preliminary injunction should not issue in United States v. California, No. 2:26-cv-12025 (filing date 10/19/26, ECF 22-2). The memorandum asks the court to grant relief by November 3, 2026 (the requested-ruling deadline, before the end of voting) ordering California to set aside vote-by-mail ballots of voters on the federal list. It says DHS components narrowed a preliminary list of over 175,000 potential noncitizen voters to the final list. It says that "Just this morning" the United States "charged dozens" of noncitizens, and that "Every single one" of those charged is on the list; that case is [[2026-10-19--operation-protect-the-vote-28-lprs-charged-11-arrested-doj-says-all-on-20000-list]].
@@ -721,3 +759,7 @@ The declaration says a re-review "resulted in a determination that four subjects
 Judge David Carter heard the government's TRO application in Los Angeles on Tuesday afternoon, [Democracy Docket reported](https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/). His first question, as quoted there, was "Give me the case, give me the state," asking for precedent for sequestering ballots; the report says the government, represented by Bill Essayli, "didn’t respond." Carter also said: "You’ve got a remedy for goodness sake. Go out and indict."
 
 The report says Carter "expressed interest in setting another hearing in several weeks" on expert testimony and pointed to California's Dec. 3 certification date. No order on the TRO application was on the docket when this update was written; the account is a reporter's, not a transcript.
+
+## Update (2026-10-27, hearing date): AP: Carter says he is considering a special master
+
+The Associated Press, in a [report](https://www.mdjonline.com/news/national/special-master-could-evaluate-justice-departments-claims-of-noncitizens-on-california-voter-rolls/article_0cb67a11-b873-5c4f-ad16-034409165b19.html) syndicated the same evening, says Judge Carter "on Tuesday said he was considering appointing a special master to evaluate claims by the Trump administration that California has some 20,000 noncitizens on its voter rolls and to determine whether counties would be able to separate any ballots belonging to ineligible voters." No appointment order was on the docket when this update was written.
