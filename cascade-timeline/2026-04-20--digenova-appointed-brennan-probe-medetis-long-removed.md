@@ -87,6 +87,16 @@ sources:
   outlet: CNN
   date: '2025-12-23'
   tier: 1
+- title: "Patel on Sunday Morning Futures: he will sue The Atlantic (Fox News video, published April 19)"
+  url: https://www.foxnews.com/video/6393420958112
+  outlet: Fox News
+  date: '2026-04-19'
+  tier: 1
+- title: "Fox's Maria Bartiromo Battles Kash Patel on Trump's rigged-election claims"
+  url: https://www.mediaite.com/media/news/foxs-maria-bartiromo-battles-kash-patel-on-trumps-rigged-election-claims-our-audience-wants-to-know-why-theres-never-any-accountability/
+  outlet: Mediaite
+  date: '2026-04-19'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Law Enforcement Weaponization
@@ -108,11 +118,11 @@ DiGenova's appointment consolidated a coordinated prosecutorial architecture spa
 
 **April 18, 2026.** CNN and CBS reported that diGenova would join the Brennan probe (CBS: as counselor to Acting Attorney General Blanche, a Justice Department official said Saturday).
 
+**April 19, 2026 (Sunday).** FBI Director Kash Patel told Maria Bartiromo on Fox News' *Sunday Morning Futures*: "we are going to be making arrests and it's coming and I promise you it's coming soon," and "stay tuned this week, you might see a thing or two." He said the FBI was "working with our prosecutors at the Department of Justice and the Attorney General, Todd Blanche," and was "folding that into our entire conspiracy case." In the same appearance he said he would file a defamation suit against The Atlantic by Monday; the $250 million suit over the magazine's report on his alleged drinking was filed April 20 (see [[2026-04-20--patel-sues-atlantic-fitzpatrick-defamation-250-million]]). An earlier version of this entry dated the interview April 21 (a Tuesday) and tied the suit to 2020-election claims; the Fox News page and Mediaite's report of the segment, both dated April 19, show otherwise.
+
 **By April 20, 2026.** AP reported on Monday that DOJ had subpoenaed several witnesses in recent days to testify before a federal grand jury in Washington; Washington Post reporting (April 21) described the witnesses as including Obama officials.
 
 **April 20, 2026 (Monday).** AP reported that diGenova "was sworn in Monday in Florida" as a special counselor to the attorney general. The earlier April 18 reports (CNN, CBS) described him as being tapped, not yet sworn. Acting Attorney General Todd Blanche had appointed him to oversee the "sprawling Russia collusion origins probe" with the grand jury seated in Miami since late 2025.
-
-**April 21, 2026.** FBI Director Kash Patel told Fox News' *Sunday Morning Futures* that "arrests are coming" related to 2020 election conspiracy, saying developments could occur "this week." Patel described the inquiry as a "potential conspiracy case" pursued "in coordination with Attorney General Todd Blanche and federal prosecutors." The same day, Patel filed a $250 million defamation suit claiming he possessed evidence of 2020 election rigging.
 
 **April 22, 2026.** MSNBC reported that DOJ had rescinded a number of the subpoenas issued days earlier in the Brennan perjury case, under circumstances the outlet characterized as unusually rapid reversal.
 
@@ -123,7 +133,7 @@ Coverage across NBC, CBS, CNN, Washington Post, NOTUS, and MSNBC identifies a fo
 - **Todd Blanche** — Acting Attorney General (installed April 2, 2026 after Bondi firing); Trump's former personal criminal-defense attorney in the New York hush-money trial and federal cases. Visited Florida to meet with prosecutors pursuing Trump-related cases and was reported to be "auditioning" for the permanent Attorney General nomination by delivering the weaponization agenda Bondi had failed to produce.
 - **Joseph diGenova** — newly installed Counselor to the AG; 81-year-old Reagan-era prosecutor; spouse of Victoria Toensing; both were central figures in the 2019–2020 Ukraine pressure campaign alongside Rudy Giuliani and were subjects of an FBI search warrant in that investigation. DiGenova provides the "factual findings" base on which the prosecution is being built.
 - **Harmeet Dhillon** — Assistant Attorney General for Civil Rights since April 2025. Under her leadership the Civil Rights Division was restructured away from traditional anti-discrimination work toward "combating woke ideology," DEI/affirmative action investigations, religious liberty cases for Christian groups, and challenges to transgender rights. Consent decrees with Minneapolis and Louisville police departments were formally canceled.
-- **Kash Patel** — FBI Director; public face of the "arrests are coming" messaging; filed his own $250M defamation suit asserting 2020-election-rigging evidence.
+- **Kash Patel** — FBI Director; public face of the "arrests are coming" messaging; filed a $250M defamation suit against The Atlantic on April 20 over its report on his conduct.
 
 NBC characterized the configuration as the "first time in American history that the full investigative and prosecutorial machinery of the Justice Department has been aligned against what Patel calls the Grand Conspiracy."
 
