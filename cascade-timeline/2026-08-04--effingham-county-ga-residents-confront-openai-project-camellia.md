@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-08-05--effingham-county-ga-residents-confront-openai-project-camellia
+id: 2026-08-04--effingham-county-ga-residents-confront-openai-project-camellia
+previous_ids: [2026-08-05--effingham-county-ga-residents-confront-openai-project-camellia]
 date: '2026-08-04'
 title: Effingham County GA Commissioners Pass Industrial-Zoning Ordinance With Project Camellia Off the Agenda
 importance: 8
