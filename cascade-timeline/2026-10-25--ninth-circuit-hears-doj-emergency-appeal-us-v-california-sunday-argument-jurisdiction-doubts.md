@@ -230,4 +230,6 @@ The jurisdiction question was already in the briefs: the court ordered the Unite
 
 ## Update (2026-10-26, order date): Ninth Circuit dismisses DOJ's appeal for lack of jurisdiction
 
+The order has its own entry: [[2026-10-26--ninth-circuit-dismisses-doj-emergency-appeal-california-noncitizen-ballot-segregation-2-1-self-constructed-emergency]].
+
 On October 26, 2026, the Ninth Circuit (No. 26-7070) dismissed the United States' appeal in a per curiam order for publication, with concurrences by Judge Bennett and Judge Sanchez and a dissent by Judge Bumatay. The order says the United States "failed to allow the district court adequate opportunity to consider its application for a Temporary Restraining Order" and that "For that reason, we lack jurisdiction over this appeal." It grants the County's motion to dismiss and denies as moot the United States' emergency motion. Judge Carter's TRO hearing remains set for October 27.
