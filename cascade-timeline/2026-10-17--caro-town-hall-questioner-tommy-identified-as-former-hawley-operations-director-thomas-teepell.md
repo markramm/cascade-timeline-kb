@@ -171,6 +171,51 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: Oct 22, 2026
+  span: 'Published: Oct 22, 2026, 10:48 a.m. MDT'
+  url: https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: disavow any attempt to read religious doctrine into American law
+  span: Then El-Sayed asked a question of his own. Would the man disavow any attempt to read religious doctrine into American law?
+  url: https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: I do not.
+  span: “I do not,” the man said.
+  url: https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: didn’t disavow it
+  span: Nor was the question a one-off. Two days earlier, President Donald Trump called El-Sayed “a Muslim Brotherhood guy, 100%.” The day after the town hall, his opponent, Mike Rogers, told CNN that El-Sayed “didn’t disavow it,” though the video shows he did.
+  url: https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: the video shows he did
+  span: Nor was the question a one-off. Two days earlier, President Donald Trump called El-Sayed “a Muslim Brotherhood guy, 100%.” The day after the town hall, his opponent, Mike Rogers, told CNN that El-Sayed “didn’t disavow it,” though the video shows he did.
+  url: https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-10-28'
 updates:
 - date: '2026-10-17'
   date_kind: event date (town hall)
@@ -185,6 +230,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: america-next-baton-rouge-suite-el-sayed
+- date: '2026-10-22'
+  date_kind: publication date (Deseret News opinion column by Asma Uddin, reporting the Oct 17 exchange and Rogers's next-day CNN remark)
+  heading: The questioner declines to disavow religious doctrine in law; Rogers tells CNN El-Sayed "didn't disavow it"
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 On October 17th, at an Abdul El-Sayed town hall in Caro, Michigan, an attender who gave his name
@@ -205,3 +263,7 @@ they hired and/or paid the younger Teepell and had yet to hear back when it publ
 ## Update (2026-10-17, event date (town hall)): El-Sayed's own words in answer to the disavowal question
 
 Outlets that quote the exchange give El-Sayed's answer. CNN reports that when a man in the audience asked, "Will you disavow the Muslim Brotherhood?", El-Sayed replied, "Sure. Yeah, absolutely," then turned it back on the man: "Why are you asking the question?" The Guardian renders the reply as: "Sure, yeah, absolutely," and says he then asked whether the man assumed he wouldn't. The wording differs between them only in punctuation.
+
+## Update (2026-10-22, publication date (Deseret News opinion column by Asma Uddin, reporting the Oct 17 exchange and Rogers's next-day CNN remark)): The questioner declines to disavow religious doctrine in law; Rogers tells CNN El-Sayed "didn't disavow it"
+
+In a [Deseret News column](https://www.deseret.com/opinion/2026/10/22/el-sayed-jfk-and-the-religious-test-in-american-politics/) published Oct 22, 2026, El-Sayed is reported to have asked the questioner whether he would "disavow any attempt to read religious doctrine into American law," and he answered: "I do not." The same column reports that the day after the town hall, Republican candidate Mike Rogers told CNN that El-Sayed "didn’t disavow it," and notes that "the video shows he did." The CNN segment itself was not read for this update.
