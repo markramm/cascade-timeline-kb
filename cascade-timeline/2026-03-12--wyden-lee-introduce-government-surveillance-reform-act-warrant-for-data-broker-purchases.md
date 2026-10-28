@@ -38,7 +38,7 @@ sources:
 related_events:
   - 2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data
   - 2026-03-25--npr-documents-data-broker-loophole-purchase-instead-of-warrant-fisa-702
-  - 2026-03-25--72-lawmakers-demand-dhs-oig-probe-warrantless-location-purchases
+  - 2026-03-03--72-lawmakers-demand-dhs-oig-probe-warrantless-location-purchases
   - 2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant
   - 2026-06-12--fisa-702-lapses-first-time-since-2008-pulte-dni-house-vote-fails
   - 2026-06-08--ice-awards-thundercat-9-9m-itin-data-subscription-after-courts-blocked-irs-channel
