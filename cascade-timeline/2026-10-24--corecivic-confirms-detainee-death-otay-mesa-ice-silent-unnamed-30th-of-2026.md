@@ -90,6 +90,45 @@ claims:
     url: https://www.10news.com/news/local-official-calls-for-investigation-into-death-at-otay-mesa-detention-center
     read: fetched
     source_kind: secondary
+  - type: date
+    value: October 27, 2026
+    span: October 27, 2026San Diego, CA, United StatesDetainee Death Notifications
+    url: https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california
+    read: fetched
+    source_kind: primary
+    id: u1
+    outcome: verified
+    checked: '2026-10-27'
+  - type: quote
+    value: died Oct. 24 while in the custody of U.S. Immigration and Customs Enforcement at the Otay Mesa Detention Center in San Diego.
+    span: died Oct. 24 while in the custody of U.S. Immigration and Customs Enforcement at the Otay Mesa Detention Center in San Diego.
+    url: https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california
+    read: fetched
+    source_kind: primary
+    id: u2
+    outcome: verified
+    checked: '2026-10-27'
+  - type: figure
+    value: 43-year-old
+    span: a 43-year-old illegal alien from Guatemala, died Oct. 24 while in the custody of U.S. Immigration and Customs Enforcement at the Otay Mesa Detention Center in San Diego.
+    url: https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california
+    read: fetched
+    source_kind: primary
+    id: u3
+    outcome: verified
+    checked: '2026-10-27'
+updates:
+- date: '2026-10-27'
+  date_kind: publication date (ICE detainee death notification)
+  heading: 'ICE posts its death notification for the Otay Mesa detainee: a 43-year-old man from Guatemala'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 ---
 
 A person in ICE custody died on Oct. 24, 2026 at the Otay Mesa Detention Center in San Diego. The operator, CoreCivic, gave Daylight San Diego this account by email: a staff member found a detainee unresponsive a little after 11:30 a.m., staff attempted life-saving measures, and emergency medical professionals pronounced the person dead at the facility.
@@ -103,3 +142,7 @@ Daylight reports that the death would bring the known number of deaths this year
 DHS's purchase of Otay Mesa from CoreCivic is in canon ([[2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield]]).
 
 Open: ICE's detainee death notification (name, age, nationality, cause); the medical examiner's cause of death; reconciliation of the 2026 count.
+
+## Update (2026-10-27, publication date (ICE detainee death notification)): ICE posts its death notification for the Otay Mesa detainee: a 43-year-old man from Guatemala
+
+ICE posted a [detainee death notification](https://www.ice.gov/news/releases/criminal-illegal-alien-guatemala-dies-ice-custody-california) on October 27, 2026. It says a 43-year-old man from Guatemala "died Oct. 24 while in the custody of U.S. Immigration and Customs Enforcement at the Otay Mesa Detention Center in San Diego." The notice gives a timeline of his last hour, says the death is under investigation and an autopsy will be done, and lists his criminal history and removal record. ICE's notice names him; this entry does not, pending the private-name decision.

@@ -306,6 +306,51 @@ claims:
   id: u21
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: 10/27/26
+  span: 'ORDER ON DEFENDANT''S MOTION FOR EXPEDITED CONSIDERATION: Defendant''s Motion to Expedite Consideration at 16 is GRANTED. See order for further details. Signed by Judge Sharon L. Gleason on 10/27/26. (LMH, COURT STAFF) (Entered: 10/27/2026)'
+  url: https://www.courtlistener.com/docket/75009254/united-states-v-alaska/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: by Thursday, October 29, 2026, at 3:00 p.m.
+  span: by Thursday, October 29, 2026, at 3:00 p.m. Defendants may file a reply by
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.19.0_4.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Friday, October 30, 2026, at 12:00 p.m.
+  span: Friday, October 30, 2026, at 12:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.19.0_4.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: does not oppose the intervention of Alaskans for Mary
+  span: The Division does not oppose the intervention of Alaskans for Mary and the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.20.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: takes no position on intervention by the League of Women Voters
+  span: Division takes no position on intervention by the League of Women Voters.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.20.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - election-2026
   - certification
@@ -413,6 +458,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-alaska-senate-certification-suit
+- date: '2026-10-27'
+  date_kind: order date
+  heading: Gleason expedites the State's motion to dismiss; Alaska does not oppose the Democratic intervenors
+  claims:
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  event_date_claim: u22
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -428,3 +486,9 @@ On October 25, 2026 (the filing date), Alaskans for Mary and the DSCC, still pro
 On October 26, 2026 (the filing date), the State defendants, represented by the Alaska Department of Law, moved to dismiss the complaint "with prejudice, because the complaint has no legal basis." The motion argues "The United States lacks standing to bring this suit," that it "fails to state a claim for violation of the National Voter" Registration Act, and that "This lawsuit and the relief requested violate the Elections Clause." It says the United States sued to block certification "but only if a specific, favored candidate" loses. The State also moved to expedite its motion.
 
 In an order dated the 26th day of October, 2026, Judge Sharon L. Gleason granted the expedite motion and the League of Women Voters' joinder. The United States must respond to the motions to intervene "by Tuesday, October 27, 2026, at 5:00 p.m." Proposed intervenors may file replies by Wednesday, and the order says "The Court intends to issue a ruling by 5:00 p.m. on" Wednesday. If intervention is granted, the United States must answer the proposed motions to dismiss "by Thursday, October 29, 2026, at 5:00 p.m." The order's background notes the suit was filed "After Alaskans had already begun casting their ballots for the November" election.
+
+## Update (2026-10-27, order date): Gleason expedites the State's motion to dismiss; Alaska does not oppose the Democratic intervenors
+
+Judge Sharon L. Gleason signed an [order](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.19.0_4.pdf) on 10/27/26 granting the State's motion to expedite its motion to dismiss. The United States must respond "by Thursday, October 29, 2026, at 3:00 p.m." and the State may reply by "Friday, October 30, 2026, at 12:00 p.m."
+
+The same day, the Division of Elections [told the court](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.20.0.pdf) it "does not oppose the intervention of Alaskans for Mary" and the Democratic Senatorial Campaign Committee, and it "takes no position on intervention by the League of Women Voters." The United States' own response to the intervention motions, due that evening at 5:00 p.m. Alaska time, was not on the RECAP docket when this update was written. Neither motion to dismiss has been ruled on.

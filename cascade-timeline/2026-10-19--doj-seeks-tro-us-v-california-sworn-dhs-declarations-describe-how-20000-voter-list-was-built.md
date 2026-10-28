@@ -538,6 +538,60 @@ claims:
   id: u24
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: Tuesday afternoon
+  span: “Give me the case, give me the state,” U.S. District Judge David Carter asked as his first question in a hearing in Los Angeles Tuesday afternoon. The government, represented by Bill Essayli, the top federal prosecutor in L.A., didn’t respond.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u25
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Give me the case, give me the state
+  span: “Give me the case, give me the state,” U.S. District Judge David Carter asked as his first question in a hearing in Los Angeles Tuesday afternoon. The government, represented by Bill Essayli, the top federal prosecutor in L.A., didn’t respond.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u26
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: didn’t respond
+  span: “Give me the case, give me the state,” U.S. District Judge David Carter asked as his first question in a hearing in Los Angeles Tuesday afternoon. The government, represented by Bill Essayli, the top federal prosecutor in L.A., didn’t respond.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u27
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: You’ve got a remedy for goodness sake. Go out and indict.
+  span: “You’ve got a remedy for goodness sake. Go out and indict,” Carter said, referring to a federal criminal statute that makes it a misdemeanor for noncitizens to vote in federal elections.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u28
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: expressed interest in setting another hearing in several weeks
+  span: Carter expressed interest in setting another hearing in several weeks focused on expert testimony from both the DOJ and Los Angeles County. He pointed to California’s Dec. 3 election certification date as a deadline by which to resolve the issue.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u29
+  outcome: verified
+  checked: '2026-10-27'
+- type: date
+  value: Dec. 3
+  span: He pointed to California’s Dec. 3 election certification date as a deadline by which to resolve the issue.
+  url: https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/
+  read: fetched
+  source_kind: secondary
+  id: u30
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - electoral-manipulation
   - voter-rolls
@@ -630,6 +684,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-27'
+  date_kind: hearing date
+  heading: 'Carter hears DOJ''s TRO application: "Give me the case, give me the state"'
+  claims:
+  - u25
+  - u26
+  - u27
+  - u28
+  - u29
+  - u30
+  event_date_claim: u25
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The Justice Department filed an ex parte application for a temporary restraining order and an order to show cause why a preliminary injunction should not issue in United States v. California, No. 2:26-cv-12025 (filing date 10/19/26, ECF 22-2). The memorandum asks the court to grant relief by November 3, 2026 (the requested-ruling deadline, before the end of voting) ordering California to set aside vote-by-mail ballots of voters on the federal list. It says DHS components narrowed a preliminary list of over 175,000 potential noncitizen voters to the final list. It says that "Just this morning" the United States "charged dozens" of noncitizens, and that "Every single one" of those charged is on the list; that case is [[2026-10-19--operation-protect-the-vote-28-lprs-charged-11-arrested-doj-says-all-on-20000-list]].
@@ -647,3 +715,9 @@ In a supplemental opposition dated October 24, 2026 (the filing date), Californi
 In a supplemental declaration filed for Judge Carter's hearing, Nicolas Bartell, Associate Director of the Fraud Detection and National Security Directorate at USCIS, says that on October 26, 2026 the agency received the county's "updated list of 200 subjects" and matched it against the DHS list. He says the county "identified 38.9% (77.8 people)" who claimed U.S. birth without saying who. USCIS found 51 people on the DHS list whose California voter-roll record says they were born in the United States, and says that "none of the individuals USCIS matched to" the county's sample were born in the United States according to its records.
 
 The declaration says a re-review "resulted in a determination that four subjects might have a" claim to U.S. citizenship, "three of which potentially derived citizenship through a parent", and that one person was deceased. A footnote adds: "None of the four individuals have conclusive proof of citizenship" and says there is "always a risk for human error." The comparison spreadsheet was lodged in camera; a redacted page of it shows a column headed "referred_to_ICE".
+
+## Update (2026-10-27, hearing date): Carter hears DOJ's TRO application: "Give me the case, give me the state"
+
+Judge David Carter heard the government's TRO application in Los Angeles on Tuesday afternoon, [Democracy Docket reported](https://www.democracydocket.com/news-alerts/judge-questions-doj-on-emergency-bid-to-block-california-ballot-counting-go-out-and-indict/). His first question, as quoted there, was "Give me the case, give me the state," asking for precedent for sequestering ballots; the report says the government, represented by Bill Essayli, "didn’t respond." Carter also said: "You’ve got a remedy for goodness sake. Go out and indict."
+
+The report says Carter "expressed interest in setting another hearing in several weeks" on expert testimony and pointed to California's Dec. 3 certification date. No order on the TRO application was on the docket when this update was written; the account is a reporter's, not a transcript.
