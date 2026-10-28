@@ -1,8 +1,8 @@
 ---
 type: timeline_event
-id: 2026-02-18--retes-v-united-states-c-d-cal-2-26-cv-01761-section-1983-damages-suit
+id: 2026-02-18--retes-v-united-states-c-d-cal-2-26-cv-01761-damages-suit
 date: '2026-02-18'
-title: George Retes Jr. Sues the United States in C.D. Cal. Under Section 1983; the Complaint Is Amended Again in October
+title: George Retes Jr. Sues the United States in C.D. Cal.; the Complaint Is Amended Again in October
 importance: 5
 status: reported
 event_date_claim: c1
@@ -63,6 +63,6 @@ tags:
 - accountability
 ---
 
-George Retes, Jr. filed *Retes v. United States*, 2:26-cv-01761, in the Central District of California; the docket stamps the complaint 02/18/2026. Patrick M. Jaicomo and Marie L. Miller, non-resident attorneys, were admitted pro hac vice for him on 03/02/2026, with Anna M. Barvir as local counsel. He is represented by a different legal team than the same-day suits filed that May ([[2026-05-26--same-day-section-1983-suits-against-united-states-c-d-cal-ramirez-velez-acuna-gutierrez-lopez-pina]]).
+George Retes, Jr. filed *Retes v. United States*, 2:26-cv-01761, in the Central District of California; the docket stamps the complaint 02/18/2026. Patrick M. Jaicomo and Marie L. Miller, non-resident attorneys, were admitted pro hac vice for him on 03/02/2026, with Anna M. Barvir as local counsel. He is represented by a different legal team than the same-day suits filed that May ([[2026-05-26--six-same-day-damages-suits-against-united-states-c-d-cal-ramirez-velez-acuna-gutierrez-lopez-pina]]).
 
 Docket sequence: a First Amended Complaint was stamped 06/12/2026; an order extended the United States' deadline to respond to it to September 10, 2026; and in October a further amended complaint was filed with an appendix titled "Appendix Redline of Complaint and 2nd Amended Complaint" That filing is not in the free RECAP archive, so what it changes is not established here.

@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-id: 2026-05-26--same-day-section-1983-suits-against-united-states-c-d-cal-ramirez-velez-acuna-gutierrez-lopez-pina
+id: 2026-05-26--six-same-day-damages-suits-against-united-states-c-d-cal-ramirez-velez-acuna-gutierrez-lopez-pina
 date: '2026-05-26'
 title: Ramirez, Velez, Acuña, Gutierrez, Lopez and Piña Sue the United States in C.D. Cal. the Same Day; Velez and Gutierrez Have Since Dismissed Without Prejudice
 importance: 5
@@ -184,4 +184,4 @@ What the docket pages show since filing:
 - **Acuña moved.** The docket lists entries titled "Transfer Case" and "Transferring Case" in early September. The text of those entries is not on the page, so the destination is not established here.
 - **Amended complaints.** Ramirez, Lopez and Piña each have a First Amended Complaint stamped 09/29/2026. Piña's drew a clerk's notice of deficiencies on 09/30/2026 about how the defendants are named in the caption versus the body.
 
-Related: [[2026-02-18--retes-v-united-states-c-d-cal-2-26-cv-01761-section-1983-damages-suit]] is a separate suit by a different legal team.
+Related: [[2026-02-18--retes-v-united-states-c-d-cal-2-26-cv-01761-damages-suit]] is a separate suit by a different legal team.
