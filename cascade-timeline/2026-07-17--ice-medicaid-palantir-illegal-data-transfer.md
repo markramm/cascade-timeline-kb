@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-07-17--ice-medicaid-palantir-illegal-data-transfer
 date: '2026-07-17'
-title: "ICE Illegally Shared Medicaid Data on Millions With Palantir ELITE Deportation App"
+title: "State AGs' Filings Say Medicaid Data on Millions Was Improperly Transferred to ICE, Which Shared It With Palantir's ELITE App"
 importance: 9
 status: reported
 tags:
@@ -24,6 +24,11 @@ sources:
     publisher: KPBS
     date: '2026-07-17'
     tier: 2
+corrections:
+- date: '2026-10-28'
+  was: 'ICE Illegally Shared Medicaid Data ...'
+  now: 'improperly transferred (as NPR and the filings put it); no court has held the transfer illegal'
+  found_by: conductor QC of task map-elite-s-address-confidence-sources (2026-10-28)
 ---
 
 Court filings by a coalition of more than 20 state attorneys general revealed that Medicaid officials improperly transferred data on millions of Americans to ICE in January 2026, which ICE then shared with Palantir for its ELITE deportation app — used to surface noncitizen addresses. Palantir claims the dataset was subsequently purged; the illegal transfer itself is acknowledged by the agencies involved.
