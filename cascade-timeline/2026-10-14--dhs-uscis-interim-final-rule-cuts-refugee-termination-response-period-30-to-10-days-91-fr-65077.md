@@ -90,6 +90,98 @@ claims:
   url: https://www.federalregister.gov/documents/full_text/text/2026/10/14/2026-20956.txt
   read: fetched
   source_kind: primary
+- type: date
+  value: October 27, 2026
+  span: ORDER GRANTING ADMINISTRATIVE STAY October 27, 2026 KOBICK, D.J.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-28'
+- type: attribution
+  value: administrative stay
+  span: This Order Granting Administrative Stay is subject to alteration, amendment, extension, vacatur, or any other appropriate action
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-28'
+- type: attribution
+  value: Civil Action No. 26-14817-MJJ
+  span: Civil Action No. 26-14817-MJJ
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-28'
+- type: attribution
+  value: Julia E. Kobick
+  span: /s/ Julia E. Kobick United States District Judge
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: for ten days, up to and including November 6, 2026,
+  span: are ENJOINED, for ten days, up to and including November 6, 2026, from implementing or enforcing
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: that required a response in less than 30 days
+  span: this Order that required a response in less than 30 days.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: October 14, 2026
+  qualifier: NOITs issued between
+  span: any Notices of Intent to Terminate (“NOITs”) issued between October 14, 2026, and the date of
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: shall not be required to respond to the NOIT
+  span: issued shall not be required to respond to the NOIT.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-28'
+- type: attribution
+  value: 5 U.S.C. § 705
+  span: Plaintiffs’ Motion for a Stay under 5 U.S.C. § 705
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-28'
+- type: date
+  value: 11/3/2026 at 2:30 PM
+  qualifier: Motion Hearing is set for
+  span: Motion Hearing is set for 11/3/2026 at 2:30 PM in Courtroom 20 (In person only) before Judge Myong J
+  url: https://www.courtlistener.com/docket/75017742/partnership-for-the-advancement-of-new-americans-v-edlow/
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-28'
 tags:
 - immigration-enforcement
 - refugee-status-termination
@@ -110,8 +202,41 @@ sources:
   publisher: Federal Register (DHS/USCIS)
   date: '2026-10-14'
   tier: 1
+- title: Order Granting Administrative Stay, Doc. 24, PANA v. Edlow, D. Mass. No. 1:26-cv-14817
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mad.308161/gov.uscourts.mad.308161.24.0.pdf
+  publisher: U.S. District Court, D. Mass. (via RECAP)
+  date: '2026-10-27'
+  tier: 1
+- title: Docket, PANA v. Edlow, 1:26-cv-14817 (CourtListener)
+  url: https://www.courtlistener.com/docket/75017742/partnership-for-the-advancement-of-new-americans-v-edlow/
+  publisher: CourtListener
+  date: '2026-10-28'
+  tier: 1
+updates:
+- date: '2026-10-27'
+  date_kind: order date
+  heading: Federal judge administratively stays the rule through November 6
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 14, 2026 (publication and effective date) the Department of Homeland Security published an interim final rule on refugee termination in the Federal Register. It revises the termination section of the refugee regulations so that a person given a Notice of Intent to Terminate refugee status has ten days, not thirty, from service of the notice to present written or oral evidence. The comment deadline is November 13, 2026. The docket number, RIN and printed citation are in the source entry.
 
 DHS invokes the APA good-cause exception to skip prior notice and comment and the delayed effective date, reasoning that delay would let people it says were never eligible stay in status longer. OMB reviewed it as a significant, but not economically significant, action. The stated rationale is national security, public safety and fraud, drawn from Operation PARRIS and a preliminary review of Minnesota cases. The preamble describes the process as substantively unchanged for decades. The rule keeps the existing features that no response means termination and that there is no appeal under the chapter.
+
+## Update (2026-10-27, order date): Federal judge administratively stays the rule through November 6
+
+On October 27, 2026, Judge Julia E. Kobick of the U.S. District Court for the District of Massachusetts granted an administrative stay in Partnership for the Advancement of New Americans v. Edlow (Civil Action No. 26-14817-MJJ). It enjoins DHS and USCIS "for ten days, up to and including November 6, 2026," from implementing or enforcing the interim final rule. It also bars them from enforcing any notices of intent to terminate issued since October 14 "that required a response in less than 30 days," and says those refugees "shall not be required to respond to the NOIT." The court docket sets a hearing on the plaintiffs' motion for a stay under 5 U.S.C. § 705 for 11/3/2026 at 2:30 PM, before Judge Myong J. Joun.
