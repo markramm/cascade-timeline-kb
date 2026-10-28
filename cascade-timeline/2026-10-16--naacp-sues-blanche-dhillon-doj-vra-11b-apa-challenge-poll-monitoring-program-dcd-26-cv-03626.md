@@ -143,7 +143,9 @@ related_events:
 - 2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/who-may-enter-a-polling-place-on
+  title: 'Who May Enter a Polling Place on November 3'
 verification: source-verified
 ---
 

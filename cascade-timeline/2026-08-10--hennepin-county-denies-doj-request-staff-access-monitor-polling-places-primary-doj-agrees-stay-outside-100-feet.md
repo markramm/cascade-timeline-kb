@@ -120,7 +120,9 @@ sources:
 related_events:
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
 - 2026-09-14--democratic-state-parties-launch-new-battlefield-project-poll-monitors
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/who-may-enter-a-polling-place-on
+  title: 'Who May Enter a Polling Place on November 3'
 ---
 
 The Hennepin County Attorney's Office distributed a release on 08/10/2026 (the release date; the request it describes came earlier) saying the Justice Department had asked Hennepin County, "Last week," to approve DOJ staff to access and monitor polling places for the Aug. 11 primary. The release says "Hennepin County denied the request" after consultation with the Minnesota Secretary of State's Office and others, and that "DOJ has since committed to abide by the County's decision."

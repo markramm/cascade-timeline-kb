@@ -278,7 +278,9 @@ sources:
 related_events:
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/who-may-enter-a-polling-place-on
+  title: 'Who May Enter a Polling Place on November 3'
 updates:
 - date: '2026-10-21'
   date_kind: publication date
