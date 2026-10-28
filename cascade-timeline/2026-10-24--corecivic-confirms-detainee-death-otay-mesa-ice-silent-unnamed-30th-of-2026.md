@@ -62,18 +62,18 @@ claims:
   source_kind: secondary
 - id: c3
   type: posture
-  value: did not provide information about the person’s identity, gender or nationality
-  qualifier: did not provide
-  span: The company did not provide information about the person’s identity, gender or nationality, and it directed all other questions to ICE.
-  url: https://www.daylightsandiego.org/ice-detainee-dies-at-otay-mesa-detention-center-in-san-diego/
+  value: awaiting more information about the cause and the person’s identity
+  qualifier: awaiting
+  span: saying they are awaiting more information about the cause and the person’s identity.
+  url: https://www.10news.com/news/local-official-calls-for-investigation-into-death-at-otay-mesa-detention-center
   read: fetched
   source_kind: secondary
 - id: c4
   type: posture
-  value: ICE had not yet published information about the death
-  qualifier: As of Monday evening
-  span: As of Monday evening, ICE had not yet published information about the death in its
-  url: https://www.daylightsandiego.org/ice-detainee-dies-at-otay-mesa-detention-center-in-san-diego/
+  value: yet to hear back
+  qualifier: have yet to
+  span: We have reached out to ICE/DHS for more information but have yet to hear back.
+  url: https://www.10news.com/news/local-official-calls-for-investigation-into-death-at-otay-mesa-detention-center
   read: fetched
   source_kind: secondary
 - id: c5
@@ -217,6 +217,7 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-10-28'
+verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
   date_kind: publication date (ICE detainee death notification)
@@ -254,7 +255,7 @@ name_approval: 'Mark 2026-10-27: custody deaths named as ICE names them; do not 
 
 A person in ICE custody died on Oct. 24, 2026 at the Otay Mesa Detention Center in San Diego. The operator, CoreCivic, gave Daylight San Diego this account by email: a staff member found a detainee unresponsive a little after 11:30 a.m., staff attempted life-saving measures, and emergency medical professionals pronounced the person dead at the facility.
 
-CoreCivic did not provide the person's identity, gender or nationality and directed all other questions to ICE. As of Monday evening, ICE had not yet published information about the death in its news releases. This entry therefore binds to the operator's account as relayed by San Diego outlets, not to an ICE notification, and the person stays unnamed until ICE names them.
+At the time of KGTV's report, the station had reached out to ICE and DHS for more information and had yet to hear back, and Aguirre was awaiting more information about the cause and the person's identity. This entry therefore binds to the operator's account as relayed by San Diego outlets, not to an ICE notification; ICE's own notice follows in the update below.
 
 San Diego County Board of Supervisors Chair Pro Tempore Paloma Aguirre, statement of Monday:  "We don’t yet know their name." She asked ICE and CoreCivic to reach the family, cooperate with an investigation and share findings with the family and the public. She pointed to what county public health staff found when they got inside after going to federal court: "tuberculosis cases no one told the County about, no vaccines in stock, and a man who had waited 18 months for a medical device." That is the county's characterization, not an adjudicated finding.
 
