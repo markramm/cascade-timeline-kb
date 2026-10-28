@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-01-09--pnk-social-circle-dhs-detention-sale
 date: '2026-01-09'
-title: "PNK Sells Social Circle, GA Warehouse to DHS for $128.5M at 4x Cost Basis in Four-Day Closing for 10,000-Bed ICE Detention Conversion"
+title: "PNK Sells Social Circle, GA Warehouse to DHS for $128.5M at 4x Cost Basis (Reported Four-Day Closing) for 10,000-Bed ICE Detention Conversion"
 importance: 9
 actors:
 - PNK S1 LLC
@@ -68,7 +68,7 @@ capture_lanes:
 - Local Democratic Bypass
 ---
 
-In early January 2026, a Delaware entity called PNK S1 LLC — a subsidiary of PNK Group, the Russian-founded industrial real-estate developer owned by Andrey Sharkov — sold a 1.2-million-square-foot warehouse at 1365 E. Hightower Trail in Social Circle, Walton County, Georgia, to the U.S. Department of Homeland Security for $128.5M (some sources report $128.6M). PNK had acquired the property from Walton Leaf LLC for $29,392,500 in 2023. The gross gain of ~$99M in under three years represents approximately a 4x return. The closing occurred within four days of bid to deed — an acceleration unprecedented for typical federal property acquisitions, which normally take months to a year.
+In early January 2026, a Delaware entity called PNK S1 LLC — a subsidiary of PNK Group, the Russian-founded industrial real-estate developer owned by Andrey Sharkov — sold a 1.2-million-square-foot warehouse at 1365 E. Hightower Trail in Social Circle, Walton County, Georgia, to the U.S. Department of Homeland Security for $128.5M (some sources report $128.6M). PNK had acquired the property from Walton Leaf LLC for $29,392,500 in 2023. The gross gain of ~$99M in under three years represents approximately a 4x return. Press reports (WhoWhatWhy) say the sale "closed in just four days"; that interval has not been traced to a procurement or deed record (see verification block below), so it is reported here as an unverified claim, and "unprecedented" is this entry's characterization.
 
 Social Circle's 5,500 residents learned their town had been selected as a mass-detention site through media reports *after* the deed was recorded. No public hearings, no local government consultation, no voter approval preceded the transaction. Industrial zoning originally drafted to attract warehouses became the legal pathway for a 10,000-bed detention facility. ICE projects 10,000 beds for the converted site — making Social Circle among the three largest immigration detention facilities in the country, on par with Tremont, PA ([[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]]).
 
@@ -81,7 +81,7 @@ Social Circle's 5,500 residents learned their town had been selected as a mass-d
 - **Price**: $128.5 million
 - **Seller's cost basis (2023)**: $29,392,500
 - **Gross gain**: ~$99 million (approximately 4x)
-- **Closing window**: Four days bid to deed
+- **Closing window**: "Four days" per WhoWhatWhy; unverified against deed and award records
 - **Planned ICE use**: 10,000-bed detention facility
 - **Procurement vehicle**: WEXMAC-TITUS (Navy contracting vehicle repurposed for domestic detention — see [[wexmac-titus-military-procurement-bypass]] in detention-industrial KB)
 
@@ -91,7 +91,7 @@ The Social Circle transaction is part of ICE's Detention Reengineering Initiativ
 
 ## Seller Background
 
-Andrey Sharkov (see [[sharkov-andrey]]) is PNK Group's founder and owner. Per his sworn deposition of February 20, 2025:
+Andrey Sharkov (see [[sharkov-andrey]]) is PNK Group's founder and owner. Per the Atlanta Press Collective's account of a deposition Sharkov gave on February 20, 2025 (case not identified; transcript not seen):
 
 - No longer a Russian citizen
 - Lives primarily in New York City
@@ -144,3 +144,12 @@ The Sharkov / Russian-origin / Monaco-residence background adds a foreign-nation
 - [[2025-07-29--modcorr-leases-pnk-allenwood-modular-prison-factory]]
 - [[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]] — Blue Owl parallel (corrected 2026-08-27; entry already existed under this filename, the prior wikilink pointed at a nonexistent slug)
 - [[2026-04-21--blue-owl-system-ramm-published]] — *(needs entry — RAMM coverage)*
+
+## Verification block — 2026-10-28 (agent:claude-sonnet-5-5-parallel-tick56-a)
+
+- **Sale date is a deed date in early February, not January 9.** The `date:` field (Jan 9) is the Atlanta Press Collective's pickup date for community-organizing coverage. Grounded (Feb 22, 2026), citing a warranty deed obtained by The Covington News, dates the transaction **Feb. 3** with the United States "by and through the Department of Homeland Security" as grantee. Treat Jan 9 as an announcement/pickup date and Feb 3 as the deed-transaction date (recording stamp not seen).
+- **Price (type: deed consideration, secondary read).** The Covington News deed, as reported by Monroe Local (Feb 12, 2026) and Grounded: **$128,555,500** paid to PNK S1 LLC for a 235-acre lot. The "$128.5M / $128.6M" split in the press is rounding of that one figure. We have not read the deed itself.
+- **Basis (type: 2023 purchase price, secondary).** $29,392,500 from Walton Leaf LLC in 2023, per Monroe Local and Grounded ("records show"); WhoWhatWhy misdates the purchase as 2024. Ratio: 128.56 / 29.39 = 4.37x.
+- **"Four days" is unsupported.** Only WhoWhatWhy states it; Grounded, Monroe Local, GPB (Feb 13) and Hopium Chronicles do not. No bid date, award date or recording date supports an interval. Keep it out of print unless the deed recording date and the award/solicitation date are both pulled (Walton County Clerk real-property index; USAspending/FPDS for the WEXMAC-TITUS action).
+- **Sharkov deposition:** reported by the Atlanta Press Collective (Jan 9, 2026: "Sharkov \"recalled the brand from Russia\" in 2023, according to a deposition he gave Feb. 20, 2025"; and that he "is no longer a Russian citizen and is U.S.-based but does live in Moscow part time"). North Central PA (Jul 13, 2026) calls it "a sworn deposition Sharkov gave in an unrelated Georgia case." Case, court and docket were not identified: CourtListener search for Sharkov returns Forcine Concrete v. MS Park Construction (M.D. Pa. 3:23-cv-02024, Sharkov a defendant) and no Georgia matter, and the Forcine March 17, 2026 opinion (Doc. 93) describes no Sharkov deposition. The "Monaco" split comes from the Press Collective's own correction note, not demonstrably from the deposition. The same bullets appear in [[2025-07-29--modcorr-leases-pnk-allenwood-modular-prison-factory]] and should be re-attributed the same way.
+- Sources read: atlpresscollective.com (Jan 9); groundedpodcast.substack.com (Feb 22); whowhatwhy.org; northcentralpa.com; govinfo USCOURTS-pamd-3_23-cv-02024-1 (Doc. 93). Monroe Local returned HTTP 403 to a scripted fetch, so its figures are from search-result text.
