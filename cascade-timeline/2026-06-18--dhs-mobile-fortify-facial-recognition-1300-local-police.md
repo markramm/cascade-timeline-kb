@@ -4,7 +4,7 @@ id: 2026-06-18--dhs-mobile-fortify-facial-recognition-1300-local-police
 date: '2026-06-18'
 importance: 8
 status: reported
-title: "NPR: ICE Task Force Module face-scan app, already in use by ICE-deputized local police, is documented in a DHS privacy analysis"
+title: "NPR: A DHS privacy analysis documents ICE's Task Force Module face-scan app for 287(g) local police; NPR says the analysis suggests police are already using it"
 actors:
   - Department of Homeland Security
   - Immigration and Customs Enforcement
@@ -108,6 +108,10 @@ claims:
   read: fetched
   source_kind: secondary
 corrections:
+- date: '2026-10-28'
+  was: 'already in use by ICE-deputized local police'
+  now: "NPR's inference ('suggests police are already using it'); the PTA lists a Sept 24, 2025 launch date but its project status reads 'Development'. No agency record confirms field use."
+  found_by: task task-force-module-app-reconcile (2026-10-28)
 - date: '2026-10-28'
   was: "Title: \"Leaked DHS plan would push Mobile Fortify facial-recognition app to 1,300 local police departments\"; body: \"A leaked DHS document dated June 18, 2026, reveals plans to expand the Mobile Fortify facial-recognition app ... to roughly 1,300 local police agencies\""
   now: "The document is the ICE Task Force Module (TFM) Privacy Threshold Analysis, which the ICE Privacy Unit approved Sept. 25, 2025 and which sits on ice.gov; June 18 is NPR's broadcast date, not the document's date. The app is TFM, not Mobile Fortify; NPR calls it unclear whether the two use the same technology. NPR reports the document says the app launched last September, so it is not a future plan. About 1,300 is the number of agencies in the Task Force Model, not a rollout target stated in the document."
