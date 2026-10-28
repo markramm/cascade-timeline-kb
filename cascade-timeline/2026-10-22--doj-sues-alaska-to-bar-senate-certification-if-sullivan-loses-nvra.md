@@ -351,6 +351,51 @@ claims:
   id: u26
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: October 27, 2026
+  span: I hereby certify that on October 27, 2026,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: Both motions should be denied.
+  span: considerations support permissive intervention, either. Both motions should be denied.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: a sham candidate
+  span: on free elections”—in defense of including on the ballot a sham candidate whose sole
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: expeditious dismissal
+  span: 'this litigation: expeditious dismissal. The State Defendants have demonstrated that they'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-10-27'
+- type: quote
+  value: PLAINTIFF’S OPPOSITION TO MOTIONS TO INTERVENE
+  span: PLAINTIFF’S OPPOSITION TO MOTIONS TO INTERVENE
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: verified
+  checked: '2026-10-27'
 tags:
   - election-2026
   - certification
@@ -471,6 +516,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-27'
+  date_kind: filing date
+  heading: 'DOJ opposes the intervention motions: the State already seeks "expeditious dismissal"'
+  claims:
+  - u27
+  - u28
+  - u29
+  - u30
+  - u31
+  event_date_claim: u27
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -492,3 +550,7 @@ In an order dated the 26th day of October, 2026, Judge Sharon L. Gleason granted
 Judge Sharon L. Gleason signed an [order](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.19.0_4.pdf) on 10/27/26 granting the State's motion to expedite its motion to dismiss. The United States must respond "by Thursday, October 29, 2026, at 3:00 p.m." and the State may reply by "Friday, October 30, 2026, at 12:00 p.m."
 
 The same day, the Division of Elections [told the court](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.20.0.pdf) it "does not oppose the intervention of Alaskans for Mary" and the Democratic Senatorial Campaign Committee, and it "takes no position on intervention by the League of Women Voters." The United States' own response to the intervention motions, due that evening at 5:00 p.m. Alaska time, was not on the RECAP docket when this update was written. Neither motion to dismiss has been ruled on.
+
+## Update (2026-10-27, filing date): DOJ opposes the intervention motions: the State already seeks "expeditious dismissal"
+
+The United States filed a [brief](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf) on October 27, 2026 with the heading "PLAINTIFF’S OPPOSITION TO MOTIONS TO INTERVENE". It argues that the State defendants already seek what the would-be intervenors want, "expeditious dismissal," and it concludes: "Both motions should be denied." The brief calls the second Senate candidate named Daniel J. Sullivan "a sham candidate" and quotes the Wall Street Journal editorial board. No ruling on intervention is on the docket yet.
