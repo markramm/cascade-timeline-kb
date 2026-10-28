@@ -242,6 +242,96 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: Oct 21
+  span: WASHINGTON, Oct 21 (Reuters) – When Justice Department staffers arrived in Minnesota this summer to monitor the state’s primary election, they found themselves under scrutiny as well.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: to deploy about 1,000 monitors in all 50 states on Election Day, roughly triple the number in the last midterm election
+  span: While Simon acknowledged the DOJ monitors were not disruptive, the moves by Minnesota and California nevertheless underscore the unease ‌in Democratic-led and some Republican-led states about the DOJ’s plans to deploy about 1,000 monitors in all 50 states on Election Day, roughly triple the number in the last midterm election.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: The deployment would be the largest observation effort in the department’s history.
+  span: The deployment would be the largest observation effort in the department’s history.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: the department’s plan to deploy criminal prosecutors as monitors, in a break with historical practice
+  span: A particular concern among voter rights groups is the department’s plan to deploy criminal prosecutors as monitors, in a break with historical practice.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Monitors will not identify themselves as prosecutors
+  span: “Monitors will not identify themselves as prosecutors,”
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: document instances of any alleged voting by noncitizens
+  span: She said the monitors would document instances of any alleged voting by noncitizens they uncover, a core Trump administration priority that has not historically been a focus of the program.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: has not historically been a focus of the program
+  span: She said the monitors would document instances of any alleged voting by noncitizens they uncover, a core Trump administration priority that has not historically been a focus of the program.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u19
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: deployed about 40 state employees, working in pairs, to track the DOJ lawyers
+  span: Minnesota officials deployed about 40 state employees, working in pairs, to track the DOJ lawyers as they traveled through two counties during the August vote.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u20
+  outcome: verified
+  checked: '2026-10-28'
+- type: posture
+  value: California has launched a similar program
+  span: California has launched a similar program.
+  url: https://kfgo.com/?p=1366005
+  read: fetched
+  source_kind: secondary
+  id: u21
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: says it will deploy about 1,000 monitors to polling sites in all 50 states
+  span: Justice Department says it will deploy about 1,000 monitors to polling sites in all 50 states.
+  url: https://www.cnn.com/2026/10/28/us/video/doj-midterms-cohen-lkl-102809aseg1-cnni-us-fast
+  read: fetched
+  source_kind: secondary
+  id: u22
+  outcome: verified
+  checked: '2026-10-28'
 tags:
 - election-capture
 - election-monitors
@@ -275,6 +365,16 @@ sources:
   publisher: Indiana Capital Chronicle
   date: '2026-10-22'
   tier: 2
+- title: 'Monitoring the monitors: US states prepare for surge of Justice Dept election watchers (Reuters, via KFGO)'
+  url: https://kfgo.com/?p=1366005
+  publisher: Reuters (Andrew Goudsward and Dan Rosenzweig-Ziff), syndicated by KFGO
+  date: '2026-10-21'
+  tier: 2
+- title: U.S. Justice Department to send election monitors to all 50 states (video)
+  url: https://www.cnn.com/2026/10/28/us/video/doj-midterms-cohen-lkl-102809aseg1-cnni-us-fast
+  publisher: CNN
+  date: '2026-10-28'
+  tier: 2
 related_events:
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
@@ -302,6 +402,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-21'
+  date_kind: publication date (Reuters report, syndicated)
+  heading: 'Reuters: about 1,000 monitors in all 50 states, criminal prosecutors among them, told to record any noncitizen voting'
+  claims:
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 CBS News reported on August 18, 2026 (updated 5:54 PM EDT) that Civil Rights Division head Harmeet Dhillon made the announcement "in remarks to Bloomberg on Monday", which was August 17, 2026 and matches the date the NAACP's court filing gives. CBS says the Justice Department plans 1,000 federal monitors for the midterms; "record" is CBS's word. The Bloomberg article itself sits behind an anti-bot wall and was not read, so the plan is sourced to CBS's report of it and to the NAACP's allegation that Dhillon announced it for the November 3, 2026 general election.
@@ -315,3 +433,9 @@ The distinction that matters for what these people may do: the number counts mon
 NPR reported on October 21 that the Justice Department "this week began notifying the counties it wants to monitor on Election Day." Counties in Colorado, Florida, Minnesota, Texas and Washington had been notified at that point, and a DOJ spokesperson said which jurisdictions would be monitored would be shared "closer to the election." In earlier cycles states were told at the same time as counties; "This year, that did not happen initially, according to officials in three states" who spoke to NPR. For scale, the department monitored 64 jurisdictions in 24 states on Election Day in 2022.
 
 Local reporting then named counties one by one. In Indiana, monitors are assigned to Marion and Lake counties; the department's email to the Marion County Election Board "didn’t indicate why the counties were selected," and the department told officials the monitors "only observe."
+
+## Update (2026-10-21, publication date (Reuters report, syndicated)): Reuters: about 1,000 monitors in all 50 states, criminal prosecutors among them, told to record any noncitizen voting
+
+Reuters reported on Oct 21 that the department plans "to deploy about 1,000 monitors in all 50 states on Election Day, roughly triple the number in the last midterm election," and that "The deployment would be the largest observation effort in the department’s history." Reuters also reports "the department’s plan to deploy criminal prosecutors as monitors, in a break with historical practice." DOJ spokesperson Kiersten Pels said "Monitors will not identify themselves as prosecutors," and said the monitors would document any alleged voting by noncitizens they uncover, which Reuters notes "has not historically been a focus of the program."
+
+States are watching back: during the August primary, Minnesota officials "deployed about 40 state employees, working in pairs, to track the DOJ lawyers," and Reuters reports that California has launched a similar program. A later CNN segment repeats the figure: the department "says it will deploy about 1,000 monitors to polling sites in all 50 states."
