@@ -88,6 +88,24 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: Oct. 25
+  span: President Donald Trump is on stage alongside an on-screen image of Michigan Democratic Senate candidate Abdul El-Sayed during a campaign rally in Port Huron, Michigan, on Oct. 25.
+  url: https://www.motherjones.com/politics/2026/10/trump-islamophobic-attacks-against-abdul-el-sayed/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: Twenty-five years later, Michigan needs to stand up and fight, just like Todd did, to stop a jihadist from walking into the Capitol.
+  span: 'The president also likened voting against El-Sayed to the actions of Todd Beamer, one of the passengers aboard United Flight 93 flight who attempted to regain control of the plane on Sept. 11, leading to a crash in Pennsylvania: “Twenty-five years later, Michigan needs to stand up and fight, just like Todd did, to stop a jihadist from walking into the Capitol.”'
+  url: https://www.motherjones.com/politics/2026/10/trump-islamophobic-attacks-against-abdul-el-sayed/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-28'
 event_date_claim: c1
 source_published_date: '2026-10-25'
 captured_by: capture-watch
@@ -118,8 +136,23 @@ related_events:
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-01--jindal-founded-america-next-250k-influencer-marketing-ie-against-el-sayed-breakthrough-llc
 coverage: []
+updates:
+- date: '2026-10-25'
+  date_kind: rally date
+  heading: 'Trump invokes a Sept. 11 passenger: "stop a jihadist from walking into the Capitol"'
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 At a rally in Port Huron, Michigan, on Sunday, ahead of the Nov. 3 midterm elections, President Trump said of Democratic Senate candidate Abdul El-Sayed: "I'm here to keep a jihadist Muslim Brotherhood member from becoming a United States senator," CBS News Detroit reported. NBC News reported that he also said "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate. I want him to have a metal detector," and that "Throughout his comments Sunday, Trump offered no evidence for any of the claims about El-Sayed." The rally was held in support of the state’s Republican candidates, including the GOP Senate nominee, former Rep. Mike Rogers, and Republican gubernatorial candidate John James.
 
 The same Muslim Brotherhood charge was put to El-Sayed at a Caro town hall earlier in October, where, per CBS News Detroit, he said "absolutely" when asked whether he would disavow it ([[2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell]]). The outside spending against him is in [[2026-10-01--jindal-founded-america-next-250k-influencer-marketing-ie-against-el-sayed-breakthrough-llc]].
+
+## Update (2026-10-25, rally date): Trump invokes a Sept. 11 passenger: "stop a jihadist from walking into the Capitol"
+
+At the Port Huron rally on Oct. 25, Trump tied voting against El-Sayed to a passenger on the hijacked Sept. 11 flight that crashed in Pennsylvania, [Mother Jones reported](https://www.motherjones.com/politics/2026/10/trump-islamophobic-attacks-against-abdul-el-sayed/): "Twenty-five years later, Michigan needs to stand up and fight, just like Todd did, to stop a jihadist from walking into the Capitol."
