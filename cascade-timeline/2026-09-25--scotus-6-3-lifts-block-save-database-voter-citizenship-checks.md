@@ -44,6 +44,16 @@ sources:
     publisher: CNN
     date: '2026-09-25'
     tier: 1
+  - title: The Federal Database That Could Upend the Midterm Elections
+    url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+    publisher: Mother Jones
+    date: '2026-04-09'
+    tier: 2
+  - title: Supreme Court restores Trump's mass voter verification system
+    url: https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html
+    publisher: CNBC
+    date: '2026-09-25'
+    tier: 2
 related_events:
   - 2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful
   - 2026-06-04--dhs-approves-eo-14399-save-citizenship-lists-operational-june-30
@@ -74,6 +84,75 @@ claims:
   url: https://us.cnn.com/2026/05/04/politics/voter-roll-purges-election-day
   read: fetched
   source_kind: secondary
+- type: date
+  value: April 9, 2026
+  span: April 9, 2026 The Federal Database That Could Upend the Midterm Elections
+  url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: '691'
+  span: For St. Louis County, SAVE flagged 691 registered voters as noncitizens.
+  url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: 35 percent
+  span: But the county immediately determined that 35 percent of the names were naturalized citizens
+  url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: '133'
+  span: After the list was cross-referenced with passport data in January, which has more accurate citizenship information, the list was cut to 133—meaning at least 81 percent of SAVE’s noncitizen results were incorrect.
+  url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: 81 percent
+  span: After the list was cross-referenced with passport data in January, which has more accurate citizenship information, the list was cut to 133—meaning at least 81 percent of SAVE’s noncitizen results were incorrect.
+  url: https://www.motherjones.com/politics/2026/04/save-database-errors-faulty-state-voter-rolls-lists-trump-administration-doj-ice-2026-midterm-elections/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-27'
+- type: figure
+  value: 81%
+  span: In their Supreme Court filing, the advocacy groups cited a Travis County, Texas, election official who said 25% of the system's noncitizen matches there involved people who had already proven their US citizenship, and news reports finding that at least 81% of the system's responses in St. Louis County, Missouri, were erroneous.
+  url: https://www.cnbc.com/2026/09/25/supreme-court-restores-trumps-mass-voter-verification-system.html
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-27'
+updates:
+- date: '2026-04-09'
+  date_kind: publication date (Mother Jones report)
+  heading: 'What the 81 percent SAVE error figure measured: one Missouri county''s flagged list, not a national rate'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: save-database
 ---
 
 The Supreme Court issued a 6-3 emergency order on September 25, 2026 — with Justices Sotomayor, Kagan, and Jackson dissenting — lifting a June federal district court ruling that had found the Trump administration's expanded SAVE (Systematic Alien Verification for Entitlements) database illegal and blocked its use. The expansion added Social Security Administration data to SAVE, enabling states to run bulk Social Security number queries against voter rolls to flag potential noncitizens. The order allows states to resume using the expanded database while the underlying litigation continues. A ProPublica (and Texas Tribune) investigation cited in the reporting found SAVE prone to false positives in Texas: in Denton County, the system flagged 84 people as noncitizens, of whom 12 responded with proof of citizenship, and many of Texas's broader flags statewide were newly naturalized citizens. Justice Jackson's dissent wrote that "the harm caused by burdening or disenfranchising even a few lawful voters outweighs the nonexistent harm that the Government experiences when it is prevented from taking an action that it likely lacks the authority to take." Federal law bars systematic voter-roll changes within 90 days of an election, and November 3 is less than 40 days away, constraining the ruling's practical pre-midterm impact even as it authorizes the infrastructure for future cycles.
@@ -91,3 +170,7 @@ This is the third stage of a single SAVE-database arc the corpus already documen
 **On the NVRA quiet period specifically**: the per curiam majority acknowledges the 90-day bar (52 U.S.C. §20507(c)(2)(A)) "limits the potential impact" of the stay, but reserves the harder question — whether a *systematic* federal identification process followed by *individualized* state removal counts as "systematic" under the statute — for ***Republican National Committee v. Mi Familia Vota*, No. 25-1017** (consolidated with *Petersen v. Mi Familia Vota*, No. 25-1019; 9th Cir. below), which the per curiam opinion names directly (n.2) as the vehicle that will decide it. Oral argument is set for **Dec. 8, 2026** — after the midterms — with a decision expected by roughly mid-2027. Governing circuit precedent in the meantime: *Arcia v. Florida Sec'y of State*, 772 F.3d 1335 (11th Cir. 2014) (systematic citizenship-based database removals violate the 90-day bar; individualized-information removals do not), extended by *Mi Familia Vota v. Fontes* (9th Cir. 2025) (SAVE-based "periodic cancellation" via database comparison is systematic, not individualized).
 
 Corrected 2026-10-01: narrowed the ProPublica false-positive claim from "at least five states" to Texas-specific figures (Denton County: 84 flagged, 12 responded with proof of citizenship) — the reachable cited sources (NPR, NBC News, Mother Jones) that discuss ProPublica's SAVE reporting only support Texas-specific data, not a five-state claim; CBS News does not mention ProPublica at all; CNN was unreachable (HTTP 451).
+
+## Update (2026-04-09, publication date (Mother Jones report)): What the 81 percent SAVE error figure measured: one Missouri county's flagged list, not a national rate
+
+The figure circulating as an 81% error rate comes from St. Louis County, Missouri. Mother Jones reported on April 9, 2026 (publication date) that SAVE flagged 691 registered voters there as noncitizens, and that after the list was cross-referenced with passport data the list was cut to 133, meaning at least 81 percent of SAVE's noncitizen results were incorrect. The county immediately determined that 35 percent of the names were naturalized citizens. CNBC's report on the Supreme Court order says the challengers' filing cited news reports finding that at least 81% of the system's responses in St. Louis County, Missouri, were erroneous. The measured population is the list flagged as noncitizens in one county's bulk upload, checked against passport data; it is not an error rate for all SAVE queries or all locales.
