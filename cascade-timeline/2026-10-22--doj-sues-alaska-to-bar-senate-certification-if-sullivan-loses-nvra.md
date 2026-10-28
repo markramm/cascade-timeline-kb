@@ -396,6 +396,78 @@ claims:
   id: u31
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: October 28, 2026
+  span: Wed, October 28, 2026 at 5:58 PM UTC
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u32
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: called for the criminal prosecution
+  span: President Donald Trump called for the criminal prosecution of the Democratic candidate running for Senate in Alaska on Wednesday after revelations that her campaign appeared to be involved in recruiting a candidate with the same name as Republican incumbent Dan Sullivan.
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u33
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: tried to retract her comments last week
+  span: The newspaper said she tried to retract her comments last week.
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u34
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: has no involvement with either Sullivan campaign
+  span: Peltola's campaign, in a statement Wednesday, said it "has no involvement with either Sullivan campaign."
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u35
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: is not involved with Dan J. Sullivan
+  span: '"The DSCC is not involved with Dan J. Sullivan," the organization said in a statement Wednesday.'
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u36
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: will have no impact on a lawsuit filed recently by the U.S. Department of Justice
+  span: Legal experts said the report about Democrats appearing to recruit Dan J. Sullivan as a way to potentially confuse voters will have no impact on a lawsuit filed recently by the U.S. Department of Justice.
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u37
+  outcome: verified
+  checked: '2026-10-28'
+- type: quote
+  value: I think they should be prosecuted
+  span: I think they should be prosecuted
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u38
+  outcome: verified
+  checked: '2026-10-28'
+- type: attribution
+  value: text messages between members of Peltola
+  span: The newspaper obtained text messages between members of Peltola
+  url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+  read: fetched
+  source_kind: secondary
+  id: u39
+  outcome: verified
+  checked: '2026-10-28'
 tags:
   - election-2026
   - certification
@@ -460,6 +532,11 @@ sources:
     publisher: U.S. District Court, District of Alaska (via RECAP)
     date: '2026-10-26'
     tier: 1
+  - title: 'AP: Report: Peltola''s campaign involved in effort to recruit second Dan Sullivan for Alaska Senate race'
+    url: https://www.yahoo.com/news/articles/report-peltolas-campaign-involved-effort-175839011.html
+    publisher: Associated Press (via Yahoo News)
+    date: '2026-10-28'
+    tier: 2
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -529,6 +606,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-28'
+  date_kind: publication date (AP report of the New York Times report)
+  heading: Trump calls for prosecution after NYT reports Peltola campaign was involved in recruiting the second Dan Sullivan; campaign and DSCC deny it
+  claims:
+  - u32
+  - u33
+  - u34
+  - u35
+  - u36
+  - u37
+  - u38
+  - u39
+  event_date_claim: u32
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -554,3 +647,7 @@ The same day, the Division of Elections [told the court](https://storage.courtli
 ## Update (2026-10-27, filing date): DOJ opposes the intervention motions: the State already seeks "expeditious dismissal"
 
 The United States filed a [brief](https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.26.0.pdf) on October 27, 2026 with the heading "PLAINTIFF’S OPPOSITION TO MOTIONS TO INTERVENE". It argues that the State defendants already seek what the would-be intervenors want, "expeditious dismissal," and it concludes: "Both motions should be denied." The brief calls the second Senate candidate named Daniel J. Sullivan "a sham candidate" and quotes the Wall Street Journal editorial board. No ruling on intervention is on the docket yet.
+
+## Update (2026-10-28, publication date (AP report of the New York Times report)): Trump calls for prosecution after NYT reports Peltola campaign was involved in recruiting the second Dan Sullivan; campaign and DSCC deny it
+
+On October 28, 2026, AP reported that President Trump "called for the criminal prosecution" of Democratic Senate candidate Mary Peltola after a New York Times report that her campaign appeared to be involved in recruiting the second Dan Sullivan. "I think they should be prosecuted," Trump said. Per AP, the Times obtained text messages between members of Peltola's campaign team, and its story rests partly on interviews with her former campaign manager, who "tried to retract her comments last week." Peltola's campaign said it "has no involvement with either Sullivan campaign," and the DSCC said it "is not involved with Dan J. Sullivan." AP reported that legal experts said the report "will have no impact on a lawsuit filed recently by the U.S. Department of Justice."
