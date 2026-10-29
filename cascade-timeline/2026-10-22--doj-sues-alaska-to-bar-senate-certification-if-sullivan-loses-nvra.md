@@ -540,6 +540,159 @@ claims:
   id: u47
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: 10/28/26
+  span: Case 3:26-cv-00376-SLG Document 35 Filed 10/28/26 Page 1 of 8
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: interests would be inadequately represented by the existing parties
+  span: the Court finds that the Campaign’s interests would be inadequately represented by the existing parties to this action and therefore the Campaign Intervenor-Defendants are entitled to intervene as of right.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: are entitled to intervene as of right
+  span: the Court finds that the Campaign’s interests would be inadequately represented by the existing parties to this action and therefore the Campaign Intervenor-Defendants are entitled to intervene as of right.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u50
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: need not determine whether League of Women Voters are entitled to intervene as of right
+  span: The Court need not determine whether League of Women Voters are entitled to intervene as of right because the Court finds that their permissive intervention is warranted under Rule 24(b).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u51
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: their permissive intervention is warranted under Rule 24(b).
+  span: The Court need not determine whether League of Women Voters are entitled to intervene as of right because the Court finds that their permissive intervention is warranted under Rule 24(b).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u52
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: may not be 'identical to the individual parochial interest'
+  span: the government's representation of the public interest may not be ‘identical to the individual parochial interest’ of a
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u53
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: have advanced legal arguments in their proposed Motion to Dismiss that the State has not raised or developed
+  span: they have advanced legal arguments in their proposed Motion to Dismiss that the State has not raised or developed in its Motion to Dismiss.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u54
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: as filed
+  span: the Campaign’s Motion to Dismiss at Docket 8-1 is ACCEPTED as filed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u55
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: by Thursday, October 29, 2026, at 5:00 p.m.
+  span: the United States shall file its response to Intervenor-Defendants’ Motions to Dismiss by Thursday, October 29, 2026, at 5:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u56
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: by Friday, October 30, 2026, at 2:00 p.m.
+  span: Intervenor-Defendants may file replies by Friday, October 30, 2026, at 2:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u57
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: Oral argument on the Motions to Intervene was not requested and was not necessary for the Court's determination.
+  span: Oral argument on the Motions to Intervene was not requested and was not necessary for the Court’s determination.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u58
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: 10/28/26
+  span: Case 3:26-cv-00376-SLG Document 33 Filed 10/28/26 Page 1 of 3
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u59
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: Document 33
+  span: Case 3:26-cv-00376-SLG Document 33 Filed 10/28/26 Page 1 of 3
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u60
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: the New York Times reporting that Proposed Intervenor Alaskans For Mary and the Democratic Senatorial Campaign Committee orchestrated a sprawling conspiracy to recruit and prop up a sham candidate for the purpose of deceiving Alaskan voters
+  span: Given a change in circumstances—the New York Times reporting that Proposed Intervenor Alaskans For Mary and the Democratic Senatorial Campaign Committee orchestrated a sprawling conspiracy to recruit and prop up a sham candidate for the purpose of deceiving Alaskan voters—the United States withdraws its opposition to the Motion to Intervene at Docket Entry 5.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u61
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: intends to seek expedited discovery from the Campaign regarding the reported conspiracy
+  span: The United States intends to seek expedited discovery from the Campaign regarding the reported conspiracy, including as to whether the Campaign attempted to deceive the Court by seeking an expedited ruling on a motion to dismiss when the Campaign may have been aware of the New York Times reporting before it was published.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u62
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: when the Campaign may have been aware of the New York Times reporting before it was published
+  span: The United States intends to seek expedited discovery from the Campaign regarding the reported conspiracy, including as to whether the Campaign attempted to deceive the Court by seeking an expedited ruling on a motion to dismiss when the Campaign may have been aware of the New York Times reporting before it was published.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u63
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: maintains its opposition
+  span: The United States maintains its opposition to the motion to intervene by the League of Women Voters of Alaska, Common Cause, Jan Jakub Grzeda, and Ris Roy.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u64
+  outcome: verified
+  checked: '2026-10-29'
 tags:
   - election-2026
   - certification
@@ -612,6 +765,11 @@ sources:
   - title: Order on Motions to Intervene, Docket 35, United States v. Alaska, D. Alaska No. 3:26-cv-00376-SLG
     url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
     publisher: U.S. District Court, D. Alaska (via RECAP)
+    date: '2026-10-28'
+    tier: 1
+  - title: Notice Withdrawing Opposition to Motion to Intervene, Dkt. 33, United States v. State of Alaska, 3:26-cv-00376-SLG
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
+    publisher: D. Alaska via CourtListener RECAP
     date: '2026-10-28'
     tier: 1
 coverage:
@@ -715,6 +873,39 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-28'
+  date_kind: order date
+  heading: 'Gleason''s intervention order: Campaign in as of right, League of Women Voters permissively; both motions to dismiss accepted; DOJ response due Oct. 29'
+  claims:
+  - u48
+  - u49
+  - u50
+  - u51
+  - u52
+  - u53
+  - u54
+  - u55
+  - u56
+  - u57
+  - u58
+  event_date_claim: u48
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
+- date: '2026-10-28'
+  date_kind: filing date
+  heading: DOJ withdraws its opposition to the Peltola campaign's intervention and says it will seek expedited discovery
+  claims:
+  - u59
+  - u60
+  - u61
+  - u62
+  - u63
+  - u64
+  event_date_claim: u59
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -748,3 +939,11 @@ On October 28, 2026, AP reported that President Trump "called for the criminal p
 ## Update (2026-10-28, order date): Court grants intervention to the Peltola campaign, the DSCC and League of Women Voters intervenors
 
 Judge Sharon L. Gleason's ORDER ON MOTIONS TO INTERVENE, (Document 35 Filed 10/28/26; dated the 28th day of October, 2026), says the Campaign intervenors' motion to intervene "is GRANTED" (Alaskans for Mary and the Democratic Senatorial Campaign Committee), and so is the League of Women Voters intervenors' motion. The order notes that the United States had "withdrew its opposition to the Campaign's Motion to Intervene" (at Docket 33).
+
+## Update (2026-10-28, order date): Gleason's intervention order: Campaign in as of right, League of Women Voters permissively; both motions to dismiss accepted; DOJ response due Oct. 29
+
+Judge Sharon L. Gleason's order (filed 10/28/26) found that the Campaign's "interests would be inadequately represented by the existing parties" and that the Campaign intervenors "are entitled to intervene as of right," citing the non-opposition of the United States and the State. For the League of Women Voters intervenors, the court said it "need not determine whether League of Women Voters are entitled to intervene as of right" because "their permissive intervention is warranted under Rule 24(b)." The United States' main argument against them was that the State already represents their interests; the order answers that the Ninth Circuit has held government representation "may not be 'identical to the individual parochial interest'" of a group, and notes the League "have advanced legal arguments in their proposed Motion to Dismiss that the State has not raised or developed." The order accepts both intervenors' motions to dismiss "as filed" and directs the United States to respond "by Thursday, October 29, 2026, at 5:00 p.m." and lets the intervenors reply "by Friday, October 30, 2026, at 2:00 p.m."  Intervention was decided on the papers: "Oral argument on the Motions to Intervene was not requested and was not necessary for the Court's determination." No motion to dismiss has been ruled on in this order.
+
+## Update (2026-10-28, filing date): DOJ withdraws its opposition to the Peltola campaign's intervention and says it will seek expedited discovery
+
+On 10/28/26 the United States filed a notice (Document 33) withdrawing its opposition to intervention by Alaskans for Mary and the DSCC. It gives as the reason "the New York Times reporting that Proposed Intervenor Alaskans For Mary and the Democratic Senatorial Campaign Committee orchestrated a sprawling conspiracy to recruit and prop up a sham candidate for the purpose of deceiving Alaskan voters" (the filing's description of the Times report; the campaign and the DSCC deny involvement, per the AP update above). The notice says the United States "intends to seek expedited discovery from the Campaign regarding the reported conspiracy," including whether the Campaign sought an expedited ruling "when the Campaign may have been aware of the New York Times reporting before it was published." It "maintains its opposition" to intervention by the League of Women Voters of Alaska, Common Cause and individual voters, whom the court allowed to intervene the same day (see the order update).
