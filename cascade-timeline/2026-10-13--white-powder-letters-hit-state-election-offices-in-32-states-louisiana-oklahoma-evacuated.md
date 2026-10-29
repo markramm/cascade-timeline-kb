@@ -192,6 +192,76 @@ claims:
   url: https://www.votebeat.org/national/2026/10/15/suspicious-letters-white-powder-election-officials-threats/
   read: fetched
   source_kind: secondary
+- type: date
+  value: Tuesday, October 13
+  qualifier: received
+  span: On the morning of Tuesday, October 13 the Oklahoma State Election Board received an envelope containing suspicious white powder.
+  url: https://oklahoma.gov/elections/newsroom/2026/october/statement-from-secretary-of-the-state-election-board.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: professional response to the situation
+  qualifier: Oklahoma National Guard
+  span: “I am very appreciative of the quick action of state troopers, the Oklahoma City Fire Department, and the Oklahoma National Guard, and their professional response to the situation.
+  url: https://oklahoma.gov/elections/newsroom/2026/october/statement-from-secretary-of-the-state-election-board.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: Oklahoma Highway Patrol
+  qualifier: called
+  span: The Oklahoma Highway Patrol was immediately called to assess the situation.
+  url: https://oklahoma.gov/elections/newsroom/2026/october/statement-from-secretary-of-the-state-election-board.html
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: Thursday afternoon
+  qualifier: suspicious package
+  span: The FBI is releasing a statement after Alabama Secretary of State Wes Allen’s office confirmed Friday it received a “suspicious package” Thursday afternoon.
+  url: https://www.fox10tv.com/2026/10/16/fbi-reacts-after-alabama-secretary-states-office-gets-latest-suspicious-package/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: Alabama National Guard Civil Support Team
+  qualifier: responded
+  span: According to Allen’s office, the Alabama Law Enforcement Agency, the FBI, the Alabama National Guard Civil Support Team, and the U.S. Postal Service responded to the SoS’s office in the Alabama Capitol immediately after the package was received.
+  url: https://www.fox10tv.com/2026/10/16/fbi-reacts-after-alabama-secretary-states-office-gets-latest-suspicious-package/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: no dangerous or hazardous substance
+  qualifier: confirmed
+  span: The National Guard CST and USPS took possession of the package, which was later confirmed to have no dangerous or hazardous substance in or on the package.
+  url: https://www.fox10tv.com/2026/10/16/fbi-reacts-after-alabama-secretary-states-office-gets-latest-suspicious-package/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: Oct. 16, 2026
+  qualifier: Published
+  span: 'Published: Oct. 16, 2026 at 11:19 AM CDT|Updated: Oct. 16, 2026 at 2:26 PM CDT'
+  url: https://www.fox10tv.com/2026/10/16/fbi-reacts-after-alabama-secretary-states-office-gets-latest-suspicious-package/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-29'
 tags:
 - election-2026
 - election-workers
@@ -237,10 +307,52 @@ sources:
   date: '2026-10-15'
   url: https://nypost.com/2026/10/15/us-news/capitol-police-probing-suspicious-letters-mailed-with-dsa-linked-return-address/
   tier: 2
+- title: Statement from Secretary of the State Election Board
+  url: https://oklahoma.gov/elections/newsroom/2026/october/statement-from-secretary-of-the-state-election-board.html
+  publisher: Oklahoma State Election Board
+  date: '2026-10-13'
+  tier: 1
+- title: FBI reacts after Alabama secretary of state's office gets latest suspicious package
+  url: https://www.fox10tv.com/2026/10/16/fbi-reacts-after-alabama-secretary-states-office-gets-latest-suspicious-package/
+  publisher: WSFA / FOX10
+  date: '2026-10-16'
+  tier: 2
 capture_lanes:
 - Election Workers
+updates:
+- date: '2026-10-13'
+  date_kind: statement date
+  heading: Oklahoma State Election Board credits the Oklahoma National Guard among responders
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: national-guard-election
+- date: '2026-10-15'
+  date_kind: date the package arrived, per WSFA's Oct. 16 report
+  heading: 'Alabama Secretary of State''s office: National Guard Civil Support Team responds to suspicious package'
+  claims:
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: national-guard-election
 ---
 
 Date shown is the first documented receipt (the Louisiana letter opened Oct 13, 2026), not the mailing date, which no source gives. The FBI and U.S. Postal Inspection Service say they are investigating "a series of suspicious mailings" to Secretary of State and related election offices and are working to identify the sender or senders. WIRED's tally (Oct 19) lists Louisiana plus at least 31 other states that confirmed receipt, but that is a count of states targeted, not of letters opened: the Postal Service intercepted most before delivery, and WIRED names Arizona, Delaware, Oklahoma, South Carolina and Louisiana as the states where letters were not intercepted. Louisiana, Oklahoma and Arizona evacuations are confirmed by their own officials' statements as reported; Louisiana's was a partial evacuation of the elections section per WAFB.
 
 The white powder contained in the letters opened so far has been reported as not harmful, including in Louisiana, Arizona, Wisconsin and Mississippi. Envelopes bore a "DSA" return address; DSA denies involvement, says it has not occupied that office address since 2013, and unnamed authorities quoted in the Fox station report said there is no evidence linking it. Federal investigators had announced no arrests and identified no suspect as of Oct 15 (WAFB), and on Oct 19 the FBI would not tell WIRED whether it had any leads on who was behind the campaign. Nebraska's secretary of state said this was the second such envelope to his office, the first having come in the 2024 wave.
+
+## Update (2026-10-13, statement date): Oklahoma State Election Board credits the Oklahoma National Guard among responders
+
+The Oklahoma State Election Board's statement of October 13, 2026 says the board received an envelope containing suspicious white powder and the Oklahoma Highway Patrol was called. Board Secretary Paul Ziriax thanked state troopers, the Oklahoma City Fire Department and the Oklahoma National Guard for their "professional response to the situation". The statement does not say which Guard unit responded.
+
+## Update (2026-10-15, date the package arrived, per WSFA's Oct. 16 report): Alabama Secretary of State's office: National Guard Civil Support Team responds to suspicious package
+
+WSFA reported on October 16, 2026 that Alabama Secretary of State Wes Allen's office received a "suspicious package" on Thursday afternoon. According to Allen's office, the Alabama National Guard Civil Support Team was among the responders, and the Guard CST and the Postal Service took possession of the package, which was later confirmed to have no dangerous or hazardous substance.
