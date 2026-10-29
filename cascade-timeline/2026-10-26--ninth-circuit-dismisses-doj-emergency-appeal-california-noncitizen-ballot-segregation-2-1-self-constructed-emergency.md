@@ -134,6 +134,9 @@ related_events:
 - 2026-10-25--ninth-circuit-hears-doj-emergency-appeal-us-v-california-sunday-argument-jurisdiction-doubts
 - 2026-10-22--doj-files-notice-of-appeal-9th-circuit-us-v-california-says-no-ruling-on-tro-application-is-constructive-denial
 - 2026-10-13--doj-letters-give-california-48-hours-on-likely-noncitizen-list-demand-la-county-segregate-ballots
+coverage:
+- title: "Judge Carter Denies DOJ's Bid to Hold 20,000 California Ballots"
+  url: https://theramm.transparencycascade.org/p/judge-carter-denies-dojs-bid-to-hold
 ---
 
 A Ninth Circuit panel ruled 2-1 on October 26, 2026 against a Justice Department request for a court order requiring California election officials to segregate and not count the ballots of some 20,000 voters. The majority held it lacked jurisdiction because the government failed to allow the district court adequate opportunity to consider the request, and wrote that the United States's claimed emergency, at least in part, is a self-constructed one.

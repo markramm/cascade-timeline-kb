@@ -131,6 +131,9 @@ related_events:
 - 2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built
 - 2026-10-25--ninth-circuit-hears-doj-emergency-appeal-us-v-california-sunday-argument-jurisdiction-doubts
 - 2026-10-16--doj-tells-dcd-court-dhs-bought-california-voter-roll-sworn-hsi-declaration-says-only-received
+coverage:
+- title: "Judge Carter Denies DOJ's Bid to Hold 20,000 California Ballots"
+  url: https://theramm.transparencycascade.org/p/judge-carter-denies-dojs-bid-to-hold
 ---
 
 Judge David Carter's docket in the government's suit against California shows the second round of DHS sworn statements Filed 10/26/26, ahead of his TRO hearing. That was the day after the appeals court heard remote oral argument, which the panel had set for "Sunday, October 25, 2026, at 1 p.m. PDT."

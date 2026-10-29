@@ -264,6 +264,8 @@ capture_lanes:
 coverage:
 - title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
   url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
+- title: "Judge Carter Denies DOJ's Bid to Hold 20,000 California Ballots"
+  url: https://theramm.transparencycascade.org/p/judge-carter-denies-dojs-bid-to-hold
 ---
 
 DOJ's account that DHS bought California's voter roll and the sworn HSI account that its office "received" a roster were written in a different order than the filing dates suggest. Each date below says which kind it is.

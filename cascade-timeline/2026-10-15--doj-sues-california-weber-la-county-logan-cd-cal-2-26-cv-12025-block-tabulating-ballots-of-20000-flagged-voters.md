@@ -100,6 +100,8 @@ coverage:
   title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
 - title: 'CA Voter Rolls: DOJ Says ''Purchased.'' Its Sworn Declaration Says ''Received.'''
   url: https://theramm.transparencycascade.org/p/ca-voter-rolls-doj-says-purchased
+- title: "Judge Carter Denies DOJ's Bid to Hold 20,000 California Ballots"
+  url: https://theramm.transparencycascade.org/p/judge-carter-denies-dojs-bid-to-hold
 sources:
 - title: Complaint, United States v. State of California, No. 2:26-cv-12025 (C.D. Cal. filed Oct. 15, 2026), Dkt. 1
   url: https://www.democracydocket.com/wp-content/uploads/2026/10/2026-10-15-Complaint.pdf
