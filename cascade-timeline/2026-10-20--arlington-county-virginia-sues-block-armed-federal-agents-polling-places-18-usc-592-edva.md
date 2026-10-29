@@ -136,6 +136,9 @@ related_events:
 - 2026-09-23--dscc-dccc-dga-sue-trump-admin-armed-agents-polling-places
 - 2026-09-10--lulac-unidosus-denver-sue-dhs-armed-ice-polling-places
 - 2026-09-15--patel-refuses-under-oath-rule-out-fbi-agents-polling-places-midterms
+coverage:
+- url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
+  title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 ---
 
 Arlington County, Virginia sued the Trump administration, per Democracy Docket, in the Eastern District of Virginia, asking the court to block armed federal agents from the polls by the Nov. 3 election. The suit invokes 18 U.S.C. 592. The county says it had to develop a plan for responding to the presence of armed federal agents at polling places, and County Board Chair Matt de Ferranti called the threatened deployment unlawful and said it contravenes the bedrock values of free and fair elections. Democracy Docket counts it as the fourth lawsuit of its kind.

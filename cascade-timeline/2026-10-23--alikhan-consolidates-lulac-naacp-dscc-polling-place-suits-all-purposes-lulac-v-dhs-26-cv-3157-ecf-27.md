@@ -122,6 +122,9 @@ sources:
   publisher: U.S. District Court, D.D.C. (RECAP copy)
   date: '2026-10-23'
   tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
+  title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."

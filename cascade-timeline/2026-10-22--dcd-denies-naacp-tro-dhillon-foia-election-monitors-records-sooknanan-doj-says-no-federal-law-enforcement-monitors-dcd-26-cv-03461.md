@@ -420,6 +420,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+coverage:
+- url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
+  title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 ---
 
 On Oct 22, 2026 (hearing and order date), Judge Sparkle Sooknanan denied the NAACP's emergency motion for a temporary restraining order in *NAACP v. Dhillon* (D.D.C., FOIA suit seeking DOJ records on its election monitors). The parties' joint status report says the court cited "among other things, its breadth" and directed the parties to confer on narrowing the request.

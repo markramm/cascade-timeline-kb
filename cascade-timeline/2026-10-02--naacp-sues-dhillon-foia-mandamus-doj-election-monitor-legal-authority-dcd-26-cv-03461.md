@@ -251,6 +251,8 @@ related_events:
 coverage:
 - url: https://theramm.transparencycascade.org/p/who-may-enter-a-polling-place-on
   title: 'Who May Enter a Polling Place on November 3'
+- url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
+  title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 updates:
 - date: '2026-10-22'
   date_kind: hearing and ruling date

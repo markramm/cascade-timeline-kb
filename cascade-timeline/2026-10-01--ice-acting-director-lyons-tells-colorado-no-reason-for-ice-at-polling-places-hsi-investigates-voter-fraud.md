@@ -71,6 +71,9 @@ claims:
   url: https://democracyforward.org/wp-content/uploads/2026/10/EMBARGO-DFF-DHS-ICE-26-0510-0511-0512-LIT-A_.pdf
   read: "page image (PDF pp.1-2, rendered at 80 dpi and read)"
   source_kind: primary
+coverage:
+- url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
+  title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 ---
 
 ## What the letter says
