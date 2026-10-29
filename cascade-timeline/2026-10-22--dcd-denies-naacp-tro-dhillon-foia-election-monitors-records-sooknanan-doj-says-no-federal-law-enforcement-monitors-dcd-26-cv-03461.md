@@ -284,6 +284,64 @@ claims:
   id: u26
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: 10/29/2026
+  span: Signed by Judge Sparkle L. Sooknanan on 10/29/2026. (lcsls1)
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: should use reasonable efforts to process and produce records on a rolling basis before the November 3, 2026, election
+  span: The Government should use reasonable efforts to process and produce records on a rolling basis before the November 3, 2026, election.
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  speaker: Judge Sooknanan
+  via: minute order
+  id: u28
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: waited over two weeks to begin these discussions after the Government offered
+  span: the Plaintiff waited over two weeks to begin these discussions after the Government offered
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  speaker: Judge Sooknanan
+  via: minute order
+  id: u29
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: November 12, 2026
+  span: The Court further ORDERS the Parties to file a further joint status report by November 12, 2026, addressing the status of the processing and production.
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: three business days
+  span: But the Court notes there are only three business days left between now and then
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: continue conferring
+  span: The Court ORDERS the Parties to continue conferring regarding the processing and production of responsive records.
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u32
+  outcome: verified
+  checked: '2026-10-29'
 sources:
 - title: Notice, ECF 27, NAACP v. Dhillon, No. 1:26-cv-03461-SLS (D.D.C.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297278/gov.uscourts.dcd.297278.27.0.pdf
@@ -300,6 +358,11 @@ sources:
   publisher: Democracy Docket
   date: '2026-10-29'
   tier: 2
+- title: CourtListener docket, NAACP v. Dhillon, 1:26-cv-03461 (D.D.C.)
+  url: https://www.courtlistener.com/docket/74912693/naacp-v-dhillon/?order_by=desc
+  publisher: CourtListener
+  date: '2026-10-29'
+  tier: 1
 updates:
 - date: '2026-10-27'
   date_kind: filing date
@@ -343,6 +406,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-29'
+  date_kind: order date
+  heading: 'Minute order: government "should use reasonable efforts" to produce records on a rolling basis before Nov. 3'
+  claims:
+  - u27
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  event_date_claim: u27
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct 22, 2026 (hearing and order date), Judge Sparkle Sooknanan denied the NAACP's emergency motion for a temporary restraining order in *NAACP v. Dhillon* (D.D.C., FOIA suit seeking DOJ records on its election monitors). The parties' joint status report says the court cited "among other things, its breadth" and directed the parties to confer on narrowing the request.
@@ -364,3 +441,7 @@ On the two lists, CRT says it "will not have a finalized list of jurisdictions u
 The Declaration of Eric Neff, acting chief of the Civil Rights Division's Voting Section, was filed in the case in a court filing on Oct. 28 (filing date), as reported by the Epoch Times and by Democracy Docket. As quoted in the Epoch Times account, it says "There will be no Federal Bureau of Investigation or U.S. Immigration and Customs Enforcement employees, much less agents, serving as monitors." It also says the monitors will include employees from the Drug Enforcement Administration, the Federal Bureau of Prisons, and the Bureau of Alcohol, Tobacco, Firearms, and Explosives, who will be prohibited from carrying guns, and that Neff was aware of only one Department of Homeland Security employee participating, from Customs and Border Protection.
 
 The declaration says the division is still identifying all locations it will send monitors to, and that releasing a full list of locations, as sought by the Freedom of Information Act request, would potentially put monitors at risk. Democracy Docket separately reports, citing records Democracy Forward received, that for the July primary in Arizona the DOJ dispatched an FBI agent, as well as several criminal prosecutors, to monitor; that is a different election from the one the declaration covers.
+
+## Update (2026-10-29, order date): Minute order: government "should use reasonable efforts" to produce records on a rolling basis before Nov. 3
+
+In a minute order signed 10/29/2026 (order date), Judge Sparkle L. Sooknanan ordered the parties to continue conferring on processing and producing responsive records and said the Government "should use reasonable efforts to process and produce records on a rolling basis before the November 3, 2026, election." She noted there are only three business days left, and that the Plaintiff "waited over two weeks to begin these discussions after the Government offered". The parties must file a further joint status report by November 12, 2026. The docket text sets no production deadline.

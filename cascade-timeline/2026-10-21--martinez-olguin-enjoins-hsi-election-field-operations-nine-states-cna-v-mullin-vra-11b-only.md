@@ -395,6 +395,69 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: 10/29/26
+  span: Document 92 Filed 10/29/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: DENIES Defendants’ motion to stay the preliminary injunction pending appeal
+  span: reasons, the Court DENIES Defendants’ motion to stay the preliminary injunction pending appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: October 27, 2026
+  span: On October 27, 2026, Defendants filed an ex
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: Compliance with the law does not constitute a legally cognizable harm.
+  span: Compliance with the law does not constitute a legally cognizable harm.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: consistently represented that the field operations investigate
+  span: Defendants consistently represented that the field operations investigate
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: allegations of past voting and do not relate to voting in the upcoming election
+  span: allegations of past voting and do not relate to voting in the upcoming election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: did not notice their appeal until five days after the Order issued
+  span: Defendants did not notice their appeal until five days after the Order issued, and the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-10-29'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -430,11 +493,16 @@ sources:
     publisher: U.S. District Court, N.D. Cal. (via RECAP)
     date: '2026-10-27'
     tier: 1
+  - title: Order Denying Ex Parte Motion to Stay Injunction Pending Appeal, Dkt. 92, California Nurses Association v. Mullin (N.D. Cal. Oct 29, 2026)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+    publisher: CourtListener (RECAP)
+    date: '2026-10-29'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
-  - url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
-    title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
+- url: https://theramm.transparencycascade.org/p/hsis-reports-count-484-million-records
+  title: "HSI's Reports Count 48.4 Million Records. The Government's Sworn Statements Don't."
 updates:
 - date: '2026-10-26'
   date_kind: filing date
@@ -465,6 +533,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-10-29'
+  date_kind: order date
+  heading: Court denies the government's ex parte motion to stay the injunction pending appeal
+  claims:
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  event_date_claim: u14
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -478,3 +561,7 @@ On October 26, 2026, the defendants filed a notice of appeal (Document 89, "NOTI
 ## Update (2026-10-27, filing date): DHS asks the court to stay the injunction and says it will ask the Ninth Circuit to rule by Oct. 29
 
 In an ex parte motion filed Tuesday, October 27, the government asks the court to stay the preliminary injunction pending appeal. Citing "the imminence of the election," it asks for a decision "as quickly as possible" and says it plans to file a motion to stay in the Ninth Circuit "today, Tuesday, October 27," asking that court to decide by Thursday, October 29, if the district court has not already granted a stay. The motion argues that DHS "may be substantially chilled in enforcing federal voting law in the run-up to a nationwide election." These are the government's arguments, not a ruling.
+
+## Update (2026-10-29, order date): Court denies the government's ex parte motion to stay the injunction pending appeal
+
+In an order filed 10/29/26 (order date) the court "DENIES Defendants’ motion to stay the preliminary injunction pending appeal", the motion the defendants filed on October 27, 2026. It found the defendants had not shown irreparable harm, writing "Compliance with the law does not constitute a legally cognizable harm." It noted that the defendants "consistently represented that the field operations investigate" "allegations of past voting and do not relate to voting in the upcoming election", and faulted the delay: the defendants "did not notice their appeal until five days after the Order issued".
