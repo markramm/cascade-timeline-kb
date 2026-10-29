@@ -93,7 +93,7 @@ claims:
 - id: c10
   type: attribution
   value: respectfully move to intervene as Defendants
-  span: Risé Roy, Jan Jakub Grzeda, the League of Women Voters of Alaska, and Common Cause (collectively, Proposed Intervenors) respectfully move to intervene as Defendants
+  span: the League of Women Voters of Alaska, and Common Cause (collectively, Proposed Intervenors) respectfully move to intervene as Defendants
   url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.6.0.pdf
   read: fetched
   source_kind: primary
@@ -686,7 +686,7 @@ claims:
   checked: '2026-10-29'
 - type: quote
   value: maintains its opposition
-  span: The United States maintains its opposition to the motion to intervene by the League of Women Voters of Alaska, Common Cause, Jan Jakub Grzeda, and Ris Roy.
+  span: The United States maintains its opposition to the motion to intervene by the League of Women Voters of Alaska, Common Cause
   url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
   read: fetched
   source_kind: primary
