@@ -468,6 +468,78 @@ claims:
   id: u39
   outcome: verified
   checked: '2026-10-28'
+- url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  type: date
+  value: Document 35 Filed 10/28/26
+  span: Case 3:26-cv-00376-SLG Document 35 Filed 10/28/26
+  id: u40
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: 28th day of October, 2026
+  span: DATED this 28th day of October, 2026, at Anchorage, Alaska.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: ORDER ON MOTIONS TO INTERVENE
+  span: Case No. 3:26-cv-00376-SLG Defendants. ORDER ON MOTIONS TO INTERVENE Before the Court at Docket 5
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: Alaskans for Mary and Democratic Senatorial Campaign Committee
+  span: Proposed Intervenor-Defendants Alaskans for Mary and Democratic Senatorial Campaign Committee
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: withdrew its opposition to the Campaign's Motion to Intervene
+  span: the United States withdrew its opposition to the Campaign’s Motion to Intervene
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: GRANTED
+  span: Campaign Intervenor-Defendants’ Motion to Intervene at Docket 5 is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: GRANTED
+  span: League of Women Voters Intervenor-Defendants’ Motion to Intervene at Docket 6 is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: verified
+  checked: '2026-10-29'
+- url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  type: attribution
+  value: at Docket 33
+  span: Then, at Docket 33, the United States withdrew its opposition
+  id: u47
+  outcome: verified
+  checked: '2026-10-29'
 tags:
   - election-2026
   - certification
@@ -537,6 +609,11 @@ sources:
     publisher: Associated Press (via Yahoo News)
     date: '2026-10-28'
     tier: 2
+  - title: Order on Motions to Intervene, Docket 35, United States v. Alaska, D. Alaska No. 3:26-cv-00376-SLG
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+    publisher: U.S. District Court, D. Alaska (via RECAP)
+    date: '2026-10-28'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -622,6 +699,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-28'
+  date_kind: order date
+  heading: Court grants intervention to the Peltola campaign, the DSCC and League of Women Voters intervenors
+  claims:
+  - u40
+  - u41
+  - u42
+  - u43
+  - u44
+  - u45
+  - u46
+  - u47
+  event_date_claim: u40
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -651,3 +744,7 @@ The United States filed a [brief](https://storage.courtlistener.com/recap/gov.us
 ## Update (2026-10-28, publication date (AP report of the New York Times report)): Trump calls for prosecution after NYT reports Peltola campaign was involved in recruiting the second Dan Sullivan; campaign and DSCC deny it
 
 On October 28, 2026, AP reported that President Trump "called for the criminal prosecution" of Democratic Senate candidate Mary Peltola after a New York Times report that her campaign appeared to be involved in recruiting the second Dan Sullivan. "I think they should be prosecuted," Trump said. Per AP, the Times obtained text messages between members of Peltola's campaign team, and its story rests partly on interviews with her former campaign manager, who "tried to retract her comments last week." Peltola's campaign said it "has no involvement with either Sullivan campaign," and the DSCC said it "is not involved with Dan J. Sullivan." AP reported that legal experts said the report "will have no impact on a lawsuit filed recently by the U.S. Department of Justice."
+
+## Update (2026-10-28, order date): Court grants intervention to the Peltola campaign, the DSCC and League of Women Voters intervenors
+
+Judge Sharon L. Gleason's ORDER ON MOTIONS TO INTERVENE, (Document 35 Filed 10/28/26; dated the 28th day of October, 2026), says the Campaign intervenors' motion to intervene "is GRANTED" (Alaskans for Mary and the Democratic Senatorial Campaign Committee), and so is the League of Women Voters intervenors' motion. The order notes that the United States had "withdrew its opposition to the Campaign's Motion to Intervene" (at Docket 33).

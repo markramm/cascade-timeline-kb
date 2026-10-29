@@ -118,6 +118,24 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 28, 2026 Document 153
+  span: 'DATED: October 28, 2026 Document 153'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.153.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: renews its motion under Federal Rule of Civil Procedure 62(d) for an injunction pending appeal
+  span: The United States renews its motion under Federal Rule of Civil Procedure 62(d) for an injunction pending appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.153.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-29'
 tags:
 - us-v-california
 - voter-rolls
@@ -142,6 +160,11 @@ sources:
   publisher: U.S. District Court, C.D. Cal. (via RECAP)
   date: '2026-10-28'
   tier: 1
+- title: Dkt. 153, United States v. California, C.D. Cal. No. 2:26-cv-12025 (renewed request for injunction pending appeal)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.153.0.pdf
+  publisher: U.S. District Court, C.D. Cal. (via RECAP)
+  date: '2026-10-28'
+  tier: 1
 verification: source-verified
 updates:
 - date: '2026-10-28'
@@ -156,6 +179,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-28'
+  date_kind: filing date
+  heading: United States renews its request for an injunction pending appeal
+  claims:
+  - u5
+  - u6
+  event_date_claim: u5
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 Judge David O. Carter of the Central District of California, in an order dated October 28, 2026 (the order linked below), denied the Justice Department's request to make California and Los Angeles County segregate ballots DOJ had flagged; the order describes the request as seeking "to segregate and exclude over 20,000 ballots": "The Government’s Application for Temporary Restraining Order is DENIED." The order opens: "Never before in American history has the federal government, on the eve of an election," and finds that the United States "likely does not have standing or a cause of action."
@@ -165,3 +198,7 @@ On harm, the court wrote that the government's "theoretical risk of imminent har
 ## Update (2026-10-28, filing date): United States files notice of appeal to the Ninth Circuit
 
 The United States filed a notice that it "hereby appeals" to the Ninth Circuit the same day, appealing the "Order denying injunctive relief (ECF 149)". The notice is signed by Assistant U.S. Attorney Julie A. Hamill and dated October 28, 2026.
+
+## Update (2026-10-28, filing date): United States renews its request for an injunction pending appeal
+
+In a filing dated October 28, 2026 (Dkt. 153), the United States "renews its motion under Federal Rule of Civil Procedure 62(d) for an injunction pending appeal."
