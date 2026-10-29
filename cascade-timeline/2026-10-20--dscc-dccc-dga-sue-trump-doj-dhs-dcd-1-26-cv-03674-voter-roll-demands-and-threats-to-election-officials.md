@@ -571,6 +571,114 @@ claims:
   id: u38
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 29, 2026
+  span: Motion Hearing held via Zoom on October 29, 2026
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: GRANTED IN PART and DENIED IN PART
+  span: Plaintiffs' 16 Motion to Expedite Discovery is GRANTED IN PART and DENIED IN PART
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: By 12:00 noon on October 30, 2026, Defendants shall answer Plaintiffs' Proposed Interrogatory No. 1 for the time period July 1, 2026, to present
+  span: By 12:00 noon on October 30, 2026, Defendants shall answer Plaintiffs' Proposed Interrogatory No. 1 for the time period July 1, 2026, to present
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: shall file any supplement regarding standing by October 31, 2026
+  span: Plaintiffs shall file any supplement regarding standing by October 31, 2026
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: shall file any response by November 1, 2026
+  span: Defendants shall file any response by November 1, 2026
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: figure
+  value: '16'
+  span: Plaintiffs' 16 Motion to Expedite Discovery
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: posture
+  value: GRANTED IN PART and DENIED IN PART
+  span: Plaintiffs' 16 Motion to Expedite Discovery is GRANTED IN PART and DENIED IN PART
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: posture
+  value: The Court will rule by November 2, 2026
+  span: The Court will rule by November 2, 2026
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: The Court will rule by November 2, 2026
+  span: The Court will rule by November 2, 2026
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u47
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: Defendants may moot this process at any time by filing a notice indicating that they will not engage in the conduct sought to be enjoined in connection with the upcoming election
+  span: Defendants may moot this process at any time by filing a notice indicating that they will not engage in the conduct sought to be enjoined in connection with the upcoming election
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: quote
+  value: Oral arguments submitted, and an order is forthcoming
+  span: Oral arguments submitted, and an order is forthcoming
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: unreachable
+  checked: '2026-10-29'
+- type: figure
+  value: '19'
+  span: re 19 MOTION for Temporary Restraining Order and Preliminary Injunction
+  url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+  read: fetched
+  source_kind: primary
+  id: u50
+  outcome: unreachable
+  checked: '2026-10-29'
 tags:
   - election-capture
   - electoral-manipulation
@@ -623,6 +731,11 @@ sources:
   - title: Notice of Supplemental Authority, Ex. B (Hobbs response), DSCC v. Trump, Dkt. 27-2
     url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.27.2.pdf
     publisher: U.S. District Court, D.D.C. (via RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: DSCC v. Trump, 1:26-cv-03674 (D.D.C.) docket
+    url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
+    publisher: CourtListener (RECAP)
     date: '2026-10-29'
     tier: 1
 updates:
@@ -704,6 +817,26 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: dscc-v-trump-voter-roll-threats
+- date: '2026-10-29'
+  date_kind: order date (minute order)
+  heading: Boasberg grants in part and denies in part the motion to expedite discovery; the Court will rule by Nov. 2
+  claims:
+  - u39
+  - u40
+  - u41
+  - u42
+  - u43
+  - u44
+  - u45
+  - u46
+  - u47
+  - u48
+  - u49
+  - u50
+  event_date_claim: u39
+  verification: captured
+  captured_by: capture-watch
+  cluster: dscc-v-trump-voter-roll-threats
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -733,3 +866,9 @@ The attached Declaration of Nathaniel Stiefel (Dkt. 25-1), whose author is Deput
 ## Update (2026-10-29, filing date): Plaintiffs file a notice of supplemental authority attaching the California TRO denial and Washington's response
 
 On the day of the hearing, the plaintiffs filed a supplemental notice with the Washington Secretary of State's reply to the Justice Department's Washington letter. The reply says: “it would be both irresponsible and illegal for election officials to decline to process a registered voter’s ballot.” No ruling on the plaintiffs' motion for a temporary restraining order had been entered when this was read.
+
+## Update (2026-10-29, order date (minute order)): Boasberg grants in part and denies in part the motion to expedite discovery; the Court will rule by Nov. 2
+
+After a motion hearing held by Zoom on October 29, 2026, Chief Judge James E. Boasberg entered a minute order in which Plaintiffs' motion to expedite discovery (ECF 16) is "GRANTED IN PART and DENIED IN PART". The order directs: "By 12:00 noon on October 30, 2026, Defendants shall answer Plaintiffs' Proposed Interrogatory No. 1 for the time period July 1, 2026, to present"; plaintiffs "shall file any supplement regarding standing by October 31, 2026"; and defendants "shall file any response by November 1, 2026". It then states: "The Court will rule by November 2, 2026"; and "Defendants may moot this process at any time by filing a notice indicating that they will not engage in the conduct sought to be enjoined in connection with the upcoming election."
+
+The docket's minute entry for the hearing, which concerned the motion for a temporary restraining order and preliminary injunction (ECF 19), records: "Oral arguments submitted, and an order is forthcoming."
