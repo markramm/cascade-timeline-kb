@@ -553,6 +553,24 @@ claims:
   id: u36
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: 10/29/26
+  span: Case 1:26-cv-03674-JEB Document 27-2 Filed 10/29/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.27.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: it would be both irresponsible and illegal for election officials to decline to process a registered voter’s ballot
+  span: it would be both irresponsible and illegal for election officials to decline to process a registered voter’s ballot
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.27.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-10-29'
 tags:
   - election-capture
   - electoral-manipulation
@@ -601,6 +619,11 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.1.pdf
     publisher: U.S. District Court, D.D.C. (via RECAP)
     date: '2026-10-28'
+    tier: 1
+  - title: Notice of Supplemental Authority, Ex. B (Hobbs response), DSCC v. Trump, Dkt. 27-2
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.27.2.pdf
+    publisher: U.S. District Court, D.D.C. (via RECAP)
+    date: '2026-10-29'
     tier: 1
 updates:
 - date: '2026-10-23'
@@ -671,6 +694,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: Plaintiffs file a notice of supplemental authority attaching the California TRO denial and Washington's response
+  claims:
+  - u37
+  - u38
+  event_date_claim: u37
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: dscc-v-trump-voter-roll-threats
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -696,3 +729,7 @@ On the day before the order, the plaintiffs [moved for a temporary restraining o
 In a response dated October 28, 2026 (Dkt. 25), the defendants call this "an extraordinary lawsuit" and argue that "Plaintiffs have not demonstrated standing to bring this suit." They say their letters to states and localities "are not self-executing" and that they "would need to seek an order from an Article III court" to compel action.
 
 The attached Declaration of Nathaniel Stiefel (Dkt. 25-1), whose author is Deputy Associate Director of USCIS's Fraud Detection and National Security Directorate, says FDNS gave its California list to HSI "for further refinement, ultimately resulting in over 20,000 individuals remaining on the list."
+
+## Update (2026-10-29, filing date): Plaintiffs file a notice of supplemental authority attaching the California TRO denial and Washington's response
+
+On the day of the hearing, the plaintiffs filed a supplemental notice with the Washington Secretary of State's reply to the Justice Department's Washington letter. The reply says: “it would be both irresponsible and illegal for election officials to decline to process a registered voter’s ballot.” No ruling on the plaintiffs' motion for a temporary restraining order had been entered when this was read.
