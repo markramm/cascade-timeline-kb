@@ -61,5 +61,8 @@ sources:
   publisher: Tribunal Superior Eleitoral
   date: '2026-10-22'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Oct. 21, 2026 Lula's coalition "Brasil Pronto pra Mais" filed an Ação de Investigação Judicial Eleitoral at the TSE against presidential candidate Flávio Bolsonaro and running mate Alfredo Gaspar de Mendonça Neto, alleging misuse of the media and abuse of economic power through unequal treatment by Meta and X in content distribution, recommendation, moderation, ad delivery and AI tools. It was assigned to Electoral Inspector-General Ricardo Villas Bôas Cueva and asks, among other things, for cassation of the ticket and eight years of ineligibility (BBC/Reuters, Oct. 23). Facebook Serviços Online do Brasil and X Brasil are third parties in the case: Cueva wrote that the art. 22 sanctions do not apply to legal entities, though they can be ordered to produce records. The coalition's own petition describes part of its evidence as "indícios" (indications). Cueva's Oct. 22 decision received the petition without finding the allegations true.

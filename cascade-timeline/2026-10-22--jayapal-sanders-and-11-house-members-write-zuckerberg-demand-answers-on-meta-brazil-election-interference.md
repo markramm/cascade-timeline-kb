@@ -65,5 +65,8 @@ sources:
   publisher: Rep. Pramila Jayapal (house.gov)
   date: '2026-10-22'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Oct. 22, 2026 Rep. Pramila Jayapal (WA-07) and Sen. Bernie Sanders, joined by Reps. Greg Casar, Maxwell Frost, Jesús "Chuy" García, Jonathan Jackson, Summer Lee, Mark Pocan, Mike Quigley, Delia Ramirez, Jan Schakowsky, Rashida Tlaib and Nydia Velázquez, wrote Meta CEO Mark Zuckerberg. They cite the Sept. 23 ad-account disablement, the Oct. 9-10 boosting restriction, Folha de S.Paulo's Oct. 16 report on internal Meta messages, the CTRL+Z reports and the Oct. 14 Meta AI incident, and ask for a briefing on Oct. 23 and written answers to six questions by Nov. 4. Question 6 asks whether Meta will allow an independent auditor access to its internal moderation and distribution data. The letter says the TSE "doubled the fine" on Oct. 19 after Meta was "fined twice"; the primary TSE text found (Oct. 18) shows one fixed fine and one conditional warning of an increase. The letter and the press release are the lawmakers' statements; Meta's reply, if any, was not found as of Oct. 26. Press release: jayapal.house.gov/2026/10/22/jayapal-sanders-demand-answers-on-metas-potential-interference-in-brazilian-elections/.

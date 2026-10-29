@@ -56,5 +56,8 @@ sources:
   publisher: Oversight Board
   date: '2026-10-20'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Oct. 20, 2026 the Oversight Board's co-chairs issued a statement "in light of Meta's handling of the 'No Kings' Instagram account, Brazil elections and other upcoming polls globally." It names "recurring enforcement failures," says the No Kings error "should have been caught" and asks why the accounts were not in Meta's cross-check program, and calls the fraud-policy overenforcement against Lula's ad accounts "a breakdown that should have been escalated." It recalls that after Brazil's 2022 election the Board asked Meta to build a measurable framework with public metrics, which Meta has yet to establish. The statement does not say the Brazil incidents were politically motivated.

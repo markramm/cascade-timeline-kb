@@ -65,5 +65,8 @@ sources:
   publisher: Meta Transparency Center
   date: '2026-10-22'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 Meta's Transparency Center page "The facts regarding Meta platforms during Brazil's election" carried the label "UPDATED OCT 22, 2026". It gives Meta's account of four incidents (Sept. 23 ad-account disablement, Oct. 7 Reels view counts, Oct. 9-10 Ads Manager fault, Oct. 14 Meta AI poster prompts), says "Meta is not recommending organic content to non-followers of candidates' accounts in Brazil during the electoral campaign" under TSE rules, says "Follower count does not determine reach", and states that compliance with court orders accounted for "roughly 70%" of actions involving all of Lula's registered accounts (no denominator given). It quotes a TSE passage: "At this stage, there is no finding that Meta manipulated the distribution of online content to favor or disadvantage any candidate." The Portuguese original, in Meta's Oct. 16 note, begins "Não se afirma, nesta fase, que a representada tenha manipulado...", literally that the court does not assert manipulation at this stage. The Oct. 16 Portuguese note did not contain the non-follower sentence or the follower-count section; they appear in the Oct. 22 update. Every incident account rests on Meta's own logs and a technical declaration filed with the TSE, which is sealed.

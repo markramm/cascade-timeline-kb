@@ -48,5 +48,8 @@ sources:
   publisher: UN OHCHR
   date: '2026-10-21'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Oct. 21, 2026 UN Special Rapporteurs, including the Special Rapporteur on freedom of opinion and expression, issued a press release urging Meta to protect political expression and guarantee effective remedy during Brazil's election. They said "Monitoring reports show thousands of accounts and posts have faced suspensions, reduced visibility and sharing limits" and "Information, including from Meta employees, suggests that accounts linked to one side of the presidential race were disproportionately curtailed." The release does not publish the information or identify the employees; Folha de S.Paulo's Oct. 16 report on internal Meta messages is the public reporting that matches the description. Special Procedures experts serve in their individual capacity and are not UN staff.

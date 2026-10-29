@@ -65,5 +65,8 @@ sources:
   publisher: Tribunal Superior Eleitoral
   date: '2026-10-18'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Sunday Oct. 18, 2026 the TSE served Meta (Facebook Serviços Online do Brasil Ltda.) with an intimação implementing a same-day Bellizze decision (ID 180176753): within 24 hours Meta must prove full compliance with items b, c, e, g, h, i, j, m, n, o and q of the Oct. 15 decision, "sem prejuízo da multa diária já fixada, que incide desde o descumprimento". If it does not, the daily fine "será majorada para R$ 1.000.000,00 ... até o encerramento do segundo turno". This is a conditional warning, not an assessment: the text sets a threshold and a deadline, and nothing found shows the condition was met or that any amount was assessed or paid. Press, including Poder360 on Oct. 19, AFP and the Jayapal/Sanders letter, described the fine as raised on Oct. 19; the primary text is dated Oct. 18 and conditional. The order also required the allow-list to cover parties, federations and coalitions, cessation of non-recommendation for non-official profiles, and a Portuguese-language report with Brasília times separating measures ordered by courts from those taken on Meta's initiative. The decision itself (ID 180176753) was not obtained, only the intimação.

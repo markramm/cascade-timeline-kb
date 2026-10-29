@@ -83,5 +83,8 @@ sources:
   publisher: Newsweek
   date: '2026-10-28'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 Angie Nixon, the Democratic candidate for U.S. Senate in Florida, said in an X post on Tuesday night that Meta took down her campaign's #LatinosConAngie Instagram page while the campaign was posting from a get-out-the-vote rally in Osceola County, and asked Meta to restore it and explain. Newsweek reports the rally was "Boricuas for Angie" at Osceola Heritage Park in Kissimmee. The notice she shared cited Instagram's "account integrity" Community Standards and gave an appeal deadline of April 25, 2027. Newsweek reported the page was back online by early Wednesday.

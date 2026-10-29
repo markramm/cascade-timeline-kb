@@ -65,5 +65,8 @@ sources:
   publisher: Tribunal Superior Eleitoral
   date: '2026-10-10'
   tier: 1
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-meta-can-see-the-evidence-in
+    title: "Only Meta Can See the Evidence in Brazil's Election Dispute"
 ---
 On Oct. 10, 2026 TSE Justice Marco Aurélio Bellizze issued a *despacho* in Representação 0602746-69.2026.6.00.0000, filed Oct. 9 by Lula's coalition against Facebook Serviços Online do Brasil Ltda. (Meta). Before ruling on the urgent request he gave Meta 48 hours to preserve moderation logs, ad data and metrics, and to report every measure applied since Aug. 16, 2026 to the campaign's official profiles and named third-party accounts, explain the Oct. 7 view-count anomalies, state the basis for the Sept. 23 disablement of the campaign's ad account, say whether it had identified an alleged network of 255 AI-run Instagram profiles, and explain how it applies the TSE rule excluding candidates' profiles from recommendation. He wrote that the facts "ocorrem em ambiente que somente a representada controla" (occur in an environment only the respondent controls) and that the complainant's proof was "em grande parte, indireta" (largely indirect: user reports, news stories and civil-society studies), which "não a desqualifica" but called for technical instruction first. He sealed the technical material Meta would file. No fine was set in this order.
