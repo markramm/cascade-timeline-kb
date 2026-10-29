@@ -37,6 +37,9 @@ capture_lanes:
 - Institutional Capture
 - Democratic Backsliding
 - Executive Power Expansion
+coverage:
+  - url: https://theramm.transparencycascade.org/p/that-takes-time-three-prosecutors
+    title: "'That Takes Time': Three Prosecutors Off Trump's 'Grand Conspiracy' Probe, No Charges Yet"
 ---
 
 On March 19, 2026, former FBI Director James Comey was subpoenaed by federal prosecutors in the Southern District of Florida as part of a sprawling "grand conspiracy" investigation targeting Obama-era intelligence officials. The probe, led by Trump-appointed U.S. Attorney Jason A. Reding Quinones, also targeted former CIA Director John Brennan and former Special Counsel Jack Smith, representing the most aggressive use of federal prosecutorial power against former government officials in modern American history.

@@ -50,6 +50,8 @@ capture_lanes:
 - Law Enforcement Weaponization
 - Executive Power Consolidation
 coverage:
+- url: https://theramm.transparencycascade.org/p/that-takes-time-three-prosecutors
+  title: "'That Takes Time': Three Prosecutors Off Trump's 'Grand Conspiracy' Probe, No Charges Yet"
 - url: https://theramm.substack.com/p/hegseth-removed-the-circuit-breakers
   title: "Hegseth Removed The Circuit Breakers"
 - digest: news-headlines-digest-2026-06-02

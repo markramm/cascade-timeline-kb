@@ -108,6 +108,9 @@ related_events:
 - 2026-04-20--digenova-appointed-brennan-probe-medetis-long-removed
 capture_lanes:
 - Electoral Manipulation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/that-takes-time-three-prosecutors
+    title: "'That Takes Time': Three Prosecutors Off Trump's 'Grand Conspiracy' Probe, No Charges Yet"
 ---
 CBS News reported on Wednesday that Kurt Olsen, who attempted to overturn the 2020 election results and joined the Southern District of Florida as senior counsel in the spring, is leaving the "grand conspiracy" investigation. Olsen announced his intention to depart from the case in an email on Monday to the U.S. attorney for the Southern District of Florida. DOJ officials in Miami and Washington initially read the email as a departure from the government. Asked at a press conference, Attorney General Todd Blanche said "Kurt Olsen has not resigned." A department official later clarified that Olsen "will not be assigned to the grand conspiracy matter" while remaining on staff.
 

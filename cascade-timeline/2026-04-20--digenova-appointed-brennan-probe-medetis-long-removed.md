@@ -102,6 +102,9 @@ capture_lanes:
 - Law Enforcement Weaponization
 - Prosecutorial Retaliation
 - Judicial Capture
+coverage:
+  - url: https://theramm.transparencycascade.org/p/that-takes-time-three-prosecutors
+    title: "'That Takes Time': Three Prosecutors Off Trump's 'Grand Conspiracy' Probe, No Charges Yet"
 ---
 
 On April 20, 2026, the Department of Justice swore in Joseph diGenova — former Trump campaign lawyer, Reagan-era U.S. Attorney, and Fox News regular with a documented history of spreading false 2020-election claims — as Counselor to the Attorney General, assigning him to lead the "grand conspiracy" federal probe into former intelligence officials including former CIA Director John Brennan. The appointment followed the removal of career national-security prosecutor Maria Medetis Long from the case, first reported by CNN and CBS on Friday, April 17 (report date; CBS did not say which day she was removed, only that she told lawyers "late this week" that she was off the case). A source told CBS the change came after she told the U.S. Attorney she did not believe there was enough to make a case; CNN reported she had resisted pressure to bring charges quickly.

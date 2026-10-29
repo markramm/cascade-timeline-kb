@@ -122,6 +122,9 @@ related_events:
 - 2026-03-19--comey-subpoenaed-grand-conspiracy-probe
 capture_lanes:
 - Electoral Manipulation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/that-takes-time-three-prosecutors
+    title: "'That Takes Time': Three Prosecutors Off Trump's 'Grand Conspiracy' Probe, No Charges Yet"
 ---
 
 CNN and NBC News reported on Sept. 10, 2026 (publication date) that Joe diGenova stepped down from his role overseeing DOJ's Florida "grand conspiracy" investigation "amid disagreements with top Justice Department officials over the pace" of the probe, according to people briefed on the matter. NBC News reported that he resigned and "was not fired," and that Justice Department leadership "felt the investigation was not moving quickly enough." Both outlets reported no charges had been brought.
