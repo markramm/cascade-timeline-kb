@@ -472,6 +472,87 @@ claims:
   id: u27
   outcome: verified
   checked: '2026-10-27'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: date
+  value: October 28, 2026
+  span: 'Dated: October 28, 2026 Respectfully submitted,'
+  id: u28
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: quote
+  value: an extraordinary lawsuit
+  span: This is an extraordinary lawsuit. Defendants have identified evidence that non-citizens may
+  id: u29
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: quote
+  value: Plaintiffs have not demonstrated standing to bring this suit.
+  span: Plaintiffs have not demonstrated standing to bring this suit.
+  id: u30
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: quote
+  value: are not self-executing
+  span: The letters are not self-executing; rather, Defendants would need to seek an order from an Article III court
+  id: u31
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: quote
+  value: would need to seek an order from an Article III court
+  span: Defendants would need to seek an order from an Article III court to compel any state or locality
+  id: u32
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.1.pdf
+  type: attribution
+  value: Deputy Associate Director of the Fraud Detection and National Security Directorate
+  span: I currently hold the position of Deputy Associate Director of the Fraud Detection and National Security Directorate (FDNS)
+  id: u33
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.1.pdf
+  type: quote
+  value: for further refinement, ultimately resulting in over 20,000 individuals remaining on the list.
+  span: FDNS subsequently provided the list to Homeland Security Investigations (HSI) for further refinement, ultimately resulting in over 20,000 individuals remaining on the list.
+  id: u34
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.1.pdf
+  type: figure
+  value: 25-1
+  span: Case 1:26-cv-03674-JEB Document 25-1 Filed 10/28/26
+  id: u35
+  outcome: verified
+  checked: '2026-10-29'
+- read: fetched
+  source_kind: primary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+  type: figure
+  value: '25'
+  span: Case 1:26-cv-03674-JEB Document 25 Filed 10/28/26
+  id: u36
+  outcome: verified
+  checked: '2026-10-29'
 tags:
   - election-capture
   - electoral-manipulation
@@ -510,6 +591,16 @@ sources:
     tier: 1
   - title: CourtListener docket text, DSCC v. Trump (D.D.C.), minute order of 10/26/2026
     url: https://www.courtlistener.com/api/rest/v4/search/?type=rd&q=id:498555088
+    tier: 1
+  - title: Dkt. 25, DSCC v. Trump, D.D.C. No. 1:26-cv-03674 (defendants' response to TRO/PI motion)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.0.pdf
+    publisher: U.S. District Court, D.D.C. (via RECAP)
+    date: '2026-10-28'
+    tier: 1
+  - title: Dkt. 25-1, Declaration of Nathaniel Stiefel (USCIS FDNS)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.25.1.pdf
+    publisher: U.S. District Court, D.D.C. (via RECAP)
+    date: '2026-10-28'
     tier: 1
 updates:
 - date: '2026-10-23'
@@ -563,6 +654,23 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-10-28'
+  date_kind: filing date
+  heading: DOJ and DHS oppose the TRO and preliminary injunction
+  claims:
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  - u34
+  - u35
+  - u36
+  event_date_claim: u28
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -582,3 +690,9 @@ After a scheduling conference on 10/26/2026, Chief Judge Boasberg ordered the go
 On 10/27/2026, Chief Judge Boasberg [ordered](https://www.courtlistener.com/docket/74994590/dscc-v-trump/) the government to respond to the TRO motion "by 5:00 p.m. on October 28, 2026", ruled that "Plaintiffs shall not be permitted a reply", and set the motion for discussion at the hearing already scheduled for October 29, 2026, at 2:00 p.m. No ruling on either motion exists yet.
 
 On the day before the order, the plaintiffs [moved for a temporary restraining order and preliminary injunction](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.19.0.pdf) barring the defendants from interfering in "removal of registered voters from statewide voter registration lists", the issuance of ballots and "the counting and tabulation of ballots." The motion says "Defendants have indicated that Nevada is a likely next target" and records: "Defendants oppose the motion." In a [joint scheduling notice](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.20.0.pdf) the next day, the government objected that the plaintiffs' two motions total "272 pages" with 41 exhibits. Its [opposition to expedited discovery](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.23.0.pdf) says the requests "facially seek privileged, deliberative" and law-enforcement-sensitive information.
+
+## Update (2026-10-28, filing date): DOJ and DHS oppose the TRO and preliminary injunction
+
+In a response dated October 28, 2026 (Dkt. 25), the defendants call this "an extraordinary lawsuit" and argue that "Plaintiffs have not demonstrated standing to bring this suit." They say their letters to states and localities "are not self-executing" and that they "would need to seek an order from an Article III court" to compel action.
+
+The attached Declaration of Nathaniel Stiefel (Dkt. 25-1), whose author is Deputy Associate Director of USCIS's Fraud Detection and National Security Directorate, says FDNS gave its California list to HSI "for further refinement, ultimately resulting in over 20,000 individuals remaining on the list."
