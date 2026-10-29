@@ -136,6 +136,159 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 29, 2026
+  span: 'Case No. 2:26-cv-12025-DOC-ADS Date: October 29, 2026 Title: United States of America v. State of California et al.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: '159'
+  span: 'Case 2:26-cv-12025-DOC-ADS Document 159 #:2234 Filed 10/29/26 Page 1 of 2 Page ID UNITED STATES DISTRICT COURT CENTRAL DISTRICT OF CALIFORNIA CIVIL MINUTES – GENERAL'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: expedited hearing
+  span: The Court ORDERS an EXPEDITED hearing on State Defendant’s Motion to Dismiss, County Defendant’s Motion to Dismiss, and Plaintiff’s Motion for a Preliminary Injunction.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: November 13, 2026
+  span: The parties are further ordered to APPEAR for a hearing at 10:00 a.m. on Friday, November 13, 2026 in Courtroom One at the Felicitas and Gonzalo Mendez United States Courthouse (formerly, the “First Street Courthouse”).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: 10:00 a.m.
+  span: The parties are further ordered to APPEAR for a hearing at 10:00 a.m. on Friday, November 13, 2026 in Courtroom One at the Felicitas and Gonzalo Mendez United States Courthouse (formerly, the “First Street Courthouse”).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: November 2
+  span: 1. Intervenor Defendants may file a Motion to Dismiss by Monday, November 2, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: November 6
+  span: 3. The United States of America must file an omnibus Opposition by Friday, November 6, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: November 10
+  span: 4. All Defendants who moved to dismiss the suit must file Reply briefs by Tuesday, November 10, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: regarding the reliability of the October List and the methodology Plaintiff used to produce it
+  span: 5. By Friday, November 6, 2026, all parties must submit witness lists, including expert witnesses, regarding the reliability of the October List and the methodology Plaintiff used to produce it.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: Special Master
+  span: The Parties are instructed to provide to the Special Master, by e-mail or by electronic media, courtesy copies of all motion briefing promptly upon filing.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: 50%
+  span: Plaintiff will be responsible for 50% and Defendants will be responsible for 50%.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: 10/29/26
+  span: 'Case 2:26-cv-12025-DOC-ADS Document 160 #:2239 Filed 10/29/26 Page 4 of 6 Page ID 1 The League of United Latin American Citizens (LULAC), National Association'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: '160'
+  span: 'Case 2:26-cv-12025-DOC-ADS Document 160 #:2239 Filed 10/29/26 Page 4 of 6 Page ID 1 The League of United Latin American Citizens (LULAC), National Association'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-10-29'
+- type: attribution
+  value: LULAC/NAACP
+  span: and NAACP Los Angeles Branch (together, NAACP) (collectively, LULAC/NAACP 4 Intervenor-Defendants) respond as follows to the United States’s Renewed Request for 5 Injunction Pending Appeal, ECF No. 153. In addition to the arguments set forth below,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-10-29'
+- type: figure
+  value: '153'
+  span: and NAACP Los Angeles Branch (together, NAACP) (collectively, LULAC/NAACP 4 Intervenor-Defendants) respond as follows to the United States’s Renewed Request for 5 Injunction Pending Appeal, ECF No. 153. In addition to the arguments set forth below,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: makes no attempt
+  span: (2008). USDOJ makes no attempt to demonstrate why any of this Court’s holdings were 18 misplaced, so its instant motion should be denied for the same reasons.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: unreliable and lacks credibility
+  span: that USDOJ’s October list is unreliable and lacks credibility and that the requested
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-10-29'
 tags:
 - us-v-california
 - voter-rolls
@@ -165,6 +318,16 @@ sources:
   publisher: U.S. District Court, C.D. Cal. (via RECAP)
   date: '2026-10-28'
   tier: 1
+- title: Civil Minutes - General, Dkt. 159 (C.D. Cal. 2:26-cv-12025), Oct. 29, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-10-29'
+  tier: 1
+- title: LULAC and NAACP Opposition to Renewed Request for Injunction Pending Appeal, Dkt. 160 (C.D. Cal. 2:26-cv-12025), Oct. 29, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-10-29'
+  tier: 1
 verification: source-verified
 updates:
 - date: '2026-10-28'
@@ -189,6 +352,39 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-29'
+  date_kind: order date
+  heading: Carter sets an expedited Nov. 13 hearing on the motions to dismiss and the preliminary injunction and appoints a special master
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u18
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: LULAC and NAACP intervenors oppose the United States' renewed request for an injunction pending appeal
+  claims:
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  event_date_claim: u19
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 Judge David O. Carter of the Central District of California, in an order dated October 28, 2026 (the order linked below), denied the Justice Department's request to make California and Los Angeles County segregate ballots DOJ had flagged; the order describes the request as seeking "to segregate and exclude over 20,000 ballots": "The Government’s Application for Temporary Restraining Order is DENIED." The order opens: "Never before in American history has the federal government, on the eve of an election," and finds that the United States "likely does not have standing or a cause of action."
@@ -202,3 +398,11 @@ The United States filed a notice that it "hereby appeals" to the Ninth Circuit t
 ## Update (2026-10-28, filing date): United States renews its request for an injunction pending appeal
 
 In a filing dated October 28, 2026 (Dkt. 153), the United States "renews its motion under Federal Rule of Civil Procedure 62(d) for an injunction pending appeal."
+
+## Update (2026-10-29, order date): Carter sets an expedited Nov. 13 hearing on the motions to dismiss and the preliminary injunction and appoints a special master
+
+In an order dated October 29, 2026 (Dkt. 159), Judge Carter set an expedited hearing on the State and County defendants' motions to dismiss and the United States' motion for a preliminary injunction, for 10:00 a.m. on November 13, 2026. Intervenor defendants may file a motion to dismiss, and the County and State defendants amended motions to dismiss, by November 2; the United States must file an omnibus opposition by November 6; and defendants who moved to dismiss must reply by November 10. By November 6 all parties must submit witness lists, including expert witnesses, "regarding the reliability of the October List and the methodology Plaintiff used to produce it." The order also appoints a Special Master, with costs split 50% to the plaintiff and 50% to the defendants.
+
+## Update (2026-10-29, filing date): LULAC and NAACP intervenors oppose the United States' renewed request for an injunction pending appeal
+
+In a filing entered 10/29/26 (Dkt. 160), the LULAC/NAACP intervenor-defendants oppose the United States' renewed request for an injunction pending appeal (Dkt. 153). They argue the Justice Department makes no attempt to show why the court's holdings were misplaced, and that its filing does not address the court's factual findings that the October list is "unreliable and lacks credibility." These are the intervenors' arguments, not a ruling.
