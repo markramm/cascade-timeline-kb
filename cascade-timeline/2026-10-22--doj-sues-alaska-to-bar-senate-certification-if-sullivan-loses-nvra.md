@@ -693,6 +693,330 @@ claims:
   id: u64
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 29, 2026
+  span: RESPECTFULLY SUBMITTED this October 29, 2026, in Anchorage, Alaska.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u65
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Civil Procedure 15(a)(1)
+  span: Pursuant to Federal Rule of Civil Procedure 15(a)(1).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u66
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: preempted under the Supremacy Clause
+  span: Declare that certification of any result that may be impacted by voter confusion, as defined above, would violate Defendants’ duties under the NVRA to “protect the integrity of the electoral process,” 52 U.S.C. § 20501(b)(3), and be preempted under the Supremacy Clause.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u67
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: certifying a result that may be impacted by the scheme would frustrate Congress’s objectives in seeking to protect the integrity of the electoral process
+  span: Turning a blind eye to this scheme and certifying a result that may be impacted by the scheme would frustrate Congress’s objectives in seeking to protect the integrity of the electoral process.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u68
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: The New York Times has reported that operatives aligned with Peltola spent months recruiting candidates to take votes away from Senator Sullivan
+  span: The New York Times has reported that operatives aligned with Peltola spent months recruiting candidates to take votes away from Senator Sullivan.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u69
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: what the New York Times reports is not always true
+  span: Although what the New York Times reports is not always true, its reporting here aligns with what the United
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u70
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: appear to have turned to misleading this Court
+  span: Alaskans For Mary and the DSCC appear to have turned to misleading this Court.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u71
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: directing the Department of Public Safety to investigate whether this scheme violated Alaska’s laws
+  span: Alaska Governor Mike Dunleavy has announced on X that he is “directing the Department of Public Safety to investigate whether this scheme violated Alaska’s laws and whether criminal charges or civil action are warranted.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u72
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Senator Sullivan does not win the election
+  span: 'An election result may be impacted by voter confusion if: (1) Senator Sullivan does not win the election; and (2) had all votes cast for Daniel J. Sullivan been cast instead for Senator Sullivan and Alaska’s rank-choice process played out accordingly, Senator Sullivan would have won the election.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u73
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: pending an investigation to determine whether votes cast
+  span: pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan and any further procedures or relief this Court deems necessary and appropriate to determine what the result would have been absent Daniel J. Sullivan’s inclusion on the ballot.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u74
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 43 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 43 Filed 10/29/26 Page 1 of 21
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u75
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: 'Dated: October 29, 2026'
+  span: 'Dated: October 29, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u76
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 46 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 46 Filed 10/29/26 Page 1 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u77
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 53 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 53 Filed 10/29/26 Page 1 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u78
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 55 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 55 Filed 10/29/26 Page 1 of 25
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.55.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u79
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: by 5:00 p.m. today
+  span: The Court previously ordered the United States to respond to Defendants’ Motion to Dismiss by 3:00 p.m. today and to respond to Intervenor-Defendants’ motions to dismiss by 5:00 p.m. today.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u80
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: All three motions to dismiss (ECF Nos. 6-1, 8-1, 18) should be denied as moot
+  span: All three motions to dismiss (ECF Nos. 6-1, 8-1, 18) should be denied as moot.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u81
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: None of the motions to dismiss address the United States’ claim under the Supremacy Clause
+  span: None of the motions to dismiss address the United States’ claim under the Supremacy Clause.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u82
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: by 3:00 p.m. today
+  span: The Court previously ordered the United States to respond to Defendants’ Motion to Dismiss by 3:00 p.m. today and to respond to Intervenor-Defendants’ motions to dismiss by 5:00 p.m. today.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u83
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: At 12:55 p.m., Thursday, October 29, 2026, the United States filed an amended complaint
+  span: At 12:55 p.m., Thursday, October 29, 2026, the United States filed an amended complaint, adding factual allegations based on a newspaper story, plus an additional count that could have been alleged in the original complaint.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.54.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u84
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: At 2:25 p.m., Thursday, October 29, 2026, the United States filed an opposition
+  span: At 2:25 p.m., Thursday, October 29, 2026, the United States filed an opposition to the Division’s motion arguing that the amended complaint mooted the motion to dismiss.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.54.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u85
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: the Court should not tolerate this gamesmanship
+  span: In the context of these expedited proceedings, the Court should not tolerate this gamesmanship.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u86
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: asks the Court to require the United States to file any opposition by 10 a.m. tomorrow, Friday October 30, 2026
+  span: asks the Court to require the United States to file any opposition by 10 a.m. tomorrow, Friday October 30, 2026, and allow the Division to file a reply by midnight the same day.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u87
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: The United States has requested until 1:00 p.m. on Friday to oppose.
+  span: The United States has requested until 1:00 p.m. on Friday to oppose.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u88
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: by Monday, November 2
+  span: issue a decision dismissing the United States’ meritless complaint by Monday, November 2.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u89
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: meritless theory that the National Voter Registration Act (NVRA)—a voter registration law—governs this case
+  span: same meritless theory that the National Voter Registration Act (NVRA)—a voter registration law—governs this case,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.55.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u90
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 57 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 57 Filed 10/29/26 Page 1 of 33
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.57.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u91
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: The NVRA provides no legal basis for DOJ’s claim.
+  span: The NVRA provides no legal basis for DOJ’s claim.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.57.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u92
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: DOJ fails to state a claim under the Supremacy Clause.
+  span: DOJ fails to state a claim under the Supremacy Clause.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.57.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u93
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 59 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 59 Filed 10/29/26 Page 1 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.59.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u94
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: hereby join in Defendants’
+  span: Intervenor-Defendants Alaskans for Mary and DSCC hereby join in Defendants’
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.59.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u95
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 60 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 60 Filed 10/29/26 Page 1 of 29
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.60.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u96
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: The U.S. Department of Justice may wish to have a junkyard brawl with a partisan political campaign in the days before an election.
+  span: The U.S. Department of Justice may wish to have a junkyard brawl with a partisan political campaign in the days before an election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.60.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u97
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 48-1 Filed 10/29/26
+  span: Case 3:26-cv-00376-SLG Document 48-1 Filed 10/29/26 Page 1 of 24
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.48.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u98
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Laches bars the federal government’s attempt to interfere with Alaska’s certification process.
+  span: Laches bars the federal government’s attempt to interfere with Alaska’s certification process.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.48.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u99
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: SUPPORT OF DEFENDANT STATE OF ALASKA
+  span: SUPPORT OF DEFENDANT STATE OF ALASKA
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.48.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u100
+  outcome: verified
+  checked: '2026-10-30'
 tags:
   - election-2026
   - certification
@@ -771,6 +1095,51 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.33.0.pdf
     publisher: D. Alaska via CourtListener RECAP
     date: '2026-10-28'
+    tier: 1
+  - title: First Amended Complaint, Doc. 43
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.43.0_1.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: US opposition to motions to dismiss, Doc. 46
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.46.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: State motion to expedite, Doc. 53
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: Declaration of counsel, Doc. 54
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.54.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: State motion to dismiss amended complaint, Doc. 55
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.55.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: Campaign and DSCC motion to dismiss amended complaint, Doc. 57
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.57.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: Joinder in motion to expedite, Doc. 59
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.59.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: Intervenors' motion to dismiss amended complaint, Doc. 60
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.60.0.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
+    tier: 1
+  - title: Proposed amicus brief, Doc. 48-1
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.48.1.pdf
+    publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
+    date: '2026-10-29'
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -906,6 +1275,66 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-v-alaska-certification
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: 'DOJ amends its complaint: a Supremacy Clause count and the New York Times story, with the same requested relief'
+  claims:
+  - u65
+  - u66
+  - u67
+  - u68
+  - u69
+  - u70
+  - u71
+  - u72
+  - u73
+  - u74
+  - u75
+  event_date_claim: u65
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: DOJ says its amended complaint moots all three motions to dismiss; the State calls that gamesmanship and asks for a ruling by Nov. 2
+  claims:
+  - u76
+  - u77
+  - u78
+  - u79
+  - u80
+  - u81
+  - u82
+  - u83
+  - u84
+  - u85
+  - u86
+  - u87
+  - u88
+  - u89
+  - u90
+  event_date_claim: u76
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: The Campaign and DSCC, the League of Women Voters side and an amicus all file against the amended complaint
+  claims:
+  - u91
+  - u92
+  - u93
+  - u94
+  - u95
+  - u96
+  - u97
+  - u98
+  - u99
+  - u100
+  event_date_claim: u91
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -947,3 +1376,15 @@ Judge Sharon L. Gleason's order (filed 10/28/26) found that the Campaign's "inte
 ## Update (2026-10-28, filing date): DOJ withdraws its opposition to the Peltola campaign's intervention and says it will seek expedited discovery
 
 On 10/28/26 the United States filed a notice (Document 33) withdrawing its opposition to intervention by Alaskans for Mary and the DSCC. It gives as the reason "the New York Times reporting that Proposed Intervenor Alaskans For Mary and the Democratic Senatorial Campaign Committee orchestrated a sprawling conspiracy to recruit and prop up a sham candidate for the purpose of deceiving Alaskan voters" (the filing's description of the Times report; the campaign and the DSCC deny involvement, per the AP update above). The notice says the United States "intends to seek expedited discovery from the Campaign regarding the reported conspiracy," including whether the Campaign sought an expedited ruling "when the Campaign may have been aware of the New York Times reporting before it was published." It "maintains its opposition" to intervention by the League of Women Voters of Alaska, Common Cause and individual voters, whom the court allowed to intervene the same day (see the order update).
+
+## Update (2026-10-29, filing date): DOJ amends its complaint: a Supremacy Clause count and the New York Times story, with the same requested relief
+
+On October 29, 2026 the United States filed an amended complaint (Document 43 Filed 10/29/26), citing Federal Rule of Civil Procedure 15(a)(1). The original had one count, under the National Voter Registration Act. The amended complaint adds a second, and asks for a declaration that certification would be "preempted under the Supremacy Clause." On that count it says that "certifying a result that may be impacted by the scheme would frustrate Congress’s objectives in seeking to protect the integrity of the electoral process." Its new factual material is the New York Times report: the complaint says "The New York Times has reported that operatives aligned with Peltola spent months recruiting candidates to take votes away from Senator Sullivan," while conceding that "what the New York Times reports is not always true." A new section alleges that Alaskans for Mary and the DSCC "appear to have turned to misleading this Court," and it cites Governor Mike Dunleavy's announcement that he is "directing the Department of Public Safety to investigate whether this scheme violated Alaska’s laws." The relief is unchanged in substance: the same trigger, "Senator Sullivan does not win the election," and the same hold "pending an investigation to determine whether votes cast" for the second candidate were meant for the incumbent.
+
+## Update (2026-10-29, filing date): DOJ says its amended complaint moots all three motions to dismiss; the State calls that gamesmanship and asks for a ruling by Nov. 2
+
+The United States filed a brief on October 29, 2026 (Document 46 Filed 10/29/26) arguing that "All three motions to dismiss (ECF Nos. 6-1, 8-1, 18) should be denied as moot," because the amended complaint supersedes the original and "None of the motions to dismiss address the United States’ claim under the Supremacy Clause." It did not answer the motions on their merits, though the Court had ordered it to respond "by 3:00 p.m. today" to the State and "by 5:00 p.m. today" to the intervenors. The State's lawyers say the United States filed the amended complaint at 12:55 p.m. and the mootness brief at 2:25 p.m. The State moved the same day (Document 53 Filed 10/29/26) for expedited consideration of a renewed motion to dismiss (Document 55 Filed 10/29/26), saying "the Court should not tolerate this gamesmanship." It asks that the United States oppose by 10 a.m. Friday, October 30 and that the Division reply by midnight, noting the United States asked for until 1:00 p.m. It asks for a decision "by Monday, November 2." The renewed motion says the amended complaint rests on the same "meritless theory that the National Voter Registration Act (NVRA)—a voter registration law—governs this case."
+
+## Update (2026-10-29, filing date): The Campaign and DSCC, the League of Women Voters side and an amicus all file against the amended complaint
+
+Alaskans for Mary and the DSCC moved to dismiss the amended complaint (Document 57 Filed 10/29/26), arguing that "The NVRA provides no legal basis for DOJ’s claim" and that DOJ "fails to state a claim under the Supremacy Clause." They also joined the State's motion to expedite (Document 59 Filed 10/29/26). The other intervenors, including the League of Women Voters of Alaska and Common Cause, filed their own motion to dismiss (Document 60 Filed 10/29/26), which opens: "The U.S. Department of Justice may wish to have a junkyard brawl with a partisan political campaign in the days before an election." An amicus lodged a proposed amicus brief supporting the State (Document 48-1 Filed 10/29/26) arguing that "Laches bars the federal government’s attempt to interfere with Alaska’s certification process."
