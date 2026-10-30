@@ -679,6 +679,33 @@ claims:
   id: u50
   outcome: unreachable
   checked: '2026-10-29'
+- type: date
+  value: October 30, 2026
+  span: 'Dated: October 30, 2026 Respectfully submitted'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u51
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: have served Plaintiffs' counsel with Defendants' objections, responses, and a list of States in response to Plaintiffs' Interrogatory No. 1
+  span: Defendants have served Plaintiffs’ counsel with Defendants’ objections, responses, and a list of States in response to Plaintiffs’ Interrogatory No. 1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u52
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Document 29
+  span: Case 1:26-cv-03674-JEB Document 29 Filed 10/30/26 Page 1 of 2
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u53
+  outcome: verified
+  checked: '2026-10-30'
 tags:
   - election-capture
   - electoral-manipulation
@@ -737,6 +764,11 @@ sources:
     url: https://www.courtlistener.com/docket/74994590/dscc-v-trump/?page=1&order_by=desc&cb=32004
     publisher: CourtListener (RECAP)
     date: '2026-10-29'
+    tier: 1
+  - title: Defendants' Notice of Compliance Regarding Plaintiffs' Interrogatory No. 1, ECF 29, DSCC v. Trump, No. 1:26-cv-3674 (D.D.C.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+    publisher: U.S. District Court for the District of Columbia (via RECAP)
+    date: '2026-10-30'
     tier: 1
 updates:
 - date: '2026-10-23'
@@ -837,6 +869,17 @@ updates:
   verification: captured
   captured_by: capture-watch
   cluster: dscc-v-trump-voter-roll-threats
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Defendants file notice that they served their answer to Interrogatory No. 1, including a list of States
+  claims:
+  - u51
+  - u52
+  - u53
+  event_date_claim: u51
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -872,3 +915,7 @@ On the day of the hearing, the plaintiffs filed a supplemental notice with the W
 After a motion hearing held by Zoom on October 29, 2026, Chief Judge James E. Boasberg entered a minute order in which Plaintiffs' motion to expedite discovery (ECF 16) is "GRANTED IN PART and DENIED IN PART". The order directs: "By 12:00 noon on October 30, 2026, Defendants shall answer Plaintiffs' Proposed Interrogatory No. 1 for the time period July 1, 2026, to present"; plaintiffs "shall file any supplement regarding standing by October 31, 2026"; and defendants "shall file any response by November 1, 2026". It then states: "The Court will rule by November 2, 2026"; and "Defendants may moot this process at any time by filing a notice indicating that they will not engage in the conduct sought to be enjoined in connection with the upcoming election."
 
 The docket's minute entry for the hearing, which concerned the motion for a temporary restraining order and preliminary injunction (ECF 19), records: "Oral arguments submitted, and an order is forthcoming."
+
+## Update (2026-10-30, filing date): Defendants file notice that they served their answer to Interrogatory No. 1, including a list of States
+
+On October 30, 2026, the defendants filed a notice (Document 29) saying they "have served Plaintiffs' counsel with Defendants' objections, responses, and a list of States in response to Plaintiffs' Interrogatory No. 1." The notice does not itself contain the list or name any State.
