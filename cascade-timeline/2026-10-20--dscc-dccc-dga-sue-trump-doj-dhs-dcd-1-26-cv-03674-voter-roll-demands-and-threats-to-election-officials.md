@@ -706,6 +706,105 @@ claims:
   id: u53
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: Friday
+  span: The Trump administration disclosed Friday that it contacted five states over the past four months
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u54
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: five states
+  span: The Trump administration disclosed Friday that it contacted five states over the past four months
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u55
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: sent letters to California, Nevada, Pennsylvania and New Jersey, and the DOJ sent letters to California and Washington
+  span: the Department of Homeland Security (DHS) sent letters to California, Nevada, Pennsylvania and New Jersey, and the DOJ sent letters to California and Washington.
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u56
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: All of those letters have been previously publicized
+  span: All of those letters have been previously publicized.
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u57
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: informal oral communications, conversations or meetings not memorialized in any record
+  span: The department said it withheld “informal oral communications, conversations or meetings not memorialized in any record”
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u58
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Rather, these letters ask state election officials to work with DHS to verify whether individuals identified in a preliminary analysis are non-citizens who are registered to vote
+  span: “Rather, these letters ask state election officials to work with DHS to verify whether individuals identified in a preliminary analysis are non-citizens who are registered to vote,”
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u59
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: reminding them of their obligation
+  span: DOJ also said it separately sent all states letters Thursday “reminding them of their obligation” to preserve voting records for 22 months after the election.
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u60
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: 22 months
+  span: to preserve voting records for 22 months after the election
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u61
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: The Elias Law Group (ELG) represents the Democrats in this case. ELG Firm Chair Marc Elias is the founder of Democracy Docket
+  span: The Elias Law Group (ELG) represents the Democrats in this case. ELG Firm Chair Marc Elias is the founder of Democracy Docket.
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u62
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: obtained
+  span: According to the Department of Justice’s (DOJ) response obtained by Democracy Docket
+  url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+  read: fetched
+  source_kind: secondary
+  id: u63
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Interrogatory No. 1
+  span: Defendants have served Plaintiffs’ counsel with Defendants’ objections, responses, and a list of States in response to Plaintiffs’ Interrogatory No. 1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u64
+  outcome: verified
+  checked: '2026-10-30'
 tags:
   - election-capture
   - electoral-manipulation
@@ -770,6 +869,11 @@ sources:
     publisher: U.S. District Court for the District of Columbia (via RECAP)
     date: '2026-10-30'
     tier: 1
+  - title: Trump admin reveals it's challenged voters in 5 states, and threatened election officials in all 50
+    url: https://www.democracydocket.com/news-alerts/trump-admin-reveals-its-challenged-voters-in-5-states-and-threatened-election-officials-in-all-50/
+    publisher: Democracy Docket
+    date: '2026-10-30'
+    tier: 2
 updates:
 - date: '2026-10-23'
   date_kind: order date
@@ -880,6 +984,25 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-10-30'
+  date_kind: disclosure date, as reported
+  heading: 'The government''s Interrogatory No. 1 answer: five states'
+  claims:
+  - u54
+  - u55
+  - u56
+  - u57
+  - u58
+  - u59
+  - u60
+  - u61
+  - u62
+  - u63
+  - u64
+  event_date_claim: u54
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -919,3 +1042,9 @@ The docket's minute entry for the hearing, which concerned the motion for a temp
 ## Update (2026-10-30, filing date): Defendants file notice that they served their answer to Interrogatory No. 1, including a list of States
 
 On October 30, 2026, the defendants filed a notice (Document 29) saying they "have served Plaintiffs' counsel with Defendants' objections, responses, and a list of States in response to Plaintiffs' Interrogatory No. 1." The notice does not itself contain the list or name any State.
+
+## Update (2026-10-30, disclosure date, as reported): The government's Interrogatory No. 1 answer: five states
+
+Democracy Docket reports that it obtained the government's response to Interrogatory No. 1, disclosed Friday. It reports that DHS "sent letters to California, Nevada, Pennsylvania and New Jersey, and the DOJ sent letters to California and Washington," and that "All of those letters have been previously publicized." It reports that the department withheld "informal oral communications, conversations or meetings not memorialized in any record." It quotes the response as saying: "Rather, these letters ask state election officials to work with DHS to verify whether individuals identified in a preliminary analysis are non-citizens who are registered to vote." It also reports that the filing says letters went to all states Thursday "reminding them of their obligation" to preserve voting records for 22 months.
+
+The response is not on the docket and has not been read directly; everything here is through this report. The report itself notes: "The Elias Law Group (ELG) represents the Democrats in this case. ELG Firm Chair Marc Elias is the founder of Democracy Docket."
