@@ -289,6 +289,96 @@ claims:
   id: u24
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 29, 2026
+  span: 'Dated: October 29, 2026 NORTON ROSE FULBRIGHT US LLP'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: '162'
+  span: 'Document 162 #:2250 Filed 10/29/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: Page 1 of 4
+  span: Filed 10/29/26 Page 1 of 4 Page ID
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: in his official capacity as the County of Los Angeles Registrar-Recorder/County Clerk
+  span: DEAN C. LOGAN, in his official capacity as the County of Los Angeles Registrar-Recorder/County Clerk
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: OPPOSITION TO PLAINTIFF’S RENEWED EX PARTE APPLICATION FOR INJUNCTION PENDING APPEAL
+  span: DEFENDANT DEAN C. LOGAN’S OPPOSITION TO PLAINTIFF’S RENEWED EX PARTE APPLICATION FOR INJUNCTION PENDING APPEAL UNDER FEDERAL RULE OF CIVIL PROCEDURE 62(d)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: (Dkt. 153)
+  span: for an injunction pending appeal (Dkt. 153) (the “Renewed Request”).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: no new evidence or argument
+  span: no new evidence or argument and instead incorporates the United States’ prior
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: requests that the Court deny the Renewed Request
+  span: County respectfully requests that the Court deny the Renewed Request.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: opposes
+  span: Angeles Registrar-Recorder/County Clerk (the “County”), opposes Plaintiff United 3 States of America’s renewed request
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u32
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: 62(d)
+  span: DEFENDANT DEAN C. LOGAN’S OPPOSITION TO PLAINTIFF’S RENEWED EX PARTE APPLICATION FOR INJUNCTION PENDING APPEAL UNDER FEDERAL RULE OF CIVIL PROCEDURE 62(d)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u33
+  outcome: verified
+  checked: '2026-10-30'
 tags:
 - us-v-california
 - voter-rolls
@@ -325,6 +415,11 @@ sources:
   tier: 1
 - title: LULAC and NAACP Opposition to Renewed Request for Injunction Pending Appeal, Dkt. 160 (C.D. Cal. 2:26-cv-12025), Oct. 29, 2026
   url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.160.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-10-29'
+  tier: 1
+- title: Defendant Dean C. Logan's Opposition to Renewed Ex Parte Application for Injunction Pending Appeal, Dkt. 162, United States v. California, No. 2:26-cv-12025 (C.D. Cal.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
   publisher: CourtListener RECAP
   date: '2026-10-29'
   tier: 1
@@ -385,6 +480,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: Los Angeles County registrar-recorder opposes the United States' renewed request for an injunction pending appeal
+  claims:
+  - u17
+  - u25
+  - u26
+  - u27
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  event_date_claim: u17
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 Judge David O. Carter of the Central District of California, in an order dated October 28, 2026 (the order linked below), denied the Justice Department's request to make California and Los Angeles County segregate ballots DOJ had flagged; the order describes the request as seeking "to segregate and exclude over 20,000 ballots": "The Government’s Application for Temporary Restraining Order is DENIED." The order opens: "Never before in American history has the federal government, on the eve of an election," and finds that the United States "likely does not have standing or a cause of action."
@@ -406,3 +519,7 @@ In an order dated October 29, 2026 (Dkt. 159), Judge Carter set an expedited hea
 ## Update (2026-10-29, filing date): LULAC and NAACP intervenors oppose the United States' renewed request for an injunction pending appeal
 
 In a filing entered 10/29/26 (Dkt. 160), the LULAC/NAACP intervenor-defendants oppose the United States' renewed request for an injunction pending appeal (Dkt. 153). They argue the Justice Department makes no attempt to show why the court's holdings were misplaced, and that its filing does not address the court's factual findings that the October list is "unreliable and lacks credibility." These are the intervenors' arguments, not a ruling.
+
+## Update (2026-10-29, filing date): Los Angeles County registrar-recorder opposes the United States' renewed request for an injunction pending appeal
+
+The Los Angeles County Registrar-Recorder/County Clerk, a defendant sued in his official capacity, filed a four-page opposition (Dkt. 162) to the United States' renewed request under Rule 62(d) for an injunction pending appeal (Dkt. 153). He says the renewed request offers "no new evidence or argument" and asks the Court to deny it.
