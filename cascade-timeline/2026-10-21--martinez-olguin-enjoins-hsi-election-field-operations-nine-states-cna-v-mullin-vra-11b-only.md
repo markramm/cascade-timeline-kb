@@ -458,6 +458,78 @@ claims:
   id: u20
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: 10/29/26
+  span: Document 92 Filed 10/29/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: DENIES
+  span: the Court DENIES Defendants’ motion to stay the preliminary injunction pending appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: October 21
+  span: On October 21, 2026, the Court granted Plaintiffs’ motion for preliminary injunction and
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Compliance with the law does not constitute a legally cognizable harm
+  span: Compliance with the law does not constitute a legally cognizable harm.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: contradicts
+  span: This argument contradicts Defendants’ own description
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: does not reach the
+  span: its attention on irreparable harm and, finding Defendants’ showing deficient, does not reach the ... remaining Nken elements.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: November 3
+  span: November 3, 2026.” Dkt. No. 90 at 17.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: 26-7139
+  span: 'Case: 26-7139, 10/28/2026, DktEntry: 34.2'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.34.2.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-10-30'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -548,6 +620,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-10-29'
+  date_kind: order date
+  heading: Martinez-Olguin refuses to stay the injunction on HSI election field operations
+  claims:
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  - u27
+  - u28
+  event_date_claim: u21
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -565,3 +653,7 @@ In an ex parte motion filed Tuesday, October 27, the government asks the court t
 ## Update (2026-10-29, order date): Court denies the government's ex parte motion to stay the injunction pending appeal
 
 In an order filed 10/29/26 (order date) the court "DENIES Defendants’ motion to stay the preliminary injunction pending appeal", the motion the defendants filed on October 27, 2026. It found the defendants had not shown irreparable harm, writing "Compliance with the law does not constitute a legally cognizable harm." It noted that the defendants "consistently represented that the field operations investigate" "allegations of past voting and do not relate to voting in the upcoming election", and faulted the delay: the defendants "did not notice their appeal until five days after the Order issued".
+
+## Update (2026-10-29, order date): Martinez-Olguin refuses to stay the injunction on HSI election field operations
+
+In an order filed 10/29/26, Judge Araceli Martinez-Olguin DENIES a stay of her October 21 preliminary injunction pending appeal. She rested on irreparable harm and did not reach the other factors, writing: "Compliance with the law does not constitute a legally cognizable harm." She also wrote that DHS's argument about stopping a noncitizen voting on November 3 "contradicts" its earlier account of the operations. This denial is not a ruling on the merits; the appeal is No. 26-7139 at the Ninth Circuit.

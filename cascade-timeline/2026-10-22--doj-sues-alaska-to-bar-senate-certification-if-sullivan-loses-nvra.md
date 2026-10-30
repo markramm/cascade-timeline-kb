@@ -1017,6 +1017,60 @@ claims:
   id: u100
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: October 30
+  span: The United States shall file its response to all three Motions to Dismiss the Amended Complaint at Docket 55, Docket 57, and Docket 60 by Friday, October 30, 2026, at 1:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u101
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: October 31
+  span: The State and Intervenor-Defendants may file replies by Saturday, October 31, 2026, at noon.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u102
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: GRANTED
+  span: The State’s Motion for Expedited Consideration at Docket 53 and IntervenorDefendants’ Motions for Joinder at Docket 59 and Docket 61 are each GRANTED as follows.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u103
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: November 2
+  span: with a decision requested by Monday, November 2.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u104
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: 10/29/26
+  span: Document 53 Filed 10/29/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.53.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u105
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: three
+  span: The United States shall file its response to all three Motions to Dismiss the Amended Complaint
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u106
+  outcome: verified
+  checked: '2026-10-30'
 tags:
   - election-2026
   - certification
@@ -1140,6 +1194,9 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.48.1.pdf
     publisher: U.S. District Court, D. Alaska (via CourtListener RECAP)
     date: '2026-10-29'
+    tier: 1
+  - title: United States v. Alaska, No. 3:26-cv-00376 (D. Alaska), Dkt. 64
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -1335,6 +1392,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-v-alaska-certification
+- date: '2026-10-30'
+  date_kind: order date
+  heading: Judge Gleason expedites three motions to dismiss the amended complaint
+  claims:
+  - u101
+  - u102
+  - u103
+  - u104
+  - u105
+  - u106
+  event_date_claim: u101
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1388,3 +1459,7 @@ The United States filed a brief on October 29, 2026 (Document 46 Filed 10/29/26)
 ## Update (2026-10-29, filing date): The Campaign and DSCC, the League of Women Voters side and an amicus all file against the amended complaint
 
 Alaskans for Mary and the DSCC moved to dismiss the amended complaint (Document 57 Filed 10/29/26), arguing that "The NVRA provides no legal basis for DOJ’s claim" and that DOJ "fails to state a claim under the Supremacy Clause." They also joined the State's motion to expedite (Document 59 Filed 10/29/26). The other intervenors, including the League of Women Voters of Alaska and Common Cause, filed their own motion to dismiss (Document 60 Filed 10/29/26), which opens: "The U.S. Department of Justice may wish to have a junkyard brawl with a partisan political campaign in the days before an election." An amicus lodged a proposed amicus brief supporting the State (Document 48-1 Filed 10/29/26) arguing that "Laches bars the federal government’s attempt to interfere with Alaska’s certification process."
+
+## Update (2026-10-30, order date): Judge Gleason expedites three motions to dismiss the amended complaint
+
+On October 30 Judge Sharon Gleason GRANTED expedited consideration of three motions to dismiss DOJ's amended complaint, with replies due October 31 at noon. The State's motion, filed 10/29/26, asks for a decision by November 2. The court has not ruled on dismissal.

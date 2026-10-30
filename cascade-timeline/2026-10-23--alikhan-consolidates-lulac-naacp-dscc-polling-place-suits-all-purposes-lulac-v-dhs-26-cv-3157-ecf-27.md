@@ -161,6 +161,42 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: 10/30/26
+  span: Document 48 Filed 10/30/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: best guess
+  span: DHS states that the document provided constitutes its best guess of “the internal DHS guidance [that was] reported by CNN on August 31, 2026.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.4.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: August 28
+  span: an email dated Friday, August 28, 2026 with subject line “0819-26 [BCAST] Voter Fraud Surge – Broadcast Message Request”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.4.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Voter Fraud Surge - Broadcast Message Request
+  span: “0819-26 [BCAST] Voter Fraud Surge – Broadcast Message Request”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.4.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-10-30'
 tags:
 - election-capture
 - polling-places
@@ -190,6 +226,9 @@ sources:
   publisher: U.S. District Court for D.C., via CourtListener RECAP
   date: '2026-10-30'
   tier: 1
+- title: ECF 48-4, Oct. 28 email exhibit
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.4.pdf
+  tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -209,6 +248,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: DHS calls an August "Voter Fraud Surge" email its "best guess" at the guidance CNN reported
+  claims:
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -218,3 +269,7 @@ This is the court's ruling on the question it raised in its Oct. 9 order ([[2026
 ## Update (2026-10-30, filing date): Corrected joint status report sets out the dispute over expedited discovery
 
 In a corrected joint status report filed 10/30/26, the parties dispute the expedited discovery. The government states it has "complied with this Court's Order" and proposes another report "on November 5, 2026." The filing notes that Election Day is November 3, 2026. The plaintiffs say the defendants "have not complied with the Court's expedited discovery deadlines" and that missing material includes "DHS Weeklies." They ask the court to order a privilege log, review withheld documents in camera, and hold a status conference. These are the parties' positions in a status report, not findings by the court.
+
+## Update (2026-10-30, filing date): DHS calls an August "Voter Fraud Surge" email its "best guess" at the guidance CNN reported
+
+An exhibit to the corrected joint status report filed 10/30/26 shows a government lawyer telling plaintiffs that an August 28 email with the subject line "Voter Fraud Surge - Broadcast Message Request" is DHS's "best guess" at the internal guidance CNN reported. The email itself is not on the docket.

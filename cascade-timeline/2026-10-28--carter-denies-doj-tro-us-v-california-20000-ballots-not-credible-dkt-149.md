@@ -379,6 +379,78 @@ claims:
   id: u33
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: October 29
+  span: 'Date: October 29, 2026 Title: United States of America v. State of California et al.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u34
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: a technical Special Master
+  span: Garrie will serve as a technical Special Master to assist the Court in developing the factual record.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u35
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: November 13
+  span: APPEAR for a hearing at 10:00 a.m. on Friday, November 13, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u36
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: the reliability of the October List and the methodology Plaintiff used to produce it
+  span: regarding the reliability of the October List and the methodology Plaintiff used to produce it.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: November 6
+  span: The United States of America must file an omnibus Opposition by Friday, November 6, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: November 10
+  span: must file Reply briefs by Tuesday, November 10, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-10-30'
+- type: figure
+  value: 50%
+  span: Plaintiff will be responsible for 50% and Defendants will be responsible for 50%.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: split between Plaintiff and State and County Defendants
+  span: Costs for the Special Master will be split between Plaintiff and State and County Defendants.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.159.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: verified
+  checked: '2026-10-30'
 tags:
 - us-v-california
 - voter-rolls
@@ -498,6 +570,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-29'
+  date_kind: order date (minute order)
+  heading: Carter appoints a technical special master and sets a November 13 hearing on the list
+  claims:
+  - u34
+  - u35
+  - u36
+  - u37
+  - u38
+  - u39
+  - u40
+  - u41
+  event_date_claim: u34
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 Judge David O. Carter of the Central District of California, in an order dated October 28, 2026 (the order linked below), denied the Justice Department's request to make California and Los Angeles County segregate ballots DOJ had flagged; the order describes the request as seeking "to segregate and exclude over 20,000 ballots": "The Government’s Application for Temporary Restraining Order is DENIED." The order opens: "Never before in American history has the federal government, on the eve of an election," and finds that the United States "likely does not have standing or a cause of action."
@@ -523,3 +611,7 @@ In a filing entered 10/29/26 (Dkt. 160), the LULAC/NAACP intervenor-defendants o
 ## Update (2026-10-29, filing date): Los Angeles County registrar-recorder opposes the United States' renewed request for an injunction pending appeal
 
 The Los Angeles County Registrar-Recorder/County Clerk, a defendant sued in his official capacity, filed a four-page opposition (Dkt. 162) to the United States' renewed request under Rule 62(d) for an injunction pending appeal (Dkt. 153). He says the renewed request offers "no new evidence or argument" and asks the Court to deny it.
+
+## Update (2026-10-29, order date (minute order)): Carter appoints a technical special master and sets a November 13 hearing on the list
+
+In a minute order dated October 29, Judge David O. Carter appointed "a technical Special Master" and set an expedited hearing for November 13, after Election Day, on the motions to dismiss and DOJ's motion for a preliminary injunction. By November 6 parties must submit witness lists on "the reliability of the October List and the methodology Plaintiff used to produce it." DOJ's opposition is due November 6 and replies November 10. The costs are split 50% to each side. The order decides nothing about the list's reliability, and the hearing has not happened.
