@@ -182,6 +182,69 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: October 29, 2026
+  span: Published October 29, 2026 Updated on October 29, 2026 at 9:54 pm
+  url: https://www.nbcboston.com/news/politics/doj-sending-election-monitors-to-polling-places-in-some-mass-and-nh-cities/4040341/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Nevada
+  span: The Department of Justice has notified Nevada’s Secretary of State they will send observers to watch our elections.
+  url: https://www.kolotv.com/2026/10/30/doj-observers-headed-nevada-voting-sites-tuesday/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Clark County
+  span: DOJ observers will be in Clark County on Election Day.
+  url: https://www.kolotv.com/2026/10/30/doj-observers-headed-nevada-voting-sites-tuesday/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Wake, Alamance, and Mecklenburg
+  span: U.S. Department of Justice election monitors will be in Wake, Alamance, and Mecklenburg counties on Election Day, according to the state Board of Elections.
+  url: https://ncnewsline.com/2026/10/28/us-justice-department-to-send-election-monitors-to-these-nc-counties/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Lowell and Boston
+  span: Tuesday in Massachusetts, federal monitors are expected in Lowell and Boston, as well as in Manchester and Nashua, New Hampshire.
+  url: https://www.nbcboston.com/news/politics/doj-sending-election-monitors-to-polling-places-in-some-mass-and-nh-cities/4040341/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-30'
+- type: attribution
+  value: Manchester and Nashua
+  span: Tuesday in Massachusetts, federal monitors are expected in Lowell and Boston, as well as in Manchester and Nashua, New Hampshire.
+  url: https://www.nbcboston.com/news/politics/doj-sending-election-monitors-to-polling-places-in-some-mass-and-nh-cities/4040341/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: We are not a county that has been alerted it is going to be monitored
+  span: “We are not a county that has been alerted it is going to be monitored,” McCurdy said Wednesday.
+  url: https://www.butlereagle.com/20261030/butler-county-currently-not-target-of-federal-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-30'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -227,9 +290,45 @@ sources:
   publisher: U.S. Department of Justice
   date: '2026-08-04'
   tier: 1
+- title: DOJ observers headed to Nevada voting sites on Tuesday
+  url: https://www.kolotv.com/2026/10/30/doj-observers-headed-nevada-voting-sites-tuesday/
+  publisher: KOLO 8 News Now
+  date: '2026-10-29'
+  tier: 2
+- title: US Justice Department to send election monitors to these NC counties
+  url: https://ncnewsline.com/2026/10/28/us-justice-department-to-send-election-monitors-to-these-nc-counties/
+  publisher: NC Newsline (States Newsroom)
+  date: '2026-10-28'
+  tier: 2
+- title: DOJ sending election monitors to polling places in some Mass. and NH cities
+  url: https://www.nbcboston.com/news/politics/doj-sending-election-monitors-to-polling-places-in-some-mass-and-nh-cities/4040341/
+  publisher: NBC Boston
+  date: '2026-10-29'
+  tier: 2
+- title: Butler County currently not target of federal election monitors
+  url: https://www.butlereagle.com/20261030/butler-county-currently-not-target-of-federal-election-monitors/
+  publisher: Butler Eagle
+  date: '2026-10-30'
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
+updates:
+- date: '2026-10-29'
+  date_kind: publication date of the local reports
+  heading: Clark County, Nevada; Wake, Alamance and Mecklenburg, North Carolina; Lowell and Boston, Massachusetts; Manchester and Nashua, New Hampshire
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -242,3 +341,7 @@ What the local outlets report DOJ told jurisdictions:
 Dhillon has said the department intends to send out 1,000 election monitors across all 50 states on Nov. 3. The Epoch Times reports the department has declined to publicly release the locations; Democracy Docket notes that in the past DOJ stated publicly where it was deploying monitors. By contrast, DOJ's press release on the Michigan primary named the places it was monitoring: Detroit, Hamtramck, Lansing, and East Lansing, four cities. See also the FOIA case entry: [[2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461]].
 
 Open: DOJ's own list of jurisdictions. Earlier plan: [[2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg]].
+
+## Update (2026-10-29, publication date of the local reports): Clark County, Nevada; Wake, Alamance and Mecklenburg, North Carolina; Lowell and Boston, Massachusetts; Manchester and Nashua, New Hampshire
+
+KOLO reports that the Justice Department notified Nevada's secretary of state and that DOJ observers will be in Clark County on Election Day. NC Newsline reports, citing the state Board of Elections, that monitors will be in Wake, Alamance, and Mecklenburg counties. NBC Boston reports that federal monitors are expected in Lowell and Boston, as well as in Manchester and Nashua, New Hampshire. In Butler County, Pennsylvania, the local paper quotes the elections bureau director: "We are not a county that has been alerted it is going to be monitored." None of these reports says which agencies the monitors come from, and none cites a DOJ release for the locations.
