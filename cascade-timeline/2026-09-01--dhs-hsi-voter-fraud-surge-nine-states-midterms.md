@@ -37,6 +37,16 @@ sources:
     publisher: ABC News
     date: '2026-09-01'
     tier: 1
+  - title: Federal agents knock on doors to track down possible noncitizen voters ahead of midterms
+    url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+    publisher: CBS News
+    date: '2026-10-21'
+    tier: 2
+  - title: Thompson letter to Secretary Mullin re DHS voter intimidation
+    url: https://democrats-homeland.house.gov/imo/media/doc/2026-10-21_t_dhs_f_thompson_-_letter_re_dhs_voter_intimidation.pdf
+    publisher: House Committee on Homeland Security Democrats
+    date: '2026-10-21'
+    tier: 1
 related_events:
   - 2026-08-26--hsi-solicits-private-contractor-voter-registration-files-fraud-detection
   - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
@@ -60,6 +70,81 @@ corrections:
   now: "41 charged and 250,000 'potential' noncitizens are different populations from different sources: 41 charged is the outcome of ProPublica's ~25,000-lead pipeline (Jan 2025-May 2026); 250,000 is DHS's preliminary four-state figure"
   why: "https://www.mprnews.org/story/2026/08/25/propublica-inside-trumps-failed-hunt-for-noncitizen-voters (ProPublica, Aug 25, 2026: leads, referrals, 41 charged, 14 convicted); https://politifact.com/article/2026/jul/17/mullin-dhs-250000-noncitizen-voters-trump/"
   found_by: "HSI case file 2026-10-08"
+claims:
+- type: date
+  value: Oct. 21, 2026
+  span: 'Federal Agents Knock on Doors to Track Down Noncitizen Voters Ahead of Midterms, CBS NEWS
+
+    (Oct. 21, 2026)'
+  url: https://democrats-homeland.house.gov/imo/media/doc/2026-10-21_t_dhs_f_thompson_-_letter_re_dhs_voter_intimidation.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: have been knocking on doors in several states to ask residents about their immigration status — and to inquire if they have registered to vote or cast votes in past elections
+  qualifier: Armed and in uniform
+  span: Armed and in uniform, federal agents from the Department of Homeland Security have been knocking on doors in several states to ask residents about their immigration status — and to inquire if they have registered to vote or cast votes in past elections, a CBS News Investigation has found.
+  url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: ramped up in September
+  span: The home visits ramped up in September, in the thick of the midterm campaign season
+  url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Target List
+  span: In one video, agents are filmed holding a document that says, "Target List."
+  url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: In my 23 years with HSI, I never engaged in or was aware of any incident or initiative that sent Special Agents to private residences to verify the eligibility of voters
+  qualifier: Balliet
+  span: '"In my 23 years with HSI, I never engaged in or was aware of any incident or initiative that sent Special Agents to private residences to verify the eligibility of voters," Balliet said'
+  url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: Those who are here legally and are not breaking other laws have nothing to fear
+  qualifier: DHS spokesperson
+  span: A DHS spokesperson said, "DHS and DOJ are laser focused on prosecuting and removing aliens who vote and preventing the dilution of the votes of U.S. citizens. … Those who are here legally and are not breaking other laws have nothing to fear."
+  url: https://www.cbsnews.com/news/federal-agents-seek-noncitizen-voters/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-30'
+updates:
+- date: '2026-10-21'
+  date_kind: publication date
+  heading: CBS News reports armed agents at residents' doors asking about voting, and a video of a "Target List"
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-observer-surveillance
 ---
 
 DHS launched what an internal directive calls a "coordinated criminal voter fraud surge initiative" on September 1, 2026, running through mid-October — straddling the November 3 midterms. Homeland Security Investigations offices in nine states were directed to pursue investigative leads, conduct field interviews, and support timely prosecutorial review: **California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin**. Agents were tasked in part with identifying naturalized citizens who may have registered or voted before completing naturalization.
@@ -76,3 +161,8 @@ What the record shows is a screening system whose flags include derived citizens
 
 Finding not reproduced (2026-10-01 recheck): the state-by-state subpoena breakdown (Georgia ~13, Wisconsin ~15, Washington 2) and the nine-state list are confirmed as written on refetch of MS NOW's reporting, which gives all three counts and all nine states verbatim. CNN remains unreachable (HTTP 451) on retry, consistent with the entry's existing sourcing note.
 
+## Update (2026-10-21, publication date): CBS News reports armed agents at residents' doors asking about voting, and a video of a "Target List"
+
+CBS News reported on October 21, 2026 that armed, uniformed DHS agents "have been knocking on doors in several states to ask residents about their immigration status — and to inquire if they have registered to vote or cast votes in past elections." The visits "ramped up in September," CBS reported. In one video, agents are filmed holding a document labeled "Target List."
+
+Eric Balliet, a former HSI agent, told CBS: "In my 23 years with HSI, I never engaged in or was aware of any incident or initiative that sent Special Agents to private residences to verify the eligibility of voters." A DHS spokesperson told CBS: "Those who are here legally and are not breaking other laws have nothing to fear."

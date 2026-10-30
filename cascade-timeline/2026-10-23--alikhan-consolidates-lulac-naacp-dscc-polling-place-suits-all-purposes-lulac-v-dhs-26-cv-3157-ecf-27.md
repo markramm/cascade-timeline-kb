@@ -98,6 +98,69 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-24'
+- type: date
+  value: 10/30/26
+  span: Case 1:26-cv-03263-LLA Document 48 Filed 10/30/26 Page 1 of 12
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: complied with this Court's Order
+  span: Defendants, through counsel, state that they have complied with this Court’s Order dated October 21, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: on November 5, 2026,
+  span: Defendants propose that the parties file another joint status report in one week, i.e., on November 5, 2026, as to the status of Plaintiffs’ discovery concerns.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: have not complied with the Court's expedited discovery deadlines
+  span: Defendants have not complied with the Court’s expedited discovery deadlines in at least two respects
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-30'
+- type: quote
+  value: DHS Weeklies
+  span: Absent were documents, such as DHS Weeklies, regularly produced by agencies to disseminate changes in agency policy and practice
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-10-30'
+- type: posture
+  value: in camera
+  span: 'Plaintiffs respectfully request that the Court: (1) order Defendants to serve a privilege log for all and any documents being withheld in response to RFP 3; (2) review in camera the documents Defendants have withheld or redacted; and (3) hold a status conference as soon as practicable.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-10-30'
+- type: date
+  value: Election Day is November 3, 2026
+  span: Election Day is November 3, 2026, which is a little more than four days from this filing.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-10-30'
 tags:
 - election-capture
 - polling-places
@@ -122,11 +185,36 @@ sources:
   publisher: U.S. District Court, D.D.C. (RECAP copy)
   date: '2026-10-23'
   tier: 1
+- title: Corrected Joint Status Report, NAACP v. DHS, 26-cv-3263, ECF 48
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  publisher: U.S. District Court for D.C., via CourtListener RECAP
+  date: '2026-10-30'
+  tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
+updates:
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Corrected joint status report sets out the dispute over expedited discovery
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
 
 This is the court's ruling on the question it raised in its Oct. 9 order ([[2026-10-09--alikhan-contemplates-consolidating-lulac-naacp-dscc-polling-place-suits-lulac-amends-to-add-doj-fbi]]) after the parties' joint status reports ([[2026-10-16--all-parties-tell-alikhan-consolidation-appropriate-lulac-naacp-dscc-polling-place-suits-joint-status-report]]). The order sets no schedule and rules on no injunction request.
+
+## Update (2026-10-30, filing date): Corrected joint status report sets out the dispute over expedited discovery
+
+In a corrected joint status report filed 10/30/26, the parties dispute the expedited discovery. The government states it has "complied with this Court's Order" and proposes another report "on November 5, 2026." The filing notes that Election Day is November 3, 2026. The plaintiffs say the defendants "have not complied with the Court's expedited discovery deadlines" and that missing material includes "DHS Weeklies." They ask the court to order a privilege log, review withheld documents in camera, and hold a status conference. These are the parties' positions in a status report, not findings by the court.
