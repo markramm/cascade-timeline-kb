@@ -39,6 +39,16 @@ sources:
   publisher: 10News San Diego (KGTV)
   date: '2026-10-27'
   tier: 1
+- title: Medical examiner corrects ID of man who died in ICE custody at Otay Mesa Detention Center
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  publisher: KPBS (Alexander Nguyen)
+  date: '2026-10-29'
+  tier: 1
+- title: Guatemalan man who died inside Otay Mesa Detention Center was misidentified by ICE
+  url: https://www.kpbs.org/news/racial-justice-social-equity/2026/10/28/guatemalan-man-who-died-inside-otay-mesa-detention-center-was-misidentified-by-ice
+  publisher: KPBS (Jacob Aere)
+  date: '2026-10-28'
+  tier: 1
 related_events:
 - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 - 2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026
@@ -217,6 +227,96 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: late Wednesday
+  span: San Diego County Medical Examiner’s (ME) office late Wednesday officially identified the man who died in U.S. Immigration and Customs Enforcement (ICE) custody Saturday at the Otay Mesa Detention Center.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: different
+  span: That was different from what ICE initially released.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-10-29'
+- type: date
+  value: Oct. 27
+  span: In its Oct. 27 notification, ICE said his name was Roberto Jimenez Gutierrez.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: still refers to him by that name
+  span: As of Thursday, the agency still refers to him by that name.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: fingerprints
+  span: The ME’s office said it verified his identity by running his fingerprints through the Department of Justice and California ID’s databases.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: Guatemalan passport
+  span: It also matched that information against his Guatemalan passport.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u19
+  outcome: verified
+  checked: '2026-10-29'
+- type: quote
+  value: provided false information and used several aliases
+  span: An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u20
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: criminal history
+  span: ICE previously identified their uncle as Jimenez Gutierrez, and said he had a criminal history including a wide variety of offenses
+  url: https://www.kpbs.org/news/racial-justice-social-equity/2026/10/28/guatemalan-man-who-died-inside-otay-mesa-detention-center-was-misidentified-by-ice
+  read: fetched
+  source_kind: secondary
+  id: u21
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: not true
+  span: The family insists these charges are not true.
+  url: https://www.kpbs.org/news/racial-justice-social-equity/2026/10/28/guatemalan-man-who-died-inside-otay-mesa-detention-center-was-misidentified-by-ice
+  read: fetched
+  source_kind: secondary
+  id: u22
+  outcome: verified
+  checked: '2026-10-29'
+- type: posture
+  value: yet to respond
+  span: KPBS has sent multiple email requests to ICE asking how it confirms the identity of those in its custody. The agency has yet to respond.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u23
+  outcome: verified
+  checked: '2026-10-29'
 verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
@@ -248,6 +348,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
+- date: '2026-10-28'
+  date_kind: identification date (county medical examiner)
+  heading: County medical examiner identifies the Otay Mesa decedent under a different name than ICE released
+  claims:
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  event_date_claim: u14
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 approved_names:
 - Roberto Jimenez Gutierrez
 name_approval: 'Mark 2026-10-27: custody deaths named as ICE names them; do not repeat ICE criminal-history framing'
@@ -276,3 +394,9 @@ KPBS reports that his wife said he left behind five children and that he had no 
 San Diego County Supervisor Terra Lawson-Remer and Supervisor Paloma Aguirre called on Tuesday on ICE, the Trump administration and CoreCivic to cooperate with investigators and turn over records and video. Aguirre asked for "a timeline of this person's care from intake to death". The supervisors also sent a letter to ICE and DHS demanding access and information on whether anything has been fixed.
 
 On the count that the entry above carried as a reporter's figure: KPBS reports that ICE's own reporting shows 29 deaths in custody so far this year, while the National Immigrant Project put the number at least at 30.
+
+## Update (2026-10-28, identification date (county medical examiner)): County medical examiner identifies the Otay Mesa decedent under a different name than ICE released
+
+San Diego County's medical examiner late Wednesday officially identified the man who died in ICE custody at Otay Mesa Detention Center. The name it released was different from what ICE initially released: in its Oct. 27 notification, ICE said his name was Roberto Jimenez Gutierrez, and as of Thursday the agency still referred to him by that name. The office said it verified his identity by running his fingerprints through the Department of Justice and California ID databases, and it also matched that information against his Guatemalan passport. An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
+
+ICE's release had said he had a criminal history; his family insists those charges are not true. KPBS reported that ICE had not responded to its questions about how it confirms the identity of people in its custody.
