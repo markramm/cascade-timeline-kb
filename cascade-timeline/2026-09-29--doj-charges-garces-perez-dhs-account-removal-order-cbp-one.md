@@ -41,9 +41,85 @@ sources:
     publisher: Austin American-Statesman
     date: '2026-09-23'
     tier: 1
+  - title: Austin man shot by ICE officer pleads not guilty
+    url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+    publisher: Texas Tribune
+    date: '2026-10-27'
+    tier: 2
 related_events:
   - 2026-09-20--ice-agent-shoots-venezuelan-delivery-driver-austin-hsi-fbi-investigate
 coverage: []
+approved_names: ["Wilber Rafael Garces Perez", "Garces Perez"]
+claims:
+- type: date
+  value: Tuesday
+  span: Wilber Rafael Garces Perez entered the not guilty plea in a court filing Tuesday, a week after a grand jury indicted him on one count of assaulting, resisting, impeding and obstructing a federal officer.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: a week after
+  span: Wilber Rafael Garces Perez entered the not guilty plea in a court filing Tuesday, a week after a grand jury indicted him on one count of assaulting, resisting, impeding and obstructing a federal officer.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: Sept. 30
+  span: During a Sept. 30 hearing with U.S. Magistrate Judge Dustin M. Howell, U.S. Department of Homeland Security Special Agent Rick Bazan, who investigated what led up to the shooting, was the lone witness to testify and provided details that were not previously public.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: later turned it off
+  span: Bazan, who filed the criminal complaint charging Garces Perez, testified that he interviewed an ICE agent, identified by the initials D.F., who had a body camera that captured the initial traffic stop but later turned it off.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: didn’t ask D.F. why he turned off his body camera
+  span: Bazan also testified he didn’t ask D.F. why he turned off his body camera.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: did not clearly show the mirror hitting the ICE agent
+  span: But the footage and still image presented in court did not clearly show the mirror hitting the ICE agent, Bazan testified, in part because D.F. moved away as Garces Perez took off.
+  url: https://www.texastribune.org/2026/10/27/wilber-rafael-garces-perez-not-guilty-plea-ice-austin/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-31'
+updates:
+- date: '2026-10-27'
+  date_kind: court filing date, per the Texas Tribune
+  heading: Garces Perez pleads not guilty; agent testified the body camera was turned off
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
 ---
 
 ## Opening
@@ -81,3 +157,7 @@ The federal charge against Garces Perez himself — filed the same week two sepa
 
 - [[2026-09-20--ice-agent-shoots-venezuelan-delivery-driver-austin-hsi-fbi-investigate]]
 - [[2026-09-24--house-homeland-security-democrats-letter-mullin-garces-perez]]
+
+## Update (2026-10-27, court filing date, per the Texas Tribune): Garces Perez pleads not guilty; agent testified the body camera was turned off
+
+The Texas Tribune reports that Wilber Rafael Garces Perez entered the not guilty plea in a court filing Tuesday, a week after a grand jury indicted him on one count of assaulting, resisting, impeding and obstructing a federal officer. During a Sept. 30 hearing, DHS Special Agent Rick Bazan testified. He said he interviewed an ICE agent, identified by the initials D.F., who had a body camera that captured the initial traffic stop but later turned it off, and that he didn't ask D.F. why he turned off his body camera. The footage and still image presented in court did not clearly show the mirror hitting the ICE agent, Bazan testified.

@@ -366,7 +366,7 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
-approved_names:
+approved_names: ["Guillermo Pascual Verganza", "Guillermo Pasqual Verganza", "Guillermo Pascual Vergansa"]
 - Roberto Jimenez Gutierrez
 name_approval: 'Mark 2026-10-27: custody deaths named as ICE names them; do not repeat ICE criminal-history framing'
 ---
