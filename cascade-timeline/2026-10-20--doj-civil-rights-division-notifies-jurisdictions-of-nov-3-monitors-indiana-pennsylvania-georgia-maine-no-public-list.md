@@ -272,6 +272,51 @@ claims:
   id: u10
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: Tuesday
+  span: The Department of Justice on Tuesday confirmed to The Intercept that it intends to send election monitors to Maine for Election Day, but did not elaborate or respond to specific questions about where the monitors were to be sent.
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: We will have around 1,000 monitors in counties throughout the United States
+  span: '"We will have around 1,000 monitors in counties throughout the United States, but we will not share the full list until Election Day," a Justice Department spokesperson told The Intercept in an email Tuesday.'
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: This is the first time ever that we have had to engage in scenario planning to safeguard against potential federal interference in elections
+  span: '"This is the first time ever that we have had to engage in scenario planning to safeguard against potential federal interference in elections," Bellows said. "It seems like the federal government is now adversarial to the states."'
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: We have received complaints about the intrusive filming, photography, and harassment of voters in the City of Lewiston by political operatives
+  span: '"We have received complaints about the intrusive filming, photography, and harassment of voters in the City of Lewiston by political operatives," Bellows told The Intercept in a statement.'
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-10-31'
+- type: attribution
+  value: barring armed federal agents from polling sites
+  span: Training materials for law enforcement officials in the state, obtained by The Intercept through a public records request, were updated this year for the elections to include explicit references to federal statutes barring armed federal agents from polling sites.
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-10-31'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -342,6 +387,9 @@ sources:
   publisher: Illinois Times
   date: '2026-10-31'
   tier: 2
+- title: Trump Vows to Send Election 'Monitors' to Maine After Far-Right Conspiracies Spread
+  url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -372,6 +420,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-27'
+  date_kind: confirmation date, per The Intercept
+  heading: DOJ confirms Maine monitors to The Intercept; Bellows on federal-interference planning
+  claims:
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  event_date_claim: u11
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -392,3 +453,7 @@ KOLO reports that the Justice Department notified Nevada's secretary of state an
 ## Update (2026-10-31, publication date of the local report): Sangamon County, Illinois: 19 polling sites
 
 Sangamon County Clerk Don Gray said his office was told that representatives of DOJ's Civil Rights Division "will monitor 19 polling sites in the county," the Illinois Times reported on October 31, 2026. "This is just the first time they've come to us," Clerk Gray said.
+
+## Update (2026-10-27, confirmation date, per The Intercept): DOJ confirms Maine monitors to The Intercept; Bellows on federal-interference planning
+
+The Justice Department on Tuesday confirmed to The Intercept that it intends to send election monitors to Maine and said: "We will have around 1,000 monitors in counties throughout the United States." Maine Secretary of State Shenna Bellows said: "This is the first time ever that we have had to engage in scenario planning to safeguard against potential federal interference in elections." She also said: "We have received complaints about the intrusive filming, photography, and harassment of voters in the City of Lewiston by political operatives." State law enforcement training materials were updated this year on barring armed federal agents from polling sites, The Intercept reports.
