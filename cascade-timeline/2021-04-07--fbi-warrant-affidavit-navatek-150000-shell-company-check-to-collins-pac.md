@@ -69,6 +69,24 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-31'
+- id: c7
+  type: quote
+  value: vigorously
+  span: Annie Clark, Collins’ deputy chief of staff, told ProPublica in an email that Collins’ office “vigorously” denies allegations of bribery and pay-for-play made by Kao, calling his claims “outlandish.”
+  url: https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-31'
+- id: c8
+  type: quote
+  value: outlandish
+  span: Annie Clark, Collins’ deputy chief of staff, told ProPublica in an email that Collins’ office “vigorously” denies allegations of bribery and pay-for-play made by Kao, calling his claims “outlandish.”
+  url: https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - fbi
 - public-corruption
@@ -84,6 +102,10 @@ sources:
 - title: In the Matter of the Search of One Digital Storage Media Device, No. 1:21-sw-00101 (D.D.C.), Application and Affidavit, Doc. 1
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.229739/gov.uscourts.dcd.229739.1.0_2.pdf
   tier: 1
+- title: FBI Susan Collins Navatek campaign donations investigation
+  url: https://www.propublica.org/article/fbi-susan-collins-navatek-campaign-donations-investigation
+  publisher: ProPublica
+  tier: 2
 related_events:
 - 2026-10-20--propublica-fbi-purge-ended-navatek-capitol-hill-bribery-probe
 ---
@@ -91,3 +113,5 @@ related_events:
 A search-warrant application filed in the District of Columbia and sworn on April 7, 2021 puts an FBI agent's account of Navatek's donation mechanics on the public docket. The affiant was FBI Special Agent Michelle Ball.
 
 The affidavit alleges that Navatek, a defense contractor, funded a donation to 1820 PAC, a political committee supporting Sen. Susan Collins, through a Hawaii shell company. In the affiant's words, the shell company donated $150,000 to 1820 PAC by check on December 27, 2019. The affiant stated there was probable cause to believe Navatek used the shell company to conceal a donation in violation of federal campaign-finance law. Probable cause is the standard for a warrant, not a finding of guilt. The affidavit also records the senator's August 2019 press release announcing an $8,000,000 Defense Department contract for Navatek.
+
+Collins’ deputy chief of staff told ProPublica in an email that Collins’ office “vigorously” denies allegations of bribery and pay-for-play made by Kao, calling his claims “outlandish.” See [[2026-10-20--propublica-fbi-purge-ended-navatek-capitol-hill-bribery-probe]].
