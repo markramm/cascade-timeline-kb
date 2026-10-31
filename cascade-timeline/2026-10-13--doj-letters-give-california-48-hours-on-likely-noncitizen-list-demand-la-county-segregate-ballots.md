@@ -165,6 +165,87 @@ claims:
   id: u8
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: 10/31/26
+  span: Case 1:26-cv-03072-JEB Document 43-1 Filed 10/31/26 Page 2 of 29
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 8,880
+  span: This means that 8,880 names — or 42% — on the DOJ list were not anywhere to be found on the current California voter file.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 42%
+  span: This means that 8,880 names — or 42% — on the DOJ list were not anywhere to be found on the current California voter file.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: at least 22
+  span: Based on scientific database matching methodology, I am certain that there at least 22 entries on the CHIRLA citizen list that fully match to the DHS ineligible list, using first name, last name, date of birth, and exact address, criteria even more stringent than that employed by the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 3,743
+  span: would result in 3,743 certain incorrect matches, 7,486 highly likely incorrect matches, and as many as 348,238 probabilistic incorrect matches depending on the exact matching criteria, and list accuracy used by the DOJ/DHS
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 7,486
+  span: would result in 3,743 certain incorrect matches, 7,486 highly likely incorrect matches, and as many as 348,238 probabilistic incorrect matches depending on the exact matching criteria, and list accuracy used by the DOJ/DHS
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 348,238
+  span: would result in 3,743 certain incorrect matches, 7,486 highly likely incorrect matches, and as many as 348,238 probabilistic incorrect matches depending on the exact matching criteria, and list accuracy used by the DOJ/DHS
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: attribution
+  value: California Voter ID number
+  span: Most important, the list provided to me is missing the single most critical column for matching — California Voter ID number — which is certain to be present on the original California voter file obtained by the DOJ.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: attribution
+  value: Office of the Secretary of State
+  span: Since November 2020, my co-author Mr. Rios and I have a contract with the State of California, Office of the Secretary of State, to analyze voting trends using the California voter file.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: unreachable
+  checked: '2026-10-31'
 tags:
 - election-capture
 - voter-rolls
@@ -206,6 +287,11 @@ sources:
   publisher: Associated Press (Dayton Daily News)
   date: '2026-10-31'
   tier: 1
+- title: Declaration of Barreto and Rios, Exhibit 17, CHIRLA v. DHS, ECF 43-1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.43.1.pdf
+  publisher: U.S. District Court, D.D.C. (RECAP)
+  date: '2026-10-31'
+  tier: 1
 updates:
 - date: '2026-10-31'
   date_kind: filing date, as reported by AP
@@ -223,6 +309,23 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: enforcement-funnel
+- date: '2026-10-31'
+  date_kind: filing date, Document 43-1, D.D.C. 1:26-cv-03072
+  heading: 'The filing itself: plaintiffs'' experts on the DOJ list, and what the AP figures mean'
+  claims:
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u9
+  verification: captured
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 On or about Tuesday, October 13, 2026, Justice Department personnel delivered a password-protected thumb drive to Los Angeles County election officials, and the Department gave California officials 48 hours to review a list of alleged noncitizen voters or face legal action, according to letters reviewed by Reuters. The letters, written by acting Deputy Attorney General R. Trent McCotter to Secretary of State Shirley Weber and Registrar-Recorder Dean Logan, say the drive holds the names of people the federal government believes are likely noncitizens. They demand that the state and county segregate returned mail-in ballots from voters on the list and not tabulate them until citizenship has been determined, and say the government will seek emergency relief otherwise. McCotter wrote that allowing noncitizens to vote cancels citizen votes. A Justice Department spokeswoman confirmed the letters exist. The list is the Department's own belief; neither source reports how many names it contains or how the Department compiled it, and California's response is not yet reported.
@@ -232,3 +335,7 @@ The demand follows a record of failed attempts to obtain state voter rolls: Reut
 ## Update (2026-10-31, filing date, as reported by AP): Filing says 42% of the DOJ list matches no one on California's voter file
 
 The AP reports that a legal filing Saturday by the Coalition for Humane Immigrant Rights describes an analysis by two members of UCLA's Voting Rights Project of the 20,930 names on the list. The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone on California's current voter file. It also found at least 22 are U.S. citizens and many more may correspond to those of confirmed citizens. The AP calls it the first outside analysis of the list. These are a party's findings in litigation. The filing was co-signed by Xavier Becerra, the Democratic candidate for California governor and an adviser to the UCLA Voting Rights Project.
+
+## Update (2026-10-31, filing date, Document 43-1, D.D.C. 1:26-cv-03072): The filing itself: plaintiffs' experts on the DOJ list, and what the AP figures mean
+
+The declaration is in CHIRLA's suit against DHS in the District of Columbia, by the plaintiffs' experts at the UCLA Voting Rights Project, who disclose a contract with the State of California, Office of the Secretary of State. They write that 8,880 names — or 42% — on the DOJ list were not anywhere to be found on the current California voter file. The 22 are at least 22 entries on the CHIRLA citizen list that fully match to the DHS ineligible list, not a count of citizens across the whole list. Their larger figures, 3,743 certain, 7,486 highly likely and as many as 348,238 probabilistic incorrect matches, are an extrapolation. They also say the list provided to them is missing the California Voter ID number column. The filing does not establish that an unmatched name is a DOJ error.
