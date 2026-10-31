@@ -1116,6 +1116,141 @@ claims:
   id: u111
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 30, 2026
+  span: 'The Court should grant the United States’ motion for expedited discovery and a preliminary injunction. Dated: October 30, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u112
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: would merely require preservation and segregation of potentially tainted
+  span: the election. It would merely require preservation and segregation of potentially tainted
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u113
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: and only if the result may have been impacted by the scheme to confuse voters
+  span: ballots, and only if the result may have been impacted by the scheme to confuse voters,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u114
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: segregation of ballots ranking
+  span: The segregation of ballots ranking Daniel J. Sullivan constitutes a negligible further burden on Defendants.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u115
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: to recruit as many sham candidates as possible to confuse voters
+  span: Given that it was their goal to recruit as many sham candidates as possible to confuse voters
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u116
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: goal
+  span: Given that it was their goal to recruit as many sham candidates as possible to confuse voters
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u117
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Monday, November 2, 2026
+  span: with a decision requested by Monday, November 2, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.70.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u118
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: will not prejudice Alaskans for Mary or DSCC
+  span: Discovery will not prejudice Alaskans for Mary or DSCC, as this information is discoverable
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+  read: fetched
+  source_kind: primary
+  id: u119
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: Friday
+  span: Alaska’s top federal prosecutor confirmed Friday during a news conference with reporters.
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u120
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: criminal and civil investigations into groups affiliated with the U.S. Senate campaign of Democratic candidate Mary Peltola
+  span: The U.S. Department of Justice has launched criminal and civil investigations into groups affiliated with the U.S. Senate campaign of Democratic candidate Mary Peltola
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u121
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: a significant surge of law enforcement assets to Alaska
+  span: said there has been “a significant surge of law enforcement assets to Alaska”
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u122
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: did not say what law
+  span: Despite repeated questions, Heyman did not say what law the Peltola-affiliated groups are being accused of breaking.
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u123
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: declined to say who is being investigated
+  span: Heyman also declined to say who is being investigated by federal officials.
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u124
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: I mean, you're assuming that there is a crime being committed
+  span: “I mean, you’re assuming that there is a crime being committed.
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u125
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: has indicated that she will rule no later than Monday
+  span: Gleason has indicated that she will rule no later than Monday on whether or not the federal government has standing.
+  url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+  read: fetched
+  source_kind: secondary
+  id: u126
+  outcome: verified
+  checked: '2026-10-31'
 tags:
   - election-2026
   - certification
@@ -1252,6 +1387,21 @@ sources:
   - title: 'CBS News: DOJ issues new subpoenas in Alaska Senate probe'
     url: https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/
     tier: 1
+  - title: Memorandum for Expedited Discovery and Preliminary Injunction, Dkt. 66, United States v. Alaska, No. 3:26-cv-00376 (D. Alaska)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.66.0_3.pdf
+    publisher: U.S. District Court for the District of Alaska (via RECAP)
+    date: '2026-10-30'
+    tier: 1
+  - title: Motion for Expedited Consideration, Dkt. 70
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.70.0.pdf
+    publisher: U.S. District Court for the District of Alaska (via RECAP)
+    date: '2026-10-30'
+    tier: 1
+  - title: As Alaskans vote, state's top federal prosecutor confirms criminal investigation of Dem groups
+    url: https://alaskabeacon.com/2026/10/30/as-alaskans-vote-states-top-federal-prosecutor-confirms-criminal-investigation-of-dem-groups/
+    publisher: Alaska Beacon
+    date: '2026-10-30'
+    tier: 2
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -1473,6 +1623,37 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: DOJ moves for a preliminary injunction and expedited discovery
+  claims:
+  - u112
+  - u113
+  - u114
+  - u115
+  - u116
+  - u117
+  - u118
+  - u119
+  event_date_claim: u112
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
+- date: '2026-10-30'
+  date_kind: news conference date
+  heading: The Alaska news conference on the investigations
+  claims:
+  - u120
+  - u121
+  - u122
+  - u123
+  - u124
+  - u125
+  - u126
+  event_date_claim: u120
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1534,3 +1715,11 @@ On October 30 Judge Sharon Gleason GRANTED expedited consideration of three moti
 ## Update (2026-10-29, interview date): Dunleavy stops short of committing to certify if Peltola wins, Axios reports
 
 Asked in a NewsNation interview on Thursday whether he would certify the election if Peltola wins while the matter is under investigation, Gov. Mike Dunleavy "stopped short of committing to do so," Axios reported. He said: "We're going to ensure that we aren't going to send a scam to Washington." NBC reports DOJ has issued at least three dozen new subpoenas and document preservation requests. CBS reports: "Nobody involved in the race has been charged with a crime." This is an interview statement; no results exist yet.
+
+## Update (2026-10-30, filing date): DOJ moves for a preliminary injunction and expedited discovery
+
+On October 30, 2026, the United States moved for expedited discovery and a preliminary injunction. Its memorandum says the relief "would merely require preservation and segregation of potentially tainted" ballots, "and only if the result may have been impacted by the scheme to confuse voters," and refers to "segregation of ballots ranking" candidate Daniel J. Sullivan. It says discovery "will not prejudice Alaskans for Mary or DSCC" and that their "goal" was "to recruit as many sham candidates as possible to confuse voters." It asks for a decision by "Monday, November 2, 2026." These are DOJ's allegations; the court has not ruled.
+
+## Update (2026-10-30, news conference date): The Alaska news conference on the investigations
+
+The U.S. Attorney for the District of Alaska confirmed "criminal and civil investigations into groups affiliated with the U.S. Senate campaign of Democratic candidate Mary Peltola" on Friday, the Alaska Beacon reports, and cited "a significant surge of law enforcement assets to Alaska." The Beacon reports he "did not say what law" the groups are accused of breaking and "declined to say who is being investigated." "I mean, you're assuming that there is a crime being committed," he said. The Beacon reports Judge Gleason "has indicated that she will rule no later than Monday" on whether the federal government has standing.
