@@ -437,7 +437,7 @@ sources:
   publisher: PolitiFact
   date: '2026-10-30'
   tier: 1
-- title: Maine Senate candidate fake video
+- title: Maine's Troy Jackson victim of fake video by Russian operatives
   url: https://mashable.com/tech/troy-jackson-maine-senate-fake-video-axe-threat
   publisher: Mashable
   date: '2026-10-30'
