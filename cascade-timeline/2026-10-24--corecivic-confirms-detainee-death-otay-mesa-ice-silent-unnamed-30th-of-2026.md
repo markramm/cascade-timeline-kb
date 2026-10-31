@@ -317,6 +317,69 @@ claims:
   id: u23
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: late Wednesday
+  span: San Diego County Medical Examiner’s (ME) office late Wednesday officially identified the man who died in U.S. Immigration and Customs Enforcement (ICE) custody Saturday at the Otay Mesa Detention Center.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u24
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: different
+  span: The name it released, Guillermo Pascual Verganza, 43, is a Guatemalan national. That was different from what ICE initially released.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u25
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: fingerprints
+  span: The ME’s office said it verified his identity by running his fingerprints through the Department of Justice and California ID’s databases.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u26
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: Guatemalan passport
+  span: It also matched that information against his Guatemalan passport.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u27
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: provided false information and used several aliases
+  span: An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u28
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Guillermo Pascual Verganza
+  span: The name it released, Guillermo Pascual Verganza, 43, is a Guatemalan national. That was different from what ICE initially released.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u29
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: '43'
+  span: The name it released, Guillermo Pascual Verganza, 43, is a Guatemalan national. That was different from what ICE initially released.
+  url: https://www.kpbs.org/news/border-immigration/2026/10/29/medical-examiner-corrects-id-of-man-who-died-in-ice-custody-at-otay-mesa-detention-center
+  read: fetched
+  source_kind: secondary
+  id: u30
+  outcome: verified
+  checked: '2026-10-31'
 verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
@@ -366,8 +429,26 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
-approved_names: ["Guillermo Pascual Verganza", "Guillermo Pasqual Verganza", "Guillermo Pascual Vergansa"]
+- date: '2026-10-28'
+  date_kind: identification date, county medical examiner
+  heading: The medical examiner's name for the Otay Mesa decedent
+  claims:
+  - u24
+  - u25
+  - u26
+  - u27
+  - u28
+  - u29
+  - u30
+  event_date_claim: u24
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
+approved_names:
 - Roberto Jimenez Gutierrez
+- Guillermo Pascual Verganza
+- Guillermo Pasqual Verganza
+- Guillermo Pascual Vergansa
 name_approval: 'Mark 2026-10-27: custody deaths named as ICE names them; do not repeat ICE criminal-history framing'
 ---
 
@@ -400,3 +481,7 @@ On the count that the entry above carried as a reporter's figure: KPBS reports t
 San Diego County's medical examiner late Wednesday officially identified the man who died in ICE custody at Otay Mesa Detention Center. The name it released was different from what ICE initially released: in its Oct. 27 notification, ICE said his name was Roberto Jimenez Gutierrez, and as of Thursday the agency still referred to him by that name. The office said it verified his identity by running his fingerprints through the Department of Justice and California ID databases, and it also matched that information against his Guatemalan passport. An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
 
 ICE's release had said he had a criminal history; his family insists those charges are not true. KPBS reported that ICE had not responded to its questions about how it confirms the identity of people in its custody.
+
+## Update (2026-10-28, identification date, county medical examiner): The medical examiner's name for the Otay Mesa decedent
+
+The San Diego County Medical Examiner's office identified the man as Guillermo Pascual Verganza, 43, a Guatemalan national. The name differs from the one ICE released. The office said it verified his identity by running his fingerprints through the Department of Justice and California ID's databases, and it also matched that information against his Guatemalan passport. An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
