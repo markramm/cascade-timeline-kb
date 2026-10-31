@@ -1071,6 +1071,51 @@ claims:
   id: u106
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: Thursday
+  span: Alaska Gov. Mike Dunleavy (R) suggested Thursday the state could withhold certification of the U.S. Senate election results if Democrat
+  url: https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification
+  read: fetched
+  source_kind: secondary
+  id: u107
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: stopped short of committing to do so
+  span: Dunleavy stopped short of committing to do so.
+  url: https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification
+  read: fetched
+  source_kind: secondary
+  id: u108
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: We're going to ensure that we aren't going to send a scam to Washington.
+  span: '"We''re going to ensure that we aren''t going to send a scam to Washington."'
+  url: https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification
+  read: fetched
+  source_kind: secondary
+  id: u109
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: at least three dozen
+  span: The Justice Department has issued at least three dozen new subpoenas and document preservation requests as part of its probe into the Alaska Senate race, a U.S. official confirmed to NBC News on Thursday.
+  url: https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316
+  read: fetched
+  source_kind: secondary
+  id: u110
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Nobody involved in the race has been charged with a crime
+  span: Nobody involved in the race has been charged with a crime.
+  url: https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u111
+  outcome: verified
+  checked: '2026-10-31'
 tags:
   - election-2026
   - certification
@@ -1197,6 +1242,15 @@ sources:
     tier: 1
   - title: United States v. Alaska, No. 3:26-cv-00376 (D. Alaska), Dkt. 64
     url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.64.0_1.pdf
+    tier: 1
+  - title: 'Axios: Alaska governor casts doubt on certifying election if Peltola wins'
+    url: https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification
+    tier: 1
+  - title: 'NBC News: DOJ issues subpoenas in Alaska Senate race as governor launches separate investigation'
+    url: https://www.nbcnews.com/politics/2026-election/mike-dunleavy-orders-investigation-mary-peltola-campaign-dan-sullivan-rcna606316
+    tier: 1
+  - title: 'CBS News: DOJ issues new subpoenas in Alaska Senate probe'
+    url: https://www.cbsnews.com/news/doj-subpoenas-alaska-senate-probe-ballot-sullivan-peltola/
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -1406,6 +1460,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-29'
+  date_kind: interview date
+  heading: Dunleavy stops short of committing to certify if Peltola wins, Axios reports
+  claims:
+  - u107
+  - u108
+  - u109
+  - u110
+  - u111
+  event_date_claim: u107
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1463,3 +1530,7 @@ Alaskans for Mary and the DSCC moved to dismiss the amended complaint (Document 
 ## Update (2026-10-30, order date): Judge Gleason expedites three motions to dismiss the amended complaint
 
 On October 30 Judge Sharon Gleason GRANTED expedited consideration of three motions to dismiss DOJ's amended complaint, with replies due October 31 at noon. The State's motion, filed 10/29/26, asks for a decision by November 2. The court has not ruled on dismissal.
+
+## Update (2026-10-29, interview date): Dunleavy stops short of committing to certify if Peltola wins, Axios reports
+
+Asked in a NewsNation interview on Thursday whether he would certify the election if Peltola wins while the matter is under investigation, Gov. Mike Dunleavy "stopped short of committing to do so," Axios reported. He said: "We're going to ensure that we aren't going to send a scam to Washington." NBC reports DOJ has issued at least three dozen new subpoenas and document preservation requests. CBS reports: "Nobody involved in the race has been charged with a crime." This is an interview statement; no results exist yet.

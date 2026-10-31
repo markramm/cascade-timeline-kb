@@ -530,6 +530,60 @@ claims:
   id: u28
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: 10/30/2026
+  span: RELATED CASE ORDER. Signed by Judge Araceli Martinez-Olguin on 10/30/2026. The Court has determined that Case No. 26-cv-10680 AMO is related to Case No. 26-cv-12617. However, Case No. 26-cv-10680 AMO is NOT related to Case No. 26-cv-12800.
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: is related to Case No. 26-cv-12617
+  span: RELATED CASE ORDER. Signed by Judge Araceli Martinez-Olguin on 10/30/2026. The Court has determined that Case No. 26-cv-10680 AMO is related to Case No. 26-cv-12617. However, Case No. 26-cv-10680 AMO is NOT related to Case No. 26-cv-12800.
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: is NOT related to Case No. 26-cv-12800
+  span: RELATED CASE ORDER. Signed by Judge Araceli Martinez-Olguin on 10/30/2026. The Court has determined that Case No. 26-cv-10680 AMO is related to Case No. 26-cv-12617. However, Case No. 26-cv-10680 AMO is NOT related to Case No. 26-cv-12800.
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 26-cv-12617
+  span: RELATED CASE ORDER. Signed by Judge Araceli Martinez-Olguin on 10/30/2026. The Court has determined that Case No. 26-cv-10680 AMO is related to Case No. 26-cv-12617. However, Case No. 26-cv-10680 AMO is NOT related to Case No. 26-cv-12800.
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u32
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: figure
+  value: 26-cv-12800
+  span: RELATED CASE ORDER. Signed by Judge Araceli Martinez-Olguin on 10/30/2026. The Court has determined that Case No. 26-cv-10680 AMO is related to Case No. 26-cv-12617. However, Case No. 26-cv-10680 AMO is NOT related to Case No. 26-cv-12800.
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u33
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: attribution
+  value: OCA
+  span: regarding potential relation of OCA-Asian Pacific American Advocates et al. v. DHS, Case No. 5:26-cv-12617
+  url: https://www.courtlistener.com/docket/74815064/
+  read: fetched
+  source_kind: primary
+  id: u34
+  outcome: unreachable
+  checked: '2026-10-31'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -569,6 +623,11 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.92.0.pdf
     publisher: CourtListener (RECAP)
     date: '2026-10-29'
+    tier: 1
+  - title: Docket, California Nurses Association v. Mullin, No. 4:26-cv-10680 (N.D. Cal.)
+    url: https://www.courtlistener.com/docket/74815064/
+    publisher: U.S. District Court for the Northern District of California (via CourtListener)
+    date: '2026-10-30'
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -636,6 +695,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-10-30'
+  date_kind: order date
+  heading: OCA case related to this one; the SEIU suit is not
+  claims:
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  - u34
+  event_date_claim: u29
+  verification: captured
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -657,3 +730,7 @@ In an order filed 10/29/26 (order date) the court "DENIES Defendants’ motion t
 ## Update (2026-10-29, order date): Martinez-Olguin refuses to stay the injunction on HSI election field operations
 
 In an order filed 10/29/26, Judge Araceli Martinez-Olguin DENIES a stay of her October 21 preliminary injunction pending appeal. She rested on irreparable harm and did not reach the other factors, writing: "Compliance with the law does not constitute a legally cognizable harm." She also wrote that DHS's argument about stopping a noncitizen voting on November 3 "contradicts" its earlier account of the operations. This denial is not a ruling on the merits; the appeal is No. 26-7139 at the Ninth Circuit.
+
+## Update (2026-10-30, order date): OCA case related to this one; the SEIU suit is not
+
+In a related-case order dated 10/30/2026, Judge Martinez-Olguin determined this case "is related to Case No. 26-cv-12617," the OCA-APAA suit, and "is NOT related to Case No. 26-cv-12800," the SEIU suit, which stayed with Judge Thompson.

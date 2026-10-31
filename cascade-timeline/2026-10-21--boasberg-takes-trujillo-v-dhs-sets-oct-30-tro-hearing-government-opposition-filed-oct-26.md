@@ -183,6 +183,51 @@ claims:
   id: u15
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: October 30, 2026
+  span: 'MINUTE ORDER: As discussed in a further telephone conference with the parties, the Court ORDERS that: 1) The list may not be disseminated outside of Plaintiffs'' legal team, which comprises counsel of record, their legal assistant, their expert, and his data assistant; 2) Absent further Order of the Court, Plaintiffs shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list; 3) Any public filings shall redact the name(s) and identifying information of anyone on the list; 4) For now, Plaintiffs shall use this information in relation to their standing arguments only; and 5) The 41 Motion to Stay is withdrawn. So ORDERED by Chief Judge James E. Boasberg on October 30, 2026.'
+  url: https://www.courtlistener.com/docket/74737644/
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: may not be disseminated outside of Plaintiffs' legal team
+  span: 'MINUTE ORDER: As discussed in a further telephone conference with the parties, the Court ORDERS that: 1) The list may not be disseminated outside of Plaintiffs'' legal team, which comprises counsel of record, their legal assistant, their expert, and his data assistant; 2) Absent further Order of the Court, Plaintiffs shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list; 3) Any public filings shall redact the name(s) and identifying information of anyone on the list; 4) For now, Plaintiffs shall use this information in relation to their standing arguments only; and 5) The 41 Motion to Stay is withdrawn. So ORDERED by Chief Judge James E. Boasberg on October 30, 2026.'
+  url: https://www.courtlistener.com/docket/74737644/
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list
+  span: 'MINUTE ORDER: As discussed in a further telephone conference with the parties, the Court ORDERS that: 1) The list may not be disseminated outside of Plaintiffs'' legal team, which comprises counsel of record, their legal assistant, their expert, and his data assistant; 2) Absent further Order of the Court, Plaintiffs shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list; 3) Any public filings shall redact the name(s) and identifying information of anyone on the list; 4) For now, Plaintiffs shall use this information in relation to their standing arguments only; and 5) The 41 Motion to Stay is withdrawn. So ORDERED by Chief Judge James E. Boasberg on October 30, 2026.'
+  url: https://www.courtlistener.com/docket/74737644/
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: in relation to their standing arguments only
+  span: 'MINUTE ORDER: As discussed in a further telephone conference with the parties, the Court ORDERS that: 1) The list may not be disseminated outside of Plaintiffs'' legal team, which comprises counsel of record, their legal assistant, their expert, and his data assistant; 2) Absent further Order of the Court, Plaintiffs shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list; 3) Any public filings shall redact the name(s) and identifying information of anyone on the list; 4) For now, Plaintiffs shall use this information in relation to their standing arguments only; and 5) The 41 Motion to Stay is withdrawn. So ORDERED by Chief Judge James E. Boasberg on October 30, 2026.'
+  url: https://www.courtlistener.com/docket/74737644/
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: unreachable
+  checked: '2026-10-31'
+- type: quote
+  value: The 41 Motion to Stay is withdrawn
+  span: 'MINUTE ORDER: As discussed in a further telephone conference with the parties, the Court ORDERS that: 1) The list may not be disseminated outside of Plaintiffs'' legal team, which comprises counsel of record, their legal assistant, their expert, and his data assistant; 2) Absent further Order of the Court, Plaintiffs shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list; 3) Any public filings shall redact the name(s) and identifying information of anyone on the list; 4) For now, Plaintiffs shall use this information in relation to their standing arguments only; and 5) The 41 Motion to Stay is withdrawn. So ORDERED by Chief Judge James E. Boasberg on October 30, 2026.'
+  url: https://www.courtlistener.com/docket/74737644/
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: unreachable
+  checked: '2026-10-31'
 tags:
 - election-capture
 - dhs
@@ -253,6 +298,19 @@ updates:
   verification: captured
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-30'
+  date_kind: order date (minute order)
+  heading: The stay motion is withdrawn; Boasberg limits the list to plaintiffs' legal team
+  claims:
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  event_date_claim: u16
+  verification: captured
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -266,3 +324,7 @@ After the hearing on October 30, 2026, Chief Judge Boasberg ordered that "the Go
 ## Update (2026-10-30, filing date): Government moves to stay the list-disclosure order pending mandamus
 
 On October 30, 2026, the government moved (Document 41) "for a stay pending mandamus of the Court's Minute Order entered October 30, 2026," or for "an administrative stay pending resolution of this motion." It says "Plaintiffs lack standing" and that "the only two individuals Plaintiffs named as recently naturalized citizens likely to be harmed by this list have been shown by sworn declaration not to be on the list." The motion calls the order one "requiring the public disclosure of sensitive law enforcement information"; the minute order directs disclosure "to Plaintiffs." As fallbacks, it asks the court to take the list "in camera" or to limit it to "Plaintiffs' counsel of record in this case only." These are the government's positions.
+
+## Update (2026-10-30, order date (minute order)): The stay motion is withdrawn; Boasberg limits the list to plaintiffs' legal team
+
+In a further minute order on October 30, 2026, after a telephone conference, Chief Judge Boasberg ordered that the list "may not be disseminated outside of Plaintiffs' legal team" and that plaintiffs "shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list." Public filings must redact names, and for now plaintiffs may use it "in relation to their standing arguments only." The order records: "The 41 Motion to Stay is withdrawn."
