@@ -328,6 +328,69 @@ claims:
   id: u10
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: Oct. 26
+  span: posted the video (archived here and here) at 6:58 p.m. UTC on Oct. 26
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: at 6:58 p.m. UTC on Oct. 26
+  span: posted the video (archived here and here) at 6:58 p.m. UTC on Oct. 26
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: X has suspended
+  span: Since then, X has suspended the @X_Global_tv account.
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: is AI-generated
+  span: According to Hive Moderation, the voiceover of this fabricated clip is AI-generated and a search of the WOIO website shows no matching news reports.
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: a search of the WOIO website shows no matching news reports
+  span: According to Hive Moderation, the voiceover of this fabricated clip is AI-generated and a search of the WOIO website shows no matching news reports.
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: with several points of circumstantial evidence
+  span: 'NewsGuard attributed the video to the Russian influence operation Storm-1516 with several points of circumstantial evidence:'
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: Storm-1516
+  span: 'NewsGuard attributed the video to the Russian influence operation Storm-1516 with several points of circumstantial evidence:'
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - electoral-manipulation
 - foreign-interference
@@ -384,6 +447,11 @@ sources:
   publisher: Weaponized
   date: '2026-10-31'
   tier: 2
+- title: 'Fact Check: FAKE Cleveland 19 Report ''Four Former Staffers Have Accused Sherrod Brown Of Sexual Assault'' -- AI-Generated Audio'
+  url: https://www.yahoo.com/news/politics/articles/fact-check-fake-cleveland-19-031711746.html
+  publisher: Lead Stories via Yahoo
+  date: '2026-10-29'
+  tier: 2
 related_events:
 - 2026-09-21--graphika-assesses-operation-overload-and-r-fbi-produced-fake-videos-targeting-us-midterm-candidates-and-berlin-election
 - 2026-10-17--bloomberg-matryoshka-bot-network-inflates-fake-videos-targeting-democratic-candidates-20-senate-29-governor-races
@@ -408,6 +476,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: guardrails
+- date: '2026-10-26'
+  date_kind: X post date, per Lead Stories
+  heading: The Oct. 26 post of the Brown video; one posting account suspended
+  claims:
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u11
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guardrails
 ---
 
 An X account created in September 2026 posted the two videos on Oct. 20 (the posting date), fabricating a sexual-abuse claim against Democratic U.S. Senate candidate James Talarico, a Texas state Rep. Graphika found the account very likely impersonating a real person of the same name, and assesses "with high confidence that the Russia-aligned influence operation Storm-1516 produced the video." Researchers say the allegation isn't real, Straight Arrow News reported; Mother Jones reports the real former student told a factchecking site he had never been abused by Talarico, and X suspended the impersonating account. Talarico is in a toss-up race against his Republican opponent, Texas Attorney General Ken Paxton.
@@ -421,3 +504,7 @@ Anonymous researchers who track Russian trolls, quoted by Straight Arrow News, c
 PolitiFact reported on October 30, 2026, that researchers attribute false claims against Democrats Rep. James Talarico, Sherrod Brown and Troy Jackson to a coordinated disinformation campaign, and that "The tactics and narratives point to the work of Storm-1516." It reports that a manipulated local TV news report "baselessly claimed four of Brown's former staff members accused him of abuse," and that an altered WABI-TV report made it "sound as though Jackson had threatened his staffers with an axe." Mashable reports that WABI's vice president said the video "was not produced, aired, or authorized by WABI." A Clemson researcher told PolitiFact that on Oct. 28, "fewer than 7,000 people" mentioned Jackson on X, and 25% of them were talking about the narrative.
 
 The Weaponized newsletter reports that accounts associated with the network "were removed from the platform Thursday evening," and that it "uncovered evidence" others are still active.
+
+## Update (2026-10-26, X post date, per Lead Stories): The Oct. 26 post of the Brown video; one posting account suspended
+
+Lead Stories, in a fact check syndicated by Yahoo, reports that an X account posted the fake local TV video "at 6:58 p.m. UTC on Oct. 26," and that "X has suspended" that account. It reports that the voiceover "is AI-generated" according to Hive Moderation, and that "a search of the WOIO website shows no matching news reports." It reports NewsGuard attributed the video to Storm-1516 "with several points of circumstantial evidence."
