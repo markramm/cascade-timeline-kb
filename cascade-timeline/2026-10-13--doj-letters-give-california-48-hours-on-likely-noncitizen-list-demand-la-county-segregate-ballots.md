@@ -93,6 +93,78 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-15'
+- type: date
+  value: Saturday
+  span: More than 4 in 10 names flagged as possible noncitizen voters in California by the Trump administration cannot even be found on the state's voter rolls, according to a legal filing Saturday by an immigrant rights group.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 20,930
+  span: The contention was made in a filing by two UCLA data scientists who analyzed the 20,930 names that the department demanded that California election officials treat as possible illegal voters by separating their ballots during the vote count on Election Day.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 8,880
+  span: The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone on California's current voter file.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 42%
+  span: The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone on California's current voter file.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: at least 22
+  span: It also found at least 22 are U.S. citizens and many more may correspond to those of confirmed citizens.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: first outside analysis
+  span: It's the first outside analysis of a list that the Department of Justice has used to threaten prosecution of election officials.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-31'
+- type: attribution
+  value: Xavier Becerra
+  span: “This review proves, at least as a preponderance of the evidence, that demands of election officials under criminal and civil threats, endangers the voting rights of plaintiff CHIRLA's members and clients,” said the filing, which was co-signed by Xavier Becerra, the Democratic candidate for California governor and an adviser to the UCLA Voting Rights Project.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: two
+  span: The contention was made in a filing by two UCLA data scientists who analyzed the 20,930 names that the department demanded that California election officials treat as possible illegal voters by separating their ballots during the vote count on Election Day.
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-capture
 - voter-rolls
@@ -129,8 +201,34 @@ sources:
   publisher: Eyes on ICE
   date: '2026-10-14'
   tier: 3
+- title: 'More than 40% of names on DOJ list of alleged noncitizens not on California''s voter rolls: analysis'
+  url: https://www.daytondailynews.com/nation-world/more-than-40-of-names-on-doj-list-of-alleged-noncitizens-not-on-californias-voter/article_86ec77c7-a6c6-58d5-b4b8-857b90d9e24e.html
+  publisher: Associated Press (Dayton Daily News)
+  date: '2026-10-31'
+  tier: 1
+updates:
+- date: '2026-10-31'
+  date_kind: filing date, as reported by AP
+  heading: Filing says 42% of the DOJ list matches no one on California's voter file
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 On or about Tuesday, October 13, 2026, Justice Department personnel delivered a password-protected thumb drive to Los Angeles County election officials, and the Department gave California officials 48 hours to review a list of alleged noncitizen voters or face legal action, according to letters reviewed by Reuters. The letters, written by acting Deputy Attorney General R. Trent McCotter to Secretary of State Shirley Weber and Registrar-Recorder Dean Logan, say the drive holds the names of people the federal government believes are likely noncitizens. They demand that the state and county segregate returned mail-in ballots from voters on the list and not tabulate them until citizenship has been determined, and say the government will seek emergency relief otherwise. McCotter wrote that allowing noncitizens to vote cancels citizen votes. A Justice Department spokeswoman confirmed the letters exist. The list is the Department's own belief; neither source reports how many names it contains or how the Department compiled it, and California's response is not yet reported.
 
 The demand follows a record of failed attempts to obtain state voter rolls: Reuters reports the Department has sued 30 states that refused to hand over rolls and lost 26 of those cases without winning one. Rather than win access through the courts, the Department is now handing a county a list built from its own data and asking it to hold ballots, which moves the fight from the voter roll to individual returned ballots weeks before the midterms. See [[2026-09-16--doj-sends-five-grand-jury-subpoenas-san-diego-county-registrar-voter-records]] for the parallel grand-jury route into California registrars and [[2025-09-09--doj-demands-voter-data-centralized-database]] for the original roll demand.
+
+## Update (2026-10-31, filing date, as reported by AP): Filing says 42% of the DOJ list matches no one on California's voter file
+
+The AP reports that a legal filing Saturday by the Coalition for Humane Immigrant Rights describes an analysis by two members of UCLA's Voting Rights Project of the 20,930 names on the list. The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone on California's current voter file. It also found at least 22 are U.S. citizens and many more may correspond to those of confirmed citizens. The AP calls it the first outside analysis of the list. These are a party's findings in litigation. The filing was co-signed by Xavier Becerra, the Democratic candidate for California governor and an adviser to the UCLA Voting Rights Project.

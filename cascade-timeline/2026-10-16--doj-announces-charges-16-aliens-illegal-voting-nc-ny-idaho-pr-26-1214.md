@@ -51,6 +51,69 @@ claims:
   url: https://www.justice.gov/opa/pr/justice-department-announces-charges-involving-16-aliens-illegal-voting
   read: fetched
   source_kind: primary
+- type: date
+  value: October 30, 2026
+  span: October 30, 2026 4:10 am Bonneville County residents cast their votes during the May 21, 2024, primary election at The Waterfront Event Center in Idaho Falls. (Pat Sutphin for the Idaho Capital Sun) In the weeks leading up to the 2026 midterm elections, the Trump administration announced it is prosecuting three alleged noncitizen voting cases in Idaho.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: first instances
+  span: The cases appear to be the first instances of the federal government prosecuting noncitizen voting cases in Idaho under the second Trump administration.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: more than a dozen
+  span: They came more than a year after state election officials referred more than a dozen cases to the U.S. Department of Justice for possible prosecution.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: three
+  span: In the weeks leading up to the 2026 midterm elections, the Trump administration announced it is prosecuting three alleged noncitizen voting cases in Idaho.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: '13'
+  span: But this week, McGrane said that the U.S. Attorney’s Office for the District of Idaho has said it does not intend to prosecute another 13 cases referred by Idaho officials, which stemmed from his office’s 2024 audit of the state’s voter roll.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: does not comment on investigations whether they are pending or current
+  span: The U.S. Attorney’s Office for the District of Idaho did not comment on the update, saying its office “does not comment on investigations whether they are pending or current.”
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: this week
+  span: But this week, McGrane said that the U.S. Attorney’s Office for the District of Idaho has said it does not intend to prosecute another 13 cases referred by Idaho officials, which stemmed from his office’s 2024 audit of the state’s voter roll.
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-prosecutions
 - noncitizen-voting
@@ -64,8 +127,33 @@ sources:
   publisher: U.S. Department of Justice (Office of Public Affairs)
   date: '2026-10-16'
   tier: 1
+- title: Trump administration prosecutes first noncitizen voting cases in Idaho in years
+  url: https://idahocapitalsun.com/2026/10/30/trump-administration-prosecutes-first-noncitizen-voting-cases-in-idaho-in-years/
+  publisher: Idaho Capital Sun
+  date: '2026-10-30'
+  tier: 2
 related_events:
 - 2026-10-12--doj-announces-charges-16-individuals-election-crimes-13-alleged-aliens-11-districts-pr-26-1167
+updates:
+- date: '2026-10-30'
+  date_kind: publication date of the Idaho Capital Sun report
+  heading: Idaho's secretary of state says federal prosecutors will not take 13 referred cases
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 On Friday, Oct. 16, 2026 (release date), the Justice Department's Office of Public Affairs announced charges involving 16 aliens in North Carolina, New York, and Idaho, including an illegal alien, in connection with illegal voting, false claims of U.S. citizenship, and related election crimes. The release says 10 aliens have been charged in the Eastern District of North Carolina for illegally voting in the 2024 elections and that five aliens have been arrested for voter fraud in the Northern District of New York; the sixteenth defendant is in Idaho. The release says a complaint, indictment and information merely contain accusations. This entry does not name the defendants. District counts and defendant classes are in the gate note. Series: [[2026-10-12--doj-announces-charges-16-individuals-election-crimes-13-alleged-aliens-11-districts-pr-26-1167]].
+
+## Update (2026-10-30, publication date of the Idaho Capital Sun report): Idaho's secretary of state says federal prosecutors will not take 13 referred cases
+
+The Idaho Capital Sun reports that the three Idaho cases appear to be the first instances of the federal government prosecuting noncitizen voting cases in Idaho under the second Trump administration. They came more than a year after state election officials referred more than a dozen cases to the U.S. Department of Justice. Idaho Secretary of State Phil McGrane said this week that the U.S. Attorney's Office for the District of Idaho has said it does not intend to prosecute another 13 cases referred by Idaho officials. The office told the paper it “does not comment on investigations whether they are pending or current.”
