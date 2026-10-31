@@ -101,6 +101,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: dhs-database-layer
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 
 ICE's Privacy Office approved a Privacy Threshold Analysis for the ICE Task Force Module, a mobile app developed by CBP for ICE-deputized local police. Biometric Update reports the PTA lists a September 24, 2025 launch date and was approved the next day. The app compares a face scan against more than 250 million government records. Each new photograph is stored and retained in ATS for 15 years, match or not. The Privacy Office marked the analysis "sufficient currently" and set coverage for three years, while the same form's designation block checks both "PIA required" and "SORN required" and relies on existing PIA and SORN coverage. The PTA itself sits on ice.gov. Press reports in June 2026 brought it to wide attention; this is the Task Force Module's own PTA, separate from the Mobile Fortify PTA.

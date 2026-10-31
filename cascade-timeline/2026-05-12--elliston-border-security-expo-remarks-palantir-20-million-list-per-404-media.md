@@ -112,6 +112,9 @@ claims:
   url: https://www.404media.co/ice-agents-have-list-of-20-million-people-on-their-iphones-thanks-to-palantir/
   read: fetched
   source_kind: secondary
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 
 404 Media reported on May 12, 2026 that a senior ICE official, speaking at the Border Security Expo in Phoenix, said Palantir systems give agents what amounts to a list of 20 million people on their iPhones. 404 Media says it spoke to four people who attended the conference. The expo ran May 4-6, 2026 in Phoenix; the agenda lists no speaker names, so the day of the remarks is not bound here.

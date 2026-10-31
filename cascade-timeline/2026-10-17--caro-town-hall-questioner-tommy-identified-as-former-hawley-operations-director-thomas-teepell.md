@@ -243,6 +243,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+coverage:
+- url: https://theramm.transparencycascade.org/p/jindal-founded-groups-250000-anti
+  title: "Jindal-Founded Group's $250,000 Anti-El-Sayed Buy Went to a Firm at Its Own Address"
 ---
 
 On October 17th, at an Abdul El-Sayed town hall in Caro, Michigan, an attender who gave his name

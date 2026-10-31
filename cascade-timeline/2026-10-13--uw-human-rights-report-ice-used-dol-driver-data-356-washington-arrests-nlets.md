@@ -85,6 +85,8 @@ related_events:
 - 2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract
 - 2026-07-11--eyes-on-ice-documents-vehicle-containment-tactic-civil-enforcement
 coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 - daily-capture-reports/headline/2026-10-13--uw-dmv-dhs-pipeline-wa-ice-arrests-nlets-oct2026.md
 sources:
 - title: 'Stopping the DMV-to-DHS Data Pipeline: Vehicle and Driver Data Sharing with Federal Immigration Agencies'

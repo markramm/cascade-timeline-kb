@@ -59,6 +59,8 @@ related_events:
 - 2026-03-03--72-lawmakers-demand-dhs-oig-probe-warrantless-location-purchases
 - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
 coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 - url: https://documentedny.com/?p=69220
   title: Courts Blocked ICE From Accessing Immigrants' Tax Records. Then Came a Data Broker (Documented NY)
 - daily-capture-reports/headline/2026-06-05--ice-buys-itin-immigrant-tax-ids-from-data-broker-evading-court-order.md

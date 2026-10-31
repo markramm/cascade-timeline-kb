@@ -315,6 +315,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hilton-v-mullin
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 
 The plaintiffs in Hilton v. Mullin, a proposed class action by four observers of ICE operations in Maine, filed a redacted version of their preliminary-injunction motion on the public docket (ECF 132, stamped 10/02/26) after filing it under seal; Wired reported that "a redacted version was made public Friday." The motion, built on government documents and agent depositions, says Agent J.C. of Homeland Security Investigations created case-management (ICM) records for six observers, including plaintiff Carlyn Williams, and described observers in records as a "Threat to Law Enforcement, Professional Protestor." It says a CBP officer ran a facial recognition search on observers' photos using the Mobile Query application, and that J.C. identified Williams through her car's plate and Accurint for Law Enforcement, then called her and warned that people doing what her spouse did "might get added to a domestic terrorism watchlist." According to the motion, the records require Williams to be referred to secondary inspection when she travels internationally, at least through January 20, 2027, and on March 16, 2026, she and Pantos were held for about an hour at the Jackman Border Crossing. These are plaintiffs' allegations; DHS called the case "meritless."

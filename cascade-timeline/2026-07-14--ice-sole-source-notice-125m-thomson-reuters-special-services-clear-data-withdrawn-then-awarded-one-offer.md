@@ -177,6 +177,9 @@ claims:
   url: https://stateofsurveillance.org/news/ice-thomson-reuters-clear-125-million-voter-fraud-2026/
   read: fetched
   source_kind: secondary
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 
 ICE posted a notice on SAM.gov in July that it intended to sole-source its Data Analytic Support Services effort to Thomson Reuters Special Services, the Thomson Reuters unit that sells the CLEAR people-search database, "in accordance with the approved Justification and Approval which is attached to this announcement." The planned deal was a five-year, $125 million agreement. The justification, as quoted by Democracy Docket from the order that 404 Media first made public, said the data was needed "to support the presidential mandate of the identification of Voters Fraud, Immigration Fraud and National Security." Those are ICE's words, attributed to ICE and not adopted here.

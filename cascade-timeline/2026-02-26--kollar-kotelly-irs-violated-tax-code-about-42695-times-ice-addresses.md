@@ -120,6 +120,9 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-21'
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 Judge Colleen Kollar-Kotelly issued an indicative ruling while the case was on appeal: "if it had jurisdiction, it would supplement the record on appeal" with the IRS's new declaration. In the same opinion she wrote that "Defendants admit that, on August 7, 2025, the IRS disclosed confidential taxpayer addresses to ICE in violation of Section 6103(i)(2) of the Internal Revenue Code". Her count: the IRS violated the IRC approximately 42,695 times. That is every address released through the IRS's taxpayer-ID matching path without confirming that ICE's request carried the taxpayer's address, as the statute requires.
 

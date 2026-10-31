@@ -171,6 +171,9 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+coverage:
+- url: https://theramm.transparencycascade.org/p/jindal-founded-groups-250000-anti
+  title: "Jindal-Founded Group's $250,000 Anti-El-Sayed Buy Went to a Firm at Its Own Address"
 ---
 
 America Next Inc, a nonprofit registered with the FEC as a non-committee filer, reported a

@@ -84,6 +84,9 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 event_date_claim: c1
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-nice-little-database-what-ices
+  title: "'A Nice Little Database': What ICE's Own Filings Show"
 ---
 
 In their motion to dismiss, stamped 09/18/26, the federal defendants in Hilton v. Mullin say an HSI agent documented Williams’ name and vehicle information in the agency’s case-management system, which “led to the March 2026 border stop referenced in the FAC.” Williams is a named plaintiff. A footnote in the same brief says the agent made subject records on 8 individuals he met in Maine and believed to be “potential threats to law enforcement.” This is the defendants’ own account in a party filing. The brief does not say how the record was used at the border.
