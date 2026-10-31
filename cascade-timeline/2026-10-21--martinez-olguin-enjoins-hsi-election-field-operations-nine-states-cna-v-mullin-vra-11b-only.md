@@ -584,6 +584,105 @@ claims:
   id: u34
   outcome: unreachable
   checked: '2026-10-31'
+- type: date
+  value: 10/30/2026
+  span: 'Case: 26-7139, 10/30/2026, DktEntry: 42.1, (1 of 22)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u35
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: The request for stay pending appeal is denied
+  span: The request for stay pending appeal is denied. The request for administrative stay is denied as moot.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u36
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: have not carried their burden to show that they likely will be irreparably harmed
+  span: have not carried their burden to show that they likely will be irreparably harmed if we do not grant a stay pending appeal for the four-and-a-half days remaining in the preliminary injunction’s term
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: The existing injunction is properly drawn and narrowly defined
+  span: The existing injunction is properly drawn and narrowly defined.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: has associational standing to pursue an intimidation claim
+  span: the district court properly concluded that CNA/NNU has associational standing to pursue an intimidation claim under Section 11(b) of the Voting Rights Act
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: be resolved at the merits stage of this case
+  span: will “be resolved at the merits stage of this case.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: 10/30/2026
+  span: 'Case: 26-7139, 10/30/2026, DktEntry: 58.1, (1 of 35)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.58.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: a sua sponte request for an en banc vote
+  span: A judge of this Court has made a sua sponte request for an en banc vote in this case.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: grant rehearing en banc and issue an immediate stay
+  span: The Court should grant rehearing en banc and issue an immediate stay.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.50.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: en banc proceedings with respect to the panel’s order are concluded
+  span: en banc proceedings with respect to the panel’s order are concluded.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.58.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: verified
+  checked: '2026-10-31'
+- type: attribution
+  value: Tung
+  span: TUNG, Circuit Judge, joined by CALLAHAN, NELSON, COLLINS, BRESS, BUMATAY, and VANDYKE, Circuit Judges, dissenting from the denial of rehearing en banc
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.58.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-10-31'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -627,6 +726,26 @@ sources:
   - title: Docket, California Nurses Association v. Mullin, No. 4:26-cv-10680 (N.D. Cal.)
     url: https://www.courtlistener.com/docket/74815064/
     publisher: U.S. District Court for the Northern District of California (via CourtListener)
+    date: '2026-10-30'
+    tier: 1
+  - title: Order denying stay pending appeal, DE 42, California Nurses Association v. Mullin, No. 26-7139 (9th Cir.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.42.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+    date: '2026-10-30'
+    tier: 1
+  - title: Order for publication denying rehearing en banc, DE 58
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.58.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+    date: '2026-10-30'
+    tier: 1
+  - title: Order on sua sponte en banc request, DE 45
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.45.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+    date: '2026-10-30'
+    tier: 1
+  - title: Government supplemental brief, DE 50
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.50.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
     date: '2026-10-30'
     tier: 1
 coverage:
@@ -709,6 +828,33 @@ updates:
   verification: captured
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-10-30'
+  date_kind: order date
+  heading: Ninth Circuit panel refuses a stay
+  claims:
+  - u35
+  - u36
+  - u37
+  - u38
+  - u39
+  - u40
+  event_date_claim: u35
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
+- date: '2026-10-30'
+  date_kind: order date
+  heading: En banc vote fails, over a dissent
+  claims:
+  - u41
+  - u42
+  - u43
+  - u44
+  - u45
+  event_date_claim: u41
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -734,3 +880,11 @@ In an order filed 10/29/26, Judge Araceli Martinez-Olguin DENIES a stay of her O
 ## Update (2026-10-30, order date): OCA case related to this one; the SEIU suit is not
 
 In a related-case order dated 10/30/2026, Judge Martinez-Olguin determined this case "is related to Case No. 26-cv-12617," the OCA-APAA suit, and "is NOT related to Case No. 26-cv-12800," the SEIU suit, which stayed with Judge Thompson.
+
+## Update (2026-10-30, order date): Ninth Circuit panel refuses a stay
+
+In a per curiam order, a Ninth Circuit panel wrote: "The request for stay pending appeal is denied." It said the federal defendants "have not carried their burden to show that they likely will be irreparably harmed," and that "The existing injunction is properly drawn and narrowly defined." The panel said the union "has associational standing to pursue an intimidation claim." It said lawfulness will "be resolved at the merits stage of this case."
+
+## Update (2026-10-30, order date): En banc vote fails, over a dissent
+
+A judge made "a sua sponte request for an en banc vote" the same day, and the government asked the court to "grant rehearing en banc and issue an immediate stay." In an order for publication, the court wrote that "en banc proceedings with respect to the panel’s order are concluded." Judge Tung wrote a dissent from the denial, joined by other circuit judges named in the order. The appeal itself remains pending.
