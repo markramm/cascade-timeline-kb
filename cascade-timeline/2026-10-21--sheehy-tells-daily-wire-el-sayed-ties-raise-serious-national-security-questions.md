@@ -58,7 +58,9 @@ sources:
 related_events:
 - 2026-10-21--rogers-posts-el-sayed-radical-ideology-threat-to-national-security-and-repeats-risk-line-in-final-debate
 - 2026-10-14--cruz-verdict-podcast-says-el-sayed-win-poses-unprecedented-national-security-risk
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 Sen. Tim Sheehy (R-MT), who sits on the Armed Services Committee, gave The Daily Wire a statement that was published in a Daily Wire article that ran on Wednesday. The article does not say when Sheehy gave it, so the date on this entry is the article's publication date. Sheehy said: "I fully support labeling the Muslim Brotherhood as a foreign terrorist organization."

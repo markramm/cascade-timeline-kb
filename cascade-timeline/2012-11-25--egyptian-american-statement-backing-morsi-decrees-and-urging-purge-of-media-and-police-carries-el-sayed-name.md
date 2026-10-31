@@ -95,7 +95,9 @@ sources:
 related_events:
 - 2026-10-25--rogers-pressed-on-meet-the-press-about-2012-reuters-quote-on-moderate-muslim-brotherhood-individuals
 - 2026-10-25--trump-calls-el-sayed-jihadist-muslim-brotherhood-member-port-huron-rally-for-rogers
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 The Egyptian daily Al-Ahram's web portal (Al-Ahram Gate) published, with a New York dateline, a statement by a group of Egyptians in the United States backing the decisions President Mohamed Morsi had issued the previous Thursday. The headline, in Arabic, says the statement endorses his decisions and calls on him to purge the media and police.

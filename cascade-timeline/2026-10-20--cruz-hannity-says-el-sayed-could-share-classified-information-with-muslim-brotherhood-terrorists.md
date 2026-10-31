@@ -90,7 +90,9 @@ related_events:
 - 2026-10-14--cruz-verdict-podcast-says-el-sayed-win-poses-unprecedented-national-security-risk
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-25--trump-calls-el-sayed-jihadist-muslim-brotherhood-member-port-huron-rally-for-rogers
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 On Fox News's "Hannity" on Tuesday, Sen. Ted Cruz (R-TX) referenced El-Sayed's recent appearance on Meet the Press, where El-Sayed denied having connections to the group, Mediaite reported. Cruz said: "I believe this man is Muslim Brotherhood."

@@ -96,7 +96,9 @@ related_events:
 - 2026-10-21--sheehy-tells-daily-wire-el-sayed-ties-raise-serious-national-security-questions
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-25--trump-calls-el-sayed-jihadist-muslim-brotherhood-member-port-huron-rally-for-rogers
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 Republican Senate nominee Mike Rogers's account (@MikeRogersForMI) posted on October 21, 2026: "Abdul El-Sayed’s radical ideology is a threat to our national security." The Daily Wire embedded the post and described it as accompanying an ad.

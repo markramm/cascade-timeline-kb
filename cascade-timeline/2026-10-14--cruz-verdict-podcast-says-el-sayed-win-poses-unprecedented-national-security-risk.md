@@ -75,7 +75,9 @@ sources:
 related_events:
 - 2026-10-25--trump-calls-el-sayed-jihadist-muslim-brotherhood-member-port-huron-rally-for-rogers
 - 2026-10-20--cruz-hannity-says-el-sayed-could-share-classified-information-with-muslim-brotherhood-terrorists
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 On his "Verdict" podcast, Sen. Ted Cruz (R-TX) said of Democratic Senate nominee Abdul El-Sayed: "If he wins, I believe that poses an unprecedented national security risk," Newsmax reported. Cruz told co-host Ben Ferguson on Wednesday that El-Sayed could be appointed to the Senate Intelligence or Armed Services committees, and "I believe if Abdul El-Sayed has access to that classified material, that it will endanger the lives of service men and women."

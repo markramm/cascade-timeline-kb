@@ -135,7 +135,9 @@ sources:
 related_events:
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-01--jindal-founded-america-next-250k-influencer-marketing-ie-against-el-sayed-breakthrough-llc
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 updates:
 - date: '2026-10-25'
   date_kind: rally date

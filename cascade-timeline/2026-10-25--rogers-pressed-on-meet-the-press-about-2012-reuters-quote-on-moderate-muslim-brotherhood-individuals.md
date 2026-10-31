@@ -129,7 +129,9 @@ related_events:
 - 2012-11-25--egyptian-american-statement-backing-morsi-decrees-and-urging-purge-of-media-and-police-carries-el-sayed-name
 - 2026-10-21--rogers-posts-el-sayed-radical-ideology-threat-to-national-security-and-repeats-risk-line-in-final-debate
 - 2026-10-25--trump-calls-el-sayed-jihadist-muslim-brotherhood-member-port-huron-rally-for-rogers
-coverage: []
+coverage:
+- url: https://theramm.transparencycascade.org/p/rogers-says-el-sayed-didnt-disavow
+  title: "Rogers Says El-Sayed Didn't Disavow the Muslim Brotherhood. Here's What El-Sayed Said, and When."
 ---
 
 On NBC's Meet the Press (transcript dated October 25, 2026), the moderator asked Mike Rogers, the Republican Senate nominee in Michigan, whether he agreed with President Trump's overnight post about Abdul El-Sayed. Rogers did not answer yes or no. He said El-Sayed wrote a letter that he described this way: “When you write a letter, supporting of Morsi in 2012 and 2013 saying you should”
