@@ -238,6 +238,96 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: October 30, 2026
+  span: By Cami Henry-Seymore October 30, 2026
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: coordinated disinformation campaign
+  span: researchers have attributed the false claims to a coordinated disinformation campaign they say appears designed to boost Republicans.
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: The tactics and narratives point to the work of Storm-1516
+  span: The tactics and narratives point to the work of Storm-1516, a Russian influence campaign
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: baselessly claimed four of Brown's former staff members accused him of abuse
+  span: Storm-1516 created what appeared to be an on-air report that baselessly claimed four of Brown’s former staff members accused him of abuse.
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: sound as though Jackson had threatened his staffers with an axe
+  span: The Storm-1516 video edited and changed the report to make it sound as though Jackson had threatened his staffers with an axe.
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: was not produced, aired, or authorized by WABI
+  span: '"It was not produced, aired, or authorized by WABI," Petry told NewsGuard.'
+  url: https://mashable.com/tech/troy-jackson-maine-senate-fake-video-axe-threat
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: fewer than 7,000 people
+  span: Linvill said on Oct. 28, fewer than 7,000 people mentioned ‘Troy Jackson’ on X. But 25% of those were talking about Russia’s narrative.
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 25%
+  span: Linvill said on Oct. 28, fewer than 7,000 people mentioned ‘Troy Jackson’ on X. But 25% of those were talking about Russia’s narrative.
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: were removed from the platform Thursday evening
+  span: A network of X accounts associated with the Russian disinformation campaign Storm-1516 were removed from the platform Thursday evening
+  url: https://weaponizedspaces.substack.com/p/x-just-nuked-a-russian-disinformation
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: uncovered evidence
+  span: I uncovered evidence that other accounts linked to this network were able to evade suspension and are still active on the platform.
+  url: https://weaponizedspaces.substack.com/p/x-just-nuked-a-russian-disinformation
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - electoral-manipulation
 - foreign-interference
@@ -279,11 +369,45 @@ sources:
   publisher: NPR
   date: '2024-10-22'
   tier: 2
+- title: Russian influence operation linked to attacks targeting Democrats in Maine, Ohio, Texas
+  url: https://politifact.com/article/2026/oct/30/russia-talarico-jackson-brown-storm-1516-senate/
+  publisher: PolitiFact
+  date: '2026-10-30'
+  tier: 1
+- title: Maine Senate candidate fake video
+  url: https://mashable.com/tech/troy-jackson-maine-senate-fake-video-axe-threat
+  publisher: Mashable
+  date: '2026-10-30'
+  tier: 2
+- title: X Just Nuked A Russian Disinformation Network Targeting Democratic Candidates
+  url: https://weaponizedspaces.substack.com/p/x-just-nuked-a-russian-disinformation
+  publisher: Weaponized
+  date: '2026-10-31'
+  tier: 2
 related_events:
 - 2026-09-21--graphika-assesses-operation-overload-and-r-fbi-produced-fake-videos-targeting-us-midterm-candidates-and-berlin-election
 - 2026-10-17--bloomberg-matryoshka-bot-network-inflates-fake-videos-targeting-democratic-candidates-20-senate-29-governor-races
 - 2026-05-26--paxton-defeats-cornyn-texas-senate-primary-trump-loyalty-enforcement-endorsement
 captured_by: manual-desk-2026-10-26
+updates:
+- date: '2026-10-30'
+  date_kind: publication date of the fact-check
+  heading: Brown, Jackson and the X accounts
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guardrails
 ---
 
 An X account created in September 2026 posted the two videos on Oct. 20 (the posting date), fabricating a sexual-abuse claim against Democratic U.S. Senate candidate James Talarico, a Texas state Rep. Graphika found the account very likely impersonating a real person of the same name, and assesses "with high confidence that the Russia-aligned influence operation Storm-1516 produced the video." Researchers say the allegation isn't real, Straight Arrow News reported; Mother Jones reports the real former student told a factchecking site he had never been abused by Talarico, and X suspended the impersonating account. Talarico is in a toss-up race against his Republican opponent, Texas Attorney General Ken Paxton.
@@ -291,3 +415,9 @@ An X account created in September 2026 posted the two videos on Oct. 20 (the pos
 NPR, which does not name the candidate, reports that two fraudulent videos targeting the Senate candidate were posted on Tuesday on X by an account created last month that had few followers, and that X publicly flagged the account as possibly using a proxy such as a virtual private network. The videos were likely created using artificial intelligence, according to Graphika; Clemson University Media Forensics Hub co-director Darren Linvill said a hallmark of Storm-1516 videos is the use of real actors whose faces are swapped using AI. The post was immediately shared by a network of 15 accounts Linvill flagged as bots. About 12 hours later, three X accounts with large followings shared one of the videos, accounts researchers said have previously amplified other Storm-1516 narratives; one of them has solicited paid partnerships on X. One of the two fake videos racked up roughly 857,000 views within 24 hours, according to an analysis by Alethea. By late on Wednesday, X had suspended the account that first posted the videos and one of the large accounts. Linvill and several other research groups attributed the videos to Storm-1516.
 
 Anonymous researchers who track Russian trolls, quoted by Straight Arrow News, called it "one of the few Storm-1516’s campaigns (so far) targeting the US midterms." The template is not new: in the run-up to the 2024 presidential election, Storm-1516 posted fraudulent videos making similar unfounded accusations against Democratic vice presidential nominee Tim Walz, and an ODNI official said then that "Russian influence actors created and amplified content alleging inappropriate activity committed by the Democratic vice presidential candidate during his earlier career." Related midterm fake-video coverage: [[2026-09-21--graphika-assesses-operation-overload-and-r-fbi-produced-fake-videos-targeting-us-midterm-candidates-and-berlin-election]], [[2026-10-17--bloomberg-matryoshka-bot-network-inflates-fake-videos-targeting-democratic-candidates-20-senate-29-governor-races]]. Talarico's opponent: [[2026-05-26--paxton-defeats-cornyn-texas-senate-primary-trump-loyalty-enforcement-endorsement]].
+
+## Update (2026-10-30, publication date of the fact-check): Brown, Jackson and the X accounts
+
+PolitiFact reported on October 30, 2026, that researchers attribute false claims against Democrats Rep. James Talarico, Sherrod Brown and Troy Jackson to a coordinated disinformation campaign, and that "The tactics and narratives point to the work of Storm-1516." It reports that a manipulated local TV news report "baselessly claimed four of Brown's former staff members accused him of abuse," and that an altered WABI-TV report made it "sound as though Jackson had threatened his staffers with an axe." Mashable reports that WABI's vice president said the video "was not produced, aired, or authorized by WABI." A Clemson researcher told PolitiFact that on Oct. 28, "fewer than 7,000 people" mentioned Jackson on X, and 25% of them were talking about the narrative.
+
+The Weaponized newsletter reports that accounts associated with the network "were removed from the platform Thursday evening," and that it "uncovered evidence" others are still active.
