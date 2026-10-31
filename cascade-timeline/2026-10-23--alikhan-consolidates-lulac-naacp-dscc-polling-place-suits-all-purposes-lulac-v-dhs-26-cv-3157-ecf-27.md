@@ -197,6 +197,51 @@ claims:
   id: u11
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: October 30, 2026
+  span: The parties met and conferred (remotely) at two times today, October 30, 2026 – at 1:30 p.m. and 4:45 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: at 1:30 p.m. and 4:45 p.m.
+  span: The parties met and conferred (remotely) at two times today, October 30, 2026 – at 1:30 p.m. and 4:45 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: Document 49
+  span: Case 1:26-cv-03263-LLA Document 49 Filed 10/30/26 Page 1 of 8
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: maintain that Defendants have failed to produce responsive materials
+  span: Plaintiffs maintain that Defendants have failed to produce responsive materials for
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: it has complied with this Court's Expedited Discovery Order
+  span: as the government maintains that it has complied with this Court’s Expedited Discovery Order.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-capture
 - polling-places
@@ -229,6 +274,11 @@ sources:
 - title: ECF 48-4, Oct. 28 email exhibit
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.4.pdf
   tier: 1
+- title: Joint Motion Requesting Status Conference, ECF 49, NAACP v. DHS, No. 1:26-cv-03263 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  publisher: U.S. District Court for the District of Columbia (via RECAP)
+  date: '2026-10-30'
+  tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -260,6 +310,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: After conferring twice, the parties still dispute production and file for a status conference
+  claims:
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  event_date_claim: u12
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -273,3 +336,7 @@ In a corrected joint status report filed 10/30/26, the parties dispute the exped
 ## Update (2026-10-30, filing date): DHS calls an August "Voter Fraud Surge" email its "best guess" at the guidance CNN reported
 
 An exhibit to the corrected joint status report filed 10/30/26 shows a government lawyer telling plaintiffs that an August 28 email with the subject line "Voter Fraud Surge - Broadcast Message Request" is DHS's "best guess" at the internal guidance CNN reported. The email itself is not on the docket.
+
+## Update (2026-10-30, filing date): After conferring twice, the parties still dispute production and file for a status conference
+
+In a joint motion dated October 30, 2026 (Document 49), the parties say they conferred "at 1:30 p.m. and 4:45 p.m." Plaintiffs "maintain that Defendants have failed to produce responsive materials." The government says "it has complied with this Court's Expedited Discovery Order" and disputes the need for a conference. These are each side's positions.

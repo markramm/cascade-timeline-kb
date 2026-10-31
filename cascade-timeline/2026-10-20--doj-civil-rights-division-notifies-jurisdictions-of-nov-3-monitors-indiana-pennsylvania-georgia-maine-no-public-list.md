@@ -245,6 +245,33 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: October 31, 2026
+  span: by Maria Gardner Lara October 31, 2026
+  url: https://www.illinoistimes.com/news/federal-agents-expected-at-polling-places-in-sangamon-county/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: will monitor 19 polling sites in the county
+  span: Civil Rights Division of the U.S. Department of Justice will monitor 19 polling sites in the county.
+  url: https://www.illinoistimes.com/news/federal-agents-expected-at-polling-places-in-sangamon-county/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: This is just the first time they've come to us
+  span: “This is just the first time they’ve come to us,”
+  url: https://www.illinoistimes.com/news/federal-agents-expected-at-polling-places-in-sangamon-county/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-10-31'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -310,6 +337,11 @@ sources:
   publisher: Butler Eagle
   date: '2026-10-30'
   tier: 2
+- title: Federal agents expected at polling places in Sangamon County
+  url: https://www.illinoistimes.com/news/federal-agents-expected-at-polling-places-in-sangamon-county/
+  publisher: Illinois Times
+  date: '2026-10-31'
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -329,6 +361,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-31'
+  date_kind: publication date of the local report
+  heading: 'Sangamon County, Illinois: 19 polling sites'
+  claims:
+  - u8
+  - u9
+  - u10
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -345,3 +388,7 @@ Open: DOJ's own list of jurisdictions. Earlier plan: [[2026-08-17--dhillon-plans
 ## Update (2026-10-29, publication date of the local reports): Clark County, Nevada; Wake, Alamance and Mecklenburg, North Carolina; Lowell and Boston, Massachusetts; Manchester and Nashua, New Hampshire
 
 KOLO reports that the Justice Department notified Nevada's secretary of state and that DOJ observers will be in Clark County on Election Day. NC Newsline reports, citing the state Board of Elections, that monitors will be in Wake, Alamance, and Mecklenburg counties. NBC Boston reports that federal monitors are expected in Lowell and Boston, as well as in Manchester and Nashua, New Hampshire. In Butler County, Pennsylvania, the local paper quotes the elections bureau director: "We are not a county that has been alerted it is going to be monitored." None of these reports says which agencies the monitors come from, and none cites a DOJ release for the locations.
+
+## Update (2026-10-31, publication date of the local report): Sangamon County, Illinois: 19 polling sites
+
+Sangamon County Clerk Don Gray said his office was told that representatives of DOJ's Civil Rights Division "will monitor 19 polling sites in the county," the Illinois Times reported on October 31, 2026. "This is just the first time they've come to us," Clerk Gray said.

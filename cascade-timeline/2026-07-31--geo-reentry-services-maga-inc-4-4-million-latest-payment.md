@@ -31,6 +31,11 @@ sources:
   publisher: SEC EDGAR
   date: '2026-02-25'
   tier: 1
+- title: ICE detention center owner gives another $1 million to pro-Trump MAGA Inc.
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  publisher: Scripps News
+  date: '2026-10-30'
+  tier: 2
 verification: captured
 claims:
 - type: date
@@ -123,9 +128,82 @@ claims:
   read: fetched
   outcome: unreachable
   checked: '2026-10-17'
+- type: date
+  value: Sept. 1
+  span: A new filing at the Federal Election Commission shows the donation was made Sept. 1.
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: donated another $1 million to MAGA Inc.
+  span: a subsidiary of the GEO Group with the same corporate address, donated another $1 million to MAGA Inc.
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: $5.4 million
+  span: shows the GEO Group subsidiary has now contributed $5.4 million to MAGA Inc., part of $7.2 million given to conservative and Republican campaign committees
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: part of $7.2 million
+  span: shows the GEO Group subsidiary has now contributed $5.4 million to MAGA Inc., part of $7.2 million given to conservative and Republican campaign committees
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: $150,000
+  span: That total includes another $150,000 donated to the Senate Leadership Fund
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: a new $1.5 billion deal
+  span: including a new $1.5 billion deal to keep operating an ICE detention center in Tacoma, Washington
+  url: https://www.scrippsnews.com/investigations/ice-inc/ice-detention-center-owner-gives-another-1-million-to-pro-trump-maga-inc
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-10-31'
 event_date_claim: c1
+updates:
+- date: '2026-09-01'
+  date_kind: donation date, per a new FEC filing as reported
+  heading: 'Scripps News: another $1 million on Sept. 1 brings the subsidiary to $5.4 million'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: detention-expansion
 ---
 
 GEO Reentry Services LLC, a subsidiary of The GEO Group, has contributed $4.4 million to MAGA Inc., a super PAC supporting President Trump, according to a Scripps News review of FEC records. Prison Legal News reports a $1 million payment dated July 16, 2026, three days after GEO announced a contract for a Hudson, Colorado facility, and a further $413,000 on July 31. The subsidiary appears in the subsidiary list in GEO's annual report to the SEC for 2025. Our recompute from the FEC itemized-receipt bulk file lists the individual payments and reaches the same total. The timing is a sequence the filings do not explain, not a shown cause.
 
 Related canon: [[2026-07-09--geo-group-529m-hudson-colorado-big-horn-detention-contract]].
+
+## Update (2026-09-01, donation date, per a new FEC filing as reported): Scripps News: another $1 million on Sept. 1 brings the subsidiary to $5.4 million
+
+Scripps News reports that GEO Reentry Services "donated another $1 million to MAGA Inc.," made Sept. 1 according to a new FEC filing. Its review of FEC records puts the subsidiary at $5.4 million to MAGA Inc., "part of $7.2 million" given to conservative and Republican committees, including $150,000 to the Senate Leadership Fund. It also reports "a new $1.5 billion deal" to keep operating the ICE detention center in Tacoma.

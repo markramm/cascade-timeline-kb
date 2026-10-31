@@ -73,6 +73,42 @@ claims:
   read: fetched
   source_kind: primary
   id: d2
+- type: date
+  value: 10/31/26
+  span: Case 1:26-cv-03602-TSC Document 25 Filed 10/31/26 Page 1 of 39
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.25.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: Document 25
+  span: Case 1:26-cv-03602-TSC Document 25 Filed 10/31/26 Page 1 of 39
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.25.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Fail To Establish Final Agency Action Reviewable Under the APA
+  span: A. Plaintiffs Fail To Establish Final Agency Action Reviewable Under the APA.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.25.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: the letter itself does not segregate ballots
+  span: After all, the letter itself does not segregate ballots
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.25.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-capture
 - midterms-2026
@@ -95,7 +131,29 @@ sources:
 - title: ECF 20 objection
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.20.0.pdf
   tier: 1
+- title: Corrected Memorandum in Opposition, ECF 25, LWV v. DHS, No. 1:26-cv-03602 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.25.0.pdf
+  publisher: U.S. District Court for the District of Columbia (via RECAP)
+  date: '2026-10-31'
+  tier: 1
 related_events: []
+updates:
+- date: '2026-10-31'
+  date_kind: filing date
+  heading: The government's opposition to the TRO
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 EPIC and LULAC moved on October 29 for a TRO, a stay or a preliminary injunction against what they call DHS's Voter Data Transmission Policy. A docket notice sets a hearing before Judge Tanya S. Chutkan for 10/31/2026 at 1:00 PM; it has not happened. Her minute order requires the government's opposition by 9:00am on October 31. The plaintiffs' status report says they offered schedule concessions if the government agreed it "would not send lists of voters to states and localities" until the motion is decided, and that the government "have yet to respond" as of its filing. In a notice filed 10/30/26, the government listed the case as among related cases before Chief Judge Boasberg; the plaintiffs objected, calling theirs a "Privacy Act challenge." These are the parties' positions; the court has not ruled.
+
+## Update (2026-10-31, filing date): The government's opposition to the TRO
+
+In a corrected memorandum filed 10/31/26 (Document 25), the government argues that plaintiffs "Fail To Establish Final Agency Action Reviewable Under the APA." It says "the letter itself does not segregate ballots." These are the government's arguments.
