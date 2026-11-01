@@ -228,6 +228,69 @@ claims:
   id: u20
   outcome: unreachable
   checked: '2026-10-31'
+- type: date
+  value: Saturday
+  span: More than 4 in 10 names flagged as possible noncitizen voters in California by the Trump administration cannot be found on the state's voter rolls, according to a legal filing Saturday by an immigrant-rights group.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u21
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 8,880
+  span: The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone in California's current voter file.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u22
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 42%
+  span: The research found that 8,880 of the names, representing 42% of the entire list, do not correspond to anyone in California's current voter file.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u23
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 20,930
+  span: They analyzed the 20,930 names that the department demanded that California election officials treat as possible illegal voters by separating their ballots during the vote count on Election Day.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u24
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: two members of UCLA's Voting Rights Project
+  span: It describes an analysis by two members of UCLA's Voting Rights Project, who filed a lawsuit challenging it with the Los Angeles-based Coalition for Humane Immigrant Rights, or CHIRLA.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u25
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: ordered the Trump administration to share the list
+  span: Saturday's broader analysis was possible because a federal judge on Friday ordered the Trump administration to share the list with the plaintiffs in the case.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u26
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: bogus
+  span: “This is a bogus report by the activist illegal immigrant rights group CHIRLA," Bill Essayli, who runs the U.S. Attorney's office in Los Angeles, posted on X.
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  read: fetched
+  source_kind: secondary
+  id: u27
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-capture
 - dhs
@@ -260,6 +323,11 @@ sources:
   publisher: U.S. District Court for the District of Columbia (via RECAP)
   date: '2026-10-30'
   tier: 1
+- title: Over 40% of names on DOJ list of alleged noncitizens are not on Calif. voter rolls, analysis finds (AP via ABC News)
+  url: https://abcnews.com/Politics/wireStory/40-names-doj-list-alleged-noncitizens-californias-voter-137737426
+  publisher: The Associated Press via ABC News
+  date: '2026-10-31'
+  tier: 2
 related_events:
 - 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
 - 2026-10-16--sooknanan-rejects-lwv-v-dhs-voter-data-suit-as-related-to-trujillo-reassigned-to-chutkan
@@ -311,6 +379,21 @@ updates:
   verification: captured
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-10-31'
+  date_kind: filing date, as reported
+  heading: Plaintiffs' experts say 42% of DOJ's California list is not on the state's voter file
+  claims:
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  - u27
+  event_date_claim: u21
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -328,3 +411,14 @@ On October 30, 2026, the government moved (Document 41) "for a stay pending mand
 ## Update (2026-10-30, order date (minute order)): The stay motion is withdrawn; Boasberg limits the list to plaintiffs' legal team
 
 In a further minute order on October 30, 2026, after a telephone conference, Chief Judge Boasberg ordered that the list "may not be disseminated outside of Plaintiffs' legal team" and that plaintiffs "shall neither disclose names on the list to anyone nor inform any person that his or her name is on the list." Public filings must redact names, and for now plaintiffs may use it "in relation to their standing arguments only." The order records: "The 41 Motion to Stay is withdrawn."
+
+## Update (2026-10-31, filing date, as reported): Plaintiffs' experts say 42% of DOJ's California list is not on the state's voter file
+
+The AP reported that a filing Saturday by the Coalition for Humane Immigrant Rights said 8,880 of the 20,930 names, or 42%, do not correspond to anyone in California's current voter file. The analysis is by two members of UCLA's Voting Rights Project, who sued with the group, so it is a party's expert report. It came after a judge ordered the list shared with the plaintiffs. Bill Essayli, who runs the U.S. Attorney's office in Los Angeles, called it "bogus."
+
+## Update (2026-10-31, filing date): The filing itself: what the 42% does and does not say
+
+Read directly by OCR from Dkt. 43 and Exhibit 17 (Dkt. 43-1); hand update, because these are scans the sourcing gate can't read. The Barreto and Rios declaration says that of 20,930 names, 4,350 fully matched the voter file on name, exact address and date of birth, a further 7,700 matched without address, and "8,880 names — or 42% — on the DOJ list were not anywhere to be found on the current California voter file." The three figures sum to 20,930.
+
+Three limits. The declarants say matching "could have been more precise" had the voter ID number been included, and that this field and 20 others were "reduced" in the file; they also say the file they received "does not appear to be the identical file" given to Los Angeles County. Their 22 are "entries on the CHIRLA citizen list that fully match," from the plaintiff's own member and client list. And the 3,743, 7,486 and 348,238 figures are stated as "extrapolating" that match rate to 3.8 million naturalized voters. They are projections, not people identified. A name absent from the file is not shown here to be a citizen or a noncitizen. The declarants are the plaintiffs' experts; the government's response had not been read when this was written.
+
