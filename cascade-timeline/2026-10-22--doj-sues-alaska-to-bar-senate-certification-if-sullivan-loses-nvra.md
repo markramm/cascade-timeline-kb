@@ -1377,6 +1377,33 @@ claims:
   id: u140
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: NOV 1 2026
+  span: FILED NOV 1 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS DOCKETING NOTICE
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.2.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u141
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 26-7304
+  span: 'Docket Number: 26-7304 Originating Case Number: 3:26-cv-00376-SLG'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.2.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u142
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: separately file
+  span: Motions filed with the notice of appeal are not transferred to this court. You need to separately file on this court’s docket any motion that seeks relief from this court.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.2.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u143
+  outcome: verified
+  checked: '2026-11-01'
 tags:
   - election-2026
   - certification
@@ -1546,6 +1573,11 @@ sources:
   - title: Notice of appeal by the United States, D. Alaska 3:26-cv-00376, docket entry 81
     url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
     publisher: U.S. District Court D. Alaska, via CourtListener RECAP
+    date: '2026-11-01'
+    tier: 1
+  - title: Docketing notice, No. 26-7304, Ninth Circuit
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.2.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit, via CourtListener RECAP
     date: '2026-11-01'
     tier: 1
 coverage:
@@ -1846,6 +1878,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-01'
+  date_kind: docketing date
+  heading: The Ninth Circuit dockets the appeal as No. 26-7304
+  claims:
+  - u141
+  - u142
+  - u143
+  event_date_claim: u141
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1931,3 +1974,7 @@ A DOJ spokesperson told NPR the department is planning to appeal the dismissal. 
 ## Update (2026-11-01, filing date): The United States files its notice of appeal
 
 The government's filing, ECF 81, is captioned as its notice of appeal, is dated November 1, 2026, and states its "intent to appeal the Orders dismissing this action at docket 79 and 80."
+
+## Update (2026-11-01, docketing date): The Ninth Circuit dockets the appeal as No. 26-7304
+
+The Ninth Circuit docketed the appeal on November 1, 2026 as No. 26-7304. Its docketing notice says motions filed with the notice of appeal are not transferred and that any motion seeking relief must be filed separately on the appeals court's docket.
