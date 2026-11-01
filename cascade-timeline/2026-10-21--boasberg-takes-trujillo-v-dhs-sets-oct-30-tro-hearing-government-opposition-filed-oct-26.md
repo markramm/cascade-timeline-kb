@@ -363,6 +363,60 @@ claims:
   id: u35
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: 11/01/26
+  span: Case 1:26-cv-03072-JEB Document 44 Filed 11/01/26 Page 1 of 12
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u36
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Despite now having a third court-granted opportunity to shore up its deficient standing,
+  span: Despite now having a third court-granted opportunity to shore up its deficient standing, CHIRLA still fails to meet its necessary jurisdictional burden.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: still fails to meet its necessary jurisdictional burden.
+  span: Despite now having a third court-granted opportunity to shore up its deficient standing, CHIRLA still fails to meet its necessary jurisdictional burden.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: unilateral submission of an ex parte,
+  span: As an initial matter, Defendants object to Plaintiffs’ unilateral submission of an ex parte, in camera “Table of CHIRLA entries matched to DHS list,” ECF No. 43-1 App’x A.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Table of CHIRLA entries matched to DHS list,
+  span: As an initial matter, Defendants object to Plaintiffs’ unilateral submission of an ex parte, in camera “Table of CHIRLA entries matched to DHS list,” ECF No. 43-1 App’x A.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: be compelled to immediately provide Defendants with the list of alleged matches
+  span: Plaintiffs should be compelled to immediately provide Defendants with the list of alleged matches, as well as information about the individuals’ membership.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-capture
 - dhs
@@ -403,6 +457,11 @@ sources:
 - title: Defendants' Motion to Strike and to Order Plaintiffs to Show Cause, ECF 45
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
   publisher: U.S. District Court D.D.C., via CourtListener RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: Defendants' Response to Plaintiffs' Supplemental Brief Regarding Standing, Document 44, Coalition for Humane Immigrant Rights v. DHS, 1:26-cv-3072 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
+  publisher: CourtListener RECAP
   date: '2026-11-01'
   tier: 1
 related_events:
@@ -495,6 +554,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: Government tells Boasberg CHIRLA still has not shown standing and objects to an ex parte, in camera table
+  claims:
+  - u36
+  - u37
+  - u38
+  - u39
+  - u40
+  - u41
+  event_date_claim: u36
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -530,3 +603,7 @@ The government moved to strike part of the plaintiffs' expert declaration and fo
 ## Update (2026-11-01, filing date): The motion also asks for sanctions and raises a criminal contempt referral
 
 The same motion says the court should impose civil sanctions, for example "dismissing Plaintiffs’ complaint", and should also consider referring the matter to the Department of Justice for investigation into "possible criminal contempt by Plaintiffs and their counsel". The government's filing says plaintiffs' counsel oppose. No ruling was on the docket read.
+
+## Update (2026-11-01, filing date): Government tells Boasberg CHIRLA still has not shown standing and objects to an ex parte, in camera table
+
+In its response to plaintiffs' supplemental standing brief, filed 11/01/26, the government says that "Despite now having a third court-granted opportunity to shore up its deficient standing," CHIRLA "still fails to meet its necessary jurisdictional burden." It objects to plaintiffs' "unilateral submission of an ex parte," in camera "Table of CHIRLA entries matched to DHS list," and asks that plaintiffs "be compelled to immediately provide Defendants with the list of alleged matches." These are the government's arguments in a brief, not findings. The document is the government's response only; plaintiffs' supplemental brief and its appendix were not read for this update.
