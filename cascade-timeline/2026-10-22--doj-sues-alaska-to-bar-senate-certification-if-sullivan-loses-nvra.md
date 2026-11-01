@@ -1323,6 +1323,24 @@ claims:
   id: u134
   outcome: verified
   checked: '2026-11-01'
+- type: quote
+  value: planning to appeal
+  span: The Justice Department is planning to appeal, spokesperson Kiersten Pels told NPR in a statement.
+  url: https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan
+  read: fetched
+  source_kind: news
+  id: u135
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Sunday
+  span: In an interview Sunday with CNN's State of the Union, incumbent Sullivan said that he would accept the election results, win or lose.
+  url: https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan
+  read: fetched
+  source_kind: news
+  id: u136
+  outcome: verified
+  checked: '2026-11-01'
 tags:
   - election-2026
   - certification
@@ -1484,6 +1502,11 @@ sources:
     publisher: U.S. District Court D. Alaska, via CourtListener RECAP
     date: '2026-11-01'
     tier: 1
+  - title: NPR on the dismissal of DOJ's Alaska suit
+    url: https://www.npr.org/2026/11/01/nx-s1-6023766/doj-alaska-lawsuit-senate-race-dan-sullivan
+    publisher: NPR
+    date: '2026-11-01'
+    tier: 2
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -1760,6 +1783,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-01'
+  date_kind: statement and interview date
+  heading: DOJ says it plans to appeal; Sen. Sullivan says he would accept the results
+  claims:
+  - u135
+  - u136
+  event_date_claim: u136
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1837,3 +1870,7 @@ Judge Sharon Gleason granted the motions to intervene of Alaskans for Mary and t
 ## Update (2026-11-01, order date): Judge Gleason dismisses DOJ's amended complaint for lack of standing
 
 Judge Sharon Gleason dismissed the United States' amended complaint without prejudice, and judgment was entered. She found the United States failed to show its alleged injury is redressable by a court order. Requiring ballots cast for candidate Daniel J. Sullivan to be segregated so voters can be investigated, she wrote, "is not a remedy that this Court can or should order". The order also says the ballots "will be preserved for 22 months after the election pursuant to Alaska law", and that the Purcell principle "strongly cautions the Court against granting the relief" DOJ seeks.
+
+## Update (2026-11-01, statement and interview date): DOJ says it plans to appeal; Sen. Sullivan says he would accept the results
+
+A DOJ spokesperson told NPR the department is planning to appeal the dismissal. In an interview Sunday on CNN's State of the Union, incumbent Sen. Dan S. Sullivan said he would accept the election results, win or lose.
