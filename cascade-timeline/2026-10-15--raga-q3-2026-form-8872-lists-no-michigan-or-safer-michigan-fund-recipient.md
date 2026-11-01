@@ -27,6 +27,11 @@ sources:
     publisher: "IRS Political Organization Filing and Disclosure, posted 10/15/2026"
     date: '2026-10-15'
     tier: 1
+  - title: RAGA doubles down on Michigan, showcasing two new ads
+    url: https://republicanags.com/2026/09/25/republican-attorneys-general-doubles-down-on-michigan-showcasing-two-new-ads/
+    publisher: Republican Attorneys General Association
+    date: '2026-09-25'
+    tier: 1
 claims:
   - {id: c1, type: date, value: "10/15/2026", qualifier: "Piper", span: "Purpose of expenditure DIRECT MAIL Adam Piper 10/15/2026", url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872", read: fetched, source_kind: primary}
   - {id: c2, type: date, value: "07/01/2026", qualifier: "beginning", span: "A For the period beginning 07/01/2026", url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872", read: fetched, source_kind: primary}
@@ -36,8 +41,37 @@ claims:
   - {id: c6, type: figure, value: "$1,012,100", qualifier: "MEDIUM BUYING", span: "MEDIUM BUYING 1100 DENNISON AVEUNIT B OH, COLUMBUS 43215 Name of recipient's employer N/A Recipients's occupation N/A Amount of Expenditure $1,012,100 Date of expenditure 09/25/2026 Purpose of expenditure MEDIA", url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872", read: fetched, source_kind: primary}
   - {id: c7, type: figure, value: "$1,100,000", qualifier: "BIRD FOR IOWA", span: "BIRD FOR IOWA PO BOX 7 IA, DEXTER 50070 Name of recipient's employer N/A Recipients's occupation N/A Amount of Expenditure $1,100,000 Date of expenditure 09/18/2026 Purpose of expenditure CONTRIBUTION", url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872", read: fetched, source_kind: primary}
   - {id: c8, type: quote, value: "nearly $7 million political spend across 13 states in August", qualifier: "nearly", span: "This ad comes from RAGA’s nearly $7 million political spend across 13 states in August", url: "http://republicanags.com/2026/08/27/republican-attorneys-general-association-highlights-new-ad-to-stop-michigan-mamdani/", read: fetched, source_kind: primary}
+  - type: quote
+    value: from its affiliated group, Safer Michigan Fund
+    span: The Republican Attorneys General Association (RAGA) today showcased two ads, “ Doug Lloyd Tough On Crime ” and “ Eli Savit Dangerously Liberal on Crime ,” from its affiliated group, Safer Michigan Fund, committed to electing conservative attorneys general and a safer Michigan.
+    url: https://republicanags.com/2026/09/25/republican-attorneys-general-doubles-down-on-michigan-showcasing-two-new-ads/
+    read: fetched
+    source_kind: primary
+    id: u1
+    outcome: verified
+    checked: '2026-10-31'
+  - type: quote
+    value: stopped prosecuting consensual sex work and certain entheogenic plant offenses
+    span: Under Savit, his office stopped prosecuting consensual sex work and certain entheogenic plant offenses, while he backed no-cash-bail policies.
+    url: https://republicanags.com/2026/09/25/republican-attorneys-general-doubles-down-on-michigan-showcasing-two-new-ads/
+    read: fetched
+    source_kind: primary
+    id: u2
+    outcome: verified
+    checked: '2026-10-31'
 event_date_claim: c1
 date_is_publication_date: true
+updates:
+- date: '2026-09-25'
+  date_kind: RAGA press release date
+  heading: RAGA names Safer Michigan Fund as the source of its Michigan ads
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: raga-safer-michigan-fund
 ---
 
 The Republican Attorneys General Association's third-quarter IRS political-organization filing for 07/01/2026 through 09/30/2026 is signed 10/15/2026, with $9,398,063 in contributions and $17,364,546 in expenditures. No itemized expenditure line goes to Safer Michigan Fund. Recipient lines include $1,100,000 to BIRD FOR IOWA, and $1,012,100 to MEDIUM BUYING for MEDIA.
@@ -50,3 +84,6 @@ This entry describes RAGA's third-quarter IRS filing, which covers activity thro
 
 Read from the state's tab-delimited exports. The sourcing gate cannot read spans inside a zipped file, so this update was checked by hand against a fresh download rather than through the gate.
 
+## Update (2026-09-25, RAGA press release date): RAGA names Safer Michigan Fund as the source of its Michigan ads
+
+RAGA's release said Michigan ads came "from its affiliated group, Safer Michigan Fund". It said that under Savit his office "stopped prosecuting consensual sex work and certain entheogenic plant offenses".
