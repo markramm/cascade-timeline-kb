@@ -29,11 +29,56 @@ sources:
     publisher: Windsor-Detroit Bridge Authority / Housing, Infrastructure and Communities Canada
     date: '2026-07-10'
     tier: 1
+  - title: Mike Rogers ties bridge opening to Canadian tariffs on Chinese cars (Detroit News, via AOL)
+    url: https://www.aol.com/articles/mike-rogers-ties-bridge-opening-194448703.html
+    publisher: The Detroit News via AOL
+    date: '2026-06-22'
+    tier: 2
 capture_lanes:
   - Systematic Corruption
   - Corporate Capture
   - Financial Capture
 coverage: []
+claims:
+- type: date
+  value: Monday
+  span: '"I would use that leverage," Rogers told The Detroit News on Monday.'
+  url: https://www.aol.com/articles/mike-rogers-ties-bridge-opening-194448703.html
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: I would use that leverage
+  span: '"I would use that leverage," Rogers told The Detroit News on Monday.'
+  url: https://www.aol.com/articles/mike-rogers-ties-bridge-opening-194448703.html
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: he could have a conversation with Trump about it
+  span: Rogers said he could get the Gordie Howe bridge open because, unlike Michigan's two Democratic senators, he could have a conversation with Trump about it.
+  url: https://www.aol.com/articles/mike-rogers-ties-bridge-opening-194448703.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+updates:
+- date: '2026-06-22'
+  date_kind: statement date (interview with The Detroit News, run the same day)
+  heading: Mike Rogers tells The Detroit News "I would use that leverage" on the bridge opening
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: gordie-howe-bridge-rogers
 ---
 
 ## Opening paragraph
@@ -65,3 +110,7 @@ This event closes the specific "will Trump block the bridge" question raised by 
 
 - [[2026-02-20--ambassador-bridge-owner-1m-maga-donation-gordie-howe-attack]]
 - [[detroit-international-bridge-company]]
+
+## Update (2026-06-22, statement date (interview with The Detroit News, run the same day)): Mike Rogers tells The Detroit News "I would use that leverage" on the bridge opening
+
+On Monday, Republican Senate candidate Mike Rogers told The Detroit News "I would use that leverage" on the question of the bridge's opening. He said he could have a conversation with Trump about it.
