@@ -154,6 +154,42 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-13'
+- type: date
+  value: October 29, 2026
+  span: PJM Files Amended Reliability Backstop Proposal One-Time Procurement Aims to Backfill Updated Capacity Shortfall for 2028/2029 Delivery Year October 29, 2026
+  url: https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: filed an amended proposal to FERC with the goal of commencing a Reliability Backstop Procurement on March 1, 2027.
+  span: PJM filed an amended proposal to FERC with the goal of commencing a Reliability Backstop Procurement on March 1, 2027.
+  url: https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: will be based on Large Load growth between the actual summer peak load in 2026 and the forecast for the 2028/2029 Delivery Year.
+  span: PJM now proposes that cost allocation to load serving entities will be based on Large Load growth between the actual summer peak load in 2026 and the forecast for the 2028/2029 Delivery Year.
+  url: https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: modifications to three elements of the original filing
+  span: 'Central to Thursday’s filing are modifications to three elements of the original filing: the method for determining the cost allocation for Reliability Backstop charges, LSE credit requirements and LSE exit responsibilities.'
+  url: https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - data-centers
 - pjm
@@ -180,6 +216,11 @@ sources:
   url: https://utilitydive.com/news/pjm-delays-backstop-procurement-ferc-data-center/831751
   publisher: Utility Dive
   date: '2026-09-30'
+  tier: 1
+- title: PJM Files Amended Reliability Backstop Proposal (PJM Inside Lines)
+  url: https://insidelines.pjm.com/pjm-files-amended-reliability-backstop-proposal/
+  publisher: PJM Inside Lines
+  date: '2026-10-29'
   tier: 1
 corrections:
 - date: '2026-10-13'
@@ -212,6 +253,19 @@ corrections:
   now: 'Cut: the order is 196 FERC ¶ 61,245, Docket Nos. ER26-3380-000 and EL26-108-000, and is now the source.'
   why: FERC, PJM Interconnection, L.L.C., 196 FERC ¶ 61,245 (Sept. 29, 2026), Docket Nos. ER26-3380-000 and EL26-108-000, order text at https://www.pjm.com/pjmfiles/directory/etariff/FercOrders/9154/20260929-er26-3380-000.pdf
   found_by: "editorial verification, 2026-10-13"
+updates:
+- date: '2026-10-29'
+  date_kind: announcement date (PJM's own news post on its filing)
+  heading: PJM files an amended backstop proposal with FERC, targeting a March 1, 2027 start
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: datacenter-ferc-pjm
 ---
 
 On September 29, 2026 the Federal Energy Regulatory Commission issued its order in PJM Interconnection, L.L.C., 196 FERC ¶ 61,245, Docket Nos. ER26-3380-000 and EL26-108-000. The order says: "we accept the proposed RBP for filing, suspend it for five months, effective February 28, 2027, subject to refund, and establish a paper hearing." It describes the Reliability Backstop Procurement (RBP) as a "one-time procurement of new capacity" for resource adequacy challenges driven by an influx of large loads, and records PJM's statement that the RBP aims to procure capacity equal to the 6,831 MW shortfall in the 2028/2029 base residual auction.
@@ -221,3 +275,7 @@ The Commission finds that "certain aspects of PJM’s proposal are just and reas
 Northern Virginia Electric Cooperative (NOVEC) is a protester, not a finding: the order summarises NOVEC's argument that its highest possible collateral requirement, estimated at about $1.95 billion, would exceed its total assets, and that it is uncertain whether it could secure $2 billion in collateral.
 
 Chairman Laura Swett wrote in a concurring statement: "This Commission will not be forced into accepting a deeply flawed, eleventh-hour procurement mechanism with billion-dollar implications for consumers." Chairman Swett and Commissioners Rosner, See and LaCerte each concur with a separate statement, and the order attaches no dissent. Related canon: [[2025-11-01--pjm-capacity-auction-record-data-center-40-percent-costs]].
+
+## Update (2026-10-29, announcement date (PJM's own news post on its filing)): PJM files an amended backstop proposal with FERC, targeting a March 1, 2027 start
+
+PJM's own news site says PJM "filed an amended proposal to FERC with the goal of commencing a Reliability Backstop Procurement on March 1, 2027." It describes "modifications to three elements of the original filing" (cost allocation, load-serving-entity credit requirements and exit responsibilities), and says cost allocation "will be based on Large Load growth between the actual summer peak load in 2026 and the forecast for the 2028/2029 Delivery Year." This is PJM's description of its own filing; the filing itself was not read and FERC has not acted on it.
