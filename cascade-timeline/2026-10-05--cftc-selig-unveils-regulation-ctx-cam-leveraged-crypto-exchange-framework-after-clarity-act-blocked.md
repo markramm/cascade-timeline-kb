@@ -68,6 +68,33 @@ claims:
     source_kind: secondary
     outcome: verified
     checked: '2026-10-13'
+  - type: date
+    value: 10/13/2026
+    span: A Proposed Rule by the Commodity Futures Trading Commission on 10/13/2026
+    url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+    read: fetched
+    source_kind: primary
+    id: u1
+    outcome: verified
+    checked: '2026-10-31'
+  - type: quote
+    value: is issuing an advanced notice of proposed rulemaking
+    span: The Commodity Futures Trading Commission (“Commission” or “CFTC”) is issuing an advanced notice of proposed rulemaking regarding section 2(c)(2)(D) of the Commodity Exchange Act (“CEA” or “Act”) to provide notice and seek public comment on its intent to develop and establish fit-for-purpose rules implementing section 2(c)(2)(D) of the Act with respect to transactions and markets in crypto assets.
+    url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+    read: fetched
+    source_kind: primary
+    id: u2
+    outcome: verified
+    checked: '2026-10-31'
+  - type: quote
+    value: Comments must be received on or before December 14, 2026.
+    span: Comments must be received on or before December 14, 2026.
+    url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+    read: fetched
+    source_kind: primary
+    id: u3
+    outcome: verified
+    checked: '2026-10-31'
 tags:
   - crypto
   - cftc
@@ -87,8 +114,29 @@ sources:
     publisher: Sumsub
     date: '2026-10-06'
     tier: 2
+  - title: Regulation Crypto Asset Transactions and Regulation Crypto Asset Markets
+    url: https://www.federalregister.gov/documents/2026/10/13/2026-20888/regulation-crypto-asset-transactions-and-regulation-crypto-asset-markets
+    publisher: Federal Register
+    date: '2026-10-13'
+    tier: 1
+updates:
+- date: '2026-10-13'
+  date_kind: Federal Register publication date
+  heading: Federal Register publication and comment deadline
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: crypto-regulators
 ---
 
-Speaking at Fordham Law's Blockchain Regulatory Symposium on October 5, CFTC Chair Michael Selig said the agency would use its existing powers to deliver a crypto market structure "with or without legislation". Bloomberg reports the Commodity Futures Trading Commission unveiled a proposal Monday to regulate digital asset transactions and markets, with public comment for 60 days. Sumsub describes it as an advance notice of proposed rulemaking on Regulation CTX and Regulation CAM, and says the framework would not extend to ordinary spot crypto exchanges.
+Speaking at Fordham Law's Blockchain Regulatory Symposium on October 5, CFTC Chair Michael Selig said the agency would use its existing powers to deliver a crypto market structure "with or without legislation". Bloomberg reported that the Commodity Futures Trading Commission unveiled a proposal Monday to regulate digital asset transactions and markets, with public comment for 60 days. The instrument is an advance notice of proposed rulemaking on Regulation CTX and Regulation CAM, which comes before any proposed rule (see the update below). Sumsub says the framework would not extend to ordinary spot crypto exchanges.
 
 The legislative failure it responds to is recorded in [[2026-09-15--senate-cloture-fails-clarity-act-crypto-market-structure-dies]].
+
+## Update (2026-10-13, Federal Register publication date): Federal Register publication and comment deadline
+
+The Federal Register notice says the CFTC "is issuing an advanced notice of proposed rulemaking." It was published on 10/13/2026, and "Comments must be received on or before December 14, 2026."
