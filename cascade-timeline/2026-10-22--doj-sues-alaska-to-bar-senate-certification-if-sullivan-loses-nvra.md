@@ -1278,6 +1278,51 @@ claims:
   id: u129
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: November 1, 2026
+  span: 'IT IS ORDERED AND ADJUDGED: THAT the United States’ Amended Complaint is DISMISSED without prejudice. APPROVED: /s/Sharon L. Gleason Sharon L. Gleason United States District Judge Date: November 1, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.80.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u130
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: failed to satisfy its burden
+  span: Therefore, the Court finds that the United States has failed to satisfy its burden to show that its alleged injury is redressable by a court order.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u131
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: is not a remedy that this Court can or should order
+  span: But requiring the segregation of ballots cast by voters for Daniel J. Sullivan so that these voters can be further investigated by law enforcement is not a remedy that this Court can or should order as it clearly violate Alaskans’ right to a secret ballot.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u132
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: will be preserved for 22 months after the election pursuant to Alaska law
+  span: In any event, a court order requiring the preservation of the ballots cast in the general election would not redress any injury; the ballots will be preserved for 22 months after the election pursuant to Alaska law.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u133
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: strongly cautions the Court against granting the relief
+  span: Further, the Purcell principle strongly cautions the Court against granting the relief the United States seeks.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u134
+  outcome: verified
+  checked: '2026-11-01'
 tags:
   - election-2026
   - certification
@@ -1429,6 +1474,16 @@ sources:
     publisher: Alaska Beacon
     date: '2026-10-30'
     tier: 2
+  - title: Order Dismissing Action, United States v. State of Alaska, Dkt. 79
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.79.0.pdf
+    publisher: U.S. District Court D. Alaska, via CourtListener RECAP
+    date: '2026-11-01'
+    tier: 1
+  - title: Judgment, Dkt. 80
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.80.0.pdf
+    publisher: U.S. District Court D. Alaska, via CourtListener RECAP
+    date: '2026-11-01'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -1692,6 +1747,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-v-alaska-sullivan
+- date: '2026-11-01'
+  date_kind: order date
+  heading: Judge Gleason dismisses DOJ's amended complaint for lack of standing
+  claims:
+  - u130
+  - u131
+  - u132
+  - u133
+  - u134
+  event_date_claim: u130
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1765,3 +1833,7 @@ The U.S. Attorney for the District of Alaska confirmed "criminal and civil inves
 ## Update (2026-10-28, order date): Judge Gleason grants both motions to intervene
 
 Judge Sharon Gleason granted the motions to intervene of Alaskans for Mary and the DSCC (Dkt. 5) and of the League of Women Voters of Alaska and Common Cause (Dkt. 6). The order accepted both intervenors' motions to dismiss as filed.
+
+## Update (2026-11-01, order date): Judge Gleason dismisses DOJ's amended complaint for lack of standing
+
+Judge Sharon Gleason dismissed the United States' amended complaint without prejudice, and judgment was entered. She found the United States failed to show its alleged injury is redressable by a court order. Requiring ballots cast for candidate Daniel J. Sullivan to be segregated so voters can be investigated, she wrote, "is not a remedy that this Court can or should order". The order also says the ballots "will be preserved for 22 months after the election pursuant to Alaska law", and that the Purcell principle "strongly cautions the Court against granting the relief" DOJ seeks.
