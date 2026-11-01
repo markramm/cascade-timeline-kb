@@ -14,14 +14,14 @@ tags:
 actors:
   - Republican Attorneys General Association
 sources:
-- title: Michigan 2026 campaign finance contributions export (October CS, Safer Michigan Fund)
-  url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24508'
-  outlet: Michigan Bureau of Elections
-  tier: 1
-- title: Michigan 2026 campaign finance expenditures export (October CS, Safer Michigan Fund)
-  url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24506'
-  outlet: Michigan Bureau of Elections
-  tier: 1
+  - title: Michigan 2026 campaign finance contributions export (October CS, Safer Michigan Fund)
+    url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24508'
+    outlet: Michigan Bureau of Elections
+    tier: 1
+  - title: Michigan 2026 campaign finance expenditures export (October CS, Safer Michigan Fund)
+    url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24506'
+    outlet: Michigan Bureau of Elections
+    tier: 1
   - title: "Republican Attorneys General Association, IRS Form 8872 (third quarterly report), period 07/01/2026-09/30/2026, formId 169203"
     url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872"
     publisher: "IRS Political Organization Filing and Disclosure, posted 10/15/2026"
