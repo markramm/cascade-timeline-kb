@@ -368,6 +368,42 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-26'
+- type: quote
+  value: Response to application from respondent Friends of the Ruidosa Church, et al. filed.
+  span: Response to application from respondent Friends of the Ruidosa Church, et al. filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Reply of applicant Markwayne Mullin, et al. filed.
+  span: Reply of applicant Markwayne Mullin, et al. filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: Oct 29 2026
+  span: Oct 29 2026 Response to application from respondent Friends of the Ruidosa Church, et al. filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: Oct 30 2026
+  span: Oct 30 2026 Reply of applicant Markwayne Mullin, et al. filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - border-wall
 - litigation
@@ -408,6 +444,24 @@ sources:
   publisher: U.S. District Court, W.D. Tex. (via CourtListener)
   date: '2026-10-16'
   tier: 1
+- title: Docket for 26A560, Mullin v. Friends of the Ruidosa Church (U.S. Supreme Court)
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  publisher: Supreme Court of the United States
+  date: '2026-10-30'
+  tier: 1
+updates:
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Response and reply filed on the Big Bend stay application
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: big-bend-border-wall-waivers
 ---
 
 The written reasons for the Big Bend injunction are now on the record. In a memorandum opinion (Document 75) signed on the 14th day of October, 2026, in Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex., El Paso Division), Judge Kathleen Cardone explained the preliminary injunction she granted on October 2 "with a memorandum opinion to follow." The earlier [order](2026-10-02--judge-cardone-enjoins-big-bend-border-wall-construction-waivers-stayed) named no legal ground. This opinion names one: the Court "rules that the major questions doctrine is a constitutional clear statement rule." On that basis it finds jurisdiction "because it alleges a Constitutional violation," which matters because the waiver statute lets challengers sue only on constitutional grounds.
@@ -421,3 +475,7 @@ On 10/16/26 the government filed a notice (Document 76) saying it "intend to req
 **Update.** The Court denied the stay. The order of 10/20/26 (Document 78) says: "the Motion to Stay Preliminary Injunction, ECF No. 74, is DENIED." It decided without waiting for the response, writing "Given the urgency of Defendants’ request, the Court considers it without awaiting a response," and found that "Defendants’ likelihood of success on appeal is low."
 
 The Supreme Court docket for No. 26A560 shows the application docketed on "Oct 21 2026" and "submitted to Justice Alito." A response was requested, "due by" 4 p.m. (EDT) on October 29, 2026. The application's own footnote says "An appeal to the court of appeals is not available," so the record shows no Fifth Circuit filing.
+
+## Update (2026-10-30, filing date): Response and reply filed on the Big Bend stay application
+
+The Supreme Court docket for the stay application lists the respondents' response as filed on Oct 29 2026. It lists the government's reply as filed on Oct 30 2026.
