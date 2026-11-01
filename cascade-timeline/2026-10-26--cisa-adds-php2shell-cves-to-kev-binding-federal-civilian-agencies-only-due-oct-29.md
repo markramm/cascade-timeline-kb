@@ -80,6 +80,43 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: October 29, 2026
+  span: Update October 29, 2026 As disclosed in our security advisory , the PHP2Shell vulnerabilities are being actively exploited against PAN-OS management interfaces that are exposed to the internet.
+  url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: unable to confirm that initial access is associated with the specific PHP2Shell CVEs
+  span: We are unable to confirm that initial access is associated with the specific PHP2Shell CVEs.
+  url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Oct. 25, 2026
+  qualifier: retraction
+  span: Updated October 25, 2026, at 2:15 p.m. PT to retract our October 23 update.
+  url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: the PHP2Shell vulnerabilities are being actively exploited against PAN-OS management interfaces that are exposed to the internet
+  span: Update October 29, 2026 As disclosed in our security advisory , the PHP2Shell vulnerabilities are being actively exploited against PAN-OS management interfaces that are exposed to the internet.
+  url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-security
 - cisa
@@ -105,9 +142,31 @@ sources:
   publisher: CISA
   url: https://www.cisa.gov/known-exploited-vulnerabilities
   tier: 1
+- title: 'Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)'
+  url: https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/
+  publisher: Palo Alto Networks Unit 42
+  date: '2026-10-29'
+  tier: 2
 lane: Electoral Manipulation
+updates:
+- date: '2026-10-29'
+  date_kind: vendor page update
+  heading: Palo Alto Networks retracts its own claim of a php2shell intrusion, then reports exploitation of its PAN-OS management interfaces
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: php2shell
 ---
 
 CISA added CVE-2026-109618 and CVE-2026-109619, the PHP remote-code-execution flaws, to its Known Exploited Vulnerabilities catalog on Oct. 26, 2026 (catalog listing date). Both catalog entries carry a dueDate (the catalog's remediation deadline) three days after the listing date. CISA lists a flaw in the catalog when there is "reliable evidence that execution of malicious code was performed by an actor on a system without permission of the system owner." Its earlier alert had said CISA had not yet observed exploitation ([[2026-10-21--cisa-alert-urges-immediate-patching-of-php2shell-php-flaws]]).
 
 The due date comes from Binding Operational Directive BOD 26-04. The directive is "a compulsory direction to federal, executive branch, departments, and agencies." Unless a contract says otherwise, it "does not apply to contractors." Both entries are marked for forensic triage, which under the directive means an agency must remediate "within the timeline (three days) and carry out a forensic triage." Nothing in the directive binds a state, a county or an election vendor, so it sets no deadline for the offices running the general election.
+
+## Update (2026-10-29, vendor page update): Palo Alto Networks retracts its own claim of a php2shell intrusion, then reports exploitation of its PAN-OS management interfaces
+
+Palo Alto Networks' threat research team, a security vendor that also sells the PAN-OS product, posted that it was "unable to confirm that initial access is associated with the specific PHP2Shell CVEs." Its page says the Oct. 23 update was retracted on Oct. 25, 2026. On October 29, 2026 the same page said "the PHP2Shell vulnerabilities are being actively exploited against PAN-OS management interfaces that are exposed to the internet".
