@@ -198,6 +198,71 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- type: date
+  value: October 30
+  span: Proceeding on a non-adversarial basis, the Court has requested that the United States produce documents and answer questions by October 30 to aid it in “making findings of fact regarding potential sanctions or criminal contempt.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: has not agreed to provide any information
+  span: For the avoidance of doubt, the United States has not agreed to provide any information.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: does not read the Court’s October 9 minute entry as a directive
+  span: To be clear, the United States does not read the Court’s October 9 minute entry as a directive creating any obligation to produce any information.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: concrete notice
+  span: the United States seeks concrete notice of the factual basis for any investigation the Court may conduct
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: Article II
+  span: the appointment of “another attorney” under Rule 42(a) would violate Article II where, as here, the attorney is meant to prosecute an executive official rather than a private individual
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-01'
+sources:
+- title: Response to the Court's October 9 Request for Evidence and Memorandum Addressing Fed. R. Crim. P. 42 (ECF 285), U.S. v. Rabbitt, No. 1:25-cr-00693 (N.D. Ill.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
+  publisher: U.S. District Court, N.D. Ill. (via RECAP)
+  date: '2026-10-30'
+  tier: 1
+updates:
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Government answers the court's request for documents by saying it has not agreed to provide any
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: us-v-rabbitt-broadview
 ---
 
 On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northern District of Illinois granted the government's oral motion to dismiss, with prejudice, the superseding information in *United States v. Rabbitt*, No. 1:25-cr-00693. That information was the last live charging document in the prosecution of the people indicted over the protest at the Broadview ICE facility. The same minute entry records the government agreeing to take down its press release saying the defendants had been charged, or add a banner saying the charges were dismissed, and vacates the trial date and all related deadlines.
@@ -220,3 +285,7 @@ On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northe
 **Function, not intent.** Whatever the motive, the charging instruments functioned as follows: a felony conspiracy count was filed against six people over a protest, and it was withdrawn with prejudice at the point the defense was seeking the grand jury instructions behind it; the remaining misdemeanors survived until the court ordered the grand jury colloquies disclosed. The people charged include a congressional candidate and local officeholders; this entry records only their charging and dismissal history from the docket.
 
 **Provenance and limits.** Built from the CourtListener RECAP copy of the docket (a mirror of PACER, not the register) and the filings on its free storage host: the government's motions to dismiss, the March order, the May minute entries and the 5/21/2026 hearing transcript. No PACER documents were purchased. The superseding information is a scanned image and was not text-extracted; its content is taken from the government's own description in its motion to dismiss Count One.
+
+## Update (2026-10-30, filing date): Government answers the court's request for documents by saying it has not agreed to provide any
+
+On October 30, 2026, the filing date of the deadline set in the court's October 9 minute entry, the government filed a response and a memorandum on the criminal contempt rule rather than a document production. It states that the United States has not agreed to provide any information, and that it does not read the October 9 minute entry as a directive creating any obligation to produce any information. It asks for concrete notice of the factual basis for any investigation the court may conduct. It argues that appointing another attorney to prosecute an executive official would violate Article II.
