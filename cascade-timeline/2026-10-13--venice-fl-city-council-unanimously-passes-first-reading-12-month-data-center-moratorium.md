@@ -27,6 +27,11 @@ sources:
   publisher: Venice Sun (yoursun.com)
   date: '2026-10-11'
   tier: 2
+- title: Venice City Council adopts 12-month moratorium on large-scale data center applications
+  url: https://www.mysuncoast.com/2026/10/27/venice-city-council-adopts-12-month-moratorium-large-scale-data-center-applications/
+  publisher: WWSB / MySuncoast
+  date: '2026-10-27'
+  tier: 2
 related_events:
 - 2026-07-08--sarasota-county-fl-hyperscale-moratorium-directed
 - 2026-10-20--volusia-county-council-adopts-large-scale-data-center-ban-on-second-reading-6-0-robins-absent
@@ -87,6 +92,35 @@ claims:
   url: https://www.mysuncoast.com/2026/10/13/venice-council-advances-data-center-moratorium/
   read: fetched
   source_kind: secondary
+- type: date
+  value: Oct. 27
+  span: The ordinance, adopted Oct. 27, immediately pauses the city’s acceptance, review, processing and approval of applications connected to construction, expansion or operation of those facilities.
+  url: https://www.mysuncoast.com/2026/10/27/venice-city-council-adopts-12-month-moratorium-large-scale-data-center-applications/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 12-month
+  span: The Venice City Council has adopted a 12-month moratorium on certain development applications and permits for large-scale data centers and other facilities with major utility demands.
+  url: https://www.mysuncoast.com/2026/10/27/venice-city-council-adopts-12-month-moratorium-large-scale-data-center-applications/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+updates:
+- date: '2026-10-27'
+  date_kind: adoption date (second reading, per outlet report)
+  heading: Venice council adopts the 12-month moratorium on second reading
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-moratoria
 ---
 
 Venice City Council unanimously passed the first reading of a moratorium on data center development, and it would last 12 months if enacted (WWSB, Oct. 13). A second reading and final vote were set for Oct. 27.
@@ -96,3 +130,7 @@ The ordinance taken up at first reading calls for a 12-month hold, not the 18 mo
 Stage: first reading only. Agenda, minutes and ordinance text were not retrieved.
 
 Compare [[2026-07-08--sarasota-county-fl-hyperscale-moratorium-directed]].
+
+## Update (2026-10-27, adoption date (second reading, per outlet report)): Venice council adopts the 12-month moratorium on second reading
+
+On October 27, 2026 the Venice City Council adopted the 12-month moratorium on large-scale data center applications, a report from WWSB says. The ordinance pauses the city's acceptance, review and approval of those applications immediately.
