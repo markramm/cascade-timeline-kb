@@ -14,6 +14,14 @@ tags:
 actors:
   - Republican Attorneys General Association
 sources:
+- title: Michigan 2026 campaign finance contributions export (October CS, Safer Michigan Fund)
+  url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24508'
+  outlet: Michigan Bureau of Elections
+  tier: 1
+- title: Michigan 2026 campaign finance expenditures export (October CS, Safer Michigan Fund)
+  url: 'https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=gov.mi.boe.component.cfrexport.page.cfrexportfile&id=24506'
+  outlet: Michigan Bureau of Elections
+  tier: 1
   - title: "Republican Attorneys General Association, IRS Form 8872 (third quarterly report), period 07/01/2026-09/30/2026, formId 169203"
     url: "https://forms.irs.gov/app/pod/basicSearch/downloadFile?formId=169203&formType=e8872"
     publisher: "IRS Political Organization Filing and Disclosure, posted 10/15/2026"
@@ -35,3 +43,10 @@ date_is_publication_date: true
 The Republican Attorneys General Association's third-quarter IRS political-organization filing for 07/01/2026 through 09/30/2026 is signed 10/15/2026, with $9,398,063 in contributions and $17,364,546 in expenditures. No itemized expenditure line goes to Safer Michigan Fund. Recipient lines include $1,100,000 to BIRD FOR IOWA, and $1,012,100 to MEDIUM BUYING for MEDIA.
 
 RAGA's release described the Michigan ad as part of a "nearly $7 million political spend across 13 states in August".
+
+## Update (2026-10-20, expenditure date on Michigan's October CS): Michigan's filings now show RAGA funding Safer Michigan Fund
+
+This entry describes RAGA's third-quarter IRS filing, which covers activity through 09/30/2026. Michigan's 2026 contributions export lists a direct contribution of $593,335.00 from the Republican Attorneys General Association to Safer Michigan Fund (committee 0614640), received 10/16/2026, on an October CS statement. Its expenditures export lists two independent expenditures of $296,667.50 each by the fund, dated 10/20/2026, paid to Red Eagle Media for digital media: one opposing "Eli Savit for Attorney General" and one supporting "Doug Lloyd for MI Attorney General."
+
+Read from the state's tab-delimited exports. The sourcing gate cannot read spans inside a zipped file, so this update was checked by hand against a fresh download rather than through the gate.
+
