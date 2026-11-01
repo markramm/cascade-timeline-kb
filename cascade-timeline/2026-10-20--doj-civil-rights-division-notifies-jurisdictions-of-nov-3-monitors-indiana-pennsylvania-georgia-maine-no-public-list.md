@@ -344,6 +344,78 @@ claims:
   id: u18
   outcome: verified
   checked: '2026-11-01'
+- type: quote
+  value: vote to not allow them inside polling places
+  span: The U.S. Department of Justice will send election monitors to Arkansas’ two most populous counties on Election Day, prompting one of the counties to vote to not allow them inside polling places.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u19
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: a lack of timely notification
+  span: The Washington County Election Commission cited a lack of timely notification from the federal government as its reason for not allowing the monitors inside polling places.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u20
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Thursday
+  span: The Pulaski County Election Commission will meet at 7 p.m. Thursday to consider the same decision, election coordinator Amanda Dickens said.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u21
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: four to six
+  span: Dickens said Justice Department officials told her they will send four to six election monitors, who will be in plainclothes and stationed 100 feet outside the polling place.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u22
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 100 feet
+  span: Dickens said Justice Department officials told her they will send four to six election monitors, who will be in plainclothes and stationed 100 feet outside the polling place.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u23
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: has not disclosed why
+  span: The Justice Department has not disclosed why it chose the two counties it did, prompting concerns from Wendell Griffen and Dana Deree, the Democratic nominees for county judge in Pulaski and Washington counties, respectively.
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u24
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: We will be in all 50 states, including Arkansas, doing the routine election monitoring the department has done for decades.
+  span: “We will be in all 50 states, including Arkansas, doing the routine election monitoring the department has done for decades,” the spokesperson said.
+  url: https://katv.com/news/local/why-is-doj-sending-election-monitors-to-pulaski-and-washington-counties-this-november-violations-federal-laws-interference-democratic-republican-voting-deterrent-intimidation
+  read: fetched
+  source_kind: news
+  id: u25
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Monday
+  span: On Monday, Dubke said Sanders’ administration “will continue to work with state and federal partners to make it easy to vote and hard to cheat in the upcoming elections.”
+  url: https://www.newsfromthestates.com/node/434742
+  read: fetched
+  source_kind: news
+  id: u26
+  outcome: verified
+  checked: '2026-11-01'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -422,6 +494,15 @@ sources:
   publisher: New Haven Independent
   date: '2026-10-30'
   tier: 2
+- title: Justice Department sending election monitors to 2 Arkansas counties on Election Day (Arkansas Advocate, via News From The States)
+  url: https://www.newsfromthestates.com/node/434742
+  publisher: Arkansas Advocate
+  date: '2026-10-26'
+  tier: 2
+- title: Why is DOJ sending election monitors to Pulaski and Washington counties this November?
+  url: https://katv.com/news/local/why-is-doj-sending-election-monitors-to-pulaski-and-washington-counties-this-november-violations-federal-laws-interference-democratic-republican-voting-deterrent-intimidation
+  publisher: KATV
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -476,6 +557,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-26'
+  date_kind: publication date of the local report
+  heading: 'Arkansas: Washington County votes to keep DOJ monitors out of polling places'
+  claims:
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  event_date_claim: u26
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -504,3 +601,9 @@ The Justice Department on Tuesday confirmed to The Intercept that it intends to 
 ## Update (2026-10-30, publication date of the local report): New Haven registrars tell DOJ monitors they cannot enter polling places
 
 The DOJ plans to send election monitors to New Haven, the New Haven Independent reported. The registrars' letter says "We do not permit election monitors to enter any polling places in New Haven."
+
+## Update (2026-10-26, publication date of the local report): Arkansas: Washington County votes to keep DOJ monitors out of polling places
+
+The Arkansas Advocate reports that DOJ will send monitors to Washington and Pulaski counties, and that the Washington County Election Commission voted not to allow them inside polling places, citing a lack of timely notification from the federal government. The Pulaski County Election Commission was to meet Thursday on the same decision; its outcome was not found in the sources read. Pulaski's election coordinator said DOJ officials told her they will send four to six monitors, in plainclothes, stationed 100 feet outside the polling place.
+
+The report says the Justice Department has not disclosed why it chose those counties. A DOJ spokesperson told KATV: "We will be in all 50 states, including Arkansas, doing the routine election monitoring the department has done for decades."
