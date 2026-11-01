@@ -20,6 +20,11 @@ actors:
 - Markwayne Mullin
 - David Venturella
 sources:
+- title: "General Warranty Deed, Bexar County Doc# 20260020383, page 1 (clerk image; recorded 02/04/2026)"
+  url: https://bexar.tx.publicsearch.us/doc/293139902
+  publisher: Bexar County Clerk
+  date: '2026-02-04'
+  tier: 1
 - title: Complaint, City of San Antonio v. Mullin, No. 5:26-cv-06542 (W.D. Tex.), ECF No. 1
   url: https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172938659/gov.uscourts.txwd.1172938659.1.0.pdf
   publisher: U.S. District Court, W.D. Tex. (via RECAP storage)
@@ -115,3 +120,7 @@ On **10/13/26** the City of San Antonio filed *City of San Antonio v. Mullin*, N
 The complaint describes a **640,000 square foot** warehouse that DHS and ICE "confirmed" they had bought on or about **February 5, 2026**, with the intention of converting it into a facility of as many as **1,500 beds**. It pleads that city officials sent **five letters** to Defendants during 2026 seeking information about the plans. The relief requested starts with: "Declare that the Defendants’ decision to purchase, convert, maintain, and operate an immigration detention facility at the Warehouse is contrary to law and violates NEPA and the APA," followed by vacatur of the decision and a temporary and permanent injunction.
 
 This converts the mayor's earlier statement of support for legal action ([[2026-10-02--san-antonio-mayor-ortiz-jones-backs-legal-action-to-halt-east-side-ice-warehouse]]) into a filed case, and it uses the NEPA theory that produced the Maryland and Gilroy injunctions ([[2026-09-11--gilroy-williamsport-nepa-injunctions-share-categorical-exclusion-theory]]). It is a complaint, not a ruling; no court has acted on it in the record read.
+
+## Update (2026-02-04, deed recording date): The recorded deed states the price and the acquiring agency
+
+Page 1 of the General Warranty Deed, Bexar County Doc# 20260020383, made February 3, 2026, and stamped 02/04/2026 03:54 PM, states consideration of "$66,112,500.00, cash in hand paid." The grantor is CRP OIG San Antonio 410 Owner, L.P., "having an address c/o Oakmont Industrial Group IV, LLC, 3520 Piedmont Road, Suite 100, Atlanta," and the grantee is the United States. It says: "The acquiring federal agency is the Department of Homeland Security." Consideration on a deed is the stated price, not proof of funds paid. Pages 2-5 are unread. Hand update: the page is an image in the clerk's viewer, which the sourcing gate can't fetch; read directly from the page image by the conductor.

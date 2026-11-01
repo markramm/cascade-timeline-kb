@@ -199,6 +199,42 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-11-01'
+- type: quote
+  value: search the Harris County District Clerk's site
+  span: To obtain a copy of the indictment search the Harris County District Clerk's site.
+  url: https://dao.harriscountytx.gov/Newsroom/News-Releases/media-assets-grand-jury-returns-indictment-in-ice-related-crash-in-west-houston
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: expects to surrender himself on the outstanding warrant
+  span: During an interview with FOX 26, Lindenmuth confirmed that his client is in Texas and said he expects to surrender himself on the outstanding warrant.
+  url: https://www.fox26houston.com/news/harris-county-ice-crash-indictment-be-announced
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Monday
+  span: '"We will be surrendering him on the warrant on Monday," Lindenmuth said.'
+  url: https://www.fox26houston.com/news/harris-county-ice-crash-indictment-be-announced
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Friday
+  span: Parra is still hospitalized as of Friday, according to District Attorney Sean Teare.
+  url: https://www.fox26houston.com/news/harris-county-ice-crash-indictment-be-announced
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - immigration-enforcement-violence
 - ice-use-of-force
@@ -246,6 +282,16 @@ sources:
   publisher: The Associated Press via The Washington Sun
   date: '2026-10-30'
   tier: 2
+- title: Grand Jury Returns Indictment in ICE-Related Crash in West Houston
+  url: https://dao.harriscountytx.gov/Newsroom/News-Releases/media-assets-grand-jury-returns-indictment-in-ice-related-crash-in-west-houston
+  publisher: Harris County District Attorney's Office
+  date: '2026-10-30'
+  tier: 1
+- title: ICE agent indicted in Harris County for aggravated assault after man injured in crash
+  url: https://www.fox26houston.com/news/harris-county-ice-crash-indictment-be-announced
+  publisher: FOX 26 Houston
+  date: '2026-10-30'
+  tier: 2
 updates:
 - date: '2026-10-30'
   date_kind: indictment date, as reported
@@ -276,6 +322,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
+- date: '2026-10-30'
+  date_kind: date of the DA's news conference and release
+  heading: The DA's release points to the district clerk for the indictment; the officer's lawyer says he will surrender Monday
+  claims:
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u17
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
 ---
 
 Harris County District Attorney Sean Teare said on Tuesday that his office has opened a criminal investigation of the Saturday incident in which an ICE vehicle struck Miguel Parra-Hernandez, and that prosecutors are looking at the possibility of aggravated assault with a deadly weapon. Teare said "that individual was intentionally struck and run over," and told KTRK-TV that "a charging decision is going to come in a relatively short order in this case." He also said that when investigators tried to tow the ICE vehicle for a search warrant, an officer allegedly left the scene in it. ICE called the allegation that the strike was intentional "reckless and false," and a DHS official told NBC News that ICE is reviewing video of the scene as part of an internal investigation. No charge has been filed in the sources reviewed, and the intent finding is the district attorney's position, not a ruling.
@@ -289,3 +347,7 @@ A Harris County grand jury indicted the ICE agent on Friday, the Texas Tribune r
 ## Update (2026-10-30, publication date of the AP report): Teare accused ICE of destroying evidence "either intentionally or through gross negligence"
 
 The AP reported on October 30 that District Attorney Sean Teare said the Department of Homeland Security has not cooperated with his investigators and accused ICE of destroying evidence "either intentionally or through gross negligence." He said the officer who drove the SUV fled the scene before the vehicle could be impounded. The AP says the video "does not show the car hitting him" because another vehicle blocks the view. ICE has called accusations that the officer intentionally struck him false and "reckless."
+
+## Update (2026-10-30, date of the DA's news conference and release): The DA's release points to the district clerk for the indictment; the officer's lawyer says he will surrender Monday
+
+The Harris County District Attorney's Office posted its release announcing the grand jury indictment in the ICE-related crash in west Houston. It tells readers who want the indictment to search the Harris County District Clerk's site. The officer's lawyer told a Houston television station that his client expects to surrender on the outstanding warrant, on Monday. Parra is still hospitalized as of Friday, according to District Attorney Sean Teare.
