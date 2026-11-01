@@ -327,6 +327,42 @@ claims:
   id: u31
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: 11/01/26
+  span: Case 1:26-cv-03072-JEB Document 45 Filed 11/01/26 Page 1 of 11
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u32
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: dismissing Plaintiffs’ complaint
+  span: The Court should impose civil sanctions for this violation of the Court’s Minute Order—for example, dismissing Plaintiffs’ complaint and any other sanction that the Court deems appropriate.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u33
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: possible criminal contempt by Plaintiffs and their counsel
+  span: The Court should also consider referring this matter to the Department of Justice for investigation into possible criminal contempt by Plaintiffs and their counsel if they violated the order willfully.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u34
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: oppose
+  span: Counsel for the government conferred via email with counsel for Plaintiffs, who oppose
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u35
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-capture
 - dhs
@@ -447,6 +483,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: The motion also asks for sanctions and raises a criminal contempt referral
+  claims:
+  - u32
+  - u33
+  - u34
+  - u35
+  event_date_claim: u32
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -478,3 +526,7 @@ Three limits. The declarants say matching "could have been more precise" had the
 ## Update (2026-11-01, filing date): DOJ's motion to strike and for a show-cause order
 
 The government moved to strike part of the plaintiffs' expert declaration and for an order that the plaintiffs show cause why they did not violate the court's minute order, which it says limited the list to standing arguments. The filing says the plaintiffs used the list for non-standing purposes. This is the government's motion, not a finding.
+
+## Update (2026-11-01, filing date): The motion also asks for sanctions and raises a criminal contempt referral
+
+The same motion says the court should impose civil sanctions, for example "dismissing Plaintiffs’ complaint", and should also consider referring the matter to the Department of Justice for investigation into "possible criminal contempt by Plaintiffs and their counsel". The government's filing says plaintiffs' counsel oppose. No ruling was on the docket read.
