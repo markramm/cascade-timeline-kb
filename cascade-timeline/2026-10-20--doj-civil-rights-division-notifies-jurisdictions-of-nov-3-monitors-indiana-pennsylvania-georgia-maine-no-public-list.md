@@ -416,6 +416,123 @@ claims:
   id: u26
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Thursday
+  span: Pulaski County elections officials voted 2-1 Thursday evening to deny the federal government’s request.
+  url: https://www.ualrpublicradio.org/local-regional-news/2026-10-30/pulaski-county-elections-officials-deny-doj-request-to-send-elections-monitors-to-polling-sites
+  read: fetched
+  source_kind: secondary
+  id: u27
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 2-1
+  span: 'Credit: Austin Gelder After hearing comments from two dozen citizens at a meeting so packed that many got turned away at the door, the Pulaski County Election Commission voted 2-1 to deny a Department of Justice request to let federal monitors inside the polls on Election Day.'
+  url: https://arktimes.com/arkansas-blog/2026/10/29/pulaski-election-commission-denies-federal-request-to-send-in-poll-monitors
+  read: fetched
+  source_kind: secondary
+  id: u28
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: four
+  span: 'Pulaski County Elections Director Amanda Dickens read aloud a letter outlining the Department of Justice’s request, which explained a plan to send in four monitors: two  employees with the United States Attorney’s Office Eastern District of Arkansas and two attorneys with the DOJ.'
+  url: https://arktimes.com/arkansas-blog/2026/10/29/pulaski-election-commission-denies-federal-request-to-send-in-poll-monitors
+  read: fetched
+  source_kind: secondary
+  id: u29
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: State versus Federal
+  span: Elections commissioner Steve Harrelson made the motion to deny the DOJ’s request, calling it a “State versus Federal” issue.
+  url: https://www.ualrpublicradio.org/local-regional-news/2026-10-30/pulaski-county-elections-officials-deny-doj-request-to-send-elections-monitors-to-polling-sites
+  read: fetched
+  source_kind: secondary
+  id: u30
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: Jarvis
+  span: Commission Chairman Raymond Jarvis said while he supports transparency, the testimony from elections and county workers about potential impact to staff and the short notice given by the Justice Department was enough to dissuade him.
+  url: https://www.ualrpublicradio.org/local-regional-news/2026-10-30/pulaski-county-elections-officials-deny-doj-request-to-send-elections-monitors-to-polling-sites
+  read: fetched
+  source_kind: secondary
+  id: u31
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 100 feet
+  span: This week’s election commission votes from Washington and Pulaski counties mean federal monitors can still keep an eye on Arkansas elections, but they’ll have to stay 100 feet away from polling entrances like everyone else.
+  url: https://arktimes.com/arkansas-blog/2026/10/29/pulaski-election-commission-denies-federal-request-to-send-in-poll-monitors
+  read: fetched
+  source_kind: secondary
+  id: u32
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Thursday
+  span: The DOJ on Thursday notified Colorado it was declining the terms needed to gain access to polling locations. "Thank you for your letter.
+  url: https://www.cbsnews.com/colorado/news/doj-tells-colorado-its-elections-observers-will-remain-outside-polling-places/
+  read: fetched
+  source_kind: secondary
+  id: u33
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: four
+  span: On Thursday, Colorado Secretary of State Jena Griswold's office detailed plans to assign its own monitors to accompany four federal observers the DOJ wanted to dispatch to observe voting locations in Adams County.
+  url: https://www.cbsnews.com/colorado/news/doj-tells-colorado-its-elections-observers-will-remain-outside-polling-places/
+  read: fetched
+  source_kind: secondary
+  id: u34
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 100 feet
+  span: Our monitors will remain outside of polling places and not come within 100 feet of the building in accordance with Colorado state law," reads the DOJ notice which the secretary of state's office provided to CBS Colorado.
+  url: https://www.cbsnews.com/colorado/news/doj-tells-colorado-its-elections-observers-will-remain-outside-polling-places/
+  read: fetched
+  source_kind: secondary
+  id: u35
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: State or local approval is not required for Department monitoring
+  span: My office will take any suggestion of voter intimidation seriously and will act accordingly." "Adams County is committed to making sure every eligible voter has their voice heard, and election workers in my office will be ready to help any voter that needs it on Tuesday," said Adams County Clerk Josh Zygielbaum. "I look forward to serving the people of Adams County and having another great election." A DOJ spokesperson wrote to CBS Colorado, "State or local approval is not required for Department monitoring.
+  url: https://www.cbsnews.com/colorado/news/doj-tells-colorado-its-elections-observers-will-remain-outside-polling-places/
+  read: fetched
+  source_kind: secondary
+  id: u36
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Monday
+  span: Kentucky election officials said Monday they will not let federal election monitors inside polling locations in Jefferson and Fayette counties following a notice from the U.S.
+  url: https://www.lpm.org/news/2026-10-26/federal-monitors-barred-from-entering-kentucky-polling-sites-election-officials-say
+  read: fetched
+  source_kind: secondary
+  id: u37
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 100 foot
+  span: Jefferson County Clerk David Yates said if federal monitors ignore a standard 100 foot boundary from a polling site entrance and persist in trying to enter, his office may call local police.
+  url: https://www.lpm.org/news/2026-10-26/federal-monitors-barred-from-entering-kentucky-polling-sites-election-officials-say
+  read: fetched
+  source_kind: secondary
+  id: u38
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: 100 feet
+  span: “DOJ election monitors know that they must follow the laws of Kentucky, which means that they, along with anyone else not casting a ballot, must remain at least 100 feet from the entrance to any polling site and that any attempt to intimidate a voter or interfere with an election officer could result in a Class D felony,” a spokesperson for state wrote.
+  url: https://www.lpm.org/news/2026-10-26/federal-monitors-barred-from-entering-kentucky-polling-sites-election-officials-say
+  read: fetched
+  source_kind: secondary
+  id: u39
+  outcome: verified
+  checked: '2026-11-01'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -503,6 +620,26 @@ sources:
   url: https://katv.com/news/local/why-is-doj-sending-election-monitors-to-pulaski-and-washington-counties-this-november-violations-federal-laws-interference-democratic-republican-voting-deterrent-intimidation
   publisher: KATV
   tier: 2
+- title: Pulaski Election Commission denies federal request to send in poll monitors
+  url: https://arktimes.com/arkansas-blog/2026/10/29/pulaski-election-commission-denies-federal-request-to-send-in-poll-monitors
+  publisher: Arkansas Times
+  date: '2026-10-29'
+  tier: 2
+- title: Pulaski County elections officials deny DOJ request to send elections monitors to polling sites
+  url: https://www.ualrpublicradio.org/local-regional-news/2026-10-30/pulaski-county-elections-officials-deny-doj-request-to-send-elections-monitors-to-polling-sites
+  publisher: Little Rock Public Radio (KUAR)
+  date: '2026-10-30'
+  tier: 2
+- title: DOJ tells Colorado its elections observers will remain outside polling places
+  url: https://www.cbsnews.com/colorado/news/doj-tells-colorado-its-elections-observers-will-remain-outside-polling-places/
+  publisher: CBS Colorado
+  date: '2026-10-29'
+  tier: 2
+- title: Federal monitors barred from entering Kentucky polling sites, election officials say
+  url: https://www.lpm.org/news/2026-10-26/federal-monitors-barred-from-entering-kentucky-polling-sites-election-officials-say
+  publisher: Louisville Public Media
+  date: '2026-10-26'
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -573,6 +710,43 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-29'
+  date_kind: vote date (Pulaski County Election Commission meeting)
+  heading: 'Arkansas: Pulaski County Election Commission votes 2-1 to keep DOJ monitors out of polling places'
+  claims:
+  - u27
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  event_date_claim: u27
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
+- date: '2026-10-29'
+  date_kind: DOJ reply date (Thursday letter to Colorado)
+  heading: 'Colorado: DOJ declines state conditions for entering Adams County voting centers; monitors to stay outside'
+  claims:
+  - u33
+  - u34
+  - u35
+  - u36
+  event_date_claim: u33
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
+- date: '2026-10-26'
+  date_kind: press-conference date (Jefferson County Clerk)
+  heading: 'Kentucky: Jefferson and Fayette county officials say DOJ monitors cannot enter polling locations'
+  claims:
+  - u37
+  - u38
+  - u39
+  event_date_claim: u37
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -607,3 +781,15 @@ The DOJ plans to send election monitors to New Haven, the New Haven Independent 
 The Arkansas Advocate reports that DOJ will send monitors to Washington and Pulaski counties, and that the Washington County Election Commission voted not to allow them inside polling places, citing a lack of timely notification from the federal government. The Pulaski County Election Commission was to meet Thursday on the same decision; its outcome was not found in the sources read. Pulaski's election coordinator said DOJ officials told her they will send four to six monitors, in plainclothes, stationed 100 feet outside the polling place.
 
 The report says the Justice Department has not disclosed why it chose those counties. A DOJ spokesperson told KATV: "We will be in all 50 states, including Arkansas, doing the routine election monitoring the department has done for decades."
+
+## Update (2026-10-29, vote date (Pulaski County Election Commission meeting)): Arkansas: Pulaski County Election Commission votes 2-1 to keep DOJ monitors out of polling places
+
+The Pulaski County Election Commission voted 2-1 on Thursday to deny the Justice Department's request to put federal monitors inside polling places, the Arkansas Times and Little Rock Public Radio report. Commission Chairman Raymond Jarvis cited the short notice given by the Justice Department; Commissioner Steve Harrelson made the motion, calling it a "State versus Federal" issue. The Arkansas Times reports the vote means federal monitors can still watch Arkansas elections from 100 feet away from polling entrances, like everyone else. DOJ's letter, read at the meeting, described a plan to send four monitors.
+
+## Update (2026-10-29, DOJ reply date (Thursday letter to Colorado)): Colorado: DOJ declines state conditions for entering Adams County voting centers; monitors to stay outside
+
+Colorado Secretary of State Jena Griswold's office detailed conditions for letting four federal observers into Adams County voting centers, and the Justice Department declined them on Thursday, CBS Colorado reports. The DOJ notice says its monitors will remain outside of polling places and not come within 100 feet of the building in accordance with Colorado state law. A DOJ spokesperson wrote that state or local approval is not required for Department monitoring.
+
+## Update (2026-10-26, press-conference date (Jefferson County Clerk)): Kentucky: Jefferson and Fayette county officials say DOJ monitors cannot enter polling locations
+
+Kentucky election officials said Monday they will not let federal election monitors inside polling locations in Jefferson and Fayette counties, Louisville Public Media reports. Jefferson County Clerk David Yates said his office may call local police if monitors persist in trying to enter past a standard 100 foot boundary. A Kentucky State Board of Elections spokesperson wrote that DOJ monitors, along with anyone else not casting a ballot, must remain at least 100 feet from the entrance to any polling site.
