@@ -33,12 +33,47 @@ sources:
     publisher: Electronic Privacy Information Center
     date: '2026-06-05'
     tier: 2
+  - title: National Security Presidential Memorandum/NSPM-11
+    url: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
+    publisher: The White House
+    date: '2026-06-05'
+    tier: 1
 related_events:
   - 2025-12-11--eo-14365-ai-preemption-doj-litigation-task-force-against-state-ai-laws
   - 2026-06-12--commerce-export-control-order-forces-anthropic-to-suspend-fable-5-mythos-5-worldwide
   - 2026-06-02--trump-ai-eo-frontier-model-pre-deployment-access
 coverage:
   - daily-capture-reports/headline/2026-06-05--nspm-11-ai-national-security-guardrails-removed-contract-termination.md
+claims:
+- type: date
+  value: June 5, 2026
+  span: NATIONAL SECURITY PRESIDENTIAL MEMORANDUM/NSPM-11 Presidential Memoranda June 5, 2026 MEMORANDUM FOR THE SECRETARY OF STATE THE SECRETARY OF THE TREASURY THE SECRETARY OF WAR
+  url: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Within 90 days of the date of this memorandum, the Secretary of War shall issue an update
+  span: Within 90 days of the date of this memorandum, the Secretary of War shall issue an update to DOD Directive 3000.09 on Autonomy in Weapon Systems, to be reviewed annually to account for the rapidly evolving capabilities of AI systems
+  url: https://www.whitehouse.gov/presidential-actions/2026/06/national-security-presidential-memorandum-nspm-11/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+updates:
+- date: '2026-06-05'
+  date_kind: memorandum date
+  heading: The memorandum orders an update to the directive on autonomy in weapon systems
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ccw-geneva-lethal-autonomous-weapons
 ---
 
 On **June 5, 2026**, President Trump issued **National Security Presidential Memorandum 11 (NSPM-11)**, directing the military and intelligence community to accelerate AI deployment across warfighting and intelligence operations and replacing Biden's **NSM-25**. The memorandum includes a **contract-termination provision**: AI vendors that attempt to limit government use of their products face termination "for default or for convenience." Its four-pillar framework — adoption, adaptation, assurance, accountability — front-loads deployment, with the assurance pillar establishing governance only after capabilities are operational. **EPIC** characterized the memorandum as removing guardrails on AI at the national-security level.
@@ -52,3 +87,7 @@ On **June 5, 2026**, President Trump issued **National Security Presidential Mem
 **Sourcing note and a caution on the source URLs.** The capture's fact_check traced the June 5 date to whitehouse.gov directly, the "for default or for convenience" language to a Crowell & Moring client analysis, the NSM-25 replacement to CFR and EPIC, and the four pillars to Crowell & Moring. **The URLs recorded here are section-level rather than document-level** — the capture supplied landing pages, not permalinks to the memorandum text or the specific client alert — so a reader cannot go straight to the primary document from this entry. **The memorandum's own text has not been read in full for this entry**, and the quoted termination phrase is carried from law-firm analysis rather than from the primary document. That is a real sourcing limitation and the reason this entry is written at importance 7 rather than higher. **EPIC's "removing guardrails" framing is advocacy characterization** and is labeled as such, per the capture's own note.
 
 **Open:** resolve the whitehouse.gov permalink for NSPM-11 and read the memorandum directly — specifically the termination provision's actual wording and scope, and whether the assurance pillar carries any deadline. Also: whether any vendor has had a contract terminated under this provision since June, which would convert the clause from a stated threat into a documented enforcement event.
+
+## Update (2026-06-05, memorandum date): The memorandum orders an update to the directive on autonomy in weapon systems
+
+The memorandum states: "Within 90 days of the date of this memorandum, the Secretary of War shall issue an update" to the directive on autonomy in weapon systems, and that the update is to be reviewed annually.
