@@ -1341,6 +1341,42 @@ claims:
   id: u136
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 1, 2026
+  span: 'Dated: November 1, 2026 Respectfully submitted, /s/ Stanley Woodward'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u137
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: intent to appeal the Orders dismissing this action at docket 79 and 80.
+  span: respectfully notifies the Court of its intent to appeal the Orders dismissing this action at docket 79 and 80.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u138
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: '81'
+  span: Case 3:26-cv-00376-SLG Document 81 Filed 11/01/26 Page 1 of 3
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u139
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: NOTICE OF APPEAL
+  span: the State Ballot Counting Review Board of the State of Alaska, UNITED STATES’ NOTICE OF APPEAL Defendants.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u140
+  outcome: verified
+  checked: '2026-11-01'
 tags:
   - election-2026
   - certification
@@ -1507,6 +1543,11 @@ sources:
     publisher: NPR
     date: '2026-11-01'
     tier: 2
+  - title: Notice of appeal by the United States, D. Alaska 3:26-cv-00376, docket entry 81
+    url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.81.0_1.pdf
+    publisher: U.S. District Court D. Alaska, via CourtListener RECAP
+    date: '2026-11-01'
+    tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -1793,6 +1834,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: The United States files its notice of appeal
+  claims:
+  - u137
+  - u138
+  - u139
+  - u140
+  event_date_claim: u137
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1874,3 +1927,7 @@ Judge Sharon Gleason dismissed the United States' amended complaint without prej
 ## Update (2026-11-01, statement and interview date): DOJ says it plans to appeal; Sen. Sullivan says he would accept the results
 
 A DOJ spokesperson told NPR the department is planning to appeal the dismissal. In an interview Sunday on CNN's State of the Union, incumbent Sen. Dan S. Sullivan said he would accept the election results, win or lose.
+
+## Update (2026-11-01, filing date): The United States files its notice of appeal
+
+The government's filing, ECF 81, is captioned as its notice of appeal, is dated November 1, 2026, and states its "intent to appeal the Orders dismissing this action at docket 79 and 80."

@@ -130,6 +130,69 @@ claims:
   read: fetched
   source_kind: primary
   id: c17
+- type: date
+  value: 11/1/2026
+  span: Signed by Judge Trina L. Thompson on 11/1/2026.
+  url: https://www.courtlistener.com/docket/75045414/service-employees-international-union-afl-cio-v-united-states-department/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: 10/31/2026
+  span: PRELIMINARY INJUNCTION APPEAL (Kao, Kenneth) (Filed on 10/31/2026)
+  url: https://www.courtlistener.com/docket/75045414/service-employees-international-union-afl-cio-v-united-states-department/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Monday, November 2, 2026 at 11:00 a.m.
+  span: a hearing on Defendants' motion to stay the temporary restraining order, ECF 33 is set for Monday, November 2, 2026 at 11:00 a.m.
+  url: https://www.courtlistener.com/docket/75045414/service-employees-international-union-afl-cio-v-united-states-department/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Defendants will move in the Court of Appeals for an emergency stay motion.
+  span: Defendants will move in the Court of Appeals for an emergency stay motion.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: never analyzes Plaintiffs’ standing
+  span: but it never analyzes Plaintiffs’ standing to request that relief.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: an accurate statement of federal criminal law
+  span: But an accurate statement of federal criminal law is
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: ECF 33
+  span: a hearing on Defendants' motion to stay the temporary restraining order, ECF 33 is set for Monday, November 2, 2026 at 11:00 a.m.
+  url: https://www.courtlistener.com/docket/75045414/service-employees-international-union-afl-cio-v-united-states-department/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-capture
 - midterms-2026
@@ -155,10 +218,36 @@ sources:
   publisher: U.S. District Court for the Northern District of California (via RECAP)
   date: '2026-10-30'
   tier: 1
+- title: Defendants' ex parte motion to stay TRO, ECF 33, N.D. Cal. 3:26-cv-12800
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.33.0.pdf
+  publisher: U.S. District Court N.D. Cal., via CourtListener RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: Docket, SEIU v. DOJ, 3:26-cv-12800
+  url: https://www.courtlistener.com/docket/75045414/service-employees-international-union-afl-cio-v-united-states-department/?order_by=desc
+  publisher: CourtListener
+  date: '2026-11-01'
+  tier: 1
 related_events:
 - 2026-10-29--seiu-afscme-lulac-naacp-v-doj-ndcal-complaint-threats-to-election-workers-3-26-cv-12800
 - 2026-10-29--mccotter-oct-29-letters-state-election-officials-criminal-penalties-record-preservation-votebeat
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
+updates:
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: DOJ and DHS appeal the TRO and move to stay it; Judge Thompson sets a hearing for Monday, November 2 at 11:00 a.m.
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: emergency-powers
 ---
 
 On October 30, 2026, U.S. District Judge Trina L. Thompson granted a temporary restraining order in Service Employees International Union v. Department of Justice, No. 3:26-cv-12800 (N.D. Cal.). She found defendants "likely violated Section 11(b) of the Voting Rights Act" and wrote that their actions are likely "to have the effect of interfering with election administration and disenfranchising lawful voters."
@@ -166,3 +255,7 @@ On October 30, 2026, U.S. District Judge Trina L. Thompson granted a temporary r
 The order says defendants shall not "threaten, intimidate or coerce state or local elections officials or" workers to halt processing a ballot solely because defendants allege the voter is ineligible. They may not demand that an official "remove specific" voters from the rolls, "refuse to issue ballots," or "segregate or otherwise not count any ballots" on that basis, or threaten officials "with criminal" prosecution over those demands or over counting under state and federal law. Defendants must tell any jurisdiction that received such a letter that its demands and threats "have been enjoined," and DOJ must tell the court of "any pending search warrant applications, grand jury subpoenas" or similar demands tied to such a list.
 
 The order expires at 5:00 p.m. on November 16, 2026. The government's response on a preliminary injunction is due by noon on Monday, November 2, 2026, with a hearing set for November 13, 2026. The same day, defendants filed notice that they intend to seek relief "by tomorrow, October 31, 2026," either by moving "to dissolve or otherwise modify the" order or, in the alternative, to "notice an appeal" to the Ninth Circuit.
+
+## Update (2026-11-01, filing date): DOJ and DHS appeal the TRO and move to stay it; Judge Thompson sets a hearing for Monday, November 2 at 11:00 a.m.
+
+The defendants noticed an appeal to the Ninth Circuit on 10/31/2026 and on 11/1/2026 filed an ex parte motion, ECF 33, to stay the temporary restraining order or, in the alternative, for an indicative ruling. The motion says "Defendants will move in the Court of Appeals for an emergency stay motion." It argues the order "never analyzes Plaintiffs’ standing" and that "an accurate statement of federal criminal law" is not intimidation. Judge Thompson set a hearing on the stay motion for Monday, November 2, 2026 at 11:00 a.m.
