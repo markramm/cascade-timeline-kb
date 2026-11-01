@@ -46,6 +46,10 @@ claims:
   source_kind: secondary
   capture_check: span-found
 sources:
+- title: "The Largest Counterterrorism Operation Since 9/11, American Thought Leaders"
+  url: "https://www.youtube.com/watch?v=rWC9VTW-rHc"
+  outlet: "The Epoch Times"
+  tier: 1
 - title: 'Klippenstein: White House Sees Speech as Election Threat'
   url: https://www.kenklippenstein.com/p/white-house-sees-speech-as-election
   tier: 2
@@ -60,3 +64,7 @@ approved_names:
 ---
 
 Ken Klippenstein reports that White House counterterrorism czar Sebastian Gorka, asked in a Tuesday interview what the government could do about foreign influence operations on social media, said “We have that knee-jerk: ‘Oh, First Amendment, don’t do anything’” and that there are things the government has to do if there is a threat to national security. Per Klippenstein, Gorka singled out Tucker Carlson’s criticisms of the Iran war and said that countries such as China, Iran and Russia want to amplify such voices and that this amplification is not organic.
+
+## Update (2026-10-27, interview publication date): The passage does not mention the election
+
+Klippenstein's source is an Epoch Times American Thought Leaders interview. In its auto-captions from about 39:20 to 44:40, Gorka names Iran alongside other nation-state actors and says "we have that knee-jerk," and the passage has no mention of the election, midterms or voting. The link to the election is Klippenstein's framing. The captions were read, not checked by ear, so confirm any quotation against the audio. Read by hand because the sourcing gate cannot read YouTube.

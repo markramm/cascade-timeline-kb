@@ -343,6 +343,10 @@ claims:
   outcome: verified
   checked: '2026-10-29'
 sources:
+- title: "Declaration of Eric Neff, ECF 28-2, NAACP v. Dhillon"
+  url: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.297278/gov.uscourts.dcd.297278.28.2.pdf"
+  outlet: "U.S. District Court, D.D.C., via RECAP"
+  tier: 1
 - title: Notice, ECF 27, NAACP v. Dhillon, No. 1:26-cv-03461-SLS (D.D.C.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297278/gov.uscourts.dcd.297278.27.0.pdf
   publisher: U.S. District Court, District of Columbia (via RECAP)
@@ -448,3 +452,7 @@ The declaration says the division is still identifying all locations it will sen
 ## Update (2026-10-29, order date): Minute order: government "should use reasonable efforts" to produce records on a rolling basis before Nov. 3
 
 In a minute order signed 10/29/2026 (order date), Judge Sparkle L. Sooknanan ordered the parties to continue conferring on processing and producing responsive records and said the Government "should use reasonable efforts to process and produce records on a rolling basis before the November 3, 2026, election." She noted there are only three business days left, and that the Plaintiff "waited over two weeks to begin these discussions after the Government offered". The parties must file a further joint status report by November 12, 2026. The docket text sets no production deadline.
+
+## Update (2026-10-28, declaration date): The Neff declaration, read directly
+
+The declaration of Eric Neff, acting chief of the Voting Section, is ECF 28-2. It states: "There will be no Federal Bureau of Investigation or U.S. Immigration and Customs Enforcement employees, much less agents, serving as monitors." It also describes one U.S. Customs and Border Protection employee detailed to the department who will serve as a monitor. It is a sworn statement of plans, not a record of what happens on Election Day. Read by OCR and by hand because the sourcing gate cannot read this scanned PDF.
