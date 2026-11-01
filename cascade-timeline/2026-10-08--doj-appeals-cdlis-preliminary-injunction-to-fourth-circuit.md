@@ -23,6 +23,21 @@ sources:
   publisher: U.S. District Court, E.D. Va. (via RECAP)
   date: '2026-10-22'
   tier: 1
+- title: Order denying Federal Defendants' motion to stay, ECF 160, E.D. Va. 1:26-cv-2547
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.160.0.pdf
+  publisher: U.S. District Court E.D. Va., via CourtListener RECAP
+  date: '2026-10-29'
+  tier: 1
+- title: Order granting AFT's Section 705 stay, ECF 161
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.161.0.pdf
+  publisher: U.S. District Court E.D. Va., via CourtListener RECAP
+  date: '2026-10-29'
+  tier: 1
+- title: Federal Defendants' Notice of Appeal, ECF 162
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.162.0.pdf
+  publisher: U.S. District Court E.D. Va., via CourtListener RECAP
+  date: '2026-10-30'
+  tier: 1
 tags:
 - records-capture
 - dhs
@@ -132,6 +147,51 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-10-26'
+- type: date
+  value: October 30, 2026
+  span: 'PLEASE TAKE NOTICE that Federal Defendants hereby appeal to the United States Court of Appeals for the Fourth Circuit from this Court’s order granting a stay under 5 U.S.C. § 705, ECF No. 161. Dated: October 30, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: DENIED
+  span: ORDERED that the Federal Defendants’ Motion to Stay, [Doc. No. 136], be, and the same hereby is, DENIED; and it is further
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.160.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: GRANTED
+  span: ORDERED that AFT’s Motion to Stay, [Doc. No. 131], be, and the same hereby is, GRANTED and the Agency Defendants’ Data Demand is STAYED pending further order of the Court; and it is further ORDERED that the hearing on the Motion to Stay currently scheduled for November 4, 2026, is CANCELLED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.161.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: November 4, 2026
+  span: ORDERED that AFT’s Motion to Stay, [Doc. No. 131], be, and the same hereby is, GRANTED and the Agency Defendants’ Data Demand is STAYED pending further order of the Court; and it is further ORDERED that the hearing on the Motion to Stay currently scheduled for November 4, 2026, is CANCELLED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.161.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-01'
+- type: figure
+  value: ECF No. 161
+  span: PLEASE TAKE NOTICE that Federal Defendants hereby appeal to the United States Court of Appeals for the Fourth Circuit from this Court’s order granting a stay under 5 U.S.C. § 705, ECF No. 161.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.162.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-01'
 updates:
 - date: '2026-10-22'
   date_kind: filing date
@@ -148,6 +208,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-subpoenas
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Judge Trenga denies the federal defendants' stay pending appeal and grants AFT's stay of the Data Demand; the federal defendants appeal the stay order
+  claims:
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: cdlis-aamva-injunction
 ---
 
 On October 8, 2026 (filing date) the Federal Defendants noticed an appeal to the Fourth Circuit from the [[2026-09-17--judge-trenga-enjoins-aamva-from-transferring-state-cdlis-records-to-any-federal-agency]] preliminary injunction "and related orders, ECF Nos. 113, 124, 125." The notice is signed for the Justice Department by an Assistant U.S. Attorney with Civil Division Federal Programs Branch trial attorneys.
@@ -157,3 +230,7 @@ Other docket facts from the district-court record (read separately, not from the
 ## Update (2026-10-22, filing date): AAMVA, the defendant holding the records, opposes the government's stay of the CDLIS injunction
 
 The American Association of Motor Vehicle Administrators, itself a defendant in Illinois v. Department of Transportation (No. 1:26-cv-2547, Eastern District of Virginia), filed an opposition to the federal defendants' motion to stay the preliminary injunction pending appeal (Document 152, filed 10/22/26). "AAMVA opposes any stay of this Court’s preliminary injunction pending appeal," the filing says, adding that its position "continues to be that the status quo should be preserved until there is a final ruling on the legality of the Federal Defendants’ request for the CDLIS master pointer records." AAMVA describes DOT's August 11, 2026 letter as one that "orders AAMVA to surrender the master pointer records by August 17, 2026, or face “immediate” penalties."
+
+## Update (2026-10-30, filing date): Judge Trenga denies the federal defendants' stay pending appeal and grants AFT's stay of the Data Demand; the federal defendants appeal the stay order
+
+In orders entered the day before, Judge Trenga denied the Federal Defendants' motion to stay the preliminary injunction pending appeal and granted the American Federation of Teachers' motion for a stay, staying the Agency Defendants' Data Demand to AAMVA pending further order of the Court. Both orders cancelled the hearing set for November 4, 2026. On October 30, 2026 the Federal Defendants noticed an appeal to the Fourth Circuit from the stay order, ECF No. 161.
