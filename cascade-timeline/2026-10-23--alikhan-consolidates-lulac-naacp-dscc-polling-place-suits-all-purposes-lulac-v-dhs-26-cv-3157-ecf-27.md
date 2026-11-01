@@ -242,6 +242,60 @@ claims:
   id: u16
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 30, 2026
+  span: The parties met and conferred (remotely) at two times today, October 30, 2026 – at 1:30 p.m. and 4:45 p.m. – and exchanged numerous emails, as to Plaintiffs’ concerns about Defendants’ production, in response to Request for Production Nos. 3 and 4.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: over 1,600 pages
+  span: Within just three business days, Defendants produced over 1,600 pages of records in response to Plaintiffs’ Requests for Production Nos. 1, 3, and 4.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: October 26
+  span: On October 26, 2026, Defendants provided to Plaintiffs the government’s Responses and Objections to Plaintiffs’ Requests for Production Nos. 1 and 4, and contemporaneously transmitted the associated production through the USAfx platform to Plaintiffs’ counsel.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-10-31'
+- type: date
+  value: October 28
+  span: On October 28, 2026, Defendants provided to Plaintiffs the government’s Responses and Objections to Plaintiffs’ Requests for Production No. 3, and contemporaneously transmitted the associated production through the USAfx platform to Plaintiffs’ counsel.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: Weeklies
+  span: Absent were documents, such as DHS Weeklies, regularly produced by agencies to disseminate changes in agency policy and practice, including potential changes to election-related activities and initiatives.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: privilege log
+  span: Defendants also failed to produce a privilege log alongside their October 26 production until October 28 and have not confirmed whether one is forthcoming.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-capture
 - polling-places
@@ -323,6 +377,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: DHS says it produced over 1,600 pages under the expedited-discovery order; plaintiffs say the production is incomplete and ask for a status conference
+  claims:
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  event_date_claim: u17
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: lulac-naacp-dscc-v-dhs
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -340,3 +408,7 @@ An exhibit to the corrected joint status report filed 10/30/26 shows a governmen
 ## Update (2026-10-30, filing date): After conferring twice, the parties still dispute production and file for a status conference
 
 In a joint motion dated October 30, 2026 (Document 49), the parties say they conferred "at 1:30 p.m. and 4:45 p.m." Plaintiffs "maintain that Defendants have failed to produce responsive materials." The government says "it has complied with this Court's Expedited Discovery Order" and disputes the need for a conference. These are each side's positions.
+
+## Update (2026-10-30, filing date): DHS says it produced over 1,600 pages under the expedited-discovery order; plaintiffs say the production is incomplete and ask for a status conference
+
+Defendants say they served their responses and a production on October 26 and a second on October 28, and that they produced over 1,600 pages in all. Plaintiffs say the production is incomplete, that DHS Weeklies are absent, and that no privilege log came with the October 26 production. The documents produced were served on plaintiffs and are not on the public docket.

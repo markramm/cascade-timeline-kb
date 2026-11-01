@@ -112,6 +112,33 @@ claims:
   url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
   read: fetched
   source_kind: primary
+- type: date
+  value: October 27
+  span: On October 22, the Court granted the motion in part and gave the United States until October 27 to respond to the first two applications.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.12.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: deny the applications without prejudice
+  span: The Court should deny the Applications without prejudice and order the Department to file a status report about the execution of the search warrant within 30 days of the warrant’s completed execution.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.12.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-10-31'
+- type: posture
+  value: does not necessarily oppose unsealing
+  span: The United States does not necessarily oppose unsealing the Search Warrant Records (with appropriate redactions) after that, using the same process and limitations this Court ordered in President Trump’s case.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.12.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - omar
 - hsi
@@ -146,6 +173,23 @@ sources:
   publisher: D.D.C. via RECAP
   date: '2026-10-21'
   tier: 1
+- title: Dkt 12, US consolidated memorandum in opposition (redacted public version), D.D.C. 1:26-mc-144
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.12.0.pdf
+  publisher: D.D.C. via CourtListener RECAP
+  date: '2026-10-27'
+  tier: 1
+updates:
+- date: '2026-10-27'
+  date_kind: filing date
+  heading: Government files redacted public opposition to immediate unsealing
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: omar-search-warrant-unsealing
 ---
 
 The government did not respond to the Omar search-warrant unsealing applications by the deadline the court had set. It asked for more time, and on October 22 Chief Judge James E. Boasberg granted that motion in part and denied it in part.
@@ -155,3 +199,7 @@ The government did not respond to the Omar search-warrant unsealing applications
 **What the government asked for.** Its motion sought to extend the deadlines "until after the subject search warrant has been fully executed," with a status report to follow. Its fallback was a single deadline of November 9, 2026 for all three. The court adopted neither. The reasons are in the sealed memorandum, which is not public. The motion records that the applicants oppose it. The New York Times Company's position, attached to the motion at its request, states that "the Government executed the search warrant on October 12, 2026, and subpoenas have been served on Rep. Omar's family members"; that is the Times' statement to the government, not a court finding.
 
 **Where the record stands.** The docket entries read on the day of this pass list no order unsealing the warrant and no ruling on the applications. Related entries: [[2026-10-12--hsi-searches-rep-ilhan-omar-dc-home-doj-warrant-22-days-before-midterms]] and [[2026-10-14--wsj-reports-omar-probe-aims-to-build-case-to-revoke-citizenship-subpoenas-to-relatives-items-seized]]. This entry makes no finding about purpose.
+
+## Update (2026-10-27, filing date): Government files redacted public opposition to immediate unsealing
+
+The United States filed a redacted public version of its consolidated memorandum opposing access to the sealed search-warrant records, due October 27 under the Court's order. The government writes that the Court should deny the Applications without prejudice. The government also writes that it does not necessarily oppose unsealing the records, with appropriate redactions, after the warrant is fully executed. No ruling on access is reflected in the filing.

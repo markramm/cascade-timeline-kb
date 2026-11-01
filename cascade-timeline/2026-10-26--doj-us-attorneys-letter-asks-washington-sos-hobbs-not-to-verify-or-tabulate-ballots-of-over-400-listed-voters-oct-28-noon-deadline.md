@@ -141,6 +141,42 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: 10/30/26
+  span: Case 2:26-cv-04223 Document 1 Filed 10/30/26 Page 1 of 41
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-10-31'
+- type: figure
+  value: 2:26-cv-04223
+  span: Case 2:26-cv-04223 Document 1 Filed 10/30/26 Page 1 of 41
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Federal law gives DOJ and DHS no authority whatsoever to do any of this.
+  span: Federal law gives DOJ and DHS no authority whatsoever to do any of this.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Defendants expect to send Washington additional names before Election Day.
+  span: Defendants expect to send Washington additional names before Election Day. See id.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-10-31'
 tags:
 - election-capture
 - washington
@@ -189,6 +225,11 @@ sources:
   publisher: KOMO
   date: '2026-10-28'
   tier: 2
+- title: Complaint, OneAmerica Votes v. Trump, W.D. Wash. 2:26-cv-04223, Dkt. 1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0.pdf
+  publisher: U.S. District Court, W.D. Wash., via RECAP
+  date: '2026-10-30'
+  tier: 1
 updates:
 - date: '2026-10-28'
   date_kind: letter date (published on the Secretary of State's newsroom)
@@ -205,6 +246,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-noncitizen-ballot-letters
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: Complaint filed over the Washington demand
+  claims:
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 Dated Oct. 26, 2026, a letter from the acting U.S. Attorney for the Western District of Washington and the Eastern District's deputy federal prosecutor asks Secretary of State Steve Hobbs to review a DHS-sourced list for citizens and, for any listed voter whose ballot comes back, to instruct officials "to not verify the signature and/or tabulate the ballot until citizenship can be determined." It sets a deadline "by October 28 at noon PST" and says otherwise "the United States will have no choice but to seek emergency relief." The letter went by email; the attached list is not in the copy we read.
@@ -222,3 +275,7 @@ Secretary Hobbs's reply to the U.S. Attorneys is dated October 28, 2026, the dea
 On the list itself, the reply says the Justice Department sent a PDF of a printed spreadsheet rather than an electronic spreadsheet, and that it lacked fields such as the Voter ID number and the person's address. KOMO reports the Secretary of State's office said it was "too soon to provide an exact number" of citizens on the list.
 
 The reply closes by urging the prosecutors not to "distract these dedicated public servants from their important work at this late hour with a meritless lawsuit." At the time of this update we found no Justice Department suit or emergency filing over the Washington letter: nothing on the Secretary of State's newsroom, no match in CourtListener search of the Western and Eastern Districts of Washington (RECAP only holds what someone has pulled, so this is not proof of an empty docket), and none in the news coverage we read.
+
+## Update (2026-10-30, filing date): Complaint filed over the Washington demand
+
+A complaint filed 10/30/26 in the Western District of Washington (No. 2:26-cv-04223) names DOJ, DHS and Attorney General Todd Blanche among the defendants. It alleges: "Federal law gives DOJ and DHS no authority whatsoever to do any of this." It also says: "Defendants expect to send Washington additional names before Election Day."

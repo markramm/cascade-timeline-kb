@@ -1251,6 +1251,33 @@ claims:
   id: u126
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: 10/28/26
+  span: Case 3:26-cv-00376-SLG Document 35 Filed 10/28/26 Page 1 of 8
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u127
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Motion to Intervene at Docket 5 is GRANTED
+  span: Campaign Intervenor-Defendants’ Motion to Intervene at Docket 5 is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u128
+  outcome: verified
+  checked: '2026-10-31'
+- type: quote
+  value: Motion to Intervene at Docket 6 is GRANTED
+  span: League of Women Voters Intervenor-Defendants’ Motion to Intervene at Docket 6 is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.35.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u129
+  outcome: verified
+  checked: '2026-10-31'
 tags:
   - election-2026
   - certification
@@ -1654,6 +1681,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-28'
+  date_kind: order date
+  heading: Judge Gleason grants both motions to intervene
+  claims:
+  - u127
+  - u128
+  - u129
+  event_date_claim: u127
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-sullivan
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1723,3 +1761,7 @@ On October 30, 2026, the United States moved for expedited discovery and a preli
 ## Update (2026-10-30, news conference date): The Alaska news conference on the investigations
 
 The U.S. Attorney for the District of Alaska confirmed "criminal and civil investigations into groups affiliated with the U.S. Senate campaign of Democratic candidate Mary Peltola" on Friday, the Alaska Beacon reports, and cited "a significant surge of law enforcement assets to Alaska." The Beacon reports he "did not say what law" the groups are accused of breaking and "declined to say who is being investigated." "I mean, you're assuming that there is a crime being committed," he said. The Beacon reports Judge Gleason "has indicated that she will rule no later than Monday" on whether the federal government has standing.
+
+## Update (2026-10-28, order date): Judge Gleason grants both motions to intervene
+
+Judge Sharon Gleason granted the motions to intervene of Alaskans for Mary and the DSCC (Dkt. 5) and of the League of Women Voters of Alaska and Common Cause (Dkt. 6). The order accepted both intervenors' motions to dismiss as filed.
