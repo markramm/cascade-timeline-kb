@@ -85,6 +85,24 @@ claims:
   url: https://bridgemi.com/michigan-politics/haley-stevens-joins-mike-rogers-in-detroit-bucking-abdul-el-sayed-in-senate-race/
   read: fetched
   source_kind: news
+- type: quote
+  value: Haley Stevens is a traitor!
+  span: Wow — a protester yells “Haley Stevens is a traitor!” and Stevens then wraps up her news conference with Mike Rogers in a hurry
+  url: https://substack.com/api/v1/reader/comment/376002062
+  read: fetched
+  source_kind: news
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: '2026-11-01'
+  span: '2026-11-01T18:02:25.770Z'
+  url: https://substack.com/api/v1/reader/comment/376002062
+  read: fetched
+  source_kind: news
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -112,8 +130,26 @@ sources:
   publisher: MS NOW
   date: '2026-11-01'
   tier: 2
+- title: Aaron Rupar, Substack note
+  url: https://substack.com/@aaronrupar/note/c-376002062
+  publisher: Substack
+  date: '2026-11-01'
+  tier: 2
 captured_by: capture-watch
 cluster: michigan-senate-influence
+approved_names:
+- Aaron Rupar
+updates:
+- date: '2026-11-01'
+  date_kind: publication date of the post
+  heading: A shout at the news conference
+  claims:
+  - u1
+  - u2
+  event_date_claim: u2
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -123,3 +159,7 @@ MS NOW, citing a Democratic source speaking anonymously, reports El-Sayed's camp
 El-Sayed said: "I actually don't think about Haley Stevens." Senate Minority Leader Chuck Schumer called it "a despicable betrayal." Her chief of staff said "many members of our team have resigned." Rogers praised the decision, and Trump praised Stevens' endorsement on Truth Social.
 
 Early voting has been underway since Oct. 24, per Bridge Michigan.
+
+## Update (2026-11-01, publication date of the post): A shout at the news conference
+
+A post by Aaron Rupar with a video clip says a protester yelled "Haley Stevens is a traitor!" at the news conference and that Stevens then wrapped it up in a hurry. That is his description of the clip.
