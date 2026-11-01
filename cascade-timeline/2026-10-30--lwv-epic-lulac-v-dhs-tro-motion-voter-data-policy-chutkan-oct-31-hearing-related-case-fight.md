@@ -157,3 +157,7 @@ EPIC and LULAC moved on October 29 for a TRO, a stay or a preliminary injunction
 ## Update (2026-10-31, filing date): The government's opposition to the TRO
 
 In a corrected memorandum filed 10/31/26 (Document 25), the government argues that plaintiffs "Fail To Establish Final Agency Action Reviewable Under the APA." It says "the letter itself does not segregate ballots." These are the government's arguments.
+
+## Update (2026-10-31, hearing date): Chutkan hears the TRO motion; order forthcoming
+
+The docket's minute entry says Judge Tanya S. Chutkan held a motion hearing on 10/31/2026 on the Dkt. 15 motion for a temporary restraining order, stay under 5 U.S.C. § 705 and/or preliminary injunction: "The Court hears Oral Argument. Order forthcoming." Defendants filed an opposition and a corrected opposition (Dkt. 24, 25) and a notice of recent decision (Dkt. 22); plaintiffs filed a response with supplemental authority (Dkt. 26) and a reply (Dkt. 28). No ruling appears in RECAP as of the early hours of Nov. 1, which only covers what has been uploaded. Read as docket text through CourtListener's API on docket 74968826; hand update, because the sourcing gate can't read docket text.

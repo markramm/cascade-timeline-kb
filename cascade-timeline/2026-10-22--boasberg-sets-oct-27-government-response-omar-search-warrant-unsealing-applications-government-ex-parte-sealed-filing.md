@@ -203,3 +203,7 @@ The government did not respond to the Omar search-warrant unsealing applications
 ## Update (2026-10-27, filing date): Government files redacted public opposition to immediate unsealing
 
 The United States filed a redacted public version of its consolidated memorandum opposing access to the sealed search-warrant records, due October 27 under the Court's order. The government writes that the Court should deny the Applications without prejudice. The government also writes that it does not necessarily oppose unsealing the records, with appropriate redactions, after the warrant is fully executed. No ruling on access is reflected in the filing.
+
+## Update (2026-10-28, order date): Boasberg seals the government's opposition for now; applications consolidated
+
+The government's Oct. 27 opposition is on the public docket in redacted form (above); it also moved to file its memorandum under seal (Dkt. 11). On 10/28/2026 Chief Judge James E. Boasberg granted the motion to seal, adding: "In the event that the Court, after review, believes that a redacted version of the Government's Memorandum should be filed on the public record, it will so order." A 10/29/2026 docket entry consolidates 26mc145 and 26mc147 into this case. Press applicants, Judicial Watch and The New York Times filed replies on 10/30/2026 (Dkt. 18, 19, 20). Read as docket text through CourtListener's API on docket 74969880; hand update, because the sourcing gate can't read docket text.
