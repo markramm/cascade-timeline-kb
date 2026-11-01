@@ -586,6 +586,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 Judge David O. Carter of the Central District of California, in an order dated October 28, 2026 (the order linked below), denied the Justice Department's request to make California and Los Angeles County segregate ballots DOJ had flagged; the order describes the request as seeking "to segregate and exclude over 20,000 ballots": "The Government’s Application for Temporary Restraining Order is DENIED." The order opens: "Never before in American history has the federal government, on the eve of an election," and finds that the United States "likely does not have standing or a cause of action."

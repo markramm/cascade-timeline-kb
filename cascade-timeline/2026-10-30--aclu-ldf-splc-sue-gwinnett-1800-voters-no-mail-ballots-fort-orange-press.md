@@ -198,6 +198,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: mail-ballots-count
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 In a complaint filed Friday on behalf of a voter, the ACLU of Georgia, the Legal Defense Fund and the Southern Poverty Law Center said that more than 1,800 voters in Gwinnett County still have not received their absentee ballots. A Gwinnett County voter sued on behalf of himself and 1,819 other voters who applied for absentee ballots on or after Oct. 6. Nearly 10,000 voters across three of Georgia's most populous counties have experienced absentee ballot delays, the civil rights organizations said in the lawsuit.

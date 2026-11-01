@@ -248,6 +248,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: emergency-powers
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 On October 30, 2026, U.S. District Judge Trina L. Thompson granted a temporary restraining order in Service Employees International Union v. Department of Justice, No. 3:26-cv-12800 (N.D. Cal.). She found defendants "likely violated Section 11(b) of the Voting Rights Act" and wrote that their actions are likely "to have the effect of interfering with election administration and disenfranchising lawful voters."

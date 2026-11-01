@@ -79,6 +79,9 @@ sources:
   tier: 1
 captured_by: capture-watch
 cluster: fulton-records-ladder
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 On Oct 31, 2026, Gov. Gavin Newsom sent a letter to the Chief District Judges for the four federal district courts in California. The letter says he writes “to alert you to the risk to election integrity of judges issuing a search warrant to seize ballots, election records, or certified voting technology while an election is underway and before the results are certified.” He says he is “unaware that there are any such matters at this time”, and that he has “grave concerns federal agents will seek search warrants”. He writes that there is “no legitimate law enforcement reason” for such a seizure.

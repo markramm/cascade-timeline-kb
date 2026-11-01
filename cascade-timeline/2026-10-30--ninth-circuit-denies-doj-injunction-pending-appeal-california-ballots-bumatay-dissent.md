@@ -97,6 +97,9 @@ sources:
 related_events:
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
 - 2026-10-26--ninth-circuit-dismisses-doj-emergency-appeal-california-noncitizen-ballot-segregation-2-1-self-constructed-emergency
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 In a published per curiam order filed October 30 in No. 26-7231, a Ninth Circuit panel denied the United States' emergency motion, in United States v. California, asking it to make the state sequester mail ballots of voters on the federal list. The panel held the district court "did not abuse its discretion" and wrote that "there is no feasible way to identify and segregate the ballots of specific individuals without potentially catastrophic effects on the entire system." It did not decide the threshold questions, writing that it would "assume without deciding" that the United States has standing and a cause of action. Judge Bumatay dissented.  A later order set any rehearing petition for 3:00 p.m. Pacific the same day.

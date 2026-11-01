@@ -150,6 +150,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+coverage:
+- url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
+  title: "Four Election Rulings Against the Government in Three Days"
 ---
 
 EPIC and LULAC moved on October 29 for a TRO, a stay or a preliminary injunction against what they call DHS's Voter Data Transmission Policy. A docket notice sets a hearing before Judge Tanya S. Chutkan for 10/31/2026 at 1:00 PM; it has not happened. Her minute order requires the government's opposition by 9:00am on October 31. The plaintiffs' status report says they offered schedule concessions if the government agreed it "would not send lists of voters to states and localities" until the motion is decided, and that the government "have yet to respond" as of its filing. In a notice filed 10/30/26, the government listed the case as among related cases before Chief Judge Boasberg; the plaintiffs objected, calling theirs a "Privacy Act challenge." These are the parties' positions; the court has not ruled.

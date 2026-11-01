@@ -183,6 +183,9 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-29'
+coverage:
+- url: https://theramm.transparencycascade.org/p/a-36-million-super-pac-with-no-donor
+  title: "A $3.6 Million Super PAC With No Donor Disclosures Yet"
 ---
 
 High Time Nebraska reported spending $50,000 on media placement and production supporting Nebraska Senate candidate MIKE MARVIN, disseminated 10/23/2026 ([[#c1]], [[#c2]], [[#c3]]). Cornhusker Choice reported $55,000 supporting ROBIN MRS. RICHARDS, disseminated the same day ([[#c5]], [[#c6]]).
