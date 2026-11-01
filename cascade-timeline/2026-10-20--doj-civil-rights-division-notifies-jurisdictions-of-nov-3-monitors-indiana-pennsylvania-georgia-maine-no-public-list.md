@@ -317,6 +317,33 @@ claims:
   id: u15
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 30, 2026
+  span: by Thomas Breen October 30, 2026 3:55 pm
+  url: https://www.newhavenindependent.org/2026/10/30/doj-singles-out-city-for-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: We do not permit election monitors to enter any polling places in New Haven.
+  span: 'Republican Registrar of Voters Lisa Milone and Democratic Registrar of Voters Shannel Evans: "We do not permit election monitors to enter any polling places in New Haven."'
+  url: https://www.newhavenindependent.org/2026/10/30/doj-singles-out-city-for-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: plans to send election monitors to New Haven
+  span: The U.S. Department of Justice (DOJ) plans to send election monitors to New Haven on Tuesday to observe
+  url: https://www.newhavenindependent.org/2026/10/30/doj-singles-out-city-for-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-11-01'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -390,6 +417,11 @@ sources:
 - title: Trump Vows to Send Election 'Monitors' to Maine After Far-Right Conspiracies Spread
   url: https://theintercept.com/2026/10/28/maine-trump-election-monitors-voting-polls/
   tier: 2
+- title: DOJ Singles Out City For Election Monitors
+  url: https://www.newhavenindependent.org/2026/10/30/doj-singles-out-city-for-election-monitors/
+  publisher: New Haven Independent
+  date: '2026-10-30'
+  tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -433,6 +465,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-30'
+  date_kind: publication date of the local report
+  heading: New Haven registrars tell DOJ monitors they cannot enter polling places
+  claims:
+  - u16
+  - u17
+  - u18
+  event_date_claim: u16
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -457,3 +500,7 @@ Sangamon County Clerk Don Gray said his office was told that representatives of 
 ## Update (2026-10-27, confirmation date, per The Intercept): DOJ confirms Maine monitors to The Intercept; Bellows on federal-interference planning
 
 The Justice Department on Tuesday confirmed to The Intercept that it intends to send election monitors to Maine and said: "We will have around 1,000 monitors in counties throughout the United States." Maine Secretary of State Shenna Bellows said: "This is the first time ever that we have had to engage in scenario planning to safeguard against potential federal interference in elections." She also said: "We have received complaints about the intrusive filming, photography, and harassment of voters in the City of Lewiston by political operatives." State law enforcement training materials were updated this year on barring armed federal agents from polling sites, The Intercept reports.
+
+## Update (2026-10-30, publication date of the local report): New Haven registrars tell DOJ monitors they cannot enter polling places
+
+The DOJ plans to send election monitors to New Haven, the New Haven Independent reported. The registrars' letter says "We do not permit election monitors to enter any polling places in New Haven."
