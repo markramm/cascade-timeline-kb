@@ -291,6 +291,42 @@ claims:
   id: u27
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: 11/01/26
+  span: Case 1:26-cv-03072-JEB Document 45 Filed 11/01/26 Page 1 of 11
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: MOTION TO STRIKE
+  span: DEFENDANTS’ MOTION TO STRIKE AND TO ORDER PLAINTIFFS TO SHOW CAUSE WHY THEY DID NOT VIOLATE THE COURT’S ORDER
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: in relation to their standing arguments only
+  span: Plaintiffs were permitted to use the 20,000 individual noncitizen list “in relation to their standing arguments only.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: non-standing purposes
+  span: yet Plaintiffs violated the Court’s limitation on use by using the list for non-standing purposes
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - election-capture
 - dhs
@@ -328,6 +364,11 @@ sources:
   publisher: The Associated Press via ABC News
   date: '2026-10-31'
   tier: 2
+- title: Defendants' Motion to Strike and to Order Plaintiffs to Show Cause, ECF 45
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  publisher: U.S. District Court D.D.C., via CourtListener RECAP
+  date: '2026-11-01'
+  tier: 1
 related_events:
 - 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
 - 2026-10-16--sooknanan-rejects-lwv-v-dhs-voter-data-suit-as-related-to-trujillo-reassigned-to-chutkan
@@ -394,6 +435,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: enforcement-funnel
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: DOJ's motion to strike and for a show-cause order
+  claims:
+  - u28
+  - u29
+  - u30
+  - u31
+  event_date_claim: u28
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -422,3 +475,6 @@ Read directly by OCR from Dkt. 43 and Exhibit 17 (Dkt. 43-1); hand update, becau
 
 Three limits. The declarants say matching "could have been more precise" had the voter ID number been included, and that this field and 20 others were "reduced" in the file; they also say the file they received "does not appear to be the identical file" given to Los Angeles County. Their 22 are "entries on the CHIRLA citizen list that fully match," from the plaintiff's own member and client list. And the 3,743, 7,486 and 348,238 figures are stated as "extrapolating" that match rate to 3.8 million naturalized voters. They are projections, not people identified. A name absent from the file is not shown here to be a citizen or a noncitizen. The declarants are the plaintiffs' experts; the government's response had not been read when this was written.
 
+## Update (2026-11-01, filing date): DOJ's motion to strike and for a show-cause order
+
+The government moved to strike part of the plaintiffs' expert declaration and for an order that the plaintiffs show cause why they did not violate the court's minute order, which it says limited the list to standing arguments. The filing says the plaintiffs used the list for non-standing purposes. This is the government's motion, not a finding.
