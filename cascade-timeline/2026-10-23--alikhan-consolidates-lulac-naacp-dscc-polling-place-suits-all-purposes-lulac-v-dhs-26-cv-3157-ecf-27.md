@@ -412,3 +412,7 @@ In a joint motion dated October 30, 2026 (Document 49), the parties say they con
 ## Update (2026-10-30, filing date): DHS says it produced over 1,600 pages under the expedited-discovery order; plaintiffs say the production is incomplete and ask for a status conference
 
 Defendants say they served their responses and a production on October 26 and a second on October 28, and that they produced over 1,600 pages in all. Plaintiffs say the production is incomplete, that DHS Weeklies are absent, and that no privilege log came with the October 26 production. The documents produced were served on plaintiffs and are not on the public docket.
+
+## Update (2026-10-31, minute order date): Hearing set for Nov. 2 unless discovery disputes in the NAACP case are resolved
+
+Judge Loren L. AliKhan ordered the parties in NAACP v. DHS, 26-CV-3263, to continue to meet and confer and file a notice of any updates by 10:00 p.m. on Sunday, Nov. 1. Unless they have fully resolved their discovery disputes by then, she ordered them to appear for a motion hearing at 10:30 a.m. on Monday, Nov. 2, in Courtroom 21. Read as docket text through CourtListener's API on docket 74770115 (no document in RECAP); hand update because the gate can't read docket text.

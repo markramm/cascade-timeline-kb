@@ -145,6 +145,60 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 30, 2026
+  span: By The Associated Press October 30, 2026
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: either intentionally or through gross negligence
+  span: accused ICE of destroying evidence “either intentionally or through gross negligence.”
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: has not cooperated with his investigators
+  span: Teare said the Department of Homeland Security, which oversees ICE, has not cooperated with his investigators
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: fled the scene before the vehicle could be impounded
+  span: He said the ICE officer who drove the SUV that struck Parra Hernandez fled the scene before the vehicle could be impounded.
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: does not show the car hitting him
+  span: The video does not show the car hitting him — that view is blocked by another vehicle
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: reckless
+  span: ICE has said Parra Hernandez stepped in front of the car and called accusations that the officer intentionally struck him false and “reckless.”
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - immigration-enforcement-violence
 - ice-use-of-force
@@ -187,6 +241,11 @@ sources:
   publisher: Houston Public Media
   date: '2026-10-30'
   tier: 2
+- title: ICE Officer Has Been Charged After Striking a Man With a Car in Houston (AP via The Washington Sun)
+  url: https://www.washingtonsun.com/immigration/ice-officer-charged-houston-car
+  publisher: The Associated Press via The Washington Sun
+  date: '2026-10-30'
+  tier: 2
 updates:
 - date: '2026-10-30'
   date_kind: indictment date, as reported
@@ -203,6 +262,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
+- date: '2026-10-30'
+  date_kind: publication date of the AP report
+  heading: Teare accused ICE of destroying evidence "either intentionally or through gross negligence"
+  claims:
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
 ---
 
 Harris County District Attorney Sean Teare said on Tuesday that his office has opened a criminal investigation of the Saturday incident in which an ICE vehicle struck Miguel Parra-Hernandez, and that prosecutors are looking at the possibility of aggravated assault with a deadly weapon. Teare said "that individual was intentionally struck and run over," and told KTRK-TV that "a charging decision is going to come in a relatively short order in this case." He also said that when investigators tried to tow the ICE vehicle for a search warrant, an officer allegedly left the scene in it. ICE called the allegation that the strike was intentional "reckless and false," and a DHS official told NBC News that ICE is reviewing video of the scene as part of an internal investigation. No charge has been filed in the sources reviewed, and the intent finding is the district attorney's position, not a ruling.
@@ -212,3 +285,7 @@ The district attorney is treating the strike as a possible crime rather than an 
 ## Update (2026-10-30, indictment date, as reported): Harris County grand jury indicts the ICE agent
 
 A Harris County grand jury indicted the ICE agent on Friday, the Texas Tribune reports. District Attorney Sean Teare said the charge is felony aggravated assault with a deadly weapon, the agent's vehicle, with a possible sentence of two to 20 years. "The evidence that we have in this case is as clear as any that I've prosecuted or investigated," Teare said. An ICE spokesperson called the indictment a "political stunt by Houston sanctuary politicians" and said federal officers can only be investigated by federal agencies, which Teare called "patently false." The agent's lawyer said: "This was nothing more than an accident." An indictment is a charge, not a finding of guilt.
+
+## Update (2026-10-30, publication date of the AP report): Teare accused ICE of destroying evidence "either intentionally or through gross negligence"
+
+The AP reported on October 30 that District Attorney Sean Teare said the Department of Homeland Security has not cooperated with his investigators and accused ICE of destroying evidence "either intentionally or through gross negligence." He said the officer who drove the SUV fled the scene before the vehicle could be impounded. The AP says the video "does not show the car hitting him" because another vehicle blocks the view. ICE has called accusations that the officer intentionally struck him false and "reckless."
