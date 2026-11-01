@@ -41,11 +41,76 @@ sources:
     publisher: The Indiana Lawyer
     date: '2026-04-01'
     tier: 2
+  - title: Judge hears arguments in Rokita-Marte ICE detainer fight, decision not expected before Nov. 12
+    url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+    publisher: B Square Bulletin
+    date: '2026-10-27'
+    tier: 2
 related_events:
   - 2026-07-14--merrillville-in-tables-rescission-defies-rokita
   - 2026-05-09--tennessee-hb2219-287g-mandatory-sheriff-enrollment-awaiting-signature
 coverage:
   - daily-capture-reports/detention/2026-09-01--monroe-county-in-rokita-marte-consent-decree-ice-detainer-oct27-hearing.md
+claims:
+- type: date
+  value: October 27, 2026
+  span: That's how things stand after more than two hours of oral arguments Tuesday (Oct. 27) in Monroe County circuit court.
+  url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: heard competing requests for summary judgment
+  span: Special judge Luke Rudisill heard competing requests for summary judgment, which is a decision based just on the law and an agreed set of facts.
+  url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: took both motions for summary judgment on the Section 4 issue under advisement
+  span: At the close of Tuesday's hearing, Rudisill took both motions for summary judgment on the Section 4 issue under advisement.
+  url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Nov. 12
+  span: Rudisill gave the two sides until Thursday, Nov. 12, to submit proposed orders.
+  url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
+- type: posture
+  value: whether it matters that an ICE officer's determination is not reviewed by an independent judge
+  span: Another key question was whether it matters that an ICE officer's determination is not reviewed by an independent judge.
+  url: https://bsquarebulletin.com/judge-hears-arguments-in-rokita-marte-ice-detainer-fight-decision-not-expected-before-nov-12/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-01'
+updates:
+- date: '2026-10-27'
+  date_kind: hearing date
+  heading: Special judge hears the summary-judgment motions on the detainer question and takes them under advisement
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: rokita-marte-monroe-county-detainer
 ---
 
 A consent decree signed by Indiana Attorney General **Todd Rokita** and Monroe County Sheriff **Ruben Marté** was **filed August 26, 2026** and **approved August 27** by Monroe County Circuit Court special judge **Luke Rudisill**. It settles Rokita's objections to the sheriff's immigration policy **MCSO-012** — which he first challenged in 2024 — and **expressly states that it does not resolve the dispute over immigration detainer requests.**
@@ -61,3 +126,7 @@ So the decree resolves the abstraction and preserves the concrete. Both sides ke
 Monroe County is home to Indiana University–Bloomington, which has made this a visible test of county policy against state preemption.
 
 **Sourcing note.** The August 26 filing and August 27 approval, Judge Rudisill's role, the MCSO-012 designation, the decree's explicit carve-out of the detainer question, the October 27 summary-judgment hearing, and Roddye's characterization are from B Square Bulletin and the Indiana Daily Student — **both local tier-2 outlets; no tier-1 source covers this**, and the capture's own fact-check flagged that. The two are independent of each other and consistent. **The consent decree itself was not read** and no cause number is recorded; the 2024 origin of Rokita's challenge is as described by the reporting. Roddye's quoted phrase reproduces the source's rendering, which reads "ICE containers" — apparently a transcription slip for "detainers" in the original; it is quoted as published rather than silently corrected, and should be checked against the source before being used in print. The April 2026 suit and the earlier order blocking the detainer law in Monroe County are cited here for the procedural history and were **not re-verified** in this pass.
+
+## Update (2026-10-27, hearing date): Special judge hears the summary-judgment motions on the detainer question and takes them under advisement
+
+The hearing set in the August entry took place on October 27, 2026, in Monroe County circuit court. Special judge Luke Rudisill heard competing requests for summary judgment on the Section 4 issue, and at the close of the hearing he took both motions under advisement. He gave both sides until Thursday, Nov. 12, to submit proposed orders, so no ruling is expected before then. One of the judge's questions was whether it matters that an ICE officer's determination is not reviewed by an independent judge.
