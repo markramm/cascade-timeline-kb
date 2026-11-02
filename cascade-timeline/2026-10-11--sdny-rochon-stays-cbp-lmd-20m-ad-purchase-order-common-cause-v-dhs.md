@@ -1,4 +1,6 @@
 ---
+approved_names:
+- Patriotic Ads
 type: timeline_event
 id: 2026-10-11--sdny-rochon-stays-cbp-lmd-20m-ad-purchase-order-common-cause-v-dhs
 date: '2026-10-11'
@@ -108,6 +110,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: Monday
+  span: The Washington Post reported Monday that two of the ads aired numerous times after the deadline passed at 6:45 p.m. Eastern time Sunday, according to data provided by AdImpact.
+  url: https://www.inquirer.com/politics/nation/judge-blocks-trump-ads-20261012.html
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: reported Monday that two of the ads aired numerous times after the deadline passed at 6:45 p.m. Eastern time Sunday
+  span: The Washington Post reported Monday that two of the ads aired numerous times after the deadline passed at 6:45 p.m. Eastern time Sunday, according to data provided by AdImpact.
+  url: https://www.inquirer.com/politics/nation/judge-blocks-trump-ads-20261012.html
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: moving forward
+  span: But the next day, White House officials said that would apply only “moving forward” and that Trump would not reimburse taxpayers for what had already been spent.
+  url: https://www.inquirer.com/politics/nation/judge-blocks-trump-ads-20261012.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 sources:
   - title: "Order (TRO and Section 705 stay), Common Cause v. Department of Homeland Security, No. 1:26-cv-08882 (JLR) (S.D.N.Y.), ECF 41"
     url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.674638/gov.uscourts.nysd.674638.41.0.pdf
@@ -123,6 +152,11 @@ sources:
     url: https://www.cnn.com/2026/10/05/politics/trump-taxpayer-funded-ads-controversy-super-pac
     publisher: CNN
     date: '2026-10-05'
+    tier: 2
+  - title: Judge blocks Trump ads
+    url: https://www.inquirer.com/politics/nation/judge-blocks-trump-ads-20261012.html
+    publisher: Philadelphia Inquirer
+    date: '2026-10-12'
     tier: 2
 tags:
   - election-2026
@@ -141,6 +175,18 @@ actors:
 capture_lanes:
   - Election Administration Capture
 coverage: []
+updates:
+- date: '2026-10-12'
+  date_kind: publication date of the report
+  heading: Two ads reported on air after the court's deadline
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guardrails
 ---
 
 Judge Jennifer L. Rochon's order in *Common Cause v. Department of Homeland Security* (S.D.N.Y.) is stamped Filed 10/11/26 (order filing date). Granting a temporary restraining order and a stay under the Administrative Procedure Act, it stays the purchase order entered into on or about September 20, 2026 (purchase order date) between Customs and Border Protection and LMD Agency, and stays OMB's apportionment of $20 million for the advertisements that purchase order covers.
@@ -162,3 +208,7 @@ Trump posted on Oct. 5 (post date, per CNN) that "I have decided to do the Patri
 ## Related Entries
 
 - [[2026-09-20--cbp-awards-lmd-agency-20m-national-media-campaign-contract-trump-ads-begin]]
+
+## Update (2026-10-12, publication date of the report): Two ads reported on air after the court's deadline
+
+The Washington Post "reported Monday that two of the ads aired numerous times after the deadline passed at 6:45 p.m. Eastern time Sunday," citing AdImpact data, in the account carried by the Inquirer. White House officials said the MAGA Inc. plan would apply only "moving forward" and that Trump would not reimburse taxpayers for what had already been spent.
