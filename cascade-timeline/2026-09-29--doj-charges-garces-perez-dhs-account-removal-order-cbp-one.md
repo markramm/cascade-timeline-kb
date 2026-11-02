@@ -46,6 +46,11 @@ sources:
     publisher: Texas Tribune
     date: '2026-10-27'
     tier: 2
+  - title: Listen to the audio of traffic stop, car chase of Wilber Garces Perez before he was shot by ICE
+    url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+    publisher: KUT
+    date: '2026-10-21'
+    tier: 2
 related_events:
   - 2026-09-20--ice-agent-shoots-venezuelan-delivery-driver-austin-hsi-fbi-investigate
 coverage: []
@@ -105,6 +110,60 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 21, 2026
+  span: KUT 90.5 | By Mose Buchele Published October 21, 2026 at 11:07 AM CDT
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: KUT has obtained an audio recording
+  span: KUT has obtained an audio recording from the ICE traffic stop and car chase that preceded the shooting of Wilber Garces Perez, the Venezuelan DoorDash driver who was shot by an ICE agent in North Austin last month.
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: requested and obtained
+  span: Court staff also made an audio-recording of the entire hearing, which KUT later requested and obtained.
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: turned off his body camera
+  span: Soon after this, he turned off his body camera.
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: is sealed from public view
+  span: The video is sealed from public view.
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Hey, bro are you working? Because we’re in the middle of a pursuit right now
+  span: “Hey, bro are you working? Because we’re in the middle of a pursuit right now,” D.F. says.
+  url: https://www.kut.org/crime-justice/2026-10-21/wilber-garces-perez-austin-man-shot-ice-immigration-video-audio
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-02'
 updates:
 - date: '2026-10-27'
   date_kind: court filing date, per the Texas Tribune
@@ -117,6 +176,20 @@ updates:
   - u5
   - u6
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
+- date: '2026-10-21'
+  date_kind: publication date of the KUT report
+  heading: KUT publishes audio from the second agent's body camera, taken from the court's recording of the hearing
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u7
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
@@ -161,3 +234,7 @@ The federal charge against Garces Perez himself — filed the same week two sepa
 ## Update (2026-10-27, court filing date, per the Texas Tribune): Garces Perez pleads not guilty; agent testified the body camera was turned off
 
 The Texas Tribune reports that Wilber Rafael Garces Perez entered the not guilty plea in a court filing Tuesday, a week after a grand jury indicted him on one count of assaulting, resisting, impeding and obstructing a federal officer. During a Sept. 30 hearing, DHS Special Agent Rick Bazan testified. He said he interviewed an ICE agent, identified by the initials D.F., who had a body camera that captured the initial traffic stop but later turned it off, and that he didn't ask D.F. why he turned off his body camera. The footage and still image presented in court did not clearly show the mirror hitting the ICE agent, Bazan testified.
+
+## Update (2026-10-21, publication date of the KUT report): KUT publishes audio from the second agent's body camera, taken from the court's recording of the hearing
+
+KUT reported that it obtained an audio recording from the traffic stop and car chase that preceded the shooting, which it says came from the body camera of the ICE agent identified in court as D.F. KUT says the court made an audio recording of the entire hearing, which it requested and obtained. KUT says the video itself “is sealed from public view” and that it describes what its reporters watched in court. On the audio, KUT says D.F. turned off his body camera soon after the exchange in which he said he had lost the location of the chase. KUT quotes D.F. telling a friend at DPS: “Hey, bro are you working? Because we’re in the middle of a pursuit right now.” This is KUT's account of the recording; the video and the court's recording were not reviewed here.
