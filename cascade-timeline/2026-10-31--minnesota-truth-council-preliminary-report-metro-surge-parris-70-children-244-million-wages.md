@@ -94,15 +94,78 @@ claims:
   url: https://kstp.com/?p=4057906
   read: fetched
   source_kind: primary-coverage
+- type: date
+  value: Saturday
+  span: The Governor’s Council on Recording the Truth of Operation Metro Surge and Operation PARRIS, known as the Minnesota Truth Council, released its preliminary report Saturday.
+  url: https://www.kttc.com/2026/11/01/minnesota-truth-council-releases-preliminary-findings-operation-metro-surge-operation-parris/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: council chair Peter Cahill
+  span: In an opening letter, council chair Peter Cahill wrote that the record shows federal immigration activities violated the U.S. and Minnesota constitutions.
+  url: https://www.kttc.com/2026/11/01/minnesota-truth-council-releases-preliminary-findings-operation-metro-surge-operation-parris/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: not a legal process and does not have subpoena power
+  span: The Truth Council is not a legal process and does not have subpoena power.
+  url: https://mn.gov/governor/assets/Minnesota%20Truth%20Council%20Preliminary%20Report_tcm1055-773247.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: December 1, 2026
+  span: By December 1, 2026, the council’s final report will be delivered to the Governor, the majority and minority leaders of the Minnesota legislature, and Minnesota’s congressional delegation pursuant to the Executive Order.
+  url: https://mn.gov/governor/assets/Minnesota%20Truth%20Council%20Preliminary%20Report_tcm1055-773247.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-02'
 sources:
 - title: 'KSTP: Minnesota Truth Council releases preliminary report on Metro Surge, PARRIS'
   url: https://kstp.com/?p=4057906
+  tier: 2
+- title: 'Preliminary Report: The Governor''s Council on Recording the Truth of Operation Metro Surge and Operation PARRIS'
+  url: https://mn.gov/governor/assets/Minnesota%20Truth%20Council%20Preliminary%20Report_tcm1055-773247.pdf
+  publisher: Minnesota Truth Council / Office of the Governor
+  date: '2026-10-31'
+  tier: 1
+- title: 'KTTC: Minnesota Truth Council releases preliminary findings'
+  url: https://www.kttc.com/2026/11/01/minnesota-truth-council-releases-preliminary-findings-operation-metro-surge-operation-parris/
+  publisher: KTTC
+  date: '2026-11-01'
   tier: 2
 actors: []
 tags: []
 summary: A preliminary report released Saturday by the Minnesota Truth Council, created by Gov. Tim Walz to document Operation Metro Surge and Operation PARRIS, says testimony, research and state data show the operations violated constitutional rights and due process protections. It counts more than 70 children detained between Dec. 1, 2025 and March 10, and an estimated $244 million in lost wages for workers in Minneapolis and St. Paul. KSTP reports that the council lacks subpoena power and relied on voluntary testimony and story collection, and that the preliminary report lacked specific details about how it reached its conclusions on each alleged violation. A DHS spokesperson's statement to KSTP says DHS has made more than 11,000 arrests in Minnesota. A final report with recommendations is due Dec. 1. This is a state-created body's findings, not a court or inspector general finding.
 event_date_claim: c1
 source_published_date: '2026-10-31'
+updates:
+- date: '2026-10-31'
+  date_kind: release date as KTTC reports it (MPR News says Friday)
+  heading: 'Report text: the constitutional-violation statement is in the chair''s opening letter'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-detention
 ---
 
 A preliminary report released Saturday by the Minnesota Truth Council, created by Gov. Tim Walz to document Operation Metro Surge and Operation PARRIS, says testimony, research and state data show the operations violated constitutional rights and due process protections. It counts more than 70 children detained between Dec. 1, 2025 and March 10, and an estimated $244 million in lost wages for workers in Minneapolis and St. Paul. KSTP reports that the council lacks subpoena power and relied on voluntary testimony and story collection, and that the preliminary report lacked specific details about how it reached its conclusions on each alleged violation. A DHS spokesperson's statement to KSTP says DHS has made more than 11,000 arrests in Minnesota. A final report with recommendations is due Dec. 1. This is a state-created body's findings, not a court or inspector general finding.
+
+## Update (2026-10-31, release date as KTTC reports it (MPR News says Friday)): Report text: the constitutional-violation statement is in the chair's opening letter
+
+KTTC reports the council released its preliminary report on Saturday. KTTC writes that in an opening letter, council chair Peter Cahill wrote that the record shows federal immigration activities violated the U.S. and Minnesota constitutions. The report's own text says the Truth Council is not a legal process and does not have subpoena power. The report says the final report goes to the Governor, legislative leaders and the congressional delegation by December 1, 2026.
