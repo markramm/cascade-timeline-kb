@@ -154,7 +154,7 @@ verification: source-verified
 updates:
 - date: '2026-10-30'
   date_kind: date of the ICE sworn declaration
-  heading: Reported headcount rises above 150
+  heading: More than 150 could be removed, per a report
   claims:
   - u1
   - u2
@@ -169,6 +169,6 @@ NBC News reported on Oct. 30, 2026 that the administration was preparing to depo
 
 The group AfghanEvac told NBC that "at least 80 Afghans" had been moved to Louisiana from 34 other ICE facilities, 19 of them without lawyers. A senior administration official, unnamed by NBC, described the position this way: "These individuals do not have status in our country, therefore we don’t really care what happens to them." Whether the flight has left is not established by these reports.
 
-## Update (2026-10-30, date of the ICE sworn declaration): Reported headcount rises above 150
+## Update (2026-10-30, date of the ICE sworn declaration): More than 150 could be removed, per a report
 
-An ICE official's sworn declaration of Oct. 30 describes a charter flight from Alexandria, Louisiana, with Pakistan as its final flight destination and further transport to Afghanistan. Amu TV reports that The New York Times has put the number at more than 150 Afghans. AfghanEvac says that in at least one case documented in a federal court filing, the removal order named Afghanistan while the government planned to fly the individual first to Pakistan.
+An ICE official's sworn declaration of Oct. 30 describes a charter flight from Alexandria, Louisiana, with Pakistan as its final flight destination and further transport to Afghanistan. Amu TV reports that The New York Times has reported that more than 150 Afghans could be removed. That is a different measure from the 80 moved to Louisiana. AfghanEvac says that in at least one case documented in a federal court filing, the removal order named Afghanistan while the government planned to fly the individual first to Pakistan.
