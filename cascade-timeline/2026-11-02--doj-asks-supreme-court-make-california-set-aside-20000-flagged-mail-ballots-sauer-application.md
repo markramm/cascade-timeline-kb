@@ -61,6 +61,60 @@ claims:
   url: https://www.pbs.org/newshour/politics/trump-administration-asks-supreme-court-to-sideline-20000-disputed-california-mail-ballots
   read: fetched
   source_kind: secondary
+- type: date
+  value: November 2, 2026
+  span: 'Docketed: November 2, 2026 Lower Ct: United States Court of Appeals for the Ninth Circuit'
+  url: https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: 26A624
+  span: Application (26A624) for injunction pending appeal, submitted to Justice Kagan.
+  url: https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: California to segregate mail ballots from persons whom the United States has identified as likely noncitizens
+  span: This Court should issue an injunction, pending the United States’ appeal to the Ninth Circuit and any subsequent proceedings in this Court, that requires California to segregate mail ballots from persons whom the United States has identified as likely noncitizens.
+  url: https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: administrative injunction
+  span: The Court should also enter an administrative injunction to that effect while it considers this application.
+  url: https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: more than 20,000 individuals who appear to be registered to vote in California
+  span: In this case, this Office has been informed that the United States has identified more than 20,000 individuals who appear to be registered to vote in California based on publicly available information at the time that information was received, but who, in the United States’ view, are likely not U.S. citizens.
+  url: https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: has been informed
+  span: In this case, this Office has been informed that the United States has identified more than 20,000 individuals who appear to be registered to vote in California based on publicly available information at the time that information was received, but who, in the United States’ view, are likely not U.S. citizens.
+  url: https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - midterms-2026
@@ -83,10 +137,35 @@ sources:
   publisher: CNBC
   date: '2026-11-02'
   tier: 2
+- title: Docket, No. 26A624
+  url: https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html
+  publisher: Supreme Court of the United States
+  date: '2026-11-02'
+  tier: 1
+- title: Application for injunction pending appeal
+  url: https://www.supremecourt.gov/DocketPDF/26/26A624/431463/20261102111302952_California%20Application.pdf
+  publisher: Supreme Court of the United States
+  date: '2026-11-02'
+  tier: 1
 related_events:
 - 2026-10-30--ninth-circuit-denies-doj-injunction-pending-appeal-california-ballots-bumatay-dissent
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
 - 2026-10-15--doj-sues-california-weber-la-county-logan-cd-cal-2-26-cv-12025-block-tabulating-ballots-of-20000-flagged-voters
+updates:
+- date: '2026-11-02'
+  date_kind: docketing date
+  heading: 'The application itself: No. 26A624, with a request for an administrative injunction'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 On Monday, the Trump administration filed an emergency appeal at the Supreme Court in United States v. California, asking for a limited injunction that would direct California to set aside some 20,000 mail ballots from people the federal government suspects may not be citizens. "Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back," Solicitor General D. John Sauer wrote, per the Associated Press.
@@ -94,3 +173,7 @@ On Monday, the Trump administration filed an emergency appeal at the Supreme Cou
 On standing, the question the district court decided against it, the government argues it suffers an "injury to its sovereignty". California officials say the list is highly unreliable. The Supreme Court could act at any time, CNBC reports, and has no deadline.
 
 This entry rests on press quotation of the application; the filing itself was not read. See [[2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149]] and [[2026-10-30--ninth-circuit-denies-doj-injunction-pending-appeal-california-ballots-bumatay-dissent]].
+
+## Update (2026-11-02, docketing date): The application itself: No. 26A624, with a request for an administrative injunction
+
+The application is docketed as No. 26A624 and was submitted to Justice Kagan. It asks the Court to require "California to segregate mail ballots from persons whom the United States has identified as likely noncitizens," and also asks for an administrative injunction. On the list, it says the Solicitor General's office "has been informed" of "more than 20,000 individuals who appear to be registered to vote in California."
