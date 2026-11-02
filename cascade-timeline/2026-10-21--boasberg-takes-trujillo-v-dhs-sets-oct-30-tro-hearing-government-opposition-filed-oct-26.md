@@ -462,6 +462,69 @@ claims:
   id: u46
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: November 2, 2026
+  span: '/s/ James E. Boasberg JAMES E. BOASBERG Chief Judge Date: November 2, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.47.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u47
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: preliminarily ENJOINED from issuing demands to California elections officials to compel the segregation of ballots, or other deviations from existing state elections procedures, based on voters’ inclusion on the lists of suspected non-citizens.
+  span: Defendants and their agents are preliminarily ENJOINED from issuing demands to California elections officials to compel the segregation of ballots, or other deviations from existing state elections procedures, based on voters’ inclusion on the lists of suspected non-citizens; and
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.47.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: GRANTED IN PART
+  span: Plaintiffs’ [34] Motion for Temporary Restraining Order and Preliminary Injunction is GRANTED IN PART and DENIED IN PART;
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.47.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: $1.00
+  span: Plaintiffs shall post a bond in the amount of $1.00 by November 4, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.47.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u50
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: has likely violated the Constitution’s Elections Clause
+  span: The Court will grant that relief because it agrees with CHIRLA that the Executive Branch has likely violated the Constitution’s Elections Clause, which commits authority over election rules to the states and Congress alone.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u51
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: the lists are flawed
+  span: But the lists are flawed. Plaintiff Coalition for Humane Immigrant Rights (CHIRLA), an organization that assists recently naturalized citizens with voting, has identified scores of its members who are highly likely to be wrongly listed as non-citizens.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u52
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: remains pending
+  span: In a separate motion that remains pending, Defendants seek to strike a portion of Plaintiffs’ supplemental submission
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u53
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - dhs
@@ -513,6 +576,16 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
   publisher: U.S. District Court for D.C. via RECAP
   date: '2026-11-01'
+  tier: 1
+- title: Order, CHIRLA v. DHS, ECF 47
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.47.0.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-11-02'
+  tier: 1
+- title: Memorandum Opinion, ECF 48
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.48.0.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-11-02'
   tier: 1
 related_events:
 - 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
@@ -631,6 +704,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-02'
+  date_kind: order date
+  heading: Boasberg bars demands that California set aside ballots of listed voters; relief narrower than asked
+  claims:
+  - u47
+  - u48
+  - u49
+  - u50
+  - u51
+  - u52
+  - u53
+  event_date_claim: u47
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -674,3 +762,7 @@ In its response to plaintiffs' supplemental standing brief, filed 11/01/26, the 
 ## Update (2026-11-01, filing date): Plaintiffs answer DOJ's sanctions motion: the order contemplated a public filing
 
 In their response, filed November 1, 2026, plaintiffs ask that the court "deny, in full," the motion. They write that "the Order specifically contemplates a public filing" and that "No entry on the DOJ list has been contacted, directly or indirectly." They argue "these errors increase the chances that the wrong" people will be targeted. A party's filing, not a finding.
+
+## Update (2026-11-02, order date): Boasberg bars demands that California set aside ballots of listed voters; relief narrower than asked
+
+Chief Judge James Boasberg granted CHIRLA's motion in part. Defendants are "preliminarily ENJOINED from issuing demands to California elections officials to compel the segregation of ballots, or other deviations from existing state elections procedures, based on voters' inclusion on the lists of suspected non-citizens." He wrote that the Executive Branch "has likely violated the Constitution's Elections Clause" and that "the lists are flawed." The government's separate motion to strike remains pending.
