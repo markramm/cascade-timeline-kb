@@ -469,3 +469,11 @@ Her chief of staff of eight years, in a statement for the campaign team: "We are
 ## Update (2026-11-01, interview date): Dingell says she pulled the church invitation, not El-Sayed
 
 Rep. Debbie Dingell helped organize the planned joint church appearance and says she asked Stevens not to attend, and that Stevens told her she would abide by that, the AP reports: "I'm the one who pulled it, because it had become way too distracting." She added: "The bishop was getting upset, because this is a real church service." Stevens's video gives a different account: El-Sayed "said I was no longer welcome in his campaign and that I should stay away." Fox News adds, as a separate step, that El-Sayed's campaign asked her to stay away from its remaining events.
+
+## Update (2026-11-01, news conference date): What she and Rogers said at the news conference
+
+From CNN's video of the news conference, https://youtu.be/b0vFVC1aa8I, about 0:30 to 7:04; hand update, because the sourcing gate can't read YouTube. The words were read from auto-captions and checked by ear by the editor.
+
+Stevens said El-Sayed "made very clear that I was not welcome in his campaign," and later, "Abdul was very clear. He said, don't come." Her reason: "We have to stand with country. We can't stand with hate. We can't stand with Hasan Piker." She said, "I woke up this morning and I decided to go to church." Rogers said, "when I got the call this morning," and called the pairing "a statement about standing together against hate"; the examples he gave concerned Jewish students at the University of Michigan.
+
+In these seven minutes neither of them mentions Trump, "jihadist" or anti-Muslim attacks, and one question is taken. That describes this video only. Dingell's account of who pulled the invitation is in the update above.
