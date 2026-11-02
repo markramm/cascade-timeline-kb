@@ -115,6 +115,51 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: on Monday
+  span: The Supreme Court on Monday quickly rejected the Trump administration’s effort to force California officials to set aside 20,000 ballots
+  url: https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: contained no explanation and had no noted dissents
+  span: The court’s one-sentence order contained no explanation and had no noted dissents.
+  url: https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: within hours
+  span: The court rejected the bid within hours and without ordering California to file a response.
+  url: https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: referred the request to the full Court
+  span: Justice Elena Kagan referred the request to the full Court, which rejected it with no noted dissents.
+  url: https://www.democracydocket.com/news-alerts/supreme-court-swiftly-rejects-trump-administration-bid-to-block-california-voters/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: not the end of the lawsuit
+  span: Although it technically is not the end of the lawsuit in California
+  url: https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - midterms-2026
@@ -147,6 +192,21 @@ sources:
   publisher: Supreme Court of the United States
   date: '2026-11-02'
   tier: 1
+- title: Supreme Court rejects Trump administration's bid to set aside 20,000 California ballots
+  url: https://thehill.com/regulation/court-battles/6190525-supreme-court-trump-administration-california-ballots/
+  publisher: The Hill
+  date: '2026-11-02'
+  tier: 2
+- title: Supreme Court swiftly rejects Trump administration bid to block California voters
+  url: https://www.democracydocket.com/news-alerts/supreme-court-swiftly-rejects-trump-administration-bid-to-block-california-voters/
+  publisher: Democracy Docket
+  date: '2026-11-02'
+  tier: 2
+- title: The Supreme Court rejects a DOJ push to separate California ballots
+  url: https://www.npr.org/2026/11/02/nx-s1-6023802/supreme-court-california-voting-ballots-trump
+  publisher: NPR
+  date: '2026-11-02'
+  tier: 2
 related_events:
 - 2026-10-30--ninth-circuit-denies-doj-injunction-pending-appeal-california-ballots-bumatay-dissent
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
@@ -166,6 +226,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-02'
+  date_kind: order date
+  heading: Supreme Court rejects the application in a one-sentence order
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 On Monday, the Trump administration filed an emergency appeal at the Supreme Court in United States v. California, asking for a limited injunction that would direct California to set aside some 20,000 mail ballots from people the federal government suspects may not be citizens. "Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back," Solicitor General D. John Sauer wrote, per the Associated Press.
@@ -177,3 +250,7 @@ This entry rests on press quotation of the application; the filing itself was no
 ## Update (2026-11-02, docketing date): The application itself: No. 26A624, with a request for an administrative injunction
 
 The application is docketed as No. 26A624 and was submitted to Justice Kagan. It asks the Court to require "California to segregate mail ballots from persons whom the United States has identified as likely noncitizens," and also asks for an administrative injunction. On the list, it says the Solicitor General's office "has been informed" of "more than 20,000 individuals who appear to be registered to vote in California."
+
+## Update (2026-11-02, order date): Supreme Court rejects the application in a one-sentence order
+
+The Supreme Court on Monday rejected the application. The one-sentence order "contained no explanation and had no noted dissents," The Hill reports, and the Court acted within hours and without ordering California to file a response. Justice Elena Kagan referred the request to the full Court, Democracy Docket reports. The Hill notes the order is not technically the end of the lawsuit.
