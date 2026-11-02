@@ -454,6 +454,33 @@ claims:
   id: u41
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: Sunday
+  span: Many of Stevens’ Democratic critics on Sunday blamed Stevens’ fiancé, Michigan lawyer Jason Turkish, who endorsed Rogers last week and did media interviews criticizing El-Sayed as uncommitted to Jewish safety.
+  url: https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened
+  read: fetched
+  source_kind: secondary
+  id: u42
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Michigan lawyer Jason Turkish
+  span: Many of Stevens’ Democratic critics on Sunday blamed Stevens’ fiancé, Michigan lawyer Jason Turkish, who endorsed Rogers last week and did media interviews criticizing El-Sayed as uncommitted to Jewish safety.
+  url: https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened
+  read: fetched
+  source_kind: secondary
+  id: u43
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: endorsed Rogers last week and did media interviews criticizing El-Sayed as uncommitted to Jewish safety
+  span: Many of Stevens’ Democratic critics on Sunday blamed Stevens’ fiancé, Michigan lawyer Jason Turkish, who endorsed Rogers last week and did media interviews criticizing El-Sayed as uncommitted to Jewish safety.
+  url: https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened
+  read: fetched
+  source_kind: secondary
+  id: u44
+  outcome: verified
+  checked: '2026-11-02'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -541,9 +568,15 @@ sources:
   publisher: CBS News
   date: '2026-11-01'
   tier: 2
+- title: How an attempt at Democratic unity exploded
+  url: https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened
+  publisher: CNN
+  date: '2026-11-01'
+  tier: 2
 captured_by: capture-watch
 cluster: michigan-senate-influence
 approved_names:
+- Jason Turkish
 - Aaron Rupar
 updates:
 - date: '2026-11-01'
@@ -643,6 +676,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: outside-money-tx-mi-senate
+- date: '2026-11-01'
+  date_kind: publication date of the CNN report
+  heading: Her fiancé's public role, per CNN
+  claims:
+  - u42
+  - u43
+  - u44
+  event_date_claim: u42
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -688,3 +732,7 @@ On CNN on Sunday, Anderson Cooper put it to Rep. Haley Stevens that Rep. Debbie 
 ## Update (2026-11-01, broadcast date): 60 Minutes leads with the race; candidates only, plus a CBS fact-check of both
 
 CBS wrote: "we led tonight's 60 Minutes broadcast with this story." Its correspondent "sat down with both candidates." On Republican candidate Mike Rogers's letter claim, CBS wrote that Democrat Abdul El-Sayed "was among 46 Egyptian-Americans who signed a letter" to Egypt's president. CBS also wrote that El-Sayed "is not a member of the Democratic Socialists of America" and that it "was unable to verify that Rogers made $14 million."
+
+## Update (2026-11-01, publication date of the CNN report): Her fiancé's public role, per CNN
+
+CNN reported that Stevens's fiancé, "Michigan lawyer Jason Turkish," "endorsed Rogers last week and did media interviews criticizing El-Sayed as uncommitted to Jewish safety," and that some Democrats blamed him for her reversal.
