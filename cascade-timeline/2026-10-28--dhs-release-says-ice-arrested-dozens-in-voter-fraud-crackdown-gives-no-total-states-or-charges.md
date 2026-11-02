@@ -178,6 +178,51 @@ claims:
   id: u9
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: November 2, 2026
+  span: November 2, 2026Washington, DC, United StatesNational Security
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: just SOME of ICE’s ongoing investigation and arrests
+  span: 'The following 19 cases are just SOME of ICE’s ongoing investigation and arrests:'
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Every illegal vote cancels out a vote of an American citizen.
+  span: “Every illegal vote cancels out a vote of an American citizen.
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: Micah Bock
+  span: “The pervasive nature of illegal alien election fraud should concern every American.” said ICE Public Affairs Assistant Director Micah Bock.
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: '19'
+  span: 'The following 19 cases are just SOME of ICE’s ongoing investigation and arrests:'
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-02'
 event_date_claim: c1
 captured_by: capture-watch
 cluster: newsrooms
@@ -205,6 +250,11 @@ sources:
   url: https://www.ice.gov/news/releases/ice-continues-arrest-dozens-illegal-aliens-nationwide-crackdown-voter-fraud
   publisher: U.S. Immigration and Customs Enforcement
   date: '2026-10-30'
+  tier: 1
+- title: In Nationwide crackdown on voter fraud ICE arrests dozens of aliens
+  url: https://www.ice.gov/news/releases/nationwide-crackdown-voter-fraud-ice-arrests-dozens-aliens
+  publisher: U.S. Immigration and Customs Enforcement
+  date: '2026-11-02'
   tier: 1
 related_events:
 - 2026-09-01--dhs-hsi-voter-fraud-surge-nine-states-midterms
@@ -241,6 +291,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: newsrooms
+- date: '2026-11-02'
+  date_kind: press release date
+  heading: ICE publishes a list of 19 cases the day before the election
+  claims:
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  event_date_claim: u10
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: newsrooms
 ---
 
 In a release dated October 28, 2026, the Department of Homeland Security said ICE "has arrested dozens of individuals in connection with alleged voter fraud and election-related offenses across the United States," including people DHS says admitted to "unlawfully registering to vote or casting ballots." DHS Secretary Markwayne Mullin said "The patriots of ICE have arrested dozens of non-citizens who illegally voted in American elections" and that "Some of them have criminal histories." The release then gives 13 examples of what it calls "ongoing investigations and arrests," each with a name, a country of origin, the election year DHS says the person voted in, and a criminal history. This entry names none of them.
@@ -256,3 +319,7 @@ On October 29, 2026, ICE published a release on an HSI Philadelphia arrest of a 
 ## Update (2026-10-30, press release date): ICE's own release lists 17 cases and calls them "just SOME" of its investigations
 
 On October 30, 2026, ICE published its own release, which says ICE announced Oct. 28 "another round" of arrests tied to alleged voter fraud and election-related offenses. It lists 17 cases that it calls "just SOME of ICE's ongoing investigations and arrests." ICE Public Affairs Assistant Director Micah Bock is quoted in it: "We have uncovered hundreds of cases of election fraud and the extent of this problem continues to expand." This is the agency's own account; the entry does not name the people in the list.
+
+## Update (2026-11-02, press release date): ICE publishes a list of 19 cases the day before the election
+
+On November 2, 2026, ICE published a further release listing 19 cases it calls "just SOME of ICE’s ongoing investigation and arrests". It again gives no total. ICE Public Affairs Assistant Director Micah Bock is quoted: "Every illegal vote cancels out a vote of an American citizen." The release closes by directing readers to a tip line for reporting voter fraud. This is the agency's own account; the entry does not name the people in the list.

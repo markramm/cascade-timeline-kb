@@ -115,6 +115,78 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- type: date
+  value: Sunday
+  span: In a filing Sunday, the civil rights groups cited recent statements from a senior official in the DOJ’s Civil Rights Division indicating that federal agents from several different federal law enforcement agencies could be used to watch the polls on Election Day.
+  url: https://www.democracydocket.com/news-alerts/naacp-asks-court-to-block-doj-from-deploying-federal-agents-as-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: Reggie Walton
+  span: Specifically, the NAACP is asking U.S. District Judge Reggie Walton to issue a temporary restraining order barring the Trump administration from assigning agents, officers or personnel from federal law enforcement agencies to serve in the DOJ’s election monitoring program.
+  url: https://www.democracydocket.com/news-alerts/naacp-asks-court-to-block-doj-from-deploying-federal-agents-as-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: any agents, officers, or personnel from any of Defendants’ federal law enforcement agencies
+  span: Defendants are ENJOINED from permitting or including any agents, officers, or personnel from any of Defendants’ federal law enforcement agencies to serve in its DOJ-led election monitoring program;
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.2_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: firearms, badges, camera equipment
+  span: Alternatively, the group requested that Walton, whom former President George H.W. Bush nominated, prohibit agents from carrying firearms, badges, camera equipment or conducting law enforcement activities while serving as monitors.
+  url: https://www.democracydocket.com/news-alerts/naacp-asks-court-to-block-doj-from-deploying-federal-agents-as-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: 1:30 p.m.
+  span: Walton ordered a hearing Monday at 1:30 p.m. ET on the NAACP’s motion.
+  url: https://www.democracydocket.com/news-alerts/naacp-asks-court-to-block-doj-from-deploying-federal-agents-as-election-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: personnel from federal law enforcement agencies
+  span: On October 28th, the Department of Justice (“DOJ”) confirmed that it will deploy personnel from federal law enforcement agencies including the Bureau of Prisons (“BOP”), Drug Enforcement Administration (“DEA”), and the Bureau of Alcohol, Tobacco, Firearms and Explosives (“ATF”) to polling sites across the country as poll monitors.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: not engaging any sworn law enforcement personnel who are legally authorized to effectuate an arrest to act as monitors
+  span: Mr. Neff suggests that there is no reason for concern because the Civil Rights Division “is not engaging any sworn law enforcement personnel who are legally authorized to effectuate an arrest to act as monitors in a ‘law enforcement agent’ capacity.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: being deployed as an election monitor does not suspend a law enforcement agent’s authority to effectuate arrests
+  span: But, being deployed as an election monitor does not suspend a law enforcement agent’s authority to effectuate arrests.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - election-monitors
@@ -139,6 +211,21 @@ sources:
   publisher: CourtListener
   date: '2026-10-19'
   tier: 1
+- title: Memorandum in support of emergency motion for TRO, ECF 14-1, NAACP v. Blanche
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: Proposed order, ECF 14-2, NAACP v. Blanche
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.2_1.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: NAACP asks court to block DOJ from deploying federal agents as election monitors
+  url: https://www.democracydocket.com/news-alerts/naacp-asks-court-to-block-doj-from-deploying-federal-agents-as-election-monitors/
+  publisher: Democracy Docket
+  date: '2026-11-02'
+  tier: 2
 related_events:
 - 2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
@@ -149,6 +236,23 @@ coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 verification: source-verified
+updates:
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: NAACP seeks a restraining order against monitors from federal law enforcement agencies; Judge Walton sets a hearing
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 The NAACP, the Rev. Andre Miller, Nicholas Little and Daniella Pierre sued Attorney General Todd Blanche (official capacity), Assistant Attorney General Harmeet Dhillon (official capacity) and the Department of Justice in the D.D.C. (No. 1:26-cv-03626); the complaint is stamped Filed 10/16/26 (the filing date). It is a different case from the FOIA suit NAACP v. Dhillon ([[2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461]]): it asks the court for relief about the monitoring program itself, not for records.
@@ -160,3 +264,9 @@ Relief sought. The prayer does not ask the court to bar all monitors from pollin
 Schedule. Not established from the record read: whether any motion for a temporary restraining order or preliminary injunction has been filed, a hearing date, or an assigned judge. RECAP's copy of the docket, read through the CourtListener API on the evening of the entry's research date, lists the complaint, a notice of appearance by plaintiffs' counsel, a corporate disclosure statement and one later notice of appearance, and nothing else. Treat the absence of a motion in that copy as a dated negative, not a finding that none exists. The complaint alleges (its claim) that the Department has never before deployed more than 600 monitors; the 1,000 figure it attributes to Dhillon's Aug. 17, 2026 announcement.
 
 Function: a suit that asks a court to limit who DOJ may use as monitors, and a complaint that pleads that no statute authorizes staff monitors at all. The government has not yet answered it on the record.
+
+## Update (2026-11-01, filing date): NAACP seeks a restraining order against monitors from federal law enforcement agencies; Judge Walton sets a hearing
+
+The NAACP filed an [emergency motion for a temporary restraining order](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf) on Sunday before Judge Reggie Walton. Its [proposed order](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.2_1.pdf) would bar "any agents, officers, or personnel from any of Defendants' federal law enforcement agencies" from the department's monitoring program. In the alternative, Democracy Docket reports, the group asked that agents be barred from carrying firearms, badges or camera equipment. Walton set a hearing for 1:30 p.m. ET on Monday. This is a motion, not a ruling.
+
+For the sworn Neff declaration, see [[2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461]].  The NAACP characterizes it as confirming deployment of "personnel from federal law enforcement agencies". The declaration's word for those from the Bureau of Prisons, ATF and DEA is employees, and the memorandum itself quotes Neff saying the division is "not engaging any sworn law enforcement personnel who are legally authorized to effectuate an arrest to act as monitors" in a law enforcement capacity. The motion's argument is that a deployed agent keeps that authority: "being deployed as an election monitor does not suspend a law enforcement agent's authority to effectuate arrests." That is the plaintiffs' argument, not a finding.
