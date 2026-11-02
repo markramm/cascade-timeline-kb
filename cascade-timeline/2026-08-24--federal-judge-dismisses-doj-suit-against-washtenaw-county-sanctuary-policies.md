@@ -34,6 +34,41 @@ sources:
     publisher: WEMU
     date: '2026-08-25'
     tier: 1
+  - title: Notice of Appeal, ECF No. 33, United States v. County of Washtenaw, 4:26-cv-11166-FKB-EAS (E.D. Mich.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.mied.393419/gov.uscourts.mied.393419.33.0.pdf
+    publisher: RECAP / E.D. Mich.
+    date: '2026-10-19'
+    tier: 1
+claims:
+- type: date
+  value: October 19, 2026
+  span: 'Please take notice that Plaintiff United States of America hereby appeals to the United States Court of Appeals for the Sixth Circuit from this Court’s Opinion and Order, ECF No. 30, and Judgment, ECF No. 31, entered on August 21, 2026. DATE: October 19, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mied.393419/gov.uscourts.mied.393419.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Opinion and Order, ECF No. 30, and Judgment, ECF No. 31, entered on August 21, 2026
+  span: Please take notice that Plaintiff United States of America hereby appeals to the United States Court of Appeals for the Sixth Circuit from this Court’s Opinion and Order, ECF No. 30, and Judgment, ECF No. 31, entered on August 21, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mied.393419/gov.uscourts.mied.393419.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+updates:
+- date: '2026-10-19'
+  date_kind: filing date
+  heading: DOJ files notice of appeal to the Sixth Circuit
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-washtenaw-sanctuary
 ---
 
 ## Opening
@@ -99,3 +134,7 @@ voter-roll litigation record both show the same shape. **Get the grounds before 
 - [[2026-06-10--ypsilanti-raid-eight-defendant-federal-indictment-unsealed]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[2026-07-09--doj-sues-maryland-community-trust-act-sanctuary]]
+
+## Update (2026-10-19, filing date): DOJ files notice of appeal to the Sixth Circuit
+
+The United States filed a notice of appeal on October 19, 2026, appealing the Opinion and Order, ECF No. 30, and Judgment, ECF No. 31, entered on August 21, 2026. A notice of appeal is a filing, not a ruling; no Sixth Circuit order has been read.
