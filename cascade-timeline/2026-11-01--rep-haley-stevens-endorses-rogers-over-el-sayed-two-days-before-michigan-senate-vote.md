@@ -202,6 +202,60 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Sunday
+  span: Fallout over Stevens’ endorsement of Rogers continued Sunday, with figures from the progressive left stepping up to back El-Sayed.
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u14
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: We are shocked and heartbroken by Congresswoman Stevens’ decision to support Mike Rogers.
+  span: This election is too important to sow division or stand on the sidelines. We are shocked and heartbroken by Congresswoman Stevens’ decision to support Mike Rogers.”
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u15
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Rep. Haley Stevens’ staff is right to resign in disgust
+  span: “Rep. Haley Stevens’ staff is right to resign in disgust,” Sanders posted on X.
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u16
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: went another 180 degrees overnight, so something was going on there
+  span: California governor Gavin Newsom said on the political talkshow 2WAY that Stevens “went another 180 degrees overnight, so something was going on there”.
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u17
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: This may be curiously the October surprise of sorts
+  span: “She’s been successful at taking our eye off the ball and that’s why I understand party leadership condemning it ... This may be curiously the October surprise of sorts,” he added.
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u18
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: eight years
+  span: “As Haley Stevens’ Chief of staff for eight years, I speak on behalf of our team in wholeheartedly supporting Abdul El-Sayed for Senate.
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  read: fetched
+  source_kind: news
+  id: u19
+  outcome: verified
+  checked: '2026-11-01'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -259,6 +313,11 @@ sources:
   publisher: Al Jazeera
   date: '2026-11-01'
   tier: 2
+- title: Democrat Haley Stevens endorses Abdul El-Sayed's Republican rival Mike Rogers
+  url: https://www.theguardian.com/us-news/2026/nov/01/abdul-el-sayed-haley-stevens-michigan-senate
+  publisher: The Guardian
+  date: '2026-11-01'
+  tier: 2
 captured_by: capture-watch
 cluster: michigan-senate-influence
 approved_names:
@@ -293,6 +352,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: statement date
+  heading: Her staff, Sanders and Newsom
+  claims:
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  event_date_claim: u14
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -310,3 +383,7 @@ A post by Aaron Rupar with a video clip says a protester yelled "Haley Stevens i
 ## Update (2026-11-01, statement date): The Democratic response beyond Schumer
 
 Michigan Democratic Party Chair Curtis Hertel: "Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future." and "This is not high school." DNC Chair Ken Martin: the endorsement "is a betrayal of the values of the Democratic Party." Rep. Nancy Pelosi: Stevens chose to "dangerously betray Michigan families' healthcare, freedoms and future." Rep. Debbie Dingell: "I was stunned since she had told me she wasn't doing that last night at midnight." Sen. Gary Peters: "extremely disappointed". Sen. Elissa Slotkin: "There is simply too much at stake." Rep. Jared Huffman: "Pathetic, petty, selfish, unhinged," Sen. Bernie Sanders: "fragile ego." State Sen. Mallory McMorrow: "If anything, I think it's going to backfire."
+
+## Update (2026-11-01, statement date): Her staff, Sanders and Newsom
+
+Her chief of staff of eight years, in a statement for the campaign team: "We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers." Sen. Bernie Sanders: "Rep. Haley Stevens' staff is right to resign in disgust." California Gov. Gavin Newsom: Stevens "went another 180 degrees overnight, so something was going on there," and "This may be curiously the October surprise of sorts."
