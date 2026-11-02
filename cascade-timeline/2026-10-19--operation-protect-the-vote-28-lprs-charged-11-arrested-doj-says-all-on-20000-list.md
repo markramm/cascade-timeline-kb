@@ -366,6 +366,24 @@ claims:
   id: u13
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: 10/16/26
+  span: 'Case 2:26-mj-06067-DUTY Document 1 Filed 10/16/26 Page 6 of 10 Page ID #:6'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1044525/gov.uscourts.cacd.1044525.1.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: In August 2026, DHS HSI Los Angeles received investigative referrals
+  span: In August 2026, DHS HSI Los Angeles received investigative referrals provided by HSI Identity and Benefit Fraud Unit (“IBFU”) with relevant information regarding alleged voter fraud or related identity-based fraud indicators.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1044619/gov.uscourts.cacd.1044619.1.0_2.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-02'
 tags:
   - electoral-manipulation
   - noncitizen-voting-claims
@@ -407,6 +425,16 @@ sources:
     publisher: CourtListener RECAP
     date: '2026-10-16'
     tier: 1
+  - title: Criminal complaint and affidavit, C.D. Cal. 2:26-mj-06068, Doc. 1
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1044619/gov.uscourts.cacd.1044619.1.0_2.pdf
+    publisher: CourtListener RECAP
+    date: '2026-10-16'
+    tier: 1
+  - title: Criminal complaint and affidavit, C.D. Cal. 2:26-mj-06067, Doc. 1
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1044525/gov.uscourts.cacd.1044525.1.0.pdf
+    publisher: CourtListener RECAP
+    date: '2026-10-16'
+    tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/california-says-under-oath-that-grand
   title: "California Says Under Oath that Grand-Jury Subpoenas Have Sought Voter Records for About 300 People Since August"
@@ -440,6 +468,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-v-california-voter-roll
+- date: '2026-10-16'
+  date_kind: complaint filing date
+  heading: Other California complaints filed the same day swear to the same August referral
+  claims:
+  - u14
+  - u15
+  event_date_claim: u14
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-california-voter-roll
 ---
 
 On Monday, Oct. 19, 2026 (arrest date), federal law enforcement "throughout California today arrested 11 foreign nationals," according to the U.S. Attorney's Office for the Central District of California; the Justice Department's companion release puts them "among 28 total charged" in criminal complaints. The releases call this "Operation Protect the Vote," a coordinated effort among all four California-based U.S. Attorney's Offices. They say all "28 foreign nationals charged are lawful permanent residents" (green-card holders). The charges, the release says, include "making false statements in a naturalization application," with some defendants also charged with "fraudulent voter registration," felonies carrying a statutory maximum of five years. Eastern District defendants are charged with "voting by an alien in a federal election, a misdemeanor" (one-year maximum); Northern District defendants with "attempted procurement of naturalization contrary to law" among other counts; Southern District defendants with "false claim to citizenship to vote" among other counts. The release alleges that "in many cases, the defendants illegally voted in recent U.S. elections." Its per-defendant descriptions, by our own count, allege that 22 of the 28 defendants cast a ballot, the same count Democracy Docket reached; the rest are described by registration or naturalization statements alone, and one Central District defendant "submitted a provisional ballot in 2020" without the release saying it was counted. The release does not identify the election type for many of the alleged votes, so a general-election tally depends on assumptions: Democracy Docket's "approximately 25 to 27 allegedly illegal votes" is its own estimate after "giving DOJ the maximum plausible benefit of the doubt" (its words), not a DOJ figure, and the votes DOJ itself labels as general or November elections are fewer. The release does not say which defendants were arrested. The release adds that the complaints "merely contain allegations" and that the defendants are presumed innocent. This entry does not name the defendants.
@@ -453,3 +491,7 @@ An Associated Press analysis published Oct 23, 2026 (the publication date) found
 ## Update (2026-10-16, complaint filing date): A California complaint swears to an HSI referral in August and voter records in September
 
 In one of the California complaints, stamped Filed 10/16/26 (filing date), the HSI agent swears: “In August 2026, DHS HSI Los Angeles received investigative referrals” from the HSI Identity and Benefit Fraud Unit, and “In September 2026, SAs received a certified voter registration application” from the Los Angeles County Registrar. The affidavit does not mention the list.
+
+## Update (2026-10-16, complaint filing date): Other California complaints filed the same day swear to the same August referral
+
+Affidavits in other C.D. Cal. complaints stamped Filed 10/16/26 (filing date) repeat the HSI agent's sentence that “In August 2026, DHS HSI Los Angeles received investigative referrals” from the HSI Identity and Benefit Fraud Unit. The affidavits do not say what the referrals were based on, and do not mention the list.
