@@ -245,6 +245,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: October 30, 2026
+  span: By Amy Sherman October 30, 2026 By Caleb McCullough October 30, 2026
+  url: https://politifact.com/article/2026/oct/30/el-sayed-stevens-michigan-israel-midterms/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: $1,000
+  span: He told PolitiFact that the PAC has spent $1,000 on the current digital ad and it has not run on TV, other than in news coverage.
+  url: https://politifact.com/article/2026/oct/30/el-sayed-stevens-michigan-israel-midterms/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: 6.5 million views
+  span: Uygur, host of political commentary show The Young Turks, shared the ad over the weekend, garnering around 6.5 million views as of Tuesday.
+  url: https://www.newsweek.com/inside-the-origins-of-the-pro-el-sayed-grocery-prices-ad-12625534
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - michigan-senate
 - el-sayed
@@ -283,6 +310,16 @@ sources:
   publisher: Federal Election Commission
   date: '2026-10-31'
   tier: 1
+- title: A controversial ad and Democratic infighting
+  url: https://politifact.com/article/2026/oct/30/el-sayed-stevens-michigan-israel-midterms/
+  publisher: PolitiFact
+  date: '2026-10-30'
+  tier: 2
+- title: Inside the Origins of the Pro-El-Sayed Grocery Prices Ad
+  url: https://www.newsweek.com/inside-the-origins-of-the-pro-el-sayed-grocery-prices-ad-12625534
+  publisher: Newsweek
+  date: '2026-10-28'
+  tier: 2
 lane: Democratic Erosion
 cluster: michigan-senate-influence
 captured_by: investigation-research
@@ -290,6 +327,18 @@ coverage: []
 related_events:
 - 2026-10-19--empowering-black-america-pac-anti-el-sayed-ads-mercury-public-affairs-michigan-public
 - 2026-10-27--vance-howell-michigan-rally-links-el-sayed-to-paris-riots-and-hasan-piker-while-avoiding-anti-muslim-rhetoric-per-michigan-advance
+updates:
+- date: '2026-10-30'
+  date_kind: publication date
+  heading: 'PolitiFact: Uygur says the PAC spent $1,000 on the digital ad, with no TV run beyond news coverage'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-outside-money
 ---
 
 Rebellion PAC, which commentator Cenk Uygur fronts, released a grocery-store ad that Jewish Telegraphic Agency (JTA) reported on Oct. 26, 2026, and the El-Sayed campaign said the ad “is not affiliated in any way” with it.
@@ -322,3 +371,7 @@ Michigan Advance writes that Uygur is Hasan Piker's uncle, and Wikipedia's Piker
 - Whether any FEC filing reports spending on the grocery ad itself.
 - Rebellion PAC's next FEC report, to see whether the grocery ad's spending is reported.
 - Rebellion PAC cofounder Brianna Wu told Jewish Insider she has not been involved with Rebellion PAC since 2022.
+
+## Update (2026-10-30, publication date): PolitiFact: Uygur says the PAC spent $1,000 on the digital ad, with no TV run beyond news coverage
+
+PolitiFact, published Oct. 30, reports that Uygur told it the PAC has spent $1,000 on the current digital ad and that it has not run on TV, other than in news coverage. Newsweek reported the video at around 6.5 million views.
