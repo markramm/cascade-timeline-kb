@@ -103,6 +103,105 @@ claims:
   id: u2
   outcome: verified
   checked: '2026-11-01'
+- type: quote
+  value: Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future.
+  span: '"Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future," he said.'
+  url: https://www.fox2detroit.com/news/haley-stevens-mike-rogers-endorsement-draws-democrat-backlash
+  read: fetched
+  source_kind: news
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: date
+  value: Sunday
+  span: Michigan Democratic Rep. Debbie Dingell said Sunday that Rep. Haley Stevens “seriously hurt herself” by endorsing GOP Senate candidate Mike Rogers in response to a question from CNN’s Brian Todd on whether Stevens still has a future in the Democratic party.
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  read: fetched
+  source_kind: news
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: This is not high school.
+  span: “This is not high school. This is not some kind of drama club or a glee club,” Hertel told CNN’s Brian Todd this afternoon.
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  read: fetched
+  source_kind: news
+  id: u5
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: is a betrayal of the values of the Democratic Party.
+  span: “Haley Stevens’ disappointing decision to endorse Mike Rogers, a Trump ally who would join Republican efforts to sell out working families, is a betrayal of the values of the Democratic Party.” DNC Chair Ken Martin said in a statement.
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u6
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: dangerously betray Michigan families’ healthcare, freedoms and future
+  span: “Haley Stevens has chosen to dangerously betray Michigan families’ healthcare, freedoms and future with her horrific endorsement of Mike Rogers,” Pelosi posted on X.
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  read: fetched
+  source_kind: news
+  id: u7
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: I was stunned since she had told me she wasn’t doing that last night at midnight.
+  span: When asked how surprised she was by Stevens’ move, Dingell said, “I was stunned since she had told me she wasn’t doing that last night at midnight.”
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  read: fetched
+  source_kind: news
+  id: u8
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: extremely disappointed
+  span: Sen. Gary Peters (D-Mich.) said he and his wife Colleen “are extremely disappointed” by the endorsement, adding that a Democratic majority in the Senate is needed to check “Donald Trump’s corruption and chaos” and “stop the economic pain crushing Michiganders.”
+  url: https://thehill.com/homenews/campaign/6186945-mi-democrats-reject-stevens-endorsement/
+  read: fetched
+  source_kind: news
+  id: u9
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: There is simply too much at stake.
+  span: '"I have avoided commenting on the actions of Congresswoman Haley Stevens until now," Slotkin posted. "There is simply too much at stake.'
+  url: https://www.fox2detroit.com/news/haley-stevens-mike-rogers-endorsement-draws-democrat-backlash
+  read: fetched
+  source_kind: news
+  id: u10
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Pathetic, petty, selfish, unhinged,
+  span: '"Pathetic, petty, selfish, unhinged," Rep. Jared Huffman (D-Calif.) told Axios of her endorsement of Rogers.'
+  url: https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed
+  read: fetched
+  source_kind: news
+  id: u11
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: fragile ego
+  span: US Senator Bernie Sanders has slammed Democratic Congresswoman Haley Stevens’ “fragile ego”, while backing her staff’s decision to “resign in disgust” over her endorsement of Republican Mike Rogers.
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u12
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: If anything, I think it’s going to backfire
+  span: “If anything, I think it’s going to backfire from the intended actions because I’ve heard from a lot of people who have texted me or slid into my DMs today that said how much this pissed them off,” McMorrow told reporters in Detroit.
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u13
+  outcome: verified
+  checked: '2026-11-01'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -135,6 +234,31 @@ sources:
   publisher: Substack
   date: '2026-11-01'
   tier: 2
+- title: Midterm elections latest (CNN live updates)
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  publisher: CNN
+  date: '2026-11-01'
+  tier: 2
+- title: Michigan Democrats slam Haley Stevens over Mike Rogers endorsement
+  url: https://thehill.com/homenews/campaign/6186945-mi-democrats-reject-stevens-endorsement/
+  publisher: The Hill
+  date: '2026-11-01'
+  tier: 2
+- title: Haley Stevens endorsement of Mike Rogers draws Democratic backlash
+  url: https://www.fox2detroit.com/news/haley-stevens-mike-rogers-endorsement-draws-democrat-backlash
+  publisher: FOX 2 Detroit
+  date: '2026-11-01'
+  tier: 2
+- title: Haley Stevens' endorsement sparks fury from Democrats
+  url: https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed
+  publisher: Axios
+  date: '2026-11-01'
+  tier: 2
+- title: US midterms live (Al Jazeera)
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  publisher: Al Jazeera
+  date: '2026-11-01'
+  tier: 2
 captured_by: capture-watch
 cluster: michigan-senate-influence
 approved_names:
@@ -147,6 +271,25 @@ updates:
   - u1
   - u2
   event_date_claim: u2
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: statement date
+  heading: The Democratic response beyond Schumer
+  claims:
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u4
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
@@ -163,3 +306,7 @@ Early voting has been underway since Oct. 24, per Bridge Michigan.
 ## Update (2026-11-01, publication date of the post): A shout at the news conference
 
 A post by Aaron Rupar with a video clip says a protester yelled "Haley Stevens is a traitor!" at the news conference and that Stevens then wrapped it up in a hurry. That is his description of the clip.
+
+## Update (2026-11-01, statement date): The Democratic response beyond Schumer
+
+Michigan Democratic Party Chair Curtis Hertel: "Congresswoman Stevens is not a current member of the Michigan Democratic Party, nor will she be in the future." and "This is not high school." DNC Chair Ken Martin: the endorsement "is a betrayal of the values of the Democratic Party." Rep. Nancy Pelosi: Stevens chose to "dangerously betray Michigan families' healthcare, freedoms and future." Rep. Debbie Dingell: "I was stunned since she had told me she wasn't doing that last night at midnight." Sen. Gary Peters: "extremely disappointed". Sen. Elissa Slotkin: "There is simply too much at stake." Rep. Jared Huffman: "Pathetic, petty, selfish, unhinged," Sen. Bernie Sanders: "fragile ego." State Sen. Mallory McMorrow: "If anything, I think it's going to backfire."
