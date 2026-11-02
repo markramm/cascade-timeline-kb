@@ -1404,6 +1404,51 @@ claims:
   id: u143
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 2, 2026
+  span: ByJOSHUA GOODMAN Associated Press and JIM MUSTIAN Associated Press November 2, 2026, 12:03 AM
+  url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+  read: fetched
+  source_kind: secondary
+  id: u144
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: expanded a monthslong criminal probe into allegations that Democratic campaigners sought to recruit candidates to run against the incumbent senator
+  span: FBI agents have descended on the town in recent days as federal authorities expanded a monthslong criminal probe into allegations that Democratic campaigners sought to recruit candidates to run against the incumbent senator.
+  url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+  read: fetched
+  source_kind: secondary
+  id: u145
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: weighs criminal charges
+  span: What may have begun as a ploy to harm the reelection prospects of Sen. Sullivan has taken a serious turn as the Trump administration weighs criminal charges over a campaign tactic known as “ballot stacking.”
+  url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+  read: fetched
+  source_kind: secondary
+  id: u146
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: together contributed $7,150
+  span: Most of Dan J.'s donors live in Petersburg and together contributed $7,150.
+  url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+  read: fetched
+  source_kind: secondary
+  id: u147
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Those questioned said the agents asked them whether they had felt deceived by the lesser-known Sullivan.
+  span: Those questioned said the agents asked them whether they had felt deceived by the lesser-known Sullivan.
+  url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+  read: fetched
+  source_kind: secondary
+  id: u148
+  outcome: verified
+  checked: '2026-11-02'
 tags:
   - election-2026
   - certification
@@ -1580,6 +1625,11 @@ sources:
     publisher: U.S. Court of Appeals for the Ninth Circuit, via CourtListener RECAP
     date: '2026-11-01'
     tier: 1
+  - title: In Alaska fishing community, the Dan Sullivan episode takes an ominous turn as FBI comes knocking
+    url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
+    publisher: Associated Press via ABC News
+    date: '2026-11-02'
+    tier: 2
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
@@ -1889,6 +1939,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-02'
+  date_kind: publication date of the AP report
+  heading: 'AP: FBI agents question candidate Dan J. Sullivan''s donors in Petersburg'
+  claims:
+  - u144
+  - u145
+  - u146
+  - u147
+  - u148
+  event_date_claim: u144
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -1978,3 +2041,7 @@ The government's filing, ECF 81, is captioned as its notice of appeal, is dated 
 ## Update (2026-11-01, docketing date): The Ninth Circuit dockets the appeal as No. 26-7304
 
 The Ninth Circuit docketed the appeal on November 1, 2026 as No. 26-7304. Its docketing notice says motions filed with the notice of appeal are not transferred and that any motion seeking relief must be filed separately on the appeals court's docket.
+
+## Update (2026-11-02, publication date of the AP report): AP: FBI agents question candidate Dan J. Sullivan's donors in Petersburg
+
+Federal authorities "expanded a monthslong criminal probe into allegations that Democratic campaigners sought to recruit candidates to run against the incumbent senator," with FBI agents questioning donors to candidate Dan J. Sullivan in Petersburg. Most of his donors live there and "together contributed $7,150." "Those questioned said the agents asked them whether they had felt deceived by the lesser-known Sullivan." The AP report describes the administration as one that "weighs criminal charges" over ballot stacking. Donors are left unnamed here.

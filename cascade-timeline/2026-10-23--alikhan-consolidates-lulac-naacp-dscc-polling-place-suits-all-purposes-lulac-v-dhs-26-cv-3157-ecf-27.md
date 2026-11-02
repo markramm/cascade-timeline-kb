@@ -341,6 +341,60 @@ claims:
   id: u27
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: '2026-10-31'
+  span: Date Sat 2026-10-31 16:33 To Orlando Economos
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Armed Agents at Polls in DC
+  span: 'RE: [EXTERNAL] URGENT Response Required: Armed Agents at Polls in DC'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: were part of a roving interagency foot patrol assigned to that neighborhood
+  span: To be clear, any agent personnel who may have been observed in the vicinity of an active polling location were part of a roving interagency foot patrol assigned to that neighborhood as part of the DC Safe & Beautiful Task Force and were not in the vicinity of the active polling location for the purpose of conducting any investigative activity.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: for the purpose of conducting any investigative activity
+  span: To be clear, any agent personnel who may have been observed in the vicinity of an active polling location were part of a roving interagency foot patrol assigned to that neighborhood as part of the DC Safe & Beautiful Task Force and were not in the vicinity of the active polling location for the purpose of conducting any investigative activity.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u31
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: did not become aware of the potential presence of armed FBI personnel in the vicinity of an active polling location until the morning of 10/31/2026
+  span: FBI Washington Field Office leadership did not become aware of the potential presence of armed FBI personnel in the vicinity of an active polling location until the morning of 10/31/2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u32
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: the only exception to that prohibition is if there is an active shooter at a particular polling location
+  span: Agent personnel were advised that the only exception to that prohibition is if there is an active shooter at a particular polling location.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u33
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - polling-places
@@ -380,6 +434,11 @@ sources:
   tier: 1
 - title: Joint Status Report, ECF 33, LULAC v. DHS, 1:26-cv-03157 (D.D.C.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  publisher: U.S. District Court for D.C. via RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: Exhibit 1, ECF 33-1, LULAC v. DHS, 1:26-cv-03157 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
   publisher: U.S. District Court for D.C. via RECAP
   date: '2026-11-01'
   tier: 1
@@ -454,6 +513,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-10-31'
+  date_kind: email date
+  heading: The FBI's own account of the D.C. polling place, in the exhibit
+  claims:
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  event_date_claim: u28
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -483,3 +556,7 @@ Judge Loren L. AliKhan ordered the parties in NAACP v. DHS, 26-CV-3263, to conti
 ## Update (2026-11-01, filing date): FBI guidance on foot patrols near polls surfaces in a joint status report; government says no polling-place policy exists
 
 According to the statement quoted in the November 1, 2026 joint status report, personnel were directed "to not engage in foot patrols at or near any polling location where voting is occurring." The government's section says the statement explained "the presence of FBI agents near a polling place in Washington, D.C., on October 30, 2026" and was not a discovery response. On a sworn commitment to obey the armed-presence statute nationwide, plaintiffs write: "As of this filing, Defendants have not provided any such statement or declaration." The government's section says plaintiffs are "apparently dissatisfied with the fact that the policy they challenged in this lawsuit does not exist."
+
+## Update (2026-10-31, email date): The FBI's own account of the D.C. polling place, in the exhibit
+
+An exhibit to the joint status report is a DOJ email relaying the FBI's response, under the subject "Armed Agents at Polls in DC." It says any personnel observed "were part of a roving interagency foot patrol assigned to that neighborhood" under the DC Safe & Beautiful Task Force and were not there "for the purpose of conducting any investigative activity." It says FBI Washington Field Office leadership "did not become aware of the potential presence of armed FBI personnel in the vicinity of an active polling location until the morning of 10/31/2026." It says personnel were told "the only exception to that prohibition is if there is an active shooter at a particular polling location."
