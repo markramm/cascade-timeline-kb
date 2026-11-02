@@ -193,6 +193,33 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Monday
+  span: A Justice Department lawyer on Monday admitted in court that it was “fair” to say that the Trump administration’s list of “likely noncitizen” voters has a high error rate.
+  url: https://www.lawdork.com/p/doj-fair-to-say-voting-list-has-high-error-rate
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: fair
+  span: Soon thereafter, Kao — in response to a question from Thompson — said it would be “fair” to characterize the list as having a high error rate.
+  url: https://www.lawdork.com/p/doj-fair-to-say-voting-list-has-high-error-rate
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: likely noncitizen
+  span: A Justice Department lawyer on Monday admitted in court that it was “fair” to say that the Trump administration’s list of “likely noncitizen” voters has a high error rate.
+  url: https://www.lawdork.com/p/doj-fair-to-say-voting-list-has-high-error-rate
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - midterms-2026
@@ -228,6 +255,11 @@ sources:
   publisher: CourtListener
   date: '2026-11-01'
   tier: 1
+- title: 'Breaking: DOJ lawyer tells judge it''s fair to say its list has a high error rate'
+  url: https://www.lawdork.com/p/doj-fair-to-say-voting-list-has-high-error-rate
+  publisher: Law Dork
+  date: '2026-11-02'
+  tier: 2
 related_events:
 - 2026-10-29--seiu-afscme-lulac-naacp-v-doj-ndcal-complaint-threats-to-election-workers-3-26-cv-12800
 - 2026-10-29--mccotter-oct-29-letters-state-election-officials-criminal-penalties-record-preservation-votebeat
@@ -248,6 +280,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: emergency-powers
+- date: '2026-11-02'
+  date_kind: hearing date, as reported
+  heading: DOJ lawyer says it is "fair" to characterize the list as having a high error rate, Law Dork reports
+  claims:
+  - u8
+  - u9
+  - u10
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 coverage:
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
@@ -262,3 +305,7 @@ The order expires at 5:00 p.m. on November 16, 2026. The government's response o
 ## Update (2026-11-01, filing date): DOJ and DHS appeal the TRO and move to stay it; Judge Thompson sets a hearing for Monday, November 2 at 11:00 a.m.
 
 The defendants noticed an appeal to the Ninth Circuit on 10/31/2026 and on 11/1/2026 filed an ex parte motion, ECF 33, to stay the temporary restraining order or, in the alternative, for an indicative ruling. The motion says "Defendants will move in the Court of Appeals for an emergency stay motion." It argues the order "never analyzes Plaintiffs’ standing" and that "an accurate statement of federal criminal law" is not intimidation. Judge Thompson set a hearing on the stay motion for Monday, November 2, 2026 at 11:00 a.m.
+
+## Update (2026-11-02, hearing date, as reported): DOJ lawyer says it is "fair" to characterize the list as having a high error rate, Law Dork reports
+
+At the hearing on DOJ's motion to stay the order, a Justice Department lawyer, in response to a question from Judge Thompson, said it would be "fair" to characterize the "likely noncitizen" list as having a high error rate, Law Dork reports. The transcript is not yet public.
