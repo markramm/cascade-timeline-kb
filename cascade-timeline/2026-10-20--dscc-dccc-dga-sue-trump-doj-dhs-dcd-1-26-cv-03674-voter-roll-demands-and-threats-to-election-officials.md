@@ -805,6 +805,42 @@ claims:
   id: u64
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: November 1, 2026
+  span: 'Dated: November 1, 2026 Respectfully submitted, BRETT A. SHUMATE'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u65
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: explains that DOJ has sent letters only to California and Washington
+  span: interrogatory response explains that DOJ has sent letters only to California and Washington—the two State governments that have not complied.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u66
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: July 16, 2026
+  span: DHS sent a letter to Nevada election officials on July 16, 2026, but that letter simply identified possible noncitizens registered to vote and requested that
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u67
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: simply identified possible noncitizens registered to vote
+  span: DHS sent a letter to Nevada election officials on July 16, 2026, but that letter simply identified possible noncitizens registered to vote and requested that
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u68
+  outcome: verified
+  checked: '2026-11-02'
 tags:
   - election-capture
   - electoral-manipulation
@@ -874,6 +910,11 @@ sources:
     publisher: Democracy Docket
     date: '2026-10-30'
     tier: 2
+  - title: Defendants' Response to Plaintiffs' Supplemental Brief, ECF 31, DSCC v. Trump, 1:26-cv-03674 (D.D.C.)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
+    publisher: U.S. District Court for D.C. via RECAP
+    date: '2026-11-01'
+    tier: 1
 updates:
 - date: '2026-10-23'
   date_kind: order date
@@ -1003,6 +1044,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: DOJ tells Boasberg its letters went only to California and Washington, and argues that defeats standing
+  claims:
+  - u65
+  - u66
+  - u67
+  - u68
+  event_date_claim: u65
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -1048,3 +1101,7 @@ On October 30, 2026, the defendants filed a notice (Document 29) saying they "ha
 Democracy Docket reports that it obtained the government's response to Interrogatory No. 1, disclosed Friday. It reports that DHS "sent letters to California, Nevada, Pennsylvania and New Jersey, and the DOJ sent letters to California and Washington," and that "All of those letters have been previously publicized." It reports that the department withheld "informal oral communications, conversations or meetings not memorialized in any record." It quotes the response as saying: "Rather, these letters ask state election officials to work with DHS to verify whether individuals identified in a preliminary analysis are non-citizens who are registered to vote." It also reports that the filing says letters went to all states Thursday "reminding them of their obligation" to preserve voting records for 22 months.
 
 The response is not on the docket and has not been read directly; everything here is through this report. The report itself notes: "The Elias Law Group (ELG) represents the Democrats in this case. ELG Firm Chair Marc Elias is the founder of Democracy Docket."
+
+## Update (2026-11-01, filing date): DOJ tells Boasberg its letters went only to California and Washington, and argues that defeats standing
+
+In a response filed November 1, 2026, the government says its interrogatory answer "explains that DOJ has sent letters only to California and Washington." It says DHS sent Nevada a letter on July 16, 2026 that "simply identified possible noncitizens registered to vote." It asks the court to deny the motion.

@@ -328,6 +328,132 @@ claims:
   id: u27
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Sunday
+  span: Rep. Haley Stevens will be interviewed by CNN’s Anderson Cooper at 9 p.m. ET Sunday, hours after she switched her Senate endorsement in Michigan from Democrat Abdul El-Sayed to Republican Mike Rogers.
+  url: https://www.cnn.com/2026/11/01/politics/live-news/midterm-election-congress
+  read: fetched
+  source_kind: secondary
+  id: u28
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Well, look, this is just a weight off my shoulders.
+  span: 'STEVENS: Well, look, this is just a weight off my shoulders.'
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u29
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: alone with my thoughts
+  span: It might not have been midnight when I spoke with her, but I was there and just, you know, alone with my thoughts, I was writing things out.
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u30
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: It might not have been midnight when I spoke with her
+  span: It might not have been midnight when I spoke with her, but I was there and just, you know, alone with my thoughts, I was writing things out.
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u31
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: you're not really answering any of my questions
+  span: 'COOPER: No, I''m not. I''m just -- you''re not really answering any of my questions, so I''m -- it''s somewhat frustrating.'
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u32
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: That was one of the most painful interviews I have ever watched.
+  span: 'DINGELL: That was one of the most painful interviews I have ever watched.'
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u33
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: I'm actually the one that called her and said this has become a distraction.
+  span: 'DINGELL: I mean, I''m actually the one that called her and said this has become a distraction.'
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u34
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: you told her you were not going to endorse
+  span: Your fellow Michigan Congresswoman Debbie Dingell said that she talked to you at midnight last night and that you told her you were not going to endorse Mike Rogers.
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  read: fetched
+  source_kind: secondary
+  id: u35
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 1, 2026
+  span: November 1, 2026 / 8:22 PM EST / CBS News
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u36
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: we led tonight's 60 Minutes broadcast with this story
+  span: It was only the latest turn in a hotly contested, closely watched race, which is why we led tonight's 60 Minutes broadcast with this story.
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u37
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: sat down with both candidates
+  span: 'Correspondent Ross Douthat sat down with both candidates as they made their cases to Michigan voters: on the economy, healthcare, Israel and other issues that have come to define the race.'
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u38
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: was among 46 Egyptian-Americans who signed a letter
+  span: Our reporting shows that after the Arab Spring, El-Sayed was among 46 Egyptian-Americans who signed a letter addressed to Egypt's new democratically elected president, Mohamed Morsi, who was a senior leader of the Muslim Brotherhood.
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u39
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: is not a member of the Democratic Socialists of America
+  span: While El-Sayed has campaigned with some prominent Democratic socialists, including Alexandria Ocasio-Cortez, he is not a member of the Democratic Socialists of America, nor has the group officially endorsed him.
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u40
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: was unable to verify that Rogers made $14 million
+  span: Financial disclosures show Rogers' household net worth rose substantially after he left office in 2015, to an estimated $7 million to $14 million or more, but those figures reflect net worth, not earnings, and 60 Minutes was unable to verify that Rogers made $14 million.
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  read: fetched
+  source_kind: secondary
+  id: u41
+  outcome: verified
+  checked: '2026-11-02'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -398,6 +524,21 @@ sources:
 - title: Democrat Haley Stevens endorses GOP Senate nominee Mike Rogers at Detroit church
   url: https://www.foxnews.com/politics/haley-stevens-appears-alongside-gop-rival-mike-rogers-detroit-church
   publisher: Fox News
+  date: '2026-11-01'
+  tier: 2
+- title: Anderson Cooper 360, CNN transcript, Nov. 1, 2026, 9-10 p.m. ET
+  url: https://transcripts.cnn.com/show/acd/date/2026-11-01/segment/02
+  publisher: CNN
+  date: '2026-11-01'
+  tier: 2
+- title: Fact-checking 60 Minutes interviews with El-Sayed and Rogers
+  url: https://www.cbsnews.com/news/fact-checking-el-sayed-rogers-60-minutes/
+  publisher: CBS News
+  date: '2026-11-01'
+  tier: 2
+- title: '60 Minutes transcript: Abdul El-Sayed and Mike Rogers'
+  url: https://www.cbsnews.com/news/abdul-el-sayed-mike-rogers-michigan-senate-60-minutes-transcript/
+  publisher: CBS News
   date: '2026-11-01'
   tier: 2
 captured_by: capture-watch
@@ -472,6 +613,36 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: interview date
+  heading: 'Rep. Stevens to Anderson Cooper: "this is just a weight off my shoulders"; Rep. Dingell calls it painful'
+  claims:
+  - u28
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  - u34
+  - u35
+  event_date_claim: u28
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
+- date: '2026-11-01'
+  date_kind: broadcast date
+  heading: 60 Minutes leads with the race; candidates only, plus a CBS fact-check of both
+  claims:
+  - u36
+  - u37
+  - u38
+  - u39
+  - u40
+  - u41
+  event_date_claim: u36
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -509,3 +680,11 @@ In these seven minutes neither of them mentions Trump, "jihadist" or anti-Muslim
 ## Update (2026-11-01, statement date): Rep. Raskin: she told him otherwise the night before
 
 Rep. Jamie Raskin told Axios: "I'm dumbfounded that Haley told me one thing last night and changed her mind today." He had said she told him by phone she was "voting straight down the line on the Democratic ticket."
+
+## Update (2026-11-01, interview date): Rep. Stevens to Anderson Cooper: "this is just a weight off my shoulders"; Rep. Dingell calls it painful
+
+On CNN on Sunday, Anderson Cooper put it to Rep. Haley Stevens that Rep. Debbie Dingell said "you told her you were not going to endorse" Republican candidate Mike Rogers, and asked what changed. Stevens said: "Well, look, this is just a weight off my shoulders." Asked whether she had talked to anybody, she said she was "alone with my thoughts," and that "It might not have been midnight when I spoke with her." Cooper said: "you're not really answering any of my questions." Rep. Dingell, on after her, said: "That was one of the most painful interviews I have ever watched." Dingell also said: "I'm actually the one that called her and said this has become a distraction." Quotes are from CNN's transcript.
+
+## Update (2026-11-01, broadcast date): 60 Minutes leads with the race; candidates only, plus a CBS fact-check of both
+
+CBS wrote: "we led tonight's 60 Minutes broadcast with this story." Its correspondent "sat down with both candidates." On Republican candidate Mike Rogers's letter claim, CBS wrote that Democrat Abdul El-Sayed "was among 46 Egyptian-Americans who signed a letter" to Egypt's president. CBS also wrote that El-Sayed "is not a member of the Democratic Socialists of America" and that it "was unable to verify that Rogers made $14 million."

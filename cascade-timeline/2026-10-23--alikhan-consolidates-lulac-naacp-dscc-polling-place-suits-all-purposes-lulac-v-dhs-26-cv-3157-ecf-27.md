@@ -296,6 +296,51 @@ claims:
   id: u22
   outcome: verified
   checked: '2026-10-31'
+- type: quote
+  value: to not engage in foot patrols at or near any polling location where voting is occurring
+  span: According to the statement, personnel were directed “to not engage in foot patrols at or near any polling location where voting is occurring” and were “advised that the only exception to that prohibition is if there is an active shooter at a particular polling location.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: the presence of FBI agents near a polling place in Washington, D.C., on October 30, 2026
+  span: FBI provided an explanation as to the presence of FBI agents near a polling place in Washington, D.C., on October 30, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: apparently dissatisfied with the fact that the policy they challenged in this lawsuit does not exist
+  span: Plaintiffs, apparently dissatisfied with the fact that the policy they challenged in this lawsuit does not exist, seek to expand the Court’s order on discovery.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 1, 2026
+  span: Defendants note that, as of the time of this filing on November 1, 2026 – less than 36 hours before the Election Day on November 3, 2026 –Plaintiffs have expressed no intention to move for preliminary injunctive relief.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: As of this filing, Defendants have not provided any such statement or declaration
+  span: As of this filing, Defendants have not provided any such statement or declaration, nor have they indicated that any statement or declaration would be forthcoming.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - polling-places
@@ -332,6 +377,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296692/gov.uscourts.dcd.296692.49.0.pdf
   publisher: U.S. District Court for the District of Columbia (via RECAP)
   date: '2026-10-30'
+  tier: 1
+- title: Joint Status Report, ECF 33, LULAC v. DHS, 1:26-cv-03157 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.0_1.pdf
+  publisher: U.S. District Court for D.C. via RECAP
+  date: '2026-11-01'
   tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
@@ -391,6 +441,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: lulac-naacp-dscc-v-dhs
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: FBI guidance on foot patrols near polls surfaces in a joint status report; government says no polling-place policy exists
+  claims:
+  - u23
+  - u24
+  - u25
+  - u26
+  - u27
+  event_date_claim: u26
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -416,3 +479,7 @@ Defendants say they served their responses and a production on October 26 and a 
 ## Update (2026-10-31, minute order date): Hearing set for Nov. 2 unless discovery disputes in the NAACP case are resolved
 
 Judge Loren L. AliKhan ordered the parties in NAACP v. DHS, 26-CV-3263, to continue to meet and confer and file a notice of any updates by 10:00 p.m. on Sunday, Nov. 1. Unless they have fully resolved their discovery disputes by then, she ordered them to appear for a motion hearing at 10:30 a.m. on Monday, Nov. 2, in Courtroom 21. Read as docket text through CourtListener's API on docket 74770115 (no document in RECAP); hand update because the gate can't read docket text.
+
+## Update (2026-11-01, filing date): FBI guidance on foot patrols near polls surfaces in a joint status report; government says no polling-place policy exists
+
+According to the statement quoted in the November 1, 2026 joint status report, personnel were directed "to not engage in foot patrols at or near any polling location where voting is occurring." The government's section says the statement explained "the presence of FBI agents near a polling place in Washington, D.C., on October 30, 2026" and was not a discovery response. On a sworn commitment to obey the armed-presence statute nationwide, plaintiffs write: "As of this filing, Defendants have not provided any such statement or declaration." The government's section says plaintiffs are "apparently dissatisfied with the fact that the policy they challenged in this lawsuit does not exist."

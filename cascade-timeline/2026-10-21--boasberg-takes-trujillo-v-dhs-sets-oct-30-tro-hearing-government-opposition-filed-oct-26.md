@@ -417,6 +417,51 @@ claims:
   id: u41
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 1, 2026
+  span: 'I certify that on November 1, 2026, a true and correct copy of the foregoing was filed via the CM/ECF filing system and thereby furnished to counsel of record via email in the service list below:'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: deny, in full,
+  span: For the foregoing reasons, the Court should deny, in full, Defendants’ Motion to Strike Supplemental Memorandum and Show Cause Why Plaintiffs Did Not Violate the Court's Order.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: the Order specifically contemplates a public filing
+  span: But, as noted, the Order specifically contemplates a public filing.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: No entry on the DOJ list has been contacted, directly or indirectly.
+  span: No entry on the DOJ list has been contacted, directly or indirectly.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: these errors increase the chances that the wrong
+  span: But again, these errors increase the chances that the wrong
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - election-capture
 - dhs
@@ -462,6 +507,11 @@ sources:
 - title: Defendants' Response to Plaintiffs' Supplemental Brief Regarding Standing, Document 44, Coalition for Humane Immigrant Rights v. DHS, 1:26-cv-3072 (D.D.C.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.44.0.pdf
   publisher: CourtListener RECAP
+  date: '2026-11-01'
+  tier: 1
+- title: Plaintiffs' Response, ECF 46, CHIRLA v. DHS, 1:26-cv-03072 (D.D.C.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.46.0.pdf
+  publisher: U.S. District Court for D.C. via RECAP
   date: '2026-11-01'
   tier: 1
 related_events:
@@ -568,6 +618,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-01'
+  date_kind: filing date
+  heading: 'Plaintiffs answer DOJ''s sanctions motion: the order contemplated a public filing'
+  claims:
+  - u42
+  - u43
+  - u44
+  - u45
+  - u46
+  event_date_claim: u42
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.
@@ -607,3 +670,7 @@ The same motion says the court should impose civil sanctions, for example "dismi
 ## Update (2026-11-01, filing date): Government tells Boasberg CHIRLA still has not shown standing and objects to an ex parte, in camera table
 
 In its response to plaintiffs' supplemental standing brief, filed 11/01/26, the government says that "Despite now having a third court-granted opportunity to shore up its deficient standing," CHIRLA "still fails to meet its necessary jurisdictional burden." It objects to plaintiffs' "unilateral submission of an ex parte," in camera "Table of CHIRLA entries matched to DHS list," and asks that plaintiffs "be compelled to immediately provide Defendants with the list of alleged matches." These are the government's arguments in a brief, not findings. The document is the government's response only; plaintiffs' supplemental brief and its appendix were not read for this update.
+
+## Update (2026-11-01, filing date): Plaintiffs answer DOJ's sanctions motion: the order contemplated a public filing
+
+In their response, filed November 1, 2026, plaintiffs ask that the court "deny, in full," the motion. They write that "the Order specifically contemplates a public filing" and that "No entry on the DOJ list has been contacted, directly or indirectly." They argue "these errors increase the chances that the wrong" people will be targeted. A party's filing, not a finding.
