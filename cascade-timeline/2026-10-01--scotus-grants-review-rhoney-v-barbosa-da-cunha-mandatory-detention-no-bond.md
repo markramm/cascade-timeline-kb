@@ -1,4 +1,6 @@
 ---
+approved_names:
+- Barbosa da Cunha
 type: timeline_event
 id: 2026-10-01--scotus-grants-review-rhoney-v-barbosa-da-cunha-mandatory-detention-no-bond
 date: '2026-10-01'
@@ -158,6 +160,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: Oct 28 2026
+  span: Oct 28 2026 Motion to extend the time to file the briefs on the merits granted.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 30, 2026
+  span: The time to file the joint appendix and petitioner's brief on the merits is extended to and including November 30, 2026.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: January 13, 2027
+  span: The time to file respondent's brief on the merits is extended to and including January 13, 2027.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-104.html
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - detention-industrial-complex
 - mandatory-detention
@@ -207,6 +236,18 @@ corrections:
   now: 'Nine courts of appeals hold the bond-hearing reading (First, Second, Third, Fourth, Sixth, Seventh, Ninth, Tenth, Eleventh) against two (Fifth, Eighth). The respondent''s brief counted seven because the Third and Fourth Circuit opinions came later; CBS''s "nine" matches the opinions. The entry now states the docket number 26-104, that the question presented is statutory only, and that the government''s petition asked the Court to hold it for Lopez-Campos (No. 25-1415).'
   why: 'Fourth Circuit, Lopez Garcia v. Guadian (published, Sept. 10, 2026), survey and holding; Third Circuit, Buele Morocho v. Warden Philadelphia FDC (Aug. 28, 2026); petition in No. 26-104 at 2 and 12. Archived under documents/sources/files/rhoney-v-barbosa-da-cunha-2026-10-27/.'
   found_by: 'editorial verification, 2026-10-27'
+updates:
+- date: '2026-10-28'
+  date_kind: docket entry date (order granting extension)
+  heading: Supreme Court pushes Rhoney merits briefing into 2027
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: mandatory-detention-bond-hearings
 ---
 
 The Supreme Court on Thursday said it will consider whether the Trump administration can detain tens of thousands of immigrants during their removal proceedings without access to bond hearings. The case is known as Rhoney v. Barbosa da Cunha, No. 26-104, and the Court's docket records "Petition GRANTED." The question presented is whether 8 U.S.C. 1225(b)(2)(A) "mandates the detention pending removal proceedings of aliens who, like respondent, are present in the United States without having been admitted."
@@ -216,3 +257,7 @@ Nine courts of appeals, matching CBS's count of nine, have now held that nonciti
 The 2nd Circuit called the policy the "broadest mass-detention-without-bond mandate in our nation's history for millions of noncitizens." CNN's Supreme Court analyst Steve Vladeck said the administration's reading of the statute has provoked more than 20,000 rulings in the lower courts.
 
 Circuit rulings already in the corpus: [[2026-04-28--second-circuit-rules-ice-mandatory-detention-policy-illegal]], [[2026-05-06--eleventh-circuit-rejects-trump-no-bond-detention-policy-circuit-split]], [[2026-07-02--fifth-circuit-90-day-bond-hearing-mandatory-detention-ruling]], [[2026-07-10--5th-circuit-en-banc-reinstates-mandatory-detention]], [[2026-07-30--ninth-circuit-rejects-mandatory-detention-deepens-circuit-split]]; earlier cert: [[2026-06-15--scotus-cert-genalo-v-black-prolonged-immigration-detention-bond]].
+
+## Update (2026-10-28, docket entry date (order granting extension)): Supreme Court pushes Rhoney merits briefing into 2027
+
+On the docket entry dated Oct. 28, 2026, the Court granted a motion to extend the time to file merits briefs in Rhoney. Petitioner's brief and the joint appendix are now due November 30, 2026, and respondent's brief is due January 13, 2027, so the case cannot be argued before briefing finishes.

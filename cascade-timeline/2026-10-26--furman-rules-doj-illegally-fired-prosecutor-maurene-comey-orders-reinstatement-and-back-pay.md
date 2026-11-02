@@ -93,6 +93,60 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: October 26, 2026
+  span: 'The Clerk of Court is directed to terminate ECF Nos. 67 and 76. SO ORDERED. Dated: October 26, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: Comey's removal was not authorized by any statute; to the contrary, it violated the CSRA
+  span: First, Comey’s removal was not authorized by any statute; to the contrary, it violated the CSRA.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: had nothing to say about inferior officers or the Perkins line of cases
+  span: The decision, “however, had nothing to say about inferior officers or the Perkins line of cases.”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: reserves judgment on Count Four
+  span: The Court reserves judgment on Count Four pending the parties’ supplemental briefing ordered above.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: discovery is hereby stayed
+  span: Thus, unless and until the Court orders otherwise, discovery is hereby stayed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 9, 2026
+  span: Specifically, Comey is ORDERED to show cause in writing, in the form of a memorandum of law not to exceed 3,500 words and filed no later than November 9, 2026, why Count Four should not be dismissed for the reasons set forth above.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - doj
 - democratic-erosion
@@ -115,11 +169,35 @@ sources:
   publisher: Spectrum News (AP)
   date: '2026-10-26'
   tier: 2
+- title: Comey v. DOJ, 25-cv-7625 (S.D.N.Y.), Opinion and Order, ECF 96
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.649409/gov.uscourts.nysd.649409.96.0.pdf
+  publisher: S.D.N.Y. via CourtListener RECAP
+  date: '2026-10-26'
+  tier: 1
 related_events:
 - 2026-05-09--doj-edva-prosecutors-purged-comey-prosecution-fallout
 - 2025-10-17--yusi-bird-fired-refusing-james-prosecution
+updates:
+- date: '2026-10-26'
+  date_kind: filing date (opinion and order, ECF 96)
+  heading: 'The opinion: CSRA violation first, Slaughter distinguished, First Amendment count reserved'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-fbi-firing-suits
 ---
 
 U.S. District Judge Jesse Furman ruled on Oct. 26, 2026 that the Trump Justice Department illegally fired Maurene Comey, a Manhattan federal prosecutor, in July 2025. She had been an assistant U.S. attorney for a decade. Furman rejected the government's argument that the removal fell within the president's "conclusive and preclusive" constitutional power, and ruled that the firing violated the separation of powers, the Administrative Procedure Act and her Fifth Amendment due process and statutory rights. He ordered reinstatement and back pay through Dec. 20.
 
 The AP reports the department has fired scores of career employees, including prosecutors and FBI agents, who participated in investigations of President Donald Trump or were perceived as opposed to the administration's agenda. Comey is the daughter of James Comey, whom President Donald Trump has long viewed as an enemy.
+
+## Update (2026-10-26, filing date (opinion and order, ECF 96)): The opinion: CSRA violation first, Slaughter distinguished, First Amendment count reserved
+
+Furman's opinion holds first that the removal was not authorized by any statute and violated the CSRA. On Trump v. Slaughter, the opinion says the decision "had nothing to say about inferior officers or the Perkins line of cases." The ruling is partial: the First Amendment count is reserved, with Comey's show-cause memorandum due November 9, 2026, and discovery is stayed.
