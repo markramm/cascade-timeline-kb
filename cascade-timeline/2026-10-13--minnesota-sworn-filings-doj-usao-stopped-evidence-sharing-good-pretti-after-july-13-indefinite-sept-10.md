@@ -48,6 +48,16 @@ sources:
     outlet: PBS NewsHour / AP
     date: '2026-07-13'
     tier: 2
+  - title: State of Minnesota v. U.S. Department of Justice, 1:26-cv-01007-EGS (D.D.C.), Defendants' Reply in Support of Motion to Dismiss or Transfer and Opposition to Plaintiffs' Cross-Motion for Summary Judgment
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.30.0.pdf
+    publisher: U.S. District Court for the District of Columbia (RECAP copy)
+    date: '2026-10-20'
+    tier: 1
+  - title: State of Minnesota v. U.S. Department of Justice, 1:26-cv-01007-EGS (D.D.C.), Plaintiffs' Reply in Support of Their Motion for Summary Judgment
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.33.0.pdf
+    publisher: U.S. District Court for the District of Columbia (RECAP copy)
+    date: '2026-10-27'
+    tier: 1
 claims:
   - id: c1
     type: date
@@ -97,9 +107,78 @@ claims:
     url: "https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.25.1.pdf"
     read: fetched
     source_kind: primary
+  - type: date
+    value: October 20, 2026
+    span: 'Dated: October 20, 2026 Respectfully submitted, BRETT A. SHUMATE Assistant Attorney General Civil Division'
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.30.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u1
+    outcome: verified
+    checked: '2026-11-02'
+  - type: quote
+    value: Defendants, in their discretion, have declined to share information with Plaintiffs.
+    span: Defendants, in their discretion, have declined to share information with Plaintiffs.
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.30.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u2
+    outcome: verified
+    checked: '2026-11-02'
+  - type: quote
+    value: under its discretionary exception to its Touhy regulations
+    span: DOJ’s limited sharing, however, was under its discretionary exception to its Touhy regulations.
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.30.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u3
+    outcome: verified
+    checked: '2026-11-02'
+  - type: quote
+    value: the best course of action would be to remand to the relevant agencies with instructions to ensure compliance
+    span: Hence, the best course of action would be to remand to the relevant agencies with instructions to ensure compliance.
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.30.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u4
+    outcome: verified
+    checked: '2026-11-02'
+  - type: date
+    value: October 27, 2026
+    span: 'Dated: October 27, 2026 Respectfully Submitted,'
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.33.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u5
+    outcome: verified
+    checked: '2026-11-02'
+  - type: quote
+    value: did not (and cannot) dispute these material facts with any evidence of their own, because Defendants’ obstruction persists to this day
+    span: Defendants did not (and cannot) dispute these material facts with any evidence of their own, because Defendants’ obstruction persists to this day.
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.290713/gov.uscourts.dcd.290713.33.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u6
+    outcome: verified
+    checked: '2026-11-02'
 capture_lanes:
   - Constitutional Crisis
   - Democratic Erosion
+updates:
+- date: '2026-10-20'
+  date_kind: filing date
+  heading: Defendants file their reply and opposition; Minnesota files its reply a week later
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: minnesota-v-doj-evidence-sharing
 ---
 
 On October 13, 2026, Minnesota filed its opposition to the federal motion to dismiss, plus a cross-motion for summary judgment, in *State of Minnesota v. U.S. Department of Justice*, No. 1:26-cv-01007-EGS (D.D.C., Judge Emmet G. Sullivan). The filings, with sworn declarations from BCA Superintendent Drew Evans and Hennepin County Attorney Mary Moriarty, are the first sworn account of how a short-lived evidence-sharing deal collapsed. CNN reported them on October 15.
@@ -116,3 +195,7 @@ On October 13, 2026, Minnesota filed its opposition to the federal motion to dis
 **What the record does not show.** The reason is attributed only to the U.S. Attorney's own phrase, "challenges with D.C." Evans swears no national-security or investigative-harm justification was ever offered. The Moriarty declaration and its 17 exhibits are not in RECAP, so the call details rest on the State's brief characterizing it. No DOJ response was located. Premise correction: the tracker's "stopped sharing ... withholding firearms, cellphone data, physical evidence, and an officer's statement" is accurate as to what is withheld, but the stop was not new on October 15; it dates to mid-to-late July, with the indefinite message in September. This is evidence that the July handover (see the March 24 lawsuit entry's "Update") was a partial, reversible concession, not a resolution.
 
 **Context.** Federal motion to dismiss filed September 28; briefing runs to October 27 (docket order of September 17). Related: [[2026-01-08--fbi-blocks-state-investigation-renee-good-shooting]], [[2026-01-24--ohara-bca-blocked-pretti-scene-contaminated]], [[2026-02-16--fbi-denies-minnesota-bca-evidence-pretti-case]], [[2026-03-24--ellison-moriarty-evans-sue-doj-dhs-evidence-blockade-good-pretti]], [[2026-10-01--renee-good-family-files-two-federal-lawsuits-ftca-civil-rights-metro-surge]].
+
+## Update (2026-10-20, filing date): Defendants file their reply and opposition; Minnesota files its reply a week later
+
+The defendants filed their reply in support of the motion to dismiss or transfer, and their opposition to Minnesota's cross-motion for summary judgment, on October 20, 2026. The defendants write that "Defendants, in their discretion, have declined to share information with Plaintiffs." They say the evidence DOJ did hand over was shared "under its discretionary exception to its Touhy regulations," and that because the exceptions are discretionary, the court has no standard to judge them by. On remedy, they write that "the best course of action would be to remand to the relevant agencies with instructions to ensure compliance." Minnesota's reply followed on October 27, 2026. It answers the defendants' point that Minnesota already has the evidence by writing that the defendants "did not (and cannot) dispute these material facts with any evidence of their own, because Defendants’ obstruction persists to this day." Both are party filings, and each is that party's account.
