@@ -35,6 +35,11 @@ sources:
     publisher: "Electronic Privacy Information Center"
     date: '2026-03-12'
     tier: 2
+  - title: S. 4082 (IS), Government Surveillance Reform Act of 2026
+    url: https://www.govinfo.gov/content/pkg/BILLS-119s4082is/html/BILLS-119s4082is.htm
+    publisher: U.S. Government Publishing Office
+    date: '2026-03-12'
+    tier: 1
 related_events:
   - 2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data
   - 2026-03-25--npr-documents-data-broker-loophole-purchase-instead-of-warrant-fisa-702
@@ -44,6 +49,56 @@ related_events:
   - 2026-06-08--ice-awards-thundercat-9-9m-itin-data-subscription-after-courts-blocked-irs-channel
 coverage:
   - daily-capture-reports/headline/2026-03-01--gsra-fisa-702-data-broker-loophole-wyden-lee.md
+claims:
+- type: date
+  value: March 12, 2026
+  span: IN THE SENATE OF THE UNITED STATES March 12, 2026 Mr. Wyden (for himself, Mr. Lee, Ms. Warren, and Ms. Lummis) introduced the following bill; which was read twice and referred to the Committee on the Judiciary
+  url: https://www.govinfo.gov/content/pkg/BILLS-119s4082is/html/BILLS-119s4082is.htm
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Prohibition on Federal law enforcement purchase of personal data from data brokers
+  span: SEC. 201. PROHIBITION ON FEDERAL LAW ENFORCEMENT PURCHASE OF PERSONAL DATA FROM DATA BROKERS.
+  url: https://www.govinfo.gov/content/pkg/BILLS-119s4082is/html/BILLS-119s4082is.htm
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: S. 4082
+  span: '[Congressional Bills 119th Congress] [From the U.S. Government Publishing Office] [S. 4082 Introduced in Senate (IS)]'
+  url: https://www.govinfo.gov/content/pkg/BILLS-119s4082is/html/BILLS-119s4082is.htm
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: '201'
+  span: SEC. 201. PROHIBITION ON FEDERAL LAW ENFORCEMENT PURCHASE OF PERSONAL DATA FROM DATA BROKERS.
+  url: https://www.govinfo.gov/content/pkg/BILLS-119s4082is/html/BILLS-119s4082is.htm
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-02'
+updates:
+- date: '2026-03-12'
+  date_kind: bill introduction date
+  heading: 'The bill text: S. 4082 carries the Fourth Amendment Is Not For Sale Act as Title II'
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: make-expensive-data-broker-enforcement
 ---
 
 Senators **Ron Wyden** (D-OR) and **Mike Lee** (R-UT), with Representatives **Warren Davidson** (R-OH) and **Zoe Lofgren** (D-CA), introduced the **Government Surveillance Reform Act** on **March 12, 2026**. Cosponsors: Sens. **Elizabeth Warren** and **Cynthia Lummis**, Reps. **Sara Jacobs** and **Pramila Jayapal**.
@@ -59,3 +114,7 @@ So the loophole the bill would close was, across the same year, confirmed by the
 The coalition is the other notable feature: **ACLU, Americans for Prosperity, Brennan Center, Center for Democracy & Technology, Consumer Choice Center, Demand Progress, Due Process Institute, EPIC, Fight for the Future, Muslim Advocates, NACDL, Restore the Fourth, Free Press Action, POGO** and others endorsed it — left and right civil-liberties organizations on the same bill, matching the Wyden-Lee, Lofgren-Davidson sponsor pairing. Warrantless data purchasing is one of the few surveillance questions where that coalition still forms.
 
 **Sourcing note.** The March 12 date, all sponsors and cosponsors, the data-broker and § 702 provisions, both quotes, and the endorsing organizations are from **Wyden's own Senate press release**, read directly — a primary source for the bill's introduction and contents, though naturally a sponsor's characterization of its own bill. The capture ledger dated this to **March 1** and gave a bill number of **S.4082**; the March 1 date is corrected to March 12 per the release, and **the bill number is not carried** — the press release does not state it, and it was not verified against Congress.gov. The ledger's claim that the bill's "best chance" runs through the FISA reauthorization debate is **FedScoop's analysis, not confirmed congressional scheduling**, as the ledger's own fact-check noted; it is not carried as fact. **No markup, floor vote, or committee action is established here**, and given that § 702 lapsed in June the reauthorization vehicle the analysis assumed may no longer exist in the form described.
+
+## Update (2026-03-12, bill introduction date): The bill text: S. 4082 carries the Fourth Amendment Is Not For Sale Act as Title II
+
+The Senate bill, S. 4082, was introduced on March 12, 2026 and referred to the Committee on the Judiciary. Its Title II is titled the Fourth Amendment Is Not For Sale Act, and Section 201 is titled "Prohibition on Federal law enforcement purchase of personal data from data brokers."
