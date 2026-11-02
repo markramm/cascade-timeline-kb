@@ -54,6 +54,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-31'
+- type: quote
+  value: Wednesday night after taking it offline for nearly 41 hours
+  span: The Federal Election Commission restored its electronic filing system Wednesday night after taking it offline for nearly 41 hours to contain a cyberattack, which temporarily concealed spending from big donors as political donations ramp up in the final days of the midterms.
+  url: https://bdnews24.com/world/americas/2drt4exo4n
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Campaign finance managers had to reset their passwords before logging in to the system, according to an email reviewed by Reuters.
+  span: Campaign finance managers had to reset their passwords before logging in to the system, according to an email reviewed by Reuters.
+  url: https://bdnews24.com/world/americas/2drt4exo4n
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: The FEC did not return requests for comment Wednesday and did not announce any details on the cause of the outage.
+  span: The FEC did not return requests for comment Wednesday and did not announce any details on the cause of the outage.
+  url: https://bdnews24.com/world/americas/2drt4exo4n
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - fec
 - campaign-finance
@@ -72,7 +99,28 @@ sources:
   publisher: CNBC
   date: '2026-10-28'
   tier: 2
+- title: FEC restores filing system
+  url: https://bdnews24.com/world/americas/2drt4exo4n
+  publisher: Reuters via bdnews24
+  date: '2026-10-29'
+  tier: 2
 related_events: []
+updates:
+- date: '2026-10-28'
+  date_kind: restoration date, as reported
+  heading: 'Reuters: filing restored after nearly 41 hours; managers had to reset passwords'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
 ---
 
 A status message posted by the FEC said its filing system had been down since around 10 p.m. ET Monday, NBC News reports. "We have a bad actor attempting to breach FEC systems," an FEC filings officer wrote to compliance firms. The outage prevented filing 24-hour and 48-hour spending reports. CNBC reports the FEC said Tuesday night it had identified the issue, and that the system "remained offline early Wednesday."
+
+## Update (2026-10-28, restoration date, as reported): Reuters: filing restored after nearly 41 hours; managers had to reset passwords
+
+Reuters reported that the FEC restored filing "Wednesday night after taking it offline for nearly 41 hours." It reported: "Campaign finance managers had to reset their passwords before logging in to the system, according to an email reviewed by Reuters." It gave no reason for the reset. It also reported: "The FEC did not return requests for comment Wednesday and did not announce any details on the cause of the outage."
