@@ -94,6 +94,78 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-11-01'
+- type: posture
+  value: dismissed without prejudice
+  span: Accordingly, the hearing previously scheduled in this matter is vacated, all pending motions are moot, and this matter is dismissed without prejudice.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10145CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: have been resolved
+  span: This Court received notice from counsel for the parties over the weekend that the issues raised in this matter have been resolved.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10145CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: voluntary dismissal
+  span: Plaintiff has since filed a Rule 41(a)(1)(A) voluntary dismissal.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10145CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: five remaining sites
+  span: the Court directed the parties to meet and confer and determine if a solution could be found to resolve the issues concerning five remaining sites for early and in person absentee voting.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10167CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: had found solutions for the remaining sites
+  span: The parties submitted an email report to the Court indicating they had had conferred and had found solutions for the remaining sites.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10167CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: stayed pending further order
+  span: It is further ordered that the Motion for TRO / Preliminary Injunction is stayed pending further order from this Court.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10167CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: vacated
+  span: Accordingly, the hearing previously scheduled for 9am this morning to address the Motion for TRO / Preliminary Injunction is vacated.
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10167CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: 11/02/2026
+  span: Lael Harrison Email 11/02/2026 08:32:58 AM
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10145CI/order2.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - alaska
 - polling-places
@@ -116,6 +188,16 @@ sources:
   publisher: Alaska's News Source
   date: '2026-10-30'
   tier: 2
+- title: Order Vacating Hearing and Dismissing Case, 3AN-26-10145CI
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10145CI/order2.pdf
+  publisher: Alaska Court System
+  date: '2026-11-02'
+  tier: 1
+- title: Order re Meet and Confer and Vacating Hearing, 3AN-26-10167CI
+  url: https://public.courts.alaska.gov/web/media/MRCF/3AN-26-10167CI/order2.pdf
+  publisher: Alaska Court System
+  date: '2026-11-02'
+  tier: 1
 updates:
 - date: '2026-10-29'
   date_kind: filing date (Midnight Sun suit), per ADN
@@ -130,6 +212,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-02'
+  date_kind: order date
+  heading: Both hearings vacated; one suit dismissed without prejudice, the other's motion stayed
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 Democrats filed a complaint on Friday in Anchorage Superior Court accusing election officials of failing to properly operate at least 18 rural polling locations, The New York Times reports. The complaint warns that several thousand voters across remote, predominantly Alaska Native communities face disenfranchisement. These are the complaint's allegations. It comes alongside the Justice Department's suit over the Alaska ballot, [[2026-10-22--doj-sues-alaska-to-bar-senate-certification-if-sullivan-loses-nvra]].
@@ -139,3 +237,7 @@ This entry rests on a short excerpt of the Times story. The complaint, the Divis
 ## Update (2026-10-29, filing date (Midnight Sun suit), per ADN): Midnight Sun Independence Fund sued first; Judge Matthews set a Monday hearing
 
 The first lawsuit was filed Thursday by Midnight Sun Independence Fund, a Washington, D.C. political nonprofit, and the second Friday afternoon by the Alaska Democratic Party. Judge Thomas Matthews of Anchorage Superior Court responded Friday afternoon to the first suit by ordering a hearing on the motion for 9 a.m. Monday, the day before the general election. Both suits name the Lieutenant Governor, the Division's director and the Division as defendants. These are the plaintiffs' allegations. The Division's director told a legislator that 12 of the locations flagged had told the division their site is open. No ruling had been reported as of this entry.
+
+## Update (2026-11-02, order date): Both hearings vacated; one suit dismissed without prejudice, the other's motion stayed
+
+The hearings in both suits were vacated. In the Midnight Sun Independence Fund suit, the court said counsel reported the issues "have been resolved"; the plaintiff took a voluntary dismissal and the case was dismissed without prejudice. In the Alaska Democratic Party suit, the parties conferred on "five remaining sites" and reported they "had found solutions for the remaining sites"; the restraining-order motion is "stayed pending further order". The orders do not state the terms or name the sites, and no court ruled on the merits.

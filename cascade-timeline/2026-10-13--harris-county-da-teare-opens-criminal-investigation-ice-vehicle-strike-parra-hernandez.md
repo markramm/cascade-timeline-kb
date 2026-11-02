@@ -235,6 +235,78 @@ claims:
   id: u17
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Monday
+  span: Mario Alberto Morales, the U.S. Immigration and Customs Enforcement (ICE) officer indicted by a grand jury last week, surrendered himself in a Harris County District Court Monday.
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: $30,000
+  span: Judge Matthew Peneguy, who presided over the hearing, ordered a $30,000 bond and said Morales is to have no contact with any of the victims or witnesses in the case.
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u19
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: $75,000
+  span: Lawyers for the district attorney’s office requested a $75,000 bond
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u20
+  outcome: verified
+  checked: '2026-11-02'
+- type: figure
+  value: $25,000
+  span: Morales' lawyer David Lindenmuth countered and requested a $25,000 bond
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u21
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: 488th District Court
+  span: In Harris County 488th District Court, Morales entered in a gray suit and purple tie
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u22
+  outcome: verified
+  checked: '2026-11-02'
+- type: posture
+  value: move Morales’ case to federal court
+  span: He said the team anticipates filing to move Morales’ case to federal court.
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u23
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: politically motivated
+  span: Michael Wynne, the lead defense attorney for Morales, called the indictment politically motivated.
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u24
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: nothing more than an accident
+  span: He said the collision was “nothing more than an accident”
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  read: fetched
+  source_kind: secondary
+  id: u25
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - immigration-enforcement-violence
 - ice-use-of-force
@@ -292,6 +364,11 @@ sources:
   publisher: FOX 26 Houston
   date: '2026-10-30'
   tier: 2
+- title: Indicted ICE agent surrenders himself in Harris County court
+  url: https://www.houstonpublicmedia.org/articles/court/2026/11/02/565831/indicted-ice-agent-surrenders-himself-in-harris-county-court/
+  publisher: Houston Public Media
+  date: '2026-11-02'
+  tier: 2
 updates:
 - date: '2026-10-30'
   date_kind: indictment date, as reported
@@ -334,6 +411,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
+- date: '2026-11-02'
+  date_kind: court appearance date
+  heading: The indicted ICE officer surrenders; bond set at $30,000; defense plans to seek federal court
+  claims:
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  event_date_claim: u18
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
 ---
 
 Harris County District Attorney Sean Teare said on Tuesday that his office has opened a criminal investigation of the Saturday incident in which an ICE vehicle struck Miguel Parra-Hernandez, and that prosecutors are looking at the possibility of aggravated assault with a deadly weapon. Teare said "that individual was intentionally struck and run over," and told KTRK-TV that "a charging decision is going to come in a relatively short order in this case." He also said that when investigators tried to tow the ICE vehicle for a search warrant, an officer allegedly left the scene in it. ICE called the allegation that the strike was intentional "reckless and false," and a DHS official told NBC News that ICE is reviewing video of the scene as part of an internal investigation. No charge has been filed in the sources reviewed, and the intent finding is the district attorney's position, not a ruling.
@@ -351,3 +444,7 @@ The AP reported on October 30 that District Attorney Sean Teare said the Departm
 ## Update (2026-10-30, date of the DA's news conference and release): The DA's release points to the district clerk for the indictment; the officer's lawyer says he will surrender Monday
 
 The Harris County District Attorney's Office posted its release announcing the grand jury indictment in the ICE-related crash in west Houston. It tells readers who want the indictment to search the Harris County District Clerk's site. The officer's lawyer told a Houston television station that his client expects to surrender on the outstanding warrant, on Monday. Parra is still hospitalized as of Friday, according to District Attorney Sean Teare.
+
+## Update (2026-11-02, court appearance date): The indicted ICE officer surrenders; bond set at $30,000; defense plans to seek federal court
+
+Mario Alberto Morales, the ICE officer indicted last week, surrendered in Harris County 488th District Court on Monday, Houston Public Media reports. Judge Matthew Peneguy ordered a $30,000 bond and no contact with victims or witnesses. Prosecutors had asked for $75,000, and the defense for $25,000. Defense attorney Michael Wynne said the team anticipates filing to move the case to federal court; he called the indictment politically motivated. Defense attorney David Lindenmuth said the collision was "nothing more than an accident".
