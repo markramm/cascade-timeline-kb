@@ -151,6 +151,33 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.277395/gov.uscourts.dcd.277395.62.0.pdf
   read: fetched
   source_kind: primary
+- type: quote
+  value: only confirms the existing record, which is sufficient on its own for the Court to grant partial summary judgment
+  span: The testimony from Department of Homeland Security (“DHS”) and Department of Defense (“DOD”) witnesses on October 14, 2026, only confirms the existing record, which is sufficient on its own for the Court to grant partial summary judgment.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.129.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: were not permitted to testify by answering questions posed by their own counsel
+  span: Finally, Defendants object that their witnesses were not permitted to testify by answering questions posed by their own counsel.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.128.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: October 29, 2026
+  span: 'Dated: October 29, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.134.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - guantanamo
 - detention-pipeline
@@ -182,6 +209,33 @@ sources:
   publisher: U.S. District Court for the District of Columbia (via RECAP)
   date: '2026-03-13'
   tier: 1
+- title: Plaintiffs' Supplemental Memorandum (ECF 129)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.129.0.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-10-26'
+  tier: 1
+- title: Defendants' Supplemental Brief (ECF 128)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.128.0.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-10-26'
+  tier: 1
+- title: Joint Status Report (ECF 134)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.281278/gov.uscourts.dcd.281278.134.0_1.pdf
+  publisher: D.D.C. via RECAP
+  date: '2026-10-29'
+  tier: 1
+updates:
+- date: '2026-10-29'
+  date_kind: filing date
+  heading: 'Supplemental briefs: "only confirms the existing record"'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guantanamo-immigration-detention
 ---
 
 The court hearing that Minnesota coverage of the Somali Guantanamo detainees pointed to as set for October 14 was held in *Luna Gutierrez v. Mullin* (formerly *v. Noem*), No. 1:25-cv-01766-SLS, a class action before D.D.C. Judge Sparkle L. Sooknanan, not in the access-to-counsel case *Suazo-Muller v. Noem* (docketed as *Las Americas Immigrant Advocacy Center v. Noem*), No. 1:25-cv-00418-CJN, before Judge Carl J. Nichols. A joint status report dated October 19, 2026 refers to the October 14, 2026 witness testimony and proposes simultaneous supplemental briefs of ten pages, due October 26, 2026. Neither case is a petition filed for a Somali detainee. The "habeas" label traces to the CourtListener cause code and to counsel's caption.
@@ -193,3 +247,7 @@ The court hearing that Minnesota coverage of the Somali Guantanamo detainees poi
 **Conditions.** The opinion's Camp 6 description, that detainees are "permitted only one hour per day of recreation in an indoor cage," is the complaint's allegation as the court recounts it, not a finding. The government reported three detained at the Migrant Operations Center and zero at Camp VI as of March 10, 2026.
 
 Related: [[2026-08-28--ice-diverts-twelve-somali-men-told-deported-somalia-to-guantanamo]], [[2026-09-09--adam-abdullah-st-paul-asylum-seeker-sent-to-guantanamo-camp-six]], [[2026-10-02--nine-somali-men-including-three-minnesotans-deported-from-guantanamo-to-somalia]].
+
+## Update (2026-10-29, filing date): Supplemental briefs: "only confirms the existing record"
+
+Plaintiffs' supplemental memorandum says the October 14, 2026 testimony "only confirms the existing record, which is sufficient on its own for the Court to grant partial summary judgment." Defendants' supplemental brief objects that their witnesses "were not permitted to testify by answering questions posed by their own counsel." In a joint status report dated October 29, 2026, the parties proposed a further session limited to one DHS witness, with one hour of questioning per side.
