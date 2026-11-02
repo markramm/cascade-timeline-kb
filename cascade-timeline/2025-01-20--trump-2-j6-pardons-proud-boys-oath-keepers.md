@@ -64,6 +64,11 @@ sources:
   outlet: SPLC Intelligence Project
   date: '2025-05-22'
   tier: 2
+- title: Proud Boys verdict
+  url: https://www.npr.org/2023/05/04/1172530436/proud-boys-jan-6-sedition-trial-verdict
+  publisher: NPR
+  date: '2023-05-04'
+  tier: 2
 status: confirmed
 capture_lanes:
 - Institutional Capture
@@ -73,16 +78,46 @@ related_entries:
 - forgiveness-over-accountability-ratchet-1974-2026-executive-and-regulatory-tracks
 - privatization-of-force-projection-one-50-year-arc-four-phases
 - 2020-12-22--blackwater-massacre-pardons-four-contractors
+claims:
+- type: quote
+  value: individuals convicted of offenses related to events that occurred at or near the United States Capitol
+  span: 'commute the sentences of the following individuals convicted of offenses related to events that occurred at or near the United States Capitol on January 6, 2021, to time served as of January 20, 2025:'
+  url: https://www.federalregister.gov/documents/2025/01/29/2025-01950/granting-pardons-and-commutation-of-sentences-for-certain-offenses-relating-to-the-events-at-or-near
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: not guilty of seditious conspiracy
+  span: Jurors found defendant Dominic Pezzola not guilty of seditious conspiracy.
+  url: https://www.npr.org/2023/05/04/1172530436/proud-boys-jan-6-sedition-trial-verdict
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+updates:
+- date: '2025-01-20'
+  date_kind: proclamation date; correction made 2026-11-02
+  heading: 'Correction: the commutation list is not all seditious conspiracy, and Tarrio is not on it'
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guardrails
 ---
 
-On his first day in office, President Trump signed **Proclamation 10887**, issuing mass clemency to approximately 1,500 January 6 defendants — the largest executive clemency action for political-violence convictions in modern American history. The proclamation granted full, complete, and unconditional pardons to all defendants in the broad class while commuting the sentences of 14 named Oath Keepers and Proud Boys leaders convicted of seditious conspiracy to "time served as of January 20, 2025."
+On his first day in office, President Trump signed **Proclamation 10887**, issuing mass clemency to approximately 1,500 January 6 defendants — the largest executive clemency action for political-violence convictions in modern American history. The proclamation granted full, complete, and unconditional pardons to all defendants in the broad class while commuting the sentences of 14 named Oath Keepers and Proud Boys members to "time served as of January 20, 2025." See the correction below on who was convicted of what.
 
 ## Scope of clemency (Proclamation 10887)
 
 **Full pardons** (unconditional) — approximately 1,500 defendants convicted of or awaiting trial for offenses related to the January 6 Capitol attack.
 
 **Commutations to time served** — 14 named leaders, including:
-- *Proud Boys*: Enrique Tarrio (22-year sentence, seditious conspiracy), Joseph Biggs, Ethan Nordean, Zachary Rehl, Jeremy Bertino, Dominic Pezzola
+- *Proud Boys*: Joseph Biggs, Ethan Nordean, Zachary Rehl, Jeremy Bertino, Dominic Pezzola
 - *Oath Keepers*: Stewart Rhodes (18-year sentence, seditious conspiracy), Kelly Meggs, Roberto Minuta (and additional named Oath Keepers members)
 
 Note: Tarrio's clemency was subsequently reported as a full pardon rather than commutation in some sources — the Wikipedia aggregation documents his sentence as cleared. The seditious-conspiracy convictions were not excluded from the clemency scope; no carve-out existed for violent-offense or leadership-status defendants.
@@ -134,3 +169,7 @@ The SPLC's May 2025 *Year in Hate and Extremism 2024* report (*Divide, Demoraliz
 - [[privatization-of-force-projection-one-50-year-arc-four-phases]] — volunteer-paramilitary track annotation in the Phase-4 discussion; parallel-but-distinct to PE-mercenary Phase-3 track
 - Capture Cascade Ch 10 (forgiveness-ratchet chapter) — the J6 pardons as the ratchet's most explicit day-1 instantiation in Trump-2
 - Capture Cascade Ch 15 (closing chapter, Moral Battlefield register) — the restoration-register argument must address J6-pardons as accountability-elimination; this event is a Ch 15 load-bearer
+
+## Update (2025-01-20, proclamation date; correction made 2026-11-02): Correction: the commutation list is not all seditious conspiracy, and Tarrio is not on it
+
+The proclamation's commutation list covers "individuals convicted of offenses related to events that occurred at or near the United States Capitol." A jury found one man on that list "not guilty of seditious conspiracy." Enrique Tarrio is not on the list.
