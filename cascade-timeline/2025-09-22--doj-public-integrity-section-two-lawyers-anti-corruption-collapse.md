@@ -1,4 +1,6 @@
 ---
+approved_names:
+- Pam Bondi
 type: timeline_event
 id: 2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse
 previous_ids: ["2026-03-06--doj-public-integrity-section-two-lawyers-anti-corruption-collapse"]

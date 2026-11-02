@@ -1,4 +1,6 @@
 ---
+approved_names:
+- Sheldon Whitehouse
 type: timeline_event
 id: 2026-10-15--padilla-durbin-whitehouse-letter-ag-blanche-reaffirm-no-seizure-of-ballots-before-certification-answers-by-oct-29
 date: '2026-10-15'

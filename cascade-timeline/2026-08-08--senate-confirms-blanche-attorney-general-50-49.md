@@ -1,4 +1,8 @@
 ---
+approved_names:
+- Todd Blanche
+- Susan Collins
+- Lisa Murkowski
 type: timeline_event
 id: 2026-08-08--senate-confirms-blanche-attorney-general-50-49
 date: '2026-08-08'
