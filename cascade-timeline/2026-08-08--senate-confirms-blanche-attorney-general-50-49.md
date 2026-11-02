@@ -49,7 +49,9 @@ sources:
 related_events:
   - 2026-04-02--trump-fires-bondi-attorney-general
   - 2026-07-14--scotus-trump-v-slaughter-overturns-humphreys-executor
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-emergency-is-the-agencies
+    title: "The Emergency Is the Agencies"
 ---
 
 The Senate confirmed Todd Blanche as Attorney General by a vote of **50-49** in an overnight session early Saturday, August 8, 2026. He was sworn in on Monday, August 10. Blanche had been Trump's personal criminal defense attorney — representing him in two federal prosecutions and the New York hush-money trial — before becoming Deputy Attorney General, then acting AG for roughly four months after Pam Bondi's firing on April 2.

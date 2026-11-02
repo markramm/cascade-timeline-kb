@@ -126,6 +126,9 @@ sources:
   date: '2026-10-19'
   tier: 2
 lane: Electoral Manipulation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-emergency-is-the-agencies
+    title: "The Emergency Is the Agencies"
 ---
 
 ProPublica reported, citing former administration officials, that a few months into Trump's second term political appointees at the Department of Homeland Security asked CISA to secretly acquire a voting machine and hack it, with the findings to go to the White House. CISA had also been directed not to alert the voting machine company if it found flaws, contrary to standard practice. One former official said the findings could be kept "in their back pocket to invalidate any" election results the appointees did not like. CISA staff repeatedly said it was impossible, and the appointees eventually stopped pressing. The request was not acted on. The account rests on anonymous former officials; DHS and CISA did not respond to ProPublica's questions.

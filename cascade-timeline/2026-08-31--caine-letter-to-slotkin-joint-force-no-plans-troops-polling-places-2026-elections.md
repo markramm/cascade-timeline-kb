@@ -41,6 +41,9 @@ claims:
     url: https://www.nbcnews.com/politics/2026-election/us-military-troops-polls-midterms-rcna595390
     read: fetched
     source_kind: secondary
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-emergency-is-the-agencies
+    title: "The Emergency Is the Agencies"
 ---
 
 In a letter to Sen. **Elissa Slotkin** (D-Mich.), as published by NBC News on Aug. 31, 2026, Joint Chiefs Chairman **Gen. Dan Caine** wrote: "The Joint Force has no plans to send Federal military personnel or Federalized members of the National Guard to polling places during the 2026 elections." The statement covers the military and federalized Guard; it does not address ICE, HSI, FBI or other civilian federal agents at polling places, and it is a statement of current plans, not a prohibition.
