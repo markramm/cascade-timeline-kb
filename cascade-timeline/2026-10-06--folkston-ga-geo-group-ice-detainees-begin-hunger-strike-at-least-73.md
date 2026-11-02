@@ -284,6 +284,33 @@ claims:
   id: u15
   outcome: verified
   checked: '2026-10-26'
+- type: attribution
+  value: issued the alert
+  span: The Charlton County Emergency Management Agency issued the alert Sunday afternoon on behalf of the Charlton County Sheriff’s Office.
+  url: https://www.actionnewsjax.com/news/local/charlton-county-officials-issue-safety-alert-following-inmate-escape-folkston-prison/CT3TY4OEHFAY3KTJYL6DUXYS6I/
+  read: fetched
+  source_kind: news
+  id: u16
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: escaped from D. Ray James Correctional Facility
+  span: Charlton County officials are asking residents to be on the lookout for a man who escaped from D. Ray James Correctional Facility, which is located in Folkston.
+  url: https://www.actionnewsjax.com/news/local/charlton-county-officials-issue-safety-alert-following-inmate-escape-folkston-prison/CT3TY4OEHFAY3KTJYL6DUXYS6I/
+  read: fetched
+  source_kind: news
+  id: u17
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: suspected to be injured
+  span: He is “suspected to be injured” and “may be dangerous,” officials say.
+  url: https://www.actionnewsjax.com/news/local/charlton-county-officials-issue-safety-alert-following-inmate-escape-folkston-prison/CT3TY4OEHFAY3KTJYL6DUXYS6I/
+  read: fetched
+  source_kind: news
+  id: u18
+  outcome: verified
+  checked: '2026-11-01'
 tags:
 - immigration-detention
 - hunger-strike
@@ -318,6 +345,11 @@ sources:
   url: https://migrantinsider.com/p/exclusive-folkston-hunger-striker
   publisher: Migrant Insider
   date: '2026-10-23'
+  tier: 2
+- title: Charlton County officials issue safety alert following inmate escape from Folkston prison
+  url: https://www.actionnewsjax.com/news/local/charlton-county-officials-issue-safety-alert-following-inmate-escape-folkston-prison/CT3TY4OEHFAY3KTJYL6DUXYS6I/
+  publisher: Action News Jax
+  date: '2026-11-01'
   tier: 2
 coverage:
 - url: https://ghanaiantimes.com.gh/detained-immigrants-embark-on-hunger-strike/
@@ -372,6 +404,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: detention-expansion
+- date: '2026-11-01'
+  date_kind: alert date
+  heading: 'County alert: a man escaped from D. Ray James; the report does not say he was an ICE detainee'
+  claims:
+  - u16
+  - u17
+  - u18
+  event_date_claim: u16
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 ---
 
 Detainees at the Folkston D. Ray James ICE Processing Center in southern Georgia began a hunger strike on October 6, a spokesperson for the Campaign to Shut Down FIPC told the local broadcaster WSAV, per Mediazona; the Guardian says the strike was launched this week. The Guardian reports that advocates estimate at least 73 detained immigrants are participating; the sentence names no advocate, and the figure is an estimate, not a count by ICE, GEO Group or the facility. The Folkston facility, a former state prison, is run by the private prison company GEO Group under a contract with ICE.
@@ -385,3 +428,7 @@ Mediazona, not the Guardian, reports that ICE's own inspectors rated the facilit
 In a detainee death notification dated October 24, 2026, ICE said a 48-year-old man from El Salvador died in its custody at the Folkston D. Ray ICE Processing Center on Oct. 23, 2026. According to ICE, "At approximately 1:46 a.m. Oct. 23, facility staff found" him "with a ligature around his neck"; he was pronounced dead at approximately 2:28 a.m., and "An autopsy will be conducted to determine the official cause and manner of death." The Guardian reports that the Georgia Bureau of Investigation confirmed the local sheriff's office asked it to conduct an "in-custody death investigation." The paper said it was unknown on Saturday whether the man had taken part in the hunger strike.
 
 The strike continued. ICE told WABE on Oct. 16 that 13 people were still refusing food and that it would "intervene when it becomes necessary," Migrant Insider reports. The Guardian, citing a striker, reported that "At least 12 hunger strikers are still participating, despite the threats of force-feeding." GEO Group referred all questions to ICE.
+
+## Update (2026-11-01, alert date): County alert: a man escaped from D. Ray James; the report does not say he was an ICE detainee
+
+The Charlton County Emergency Management Agency issued an alert Sunday afternoon that a man "escaped from D. Ray James Correctional Facility," Action News Jax reported, saying he is "suspected to be injured" and "may be dangerous." The report calls him an inmate and does not say whether he was held for ICE, how he left, or whether he has been found. It draws no link to the hunger strike. He is not named here.
