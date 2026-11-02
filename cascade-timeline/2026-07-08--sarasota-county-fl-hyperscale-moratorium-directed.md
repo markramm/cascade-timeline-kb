@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-07-08--sarasota-county-fl-hyperscale-moratorium-directed
 date: '2026-07-08'
-title: "Sarasota County, FL Commissioners Direct Staff to Draft 12-Month Hyperscale Data Center Freeze, No Carveout, After Informal XF Group Inquiry"
+title: "Sarasota County, FL Commissioners Vote 5-0 for 12-Month Data Center Freeze, No Carveout, After Informal XF Group Inquiry"
 importance: 6
 status: confirmed
 tags:
