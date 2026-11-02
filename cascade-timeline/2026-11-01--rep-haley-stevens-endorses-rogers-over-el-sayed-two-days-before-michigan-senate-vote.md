@@ -256,6 +256,60 @@ claims:
   id: u19
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Sunday, Nov. 1, 2026
+  span: Rev. Horace Sheffield III, left, prays with Michigan Democratic Senate candidate Abdul El-Sayed, and Rep. James Clyburn, D-S.C., during a Souls to the Polls campaign event at Northend Church of God in Christ, Sunday, Nov. 1, 2026, in Detroit.
+  url: https://www.clickondetroit.com/news/politics/2026/11/01/michigan-democrats-unity-push-falters-as-stevens-is-asked-to-skip-event-with-el-sayed/
+  read: fetched
+  source_kind: news
+  id: u20
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: she asked Stevens not to attend
+  span: Dingell, a senior Democratic figure in the state who helped organize the planned joint appearance, said she asked Stevens not to attend and that Stevens told her she would abide by that.
+  url: https://www.clickondetroit.com/news/politics/2026/11/01/michigan-democrats-unity-push-falters-as-stevens-is-asked-to-skip-event-with-el-sayed/
+  read: fetched
+  source_kind: news
+  id: u21
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: I'm the one who pulled it, because it had become way too distracting
+  span: “I'm the one who pulled it, because it had become way too distracting," Dingell said in an interview before Stevens appeared with Rogers.
+  url: https://www.clickondetroit.com/news/politics/2026/11/01/michigan-democrats-unity-push-falters-as-stevens-is-asked-to-skip-event-with-el-sayed/
+  read: fetched
+  source_kind: news
+  id: u22
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: The bishop was getting upset, because this is a real church service
+  span: “The bishop was getting upset, because this is a real church service,” Dingell added.
+  url: https://bridgemi.com/michigan-politics/haley-stevens-joins-mike-rogers-in-detroit-bucking-abdul-el-sayed-in-senate-race/
+  read: fetched
+  source_kind: news
+  id: u23
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: said I was no longer welcome in his campaign and that I should stay away
+  span: “Our Democratic nominee for Senate said I was no longer welcome in his campaign and that I should stay away," Stevens said in a video announcing the endorsement, which led her top aide to quit.
+  url: https://www.clickondetroit.com/news/politics/2026/11/01/michigan-democrats-unity-push-falters-as-stevens-is-asked-to-skip-event-with-el-sayed/
+  read: fetched
+  source_kind: news
+  id: u24
+  outcome: verified
+  checked: '2026-11-01'
+- type: attribution
+  value: asked Stevens to stay away from its remaining events
+  span: El-Sayed’s campaign also asked Stevens to stay away from its remaining events.
+  url: https://www.foxnews.com/politics/haley-stevens-appears-alongside-gop-rival-mike-rogers-detroit-church
+  read: fetched
+  source_kind: news
+  id: u25
+  outcome: verified
+  checked: '2026-11-01'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -318,6 +372,16 @@ sources:
   publisher: The Guardian
   date: '2026-11-01'
   tier: 2
+- title: Abdul El-Sayed's Democratic rival, Haley Stevens, endorses GOP's Mike Rogers (AP)
+  url: https://www.clickondetroit.com/news/politics/2026/11/01/michigan-democrats-unity-push-falters-as-stevens-is-asked-to-skip-event-with-el-sayed/
+  publisher: Associated Press via WDIV
+  date: '2026-11-01'
+  tier: 2
+- title: Democrat Haley Stevens endorses GOP Senate nominee Mike Rogers at Detroit church
+  url: https://www.foxnews.com/politics/haley-stevens-appears-alongside-gop-rival-mike-rogers-detroit-church
+  publisher: Fox News
+  date: '2026-11-01'
+  tier: 2
 captured_by: capture-watch
 cluster: michigan-senate-influence
 approved_names:
@@ -366,6 +430,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: interview date
+  heading: Dingell says she pulled the church invitation, not El-Sayed
+  claims:
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  - u25
+  event_date_claim: u20
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -387,3 +465,7 @@ Michigan Democratic Party Chair Curtis Hertel: "Congresswoman Stevens is not a c
 ## Update (2026-11-01, statement date): Her staff, Sanders and Newsom
 
 Her chief of staff of eight years, in a statement for the campaign team: "We are shocked and heartbroken by Congresswoman Stevens' decision to support Mike Rogers." Sen. Bernie Sanders: "Rep. Haley Stevens' staff is right to resign in disgust." California Gov. Gavin Newsom: Stevens "went another 180 degrees overnight, so something was going on there," and "This may be curiously the October surprise of sorts."
+
+## Update (2026-11-01, interview date): Dingell says she pulled the church invitation, not El-Sayed
+
+Rep. Debbie Dingell helped organize the planned joint church appearance and says she asked Stevens not to attend, and that Stevens told her she would abide by that, the AP reports: "I'm the one who pulled it, because it had become way too distracting." She added: "The bishop was getting upset, because this is a real church service." Stevens's video gives a different account: El-Sayed "said I was no longer welcome in his campaign and that I should stay away." Fox News adds, as a separate step, that El-Sayed's campaign asked her to stay away from its remaining events.
