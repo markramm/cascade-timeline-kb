@@ -150,6 +150,33 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.298060/gov.uscourts.dcd.298060.1.0.pdf
   read: fetched
   source_kind: primary
+- type: attribution
+  value: Amit P. Mehta
+  span: Case Assigned to Judge Amit P. Mehta.
+  url: https://www.courtlistener.com/docket/75026995/piker-v-jennings/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: 10/30/2026
+  span: MINUTE ORDER granting Plaintiff's 2 Sealed Motion for Leave to File Document Under Seal. Plaintiff's Exhibit at ECF No. 2-1 shall remain under seal. Signed by Judge Amit P. Mehta on 10/30/2026.
+  url: https://www.courtlistener.com/docket/75026995/piker-v-jennings/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: attribution
+  value: Benjamin G. Chew
+  span: NOTICE of Appearance by Benjamin G. Chew on behalf of SCOTT JENNINGS (Chew, Benjamin)
+  url: https://www.courtlistener.com/docket/75026995/piker-v-jennings/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
 tags:
 - piker
 - jennings
@@ -172,11 +199,28 @@ sources:
   publisher: Mediaite
   date: '2026-10-27'
   tier: 3
+- title: Piker v. Jennings, 1:26-cv-03770, docket
+  url: https://www.courtlistener.com/docket/75026995/piker-v-jennings/
+  publisher: D.D.C. via CourtListener RECAP
+  date: '2026-11-02'
+  tier: 1
 related_events:
 - 2026-10-27--vance-howell-michigan-rally-links-el-sayed-to-paris-riots-and-hasan-piker-while-avoiding-anti-muslim-rhetoric-per-michigan-advance
 - 2026-09-24--netanyahu-unga-speech-addresses-mamdani-by-name-cites-hasan-piker-9-11-remark
 captured_by: investigation-research
 lane: Democratic Erosion
+updates:
+- date: '2026-10-30'
+  date_kind: order date
+  heading: Judge Mehta assigned; he seals one exhibit
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u2
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: piker-v-jennings
 ---
 
 Hasan Piker sued Scott Jennings in the U.S. District Court for the District of Columbia, Case 1:26-cv-03770 Document 1 Filed 10/27/26 Page 1 of 38 (the docket stamp on the complaint). The case, Piker v. Jennings, 1:26-cv-03770, is a federal diversity libel suit with a jury demand. The RECAP docket also lists a summons, a civil cover sheet and a sealed motion (Dkt. 2) about a residential address.
@@ -192,3 +236,7 @@ Hasan Piker sued Scott Jennings in the U.S. District Court for the District of C
 **Jennings' response.** No statement or court filing from Jennings turned up in this pass; the docket lists only the complaint and Dkt. 2.
 
 **Related.** [[2026-10-27--vance-howell-michigan-rally-links-el-sayed-to-paris-riots-and-hasan-piker-while-avoiding-anti-muslim-rhetoric-per-michigan-advance]]; [[2026-09-24--netanyahu-unga-speech-addresses-mamdani-by-name-cites-hasan-piker-9-11-remark]]. Open: the sealed Dkt. 2, the judge assignment and Jennings' response date.
+
+## Update (2026-10-30, order date): Judge Mehta assigned; he seals one exhibit
+
+The case is assigned to Judge Amit P. Mehta. A minute order signed 10/30/2026 grants the plaintiff's motion to seal one exhibit. Benjamin G. Chew has appeared for Jennings.
