@@ -35,6 +35,51 @@ sources:
     publisher: Your Observer
     date: '2026-07-11'
     tier: 2
+  - title: Official minutes, regular board meeting
+    url: https://sarasotacounty.granicus.com/MinutesViewer.php?view_id=52&clip_id=6949
+    publisher: Sarasota County via Granicus
+    date: '2026-07-08'
+    tier: 1
+claims:
+- type: quote
+  value: Commissioner Neunder moved for a temporary freeze on accepting revisions and/or approval on any Data Center applications for a period of 12 months. Seconded by Mast, carried by a 5-0 vote.
+  span: Commissioner Neunder moved for a temporary freeze on accepting revisions and/or approval on any Data Center applications for a period of 12 months. Seconded by Mast, carried by a 5-0 vote.
+  url: https://sarasotacounty.granicus.com/MinutesViewer.php?view_id=52&clip_id=6949
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: hyperscale
+  span: For the Board to receive an update on hyperscale large scale data center facilities
+  url: https://sarasotacounty.granicus.com/MinutesViewer.php?view_id=52&clip_id=6949
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: July 8
+  span: BCC-Regular July 8, 2026 9:00 a.m. MINUTES BOARD OF COUNTY COMMISSIONERS
+  url: https://sarasotacounty.granicus.com/MinutesViewer.php?view_id=52&clip_id=6949
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-02'
+updates:
+- date: '2026-07-08'
+  date_kind: meeting date, per the official minutes
+  heading: The minutes record a 5-0 vote for the freeze, on any data center applications
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 Sarasota County, Florida commissioners voted 5-0 on July 8, 2026 — at a regular board meeting in Venice, following a presentation by assistant planning director Michele Norton — to **direct** county staff and the County Attorney's office (Joshua Moye) to draft a 12-month freeze on the "acceptance, review or approval" of applications for hyperscale data centers (defined by Florida's 2026 statute as facilities of 50+ megawatts). County Attorney Moye told the board the freeze itself was not yet in force: his office would draft the provisions and bring the commissioners "an update in August or September" — i.e., this was a **directive vote, not an adopted ordinance**, and no ordinance or resolution number had been assigned as of this writing (2026-08-28). Treat the "moratorium" framing common in press coverage as describing the board's clear intent, not yet a codified, numbered legal instrument — distinct from [[2026-07-29--desoto-county-fl-moratorium-approved-loophole-preserved]], which was a fully adopted, numbered ordinance (2026-016) by the time of that reporting.
@@ -56,3 +101,7 @@ Sarasota County, Florida commissioners voted 5-0 on July 8, 2026 — at a regula
 See [[xf-group]] for the corporate-identity research and the Sunbiz detail.
 
 **Update, October 20, 2026 (check date).** North Port's city commission adopted its own 18-month moratorium on second reading on September 22, 2026; see [[2026-09-22--north-port-fl-adopts-18-month-data-center-moratorium-3-2-second-reading]]. For the county itself, no press report or agenda item located through October 20, 2026 shows the promised permanent-versus-temporary follow-up vote, and no county ordinance number has surfaced. The county's own site (scgov.net) returns an Akamai access-denied page to curl and to headless Chromium, so the county agenda and minutes were not read directly; the absence is a press-coverage negative, not a minutes negative. A web-search summary attributed a September 15, 2026 5-0 twelve-month vote on 50-megawatt facilities to Sarasota County; the tracker it drew on lists that action under Marion County, so it is not a Sarasota action.
+
+## Update (2026-07-08, meeting date, per the official minutes): The minutes record a 5-0 vote for the freeze, on any data center applications
+
+The official minutes do not record a direction to draft. They record a carried motion: "Commissioner Neunder moved for a temporary freeze on accepting revisions and/or approval on any Data Center applications for a period of 12 months. Seconded by Mast, carried by a 5-0 vote." The title of this entry has been changed accordingly. The minutes carry no ordinance number. "Hyperscale" is in the agenda item's title, not in the motion.
