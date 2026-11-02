@@ -310,6 +310,24 @@ claims:
   id: u25
   outcome: verified
   checked: '2026-11-01'
+- type: quote
+  value: I'm dumbfounded that Haley told me one thing last night and changed her mind today.
+  span: '"I''m dumbfounded that Haley told me one thing last night and changed her mind today," said Rep. Jamie Raskin (D-Md.), who had previously said Stevens told him in a phone call she was "voting straight down the line on the Democratic ticket."'
+  url: https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed
+  read: fetched
+  source_kind: news
+  id: u26
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: voting straight down the line on the Democratic ticket.
+  span: '"I''m dumbfounded that Haley told me one thing last night and changed her mind today," said Rep. Jamie Raskin (D-Md.), who had previously said Stevens told him in a phone call she was "voting straight down the line on the Democratic ticket."'
+  url: https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed
+  read: fetched
+  source_kind: news
+  id: u27
+  outcome: verified
+  checked: '2026-11-01'
 participants:
 - Haley Stevens
 - Mike Rogers
@@ -444,6 +462,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: statement date
+  heading: 'Rep. Raskin: she told him otherwise the night before'
+  claims:
+  - u26
+  - u27
+  event_date_claim: u26
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 Rep. Haley Stevens, the Michigan Democrat who lost the Senate primary to Abdul El-Sayed, endorsed Republican Mike Rogers on Nov. 1, 2026, attending Perfecting Church in Detroit with him. In a video on X she said she was "no longer welcome in his campaign," and added: "And that's why I am endorsing Mike Rogers for the United States Senate today." Bridge Michigan quotes her: "We can’t stand with hate."
@@ -477,3 +505,7 @@ From CNN's video of the news conference, https://youtu.be/b0vFVC1aa8I, about 0:3
 Stevens said El-Sayed "made very clear that I was not welcome in his campaign," and later, "Abdul was very clear. He said, don't come." Her reason: "We have to stand with country. We can't stand with hate. We can't stand with Hasan Piker." She said, "I woke up this morning and I decided to go to church." Rogers said, "when I got the call this morning," and called the pairing "a statement about standing together against hate"; the examples he gave concerned Jewish students at the University of Michigan.
 
 In these seven minutes neither of them mentions Trump, "jihadist" or anti-Muslim attacks, and one question is taken. That describes this video only. Dingell's account of who pulled the invitation is in the update above.
+
+## Update (2026-11-01, statement date): Rep. Raskin: she told him otherwise the night before
+
+Rep. Jamie Raskin told Axios: "I'm dumbfounded that Haley told me one thing last night and changed her mind today." He had said she told him by phone she was "voting straight down the line on the Democratic ticket."
