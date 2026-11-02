@@ -106,6 +106,42 @@ claims:
   id: u2
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: Nov. 1, 2026
+  span: President Donald Trump points as he speaks during a campaign rally at the Five Flags Event Center, Sunday, Nov. 1, 2026, in Dubuque, Iowa
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u3
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: We don’t need the communists, the jihadists
+  span: Speaking in Iowa, Trump said “We don’t need the communists, the jihadists”, in apparent reference to Democrat nominee Abdul El-Sayed.
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u4
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: He’s an arrogant guy. Have you seen his reaction? He’s a disaster. He’s a nasty guy
+  span: “He’s an arrogant guy. Have you seen his reaction? He’s a disaster. He’s a nasty guy”, Trump said.
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  read: fetched
+  source_kind: news
+  id: u5
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: How about the gentlemen from a place called Michigan? He's a jihadist
+  span: '"How about the gentlemen from a place called Michigan? He''s a jihadist," Trump exclaimed.'
+  url: https://www.yahoo.com/news/politics/articles/trump-mocks-michigan-progressive-calls-005632965.html
+  read: fetched
+  source_kind: news
+  id: u6
+  outcome: verified
+  checked: '2026-11-01'
 event_date_claim: c1
 source_published_date: '2026-10-25'
 captured_by: capture-watch
@@ -132,6 +168,16 @@ sources:
   publisher: NBC News
   date: '2026-10-25'
   tier: 2
+- title: US midterms live (Al Jazeera)
+  url: https://www.aljazeera.com/amp/news/liveblog/2026/11/1/us-midterms-live-last-ditch-efforts-ahead-of-tuesdays-elections
+  publisher: Al Jazeera
+  date: '2026-11-01'
+  tier: 2
+- title: Trump mocks Michigan's progressive and calls him a 'jihadist' as president campaigns in Iowa
+  url: https://www.yahoo.com/news/politics/articles/trump-mocks-michigan-progressive-calls-005632965.html
+  publisher: The Independent via Yahoo
+  date: '2026-10-23'
+  tier: 2
 related_events:
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-01--jindal-founded-america-next-250k-influencer-marketing-ie-against-el-sayed-breakthrough-llc
@@ -149,6 +195,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: rally date
+  heading: In Iowa, Trump repeats "jihadist" and calls El-Sayed "arrogant" and "nasty"
+  claims:
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 At a rally in Port Huron, Michigan, on Sunday, ahead of the Nov. 3 midterm elections, President Trump said of Democratic Senate candidate Abdul El-Sayed: "I'm here to keep a jihadist Muslim Brotherhood member from becoming a United States senator," CBS News Detroit reported. NBC News reported that he also said "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate. I want him to have a metal detector," and that "Throughout his comments Sunday, Trump offered no evidence for any of the claims about El-Sayed." The rally was held in support of the state’s Republican candidates, including the GOP Senate nominee, former Rep. Mike Rogers, and Republican gubernatorial candidate John James.
@@ -158,3 +216,7 @@ The same Muslim Brotherhood charge was put to El-Sayed at a Caro town hall earli
 ## Update (2026-10-25, rally date): Trump invokes a Sept. 11 passenger: "stop a jihadist from walking into the Capitol"
 
 At the Port Huron rally on Oct. 25, Trump tied voting against El-Sayed to a passenger on the hijacked Sept. 11 flight that crashed in Pennsylvania, [Mother Jones reported](https://www.motherjones.com/politics/2026/10/trump-islamophobic-attacks-against-abdul-el-sayed/): "Twenty-five years later, Michigan needs to stand up and fight, just like Todd did, to stop a jihadist from walking into the Capitol."
+
+## Update (2026-11-01, rally date): In Iowa, Trump repeats "jihadist" and calls El-Sayed "arrogant" and "nasty"
+
+Sioux City, Iowa, earlier visit: "How about the gentlemen from a place called Michigan? He's a jihadist." Dubuque, Iowa, Nov. 1: "He's an arrogant guy. Have you seen his reaction? He's a disaster. He's a nasty guy." Also in Iowa, "We don't need the communists, the jihadists," described in the live report as an apparent reference to El-Sayed.
