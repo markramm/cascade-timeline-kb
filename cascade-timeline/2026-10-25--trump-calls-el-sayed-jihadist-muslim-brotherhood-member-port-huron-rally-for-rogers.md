@@ -142,6 +142,60 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: Sunday
+  span: Donald Trump railed against Democratic US senate hopeful Abdul El-Sayed at a campaign event in Iowa Sunday, repeatedly referring to the Michigan progressive as a “jihadist”.
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u7
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: If you vote for this jihadist lunatic that wants to destroy you, you’re crazy
+  span: “If you vote for this jihadist lunatic that wants to destroy you, you’re crazy,” Trump said.
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u8
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: get a special metal detector for Abdul
+  span: The president bashed El-Sayed, a practicing Muslim, in brazenly racist terms, saying that Congress would have to “get a special metal detector for Abdul” if he were elected.
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u9
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: We don’t need the communists or jihadists, the Muslim Brotherhood.
+  span: “Mike Rodgers is apple pie,” Trump said. “And you know what this country needs? A little apple pie. We don’t need the communists or jihadists, the Muslim Brotherhood.
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u10
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: Essentially, I am on the ballot.
+  span: “Pretend I’m on the ballot,” Trump said. “Essentially, I am on the ballot.”
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u11
+  outcome: verified
+  checked: '2026-11-01'
+- type: quote
+  value: brazenly racist
+  span: The president bashed El-Sayed, a practicing Muslim, in brazenly racist terms, saying that Congress would have to “get a special metal detector for Abdul” if he were elected.
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  read: fetched
+  source_kind: news
+  id: u12
+  outcome: verified
+  checked: '2026-11-01'
 event_date_claim: c1
 source_published_date: '2026-10-25'
 captured_by: capture-watch
@@ -178,6 +232,11 @@ sources:
   publisher: The Independent via Yahoo
   date: '2026-10-23'
   tier: 2
+- title: Trump launches racist diatribe against Abdul El-Sayed at Iowa rally
+  url: https://www.theguardian.com/us-news/2026/nov/01/trump-iowa-rally
+  publisher: The Guardian
+  date: '2026-11-01'
+  tier: 2
 related_events:
 - 2026-10-17--caro-town-hall-questioner-tommy-identified-as-former-hawley-operations-director-thomas-teepell
 - 2026-10-01--jindal-founded-america-next-250k-influencer-marketing-ie-against-el-sayed-breakthrough-llc
@@ -207,6 +266,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: michigan-senate-influence
+- date: '2026-11-01'
+  date_kind: rally date
+  heading: 'The Guardian on Dubuque: "jihadist lunatic," "a special metal detector for Abdul"'
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: michigan-senate-influence
 ---
 
 At a rally in Port Huron, Michigan, on Sunday, ahead of the Nov. 3 midterm elections, President Trump said of Democratic Senate candidate Abdul El-Sayed: "I'm here to keep a jihadist Muslim Brotherhood member from becoming a United States senator," CBS News Detroit reported. NBC News reported that he also said "He would be the only senator that will have to go through a metal detector before he’s allowed to go into the Senate. I want him to have a metal detector," and that "Throughout his comments Sunday, Trump offered no evidence for any of the claims about El-Sayed." The rally was held in support of the state’s Republican candidates, including the GOP Senate nominee, former Rep. Mike Rogers, and Republican gubernatorial candidate John James.
@@ -220,3 +293,7 @@ At the Port Huron rally on Oct. 25, Trump tied voting against El-Sayed to a pass
 ## Update (2026-11-01, rally date): In Iowa, Trump repeats "jihadist" and calls El-Sayed "arrogant" and "nasty"
 
 Sioux City, Iowa, earlier visit: "How about the gentlemen from a place called Michigan? He's a jihadist." Dubuque, Iowa, Nov. 1: "He's an arrogant guy. Have you seen his reaction? He's a disaster. He's a nasty guy." Also in Iowa, "We don't need the communists, the jihadists," described in the live report as an apparent reference to El-Sayed.
+
+## Update (2026-11-01, rally date): The Guardian on Dubuque: "jihadist lunatic," "a special metal detector for Abdul"
+
+Dubuque, per the Guardian, which describes the terms as "brazenly racist": "If you vote for this jihadist lunatic that wants to destroy you, you're crazy." Congress would have to "get a special metal detector for Abdul." "We don't need the communists or jihadists, the Muslim Brotherhood." "Essentially, I am on the ballot." The rally transcript was not read.
