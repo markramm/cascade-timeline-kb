@@ -231,6 +231,8 @@ related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-08-10--hennepin-county-denies-doj-request-staff-access-monitor-polling-places-primary-doj-agrees-stay-outside-100-feet
 coverage:
+- url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+  title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 - url: https://theramm.transparencycascade.org/p/who-may-enter-a-polling-place-on
   title: 'Who May Enter a Polling Place on November 3'
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor

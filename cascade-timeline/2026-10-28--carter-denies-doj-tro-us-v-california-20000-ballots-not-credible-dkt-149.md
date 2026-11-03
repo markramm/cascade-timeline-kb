@@ -587,6 +587,8 @@ updates:
   captured_by: capture-watch
   cluster: ca-voter-list
 coverage:
+- url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+  title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
 ---

@@ -1631,6 +1631,8 @@ sources:
     date: '2026-11-02'
     tier: 2
 coverage:
+- url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+  title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
   title: "At the Door, in Court, and Over the Count: The Election Week in Review"
 - title: If Sullivan Narrowly Loses, DOJ Wants Alaska Barred From Certifying
