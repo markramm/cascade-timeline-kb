@@ -158,6 +158,7 @@ claims:
   outcome: verified
   checked: '2026-11-03'
 approved_names:
+- Gregory Stenstrom
 - Joe Oltmann Untamed
 - Steve Stern
 - Peter Ticktin
