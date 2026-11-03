@@ -841,6 +841,69 @@ claims:
   id: u68
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: November 2, 2026
+  span: 'Injunction is DENIED. /s/ James E. Boasberg JAMES E. BOASBERG Chief Judge Date: November 2, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u69
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Plaintiffs have not established that they have standing to seek such relief
+  span: Yet Plaintiffs have not established that they have standing to seek such relief.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u70
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: the narrowness of this holding
+  span: The Court pauses to note the narrowness of this holding.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u71
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: The demand letters issued to the state elections officials may indeed be unlawful.
+  span: The demand letters issued to the state elections officials may indeed be unlawful.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u72
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Had state officials capitulated in the face of the Administration's browbeating, this may well have been a different case.
+  span: Had state officials capitulated in the face of the Administration’s browbeating, this may well have been a different case.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u73
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: barring the federal government from continuing to make demands of officials in California.
+  span: The Court thus issued a TRO in that case barring the federal government from continuing to make demands of officials in California.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u74
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Motion for Temporary Restraining Order and Preliminary Injunction is DENIED.
+  span: ORDERS that Plaintiffs’ [19] Motion for Temporary Restraining Order and Preliminary Injunction is DENIED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.33.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u75
+  outcome: verified
+  checked: '2026-11-02'
 tags:
   - election-capture
   - electoral-manipulation
@@ -914,6 +977,16 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.31.0.pdf
     publisher: U.S. District Court for D.C. via RECAP
     date: '2026-11-01'
+    tier: 1
+  - title: Memorandum Opinion, DSCC v. Trump, No. 26-3674 (D.D.C.), ECF 34
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.34.0_1.pdf
+    publisher: U.S. District Court, D.D.C.
+    date: '2026-11-02'
+    tier: 1
+  - title: Order, DSCC v. Trump, No. 26-3674 (D.D.C.), ECF 33
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.33.0.pdf
+    publisher: U.S. District Court, D.D.C.
+    date: '2026-11-02'
     tier: 1
 updates:
 - date: '2026-10-23'
@@ -1056,6 +1129,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-02'
+  date_kind: order date
+  heading: Boasberg denies the TRO and preliminary injunction; plaintiffs have not shown standing
+  claims:
+  - u69
+  - u70
+  - u71
+  - u72
+  - u73
+  - u74
+  - u75
+  event_date_claim: u69
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 20, three national Democratic committees, the Senate and House Democratic leaders, the Nevada State Democratic Party and a California voter filed a complaint in the U.S. District Court for the District of Columbia (*DSCC v. Trump*, No. 1:26-cv-03674) against President Trump, the Justice Department, Attorney General Blanche, DHS and Secretary Mullin. They seek declaratory and injunctive relief against the administration's demands that states remove voters from their rolls, refuse or segregate ballots, and against threats to state election officials. It pleads ultra vires executive action (Count I), a vertical separation-of-powers violation (Count II), an anticommandeering violation (Count III) and a Voting Rights Act section 11(b) violation (Count IV). The complaint alleges DHS said it had found nearly 16,000 noncitizens on Nevada's rolls, cut that to just 185 voters, and did not substantiate the narrower claim after Nevada officials indicated every single one appeared to be a citizen. It alleges California was told on 48 hours' notice to refuse ballots to more than 20,000 registered voters, and that Los Angeles County's sample review found more than a quarter of the entries listed a birthplace within the United States. It quotes the President saying California officials "will all go to jail." It opens: "None of this is lawful." The Justice Department's spokeswoman told the Post that every action it has taken is "grounded in the law and being litigated in open court."
@@ -1105,3 +1193,7 @@ The response is not on the docket and has not been read directly; everything her
 ## Update (2026-11-01, filing date): DOJ tells Boasberg its letters went only to California and Washington, and argues that defeats standing
 
 In a response filed November 1, 2026, the government says its interrogatory answer "explains that DOJ has sent letters only to California and Washington." It says DHS sent Nevada a letter on July 16, 2026 that "simply identified possible noncitizens registered to vote." It asks the court to deny the motion.
+
+## Update (2026-11-02, order date): Boasberg denies the TRO and preliminary injunction; plaintiffs have not shown standing
+
+On November 2, 2026, Chief Judge James Boasberg ordered that the plaintiffs' "Motion for Temporary Restraining Order and Preliminary Injunction is DENIED." He wrote that "Plaintiffs have not established that they have standing to seek such relief" and stressed "the narrowness of this holding": "The demand letters issued to the state elections officials may indeed be unlawful." He added: "Had state officials capitulated in the face of the Administration's browbeating, this may well have been a different case." He noted that the same day, in a related case brought by California plaintiffs, he issued a TRO "barring the federal government from continuing to make demands of officials in California."
