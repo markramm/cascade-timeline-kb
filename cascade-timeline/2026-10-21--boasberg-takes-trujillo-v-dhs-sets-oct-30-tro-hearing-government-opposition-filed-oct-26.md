@@ -525,6 +525,51 @@ claims:
   id: u53
   outcome: verified
   checked: '2026-11-02'
+- type: posture
+  value: DENIED
+  span: The Court ORDERS that the Government's 45 Motion to Strike and Show Cause is DENIED.
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u54
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 3, 2026
+  span: So ORDERED by Chief Judge James E. Bosberg on November 3, 2026.
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u55
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: No violation of the Court's Order occurred here.
+  span: No violation of the Court's Order occurred here.
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u56
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: public filings with personally identifying information redacted
+  span: The Court's Order contemplated public filings with personally identifying information redacted.
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u57
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: Plaintiffs permissibly used the data from the lists to successfully make their standing arguments
+  span: In addition, Plaintiffs permissibly used the data from the lists to successfully make their standing arguments.
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  read: fetched
+  source_kind: primary
+  id: u58
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - dhs
@@ -586,6 +631,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.48.0.pdf
   publisher: D.D.C. via RECAP
   date: '2026-11-02'
+  tier: 1
+- title: Trujillo v. DHS docket (minute order of Nov 3, 2026)
+  url: https://www.courtlistener.com/docket/74737644/trujillo-v-united-states-department-of-homeland-security/
+  publisher: U.S. District Court, D.D.C., via CourtListener
+  date: '2026-11-03'
   tier: 1
 related_events:
 - 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
@@ -719,6 +769,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-03'
+  date_kind: order date (minute order)
+  heading: 'Boasberg denies DOJ''s motion to strike and for a show-cause order: no violation'
+  claims:
+  - u54
+  - u55
+  - u56
+  - u57
+  - u58
+  event_date_claim: u55
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 coverage:
   - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
     title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -769,3 +832,7 @@ In their response, filed November 1, 2026, plaintiffs ask that the court "deny, 
 ## Update (2026-11-02, order date): Boasberg bars demands that California set aside ballots of listed voters; relief narrower than asked
 
 Chief Judge James Boasberg granted CHIRLA's motion in part. Defendants are "preliminarily ENJOINED from issuing demands to California elections officials to compel the segregation of ballots, or other deviations from existing state elections procedures, based on voters' inclusion on the lists of suspected non-citizens." He wrote that the Executive Branch "has likely violated the Constitution's Elections Clause" and that "the lists are flawed." The government's separate motion to strike remains pending.
+
+## Update (2026-11-03, order date (minute order)): Boasberg denies DOJ's motion to strike and for a show-cause order: no violation
+
+On November 3, 2026, Chief Judge Boasberg ruled by minute order that the government's motion to strike and show cause is DENIED. He wrote that his order contemplated public filings with personally identifying information redacted, that "Plaintiffs permissibly used the data from the lists to successfully make their standing arguments," and that "No violation of the Court's Order occurred here."
