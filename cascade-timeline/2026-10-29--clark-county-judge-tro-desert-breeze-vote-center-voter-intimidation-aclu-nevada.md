@@ -50,11 +50,52 @@ claims:
   url: https://news3lv.com/news/local/aclu-emergency-order-alleged-voter-intimidation-desert-breeze-clark-county-las-vegas-recreation-center-nevada
   read: fetched
   source_kind: news
+- type: date
+  value: Monday
+  span: Judge Joe Hardy on Monday left in place his order, which went into effect for the final day of in-person early voting on Friday at Desert Breeze Community Center.
+  url: https://news3lv.com/news/local/judge-extends-order-alleged-voter-intimidation-clark-county-vote-center-aclu-las-vegas-nevada-desert-breeze
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: extended a temporary restraining order to Tuesday's Election Day
+  span: LAS VEGAS (KSNV) — A judge has extended a temporary restraining order to Tuesday's Election Day over allegations of voter intimidation at a Clark County vote center.
+  url: https://news3lv.com/news/local/judge-extends-order-alleged-voter-intimidation-clark-county-vote-center-aclu-las-vegas-nevada-desert-breeze
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: no electioneering can take place within 100 feet of it
+  span: In his order, Judge Hardy wrote that the pathway must be considered the entrance to the vote center, and no electioneering can take place within 100 feet of it.
+  url: https://news3lv.com/news/local/judge-extends-order-alleged-voter-intimidation-clark-county-vote-center-aclu-las-vegas-nevada-desert-breeze
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: it would comply with the court's order
+  span: Clark County said in a statement Friday that it would comply with the court's order.
+  url: https://news3lv.com/news/local/judge-extends-order-alleged-voter-intimidation-clark-county-vote-center-aclu-las-vegas-nevada-desert-breeze
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-03'
 sources:
 - title: ACLU gets temporary order over alleged voter intimidation at Clark County rec center
   url: https://news3lv.com/news/local/aclu-emergency-order-alleged-voter-intimidation-desert-breeze-clark-county-las-vegas-recreation-center-nevada
   publisher: KSNV News 3
   date: '2026-10-30'
+  tier: 2
+- title: Judge extends order over alleged voter intimidation at Clark County vote center
+  url: https://news3lv.com/news/local/judge-extends-order-alleged-voter-intimidation-clark-county-vote-center-aclu-las-vegas-nevada-desert-breeze
+  publisher: KSNV News 3
+  date: '2026-11-02'
   tier: 2
 captured_by: capture-watch
 cluster: ice-at-polls
@@ -65,6 +106,19 @@ tags:
 - polling-place
 summary: A Clark County judge granted the ACLU of Nevada a restraining order over reported intimidation at the Desert Breeze vote center; the defendants are unnamed.
 source_published_date: '2026-10-30'
+updates:
+- date: '2026-11-02'
+  date_kind: order date (as reported)
+  heading: Judge Hardy extends the Desert Breeze restraining order through Election Day
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 The ACLU of Nevada says it received a temporary restraining order Thursday night from Judge Joe Hardy over reports of intimidation at the Desert Breeze Community Center vote center, KSNV reported. The order has Clark County designate the narrow pathway as the entrance and prohibit electioneering within 100 feet of it, and tells defendants it does not name to stop following voters while recording them, blocking entrances or threatening harm. The ACLU reports a recorded assault in which a woman pushed a bullhorn into a voter's face. These are the ACLU's allegations. KSNV says the order could stretch into Election Day and that there could be a hearing Monday. The order itself was not read.
@@ -72,3 +126,7 @@ The ACLU of Nevada says it received a temporary restraining order Thursday night
 ## Sources
 
 - [ACLU gets temporary order over alleged voter intimidation at Clark County rec center](https://news3lv.com/news/local/aclu-emergency-order-alleged-voter-intimidation-desert-breeze-clark-county-las-vegas-recreation-center-nevada)
+
+## Update (2026-11-02, order date (as reported)): Judge Hardy extends the Desert Breeze restraining order through Election Day
+
+A judge has extended a temporary restraining order to Tuesday's Election Day at the Desert Breeze vote center, KSNV reported: Judge Joe Hardy on Monday left in place his order, which went into effect for the final day of in-person early voting on Friday. In his order, Judge Hardy wrote that no electioneering can take place within 100 feet of the pathway, which must be considered the entrance. Clark County said it would comply with the court's order.

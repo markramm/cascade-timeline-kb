@@ -144,6 +144,42 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: Saturday
+  span: ATLANTA — On Saturday, civil rights organizations, including the Southern Poverty Law Center (SPLC), the Legal Defense Fund (LDF), the American Civil Liberties Union (ACLU) and the ACLU of Georgia, reached a settlement with the Gwinnett County Board of Registrations and Elections on behalf of voters who were in danger of not being able to cast their vote via absentee ballot.
+  url: https://www.acluga.org/press-releases/civil-rights-organizations-win-emergency-relief-for-gwinnett-county-voters-facing-absentee-ballot-delays/
+  read: fetched
+  source_kind: party
+  id: u7
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 2
+  span: November 2, 2026 5:15 pm
+  url: https://www.acluga.org/press-releases/civil-rights-organizations-win-emergency-relief-for-gwinnett-county-voters-facing-absentee-ballot-delays/
+  read: fetched
+  source_kind: party
+  id: u8
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: Gwinnett County agreed to individually contact voters who have not yet returned their ballots
+  span: In response to the civil rights organizations’ lawsuit, Gwinnett County agreed to individually contact voters who have not yet returned their ballots to notify them that they can request a replacement ballot, and to send the replacement ballots by overnight delivery with prepaid return envelopes included.
+  url: https://www.acluga.org/press-releases/civil-rights-organizations-win-emergency-relief-for-gwinnett-county-voters-facing-absentee-ballot-delays/
+  read: fetched
+  source_kind: party
+  id: u9
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: canceling their absentee ballot and voting in person on Election Day
+  span: If voters who requested an absentee ballot are currently in Georgia, they also have the option of canceling their absentee ballot and voting in person on Election Day.
+  url: https://www.acluga.org/press-releases/civil-rights-organizations-win-emergency-relief-for-gwinnett-county-voters-facing-absentee-ballot-delays/
+  read: fetched
+  source_kind: party
+  id: u10
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - georgia
 - mail-ballots
@@ -181,6 +217,11 @@ sources:
   publisher: Spectrum News 1
   date: '2026-10-22'
   tier: 2
+- title: Civil Rights Organizations Win Emergency Relief for Gwinnett County Voters Facing Absentee Ballot Delays
+  url: https://www.acluga.org/press-releases/civil-rights-organizations-win-emergency-relief-for-gwinnett-county-voters-facing-absentee-ballot-delays/
+  publisher: ACLU of Georgia
+  date: '2026-11-02'
+  tier: 2
 captured_by: capture-watch
 cluster: mail-ballots-count
 updates:
@@ -198,6 +239,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: mail-ballots-count
+- date: '2026-10-31'
+  date_kind: settlement date (Saturday, per plaintiffs' release of Nov 2)
+  heading: 'Gwinnett settles: the county will contact voters and overnight replacement ballots'
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: mail-ballots-count
 coverage:
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
@@ -210,3 +263,7 @@ A similar lawsuit against Cobb County attributed the delays to a New York-based 
 ## Update (2026-10-08, Bradford County vote date; accounts gathered 2026-10-31): Officials' own accounts of the vendor delays, and a limit on the Colorado reference
 
 Cobb County says the delay appears to have been caused by the county's absentee ballot vendor, Fort Orange Press, and is primarily affecting voters whose ballots were issued between October 7, 2026 and October 15, 2026. In Pennsylvania, an issue delayed the mailing of more than 3,000 mail-in ballot packets to Bradford County voters, and its commissioners voted unanimously on Oct. 8 to issue a subpoena to Fort Orange Press to determine how, and why, this delay occurred. In Monroe County, N.Y., Republican Commissioner Peter Elder said, “The vendor had, believe it or not, an envelope issue which did slow down the ballots as they went out.” Spectrum News identifies that vendor as Fort Orange Press, which it says it was still waiting to hear back from. The Colorado problems found in this check were from 2024 and different in kind: KRDO reported then that ballots from Fort Orange Press in Las Animas, Huerfano and Moffat counties were unscannable.
+
+## Update (2026-10-31, settlement date (Saturday, per plaintiffs' release of Nov 2)): Gwinnett settles: the county will contact voters and overnight replacement ballots
+
+On Saturday, the plaintiff groups reached a settlement with the Gwinnett County Board of Registrations and Elections, according to their November 2 release. Gwinnett County agreed to individually contact voters who have not yet returned their ballots that they can request a replacement ballot, sent by overnight delivery with prepaid return envelopes. Voters in Georgia also have the option of canceling their absentee ballot and voting in person on Election Day.

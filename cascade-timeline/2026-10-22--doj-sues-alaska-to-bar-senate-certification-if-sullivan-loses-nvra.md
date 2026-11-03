@@ -1449,6 +1449,51 @@ claims:
   id: u148
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: October 29, 2026
+  span: October 29, 2026, 11:39 am
+  url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+  read: fetched
+  source_kind: secondary
+  id: u149
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: new wave of subpoenas stemming from an ongoing criminal probe
+  span: The Justice Department has begun issuing a new wave of subpoenas stemming from an ongoing criminal probe of Alaska’s U.S. Senate race and alleged efforts by Democrats to recruit a candidate with the same name as Republican incumbent Sen. Dan Sullivan, multiple sources familiar with the matter told ABC News.
+  url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+  read: fetched
+  source_kind: secondary
+  id: u150
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: targeting Democratic officials
+  span: The subpoenas are targeting Democratic officials believed to be tied to the effort to recruit Daniel J. Sullivan to appear on Alaska’s ballot, marking a new escalation in the Trump administration’s efforts to intervene in the race just days before the midterm elections. …
+  url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+  read: fetched
+  source_kind: secondary
+  id: u151
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: potential federal conspiracy statutes
+  span: But DOJ prosecutors are separately probing, according to sources, whether the behind-the-scenes maneuvering to include Dan J. Sullivan’s name on the ballot could violate potential federal conspiracy statutes.
+  url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+  read: fetched
+  source_kind: secondary
+  id: u152
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: Supreme Court had previously affirmed
+  span: Alaska’s Supreme Court had previously affirmed that Dan J. Sullivan’s candidacy was legal — even if it was not entirely in “good faith” or an attempt to “confuse and mislead” voters as the Trump administration and Republicans contend.
+  url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+  read: fetched
+  source_kind: secondary
+  id: u153
+  outcome: verified
+  checked: '2026-11-03'
 tags:
   - election-2026
   - certification
@@ -1629,6 +1674,11 @@ sources:
     url: https://abcnews.com/Politics/wireStory/alaska-fishing-community-dan-sullivan-episode-takes-ominous-137761780
     publisher: Associated Press via ABC News
     date: '2026-11-02'
+    tier: 2
+  - title: DOJ issues new wave of subpoenas in criminal probe of Alaska Senate race, sources say (ABC News, via Election Law Blog)
+    url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
+    publisher: Election Law Blog quoting ABC News
+    date: '2026-10-29'
     tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
@@ -1954,6 +2004,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-10-29'
+  date_kind: publication date of the report (anonymous sources)
+  heading: ABC reports a new wave of DOJ subpoenas in a criminal probe of the Alaska Senate race
+  claims:
+  - u149
+  - u150
+  - u151
+  - u152
+  - u153
+  event_date_claim: u149
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2047,3 +2110,7 @@ The Ninth Circuit docketed the appeal on November 1, 2026 as No. 26-7304. Its do
 ## Update (2026-11-02, publication date of the AP report): AP: FBI agents question candidate Dan J. Sullivan's donors in Petersburg
 
 Federal authorities "expanded a monthslong criminal probe into allegations that Democratic campaigners sought to recruit candidates to run against the incumbent senator," with FBI agents questioning donors to candidate Dan J. Sullivan in Petersburg. Most of his donors live there and "together contributed $7,150." "Those questioned said the agents asked them whether they had felt deceived by the lesser-known Sullivan." The AP report describes the administration as one that "weighs criminal charges" over ballot stacking. Donors are left unnamed here.
+
+## Update (2026-10-29, publication date of the report (anonymous sources)): ABC reports a new wave of DOJ subpoenas in a criminal probe of the Alaska Senate race
+
+ABC News reported on October 29, 2026, citing multiple unnamed sources, that the Justice Department has begun issuing a new wave of subpoenas stemming from an ongoing criminal probe of Alaska's U.S. Senate race, targeting Democratic officials believed to be tied to the effort to recruit a candidate with the same name as Sen. Dan Sullivan. According to the sources, prosecutors are probing whether that maneuvering could violate potential federal conspiracy statutes. Alaska's Supreme Court had previously affirmed that the second candidate's candidacy was legal. No subpoena or DOJ statement is public.
