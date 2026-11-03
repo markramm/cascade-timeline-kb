@@ -243,11 +243,124 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 2, 2026
+  span: 'Dated: November 2, 2026 ______________________ APRIL M. PERRY United States District Judge'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: more than an adequate factual basis
+  span: the Court concludes that there is more than an adequate factual basis
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: whether willful false statements were made
+  span: for the Court to pursue an inquiry as to whether willful false statements were made to the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 16, 2026
+  span: Courtroom 1725 on November 16, 2026 at 9:00 a.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: hard to credit
+  span: USA Boutros’s statements are hard to credit.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: was false
+  span: The Government’s additions of caveats and carve-outs to what began as an affirmative statement of fact indicates to the Court that the representation that “there are no communications of any nature from, to, or with anyone outside the USAO” was false.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 5, 2026
+  span: by November 5, 2026 at 5:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: has not agreed to provide any information to the Court
+  span: has not agreed to provide any information to the Court
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: October 7, 2025
+  span: there was an October 7, 2025 meeting between U.S. Attorney Andrew Boutros, Attorney General Todd Blanche, FBI Director Kashyap Patel, and Assistant Attorney General Colin McDonald
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: October 30
+  span: On October 30, 2026, the Government filed
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-02'
+- type: quote
+  value: Now, high-level DOJ supervisors are in fact involved.
+  span: Now, high-level DOJ supervisors are in fact involved.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-02'
+- type: date
+  value: November 13, 2026
+  span: must submit a certification by November 13, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-02'
 sources:
 - title: Response to the Court's October 9 Request for Evidence and Memorandum Addressing Fed. R. Crim. P. 42 (ECF 285), U.S. v. Rabbitt, No. 1:25-cr-00693 (N.D. Ill.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
   publisher: U.S. District Court, N.D. Ill. (via RECAP)
   date: '2026-10-30'
+  tier: 1
+- title: Order, United States v. Rabbitt, No. 25-cr-693 (N.D. Ill.), ECF 287
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
+  publisher: U.S. District Court, N.D. Ill.
+  date: '2026-11-02'
   tier: 1
 updates:
 - date: '2026-10-30'
@@ -263,6 +376,26 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: us-v-rabbitt-broadview
+- date: '2026-11-02'
+  date_kind: order date
+  heading: Judge orders U.S. Attorney Boutros and other prosecutors to testify under oath on November 16
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: broadview-six
 ---
 
 On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northern District of Illinois granted the government's oral motion to dismiss, with prejudice, the superseding information in *United States v. Rabbitt*, No. 1:25-cr-00693. That information was the last live charging document in the prosecution of the people indicted over the protest at the Broadview ICE facility. The same minute entry records the government agreeing to take down its press release saying the defendants had been charged, or add a banner saying the charges were dismissed, and vacates the trial date and all related deadlines.
@@ -289,3 +422,9 @@ On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northe
 ## Update (2026-10-30, filing date): Government answers the court's request for documents by saying it has not agreed to provide any
 
 On October 30, 2026, the filing date of the deadline set in the court's October 9 minute entry, the government filed a response and a memorandum on the criminal contempt rule rather than a document production. It states that the United States has not agreed to provide any information, and that it does not read the October 9 minute entry as a directive creating any obligation to produce any information. It asks for concrete notice of the factual basis for any investigation the court may conduct. It argues that appointing another attorney to prosecute an executive official would violate Article II.
+
+## Update (2026-11-02, order date): Judge orders U.S. Attorney Boutros and other prosecutors to testify under oath on November 16
+
+On November 2, 2026, Judge April Perry wrote that there is "more than an adequate factual basis" for an inquiry into "whether willful false statements were made" to the court and ordered Boutros, the U.S. Attorney in Chicago, and prosecutors of his office, attorney William Hogan, attorney Matthew Skiba and attorney Andres Almendarez, to testify under oath on November 16, 2026. She called Boutros's statements "hard to credit" and wrote that the government's caveats indicate that its representation about outside communications "was false." She gave the government until November 5, 2026 to produce the documents she requested, after it told her it "has not agreed to provide any information to the Court."
+
+The order cites a suit filed the same day, in which the former head of the FBI's Chicago office, Douglas DePodesta, alleges an October 7, 2025 meeting about this investigation among Boutros, Attorney General Todd Blanche, FBI Director Kashyap Patel and Assistant Attorney General Colin McDonald. That is his allegation, not a finding. Associate Attorney General Stanley Woodward filed his appearance on October 30. Perry wrote: "Now, high-level DOJ supervisors are in fact involved." If DOJ keeps its position that the Attorney General must supervise any criminal investigation, she ordered him to certify by November 13, 2026 that the Attorney General, Deputy Attorney General and Solicitor General have not been given evidence a special prosecutor could not consider, or to file a memorandum explaining why they could still supervise.
