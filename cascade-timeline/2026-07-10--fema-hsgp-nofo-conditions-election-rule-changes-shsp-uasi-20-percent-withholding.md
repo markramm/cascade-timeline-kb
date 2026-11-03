@@ -1,18 +1,12 @@
 ---
 type: timeline_event
 id: 2026-07-10--fema-hsgp-nofo-conditions-election-rule-changes-shsp-uasi-20-percent-withholding
-date: '2026-07-10'
-title: 'FEMA Notice of Funding Opportunity Conditions Homeland Security Grant Program (SHSP/UASI) Funding on Election-Rule Changes, Threatens 20% Withholding'
+date: '2026-07-09'
+title: 'FEMA Homeland Security Grant NOFO Conditions SHSP/UASI Drawdown on Five Election-Rule Changes, Holds Back 20% Until Proof'
 importance: 8
-status: reported
-tags:
-  - democratic-erosion
-  - election-administration
-  - federal-coercion
-  - fema
-  - grant-conditions
-  - voter-purge
-  - 2026-midterms
+status: confirmed
+event_date_claim: c2
+tags: [election-administration, federal-coercion, fema, grant-conditions, 2026-midterms]
 actors:
   - Federal Emergency Management Agency
   - Department of Homeland Security
@@ -22,135 +16,192 @@ actors:
   - Metropolitan Government of Nashville and Davidson County
   - City of Columbus, Ohio
   - Rhode Island Attorney General Peter Neronha
-sources:
-  - title: "Trump administration ties states' anti-terrorism grants to election security"
-    url: https://www.reuters.com/legal/government/us-states-sue-trump-administration-conditioning-disaster-funds-election-changes-2026-07-23/
-    publisher: Reuters
-    date: '2026-07-10'
-    tier: 1
-    note: "Wire report; direct fetch blocked by DataDome (401) as of 2026-08-28. Headline/date confirmed via Google News RSS syndication (WTVB, TradingView, both dated 2026-07-10) and via Nextgov/Route Fifty's Aug 21 retrospective reference to 'its announcement last month.'"
-  - title: "More than 24 states sue Trump administration after it put conditions on receiving disaster funding"
-    url: https://apnews.com/article/fema-dhs-trump-administration-lawsuit-a1745a6aea30b6a7118e5a900b8c2756
-    publisher: AP News
-    date: '2026-07-23'
-    tier: 1
-    note: "202,331 tokens fetched successfully, full text read. Reports the 'at least 20%' HSGP withholding threshold (the NOFO itself says 'an amount equal to 20%'); covers the 25+ state lawsuit filed in Rhode Island."
-  - title: "Counties and cities sue over counterterrorism grant rule changes"
-    url: https://www.nextgov.com/defense/2026/08/counties-and-cities-sue-over-counterterrorism-grant-rule-changes/415574/
-    publisher: Nextgov/FCW (Route Fifty)
-    date: '2026-08-21'
-    tier: 1
-    note: "36,520 tokens fetched successfully, full text read. Names the $1 billion figure explicitly as the NOFO's total HSGP program size (not a withheld/cut-off amount), lists all five conditions verbatim from the complaint, and quotes El Paso County Attorney Christina Sanchez and the complaint's APA/separation-of-powers argument."
+claims:
+- id: c1
+  type: date
+  value: "June 2026"
+  qualifier: June
+  span: "In June 2026, FEMA issued a Notice of Funding Opportunity (“NOFO”) for the 2026 fiscal year Homeland Security Grant Program"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.42.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: date
+  value: "July 9, 2026"
+  qualifier: guidance
+  span: "Attached as Exhibit B is a true and correct copy of the July 9, 2026 guidance from the Department of Homeland Security, which was filed as an exhibit to the complaint in Illinois v. FEMA, No. 1:26-cv-00485-MSM-PAS (D.R.I. July 23, 2026)."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c16
+  type: quote
+  value: "Updated July 9, 2026"
+  qualifier: Updated
+  span: "Updated July 9, 2026 Fiscal Year (FY) 2026 Homeland Security Grant Program (HSGP): 20% Withholding and the Election Security National Priority Area"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: figure
+  value: "$1.064B"
+  qualifier: available
+  span: "$1.064B JULY 24 20% 3% FY 2026 HSGP available funding"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c4
+  type: quote
+  value: "To strengthen the integrity of U.S. elections, each state and high-risk urban area election jurisdiction must:"
+  qualifier: strengthen
+  span: "To strengthen the integrity of U.S. elections, each state and high-risk urban area election jurisdiction must:"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c5
+  type: quote
+  value: "Submit a transition plan: Submit a plan for transitioning from electronic voting systems that utilize bar codes or QR codes to count votes to equipment that accepts hand-marked paper ballots."
+  qualifier: Submit
+  span: "Submit a transition plan: Submit a plan for transitioning from electronic voting systems that utilize bar codes or QR codes to count votes to equipment that accepts hand-marked paper ballots."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.42.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c6
+  type: quote
+  value: "Post-election manual audit: Demonstrate proof of compliance with a post-election 5% manual audit"
+  qualifier: audit
+  span: "Post-election manual audit: Demonstrate proof of compliance with a post-election 5% manual audit"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c7
+  type: quote
+  value: "within 120 days of accepting the grant award"
+  qualifier: days
+  span: "within 120 days of accepting the grant award"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c8
+  type: quote
+  value: "including temporary agency workers and vendors who work on or with election systems"
+  qualifier: temporary
+  span: "including temporary agency workers and vendors who work on or with election systems"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c9
+  type: quote
+  value: "FEMA will withhold from drawdown an amount equal to 20% of the recipient’s total HSGP award"
+  qualifier: withhold
+  span: "FEMA will withhold from drawdown an amount equal to 20% of the recipient’s total HSGP award"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c10
+  type: quote
+  value: "Meeting the 3% allocation does not, by itself, release the 20% holdback"
+  qualifier: holdback
+  span: "Meeting the 3% allocation does not, by itself, release the 20% holdback"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c11
+  type: quote
+  value: "not a penalty or deobligation"
+  qualifier: penalty
+  span: "The withholding is a temporary drawdown control, not a penalty or deobligation."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c12
+  type: quote
+  value: "Sustained noncompliance, however, may indicate remedies for noncompliance under 2 C.F.R. § 200.339 are necessary."
+  qualifier: remedies
+  span: "Sustained noncompliance, however, may indicate remedies for noncompliance under 2 C.F.R. § 200.339 are necessary."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c13
+  type: quote
+  value: "the chief election official may submit an attestation of current processes"
+  qualifier: attestation
+  span: "the chief election official may submit an attestation of current processes"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c14
+  type: quote
+  value: "Congress did not create the HSGP to empower the federal government to control state and local election procedures."
+  qualifier: Congress
+  span: "Congress did not create the HSGP to empower the federal government to control state and local election procedures."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.1.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c15
+  type: quote
+  value: "using the methodology established by the Secretary."
+  qualifier: methodology
+  span: "Voter/ballot reconciliation: Ensure that each election jurisdiction reconciles the number of voters who voted in each federal election to the number of ballots cast, using the methodology established by the Secretary."
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  read: fetched
+  source_kind: primary
+- id: c17
+  type: date
+  value: "June 24, 2026"
+  qualifier: released
+  span: "Several weeks later, on June 24, 2026, and then as amended on July 9, 2026, FEMA released its notice of funding opportunity for the FY2026 HSGP"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.1.0.pdf
+  read: fetched
+  source_kind: primary
+related_events:
+- '[[2026-09-28--judge-ali-vacates-fema-homeland-security-grant-election-conditions-and-20-percent-holdback-nashville-v-dhs]]'
+- '[[2026-10-22--doj-appeals-nashville-v-dhs-vacatur-of-fema-election-conditions-moves-for-stay-pending-appeal]]'
 coverage:
-  - url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
-    title: "The Election is a Homeland Security Investigations Case Now."
+- url: https://theramm.transparencycascade.org/p/the-election-is-a-homeland-security
+  title: "The Election is a Homeland Security Investigations Case Now."
+sources:
+- title: "Jacobson declaration exhibits: FY2026 HSGP NOFO, DHS July explainer, FEMA bulletin (Nashville v. DHS)"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+  tier: 1
+- title: "Memorandum Opinion, Nashville v. DHS (D.D.C.)"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.42.0.pdf
+  tier: 1
+- title: "Complaint, Nashville v. DHS (D.D.C.)"
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.1.0.pdf
+  tier: 1
+verification: source-verified
 corrections:
 - date: '2026-10-08'
   was: "States that do not comply risk FEMA withholding at least 20% of their HSGP award, or canceling the award altogether"
   now: "FEMA will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until proof of compliance is verified; a holdback released on verified compliance, not 'at least 20%' and not described in the holdback clause as cancellation"
   why: "fema-hsgp-nofo-fy2026-dhs-26-gpd-067-election-conditions-2026-07-09.pdf (archived) — 'For each state and UASI, FEMA will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until the recipient submits proof of compliance'; the 20% holdback is 'a separate drawdown condition'"
   found_by: "HSI case file 2026-10-08"
+- date: '2026-11-02'
+  was: "On or around July 10, 2026, FEMA published the notice; $1 billion program; a plan to use hand-marked paper ballots"
+  now: "Issued June 2026 (the complaint says June 24, amended July 9); $1.064B is the program's total available funding, a ceiling; a plan to transition from bar-code and QR-code systems to equipment that accepts hand-marked paper ballots"
+  why: "NOFO, DHS explainer and FEMA bulletin at D.D.C. 1:26-cv-02886 ECF 28-10; complaint ECF 1; opinion ECF 42, read for the rebuild"
+  found_by: "investigation-conductor rebuild 2026-11-02"
 ---
+The conditions are in a FEMA document, and a federal court has now quoted them. The Fiscal Year 2026 Homeland Security Grant Program (HSGP) Notice of Funding Opportunity (NOFO) was issued in June 2026, according to the D.D.C. opinion. The plaintiffs' complaint dates the release to June 24, 2026, amended July 9, 2026. It funds the State Homeland Security Program (SHSP) and the Urban Area Security Initiative (UASI). A DHS explainer on the 20% withholding carries the line "Updated July 9, 2026". This entry is dated to that DHS explainer; the NOFO itself predates it, and the press picked up the conditions in July.
 
-On or around **July 10, 2026**, FEMA published a Notice of Funding Opportunity (NOFO) for the
-**$1 billion Homeland Security Grant Program (HSGP)** — the umbrella program that funds the
-**State Homeland Security Program (SHSP)** and **Urban Area Security Initiative (UASI)**
-counterterrorism grants — that conditioned full funding on states adopting five election-related
-requirements, as set out in the notice (Nashville v. DHS, D.D.C., ECF 28-10, Exhibit A, printed pp. 15-16):
+**The five conditions.** The NOFO, as filed in court by the Nashville plaintiffs, says: "To strengthen the integrity of U.S. elections, each state and high-risk urban area election jurisdiction must:"
+- **Voting system transition plan.** "Submit a transition plan: Submit a plan for transitioning from electronic voting systems that utilize bar codes or QR codes to count votes to equipment that accepts hand-marked paper ballots."
+- **Audit.** "Post-election manual audit: Demonstrate proof of compliance with a post-election 5% manual audit". FEMA's later implementing guidance defines the 5% as precincts and centrally tabulated batches, not ballots.
+- **Reconciliation.** Reconcile voters who voted to ballots cast in each federal election, "using the methodology established by the Secretary."
+- **Voter roll citizenship check.** Use the USCIS SAVE system on the whole state voter registration database "within 120 days of accepting the grant award."
+- **Election worker citizenship check.** Verify anyone working at a polling place or operating an election system, "including temporary agency workers and vendors who work on or with election systems."
 
-1. Submit a plan to use **hand-marked paper ballots**.
-2. Conduct a post-election manual audit. FEMA's Aug 10 information bulletin (IB 580, same exhibit) specifies 5% of precincts and 5% of centrally tabulated batches, not 5% of all ballots.
-3. **Reconcile** the number of voters who participated in each federal election with the number
-   of ballots cast.
-4. Use DHS/USCIS's **SAVE (Systematic Alien Verification for Entitlements)** system to verify the
-   citizenship status of **every person listed in the state's voter-registration database**.
-5. Apply the same SAVE citizenship-verification requirement to **poll workers and election-system
-   operators**.
+**The lever.** "FEMA will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award" (SHSP, UASI and Operation Stonegarden together) until proof of compliance is submitted and the Department verifies it. The NOFO adds: "Meeting the 3% allocation does not, by itself, release the 20% holdback", so the holdback is separate from the 3% minimum election-security spending requirement. DHS's explainer says the holdback is "not a penalty or deobligation" and that sustained noncompliance "may indicate remedies for noncompliance under 2 C.F.R. § 200.339 are necessary". The bulletin lets a chief election official submit "an attestation of current processes" for any requirement already met.
 
-Under the NOFO, FEMA "will withhold from drawdown an amount equal to 20% of the recipient's total HSGP award (SHSP, UASI, and OPSG) until the recipient submits proof of compliance with the FY 2026 Election Security NPA requirements" and the Department verifies it (DHS-26-GPD-067). Reuters broke the story on **July 10, 2026**; further reporting
-followed from NYT, Axios, Democracy Docket, and Just Security. This is roughly a month after —
-and a distinct instrument from — DHS's SAVE database becoming operational for direct voter-roll
-purge activity ([[2026-06-04--dhs-approves-eo-14399-save-citizenship-lists-operational-june-30]])
-and the purge blitz tracked in
-[[2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms]]. This entry
-supersedes and replaces a prior entry (`2026-06-15--trump-dhs-1b-grant-threat-force-state-voting-overhaul-midterms`,
-now `status: disputed`) whose two cited sources did not contain the claim they were used to
-support — see that file's sourcing-correction section for the record.
+**The dollar figures.** $1.064B is the program's total available funding across all recipients, per DHS's own explainer. It is a ceiling, not an amount withheld or cut. What a state can lose temporarily is 20% of its own award. No source located gives an aggregate amount actually withheld; FEMA had not issued FY2026 awards when the court ruled.
 
-## The $1 billion figure — what it is and is not
+**Challenges.** The challenges are covered in the related events. Their complaint says: "Congress did not create the HSGP to empower the federal government to control state and local election procedures." Judge Ali vacated the conditions and the holdback, and DOJ appealed; the rulings and dates are in the related events.
 
-**The $1 billion is real, but it is the total size of the HSGP NOFO, not a threatened cutoff
-amount.** Nextgov/Route Fifty's August 21, 2026 report states plainly: "The announcement from the
-Federal Emergency Management Agency came in its funding opportunity for the **$1 billion Homeland
-Security Grant Program**." That is the program's total appropriated/announced ceiling across all
-SHSP/UASI recipients nationwide for the funding cycle — **not** an amount DHS threatened to
-withhold from any single state, and **not** an amount that has actually been withheld
-(obligated/outlayed) to date. No source located in this research states that $1 billion, or any
-other specific aggregate dollar figure, was withheld or cut off.
-
-The actual **leverage mechanism** disclosed in reporting is a **percentage**, not a dollar
-figure: FEMA withholds from drawdown **an amount equal to 20%** of the recipient's total HSGP award until proof of compliance is verified (a holdback, not a cut-off). AP News's July 23, 2026 report on the 25-state lawsuit (which says "at least 20%") uses
-"billions of dollars" only in the broader sense of total federal disaster/homeland-security
-funding at stake nationwide across many states and programs — not as a citation to a specific
-DHS grant-cutoff figure tied to this NOFO. **Distinguish: NOFO ceiling ($1B, nationwide, all
-recipients) vs. per-state withholding rate (20%, conditional, not yet enforced against any named
-state in the sources reviewed) vs. aggregate dollars actually withheld/obligated (not sourced
-anywhere found).**
-
-## Litigation
-
-Two separate suits challenge the same NOFO conditions:
-
-- **States' suit** — more than 24 (reporting varies 24–26) mostly Democratic-led states, filed
-  in **U.S. District Court, Rhode Island**, on **July 23, 2026**. Rhode Island Attorney General
-  Peter Neronha: "Once again, the Trump Administration is threatening to jeopardize public safety
-  by unlawfully withholding billions in critical funding and once again, they won't get away with
-  it." Governors/AGs joining included Pennsylvania (Shapiro), Colorado (Weiser), Washington (AG
-  Brown), North Carolina (AG Jackson, a second suit against FEMA), Oregon (Rayfield), Illinois
-  (Raoul), Hawaii, and others.
-- **Localities' suit** — Harris County and El Paso County (Texas), the Metropolitan Government of
-  Nashville and Davidson County (Tennessee), and the City of Columbus (Ohio), filed in
-  **U.S. District Court for the District of Columbia**, announced the week of **August 17–21,
-  2026**. The complaint argues the conditions violate the Administrative Procedure Act and the
-  constitutional separation of powers: "Congress did not create the [grant program] to empower
-  the federal government to control state and local election procedures. Yet the Administration
-  has now hijacked the program to do just that." El Paso County Attorney Christina Sanchez: "Local
-  election offices already face some of the toughest oversight and requirements designed to keep
-  their operations safe and secure. Imposing additional requirements is both costly and
-  burdensome, while our law enforcement agencies rely on this funding to purchase critical
-  equipment that helps protect and save lives."
-
-Both suits challenge the same underlying NOFO condition language; they are procedurally distinct
-(state plaintiffs vs. local-government plaintiffs; Rhode Island vs. D.C. district courts) but
-substantively the same instrument.
-
-## Related, independently sourced
-
-Pennsylvania Secretary of the Commonwealth **Al Schmidt** stated on **2026-07-30** that DHS
-refused to disclose its methodology when asked to substantiate a DHS claim of **14,576 flagged
-voters** in Pennsylvania's rolls — reported by Democracy Docket and Votebeat (2026-07-30). This
-is independent corroboration of a pattern of DHS withholding methodology/evidence for its
-voter-roll claims; it does not depend on, and was not used to source, this entry's core claims
-about the HSGP NOFO.
-
-## What remains unlocated
-
-The FEMA NOFO document itself (the actual Notice of Funding Opportunity text, an award-terms
-document, or the text of the complaint's exhibits quoting it verbatim) was not directly retrieved
-in this research pass. `grants.gov`'s search interface is JavaScript-rendered and did not yield
-results via static fetch; `fema.gov`'s grants pages returned HTTP 403 and are not on the
-evidence-search browser allow-list (news/advocacy domains, not government-registry or
-court-system domains). CourtListener was at its daily rate-limit cap (125/125) when this research
-ran, blocking direct docket/complaint retrieval for either lawsuit. A follow-up pass with
-CourtListener access, or a FOIA for the NOFO/award-terms document, would close this gap. The
-claims above rest on two independently-reported, fully-fetched (not blocked) tier-1 accounts (AP
-News, Nextgov/Route Fifty) that both quote the same underlying conditions and dollar/percentage
-figures consistently. **That is why this entry is `status: reported` and NOT `confirmed`** —
-consistent tier-1 secondary reporting is good evidence, but the governing instrument is a
-document, and nobody in this corpus has read it. Upgrade to `confirmed` only once the FEMA
-NOFO / award-terms text or a complaint quoting it has been retrieved and cited directly.
-
-This entry replaced an earlier entry on this topic that was headlined on a "$1B DHS Grant Cutoff" figure its two cited sources did not contain, so the standard for calling anything here `confirmed` is deliberately high.
+## Sources
+- NOFO text, DHS explainer and FEMA bulletin, as exhibits to the Jacobson declaration: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.28.10.pdf
+- Memorandum Opinion: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.42.0.pdf
+- Complaint: https://storage.courtlistener.com/recap/gov.uscourts.dcd.295627/gov.uscourts.dcd.295627.1.0.pdf
+- Press reporting of the conditions in July and August 2026 (Reuters, AP, Nextgov/Route Fifty) is secondary and is not relied on for any quotation above.
 
 ## Correction (2026-10-26)
 
@@ -158,4 +209,8 @@ Two statements in this entry did not hold up against the primary documents (Nash
 - The quoted phrase "critical, common-sense steps to protect U.S. elections" appears in none of those documents. It has been removed.
 - The audit condition was described as 5% of all ballots. IB 580 specifies 5% of precincts and 5% of centrally tabulated batches.
 
-The court's opinion says the notice was issued in June 2026, so this entry's July 10 date is the date it was reported, not the date it was issued. A fuller rebuild with primary claims is pending.
+The court's opinion says the notice was issued in June 2026, so this entry's July 10 date is the date it was reported, not the date it was issued.
+
+## Correction (2026-11-02)
+
+This entry was rebuilt from the primary documents. Corrected: the release date (the opinion says June 2026, the complaint says June 24, amended July 9; no primary document located says July 10, which the entry's address still carries); the program figure ($1.064B is total available funding, a ceiling, not an amount withheld); the voting-system condition (a transition plan); the 120-day SAVE deadline; the coverage of temporary agency workers and vendors; and DHS's own description of the holdback. Status moved from reported to confirmed because the notice has now been read. The statement that Reuters broke the story on July 10 was removed; its page could not be fetched.
