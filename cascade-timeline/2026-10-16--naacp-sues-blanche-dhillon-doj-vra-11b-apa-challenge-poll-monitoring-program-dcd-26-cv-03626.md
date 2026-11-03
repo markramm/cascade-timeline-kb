@@ -328,6 +328,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+approved_names:
+- Andre Miller
+- Nicholas Little
 ---
 
 The NAACP, the Rev. Andre Miller, Nicholas Little and Daniella Pierre sued Attorney General Todd Blanche (official capacity), Assistant Attorney General Harmeet Dhillon (official capacity) and the Department of Justice in the D.D.C. (No. 1:26-cv-03626); the complaint is stamped Filed 10/16/26 (the filing date). It is a different case from the FOIA suit NAACP v. Dhillon ([[2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461]]): it asks the court for relief about the monitoring program itself, not for records.
