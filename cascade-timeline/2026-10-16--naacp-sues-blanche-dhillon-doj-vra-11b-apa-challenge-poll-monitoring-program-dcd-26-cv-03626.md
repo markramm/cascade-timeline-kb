@@ -187,6 +187,60 @@ claims:
   id: u8
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: Monday
+  span: The Department of Justice (DOJ) told a federal judge Monday that it would have “no problem” with a court order preventing it from deploying law enforcement agents as poll monitors on Election Day.
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: The defendants would have no problem with an injunction that would require DOJ to take reasonable efforts to exclude sworn officers from serving as polling monitors
+  span: “The defendants would have no problem with an injunction that would require DOJ to take reasonable efforts to exclude sworn officers from serving as polling monitors,” Justice Department attorney Kathryn Barragan told U.S. District Judge Reggie Walton.
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: administrative or clerical personnel
+  span: In the hearing, Barragan told Walton that the BOP, DEA and ATF employees will be administrative or clerical personnel and that the Civil Rights Division took efforts to exclude law enforcement officials from its monitor efforts.
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: appeared to be an inconsistency
+  span: Walton noted that Barragan’s claim “appeared to be an inconsistency” from Neff’s declaration. He also reminded the DOJ of the dangers of making false representations to a court.
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: there’d be hell to pay
+  span: “I would have to hope and assume that an officer of the court would not misrepresent the reality of who these monitors are gonna be,” Walton said. “Because if there is some type of misrepresentation — and I don’t suggest there is — obviously there’d be hell to pay.”
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: by 5 p.m. ET Monday
+  span: Walton, who was nominated by former President George H.W. Bush, said he would try to issue a ruling on the matter by 5 p.m. ET Monday.
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - election-monitors
@@ -226,6 +280,11 @@ sources:
   publisher: Democracy Docket
   date: '2026-11-02'
   tier: 2
+- title: In about-face, DOJ says it has ‘no problem’ with block on federal agents as poll monitors
+  url: https://www.democracydocket.com/news-alerts/in-about-face-doj-says-it-has-no-problem-with-block-on-federal-agents-as-poll-monitors/
+  publisher: Democracy Docket
+  date: '2026-11-02'
+  tier: 2
 related_events:
 - 2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
@@ -255,6 +314,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-02'
+  date_kind: hearing date
+  heading: At the TRO hearing, DOJ says it has no problem with an order excluding sworn officers as monitors
+  claims:
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  event_date_claim: u9
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 The NAACP, the Rev. Andre Miller, Nicholas Little and Daniella Pierre sued Attorney General Todd Blanche (official capacity), Assistant Attorney General Harmeet Dhillon (official capacity) and the Department of Justice in the D.D.C. (No. 1:26-cv-03626); the complaint is stamped Filed 10/16/26 (the filing date). It is a different case from the FOIA suit NAACP v. Dhillon ([[2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461]]): it asks the court for relief about the monitoring program itself, not for records.
@@ -272,3 +345,7 @@ Function: a suit that asks a court to limit who DOJ may use as monitors, and a c
 The NAACP filed an [emergency motion for a temporary restraining order](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.1_1.pdf) on Sunday before Judge Reggie Walton. Its [proposed order](https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.14.2_1.pdf) would bar "any agents, officers, or personnel from any of Defendants' federal law enforcement agencies" from the department's monitoring program. In the alternative, Democracy Docket reports, the group asked that agents be barred from carrying firearms, badges or camera equipment. Walton set a hearing for 1:30 p.m. ET on Monday. This is a motion, not a ruling.
 
 For the sworn Neff declaration, see [[2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461]].  The NAACP characterizes it as confirming deployment of "personnel from federal law enforcement agencies". The declaration's word for those from the Bureau of Prisons, ATF and DEA is employees, and the memorandum itself quotes Neff saying the division is "not engaging any sworn law enforcement personnel who are legally authorized to effectuate an arrest to act as monitors" in a law enforcement capacity. The motion's argument is that a deployed agent keeps that authority: "being deployed as an election monitor does not suspend a law enforcement agent's authority to effectuate arrests." That is the plaintiffs' argument, not a finding.
+
+## Update (2026-11-02, hearing date): At the TRO hearing, DOJ says it has no problem with an order excluding sworn officers as monitors
+
+At a hearing on Monday on the NAACP's emergency motion, DOJ attorney Kathryn Barragan told Judge Reggie Walton: "The defendants would have no problem with an injunction that would require DOJ to take reasonable efforts to exclude sworn officers from serving as polling monitors," Democracy Docket reports. She said the BOP, DEA and ATF employees serving as monitors will be administrative or clerical personnel. Walton said her claim "appeared to be an inconsistency" with the Voting Section chief's declaration, and warned that if there was a misrepresentation, "there’d be hell to pay." He said he would try to rule by 5 p.m. ET Monday.
