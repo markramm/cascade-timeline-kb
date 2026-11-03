@@ -109,6 +109,69 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: November 2, 2026
+  span: 'Plaintiffs shall post a bond in the amount of $1.00 by November 4, 2026. It is SO ORDERED. Date: November 2, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-03'
+- type: posture
+  value: GRANTED
+  span: For the reasons set forth in the forthcoming Memorandum Opinion, Plaintiffs’ Motion for a Temporary Restraining Order or Preliminary Injunction and Stay under 5 U.S.C. § 705, ECF No. 15, is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: preliminarily ENJOINED and STAYED
+  span: Defendants and their agents are preliminarily ENJOINED and STAYED under 5 U.S.C. § 705 from further disclosing, transmitting, or releasing data purporting to constitute lists of individual potential or actual non-citizen voters or registered voters, to any State, county, municipal, or other local official, employee, or officer responsible for administering voter registration, issuing or processing ballots, verifying signatures, or tabulating or certifying votes.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-03'
+- type: posture
+  value: SAVE
+  span: This order does not preclude Defendants from (1) responding to an inquiry seeking to verify or ascertain the citizenship or immigration status of any individual through the Systematic Alien Verification for Entitlements (SAVE) system, or (2) prosecuting violations of federal law.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: 24 hours
+  span: Defendants are also ORDERED to file a status report within 24 hours of the issuance of this Order (a) confirming compliance with this Order, and (b) identifying a senior official responsible for ensuring the Defendants’ continued compliance with this Order,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: that no statute authorizes the Voter Data Transmission Policy
+  span: Plaintiffs have established that they will likely succeed on the merits of their claim that no statute authorizes the Voter Data Transmission Policy.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: violates the Act’s prohibitions on disclosure without any applicable exception
+  span: Consequently, the law enforcement exception is inapplicable, and Plaintiffs are likely to succeed on their claim that the Voter Data Transmission Policy violates the Act’s prohibitions on disclosure without any applicable exception.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.31.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - midterms-2026
@@ -136,6 +199,16 @@ sources:
   publisher: U.S. District Court for the District of Columbia (via RECAP)
   date: '2026-10-31'
   tier: 1
+- title: Order, League of Women Voters v. DHS, No. 26-cv-3602 (D.D.C.), ECF 30
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.30.0.pdf
+  publisher: U.S. District Court, D.D.C.
+  date: '2026-11-02'
+  tier: 1
+- title: Memorandum Opinion, League of Women Voters v. DHS, No. 26-cv-3602 (D.D.C.), ECF 31
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.31.0.pdf
+  publisher: U.S. District Court, D.D.C.
+  date: '2026-11-02'
+  tier: 1
 related_events: []
 updates:
 - date: '2026-10-31'
@@ -147,6 +220,21 @@ updates:
   - u3
   - u4
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
+- date: '2026-11-02'
+  date_kind: order date
+  heading: 'Chutkan grants the TRO: DHS may not send noncitizen-voter lists to election officials'
+  claims:
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u5
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
@@ -164,3 +252,9 @@ In a corrected memorandum filed 10/31/26 (Document 25), the government argues th
 ## Update (2026-10-31, hearing date): Chutkan hears the TRO motion; order forthcoming
 
 The docket's minute entry says Judge Tanya S. Chutkan held a motion hearing on 10/31/2026 on the Dkt. 15 motion for a temporary restraining order, stay under 5 U.S.C. § 705 and/or preliminary injunction: "The Court hears Oral Argument. Order forthcoming." Defendants filed an opposition and a corrected opposition (Dkt. 24, 25) and a notice of recent decision (Dkt. 22); plaintiffs filed a response with supplemental authority (Dkt. 26) and a reply (Dkt. 28). No ruling appears in RECAP as of the early hours of Nov. 1, which only covers what has been uploaded. Read as docket text through CourtListener's API on docket 74968826; hand update, because the sourcing gate can't read docket text.
+
+## Update (2026-11-02, order date): Chutkan grants the TRO: DHS may not send noncitizen-voter lists to election officials
+
+On November 2, 2026, Judge Tanya Chutkan granted the plaintiffs' motion. Defendants and their agents are "preliminarily ENJOINED and STAYED" from further disclosing lists of potential or actual noncitizen voters or registered voters to any state or local official who administers registration, ballots, signature checks, or tabulation or certification. The order does not stop DHS from answering individual SAVE queries or from prosecuting violations of federal law. Defendants must file a status report within 24 hours confirming compliance and identifying a senior official responsible for it.
+
+In the memorandum opinion, Chutkan found the plaintiffs likely to succeed on their claim "that no statute authorizes the Voter Data Transmission Policy," and on their claim that the policy "violates the Act’s prohibitions on disclosure without any applicable exception" under the Privacy Act, because the law enforcement exception does not cover bulk disclosure.
