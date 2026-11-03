@@ -220,6 +220,114 @@ claims:
   id: u10
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: November 2, 2026
+  span: supplemental question and the hearing on November 2, 2026, Defendants have not
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: to DENY Defendants’ motion to stay
+  span: The Court issues this Order for two purposes; (1) to DENY Defendants’ motion to stay the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: issued on October 30, 2026
+  span: Court’s Temporary Restraining Order (“TRO”) issued on October 30, 2026; and (2) to indicate the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: premature
+  span: premature. Religious Tech. Ctr. v. Scott, 869 F.2d 1306 (9th Cir. 1989) (denial of temporary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 13, 2026, at 5:00 p.m.
+  span: Again, this order expires on November 13, 2026, at 5:00 p.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: arbitrary and capricious
+  span: authority and is arbitrary and capricious, in part because of their departure from
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: questionable lists of noncitizens
+  span: comply with the questionable lists of noncitizens created by Defendants with
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: artificial intelligence
+  span: assistance from artificial intelligence. The Defendants conveyed that risk through
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: paragraph 6
+  span: 'Moreover, the Court MODIFIES paragraph 6 of the TRO to reflect the following relief:'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: before which criminal proceedings have commenced
+  span: before which criminal proceedings have commenced of any pending search warrant
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: Monday, November 9, 2026
+  span: Monday, November 9, 2026. Plaintiffs’ optional reply shall due on November 10, 2026 by 5:00
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 13, 2026 at 11:00 a.m.
+  span: maintained for November 13, 2026 at 11:00 a.m.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - midterms-2026
@@ -260,6 +368,11 @@ sources:
   publisher: Law Dork
   date: '2026-11-02'
   tier: 2
+- title: Order Denying Defendants' Motion to Stay TRO; Clarification and Modification of the October 30, 2026 TRO (ECF 63), SEIU v. DOJ, N.D. Cal. 3:26-cv-12800
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
+  publisher: U.S. District Court, N.D. Cal. (via RECAP)
+  date: '2026-11-02'
+  tier: 1
 related_events:
 - 2026-10-29--seiu-afscme-lulac-naacp-v-doj-ndcal-complaint-threats-to-election-workers-3-26-cv-12800
 - 2026-10-29--mccotter-oct-29-letters-state-election-officials-criminal-penalties-record-preservation-votebeat
@@ -291,6 +404,26 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-02'
+  date_kind: order date (filed)
+  heading: Order denying DOJ's motion to stay the TRO; expiry moved to November 13
+  claims:
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  event_date_claim: u11
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -311,3 +444,7 @@ The defendants noticed an appeal to the Ninth Circuit on 10/31/2026 and on 11/1/
 ## Update (2026-11-02, hearing date, as reported): DOJ lawyer says it is "fair" to characterize the list as having a high error rate, Law Dork reports
 
 At the hearing on DOJ's motion to stay the order, a Justice Department lawyer, in response to a question from Judge Thompson, said it would be "fair" to characterize the "likely noncitizen" list as having a high error rate, Law Dork reports. The transcript is not yet public.
+
+## Update (2026-11-02, order date (filed)): Order denying DOJ's motion to stay the TRO; expiry moved to November 13
+
+Judge Trina Thompson's order, entered after a hearing on November 2, 2026, says it issues "to DENY Defendants’ motion to stay" the TRO issued on October 30, 2026, and calls DOJ's appeal "premature." The TRO now expires November 13, 2026, at 5:00 p.m. She found DOJ's conduct likely "arbitrary and capricious," and wrote that election workers fear prosecution for failing to comply with the "questionable lists of noncitizens" DOJ built with "artificial intelligence." The order rewrites paragraph 6: DOJ must tell the court "before which criminal proceedings have commenced" about pending search warrant applications, grand jury subpoenas or other demands for election materials, for review in chambers. DOJ's opposition to a preliminary injunction is due Monday, November 9, 2026, and the hearing stays set for November 13, 2026 at 11:00 a.m.
