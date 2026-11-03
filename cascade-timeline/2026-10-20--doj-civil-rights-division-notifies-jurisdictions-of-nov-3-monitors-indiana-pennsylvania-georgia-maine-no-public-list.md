@@ -533,6 +533,51 @@ claims:
   id: u39
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 3, 2026
+  span: Tue, November 3, 2026 at 1:14 PM UTC
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  read: fetched
+  source_kind: secondary
+  id: u40
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: 1,000
+  span: WASHINGTON, Nov 3 (Reuters) - The US Justice Department said on Tuesday it was deploying 1,000 election monitors ‌and observers to all 50 states in what it ‌called the largest Election Day monitoring effort in history.
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  read: fetched
+  source_kind: secondary
+  id: u41
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: identified which jurisdictions within the states would receive monitors and observers
+  span: • A Justice Department ​statement identified which jurisdictions within the states would receive monitors and observers.
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  read: fetched
+  source_kind: secondary
+  id: u42
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: cannot
+  span: • Some state ​and local laws allow ​election officials to prevent DOJ monitors from ‌being present inside polling locations. DOJ ​staff cannot ​conduct investigations on the spot or otherwise stop anyone from voting.
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  read: fetched
+  source_kind: secondary
+  id: u43
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: roughly triple
+  span: • The number of monitors is roughly triple the ​number in the ‌last midterm election. The deployment would be the ​largest observation effort in the department's history.
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  read: fetched
+  source_kind: secondary
+  id: u44
+  outcome: verified
+  checked: '2026-11-03'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -639,6 +684,11 @@ sources:
   url: https://www.lpm.org/news/2026-10-26/federal-monitors-barred-from-entering-kentucky-polling-sites-election-officials-say
   publisher: Louisville Public Media
   date: '2026-10-26'
+  tier: 2
+- title: Trump's Justice Dept identifies where US election monitors will be in the 50 states
+  url: https://www.yahoo.com/news/politics/articles/trumps-justice-dept-identifies-where-131410474.html
+  publisher: Reuters (via Yahoo News)
+  date: '2026-11-03'
   tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
@@ -747,6 +797,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-03'
+  date_kind: statement date (Reuters report)
+  heading: On Election Day, DOJ names the jurisdictions receiving monitors
+  claims:
+  - u40
+  - u41
+  - u42
+  - u43
+  - u44
+  event_date_claim: u40
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -793,3 +856,7 @@ Colorado Secretary of State Jena Griswold's office detailed conditions for letti
 ## Update (2026-10-26, press-conference date (Jefferson County Clerk)): Kentucky: Jefferson and Fayette county officials say DOJ monitors cannot enter polling locations
 
 Kentucky election officials said Monday they will not let federal election monitors inside polling locations in Jefferson and Fayette counties, Louisville Public Media reports. Jefferson County Clerk David Yates said his office may call local police if monitors persist in trying to enter past a standard 100 foot boundary. A Kentucky State Board of Elections spokesperson wrote that DOJ monitors, along with anyone else not casting a ballot, must remain at least 100 feet from the entrance to any polling site.
+
+## Update (2026-11-03, statement date (Reuters report)): On Election Day, DOJ names the jurisdictions receiving monitors
+
+On November 3, 2026, Reuters reported that the Justice Department said it was deploying 1,000 election monitors and observers to every state, and that a Justice Department statement identified which jurisdictions within the states would receive monitors and observers. Reuters reported that DOJ staff cannot conduct investigations on the spot or otherwise stop anyone from voting, and that the number is roughly triple the number in the last midterm. The list itself was not read for this update.
