@@ -141,6 +141,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: scotus-watson-mail-ballot-window
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+    title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 ---
 
 On **June 29, 2026**, the Supreme Court ruled **5-4** in *Watson v. Republican National Committee* that Mississippi's 2020 law permitting mail-in ballots **postmarked by Election Day and received within five days** may stand. Justice **Amy Coney Barrett** authored the majority opinion, joining Chief Justice Roberts and Justices Sotomayor, Kagan, and Jackson; the majority reasoned that the federal Election Day statutes fix when voting must occur but do not set a ballot-receipt deadline. The decision blocks the RNC's effort to invalidate late-arriving mail ballots and is a rare Trump-side loss at the Court on election administration.
