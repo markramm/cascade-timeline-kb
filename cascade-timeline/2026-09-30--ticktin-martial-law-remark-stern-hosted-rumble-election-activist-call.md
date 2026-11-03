@@ -36,6 +36,11 @@ sources:
   url: https://www.mediaite.com/media/news/election-denier-tina-peters-plan-for-midterms-includes-seizing-ballots-nationwide/
   publisher: Mediaite
   date: '2026-10-08'
+- title: ELECTION INTEGRITY CALL HOSTED BY STEVE STERN - WED, SEP 30 @2PM EST
+  url: https://rumble.com/v7g5ju4-election-integrity-call-hosted-by-steve-stern-wed-sep-30-2pm-est.html
+  publisher: Rumble (SternAmerican)
+  date: '2026-09-29'
+  tier: 1
 claims:
 - id: c1
   type: date
@@ -133,6 +138,39 @@ claims:
   url: https://www.mediaite.com/media/news/election-denier-tina-peters-plan-for-midterms-includes-seizing-ballots-nationwide/
   read: fetched
   source_kind: secondary
+- type: date
+  value: September 30th at 2:00 PM ET
+  span: Join us LIVE for our National Election Integrity Call this Wednesday, September 30th at 2:00 PM ET.
+  url: https://rumble.com/v7g5ju4-election-integrity-call-hosted-by-steve-stern-wed-sep-30-2pm-est.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: Featuring
+  span: Featuring Stephen K. Bannon, Tina Peters, Peter Ticktin, Jerome Corsi, Velma Anne Ruth, Linda Szynkowicz, Ian Trottier, Martin Rodil, Col. Conrad Reynolds, Joe Hoft, Jessica Pollema, Joe LaFauci, Harry Haury, Treniss Evans, and more.
+  url: https://rumble.com/v7g5ju4-election-integrity-call-hosted-by-steve-stern-wed-sep-30-2pm-est.html
+  read: fetched
+  source_kind: primary
+  qualifier: Featuring
+  id: u2
+  outcome: verified
+  checked: '2026-11-03'
+approved_names:
+- Steve Stern
+- Peter Ticktin
+updates:
+- date: '2026-09-30'
+  date_kind: event date (call scheduled)
+  heading: National Election Integrity Call, September 30th at 2:00 PM ET
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: election-denial-martial-law-talk
 ---
 
 The Daily Beast reports that a video call for MAGA election activists, streamed on Rumble on Sept. 30, carried Peter Ticktin's remark "There would have to be martial law in the event". Ticktin is Tina Peters' attorney. The host was Steve Stern. Peters also spoke, and Gregory Stenstrom said he most wanted the election paused over security concerns. Axios published on Oct 16, 2026; Raw Story, Newsweek and the Daily Beast carried it.
@@ -144,3 +182,7 @@ Ticktin's own statements, in order. On Oltmann's show (Mediaite) he denied pushi
 What the remark does. Newsweek's legal summary is that a president cannot simply declare martial law to postpone an election, seize ballots, or take control of state election systems. The remark is a stated precondition voiced by a private lawyer on a call whose host, per the Daily Beast, steers viewers into Republican poll-worker and observer recruitment. It works as a signal to watch and is not an operative step.
 
 Verification limits. I did not read Axios directly; its text reached me through the outlets quoting it. I read the International Business Times piece only to its opening paragraphs. No transcript or Rumble URL for the Stern call was found. Playing the audio is a human step: find the Rumble video of the Stern call, locate the Ticktin segment and note the timestamp. Participants beyond the publicly named speakers are not identified here.
+
+## Update (2026-09-30, event date (call scheduled)): National Election Integrity Call, September 30th at 2:00 PM ET
+
+The call is posted on the SternAmerican Rumble channel as the National Election Integrity Call hosted by Steve Stern, September 30th at 2:00 PM ET. Peter Ticktin is among the speakers named.
