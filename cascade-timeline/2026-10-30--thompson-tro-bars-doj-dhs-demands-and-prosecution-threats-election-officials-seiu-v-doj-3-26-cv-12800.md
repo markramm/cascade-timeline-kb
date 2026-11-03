@@ -328,6 +328,60 @@ claims:
   id: u22
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: 11/03/26
+  span: Case 3:26-cv-12800-TLT Document 67 Filed 11/03/26 Page 1 of 37
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: A majority of the en banc court has voted to reinstate the three-judge panel’s
+  span: A majority of the en banc court has voted to reinstate the three-judge panel’s
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: Pending further order of the court
+  span: order filed on November 2, 2026. Pending further order of the court, the three-
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: after the polls open on Election Day
+  span: after the polls open on Election Day. This action was unnecessary and avoidable,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: a stay pending appeal
+  span: moved for an immediate administrative stay and a stay pending appeal of the district
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u27
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: previously vacated, is reinstated
+  span: judge panel order filed on November 2, 2026, and previously vacated, is reinstated.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u28
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - midterms-2026
@@ -372,6 +426,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.63.0.pdf
   publisher: U.S. District Court, N.D. Cal. (via RECAP)
   date: '2026-11-02'
+  tier: 1
+- title: Ninth Circuit en banc order reinstating panel stay, SEIU v. DOJ, No. 26-7303 (N.D. Cal. ECF 67)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+  date: '2026-11-03'
   tier: 1
 related_events:
 - 2026-10-29--seiu-afscme-lulac-naacp-v-doj-ndcal-complaint-threats-to-election-workers-3-26-cv-12800
@@ -424,6 +483,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-03'
+  date_kind: order date (filed)
+  heading: On Election Day the full Ninth Circuit reinstates the stay of the restraining order
+  claims:
+  - u23
+  - u24
+  - u25
+  - u26
+  - u27
+  - u28
+  event_date_claim: u23
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: seiu-v-doj
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -448,3 +521,7 @@ At the hearing on DOJ's motion to stay the order, a Justice Department lawyer, i
 ## Update (2026-11-02, order date (filed)): Order denying DOJ's motion to stay the TRO; expiry moved to November 13
 
 Judge Trina Thompson's order, entered after a hearing on November 2, 2026, says it issues "to DENY Defendants’ motion to stay" the TRO issued on October 30, 2026, and calls DOJ's appeal "premature." The TRO now expires November 13, 2026, at 5:00 p.m. She found DOJ's conduct likely "arbitrary and capricious," and wrote that election workers fear prosecution for failing to comply with the "questionable lists of noncitizens" DOJ built with "artificial intelligence." The order rewrites paragraph 6: DOJ must tell the court "before which criminal proceedings have commenced" about pending search warrant applications, grand jury subpoenas or other demands for election materials, for review in chambers. DOJ's opposition to a preliminary injunction is due Monday, November 9, 2026, and the hearing stays set for November 13, 2026 at 11:00 a.m.
+
+## Update (2026-11-03, order date (filed)): On Election Day the full Ninth Circuit reinstates the stay of the restraining order
+
+The en banc Ninth Circuit put back the stay of Judge Thompson's restraining order on 11/03/26. "A majority of the en banc court has voted to reinstate the three-judge panel’s" order, which stays in place "Pending further order of the court." The panel had granted DOJ's motion for "a stay pending appeal" of the restraining order; the en banc court had set that order aside the day before, and the order now says it was "previously vacated, is reinstated." Dissenting, Judge Desai wrote that the court acted "after the polls open on Election Day."
