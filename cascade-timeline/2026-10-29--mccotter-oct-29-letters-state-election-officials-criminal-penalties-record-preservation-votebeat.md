@@ -142,6 +142,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: guardrails
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+    title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 ---
 
 Votebeat reported on October 30 that state election offices received identical letters dated October 29, signed by acting Deputy Attorney General Trent McCotter, warning of criminal penalties for failing to preserve election records for 22 months. "Such a failure is punishable by up to a year in prison and a $1,000 fine," the letter says, per a copy provided to Votebeat. Officials familiar with the correspondence said the letters appear to have gone to all 50 states. Votebeat says the letters cite a 1960 requirement without identifying a particular violation or pending investigation, and that the department had not answered its questions as of publication. Former DOJ official Justin Levitt said the letter "is not itself improper" but "certainly looks like it's meant to intimidate rather than to inform." The letter date is October 29; the report date is October 30.

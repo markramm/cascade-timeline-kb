@@ -243,6 +243,9 @@ sources:
     publisher: Alaska Public Media (Liz Ruskin)
     date: '2026-06-26'
     tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+    title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 ---
 
 

@@ -239,6 +239,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
+    title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 ---
 
 On Monday, the Trump administration filed an emergency appeal at the Supreme Court in United States v. California, asking for a limited injunction that would direct California to set aside some 20,000 mail ballots from people the federal government suspects may not be citizens. "Once California commingles the challenged ballots with lawful ones, there is no way to get the challenged ballots back," Solicitor General D. John Sauer wrote, per the Associated Press.
