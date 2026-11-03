@@ -241,6 +241,114 @@ claims:
   id: u14
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: November 2, 2026
+  span: Rough Transcript of November 2, 2026 Motion Hearing (21:7–17).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-03'
+- type: posture
+  value: DENIED WITHOUT PREJUDICE
+  span: Accordingly, it is hereby ORDERED that the plaintiffs’ Motion for Temporary Restraining Order, ECF No. 14, is DENIED WITHOUT PREJUDICE.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: administrative or clerical personnel and not law enforcement officials
+  span: While the Court does not think that such an injunction based on the defendants’ representations is necessary, the Court will order that the defendants comply with their counsel’s concession that they will take action to ensure that the monitors participating in the DOJ’s Poll Monitoring Program are indeed administrative or clerical personnel and not law enforcement officials, will not be in uniform or display any other insignia indicating their affiliation with a federal agency, will not be armed with a firearm, and will not have the power to effectuate arrests.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: power to effectuate arrests
+  span: While the Court does not think that such an injunction based on the defendants’ representations is necessary, the Court will order that the defendants comply with their counsel’s concession that they will take action to ensure that the monitors participating in the DOJ’s Poll Monitoring Program are indeed administrative or clerical personnel and not law enforcement officials, will not be in uniform or display any other insignia indicating their affiliation with a federal agency, will not be armed with a firearm, and will not have the power to effectuate arrests.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 3, 2026
+  span: ORDERED that the defendants shall provide the Court with a status report as to how they confirmed that none of the election monitors participating in the DOJ’s Poll Monitoring Program on November 3, 2026 are in fact law enforcement officials and therefore do not have the power to effectuate arrests, on or before November 3, 2026 at 7:00 a.m. Eastern Standard Time.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: '7:00'
+  span: ORDERED that the defendants shall provide the Court with a status report as to how they confirmed that none of the election monitors participating in the DOJ’s Poll Monitoring Program on November 3, 2026 are in fact law enforcement officials and therefore do not have the power to effectuate arrests, on or before November 3, 2026 at 7:00 a.m. Eastern Standard Time.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: would differ
+  span: However, the Court’s conclusion regarding irreparable harm would differ if the defendants were in fact planning to send law enforcement officials to monitor polling sites who had the authority to arrest individuals.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: November 3, 2026
+  span: ORDERED that the defendants shall provide the Court with a status report as to how they confirmed that none of the election monitors participating in the DOJ’s Poll Monitoring Program on November 3, 2026 are in fact law enforcement officials and therefore do not have the power to effectuate arrests, on or before November 3, 2026 at 7:00 a.m. Eastern Standard Time.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: there is no prohibition on the use of sworn law enforcement officers as civil rights election monitors
+  span: Though there is no prohibition on the use of sworn law enforcement officers as civil rights election monitors, CRT undertook reasonable efforts to avoid using sworn officers.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: resulted in the removal of several sworn law enforcement officers from the volunteer monitoring pool
+  span: This process resulted in the removal of several sworn law enforcement officers from the volunteer monitoring pool.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: including but not limited to corrections officers, have legal authority to make limited arrests
+  span: Through these consultations, CRT learned that employees of the Bureau of Prisons, including but not limited to corrections officers, have legal authority to make limited arrests for specific offenses, primarily when committed on BOP property or involving escaped inmates.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: It is inconceivable that anything could happen at a polling place where a BOP employee serving in a monitoring capacity would be authorized to make an arrest
+  span: It is inconceivable that anything could happen at a polling place where a BOP employee serving in a monitoring capacity would be authorized to make an arrest under § 3050.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - election-monitors
@@ -285,6 +393,16 @@ sources:
   publisher: Democracy Docket
   date: '2026-11-02'
   tier: 2
+- title: Memorandum Opinion and Order, NAACP v. Blanche, No. 26-cv-03626 (D.D.C.), ECF 22
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.22.0.pdf
+  publisher: U.S. District Court, D.D.C.
+  date: '2026-11-02'
+  tier: 1
+- title: Status Report, NAACP v. Blanche, No. 26-cv-03626 (D.D.C.), ECF 24
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297730/gov.uscourts.dcd.297730.24.0.pdf
+  publisher: U.S. Department of Justice (filed in D.D.C.)
+  date: '2026-11-03'
+  tier: 1
 related_events:
 - 2026-10-02--naacp-sues-dhillon-foia-mandamus-doj-election-monitor-legal-authority-dcd-26-cv-03461
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
@@ -330,6 +448,34 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-02'
+  date_kind: order date (same day as the motion hearing)
+  heading: 'Walton: TRO motion DENIED WITHOUT PREJUDICE; status report ordered by 7:00 a.m. Nov. 3'
+  claims:
+  - u15
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  event_date_claim: u15
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
+- date: '2026-11-03'
+  date_kind: filing date (report due by 7:00 a.m. Nov. 3 under ECF 22)
+  heading: 'DOJ status report: several sworn officers removed; Bureau of Prisons staff kept'
+  claims:
+  - u22
+  - u23
+  - u24
+  - u25
+  - u26
+  event_date_claim: u22
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 approved_names:
 - Andre Miller
 - Nicholas Little
@@ -354,3 +500,11 @@ For the sworn Neff declaration, see [[2026-10-22--dcd-denies-naacp-tro-dhillon-f
 ## Update (2026-11-02, hearing date): At the TRO hearing, DOJ says it has no problem with an order excluding sworn officers as monitors
 
 At a hearing on Monday on the NAACP's emergency motion, DOJ attorney Kathryn Barragan told Judge Reggie Walton: "The defendants would have no problem with an injunction that would require DOJ to take reasonable efforts to exclude sworn officers from serving as polling monitors," Democracy Docket reports. She said the BOP, DEA and ATF employees serving as monitors will be administrative or clerical personnel. Walton said her claim "appeared to be an inconsistency" with the Voting Section chief's declaration, and warned that if there was a misrepresentation, "there’d be hell to pay." He said he would try to rule by 5 p.m. ET Monday.
+
+## Update (2026-11-02, order date (same day as the motion hearing)): Walton: TRO motion DENIED WITHOUT PREJUDICE; status report ordered by 7:00 a.m. Nov. 3
+
+On November 2, 2026, after the motion hearing, Judge Reggie B. Walton ordered that the plaintiffs' motion for a temporary restraining order is DENIED WITHOUT PREJUDICE. He ordered DOJ to comply with its counsel's concession that monitors are "administrative or clerical personnel and not law enforcement officials" and do not have the power to effectuate arrests, and to file a status report by 7:00 a.m. Eastern Standard Time on November 3, 2026 on how it confirmed that. He wrote that his conclusion regarding irreparable harm "would differ" if DOJ were planning to send law enforcement officials with the authority to arrest individuals.
+
+## Update (2026-11-03, filing date (report due by 7:00 a.m. Nov. 3 under ECF 22)): DOJ status report: several sworn officers removed; Bureau of Prisons staff kept
+
+In the status report due November 3, 2026, DOJ told the court that "there is no prohibition on the use of sworn law enforcement officers as civil rights election monitors" but that its review "resulted in the removal of several sworn law enforcement officers from the volunteer monitoring pool." It said employees of the Bureau of Prisons, "including but not limited to corrections officers, have legal authority to make limited arrests," and kept them as monitors because "It is inconceivable that anything could happen at a polling place where a BOP employee serving in a monitoring capacity would be authorized to make an arrest."
