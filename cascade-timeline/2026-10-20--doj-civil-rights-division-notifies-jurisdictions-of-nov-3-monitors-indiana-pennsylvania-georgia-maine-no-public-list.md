@@ -578,6 +578,51 @@ claims:
   id: u44
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: Today
+  span: Today, the DOJ will further this mission by engaging in its largest monitoring effort in history—with approximately 1,000 election monitors and observers deployed, and, for the first time, in all 50 states. The effort is coordinated by the Civil Rights Division. Monitors will include personnel from the Division, other DOJ divisions/components, U.S. Attorney’s Offices and federal observers from the Office of Personnel Management. Throughout Election Day, Division personnel will maintain contact with state and local election officials.
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: largest monitoring effort in history
+  span: Today, the DOJ will further this mission by engaging in its largest monitoring effort in history—with approximately 1,000 election monitors and observers deployed, and, for the first time, in all 50 states. The effort is coordinated by the Civil Rights Division. Monitors will include personnel from the Division, other DOJ divisions/components, U.S. Attorney’s Offices and federal observers from the Office of Personnel Management. Throughout Election Day, Division personnel will maintain contact with state and local election officials.
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: 1,000
+  span: Today, the DOJ will further this mission by engaging in its largest monitoring effort in history—with approximately 1,000 election monitors and observers deployed, and, for the first time, in all 50 states. The effort is coordinated by the Civil Rights Division. Monitors will include personnel from the Division, other DOJ divisions/components, U.S. Attorney’s Offices and federal observers from the Office of Personnel Management. Throughout Election Day, Division personnel will maintain contact with state and local election officials.
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  read: fetched
+  source_kind: primary
+  id: u47
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: for the first time, in all 50 states
+  span: Today, the DOJ will further this mission by engaging in its largest monitoring effort in history—with approximately 1,000 election monitors and observers deployed, and, for the first time, in all 50 states. The effort is coordinated by the Civil Rights Division. Monitors will include personnel from the Division, other DOJ divisions/components, U.S. Attorney’s Offices and federal observers from the Office of Personnel Management. Throughout Election Day, Division personnel will maintain contact with state and local election officials.
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: We intend to monitor or observe in the following jurisdictions
+  span: 'We intend to monitor or observe in the following jurisdictions:'
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: verified
+  checked: '2026-11-03'
 related_events:
 - 2026-08-17--dhillon-plans-1000-doj-monitors-midterm-general-election-cbs-bloomberg
 - 2026-10-22--dcd-denies-naacp-tro-dhillon-foia-election-monitors-records-sooknanan-doj-says-no-federal-law-enforcement-monitors-dcd-26-cv-03461
@@ -690,6 +735,11 @@ sources:
   publisher: Reuters (via Yahoo News)
   date: '2026-11-03'
   tier: 2
+- title: DOJ To Monitor Elections in All 50 States for First Time
+  url: https://www.justice.gov/opa/pr/doj-monitor-elections-all-50-states-first-time
+  publisher: U.S. Department of Justice
+  date: '2026-11-03'
+  tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
@@ -810,6 +860,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-03'
+  date_kind: release date
+  heading: DOJ's own release names the jurisdictions
+  claims:
+  - u45
+  - u46
+  - u47
+  - u48
+  - u49
+  event_date_claim: u45
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On October 20, 2026 (date of the email), a Civil Rights Division trial attorney emailed a local election board in Indiana that the division "intends to send election monitors to your jurisdiction on November 3, 2026", copying an assistant U.S. attorney for the Southern District of Indiana. It says "our monitors only observe." DOJ's own message is the primary document; the list below comes from local outlets.
@@ -860,3 +923,7 @@ Kentucky election officials said Monday they will not let federal election monit
 ## Update (2026-11-03, statement date (Reuters report)): On Election Day, DOJ names the jurisdictions receiving monitors
 
 On November 3, 2026, Reuters reported that the Justice Department said it was deploying 1,000 election monitors and observers to every state, and that a Justice Department statement identified which jurisdictions within the states would receive monitors and observers. Reuters reported that DOJ staff cannot conduct investigations on the spot or otherwise stop anyone from voting, and that the number is roughly triple the number in the last midterm. The list itself was not read for this update.
+
+## Update (2026-11-03, release date): DOJ's own release names the jurisdictions
+
+Today the Justice Department said in a release that it was engaging in its "largest monitoring effort in history" with approximately 1,000 election monitors and observers, "for the first time, in all 50 states," and listed them under the line "We intend to monitor or observe in the following jurisdictions." The release gives no reason for any jurisdiction.
