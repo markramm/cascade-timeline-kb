@@ -1494,6 +1494,60 @@ claims:
   id: u153
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: said Tuesday
+  span: issuing a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry, two people familiar with the matter said Tuesday.
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u154
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry
+  span: issuing a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry, two people familiar with the matter said Tuesday.
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u155
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: is one of multiple such letters that were issued
+  span: The target letter to attorney Marc Elias, who for years has represented Democratic campaigns as well as the party itself in election-related challenges, is one of multiple such letters that were issued
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u156
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: No one should be surprised that President Trump’s Department of Justice is targeting me and my law firm on Election Day
+  span: “No one should be surprised that President Trump’s Department of Justice is targeting me and my law firm on Election Day.
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u157
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: has been ongoing for several months
+  span: Alaska U.S. Attorney Michael Heyman told reporters in Anchorage that the investigation has been ongoing for several months.
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u158
+  outcome: verified
+  checked: '2026-11-03'
+- type: figure
+  value: more than 100 subpoenas
+  span: More than 100 subpoenas have been issued as part of the investigation, one of the people briefed on the probe said.
+  url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+  read: fetched
+  source_kind: secondary
+  id: u159
+  outcome: verified
+  checked: '2026-11-03'
 tags:
   - election-2026
   - certification
@@ -1679,6 +1733,11 @@ sources:
     url: https://electionlawblog.org/2026/doj-issues-new-wave-of-subpoenas-in-criminal-probe-of-alaska-senate-race-sources-say/
     publisher: Election Law Blog quoting ABC News
     date: '2026-10-29'
+    tier: 2
+  - title: Justice Department identifies potential targets as it escalates Alaska Senate criminal probe (AP, via WTOP)
+    url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
+    publisher: Associated Press
+    date: '2026-11-03'
     tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
@@ -2017,6 +2076,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-03'
+  date_kind: publication date of the AP report (anonymous sources)
+  heading: 'AP: DOJ sends target letters in the Alaska Senate probe, including to attorney Marc Elias'
+  claims:
+  - u154
+  - u155
+  - u156
+  - u157
+  - u158
+  - u159
+  event_date_claim: u154
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2114,3 +2187,7 @@ Federal authorities "expanded a monthslong criminal probe into allegations that 
 ## Update (2026-10-29, publication date of the report (anonymous sources)): ABC reports a new wave of DOJ subpoenas in a criminal probe of the Alaska Senate race
 
 ABC News reported on October 29, 2026, citing multiple unnamed sources, that the Justice Department has begun issuing a new wave of subpoenas stemming from an ongoing criminal probe of Alaska's U.S. Senate race, targeting Democratic officials believed to be tied to the effort to recruit a candidate with the same name as Sen. Dan Sullivan. According to the sources, prosecutors are probing whether that maneuvering could violate potential federal conspiracy statutes. Alaska's Supreme Court had previously affirmed that the second candidate's candidacy was legal. No subpoena or DOJ statement is public.
+
+## Update (2026-11-03, publication date of the AP report (anonymous sources)): AP: DOJ sends target letters in the Alaska Senate probe, including to attorney Marc Elias
+
+On Election Day the AP reported, citing people familiar with the matter, that the Justice Department issued "a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry." The letter to attorney Marc Elias "is one of multiple such letters that were issued." Elias said in a statement: "No one should be surprised that President Trump’s Department of Justice is targeting me and my law firm on Election Day." The U.S. attorney for Alaska told reporters the investigation "has been ongoing for several months," and one person briefed on the probe said more than 100 subpoenas have been issued.

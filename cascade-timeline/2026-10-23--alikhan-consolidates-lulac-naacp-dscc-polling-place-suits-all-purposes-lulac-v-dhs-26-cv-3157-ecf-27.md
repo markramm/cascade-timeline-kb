@@ -395,6 +395,51 @@ claims:
   id: u33
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: 11/03/26
+  span: Case 1:26-cv-03157-LLA Document 37 Filed 11/03/26 Page 1 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u34
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: does not change the representations that Plaintiffs have provided to the Court
+  span: 'Plaintiffs: This decision does not change the representations that Plaintiffs have provided to the Court during the status conference and in notices to the Court.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u35
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: does not immediately impact the present case
+  span: motion for temporary restraining order does not immediately impact the present case before this
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u36
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: there is no pending motion for emergency relief before the Court
+  span: because there is no pending motion for emergency relief before the Court. Should the Plaintiffs, here, move for emergency relief,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: reserve the right to reassess
+  span: Defendants reserve the right to reassess whether the NAACP v. Blanche decision impacts this case.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - polling-places
@@ -441,6 +486,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.33.1.pdf
   publisher: U.S. District Court for D.C. via RECAP
   date: '2026-11-01'
+  tier: 1
+- title: Joint Status Report, LULAC v. DHS (consolidated), No. 26-cv-3157 (D.D.C.), ECF 37
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
+  publisher: U.S. District Court for the District of Columbia (via RECAP)
+  date: '2026-11-03'
   tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
@@ -527,6 +577,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-03'
+  date_kind: filing date
+  heading: DOJ says Walton's ruling "does not immediately impact the present case"
+  claims:
+  - u34
+  - u35
+  - u36
+  - u37
+  - u38
+  event_date_claim: u34
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -560,3 +623,7 @@ According to the statement quoted in the November 1, 2026 joint status report, p
 ## Update (2026-10-31, email date): The FBI's own account of the D.C. polling place, in the exhibit
 
 An exhibit to the joint status report is a DOJ email relaying the FBI's response, under the subject "Armed Agents at Polls in DC." It says any personnel observed "were part of a roving interagency foot patrol assigned to that neighborhood" under the DC Safe & Beautiful Task Force and were not there "for the purpose of conducting any investigative activity." It says FBI Washington Field Office leadership "did not become aware of the potential presence of armed FBI personnel in the vicinity of an active polling location until the morning of 10/31/2026." It says personnel were told "the only exception to that prohibition is if there is an active shooter at a particular polling location."
+
+## Update (2026-11-03, filing date): DOJ says Walton's ruling "does not immediately impact the present case"
+
+Filed 11/03/26, the joint status report AliKhan ordered: plaintiffs said Walton's decision "does not change the representations that Plaintiffs have provided to the Court." Defendants said it "does not immediately impact the present case" because "there is no pending motion for emergency relief before the Court," and "reserve the right to reassess" if the plaintiffs move for emergency relief.
