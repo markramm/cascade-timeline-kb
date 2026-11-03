@@ -130,6 +130,9 @@ related_events:
 verification: source-verified
 approved_names:
 - Hugh C. Conley Recreation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
+    title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
 ---
 
 On Election Day, Fulton County asked the Georgia Secretary of State's Office for permission to rescan ballots cast at two early voting locations, citing two scanner issues, WSB-TV reported. One scanner was used at the Mechanicsville Library on Oct. 21 and the other at the Hugh C. Conley Recreation Center on Oct. 26. A wheelchair ran over part of the voting machine at the Mechanicsville Library, and the machine at the Conley center displayed a scanning error message. The proposal puts just over 1,000 ballots in need of rescanning: 361 from the library and 708 from the recreation center, out of more than 328,000 ballots cast during advance voting.

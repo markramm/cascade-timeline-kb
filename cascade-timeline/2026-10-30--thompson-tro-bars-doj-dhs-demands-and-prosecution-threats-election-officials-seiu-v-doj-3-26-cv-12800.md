@@ -502,6 +502,8 @@ coverage:
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
+- url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
+  title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
 ---
 
 On October 30, 2026, U.S. District Judge Trina L. Thompson granted a temporary restraining order in Service Employees International Union v. Department of Justice, No. 3:26-cv-12800 (N.D. Cal.). She found defendants "likely violated Section 11(b) of the Voting Rights Act" and wrote that their actions are likely "to have the effect of interfering with election administration and disenfranchising lawful voters."

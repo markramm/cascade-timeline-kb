@@ -416,6 +416,8 @@ coverage:
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
 - url: https://theramm.transparencycascade.org/p/the-justice-department-published
   title: 126 places in all 50 states where DOJ intends to "monitor or observe" today's election.
+- url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
+  title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
 verification: source-verified
 updates:
 - date: '2026-11-01'

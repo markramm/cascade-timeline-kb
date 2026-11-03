@@ -495,6 +495,8 @@ sources:
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
   title: 'Prison, ATF and DEA Staff Will Monitor the Polls, DOJ Says'
+- url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
+  title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
 updates:
 - date: '2026-10-30'
   date_kind: filing date

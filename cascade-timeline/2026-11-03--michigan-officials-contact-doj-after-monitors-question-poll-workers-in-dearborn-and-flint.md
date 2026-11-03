@@ -107,6 +107,9 @@ related_events:
 - 2026-10-16--naacp-sues-blanche-dhillon-doj-vra-11b-apa-challenge-poll-monitoring-program-dcd-26-cv-03626
 - 2026-10-20--doj-civil-rights-division-notifies-jurisdictions-of-nov-3-monitors-indiana-pennsylvania-georgia-maine-no-public-list
 verification: source-verified
+coverage:
+  - url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
+    title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
 ---
 
 Attorneys with the Michigan Attorney General's Office and Department of State contacted the Department of Justice on Tuesday, Nov. 3, after receiving reports that the department's monitors were speaking with poll workers in Dearborn and Flint, The Detroit News reported. According to a Department of State spokesperson quoted by WXYZ, monitors reportedly asked poll workers for copies of their training materials in Dearborn, and in Flint asked poll workers about how they were trained. The Department of State said there were reports of DOJ monitors in two cities "doing things outside of their scope," and that monitors can only be in contact with the precinct captain.
