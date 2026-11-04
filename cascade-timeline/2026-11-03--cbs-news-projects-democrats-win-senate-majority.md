@@ -96,6 +96,9 @@ sources:
   date: '2026-11-03'
   tier: 2
 verification: source-verified
+coverage:
+  - url: https://theramm.transparencycascade.org/p/only-21-of-2177-counties-moved-toward
+    title: Only 21 of 2,177 Counties Moved Toward Republicans. Here Is Where They Are, and Where the Wave Was Biggest
 ---
 
 CBS News reported on November 3, 2026 that "Democrats won control of the Senate in the 2026 elections." "Democrats were projected to flip seats in Texas, North Carolina, South Carolina, Ohio, Kansas and Iowa," CBS wrote. Before the election Republicans held 53 seats and Democrats 47, so Democrats needed four seats for the majority.
