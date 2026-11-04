@@ -440,6 +440,69 @@ claims:
   id: u38
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: 11/2/2026
+  span: Minute Entry for MOTION HEARING held on 11/2/2026 before Judge Loren L. AliKhan
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-11-04'
+- type: posture
+  value: upheld
+  span: The court upheld application of the privilege concerning redactions to two documents responsive to Request for Production No. 4, but the court ordered Defendants to disclose three dates previously redacted from a document responsive to Request for Production No. 3.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: three dates
+  span: ordered Defendants to disclose three dates previously redacted from a document responsive to Request for Production No. 3.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u41
+  outcome: verified
+  checked: '2026-11-04'
+- type: posture
+  value: attorneys-eyes-only
+  span: The court encourages the parties to continue working on an appropriate protective order that would allow attorneys-eyes-only review of additional redacted material.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: verified
+  checked: '2026-11-04'
+- type: attribution
+  value: joint status report
+  span: The parties shall file a joint status report following any ruling in NAACP v. Blanche, 26-CV-3626.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: Request for Production No. 4
+  span: The court upheld application of the privilege concerning redactions to two documents responsive to Request for Production No. 4, but the court ordered Defendants to disclose three dates previously redacted from a document responsive to Request for Production No. 3.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: Request for Production No. 3
+  span: ordered Defendants to disclose three dates previously redacted from a document responsive to Request for Production No. 3.
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - election-capture
 - polling-places
@@ -491,6 +554,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296369/gov.uscourts.dcd.296369.37.0.pdf
   publisher: U.S. District Court for the District of Columbia (via RECAP)
   date: '2026-11-03'
+  tier: 1
+- title: LULAC v. DHS docket, 1:26-cv-03157 (CourtListener)
+  url: https://www.courtlistener.com/docket/74770115/league-of-united-latin-american-citizens-v-us-department-of-homeland-security/?order_by=desc
+  publisher: CourtListener RECAP
+  date: '2026-11-02'
   tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/prison-atf-and-dea-staff-will-monitor
@@ -592,6 +660,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-02'
+  date_kind: hearing date
+  heading: AliKhan upholds the law-enforcement privilege on redactions to two documents and orders three redacted dates disclosed
+  claims:
+  - u39
+  - u40
+  - u41
+  - u42
+  - u43
+  - u44
+  - u45
+  event_date_claim: u39
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On Oct. 23, 2026, Judge Loren L. AliKhan ordered that the NAACP v. DHS and DSCC v. ICE suits "shall be consolidated for all purposes" with LULAC v. DHS; filings go on the LULAC docket and bear each case's number. The order says "The parties all agree that consolidation would be appropriate," and finds the claims turn on "whether Defendants are authorized to deploy law enforcement officers to polling locations."
@@ -629,3 +712,7 @@ An exhibit to the joint status report is a DOJ email relaying the FBI's response
 ## Update (2026-11-03, filing date): DOJ says Walton's ruling "does not immediately impact the present case"
 
 Filed 11/03/26, the joint status report AliKhan ordered: plaintiffs said Walton's decision "does not change the representations that Plaintiffs have provided to the Court." Defendants said it "does not immediately impact the present case" because "there is no pending motion for emergency relief before the Court," and "reserve the right to reassess" if the plaintiffs move for emergency relief.
+
+## Update (2026-11-02, hearing date): AliKhan upholds the law-enforcement privilege on redactions to two documents and orders three redacted dates disclosed
+
+At a motion hearing held on 11/2/2026, Judge AliKhan upheld the application of the privilege to redactions in two documents responsive to Request for Production No. 4, and ordered the defendants to disclose three dates previously redacted from a document responsive to Request for Production No. 3. The minute entry says the court encourages the parties to continue working on a protective order allowing attorneys-eyes-only review of additional redacted material, and directs a joint status report following any ruling in NAACP v. Blanche. The entry records a discovery ruling, not a ruling on the merits.

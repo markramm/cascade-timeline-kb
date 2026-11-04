@@ -38,6 +38,11 @@ sources:
   publisher: U.S. District Court E.D. Va., via CourtListener RECAP
   date: '2026-10-30'
   tier: 1
+- title: Federal Defendants' Motion to Stay the Court's Section 705 Stay Pending Appeal, ECF 167, Illinois v. DOT, E.D. Va. 1:26-cv-2547
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-11-03'
+  tier: 1
 tags:
 - records-capture
 - dhs
@@ -192,6 +197,51 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: November 3, 2026
+  span: 'Dated: November 3, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: '705'
+  span: Letter pursuant to 5 U.S.C. § 705, ECF No. 161 (the “Section 705 Stay”), pending appeal of that
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: ECF No. 160
+  span: its preliminary injunction, ECF No. 160, and that the legal arguments underlying both the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: strong arguments for appeal
+  span: Federal Defendants have strong arguments for appeal—including serious questions as to whether
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: the Court has jurisdiction over the matter to even enter an injunction
+  span: the Court has jurisdiction over the matter to even enter an injunction—and the equities and public
+  url: https://storage.courtlistener.com/recap/gov.uscourts.vaed.603338/gov.uscourts.vaed.603338.167.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-04'
 updates:
 - date: '2026-10-22'
   date_kind: filing date
@@ -221,6 +271,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: cdlis-aamva-injunction
+- date: '2026-11-03'
+  date_kind: filing date
+  heading: Federal defendants ask Judge Trenga to stay his Section 705 stay pending appeal
+  claims:
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-subpoenas
 ---
 
 On October 8, 2026 (filing date) the Federal Defendants noticed an appeal to the Fourth Circuit from the [[2026-09-17--judge-trenga-enjoins-aamva-from-transferring-state-cdlis-records-to-any-federal-agency]] preliminary injunction "and related orders, ECF Nos. 113, 124, 125." The notice is signed for the Justice Department by an Assistant U.S. Attorney with Civil Division Federal Programs Branch trial attorneys.
@@ -234,3 +297,7 @@ The American Association of Motor Vehicle Administrators, itself a defendant in 
 ## Update (2026-10-30, filing date): Judge Trenga denies the federal defendants' stay pending appeal and grants AFT's stay of the Data Demand; the federal defendants appeal the stay order
 
 In orders entered the day before, Judge Trenga denied the Federal Defendants' motion to stay the preliminary injunction pending appeal and granted the American Federation of Teachers' motion for a stay, staying the Agency Defendants' Data Demand to AAMVA pending further order of the Court. Both orders cancelled the hearing set for November 4, 2026. On October 30, 2026 the Federal Defendants noticed an appeal to the Fourth Circuit from the stay order, ECF No. 161.
+
+## Update (2026-11-03, filing date): Federal defendants ask Judge Trenga to stay his Section 705 stay pending appeal
+
+On November 3, 2026, the federal defendants moved the district court to stay its Section 705 stay pending appeal to the Fourth Circuit. The motion acknowledges the court's earlier denial of a stay pending appeal of its preliminary injunction, ECF No. 160, and argues that the government has "strong arguments for appeal," including whether "the Court has jurisdiction over the matter to even enter an injunction."

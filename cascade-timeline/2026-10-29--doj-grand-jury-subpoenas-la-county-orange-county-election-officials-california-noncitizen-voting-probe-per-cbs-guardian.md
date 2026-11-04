@@ -120,6 +120,51 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: November 4, 2026
+  span: November 4, 2026 / 10:55 AM PST
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-04'
+- type: attribution
+  value: Sonoma
+  span: Officials from both Santa Clara and Sonoma counties told CBS News they each received a subpoena issued by a grand jury at the behest of federal prosecutors in the U.S. Attorney's Office in the Northern District of California.
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-04'
+- type: posture
+  value: received on Saturday
+  span: A spokesperson for Sonoma County told CBS News that the subpoena it received on Saturday requests information about an individual whom the DOJ alleges may have voted in prior elections, as well as records concerning how the county has responded to the Justice Department's demands that it segregate ballots cast by people who are suspected of being noncitizens.
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: California's four U.S. attorneys
+  span: Senior leaders at the Justice Department in Washington, D.C., ordered California's four U.S. attorneys to issue the flurry of recent subpoenas to county officials or else they could face termination, two sources briefed on the matter told CBS News.
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: two sources
+  span: Senior leaders at the Justice Department in Washington, D.C., ordered California's four U.S. attorneys to issue the flurry of recent subpoenas to county officials or else they could face termination, two sources briefed on the matter told CBS News.
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - election-capture
 - grand-jury
@@ -149,8 +194,31 @@ sources:
   publisher: The Guardian
   date: '2026-10-29'
   tier: 2
+- title: Northern California counties hit with subpoenas over alleged noncitizen voting ahead of midterm elections
+  url: https://www.cbsnews.com/sacramento/news/doj-northern-california-counties-subpoenas-alleged-noncitizen-voting/
+  publisher: CBS News
+  date: '2026-11-04'
+  tier: 2
+updates:
+- date: '2026-11-04'
+  date_kind: publication date
+  heading: Two more Northern California counties report fresh grand jury subpoenas
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: fulton-records-ladder
 ---
 
 CBS News reported on Oct. 29 that the Justice Department has issued grand jury subpoenas to state and local officials in California, according to sources with direct knowledge and copies CBS saw. The subpoenas were sent between Oct. 21 and Oct. 24. Three of the subpoenas CBS saw were directed to officials at the Los Angeles Registrar-Recorder/County Clerk's office and ask for documents concerning the county's correspondence with Homeland Security Secretary Markwayne Mullin and acting Deputy Attorney General Trent McCotter in connection with discussions about non-citizen voting, and for records about the agency's methods for "screening for unlawful voting by aliens." The Guardian reported that the Orange county registrar of voters confirmed it received a subpoena this week, in addition to three in September, and that the federal grand jury subpoenas seek "unredacted voter registration information" for 77 possible registrants, the office said.
 
 A Justice Department spokesperson said the agency does not comment on leaks about grand jury subpoenas, but added that "all agree that noncitizen voting is properly addressed through criminal law." The subpoenas themselves are not in the record we located; the date of this entry is the day CBS and the Guardian published. Related: [[2026-09-16--doj-sends-five-grand-jury-subpoenas-san-diego-county-registrar-voter-records]], [[2026-10-20--california-says-secretary-of-state-received-federal-grand-jury-subpoenas-for-voter-records-of-about-300-individuals-since-august]], [[2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149]].
+
+## Update (2026-11-04, publication date): Two more Northern California counties report fresh grand jury subpoenas
+
+CBS News reported on November 4, 2026 that Sonoma County and a second Northern California county each received a grand jury subpoena issued at the behest of federal prosecutors in the Northern District of California. A Sonoma County spokesperson said its subpoena, received on Saturday, requests information about an individual the Justice Department alleges may have voted in prior elections, along with records on how the county responded to the department's demands that it segregate ballots. According to two sources, senior Justice Department leaders in Washington ordered California's four U.S. attorneys to issue the subpoenas to county officials or else face termination.
