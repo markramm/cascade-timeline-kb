@@ -198,6 +198,26 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- id: c22
+  type: date
+  qualifier: Filed
+  value: 05/07/26
+  span: 'Case: 1:25-cr-00693 Document #: 155 Filed: 05/07/26 Page 1 of 2 PageID #:943'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.155.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-04'
+- id: c23
+  type: quote
+  qualifier: Thursday
+  value: on Thursday officially dismissed the main conspiracy charge
+  span: a federal judge on Thursday officially dismissed the main conspiracy charge against the remaining “Broadview Six” immigration protesters indicted last fall
+  url: https://www.nprillinois.org/illinois/2026-05-08/conspiracy-charge-dismissed-for-broadview-6-as-other-ice-protesters-sue-over-post-arrest-dna-collection
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-04'
 - type: date
   value: October 30
   span: Proceeding on a non-adversarial basis, the Court has requested that the United States produce documents and answer questions by October 30 to aid it in “making findings of fact regarding potential sanctions or criminal contempt.”
@@ -407,7 +427,7 @@ On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northe
 - October 23, 2025 (indictment return date): the lead count charged six defendants with conspiring under 18 U.S.C. § 372; Counts Two through Seven each charged one defendant with a misdemeanor under 18 U.S.C. § 111(a)(1). See [[2025-10-29--kat-abughazaleh-indicted-ice-protest]] for the unsealing and the original coverage.
 - March 13, 2026 (order date): on the government's motion filed the day before, Catherine Sharp and Joselyn Walsh were dismissed with prejudice. The motion gave no reason beyond "in the interests of justice."
 - April 29, 2026 (filing date): the government filed a superseding information charging the remaining four defendants (Rabbitt, Abughazaleh, Martin, Straw) with misdemeanor violations of § 111(a)(1) only, leaving the original indictment pending on paper.
-- May 8, 2026 (clerk's entry date of the minute order): after the four defendants moved to dismiss the conspiracy count, the government filed its own written motion to dismiss it with prejudice, stating it did so to "alleviate defendants' stated concerns." At the hearing on that motion Count One was dismissed with prejudice. The docket text dates the hearing the day before the entry date; the originally issued notification reads as though it were held on the entry date.
+- 05/07/26, a Thursday (hearing date and docket entry date of the minute order): after the four defendants moved to dismiss the conspiracy count, the government filed its own written motion to dismiss it with prejudice, stating it did so to "alleviate defendants' stated concerns." At the hearing on that motion Count One was dismissed with prejudice. The docket listing dates the entry and the hearing 05/07/26, and the notification PDF is headed filed 05/07/26, but the text of that notification says the clerk made the entry on Friday, May 8 and that the hearing was held 5/8. News coverage published May 8 puts the dismissal on Thursday. An earlier version of this entry gave May 8 as the date.
 - Between that hearing and the end, the original indictment itself was dismissed at the pretrial conference (Count One with prejudice, the remaining counts without prejudice) and the case proceeded to trial on the superseding information.
 - 5/21/2026 (minute-entry date): the superseding information was dismissed with prejudice on the government's oral motion, the same day the court granted the defendants' motion for disclosure of the prosecutors' colloquies with the grand jury.
 

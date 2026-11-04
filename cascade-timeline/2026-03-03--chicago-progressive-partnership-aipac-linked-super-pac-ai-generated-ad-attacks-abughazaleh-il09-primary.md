@@ -5,6 +5,7 @@ date: '2026-03-03'
 title: "Chicago Progressive Partnership — Newly-Organized Super-PAC With Tom-King-Communications Sole-AIPAC-Disclosed-Vendor Ties — Drops $165K+ AI-Generated Digital Attack Ad on Kat Abughazaleh in IL-09 Democratic Primary, Pre-Buy FEC Disclosures Zero"
 importance: 8
 status: confirmed
+date_is_publication_date: true
 tags:
   - dark-money
   - super-pac
@@ -37,7 +38,9 @@ sources:
     tier: 2
 ---
 
-On March 3, 2026, an opaque super-PAC named **Chicago Progressive Partnership (CPP)** — organized in January 2026 with **zero disclosed spending to the Federal Election Commission before this ad buy** — released a digital attack advertisement targeting Kat Abughazaleh, a progressive content creator and Democratic congressional candidate in IL-09 (the Evanston-area district). Primary date: March 17, 2026.
+On Monday, March 2, 2026, an opaque super-PAC named **Chicago Progressive Partnership (CPP)** — organized in January 2026 with **zero disclosed spending to the Federal Election Commission before this ad buy** — released a digital attack advertisement targeting Kat Abughazaleh, a progressive content creator and Democratic congressional candidate in IL-09 (the Evanston-area district). Primary date: March 17, 2026.
+
+*Date note (2026-11-04 correction):* this entry's filename and `date` carry March 3, the day The Daily Northwestern published its story. The story says the ad "hit social media airwaves Monday," which is March 2, 2026, and that Abughazaleh responded in a video posted to YouTube "Monday night." An earlier version of this entry gave March 3 as the day the ad was released. The filename is unchanged so existing links resolve.
 
 ## The Vendor Trail (the AIPAC link)
 
