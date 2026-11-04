@@ -747,6 +747,8 @@ coverage:
   title: 126 places in all 50 states where DOJ intends to "monitor or observe" today's election.
 - url: https://theramm.transparencycascade.org/p/dojs-monitors-made-it-to-the-polls
   title: "DOJ's Monitors Made It to the Polls on Promises to a Judge. Here Is How Election Day Tested Them."
+- url: https://theramm.transparencycascade.org/p/only-21-of-2177-counties-moved-toward
+  title: 'Only 21 of 2,177 Counties Moved Toward Republicans. Here Is Where They Are, and Where the Wave Was Biggest'
 updates:
 - date: '2026-10-29'
   date_kind: publication date of the local reports
