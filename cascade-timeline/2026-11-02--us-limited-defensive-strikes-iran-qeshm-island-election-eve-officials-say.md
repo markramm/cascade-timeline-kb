@@ -3,7 +3,7 @@ type: timeline_event
 id: 2026-11-02--us-limited-defensive-strikes-iran-qeshm-island-election-eve-officials-say
 date: '2026-11-02'
 date_kind: date of the strikes, as reported (Monday, Nov. 2, US time)
-title: 'US Officials Say Military Carried Out Limited Strikes on Iran''s Qeshm Island the Day Before the Midterms'
+title: US Officials Say Military Carried Out Limited Strikes on Iran's Qeshm Island the Day Before the Midterms
 importance: 8
 status: confirmed
 event_date_claim: c1
@@ -20,16 +20,16 @@ claims:
 - id: c2
   type: quote
   value: limited, defensive strikes
-  qualifier: three U.S. officials
-  span: The U.S. military launched limited, defensive strikes on Iranian targets in the Strait of Hormuz on Monday, three U.S. officials told CBS News.
+  qualifier: multiple U.S. officials
+  span: The U.S. military launched limited, defensive strikes on Iranian targets in the Strait of Hormuz on Monday, multiple U.S. officials told CBS News.
   url: https://www.cbsnews.com/news/u-s-strikes-iran-targets/
   read: fetched
   source_kind: secondary
 - id: c3
   type: quote
-  value: targeted Iran's Qeshm Island after Iran's Islamic Revolutionary Guard Corps fired at an American aircraft
-  qualifier: senior U.S. official
-  span: A senior U.S. official said the strikes targeted Iran's Qeshm Island after Iran's Islamic Revolutionary Guard Corps fired at an American aircraft.
+  value: Iran's Revolutionary Guards fired at an American fighter jet, leading it to return fire
+  qualifier: two U.S. military officials
+  span: Iran's Revolutionary Guards fired at an American fighter jet, leading it to return fire, according to two U.S. military officials.
   url: https://www.cbsnews.com/news/u-s-strikes-iran-targets/
   read: fetched
   source_kind: secondary
@@ -75,10 +75,10 @@ claims:
   source_kind: secondary
 - id: c9
   type: quote
-  value: as soon as it was completed, we hit it last night very nicely
-  qualifier: Trump
-  span: US President Donald Trump says US watching Iranian anti-aircraft facility last two months, "as soon as it was completed, we hit it last night very nicely".
-  url: https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court
+  value: As soon as it was completed, we hit it last night
+  qualifier: he said
+  span: '"They built an anti-aircraft facility. It took them about two months. We watched it get built. As soon as it was completed, we hit it last night," he said.'
+  url: https://www.yahoo.com/news/us/articles/iran-says-us-reply-hormuz-043931688.html
   read: fetched
   source_kind: secondary
 - id: c10
@@ -91,10 +91,10 @@ claims:
   source_kind: secondary
 - id: c11
   type: quote
-  value: three tankers explode after hitting naval mines
-  qualifier: says
-  span: Iran's Islamic Revolutionary Guard Corps (IRGC) says three tankers explode after hitting naval mines while transiting through Strait of Hormuz without permission.
-  url: https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court
+  value: four oil tankers caught fire after hitting naval sea mines
+  qualifier: IRGC said
+  span: Also on Wednesday, Iran's Islamic Revolutionary Guard Corps (IRGC) said four oil tankers caught fire after hitting naval sea mines in the Strait of Hormuz.
+  url: https://www.yahoo.com/news/world/articles/four-tankers-destroyed-naval-mines-071713767.html
   read: fetched
   source_kind: secondary
 - id: c12
@@ -103,6 +103,46 @@ claims:
   qualifier: a U.S. official
   span: The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a U.S. official said Monday, on the eve of crucial midterm elections.
   url: https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap
+  read: fetched
+  source_kind: secondary
+- id: c13
+  type: quote
+  value: The strikes targeted Iran's Qeshm Island
+  qualifier: a senior U.S. official
+  span: The strikes targeted Iran's Qeshm Island, a senior U.S. official said.
+  url: https://www.cbsnews.com/news/u-s-strikes-iran-targets/
+  read: fetched
+  source_kind: secondary
+- id: c14
+  type: quote
+  value: minor attack
+  qualifier: He described
+  span: He described the operation as a "minor attack" and said it "wasn't war".
+  url: https://www.yahoo.com/news/us/articles/iran-says-us-reply-hormuz-043931688.html
+  read: fetched
+  source_kind: secondary
+- id: c15
+  type: quote
+  value: The BBC has not independently verified the IRGC's claims
+  qualifier: BBC
+  span: The BBC has not independently verified the IRGC's claims.
+  url: https://www.yahoo.com/news/world/articles/four-tankers-destroyed-naval-mines-071713767.html
+  read: fetched
+  source_kind: secondary
+- id: c16
+  type: quote
+  value: a tanker was struck by two unknown projectiles
+  qualifier: UKMTO
+  span: The UK Maritime Trade Operations (UKMTO) centre said a tanker was struck by two unknown projectiles about 14 nautical miles (26km) north-east of Limah, in Oman's Musandam peninsula, on Tuesday evening.
+  url: https://www.yahoo.com/news/world/articles/four-tankers-destroyed-naval-mines-071713767.html
+  read: fetched
+  source_kind: secondary
+- id: c17
+  type: quote
+  value: Central Command had prepared plans for strikes that could begin as early as Wednesday
+  qualifier: US media, citing US officials
+  span: The strikes came as US media, citing US officials, reported that Central Command had prepared plans for strikes that could begin as early as Wednesday, after the midterm elections, when three American aircraft carriers would be in the region.
+  url: https://www.yahoo.com/news/us/articles/iran-says-us-reply-hormuz-043931688.html
   read: fetched
   source_kind: secondary
 sources:
@@ -121,10 +161,15 @@ sources:
   publisher: Associated Press via PBS NewsHour
   date: '2026-11-02'
   tier: 2
-- title: 'Iran war live: Trump says last night''s strikes ''minor'' not ''full-scale war'''
-  url: https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court
-  publisher: Al Jazeera
-  date: '2026-11-03'
+- title: Iran says US reply to Hormuz plan 'unconvincing'; Trump confirms strikes
+  url: https://www.yahoo.com/news/us/articles/iran-says-us-reply-hormuz-043931688.html
+  publisher: Al Jazeera Staff, Anadolu and Reuters via Yahoo News
+  date: '2026-11-04'
+  tier: 2
+- title: Iran's chief negotiator says Americans voted 'no to war'
+  url: https://www.yahoo.com/news/world/articles/four-tankers-destroyed-naval-mines-071713767.html
+  publisher: BBC via Yahoo News
+  date: '2026-11-04'
   tier: 2
 captured_by: cascade-research
 tags:
@@ -133,17 +178,20 @@ tags:
 - war-powers
 - election-eve
 lane: War Powers
-summary: Unnamed US officials told CBS, NBC and AP the Monday strikes on Qeshm Island were limited and defensive.
-date_is_publication_date: false
-verification: source-verified
 approved_names:
 - Al Jazeera
+corrections:
+- date: '2026-11-04'
+  note: 'Re-gated after CBS revised its article ("multiple U.S. officials", formerly three) and the Al Jazeera live blog was replaced; spans rebound to current pages; tanker paragraph updated to BBC/UKMTO.'
+summary: Unnamed US officials told CBS, NBC and AP the Monday strikes on Qeshm Island were limited and defensive; Trump called it a minor attack.
+date_is_publication_date: false
+verification: source-verified
 ---
 
-Three U.S. officials told CBS News that the U.S. military launched "limited, defensive strikes" on Iranian targets in the Strait of Hormuz on Monday. A senior official said the strikes targeted Qeshm Island after the IRGC fired at an American aircraft. Officials told NBC News the attacks were "not a resumption of major combat operations"; one official said Iran tried to target a U.S. aircraft again, "leading to the U.S. strike on Qeshm to take out the launcher." Those characterizations are the officials' own. All are unnamed, and no on-record government statement is in the sources read.
+Multiple U.S. officials told CBS News that the U.S. military launched "limited, defensive strikes" on Iranian targets in the Strait of Hormuz on Monday. A senior official said the strikes targeted Qeshm Island, and two U.S. military officials said Iran's Revolutionary Guards had fired at an American fighter jet, leading it to return fire. Officials told NBC News the attacks were "not a resumption of major combat operations"; one official said Iran tried to target a U.S. aircraft again, "leading to the U.S. strike on Qeshm to take out the launcher." Those characterizations are the officials' own. All are unnamed, and no on-record government statement is in the sources read.
 
 The strikes came the day before the midterm elections. NBC and AP both note that Trump had said the U.S. would not launch strikes on Iran before the midterms. Iranian state media reported five explosions on Qeshm Island.
 
-Trump, per CBS, told Fox News' Hannity that further sites could be handled in "an hour," calling it "not a big deal." Al Jazeera quotes him saying of an anti-aircraft facility that "as soon as it was completed, we hit it last night very nicely."
+Trump, per CBS, told Fox News' Hannity that further sites could be handled in "an hour," calling it "not a big deal." Al Jazeera quotes him on Fox saying of an anti-aircraft facility, "As soon as it was completed, we hit it last night," and describes him calling the operation a "minor attack." Al Jazeera also reports that US media, citing US officials, said Central Command had prepared plans for strikes that could begin as early as Wednesday.
 
-Iran's deputy foreign minister Gharibabadi said Tehran retained "the right to legitimate self-defense." Al Jazeera reports the IRGC said three tankers exploded after hitting naval mines in the Strait of Hormuz; that is an IRGC claim, and the page read does not confirm it or link it to the strikes.
+Iran's deputy foreign minister Gharibabadi said Tehran retained "the right to legitimate self-defense." On Wednesday the IRGC said four oil tankers caught fire after hitting naval sea mines in the Strait of Hormuz; the BBC had not independently verified that. UKMTO separately reported a tanker struck by "two unknown projectiles" off Oman's Musandam peninsula on Tuesday evening.
