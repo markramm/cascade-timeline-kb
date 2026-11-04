@@ -1548,6 +1548,55 @@ claims:
   id: u159
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: November 3, 2026
+  span: November 3, 2026, 10:49 am
+  url: https://electionlawblog.org/2026/justice-department-sending-target-letters-in-alaska-criminal-probe-including-to-dscc-and-democratic-lawyer-marc-elias-meanwhile-civil-case-against-certification-has-stalled/
+  read: fetched
+  source_kind: secondary
+  id: u160
+  outcome: verified
+  checked: '2026-11-04'
+- type: figure
+  value: about 20 Democrats
+  span: The Justice Department is intensifying its investigation into the recruitment of an opponent with the same name as a Republican senator in Alaska, sending letters to about 20 Democrats informing them they might be targets, two people with knowledge of the move said.
+  url: https://electionlawblog.org/2026/justice-department-sending-target-letters-in-alaska-criminal-probe-including-to-dscc-and-democratic-lawyer-marc-elias-meanwhile-civil-case-against-certification-has-stalled/
+  read: fetched
+  source_kind: secondary
+  qualifier: letters
+  id: u161
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: at least one official at the Democratic Senatorial Campaign Committee
+  span: The intended recipients of the letters include Marc Elias, a prominent elections lawyer whose firm has represented Ms. Peltola and other Democratic candidates, and at least one official at the Democratic Senatorial Campaign Committee, one of those people said.
+  url: https://electionlawblog.org/2026/justice-department-sending-target-letters-in-alaska-criminal-probe-including-to-dscc-and-democratic-lawyer-marc-elias-meanwhile-civil-case-against-certification-has-stalled/
+  read: fetched
+  source_kind: secondary
+  qualifier: official
+  id: u162
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: declined to discuss the target letters
+  span: Blanche declined to discuss the target letters, saying he was not going to " confirm anything that has to do with an ongoing investigation."
+  url: https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means
+  read: fetched
+  source_kind: secondary
+  qualifier: declined
+  id: u163
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: have also repeatedly denied that they were involved in any campaign trick
+  span: Democrats, including the Democratic Senatorial Campaign Committee, have also repeatedly denied that they were involved in any campaign trick. Dan J. Sullivan has long denied he was running at Democrats' behest.
+  url: https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means
+  read: fetched
+  source_kind: secondary
+  qualifier: denied
+  id: u164
+  outcome: verified
+  checked: '2026-11-04'
 tags:
   - election-2026
   - certification
@@ -1737,6 +1786,16 @@ sources:
   - title: Justice Department identifies potential targets as it escalates Alaska Senate criminal probe (AP, via WTOP)
     url: https://wtop.com/us-politics/2026/11/justice-department-identifies-potential-targets-as-it-escalates-alaska-senate-criminal-probe/
     publisher: Associated Press
+    date: '2026-11-03'
+    tier: 2
+  - title: Election Law Blog, Justice Department Sending Target Letters in Alaska Criminal Probe (quoting the New York Times)
+    url: https://electionlawblog.org/2026/justice-department-sending-target-letters-in-alaska-criminal-probe-including-to-dscc-and-democratic-lawyer-marc-elias-meanwhile-civil-case-against-certification-has-stalled/
+    publisher: Election Law Blog
+    date: '2026-11-03'
+    tier: 3
+  - title: AP via PBS News, Justice Department sent target letters in Alaska Senate criminal probe
+    url: https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means
+    publisher: PBS News / Associated Press
     date: '2026-11-03'
     tier: 2
 coverage:
@@ -2090,6 +2149,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-03'
+  date_kind: publication date of the blog post quoting the New York Times (anonymous sources)
+  heading: 'Target-letter count and recipients: the New York Times says about 20 Democrats, including a DSCC official; Blanche declines to discuss'
+  claims:
+  - u160
+  - u161
+  - u162
+  - u163
+  - u164
+  event_date_claim: u160
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2191,3 +2263,7 @@ ABC News reported on October 29, 2026, citing multiple unnamed sources, that the
 ## Update (2026-11-03, publication date of the AP report (anonymous sources)): AP: DOJ sends target letters in the Alaska Senate probe, including to attorney Marc Elias
 
 On Election Day the AP reported, citing people familiar with the matter, that the Justice Department issued "a letter to a prominent Democratic attorney in Washington and others that they may be targets of the criminal inquiry." The letter to attorney Marc Elias "is one of multiple such letters that were issued." Elias said in a statement: "No one should be surprised that President Trump’s Department of Justice is targeting me and my law firm on Election Day." The AP also reported that the U.S. attorney for Alaska had told reporters the investigation "has been ongoing for several months," and one person briefed on the probe said more than 100 subpoenas have been issued.
+
+## Update (2026-11-03, publication date of the blog post quoting the New York Times (anonymous sources)): Target-letter count and recipients: the New York Times says about 20 Democrats, including a DSCC official; Blanche declines to discuss
+
+Election Law Blog, quoting the New York Times on November 3, 2026, reported that the Justice Department is sending letters to "about 20 Democrats" informing them they might be targets, citing people with knowledge of the move. The intended recipients include attorney Marc Elias and "at least one official at the Democratic Senatorial Campaign Committee", one of those people said. The AP reported that Blanche "declined to discuss the target letters," and that Democrats, including the DSCC, "have also repeatedly denied that they were involved in any campaign trick."

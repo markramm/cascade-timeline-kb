@@ -382,6 +382,74 @@ claims:
   id: u28
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: 11/03/2026
+  span: 'Case: 26-7303, 11/03/2026, DktEntry: 32.1, (1 of 37)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u29
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: The district court is likely wrong on both counts.
+  span: The district court is likely wrong on both counts.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u30
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: expressing its views about criminal statutes
+  span: Department of Justice from expressing its views about criminal statutes, even if the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: expressing
+  id: u31
+  outcome: verified
+  checked: '2026-11-04'
+- type: attribution
+  value: MURGUIA, Chief Judge, joined by GOULD, OWENS, H.A. THOMAS
+  span: MURGUIA, Chief Judge, joined by GOULD, OWENS, H.A. THOMAS, and
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: joined
+  id: u32
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: two conflicting opinions of our court
+  span: 'complying with two conflicting opinions of our court: follow our decision in'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: conflicting
+  id: u33
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: literal eve of Election Day, our court issued three conflicting orders
+  span: literal eve of Election Day, our court issued three conflicting orders. First, a three-
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: literal
+  id: u34
+  outcome: verified
+  checked: '2026-11-04'
+- type: posture
+  value: denied
+  span: not vote in favor of full court rehearing en banc. Accordingly, the petition for full court rehearing en banc is denied. En banc proceedings with respect to the en banc
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.39.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: rehearing
+  id: u35
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - election-capture
 - midterms-2026
@@ -429,6 +497,16 @@ sources:
   tier: 1
 - title: Ninth Circuit en banc order reinstating panel stay, SEIU v. DOJ, No. 26-7303 (N.D. Cal. ECF 67)
   url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.67.0.pdf
+  publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+  date: '2026-11-03'
+  tier: 1
+- title: Ninth Circuit No. 26-7303, en banc order reinstating Nov. 2 panel order, with concurrence and dissents (DktEntry 32)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.32.0.pdf
+  publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+  date: '2026-11-03'
+  tier: 1
+- title: Ninth Circuit No. 26-7303, order denying full-court rehearing (DktEntry 39)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.39.0.pdf
   publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
   date: '2026-11-03'
   tier: 1
@@ -497,6 +575,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: seiu-v-doj
+- date: '2026-11-03'
+  date_kind: order date (filed)
+  heading: 'The Ninth Circuit''s own copy of the Election Day order: the panel''s view, a concurrence and two dissents'
+  claims:
+  - u29
+  - u30
+  - u31
+  - u32
+  - u33
+  - u34
+  - u35
+  event_date_claim: u29
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: seiu-v-doj
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -527,3 +620,7 @@ Judge Trina Thompson's order, entered after a hearing on November 2, 2026, says 
 ## Update (2026-11-03, order date (filed)): On Election Day the full Ninth Circuit reinstates the stay of the restraining order
 
 The en banc Ninth Circuit put back the stay of Judge Thompson's restraining order on 11/03/26. "A majority of the en banc court has voted to reinstate the three-judge panel’s" order, which stays in place "Pending further order of the court." The panel had granted DOJ's motion for "a stay pending appeal" of the restraining order; the en banc court had set that order aside the day before, and the order now says it was "previously vacated, is reinstated." Dissenting, Judge Desai wrote that the court acted "after the polls open on Election Day."
+
+## Update (2026-11-03, order date (filed)): The Ninth Circuit's own copy of the Election Day order: the panel's view, a concurrence and two dissents
+
+The Ninth Circuit's own copy of the order attaches the panel order and the separate opinions. The panel order says "The district court is likely wrong on both counts." Judge Miller, concurring, wrote that a district court does not generally have authority to enter an injunction prohibiting the Department of Justice from "expressing its views about criminal statutes." Chief Judge Murguia, joined by Judges Gould, Owens, H.A. Thomas and Desai, wrote that election officials face "two conflicting opinions of our court." Judge Desai wrote that on the "literal eve of Election Day, our court issued three conflicting orders." The full court later denied a petition for rehearing of the en banc panel's order.
