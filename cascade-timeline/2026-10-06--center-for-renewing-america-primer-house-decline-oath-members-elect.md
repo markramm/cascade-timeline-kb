@@ -14,6 +14,11 @@ tags:
 - article-vi-oath
 - center-for-renewing-america
 - jan-3-2027
+approved_names:
+- Russell Vought
+- Russ Vought
+- Benjamin Osborne
+approved_by: Mark 2026-11-04
 actors:
 - Center for Renewing America
 - Benjamin Osborne
@@ -111,7 +116,46 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-23'
+- type: date
+  value: October 6, 2026
+  span: by Benjamin Osborne October 6, 2026
+  url: https://americarenewing.com/issues/can-congress-seat-a-member-elect-who-vows-to-destroy-our-constitution/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: what the Center for Renewing America (CRA) calls the Red-Green Alliance
+  span: Its rise has also coincided with the emergence of what the Center for Renewing America (CRA) calls the Red-Green Alliance, the growing political coalition between neo-Marxist progressives and anti-Western Muslims, each separately committed as ideologies to the demise of the American constitutional system.
+  url: https://americarenewing.com/issues/can-congress-seat-a-member-elect-who-vows-to-destroy-our-constitution/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: CRA welcomes that litigation.
+  span: 'CRA welcomes that litigation. Excluding members for failing to satisfy the Article VI oath is the right vehicle to place the unresolved constitutional question squarely before the courts: whether Congress may enforce the Article VI oath requirement as a constitutional qualification for becoming a member of Congress.'
+  url: https://americarenewing.com/issues/can-congress-seat-a-member-elect-who-vows-to-destroy-our-constitution/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-04'
 event_date_claim: c1
+updates:
+- date: '2026-10-06'
+  date_kind: publication date
+  heading: 'Further wording in the primer: "CRA welcomes that litigation."'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: election-capture
 ---
 
 Published October 6, 2026 by the Center for Renewing America, which its About page says was "launched in 2021 by Russ Vought". The document, by Benjamin Osborne, says: "This primer addresses that question."
@@ -121,3 +165,7 @@ The remedy it proposes: the House should "decline to administer the oath" to a m
 The procedure: "Raise the Article VI objection when the oath is called." The new House first elects its Speaker. The record, it says, should be complete before the new Congress convenes on January 3, 2027.
 
 Whom it names: "DSA and other Communist, Marxist, Muslim, or other anticonstitutional movements." It also says Congress "cannot exclude someone because he or she is Muslim."
+
+## Update (2026-10-06, publication date): Further wording in the primer: "CRA welcomes that litigation."
+
+The primer says its author is describing "what the Center for Renewing America (CRA) calls the Red-Green Alliance". It also says: "CRA welcomes that litigation."
