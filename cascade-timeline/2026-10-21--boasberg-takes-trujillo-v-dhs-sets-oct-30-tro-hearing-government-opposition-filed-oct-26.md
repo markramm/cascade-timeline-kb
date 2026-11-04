@@ -570,6 +570,60 @@ claims:
   id: u58
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: 11/01/2026
+  span: 'MOTION to Strike 43 Supplemental Memorandum and Show Cause Why Plaintiffs Did Not Violate the Court''s Order by TODD W. BLANCHE, MARKWAYNE MULLIN, U.S. DEPARTMENT OF HOMELAND SECURITY. (Attachments: # 1 Proposed Order)(Trejo, Ty). Added MOTION for Order to Show Cause on 11/2/2026 (znmw). (Entered: 11/01/2026)'
+  url: https://www.courtlistener.com/docket/74737644/coalition-for-humane-immigrant-rights-v-united-states-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u59
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: the subject of widespread and
+  span: because their experts’ irrelevant analysis and assertions have been the subject of widespread and
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u60
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: should impose civil sanctions for this violation of the Court’s Minute Order—for example,
+  span: should impose civil sanctions for this violation of the Court’s Minute Order—for example,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296136/gov.uscourts.dcd.296136.45.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u61
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: Plaintiffs' counsel and their experts fully complied with the Court's orders.
+  span: 'Alberto Lammers, a spokesman for the University of California, Los Angeles'' Voting Rights Project, which filed the case and did the data analysis for the immigrant rights group, said in an emailed statement: "Plaintiffs'' counsel and their experts fully complied with the Court''s orders."'
+  url: https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims
+  read: fetched
+  source_kind: secondary
+  id: u62
+  outcome: verified
+  checked: '2026-11-04'
+- type: date
+  value: November 3, 2026
+  span: No violation of the Court's Order occurred here. So ORDERED by Chief Judge James E. Bosberg on November 3, 2026. (lcjeb3)
+  url: https://www.courtlistener.com/docket/74737644/coalition-for-humane-immigrant-rights-v-united-states-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u63
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: No violation of the Court's Order occurred here.
+  span: No violation of the Court's Order occurred here. So ORDERED by Chief Judge James E. Bosberg on November 3, 2026. (lcjeb3)
+  url: https://www.courtlistener.com/docket/74737644/coalition-for-humane-immigrant-rights-v-united-states-department-of-homeland-security/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u64
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - election-capture
 - dhs
@@ -637,6 +691,16 @@ sources:
   publisher: U.S. District Court, D.D.C., via CourtListener
   date: '2026-11-03'
   tier: 1
+- title: CHIRLA v. DHS docket, 1:26-cv-03072-JEB
+  url: https://www.courtlistener.com/docket/74737644/coalition-for-humane-immigrant-rights-v-united-states-department-of-homeland-security/?order_by=desc
+  publisher: CourtListener
+  date: '2026-11-03'
+  tier: 1
+- title: Justice Department urges sanctions for database analysis critical of its noncitizen voting claims
+  url: https://www.pbs.org/newshour/politics/justice-department-urges-sanctions-for-database-analysis-critical-of-its-noncitizen-voting-claims
+  publisher: AP via PBS NewsHour
+  date: '2026-11-01'
+  tier: 2
 related_events:
 - 2026-10-19--sooknanan-grants-dhs-motion-to-reassign-trujillo-not-related-to-lwv-v-dhs-25-cv-3501
 - 2026-10-16--sooknanan-rejects-lwv-v-dhs-voter-data-suit-as-related-to-trujillo-reassigned-to-chutkan
@@ -782,6 +846,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-03'
+  date_kind: order date
+  heading: Boasberg denies DOJ's motion to strike and show cause over the plaintiffs' use of the California voter list
+  claims:
+  - u59
+  - u60
+  - u61
+  - u62
+  - u63
+  - u64
+  event_date_claim: u63
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: trujillo-chirla-v-dhs
 coverage:
   - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
     title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -836,3 +914,7 @@ Chief Judge James Boasberg granted CHIRLA's motion in part. Defendants are "prel
 ## Update (2026-11-03, order date (minute order)): Boasberg denies DOJ's motion to strike and for a show-cause order: no violation
 
 On November 3, 2026, Chief Judge Boasberg ruled by minute order that the government's motion to strike and show cause is DENIED. He wrote that his order contemplated public filings with personally identifying information redacted, that "Plaintiffs permissibly used the data from the lists to successfully make their standing arguments," and that "No violation of the Court's Order occurred here."
+
+## Update (2026-11-03, order date): Boasberg denies DOJ's motion to strike and show cause over the plaintiffs' use of the California voter list
+
+The government's motion to strike and for an order to show cause was entered on the docket on 11/01/2026. It argued that the plaintiffs' experts' analysis had been "the subject of widespread and" misleading media coverage, and asked that the court "should impose civil sanctions for this violation of the Court's Minute Order—for example," dismissing the complaint. A spokesman for UCLA's Voting Rights Project said: "Plaintiffs' counsel and their experts fully complied with the Court's orders." Chief Judge Boasberg denied the motion by minute order on November 3, 2026, writing: "No violation of the Court's Order occurred here."

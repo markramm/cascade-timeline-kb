@@ -98,6 +98,24 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: 10/30/2026
+  span: 'Case: 26-60806 Document: 65 Page: 1 Date Filed: 10/30/2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca5.232419/gov.uscourts.ca5.232419.65.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: stipulate to dismiss this appeal
+  span: their undersigned counsel, stipulate to dismiss this appeal, with each party to bear
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca5.232419/gov.uscourts.ca5.232419.65.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - data-centers
 - xai
@@ -115,8 +133,28 @@ sources:
   publisher: U.S. District Court, N.D. Miss. (via RECAP)
   date: '2026-10-30'
   tier: 1
+- title: Stipulated Dismissal Pursuant to FRAP 42, No. 26-60806 (5th Cir.), Doc. 65
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca5.232419/gov.uscourts.ca5.232419.65.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-10-30'
+  tier: 1
 captured_by: capture-watch
 cluster: platform-power-2026
+updates:
+- date: '2026-10-30'
+  date_kind: filing date
+  heading: United States and NAACP stipulate to dismiss the Fifth Circuit appeal
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: platform-power-2026
 ---
 
 On 10/30/26, U.S. District Judge Debra M. Brown denied the motion to dismiss filed by X.AI Corp. and MZX Tech LLC in the NAACP's Clean Air Act suit over the Colossus Gas Plant in Southaven, DeSoto County, Mississippi. The defendants had moved to dismiss on June 15, 2026, arguing the plant is exempted from permitting requirements under the mobile source exception in Mississippi's State Implementation Plan and that the citizen suit provision is unconstitutional. The opinion holds that the combustion turbines are not "mobile sources," that the citizen suit provision "does not violate Article II of the Constitution," and that "the plaintiffs' claims will not be dismissed" on that ground. The complaint seeks a civil penalty of up to $124,426 per day per violation.
+
+## Update (2026-10-30, filing date): United States and NAACP stipulate to dismiss the Fifth Circuit appeal
+
+A Fifth Circuit filing dated 10/30/2026 in the United States' appeal reads: "stipulate to dismiss this appeal".

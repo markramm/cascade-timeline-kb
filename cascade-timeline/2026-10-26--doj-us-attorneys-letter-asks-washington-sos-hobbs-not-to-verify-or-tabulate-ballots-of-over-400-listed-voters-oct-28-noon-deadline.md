@@ -240,6 +240,33 @@ claims:
   id: u18
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: November 3
+  span: and in accordance with the Court’s November 3 Minute Order, Dkt. No. 17. This case
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.18.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: in accordance with the Court’s November 3 Minute Order
+  span: and in accordance with the Court’s November 3 Minute Order, Dkt. No. 17. This case
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.18.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: Defendants hereby provide notice, pursuant to Local Civil Rule 65(b)(5) that they intend
+  span: Defendants hereby provide notice, pursuant to Local Civil Rule 65(b)(5) that they intend
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.15.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - election-capture
 - washington
@@ -303,6 +330,16 @@ sources:
   publisher: U.S. District Court, W.D. Wash.
   date: '2026-10-30'
   tier: 1
+- title: Plaintiffs' Supplemental Brief in Support of Motion for TRO and PI, OneAmerica Votes v. Trump, 2:26-cv-04223-JNW
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.18.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-11-03'
+  tier: 1
+- title: Notice of Intent to Oppose Motion for TRO, OneAmerica Votes v. Trump
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.15.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-11-02'
+  tier: 1
 updates:
 - date: '2026-10-28'
   date_kind: letter date (published on the Secretary of State's newsroom)
@@ -346,6 +383,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-03'
+  date_kind: order date (minute order)
+  heading: Plaintiffs file a supplemental brief after the court's November 3 minute order
+  claims:
+  - u19
+  - u20
+  - u21
+  event_date_claim: u19
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: washington-doj-hobbs
 ---
 
 Dated Oct. 26, 2026, a letter from the acting U.S. Attorney for the Western District of Washington and the Eastern District's deputy federal prosecutor asks Secretary of State Steve Hobbs to review a DHS-sourced list for citizens and, for any listed voter whose ballot comes back, to instruct officials "to not verify the signature and/or tabulate the ballot until citizenship can be determined." It sets a deadline "by October 28 at noon PST" and says otherwise "the United States will have no choice but to seek emergency relief." The letter went by email; the attached list is not in the copy we read.
@@ -373,3 +421,7 @@ A complaint filed 10/30/26 in the Western District of Washington (No. 2:26-cv-04
 OneAmerica Votes, Latino Community Fund of Washington State and the United Food and Commercial Workers International Union sued in federal court in Seattle over the demand (OneAmerica Votes v. Trump). Their complaint was entered on the docket 10/30/2026. The complaint alleges the demand "violates Section 11(b) of the Voting Rights Act."
 
 In a minute order entered 11/03/2026, Judge Jamal N. Whitehead wrote that the plaintiffs' motion for a temporary restraining order "is pending" and that the Ninth Circuit, "sitting en banc, reinstated the panel order staying the temporary restraining order in SEIU v. U.S. Department of Justice." He directed the plaintiffs to file a supplemental brief on the effect of that order "by Wednesday, November 4, 2026, at 5:00 p.m. (PT)."
+
+## Update (2026-11-03, order date (minute order)): Plaintiffs file a supplemental brief after the court's November 3 minute order
+
+In OneAmerica Votes v. Trump, the plaintiffs' supplemental brief says it is filed "in accordance with the Court’s November 3 Minute Order" on their pending motion for a temporary restraining order. A notice from the defendants reads: "Defendants hereby provide notice, pursuant to Local Civil Rule 65(b)(5) that they intend" to oppose that motion.

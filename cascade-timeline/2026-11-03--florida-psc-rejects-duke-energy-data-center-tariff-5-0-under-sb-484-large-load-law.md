@@ -82,6 +82,42 @@ claims:
   source_kind: news
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: on Tuesday
+  span: The Florida Public Service Commission (PSC) on Tuesday rejected Duke Energy Florida’s proposal to pay data center costs, 5-0.
+  url: https://floridaphoenix.com/2026/11/03/florida-public-service-commission-rejects-duke-energys-data-center-plan/
+  read: fetched
+  source_kind: news
+  id: u1
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: deny DEF’s proposed tariff as filed, with leave to
+  span: 'Recommendation: Staff recommends that the Commission deny DEF’s proposed tariff as filed, with leave to'
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07689-2026/07689-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: Oral Modification, assigned Document No. 07601-2026, is
+  span: 'REMARKS/DISSENTING COMMENTS: Oral Modification, assigned Document No. 07601-2026, is'
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07689-2026/07689-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: must file tariff provisions for Commission
+  span: ons and fi le a rate sch edu le with ad equate cost support must file tariff provisions for Commission
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07601-2026/07601-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-04'
 tags:
 - data-centers
 - utilities
@@ -97,14 +133,41 @@ sources:
   publisher: Florida Phoenix
   date: '2026-11-03'
   tier: 2
+- title: Vote Sheet, Item 3, Docket No. 20260064-EI, Doc. 07689-2026
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07689-2026/07689-2026.pdf
+  publisher: Florida Public Service Commission
+  date: '2026-11-03'
+  tier: 1
+- title: Oral Modification, Doc. 07601-2026
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07601-2026/07601-2026.pdf
+  publisher: Florida Public Service Commission
+  date: '2026-10-29'
+  tier: 1
 related_events:
 - 2025-06-20--texas-sb-6-large-load-interconnection-signed
 - 2026-03-13--ppl-electric-pa-puc-275m-rate-hike-large-load-data-center-tariff
 verification: source-verified
 approved_names:
 - Duke Energy Florida
+updates:
+- date: '2026-11-03'
+  date_kind: vote date
+  heading: The commission's vote sheet carries the staff recommendation to deny Duke's tariff with leave to refile
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 The Florida Public Service Commission on Tuesday rejected Duke Energy Florida's proposed large data center tariff 5-0, Florida Phoenix reported. The commission found the proposal did not demonstrate compliance with legislation passed earlier this year, SB 484, which requires utilities to reasonably ensure that large-load customers such as hyperscale data centers bear the full cost of their service. Duke's petition was the first test of whether the law protects ratepayers; PSC staff recommended late last month that the panel deny it, and in September hearings Duke declined to make public the full costs for residential and small business ratepayers.
 
 A Duke spokesperson said the company remains focused on "ensuring that data centers pay their full cost of service." For other state rules on who pays for large-load service, see [[2025-06-20--texas-sb-6-large-load-interconnection-signed]] and [[2026-03-13--ppl-electric-pa-puc-275m-rate-hike-large-load-data-center-tariff]].
+
+## Update (2026-11-03, vote date): The commission's vote sheet carries the staff recommendation to deny Duke's tariff with leave to refile
+
+The Florida Public Service Commission rejected Duke Energy Florida's proposal on Tuesday. Its vote sheet carries the staff recommendation to "deny DEF’s proposed tariff as filed, with leave to" refile. The vote sheet says an "Oral Modification, assigned Document No. 07601-2026, is" attached, and that document contains the wording "must file tariff provisions for Commission" approval.

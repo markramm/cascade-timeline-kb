@@ -125,6 +125,33 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: Tuesday
+  span: A federal judge in New York on Tuesday temporarily blocked the administration from deporting Afghan nationals to Afghanistan or Pakistan through the end of the week.
+  url: https://abcnews.com/US/judge-temporarily-blocks-deportation-afghan-nationals/story?id=137822689
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: no planned or confirmed chartered or commercial flights
+  span: U.S. District Judge Valerie Caproni in New York issued the order after government attorneys said in court on Tuesday that Immigration and Customs Enforcement has "no planned or confirmed chartered or commercial flights" to deport Afghan nationals to Afghanistan or Pakistan at least through the end of the week.
+  url: https://abcnews.com/US/judge-temporarily-blocks-deportation-afghan-nationals/story?id=137822689
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-04'
+- type: date
+  value: Saturday
+  span: The order is in effect through Saturday.
+  url: https://abcnews.com/US/judge-temporarily-blocks-deportation-afghan-nationals/story?id=137822689
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-04'
 sources:
 - title: Trump administration set to deport Afghan refugees to Pakistan
   url: https://www.nbcnews.com/news/us-news/trump-administration-set-deport-afghan-refugees-pakistan-rcna606059
@@ -141,6 +168,11 @@ sources:
   publisher: Amu TV
   date: '2026-11-02'
   tier: 3
+- title: Judge temporarily blocks deportation of Afghan nationals
+  url: https://abcnews.com/US/judge-temporarily-blocks-deportation-afghan-nationals/story?id=137822689
+  publisher: ABC News
+  date: '2026-11-03'
+  tier: 2
 captured_by: daily-capture
 tags:
 - ice
@@ -163,6 +195,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: afghan-charter-pakistan
+- date: '2026-11-03'
+  date_kind: order date
+  heading: Judge Caproni temporarily blocks Afghan deportations to Afghanistan or Pakistan through the end of the week
+  claims:
+  - u4
+  - u5
+  - u6
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: afghan-charter-pakistan
 ---
 
 NBC News reported on Oct. 30, 2026 that the administration was preparing to deport Afghans to Pakistan "on the first flight of its kind." In a sealed filing obtained by AP, a senior ICE official described a charter from Alexandria, Louisiana, "with further transport onward to Afghanistan." AP's documents put the first flights "as early as Monday"; the group Human Rights First said it had confirmed a flight "on Tuesday." Neither date is confirmed by DHS, which said it could not confirm removal operations "for operational security reasons."
@@ -172,3 +215,7 @@ The group AfghanEvac told NBC that "at least 80 Afghans" had been moved to Louis
 ## Update (2026-10-30, date of the ICE sworn declaration): More than 150 could be removed, per a report
 
 An ICE official's sworn declaration of Oct. 30 describes a charter flight from Alexandria, Louisiana, with Pakistan as its final flight destination and further transport to Afghanistan. Amu TV reports that The New York Times has reported that more than 150 Afghans could be removed. That is a different measure from the 80 moved to Louisiana. AfghanEvac says that in at least one case documented in a federal court filing, the removal order named Afghanistan while the government planned to fly the individual first to Pakistan.
+
+## Update (2026-11-03, order date): Judge Caproni temporarily blocks Afghan deportations to Afghanistan or Pakistan through the end of the week
+
+A federal judge in New York on Tuesday temporarily blocked the administration from deporting Afghan nationals to Afghanistan or Pakistan, according to ABC News. U.S. District Judge Valerie Caproni issued the order after government attorneys said in court that ICE has "no planned or confirmed chartered or commercial flights" to deport Afghan nationals. The order is in effect through Saturday.
