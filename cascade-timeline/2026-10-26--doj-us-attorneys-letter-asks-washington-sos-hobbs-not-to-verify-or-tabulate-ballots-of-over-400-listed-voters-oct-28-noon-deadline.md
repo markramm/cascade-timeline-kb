@@ -177,6 +177,69 @@ claims:
   id: u11
   outcome: verified
   checked: '2026-10-31'
+- type: attribution
+  value: Latino Community Fund of Washington State
+  span: filed by United Food and Commercial Workers International Union, Latino Community Fund of Washington State, OneAmerica Votes.
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: 10/30/2026
+  span: '(Khanna, Abha) (Entered: 10/30/2026)'
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: violates Section 11(b) of the Voting Rights Act
+  span: As a result, it violates Section 11(b) of the Voting Rights Act, which forbids
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: is pending
+  span: Plaintiffs' motion for a temporary restraining order, Dkt. No. 12, is pending.
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: sitting en banc, reinstated the panel order staying the temporary restraining order in SEIU v. U.S. Department of Justice
+  span: This morning, the Ninth Circuit, sitting en banc, reinstated the panel order staying the temporary restraining order in SEIU v. U.S. Department of Justice
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: by Wednesday, November 4, 2026, at 5:00 p.m. (PT)
+  span: addressing the effect of the Ninth Circuit's order on their motion, by Wednesday, November 4, 2026, at 5:00 p.m. (PT).
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-03'
+- type: date
+  value: 11/03/2026
+  span: 'Authorized by Judge Jamal N Whitehead. (KRA) (Entered: 11/03/2026)'
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - washington
@@ -230,6 +293,16 @@ sources:
   publisher: U.S. District Court, W.D. Wash., via RECAP
   date: '2026-10-30'
   tier: 1
+- title: OneAmerica Votes v. Trump, docket
+  url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/
+  publisher: CourtListener (RECAP)
+  date: '2026-11-03'
+  tier: 1
+- title: Complaint for declaratory and injunctive relief, OneAmerica Votes v. Trump, ECF 1
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.1.0_1.pdf
+  publisher: U.S. District Court, W.D. Wash.
+  date: '2026-10-30'
+  tier: 1
 updates:
 - date: '2026-10-28'
   date_kind: letter date (published on the Secretary of State's newsroom)
@@ -258,6 +331,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-03'
+  date_kind: order date
+  heading: Groups sue over the demand; judge orders briefing on the Ninth Circuit's SEIU stay
+  claims:
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  event_date_claim: u18
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 
 Dated Oct. 26, 2026, a letter from the acting U.S. Attorney for the Western District of Washington and the Eastern District's deputy federal prosecutor asks Secretary of State Steve Hobbs to review a DHS-sourced list for citizens and, for any listed voter whose ballot comes back, to instruct officials "to not verify the signature and/or tabulate the ballot until citizenship can be determined." It sets a deadline "by October 28 at noon PST" and says otherwise "the United States will have no choice but to seek emergency relief." The letter went by email; the attached list is not in the copy we read.
@@ -279,3 +367,9 @@ The reply closes by urging the prosecutors not to "distract these dedicated publ
 ## Update (2026-10-30, filing date): Complaint filed over the Washington demand
 
 A complaint filed 10/30/26 in the Western District of Washington (No. 2:26-cv-04223) names DOJ, DHS and Attorney General Todd Blanche among the defendants. It alleges: "Federal law gives DOJ and DHS no authority whatsoever to do any of this." It also says: "Defendants expect to send Washington additional names before Election Day."
+
+## Update (2026-11-03, order date): Groups sue over the demand; judge orders briefing on the Ninth Circuit's SEIU stay
+
+OneAmerica Votes, Latino Community Fund of Washington State and the United Food and Commercial Workers International Union sued in federal court in Seattle over the demand (OneAmerica Votes v. Trump). Their complaint was entered on the docket 10/30/2026. The complaint alleges the demand "violates Section 11(b) of the Voting Rights Act."
+
+In a minute order entered 11/03/2026, Judge Jamal N. Whitehead wrote that the plaintiffs' motion for a temporary restraining order "is pending" and that the Ninth Circuit, "sitting en banc, reinstated the panel order staying the temporary restraining order in SEIU v. U.S. Department of Justice." He directed the plaintiffs to file a supplemental brief on the effect of that order "by Wednesday, November 4, 2026, at 5:00 p.m. (PT)."
