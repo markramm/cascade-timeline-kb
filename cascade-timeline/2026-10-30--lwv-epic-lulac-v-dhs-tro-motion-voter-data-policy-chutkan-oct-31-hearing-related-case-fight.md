@@ -172,6 +172,51 @@ claims:
   id: u11
   outcome: verified
   checked: '2026-11-03'
+- type: date
+  value: November 3, 2026
+  span: 'Dated: November 3, 2026 BRETT A. SHUMATE'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: Defendants confirm that they are in compliance with this Order.
+  span: Defendants confirm that they are in compliance with this Order. Defendants hereby submit
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: Intergovernmental Liaison
+  span: this Status Report confirming Brian Hawkins, Intergovernmental Liaison, U.S. Department of
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-03'
+- type: attribution
+  value: Homeland Security Investigations
+  span: Homeland Security Investigations, U.S. Immigration and Customs Enforcement; and Larry
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-03'
+- type: quote
+  value: the senior officials responsible for ensuring the
+  span: Citizenship and Immigration Services, as the senior officials responsible for ensuring the
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-03'
 tags:
 - election-capture
 - midterms-2026
@@ -209,6 +254,11 @@ sources:
   publisher: U.S. District Court, D.D.C.
   date: '2026-11-02'
   tier: 1
+- title: Status Report Regarding Compliance, LWV v. DHS, 1:26-cv-03602 (D.D.C.), ECF 32
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.32.0.pdf
+  publisher: U.S. District Court, D.D.C. (RECAP)
+  date: '2026-11-03'
+  tier: 1
 related_events: []
 updates:
 - date: '2026-10-31'
@@ -238,6 +288,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-03'
+  date_kind: filing date
+  heading: 'Status report filed November 3, 2026: "Defendants confirm that they are in compliance with this Order."'
+  claims:
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  event_date_claim: u12
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 coverage:
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
@@ -258,3 +321,7 @@ The docket's minute entry says Judge Tanya S. Chutkan held a motion hearing on 1
 On November 2, 2026, Judge Tanya Chutkan granted the plaintiffs' motion. Defendants and their agents are "preliminarily ENJOINED and STAYED" from further disclosing lists of potential or actual noncitizen voters or registered voters to any state or local official who administers registration, ballots, signature checks, or tabulation or certification. The order does not stop DHS from answering individual SAVE queries or from prosecuting violations of federal law. Defendants must file a status report within 24 hours confirming compliance and identifying a senior official responsible for it.
 
 In the memorandum opinion, Chutkan found the plaintiffs likely to succeed on their claim "that no statute authorizes the Voter Data Transmission Policy," and on their claim that the policy "violates the Act’s prohibitions on disclosure without any applicable exception" under the Privacy Act, because the law enforcement exception does not cover bulk disclosure.
+
+## Update (2026-11-03, filing date): Status report filed November 3, 2026: "Defendants confirm that they are in compliance with this Order."
+
+On November 3, 2026, the government filed the status report the order required, stating: "Defendants confirm that they are in compliance with this Order." It named officials at the Justice Department (its Intergovernmental Liaison), Homeland Security Investigations and U.S. Citizenship and Immigration Services as "the senior officials responsible for ensuring the" defendants' continued compliance.
