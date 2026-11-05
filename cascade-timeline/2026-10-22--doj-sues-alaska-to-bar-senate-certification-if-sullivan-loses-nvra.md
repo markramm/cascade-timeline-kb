@@ -1597,6 +1597,96 @@ claims:
   id: u164
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: Thursday
+  span: In a social media post Thursday, the president called for Alaska to transfer to incumbent Sen. Dan Sullivan (R) all votes cast for a candidate with a similar name, Daniel J. Sullivan.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u165
+  outcome: verified
+  checked: '2026-11-05'
+- type: quote
+  value: ‘slug’ that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over – He easily wins
+  span: “The vote totals for the Fake Dan Sullivan, plus the other ‘slug’ that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over – He easily wins,” Trump wrote.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u166
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 25%
+  span: More than 25% of the vote in Alaska still has not been counted, according to the Associated Press.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u167
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 0.3-point lead
+  span: Currently, Democratic challenger Mary Peltola has a 0.3-point lead over Sen. Sullivan.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u168
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 1.7%
+  span: So far, Daniel J. Sullivan has received just 1.7% of the vote, while Gerald Heikes (R) — the candidate Trump called a “slug” — has received 2.3%.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u169
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 2.3%
+  span: So far, Daniel J. Sullivan has received just 1.7% of the vote, while Gerald Heikes (R) — the candidate Trump called a “slug” — has received 2.3%.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u170
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: no precedent
+  span: There is no precedent for giving votes cast for one candidate to another.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u171
+  outcome: verified
+  checked: '2026-11-05'
+- type: date
+  value: Nov. 18
+  span: Because Alaska uses ranked-choice voting and the race is so close, the final result may not be decided until Nov. 18.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u172
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: Elias Law Group
+  span: '*The Elias Law Group (ELG) represents the Peltola campaign and the Democratic Senatorial Campaign Committee in this case. ELG Firm Chair Marc Elias is the founder of Democracy Docket.'
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u173
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: transfer to incumbent Sen. Dan Sullivan (R) all votes cast for a candidate with a similar name
+  span: In a social media post Thursday, the president called for Alaska to transfer to incumbent Sen. Dan Sullivan (R) all votes cast for a candidate with a similar name, Daniel J. Sullivan.
+  url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+  read: fetched
+  source_kind: secondary
+  id: u174
+  outcome: verified
+  checked: '2026-11-05'
 tags:
   - election-2026
   - certification
@@ -1797,6 +1887,11 @@ sources:
     url: https://www.pbs.org/newshour/politics/justice-department-sent-target-letters-in-alaska-senate-criminal-probe-heres-what-that-means
     publisher: PBS News / Associated Press
     date: '2026-11-03'
+    tier: 2
+  - title: 'Democracy Docket: After midterm rout, Trump doubles down on Alaska Senate seat scheme'
+    url: https://www.democracydocket.com/news-alerts/after-midterm-rout-trump-doubles-down-on-alaska-senate-seat-scheme/
+    publisher: Democracy Docket
+    date: '2026-11-05'
     tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
@@ -2164,6 +2259,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-05'
+  date_kind: post date (Trump social media post, Thursday)
+  heading: Trump posts that the other Sullivan's and Heikes's votes should be given to the senator
+  claims:
+  - u165
+  - u166
+  - u167
+  - u168
+  - u169
+  - u170
+  - u171
+  - u172
+  - u173
+  - u174
+  event_date_claim: u165
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2269,3 +2382,7 @@ On Election Day the AP reported, citing people familiar with the matter, that th
 ## Update (2026-11-03, publication date of the blog post quoting the New York Times (anonymous sources)): Target-letter count and recipients: the New York Times says about 20 Democrats, including a DSCC official; Blanche declines to discuss
 
 Election Law Blog, quoting the New York Times on November 3, 2026, reported that the Justice Department is sending letters to "about 20 Democrats" informing them they might be targets, citing people with knowledge of the move. The intended recipients include attorney Marc Elias and "at least one official at the Democratic Senatorial Campaign Committee", one of those people said. The AP reported that Blanche "declined to discuss the target letters," and that Democrats, including the DSCC, "have also repeatedly denied that they were involved in any campaign trick."
+
+## Update (2026-11-05, post date (Trump social media post, Thursday)): Trump posts that the other Sullivan's and Heikes's votes should be given to the senator
+
+In a social media post Thursday, Trump called for Alaska to transfer to incumbent Sen. Dan Sullivan (R) all votes cast for candidate Daniel J. Sullivan, writing that those totals and the votes of the other "'slug' that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over – He easily wins," Democracy Docket reported. Citing the Associated Press, it said more than 25% of the vote had not been counted, with Democratic challenger Mary Peltola holding a 0.3-point lead; candidate Daniel J. Sullivan had 1.7% and Gerald Heikes (R) 2.3%. Democracy Docket wrote that there is no precedent for giving votes cast for one candidate to another, and that with ranked-choice voting the final result may not be decided until Nov. 18. Democracy Docket discloses that the Elias Law Group, whose firm chair founded it, represents the Peltola campaign and the DSCC in the case.
