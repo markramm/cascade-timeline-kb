@@ -450,6 +450,51 @@ claims:
   id: u35
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: November 4, 2026
+  span: 'IT IS SO ORDERED. Dated: November 4, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u36
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: November 13, 2026
+  span: November 13, 2026, is hereby VACATED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u37
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: STAYS
+  span: For the foregoing reasons, the Court STAYS all proceedings related to Plaintiffs’ motion
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: STAY the TRO
+  span: Accordingly, the Ninth Circuit granted Defendants’ motion to STAY the TRO.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: lacks jurisdiction
+  span: The Ninth Circuit determined that this Court lacks jurisdiction to modify its
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-11-05'
 tags:
 - election-capture
 - midterms-2026
@@ -509,6 +554,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a/gov.uscourts.ca9.34809698-a4bb-456f-906e-40cfcf74ab7a.39.0.pdf
   publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
   date: '2026-11-03'
+  tier: 1
+- title: SEIU v. DOJ, N.D. Cal. 3:26-cv-12800, ECF 78 (order staying proceedings)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.482447/gov.uscourts.cand.482447.78.0.pdf
+  publisher: U.S. District Court, N.D. Cal. (via RECAP)
+  date: '2026-11-04'
   tier: 1
 related_events:
 - 2026-10-29--seiu-afscme-lulac-naacp-v-doj-ndcal-complaint-threats-to-election-workers-3-26-cv-12800
@@ -590,6 +640,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: seiu-v-doj
+- date: '2026-11-04'
+  date_kind: order date
+  heading: Thompson stays preliminary-injunction proceedings and vacates the Nov. 13 hearing
+  claims:
+  - u36
+  - u37
+  - u38
+  - u39
+  - u40
+  event_date_claim: u36
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -624,3 +687,7 @@ The en banc Ninth Circuit put back the stay of Judge Thompson's restraining orde
 ## Update (2026-11-03, order date (filed)): The Ninth Circuit's own copy of the Election Day order: the panel's view, a concurrence and two dissents
 
 The Ninth Circuit's own copy of the order attaches the panel order and the separate opinions. The panel order says "The district court is likely wrong on both counts." Judge Miller, concurring, wrote that a district court does not generally have authority to enter an injunction prohibiting the Department of Justice from "expressing its views about criminal statutes." Chief Judge Murguia, joined by Judges Gould, Owens, H.A. Thomas and Desai, wrote that election officials face "two conflicting opinions of our court." Judge Desai wrote that on the "literal eve of Election Day, our court issued three conflicting orders." The full court later denied a petition for rehearing of the en banc panel's order.
+
+## Update (2026-11-04, order date): Thompson stays preliminary-injunction proceedings and vacates the Nov. 13 hearing
+
+In an order dated November 4, 2026, Judge Trina Thompson STAYS all proceedings related to the plaintiffs' preliminary-injunction motion, and the hearing set for November 13, 2026, is VACATED. The order explains that the Ninth Circuit granted the government's motion to STAY the TRO and determined that the district court lacks jurisdiction to modify it.

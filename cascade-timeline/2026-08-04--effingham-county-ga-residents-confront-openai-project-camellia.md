@@ -48,6 +48,11 @@ sources:
   publisher: Tech Times
   date: '2026-07-24'
   tier: 2
+- title: 'WTOC: Effingham County delays vote on OpenAI data center site plan'
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  publisher: WTOC
+  date: '2026-11-05'
+  tier: 2
 related_events:
 - 2026-06-18--citrus-county-fl-data-center-moratorium-holder-rezoning-denied
 - 2026-07-15--palm-beach-county-rejects-project-tango-data-center
@@ -183,6 +188,75 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: Tuesday
+  span: The Effingham County Board of Commissioners voted Tuesday to postpone a decision on the site plan for “Project Camellia”, following sharp exchanges between commissioners and developers over residential protections, earthen berms, and environmental impacts.
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: voted Tuesday to postpone
+  span: The Effingham County Board of Commissioners voted Tuesday to postpone a decision on the site plan for “Project Camellia”, following sharp exchanges between commissioners and developers over residential protections, earthen berms, and environmental impacts.
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: Octans GA LLC
+  span: During the meeting, Rich Modliszewski, a representative for project developer Octans GA LLC, presented an updated site plan.
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: six compute buildings
+  span: 'While early conceptual plans showed four large buildings, the formal layout now features six compute buildings across two designated project areas:'
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 100,000 gallons per day
+  span: He also noted projected water consumption was reduced from 100,000 gallons per day down to 30,000 gallons per day using a closed-loop cooling system, and asserted that 1,500 morning and afternoon daily vehicle trips would be taken off local roads compared to previous industrial estimates.
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 30,000 gallons per day
+  span: He also noted projected water consumption was reduced from 100,000 gallons per day down to 30,000 gallons per day using a closed-loop cooling system, and asserted that 1,500 morning and afternoon daily vehicle trips would be taken off local roads compared to previous industrial estimates.
+  url: https://www.wtoc.com/2026/11/05/effingham-county-delays-vote-openai-data-center-site-plan/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-05'
+updates:
+- date: '2026-11-03'
+  date_kind: meeting date (board vote)
+  heading: Effingham commissioners postpone the Project Camellia site-plan vote
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ai-industry-policy
 ---
 
 Effingham County, Georgia commissioners gave final approval to a zoning ordinance on Aug. 4 (Effingham Herald, reporting the residents' lawsuit), a Tuesday-night meeting before a packed crowd that had come to speak about OpenAI's Project Camellia (WTOC). Camellia was not on the agenda or open for public comment, and WTOC described the vote as a brief one to make zoning language uniform in the industrial park where the data center is planned. Residents later sued, alleging the ordinance expanded data centers to all currently zoned industrial land and passed with no public hearings (WTOC).
@@ -192,3 +266,7 @@ Chairman Damon Rahn told the crowd, "None of my commissioners signed any NDA's. 
 The July open house drew more than 500 people inside by the Effingham Herald's count; Tech Times reported nearly 1,000, a figure WTOC and the Herald do not give.
 
 The shape recurs in the county-level land-use fights this corpus tracks: the public venue and the decision-making body are not the same, and the venue that holds the crowd lacks the lever. See [[2026-06-18--citrus-county-fl-data-center-moratorium-holder-rezoning-denied]], [[2026-07-15--palm-beach-county-rejects-project-tango-data-center]] and [[2026-07-21--charles-county-md-scraps-data-center-zoning]].
+
+## Update (2026-11-03, meeting date (board vote)): Effingham commissioners postpone the Project Camellia site-plan vote
+
+The Effingham County Board of Commissioners voted Tuesday to postpone a decision on the site plan for Project Camellia, after exchanges with the developer over residential protections, earthen berms and environmental impacts, WTOC reported. The developer, Octans GA LLC, presented a layout of six compute buildings and said projected water consumption was reduced from 100,000 gallons per day to 30,000 gallons per day.
