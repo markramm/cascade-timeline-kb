@@ -683,6 +683,101 @@ claims:
   id: u45
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: 11/04/26
+  span: 'Case 4:26-cv-10680-AMO
+
+    Document
+
+    104 Filed
+
+    11/04/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: Judge Tung
+  span: 'Before: S.R. THOMAS, Senior Circuit Judge and En Banc Coordinator.
+
+    Dissent by Judge TUNG.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u47
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: CALLAHAN, NELSON, COLLINS, BRESS,
+  span: 'TUNG, Circuit Judge, joined by CALLAHAN, NELSON, COLLINS, BRESS,
+
+    BUMATAY, and VANDYKE, Circuit Judges, dissenting from the denial of
+
+    rehearing en banc:'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: BUMATAY, and VANDYKE
+  span: 'TUNG, Circuit Judge, joined by CALLAHAN, NELSON, COLLINS, BRESS,
+
+    BUMATAY, and VANDYKE, Circuit Judges, dissenting from the denial of
+
+    rehearing en banc:'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: verified
+  checked: '2026-11-05'
+- type: quote
+  value: the government from even investigating illegal voting
+  span: 'By enjoining the
+
+    government from even investigating illegal voting, the district court departed from
+
+    its limited role—and trampled on the President’s in the process.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u50
+  outcome: verified
+  checked: '2026-11-05'
+- type: quote
+  value: confused investigation for intimidation
+  span: 'And by relying on
+
+    section 11(b) of the Voting Rights Act (VRA), Pub. L. 89-110, § 11(b), 79 Stat. 437,
+
+    443 (1965) (codified at 52 U.S.C. § 10307(b)), it confused investigation for
+
+    intimidation.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u51
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: '104'
+  span: 'Case 4:26-cv-10680-AMO
+
+    Document
+
+    104 Filed
+
+    11/04/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u52
+  outcome: verified
+  checked: '2026-11-05'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -747,6 +842,11 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8/gov.uscourts.ca9.4a25446f-874f-471c-b3e4-e9b26dff2bb8.50.0.pdf
     publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
     date: '2026-10-30'
+    tier: 1
+  - title: CNA v. Mullin, N.D. Cal. 4:26-cv-10680, ECF 104 (USCA order and dissent, No. 26-7139)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
+    publisher: CourtListener RECAP
+    date: '2026-11-04'
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -855,6 +955,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-04'
+  date_kind: filing date (district docket)
+  heading: Judge Tung's dissent from the en banc denial is filed on the district docket
+  claims:
+  - u46
+  - u47
+  - u48
+  - u49
+  - u50
+  - u51
+  - u52
+  event_date_claim: u46
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -888,3 +1003,7 @@ In a per curiam order, a Ninth Circuit panel wrote: "The request for stay pendin
 ## Update (2026-10-30, order date): En banc vote fails, over a dissent
 
 A judge made "a sua sponte request for an en banc vote" the same day, and the government asked the court to "grant rehearing en banc and issue an immediate stay." In an order for publication, the court wrote that "en banc proceedings with respect to the panel’s order are concluded." Judge Tung wrote a dissent from the denial, joined by other circuit judges named in the order. The appeal itself remains pending.
+
+## Update (2026-11-04, filing date (district docket)): Judge Tung's dissent from the en banc denial is filed on the district docket
+
+The Ninth Circuit order denying rehearing en banc, with Judge Tung's dissent, was entered on the district court docket on 11/04/26 (ECF 104). The dissent is by Judge Tung, joined by Judges Callahan, Nelson, Collins, Bress, Bumatay and VanDyke. It says the preliminary injunction enjoined "the government from even investigating illegal voting" and that, by relying on section 11(b) of the Voting Rights Act, the district court "confused investigation for intimidation."
