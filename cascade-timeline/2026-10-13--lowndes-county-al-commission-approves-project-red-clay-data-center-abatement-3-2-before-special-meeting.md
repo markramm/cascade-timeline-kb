@@ -99,6 +99,69 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-15'
+- type: date
+  value: Wednesday
+  span: California-based AI infrastructure company Lambda announced Wednesday it will anchor Project Red Clay, a 2,200-acre artificial intelligence data center planned for northeastern Lowndes County.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: $33.1 billion
+  span: Lambda is committing $33.1 billion to the campus.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-05'
+- type: figure
+  value: 2,200-acre
+  span: California-based AI infrastructure company Lambda announced Wednesday it will anchor Project Red Clay, a 2,200-acre artificial intelligence data center planned for northeastern Lowndes County.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: filed a lawsuit against the Lowndes County Commission on Tuesday afternoon
+  span: Citizen group Protect Lowndes County, the Alabama Rivers Alliance and others filed a lawsuit against the Lowndes County Commission on Tuesday afternoon.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-05'
+- type: attribution
+  value: Open Meetings Act and Open Records Act
+  span: The lawsuit claims commissioners violated Alabama’s Open Meetings Act and Open Records Act to “fast track” a multibillion-dollar tax abatement package for developer Cloverleaf Infrastructure.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-05'
+- type: quote
+  value: fast track
+  span: The lawsuit claims commissioners violated Alabama’s Open Meetings Act and Open Records Act to “fast track” a multibillion-dollar tax abatement package for developer Cloverleaf Infrastructure.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-05'
+- type: posture
+  value: declare the commission’s votes void
+  span: The plaintiffs are asking a circuit judge to declare the commission’s votes void.
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-05'
 tags:
 - datacenter-buildout
 - tax-abatement
@@ -129,8 +192,33 @@ sources:
   publisher: WSFA 12 News
   date: '2026-10-13'
   tier: 2
+- title: Anchor company named for Project Red Clay data center in Lowndes County
+  url: https://www.wsfa.com/2026/11/04/anchor-company-named-project-red-clay-data-center-lowndes-county/
+  publisher: WSFA
+  date: '2026-11-04'
+  tier: 2
+updates:
+- date: '2026-11-04'
+  date_kind: announcement date
+  heading: Lambda named as anchor for Project Red Clay; residents sue over the abatement votes
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 The Lowndes County Commission in Alabama voted 3-2 on Tuesday morning to approve a project development agreement and a 20-year tax abatement for Project Red Clay, a data center planned by Cloverleaf Infrastructure on more than 1,000 acres in Burkville, according to Yellowhammer News and WSFA. Yellowhammer reports that commissioners had voted unanimously minutes earlier to schedule a special meeting on October 20 to take up the proposal, and that Commissioner Robert Harris then moved to approve it before that meeting could be held, with residents in the room cut off. A resident, District Judge Adrian Johnson, put the abatement's cost at $2.4 billion in tax revenue; Cloverleaf projects about $2.85 billion in total local tax revenue over 20 years. Cloverleaf has not named a buyer for the site, and Nvidia announced a minority investment in Cloverleaf in August.
 
 Other abatement fights in the record: [[2026-10-01--wayne-county-overrides-veto-google-project-cannoli-tax-break-mpsc-approves-dte]] and [[2026-09-16--indianapolis-approves-240m-sabey-abatement-weeks-after-moratorium-exempted-it]].
+
+## Update (2026-11-04, announcement date): Lambda named as anchor for Project Red Clay; residents sue over the abatement votes
+
+WSFA reported that California-based AI infrastructure company Lambda announced Wednesday it will anchor Project Red Clay, a 2,200-acre artificial intelligence data center planned for northeastern Lowndes County, and is committing $33.1 billion to the campus. Citizen group Protect Lowndes County, the Alabama Rivers Alliance and others filed a lawsuit against the Lowndes County Commission on Tuesday afternoon. It claims commissioners violated Alabama’s Open Meetings Act and Open Records Act to “fast track” the tax abatement package for developer Cloverleaf Infrastructure, and asks a circuit judge to declare the commission’s votes void.
