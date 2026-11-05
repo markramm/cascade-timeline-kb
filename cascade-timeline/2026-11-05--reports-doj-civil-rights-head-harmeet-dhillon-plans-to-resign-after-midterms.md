@@ -4,7 +4,7 @@ id: 2026-11-05--reports-doj-civil-rights-head-harmeet-dhillon-plans-to-resign-af
 date: '2026-11-05'
 date_kind: publication date (reports citing Bloomberg)
 date_is_publication_date: true
-title: 'Harmeet Dhillon Resigns as DOJ Civil Rights Head; Blanche Says He Accepted the Resignation'
+title: Harmeet Dhillon Resigns as DOJ Civil Rights Head; Blanche Says He Accepted the Resignation
 importance: 7
 status: reported
 event_date_claim: c1
@@ -18,28 +18,10 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-05'
-- id: c2
-  type: attribution
-  value: according to Bloomberg
-  span: Harmeet Dhillon, who oversaw the Justice Department’s Civil Rights Division, plans to step down, according to Bloomberg.
-  url: https://www.huffpost.com/entry/harmeet-dhillon-resigns-doj-civil-rights_n_6aecaef1e4b08d8d4a8e1eec
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-05'
 - id: c3
   type: posture
   value: first for the Trump administration
   span: The reported departure is the first for the Trump administration after the president was rebuked in the midterms.
-  url: https://www.huffpost.com/entry/harmeet-dhillon-resigns-doj-civil-rights_n_6aecaef1e4b08d8d4a8e1eec
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-05'
-- id: c4
-  type: posture
-  value: did not immediately respond
-  span: The Justice Department did not immediately respond to HuffPost’s request for comment.
   url: https://www.huffpost.com/entry/harmeet-dhillon-resigns-doj-civil-rights_n_6aecaef1e4b08d8d4a8e1eec
   read: fetched
   source_kind: secondary
@@ -103,7 +85,7 @@ tags:
 - civil-rights-division
 - institutional-capture
 - post-election
-summary: Harmeet Dhillon, who oversaw DOJ’s Civil Rights Division, plans to step down, according to Bloomberg as reported by HuffPost; DOJ did not immediately comment.
+summary: Harmeet Dhillon, who led DOJ's Civil Rights Division, resigned; Attorney General Todd Blanche said he accepted the resignation, HuffPost reported.
 verification: source-verified
 updates:
 - date: '2026-11-05'
@@ -120,8 +102,7 @@ updates:
   cluster: voter-roll-suits
 ---
 
-Harmeet Dhillon, who oversaw the Justice Department’s Civil Rights Division, plans to step down, according to Bloomberg, as HuffPost reported. HuffPost called the reported departure the first for the Trump administration after the midterms, and said Dhillon reportedly told colleagues she would leave the department after the midterms. The Justice Department did not immediately respond to HuffPost’s request for comment.
-
+Harmeet Dhillon's departure from the Justice Department's Civil Rights Division was first reported as a plan to step down. HuffPost called the reported departure the first for the Trump administration after the midterms, and said Dhillon reportedly told colleagues she would leave the department after the midterms. 
 ## Update (2026-11-05, statement date (Attorney General's announcement, as reported Nov 5)): Blanche says he accepted Dhillon's resignation
 
 HuffPost updated its report: Dhillon has submitted her resignation, according to Attorney General Todd Blanche, who wrote: "Today, I accepted the resignation of Assistant Attorney General Harmeet Dhillon, who led the Civil Rights Division with conviction the past 18 months."
