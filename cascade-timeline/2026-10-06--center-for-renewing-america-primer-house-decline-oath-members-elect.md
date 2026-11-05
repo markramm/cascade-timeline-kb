@@ -33,6 +33,11 @@ sources:
   url: https://americarenewing.com/about/
   publisher: Center for Renewing America
   tier: 1
+- title: A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  publisher: Wired
+  date: '2026-11-02'
+  tier: 2
 verification: source-verified
 claims:
 - id: c1
@@ -143,6 +148,60 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: Nov 2, 2026
+  span: Vittoria Elliott Politics Nov 2, 2026 12:29 PM A Right-Wing Think Tank Has a Plan to Prevent Democrats From Being Seated in Congress
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: Red-Green Alliance
+  span: argues that even winning candidates from what it believes to be a purported “Red-Green Alliance” between “neo-Marxist progressives and anti-Western Muslims” can and should be kept from being seated in Congress.
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-04'
+- type: attribution
+  value: another CRA publication from earlier this year
+  span: According to another CRA publication from earlier this year written by the organization’s executive director
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: Squad
+  span: the so-called Red-Green Alliance includes the “Squad,” the nickname for the group of four progressive women of color
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: New York mayor Zohran Mamdani and Michigan senate candidate Abdul El-Sayed
+  span: It also includes politicians like New York mayor Zohran Mamdani and Michigan senate candidate Abdul El-Sayed.
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-04'
+- type: quote
+  value: did not respond to a request for comment
+  span: The Center for Renewing America (CRA) did not respond to a request for comment.
+  url: https://www.wired.com/story/a-right-wing-think-tank-has-a-plan-to-prevent-democrats-from-being-seated-in-congress/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-04'
 event_date_claim: c1
 updates:
 - date: '2026-10-06'
@@ -156,6 +215,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: election-capture
+- date: '2026-11-02'
+  date_kind: publication date
+  heading: 'Wired: another CRA publication names Mamdani and El-Sayed in its alliance'
+  claims:
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
 ---
 
 Published October 6, 2026 by the Center for Renewing America, which its About page says was "launched in 2021 by Russ Vought". The document, by Benjamin Osborne, says: "This primer addresses that question."
@@ -169,3 +242,7 @@ Whom it names: "DSA and other Communist, Marxist, Muslim, or other anticonstitut
 ## Update (2026-10-06, publication date): Further wording in the primer: "CRA welcomes that litigation."
 
 The primer says its author is describing "what the Center for Renewing America (CRA) calls the Red-Green Alliance". It also says: "CRA welcomes that litigation."
+
+## Update (2026-11-02, publication date): Wired: another CRA publication names Mamdani and El-Sayed in its alliance
+
+Wired reported on Nov 2, 2026 that the CRA post argues winning candidates from a purported "Red-Green Alliance" can and should be kept from being seated. According to Wired, another CRA publication from earlier this year says that alliance includes the "Squad" and politicians like "New York mayor Zohran Mamdani and Michigan senate candidate Abdul El-Sayed." The CRA "did not respond to a request for comment."
