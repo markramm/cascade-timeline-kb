@@ -72,6 +72,33 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-11-05'
+- type: date
+  value: Thursday
+  span: WASHINGTON – Harmeet Dhillon, a conservative attorney who oversaw a radical reshaping of the Justice Department's Civil Rights Division, celebrated the mass departures of career lawyers and spearheaded sweeping investigations into elite universities, said Thursday that she had resigned from her post.
+  url: https://www.ksat.com/news/politics/2026/11/05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-06'
+- type: figure
+  value: More than three quarters
+  span: More than three quarters of the unit's workforce at the beginning of Trump's second term have left — a move Dhillon has called the “biggest single personnel self-purge in DOJ history.”
+  url: https://www.ksat.com/news/politics/2026/11/05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-06'
+- type: quote
+  value: biggest single personnel self-purge in DOJ history
+  span: More than three quarters of the unit's workforce at the beginning of Trump's second term have left — a move Dhillon has called the “biggest single personnel self-purge in DOJ history.”
+  url: https://www.ksat.com/news/politics/2026/11/05/harmeet-dhillon-exits-after-radical-overhaul-of-justice-departments-civil-rights-division/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-06'
 sources:
 - title: 'HuffPost: DOJ Civil Rights Head Harmeet Dhillon Plans To Resign'
   url: https://www.huffpost.com/entry/harmeet-dhillon-resigns-doj-civil-rights_n_6aecaef1e4b08d8d4a8e1eec
@@ -100,9 +127,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-05'
+  date_kind: announcement date (Dhillon said Thursday she had resigned, per AP)
+  heading: 'AP: more than three quarters of the division''s starting workforce has left'
+  claims:
+  - u5
+  - u6
+  - u7
+  event_date_claim: u5
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 Harmeet Dhillon's departure from the Justice Department's Civil Rights Division was first reported as a plan to step down. HuffPost called the reported departure the first for the Trump administration after the midterms, and said Dhillon reportedly told colleagues she would leave the department after the midterms. 
 ## Update (2026-11-05, statement date (Attorney General's announcement, as reported Nov 5)): Blanche says he accepted Dhillon's resignation
 
 HuffPost updated its report: Dhillon has submitted her resignation, according to Attorney General Todd Blanche, who wrote: "Today, I accepted the resignation of Assistant Attorney General Harmeet Dhillon, who led the Civil Rights Division with conviction the past 18 months."
+
+## Update (2026-11-05, announcement date (Dhillon said Thursday she had resigned, per AP)): AP: more than three quarters of the division's starting workforce has left
+
+Assistant Attorney General Harmeet Dhillon said Thursday that she had resigned, the Associated Press reported. More than three quarters of the Civil Rights Division's workforce at the beginning of Trump's second term have left, AP reported, a move Dhillon has called the "biggest single personnel self-purge in DOJ history."
