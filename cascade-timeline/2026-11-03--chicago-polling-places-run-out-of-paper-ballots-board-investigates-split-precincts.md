@@ -102,6 +102,51 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-03'
+- type: figure
+  value: 24 precincts
+  span: The board completed an audit Thursday that concluded the coding error miscalculated the number of ballot styles needed for some precincts only led to shortages at 24 precincts, or 1.86% of the board’s total precincts.
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-06'
+- type: figure
+  value: 1.86%
+  span: The board completed an audit Thursday that concluded the coding error miscalculated the number of ballot styles needed for some precincts only led to shortages at 24 precincts, or 1.86% of the board’s total precincts.
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-06'
+- type: date
+  value: Thursday
+  span: The board completed an audit Thursday that concluded the coding error miscalculated the number of ballot styles needed for some precincts only led to shortages at 24 precincts, or 1.86% of the board’s total precincts.
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-06'
+- type: posture
+  value: validation checks
+  span: Board officials said its IT department has added validation checks and other precautions to hopefully identify and prevent similar issues in the future.
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-06'
+- type: figure
+  value: 34,000
+  span: More than 34,000 people registered to vote on Election Day and voter turnout was second only behind the 2024 presidential election.
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-06'
 tags:
 - election-2026
 - election-administration
@@ -116,9 +161,32 @@ sources:
   publisher: Block Club Chicago
   date: '2026-11-03'
   tier: 2
+- title: 'Chicago Sun-Times: coding error behind Election Day ballot shortages'
+  url: https://chicago.suntimes.com/elections/2026/11/05/coding-error-that-impacted-voting-affected-few-precincts-but-high-voter-turnout-contributed-to-wait-times
+  publisher: Chicago Sun-Times
+  date: '2026-11-05'
+  tier: 2
 verification: source-verified
+updates:
+- date: '2026-11-05'
+  date_kind: audit completion date
+  heading: Board audit blames a ballot-style coding error for shortages at 24 precincts
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: mail-ballots-count
 ---
 
 On Election Day, Tuesday, polling places across Chicago ran out of paper ballots, "including voting sites in Uptown, Pilsen, Logan Square, Albany Park and the Near West Side," Block Club Chicago reported, leaving voters in long lines for the few electronic machines; several sites ran out twice. The Chicago Board of Elections said the problem appeared "concentrated in precincts that use multiple ballot styles," where split precincts can carry "as many as seven ballot combinations" It confirmed a shortage in "Ward 1, Precinct 4" and was checking reports in other wards. "We apologize. It is frustrating, but we’re working the problem, investigating and accommodating voters," a board spokesperson said, adding that "Voters who are in line by 7 p.m. will be allowed to vote."
 
 The board pointed to turnout: "232,672 ballots" cast at polling places by 3:15 p.m., against "about 227,633" at the same point in 2022. Ald. Daniel La Spata (1st) said high turnout "That would not explain running out by 9 a.m." Chicago is one of the places on DOJ's monitoring list.
+
+## Update (2026-11-05, audit completion date): Board audit blames a ballot-style coding error for shortages at 24 precincts
+
+The Chicago Board of Elections completed an audit Thursday concluding that a coding error, which miscalculated the number of ballot styles needed for some precincts, led to shortages at 24 precincts, or 1.86% of the board's total, the Chicago Sun-Times reported. Board officials said the IT department has added validation checks. More than 34,000 people registered to vote on Election Day.
