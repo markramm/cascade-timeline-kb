@@ -214,6 +214,60 @@ claims:
   id: u17
   outcome: verified
   checked: '2026-11-07'
+- type: date
+  value: November 6, 2026
+  span: 'Dated: November 6, 2026 Respectfully submitted, /s/ Julie A. Hamill Julie A. Hamill Assistant United States Attorney'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-07'
+- type: attribution
+  value: 41(a)(1)(A)(i)
+  span: The United States provides this notice of voluntary dismissal pursuant to Fed. R. Civ. P. 41(a)(1)(A)(i).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-07'
+- type: quote
+  value: the case is dismissed
+  span: voluntary dismissal is timely and the case is dismissed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-07'
+- type: date
+  value: November 13, 2026
+  span: the United States’ request for a preliminary injunction for November 13, 2026, Dkt. 159—
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-07'
+- type: quote
+  value: the United States is evaluating how to best
+  span: In light of the Supreme Court’s denial, the United States is evaluating how to best
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-11-07'
+- type: attribution
+  value: ensure that American votes are protected, including by preventing vote dilution
+  span: ensure that American votes are protected, including by preventing vote dilution by
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-07'
 tags:
 - election-capture
 - midterms-2026
@@ -266,6 +320,11 @@ sources:
   publisher: Associated Press
   date: '2026-11-06'
   tier: 2
+- title: 'United States v. California, No. 2:26-cv-12025 (C.D. Cal.), Dkt. 180: The United States'' Notice of Voluntary Dismissal (via RECAP)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  publisher: U.S. District Court, Central District of California (via RECAP)
+  date: '2026-11-06'
+  tier: 1
 related_events:
 - 2026-10-30--ninth-circuit-denies-doj-injunction-pending-appeal-california-ballots-bumatay-dissent
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
@@ -312,6 +371,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: enforcement-funnel
+- date: '2026-11-06'
+  date_kind: filing date
+  heading: DOJ's notice of voluntary dismissal under Rule 41(a)(1)(A)(i)
+  claims:
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  event_date_claim: u18
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 coverage:
   - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
     title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -334,3 +407,7 @@ The Supreme Court on Monday rejected the application. The one-sentence order "co
 ## Update (2026-11-06, motion filing date): DOJ moves to dismiss its own lawsuit, saying the relief it sought is no longer available
 
 The U.S. Department of Justice on Friday moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens, the Associated Press reported. The motion came about a week before a scheduled hearing where a special master was slated to evaluate the accuracy of the list. It said that by then the state will have already irreparably "commingled the challenged ballots with lawful ones," and that "The relief the United States sought and needed is no longer available—rendering voluntary dismissal necessary." California had processed roughly 9 million ballots as of early Friday, with nearly 5 million still left to be counted.
+
+## Update (2026-11-06, filing date): DOJ's notice of voluntary dismissal under Rule 41(a)(1)(A)(i)
+
+DOJ's filing is a notice of voluntary dismissal under Federal Rule of Civil Procedure 41(a)(1)(A)(i), not a motion; because no answer or motion for summary judgment had been filed, it states that "the case is dismissed." It faults the court for setting the preliminary-injunction hearing for November 13, 2026, after Election Day. Citing the Supreme Court's denial, it says "the United States is evaluating how to best" ensure that American votes are protected, including by preventing vote dilution by noncitizens.
