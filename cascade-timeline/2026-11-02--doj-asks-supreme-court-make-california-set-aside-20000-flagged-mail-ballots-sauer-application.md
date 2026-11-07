@@ -160,6 +160,60 @@ claims:
   id: u11
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: Friday
+  span: The U.S. Department of Justice on Friday moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens until their immigration status could be verified.
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-07'
+- type: figure
+  value: roughly 20,000 ballots
+  span: The U.S. Department of Justice on Friday moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens until their immigration status could be verified.
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-07'
+- type: attribution
+  value: about a week before a scheduled hearing where a special master was slated to evaluate the accuracy of the list
+  span: about a week before a scheduled hearing where a special master was slated to evaluate the accuracy of the list.
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-11-07'
+- type: quote
+  value: commingled the challenged ballots with lawful ones,
+  span: The motion to dismiss the lawsuit said that, by the time of the upcoming hearing, the state will have already irreparably “commingled the challenged ballots with lawful ones.”
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-11-07'
+- type: quote
+  value: The relief the United States sought and needed is no longer available—rendering voluntary dismissal necessary.
+  span: “The relief the United States sought and needed is no longer available—rendering voluntary dismissal necessary,” the motion said.
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-07'
+- type: figure
+  value: roughly 9 million ballots as of early Friday, with nearly 5 million still left to be counted
+  span: California had processed roughly 9 million ballots as of early Friday, with nearly 5 million still left to be counted, according to state election officials.
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-11-07'
 tags:
 - election-capture
 - midterms-2026
@@ -207,6 +261,11 @@ sources:
   publisher: NPR
   date: '2026-11-02'
   tier: 2
+- title: 'Associated Press (via LAist): US Justice Department drops bid to force California to set aside disputed ballots'
+  url: https://laist.com/news/politics/us-justice-department-drops-bid-to-force-california-to-set-aside-disputed-ballots
+  publisher: Associated Press
+  date: '2026-11-06'
+  tier: 2
 related_events:
 - 2026-10-30--ninth-circuit-denies-doj-injunction-pending-appeal-california-ballots-bumatay-dissent
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
@@ -239,6 +298,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-06'
+  date_kind: motion filing date
+  heading: DOJ moves to dismiss its own lawsuit, saying the relief it sought is no longer available
+  claims:
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  event_date_claim: u12
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 coverage:
   - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
     title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -257,3 +330,7 @@ The application is docketed as No. 26A624 and was submitted to Justice Kagan. It
 ## Update (2026-11-02, order date): Supreme Court rejects the application in a one-sentence order
 
 The Supreme Court on Monday rejected the application. The one-sentence order "contained no explanation and had no noted dissents," The Hill reports, and the Court acted within hours and without ordering California to file a response. Justice Elena Kagan referred the request to the full Court, Democracy Docket reports. The Hill notes the order is not technically the end of the lawsuit.
+
+## Update (2026-11-06, motion filing date): DOJ moves to dismiss its own lawsuit, saying the relief it sought is no longer available
+
+The U.S. Department of Justice on Friday moved to dismiss its own lawsuit that sought to stop California from counting roughly 20,000 ballots it alleged went to noncitizens, the Associated Press reported. The motion came about a week before a scheduled hearing where a special master was slated to evaluate the accuracy of the list. It said that by then the state will have already irreparably "commingled the challenged ballots with lawful ones," and that "The relief the United States sought and needed is no longer available—rendering voluntary dismissal necessary." California had processed roughly 9 million ballots as of early Friday, with nearly 5 million still left to be counted.
