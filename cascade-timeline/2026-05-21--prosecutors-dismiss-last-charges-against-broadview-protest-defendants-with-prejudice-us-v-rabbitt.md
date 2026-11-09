@@ -416,6 +416,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: broadview-six
+coverage:
+- url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
+  title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
 ---
 
 On 5/21/2026 (hearing and minute-entry date), Judge April M. Perry of the Northern District of Illinois granted the government's oral motion to dismiss, with prejudice, the superseding information in *United States v. Rabbitt*, No. 1:25-cr-00693. That information was the last live charging document in the prosecution of the people indicted over the protest at the Broadview ICE facility. The same minute entry records the government agreeing to take down its press release saying the defendants had been charged, or add a banner saying the charges were dismissed, and vacates the trial date and all related deadlines.

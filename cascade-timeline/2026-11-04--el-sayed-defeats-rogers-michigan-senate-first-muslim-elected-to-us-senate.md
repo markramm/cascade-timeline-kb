@@ -130,6 +130,9 @@ related_events:
 - 2026-11-01--rep-haley-stevens-endorses-rogers-over-el-sayed-two-days-before-michigan-senate-vote
 - 2026-10-06--center-for-renewing-america-primer-house-decline-oath-members-elect
 - 2026-11-03--cbs-news-projects-democrats-win-senate-majority
+coverage:
+- url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
+  title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
 ---
 
 Democrat Abdul El-Sayed has won the U.S. Senate election in Michigan, according to a race call by the Associated Press, which called the race at 2:27 a.m., Bridge Michigan and NPR reported. He led Republican Mike Rogers by nearly 6 percentage points with 85% of all ballots counted, and is the first Muslim ever elected to the US Senate. In his victory speech El-Sayed addressed President Donald Trump, Vice President JD Vance and Rogers, who had each claimed he or his family were associated with the Muslim Brotherhood: "You chose hate, and Michigan chose hope."

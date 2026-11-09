@@ -100,6 +100,9 @@ sources:
     tier: 1
 related_events:
   - 2026-05-21--prosecutors-dismiss-last-charges-against-broadview-protest-defendants-with-prejudice-us-v-rabbitt
+coverage:
+- url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
+  title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
 ---
 
 On 11/02/26, former FBI Chicago Field Office head Douglas DePodesta filed a complaint in the Northern District of Illinois against United States Attorney Andrew Boutros, FBI Director Kash Patel and Attorney General Todd Blanche; Patel and Blanche are named in their official capacities. The complaint alleges that Boutros chose to dismiss all charges in the Broadview Six case because of prosecutors' conduct, then "began a campaign within the Department of Justice to blame DePodesta for the unraveling of the case." It alleges that "the political pressure Boutros created was irresistible, and they ordered DePodesta to resign." It describes the protester prosecutions as "politically motivated." These are the plaintiff's allegations, not findings; the defendants' account is not in the filing.
