@@ -371,6 +371,69 @@ claims:
   id: u17
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: November 4, 2026
+  span: 'Respectfully submitted, Dated: November 4, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.292.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: November 9, 2026
+  span: The United States respectfully requests an additional extension, until November 9, 2026, to comply with the Court’s
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.292.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: November 6, 2026
+  span: This docket entry was made by the Clerk on Friday, November 6, 2026
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.297.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: 11/16/2026
+  span: evidentiary hearing currently scheduled for 11/16/2026 and related proceedings [296] is granted.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.297.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: 11/19/2026 at 9:00 a.m.
+  span: four named witnesses (and/or their attorneys) that 11/19/2026 at 9:00 a.m. is an acceptable
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.297.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: William Hogan
+  span: AUSA William Hogan's request to intervene for the purposes of the evidentiary hearing
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.297.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: additional attorneys
+  span: will allow additional attorneys for the United States to complete their ongoing
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.292.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-11-09'
 sources:
 - title: Response to the Court's October 9 Request for Evidence and Memorandum Addressing Fed. R. Crim. P. 42 (ECF 285), U.S. v. Rabbitt, No. 1:25-cr-00693 (N.D. Ill.)
   url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.285.0.pdf
@@ -381,6 +444,16 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.287.0.pdf
   publisher: U.S. District Court, N.D. Ill.
   date: '2026-11-02'
+  tier: 1
+- title: Motion for extension of time, ECF 292, U.S. v. Rabbitt, No. 1:25-cr-00693 (N.D. Ill.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.292.0.pdf
+  publisher: U.S. District Court, N.D. Ill. (via RECAP)
+  date: '2026-11-04'
+  tier: 1
+- title: Minute entry, ECF 297, U.S. v. Rabbitt, No. 1:25-cr-00693 (N.D. Ill.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ilnd.488591/gov.uscourts.ilnd.488591.297.0.pdf
+  publisher: U.S. District Court, N.D. Ill. (via RECAP)
+  date: '2026-11-06'
   tier: 1
 updates:
 - date: '2026-10-30'
@@ -416,6 +489,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: broadview-six
+- date: '2026-11-06'
+  date_kind: order date
+  heading: Government asks for more time instead of producing; Perry lets Hogan intervene and keeps the hearing date
+  claims:
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  - u23
+  - u24
+  event_date_claim: u20
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: us-v-rabbitt-broadview
 coverage:
 - url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
   title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
@@ -451,3 +539,7 @@ On October 30, 2026, the filing date of the deadline set in the court's October 
 On November 2, 2026, Judge April Perry wrote that there is "more than an adequate factual basis" for an inquiry into "whether willful false statements were made" to the court and ordered Boutros, the U.S. Attorney in Chicago, and prosecutors of his office, attorney William Hogan, attorney Matthew Skiba and attorney Andres Almendarez, to testify under oath on November 16, 2026. She called Boutros's statements "hard to credit" and wrote that the government's caveats indicate that its representation about outside communications "was false." She gave the government until November 5, 2026 to produce the documents she requested, after it told her it "has not agreed to provide any information to the Court."
 
 The order cites a suit filed the same day, in which the former head of the FBI's Chicago office, Douglas DePodesta, alleges an October 7, 2025 meeting about this investigation among Boutros, Todd Blanche (now Attorney General), FBI Director Kashyap Patel and Colin McDonald (now an Assistant Attorney General). That is his allegation, not a finding. Associate Attorney General Stanley Woodward filed his appearance on October 30. Perry wrote: "Now, high-level DOJ supervisors are in fact involved." If DOJ keeps its position that the Attorney General must supervise any criminal investigation, she ordered him to certify by November 13, 2026 that the Attorney General, Deputy Attorney General and Solicitor General have not been given evidence a special prosecutor could not consider, or to file a memorandum explaining why they could still supervise.
+
+## Update (2026-11-06, order date): Government asks for more time instead of producing; Perry lets Hogan intervene and keeps the hearing date
+
+On November 4, 2026 (filing date) the government moved for an extension until November 9, 2026 to comply with the court's request for evidence, saying additional attorneys needed to complete their review of documents for responsiveness and applicable privileges. On November 6, 2026 (order date) Judge Perry granted AUSA William Hogan's request to intervene, kept the hearing scheduled for 11/16/2026, said she would move it to 11/19/2026 at 9:00 a.m. if all four named witnesses agreed, and barred cross-examination.

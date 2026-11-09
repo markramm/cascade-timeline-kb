@@ -778,6 +778,51 @@ claims:
   id: u52
   outcome: verified
   checked: '2026-11-05'
+- type: date
+  value: 11/02/26
+  span: Case 4:26-cv-10680-AMO Document 103 Filed 11/02/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u53
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: October 30, 2026
+  span: FILED OCT 30 2026 MOLLY C. DWYER, CLERK
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u54
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: Section 11(b)
+  span: the district court properly concluded that CNA/NNU has associational standing to pursue an intimidation claim under Section 11(b) of the Voting Rights Act.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u55
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: irreparably harmed
+  span: The Federal Defendants have not carried their burden to show that they likely will be irreparably harmed if we do not grant a stay pending appeal
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u56
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: four-and-a-half-day
+  span: another four-and-a-half-day limitation on their Surge operations
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u57
+  outcome: verified
+  checked: '2026-11-09'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -847,6 +892,11 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.104.0.pdf
     publisher: CourtListener RECAP
     date: '2026-11-04'
+    tier: 1
+  - title: Ninth Circuit order, No. 26-7139 (Dkt 103), California Nurses Ass'n v. Mullin, N.D. Cal. 4:26-cv-10680
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+    date: '2026-11-02'
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -970,6 +1020,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-02'
+  date_kind: docket entry date
+  heading: Ninth Circuit denies the government's stay pending appeal
+  claims:
+  - u53
+  - u54
+  - u55
+  - u56
+  - u57
+  event_date_claim: u53
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: cna-v-mullin
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -1007,3 +1070,7 @@ A judge made "a sua sponte request for an en banc vote" the same day, and the go
 ## Update (2026-11-04, filing date (district docket)): Judge Tung's dissent from the en banc denial is filed on the district docket
 
 The Ninth Circuit order denying rehearing en banc, with Judge Tung's dissent, was entered on the district court docket on 11/04/26 (ECF 104). The dissent is by Judge Tung, joined by Judges Callahan, Nelson, Collins, Bress, Bumatay and VanDyke. It says the preliminary injunction enjoined "the government from even investigating illegal voting" and that, by relying on section 11(b) of the Voting Rights Act, the district court "confused investigation for intimidation."
+
+## Update (2026-11-02, docket entry date): Ninth Circuit denies the government's stay pending appeal
+
+On 11/02/26 (docket entry date) the Ninth Circuit's order was entered on the district docket; the order itself carries a clerk's stamp of October 30, 2026. A Ninth Circuit panel denied the Federal Defendants' request for a stay pending appeal, concluding that the district court properly found that the nurses' groups have associational standing to pursue an intimidation claim under Section 11(b) of the Voting Rights Act, and that the government had not shown it would be irreparably harmed by a four-and-a-half-day limitation on its operations.

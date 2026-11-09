@@ -126,6 +126,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: October 27, 2026
+  span: 'IT IS SO ORDERED. DATED: October 27, 2026.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.983893/gov.uscourts.cacd.983893.85.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: Bilal A. Essayli—even in his designated roles as a Special Attorney and FAUSA—is unlawfully serving as a “de facto” United States Attorney, and he is disqualified from (1) participating in or supervising these cases, or (2) otherwise supervising any attorneys in the handling of these cases. The court, however, DENIES the requests to dismiss Defendants’ indictments.
+  span: Bilal A. Essayli— even in his designated roles as a Special Attorney and FAUSA—is unlawfully serving as a “de facto” United States Attorney, and he is disqualified from (1) participating in or supervising these cases, or (2) otherwise supervising any attorneys in the handling of these cases. The court, however, DENIES the requests to dismiss Defendants’ indictments.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.983893/gov.uscourts.cacd.983893.85.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: do not become effective until the court rules on the government’s motion for a stay
+  span: the disqualifications in this Order do not become effective until the court rules on the government’s motion for a stay pending appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.983893/gov.uscourts.cacd.983893.85.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-09'
 tags:
 - us-attorneys
 - essayli
@@ -148,6 +175,11 @@ sources:
   publisher: Los Angeles Times (Brittny Mejia)
   date: '2026-10-27'
   tier: 1
+- title: Order on renewed motions to dismiss and disqualify (ECF 85), United States v. Ramirez, 5:25-cr-00264-SSS (C.D. Cal.)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.983893/gov.uscourts.cacd.983893.85.0.pdf
+  publisher: U.S. District Court, C.D. Cal. (via RECAP)
+  date: '2026-10-27'
+  tier: 1
 related_events:
 - 2026-01-08--fifth-federal-judge-rules-trump-us-attorney-unlawful
 - 2026-10-16--essayli-x-post-20k-noncitizens-confirmed-by-a-review-of-federal-databases-reply-to-reichlin-melnick
@@ -155,6 +187,18 @@ related_events:
 captured_by: capture-watch
 cluster: enforcement-funnel
 lane: Democratic Erosion
+updates:
+- date: '2026-10-27'
+  date_kind: order date
+  heading: 'The order''s own conclusion: disqualified even in his Special Attorney and FAUSA roles, indictments stand'
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: unlawfully-serving-us-attorneys
 ---
 
 A federal judge ruled on Tuesday (the ruling date) that Bill Essayli is unlawfully serving as Los Angeles' top federal prosecutor and ordered him disqualified from overseeing two criminal cases, the Los Angeles Times reported. Senior U.S. District Judge J. Michael Seabright wrote: "In sum, Essayli is unlawfully serving as a 'de facto' United States Attorney," and the Times reports that he delayed the disqualifications from taking effect while he considers an anticipated government request for a stay pending appeal. Essayli told the Times the case "will be decided by the Supreme Court" and "I look forward to serving in my current role until then."
@@ -162,3 +206,7 @@ A federal judge ruled on Tuesday (the ruling date) that Bill Essayli is unlawful
 Seabright rejected the Justice Department's revised delegation of authority: "Withholding the three specific statutory powers mentioned in the revised designation order in reality withholds nothing." The ruling follows a Ninth Circuit decision rejecting a similar arrangement for Nevada prosecutor Sigal Chattah. Seabright had ruled the year before that Essayli was "not lawfully serving" as acting U.S. attorney, but let him keep exercising authority as a special attorney and first assistant.
 
 Essayli is the face of the Justice Department's California noncitizen-voter push ([[2026-10-16--essayli-x-post-20k-noncitizens-confirmed-by-a-review-of-federal-databases-reply-to-reichlin-melnick]], [[2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built]]), where, per AP, California has pushed back on federal efforts to prevent election officials from counting ballots of up to 20,000 people. The Times reports that the order applies to two prosecutions. Earlier rulings on acting U.S. attorneys are in [[2026-01-08--fifth-federal-judge-rules-trump-us-attorney-unlawful]]. Open: the government's stay motion, and any Ninth Circuit or Supreme Court action on the Chattah question.
+
+## Update (2026-10-27, order date): The order's own conclusion: disqualified even in his Special Attorney and FAUSA roles, indictments stand
+
+The conclusion of the order, dated October 27, 2026 (order date), reads: “Bilal A. Essayli—even in his designated roles as a Special Attorney and FAUSA—is unlawfully serving as a “de facto” United States Attorney, and he is disqualified from (1) participating in or supervising these cases, or (2) otherwise supervising any attorneys in the handling of these cases. The court, however, DENIES the requests to dismiss Defendants’ indictments.” The order adds that the disqualifications do not become effective until the court rules on the government's motion for a stay pending appeal.
