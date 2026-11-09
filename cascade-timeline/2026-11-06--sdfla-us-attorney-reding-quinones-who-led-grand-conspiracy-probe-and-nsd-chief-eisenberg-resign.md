@@ -83,6 +83,42 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-06'
+- type: date
+  value: Monday
+  span: The head of the Justice Department's Civil Division, Brett Shumate, submitted his resignation Monday, becoming the latest in a growing number of Senate-confirmed DOJ leaders to step down in a post-midterms shakeup of the nation's top law enforcement agency.
+  url: https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: Attorney General Todd Blanche announced Shumate's resignation in a social media post
+  span: Attorney General Todd Blanche announced Shumate's resignation in a social media post that highlighted a series of civil litigation priorities during the first two years of the Trump administration.
+  url: https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: fourth top official to resign since last week's midterm elections
+  span: Shumate is the fourth top official to resign since last week's midterm elections, following the departure of Civil Rights Division chief Harmeet Dhillon, South Florida U.S. Attorney Jason Reding Quinones and National Security Division head John Eisenberg.
+  url: https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: permanent replacements for the positions before Republicans lose Senate control in January
+  span: It was not immediately clear of the Trump administration planned to push for permanent replacements for the positions before Republicans lose Senate control in January.
+  url: https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-09'
 sources:
 - title: 'NBC News: Trump DOJ appointee who led ‘grand conspiracy’ probe of Trump foes resigns'
   url: https://www.nbcnews.com/politics/justice-department/trump-doj-appointee-led-grand-conspiracy-probe-trump-foes-resigns-rcna607839
@@ -93,6 +129,11 @@ sources:
   url: https://www.politico.com/news/2026/11/06/john-eisenberg-jason-quinones-doj-01153945
   publisher: POLITICO
   date: '2026-11-06'
+  tier: 2
+- title: 'ABC News: DOJ leadership shakeup continues as Civil Division chief steps down'
+  url: https://abcnews.com/US/doj-leadership-shakeup-continues-civil-division-chief-steps/story?id=137976350
+  publisher: ABC News
+  date: '2026-11-09'
   tier: 2
 tags:
 - doj
@@ -105,7 +146,24 @@ verification: source-verified
 related:
 - 2026-11-05--reports-doj-civil-rights-head-harmeet-dhillon-plans-to-resign-after-midterms
 - 2026-09-10--digenova-resigns-grand-conspiracy-probe-no-indictments-says-evidence-takes-time
+updates:
+- date: '2026-11-09'
+  date_kind: announcement date
+  heading: Civil Division chief Brett Shumate resigns, the fourth top DOJ official out since the midterms
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 ---
 Attorney General Todd Blanche announced on X on Friday that U.S. Attorney for the Southern District of Florida Jason A. Reding Quiñones had resigned. The U.S. attorney headed the office running the so-called "grand conspiracy" investigation into federal law enforcement officials who were involved in earlier investigations of Trump. The probe was seeking to charge officials over conduct more than 10 years old, and no charges had been brought directly in connection with it, NBC News reported. In a social media post, he wrote that he was leaving "with immense pride in what we accomplished together and profound gratitude for the opportunity to serve our great Nation."
 
 The same day, Assistant Attorney General John Eisenberg, head of DOJ's National Security Division, resigned, according to two people familiar with the matter who spoke to POLITICO. He oversaw prosecutions of terrorism, leak investigations and espionage cases. The resignations came just a day after the department's Civil Rights Division chief departed.
+
+## Update (2026-11-09, announcement date): Civil Division chief Brett Shumate resigns, the fourth top DOJ official out since the midterms
+
+The head of the Justice Department's Civil Division, Brett Shumate, submitted his resignation Monday, ABC News reported; Attorney General Todd Blanche announced it in a social media post. Shumate is the fourth top official to resign since last week's midterm elections, following Civil Rights Division chief Harmeet Dhillon, South Florida U.S. Attorney Jason Reding Quinones and Assistant Attorney General John Eisenberg of the National Security Division. It was not immediately clear whether the administration planned to push for permanent replacements before Republicans lose Senate control in January, ABC reported.
