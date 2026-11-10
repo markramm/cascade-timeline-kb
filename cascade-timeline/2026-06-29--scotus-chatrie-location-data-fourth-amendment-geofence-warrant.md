@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant
 date: '2026-06-29'
-title: "SCOTUS in Chatrie v. United States Holds Location Data Fourth-Amendment Protected, Geofence Warrants Need Judicial Approval"
+title: "SCOTUS in Chatrie v. United States Holds Obtaining Google Location History Was a Fourth Amendment Search, Leaves the Geofence Warrant Question on Remand"
 importance: 9
 status: confirmed
 tags:
