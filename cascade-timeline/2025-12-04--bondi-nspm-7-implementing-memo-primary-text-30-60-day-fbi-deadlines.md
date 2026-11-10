@@ -116,12 +116,19 @@ claims:
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+- id: c13
+  type: quote
+  value: shall investigate matters from the past five years that involved potential acts of domestic terrorism
+  span: shall investigate matters from the past five years that involved potential acts of domestic terrorism, including the surge of attacks on non-profit organizations and facilities, doxing of law enforcement, coordinated interference with federal employees in agencies such as DOJ and the Department of Homeland Security, and potential unlawful targeting of Supreme Court justices at their homes.
+  url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
+  read: fetched
+  source_kind: secondary
 ---
 
 This entry records the text of the memorandum dated December 4, 2025 and subject-lined "Implementing National Security Presidential Memorandum-7: Countering Domestic Terrorism and Organized Political Violence." It is addressed to all federal prosecutors, law enforcement agencies and DOJ grant-making components. Existing entry [[2025-12-04--bondi-fbi-domestic-terrorism-memo]] covers the same document through press reporting.
 
 Its list of motivations reads: "adherence to radical gender ideology, anti-Americanism, anti-capitalism, or anti-Christianity." Its footnote adds: "No investigation may be opened based solely on activities protected by the First Amendment or the lawful exercise of rights secured by the Constitution or laws of the United States."
 
-Directives: federal law enforcement agencies are told to "review their files and holdings for Antifa and Antifa-related intelligence and information" within 14 days of the memo and send them to the FBI. The FBI "shall compile a list of groups or entities engaged in acts that may constitute domestic terrorism" and give it to the Deputy Attorney General, with an initial report due 30 days after the memo. Within 60 days the FBI is to "disseminate an intelligence bulletin on Antifa and Antifa-aligned anarchist violent extremist groups." And "the FBI shall establish a cash reward system" for information on leaders of groups it treats as domestic terrorist organizations.
+Directives: federal law enforcement agencies are told to "review their files and holdings for Antifa and Antifa-related intelligence and information" within 14 days of the memo and send them to the FBI. Separately, with no deadline stated in that paragraph, the FBI and its JTTF partners "shall investigate matters from the past five years that involved potential acts of domestic terrorism"; that five-year review is the FBI's, not a review of every agency's files. The FBI "shall compile a list of groups or entities engaged in acts that may constitute domestic terrorism" and give it to the Deputy Attorney General, with an initial report "on this directive" due 30 days after the memo (the memo sets no date for the list itself). Within 60 days the FBI is to "disseminate an intelligence bulletin on Antifa and Antifa-aligned anarchist violent extremist groups." And "the FBI shall establish a cash reward system" for information on leaders of groups it treats as domestic terrorist organizations.
 
 The text read here is a PDF hosted by the Alliance for Charity and Security. A separate Bondi memo on ICE is recorded at [[2025-09-29--bondi-memo-ending-political-violence-against-ice-charging-priorities]].
