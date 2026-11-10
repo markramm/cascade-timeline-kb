@@ -26,6 +26,7 @@ related_events:
 - 2025-09-29--bondi-memo-ending-political-violence-against-ice-charging-priorities
 - 2025-12-04--bondi-nspm-7-implementing-memo-primary-text-30-60-day-fbi-deadlines
 - 2026-06-15--whipple-shield-incident-report-program-codes-antifa-nspm-7-cuc-op-keyhole
+- 2025-09-25--nspm-7-domestic-terrorism-targets-anti-capitalist-beliefs
 sources:
 - title: Countering Domestic Terrorism and Organized Political Violence (NSPM-7)
   url: https://www.whitehouse.gov/presidential-actions/2025/09/countering-domestic-terrorism-and-organized-political-violence/

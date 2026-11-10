@@ -23,6 +23,7 @@ related_events:
 - 2025-12-04--bondi-fbi-domestic-terrorism-memo
 - 2025-09-25--nspm-7-countering-domestic-terrorism-and-organized-political-violence-signed
 - 2025-09-29--bondi-memo-ending-political-violence-against-ice-charging-priorities
+- ag-bondi-issues-domestic-terrorism-memo-expanding-definition-to-include-immigration-protest-and-anti-capitalism
 sources:
 - title: Implementing National Security Presidential Memorandum-7 (memorandum text hosted by charityandsecurity.org)
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf

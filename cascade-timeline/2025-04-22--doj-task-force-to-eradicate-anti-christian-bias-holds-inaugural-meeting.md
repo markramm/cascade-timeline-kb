@@ -22,6 +22,7 @@ actors:
 - Michael Farris
 related_events:
 - 2025-02-06--eo-14202-eradicating-anti-christian-bias-creates-doj-task-force
+- bondi-convenes-inaugural-anti-christian-bias-task-force-meeting-cross-cabinet-cn-coordination-mechanism-activated
 sources:
 - title: Attorney General Pamela Bondi Hosts First Task Force Meeting to Eradicate Anti-Christian Bias in the Federal Government
   url: https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-hosts-first-task-force-meeting-eradicate-anti-christian-bias
