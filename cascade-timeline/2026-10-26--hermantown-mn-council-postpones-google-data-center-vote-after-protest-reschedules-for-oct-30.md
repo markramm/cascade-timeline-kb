@@ -169,6 +169,87 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-28'
+- type: date
+  value: late Friday night
+  span: the Hermantown City Council unanimously approved several key agreements late Friday night for a controversial proposed Google data center
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: twice being rescheduled following protests
+  span: After twice being rescheduled following protests earlier this week, the Hermantown City Council unanimously approved
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: 1.7 million-square-foot
+  span: The council approved a development agreement for the 1.7 million-square-foot project, which is slated to be built on more than 200 acres
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: more than 200 acres
+  span: which is slated to be built on more than 200 acres in a rural residential area of Hermantown just outside Duluth.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: a special use permit and a plan to decommission the site
+  span: Other approvals included a special use permit and a plan to decommission the site in the event the data center isn’t completed or abandoned.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: '85'
+  span: The city restricted attendance to 85 people.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: closed an overflow room that was open for past meetings
+  span: It closed an overflow room that was open for past meetings.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: Most people in attendance spoke against the proposal
+  span: Most people in attendance spoke against the proposal, although supporters also addressed the council.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-09'
+- type: figure
+  value: $80 million
+  span: It agreed to drop a request for up to $80 million in property tax breaks.
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-09'
 event_date_claim: c1
 source_published_date: '2026-10-27'
 captured_by: capture-watch
@@ -187,11 +268,40 @@ sources:
   publisher: FOX 9 (Jeff Wald and Nick Longworth)
   date: '2026-10-27'
   tier: 2
+- title: Hermantown approves controversial Google Data Center during late night meeting (MPR News)
+  url: https://mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting
+  publisher: MPR News
+  date: '2026-10-31'
+  tier: 1
 related_events:
 - 2026-08-24--carlton-county-mn-unanimous-one-year-data-center-moratorium-google-hermantown
 coverage: []
+updates:
+- date: '2026-10-30'
+  date_kind: council vote date (late Friday night, reported by MPR News)
+  heading: Hermantown council unanimously approves the Google data center agreements
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 The Hermantown, Minn., City Council was set to approve a Google data center on Monday night, FOX 9 reported, "until protesters disrupted the meeting to the point where city officials opted to delay it." Protesters gathered outside council chambers "continuously chanting." The meeting was to start at 6:30 p.m.; about two hours later it was adjourned, and the police chief gave protesters "a 10-minute warning to leave" or be detained or arrested for "unsafe and unlawful gathering." The city then canceled the Tuesday continuation "amid concerns the meeting would impact early voting," which was taking place in council chambers. City leaders rescheduled the meeting for Friday, Oct. 30, at 6:30 p.m., with "the same six resolution items," a virtual option, and in-person attendance limited to "the first 85 visitors."
 
 In October 2025 the council voted 4-0 to rezone more than 200 acres for the data center, and local leaders have been criticized for signing non-disclosure agreements about it, FOX 9 reports. Neighboring Carlton County adopted a moratorium while Google pressed Hermantown: [[2026-08-24--carlton-county-mn-unanimous-one-year-data-center-moratorium-google-hermantown]].
+
+## Update (2026-10-30, council vote date (late Friday night, reported by MPR News)): Hermantown council unanimously approves the Google data center agreements
+
+After twice rescheduling the vote following protests, the Hermantown City Council unanimously approved several key agreements late Friday night for the proposed Google data center, MPR News reported. The council approved a development agreement for the 1.7 million-square-foot project, slated for more than 200 acres in a rural residential area just outside Duluth; other approvals included a special use permit and a plan to decommission the site if the data center isn't completed or is abandoned.
+
+The city restricted attendance to 85 people and closed an overflow room that was open for past meetings. Most people in attendance spoke against the proposal. In the weeks before the vote, Google agreed to drop a request for up to $80 million in property tax breaks.

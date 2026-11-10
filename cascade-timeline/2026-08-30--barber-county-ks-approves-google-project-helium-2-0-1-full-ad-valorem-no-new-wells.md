@@ -29,6 +29,11 @@ sources:
     publisher: KAKE
     date: '2026-08-31'
     tier: 2
+  - title: Barber County resident sues Google and county officials after data center project moves forward (KWCH)
+    url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+    publisher: KWCH
+    date: '2026-11-06'
+    tier: 2
 related_events:
   - 2026-08-31--dougherty-county-ga-extends-data-center-moratorium-180-days-no-ceiling
   - 2026-09-08--levy-county-fl-adopts-one-year-data-center-moratorium-ordinance-2026-05
@@ -36,6 +41,76 @@ related_events:
   - 2026-08-11--walker-county-ga-datacenter-moratorium-180-days-study-committee
 coverage:
   - daily-capture-reports/datacenter/2026-08-30--barber-county-ks-google-project-helium-data-center-approved-aug30.md
+claims:
+- type: date
+  value: Nov. 6, 2026
+  span: 'Published: Nov. 6, 2026 at 11:18 PM CST'
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: suing Google and county officials over the approval of a data center project
+  span: A resident of Barber County is suing Google and county officials over the approval of a data center project.
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: had no authority to enter that contract
+  span: They executed a contract that affects my client and that they had no authority to enter that contract.
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: effectively created a zoning regulation through this contract and did not follow proper procedure
+  span: And we are also arguing that they effectively created a zoning regulation through this contract and did not follow proper procedure,
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: it is the attorney general or district attorney that needs to bring this lawsuit and not a private citizen
+  span: Their primary contention is that it is the attorney general or district attorney that needs to bring this lawsuit and not a private citizen,
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-09'
+- type: date
+  value: early 2027
+  span: It is designed to be air-cooled, and construction is slated to begin in early 2027.
+  url: https://www.kwch.com/2026/11/07/barber-county-resident-sues-google-county-officials-after-data-center-project-moves-forward/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-09'
+updates:
+- date: '2026-11-06'
+  date_kind: publication date (KWCH report; the filing date is not stated)
+  heading: A neighboring landowner sues Google and county officials over the Project Helium approval
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 The Barber County, Kansas Board of Commissioners voted **2-0-1 on August 30, 2026** — two in favor, one abstaining — to approve Google's **"Project Helium,"** a **1.7 million square foot** hyperscale data center near **Sharon**, about eight miles east of Medicine Lodge. Construction is to begin in early 2027, operations in **2030**, with **500 permanent jobs** projected and thousands during construction.
@@ -56,3 +131,9 @@ Those are the four things counties elsewhere in this corpus said they lacked the
 And the approval was contested. The decision "**was met with immediate confrontation from dozens of people in the county's annex,**" and one man said it inspired him to run against one of the two commissioners who voted yes. One commissioner abstained; **neither outlet names them or gives a reason.**
 
 **Sourcing note.** The 2-0-1 vote, the August 30 date, Project Helium's name and 1.7-million-square-foot size, the Sharon location, the 2027/2030 timeline, and the 500-job projection are carried by both KWCH and KAKE. The **full-ad-valorem commitment and the $5.5M community-benefit figure are quoted by KAKE from the development agreement summary**; the capture ledger's fact-check asked for exactly this confirmation, and it was found — but note the tension: **KWCH describes Kansas as offering up to 20 years of exemption without saying what Google actually receives.** The two accounts are reconcilable — the agreement's terms are not the statute's default — but **the development agreement itself was not read**, and whether the 100% commitment is durable, conditional, or coexists with a separate state-level exemption is unresolved. That question decides whether the county's tax base actually grows. The no-new-wells and closed-loop commitments and the decibel limits are from KWCH. The **abstaining commissioner is unnamed in both sources and is not named here.** No tier-1 outlet covering this was found.
+
+## Update (2026-11-06, publication date (KWCH report; the filing date is not stated)): A neighboring landowner sues Google and county officials over the Project Helium approval
+
+A resident of Barber County is suing Google and county officials over the approval of the data center project, KWCH reported in a story published Nov. 6, 2026. The plaintiff's attorney said the suit argues the county "had no authority to enter that contract" and "effectively created a zoning regulation through this contract and did not follow proper procedure." According to the attorney, the county and Google have responded that "it is the attorney general or district attorney that needs to bring this lawsuit and not a private citizen."
+
+KWCH reports construction is slated to begin in early 2027.

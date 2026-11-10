@@ -49,6 +49,11 @@ sources:
   publisher: KPBS (Jacob Aere)
   date: '2026-10-28'
   tier: 1
+- title: Otay Mesa detainee death prompts San Diego congressional demands (City News Service via NBC 7 San Diego)
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  publisher: NBC 7 San Diego
+  date: '2026-11-06'
+  tier: 2
 related_events:
 - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 - 2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026
@@ -380,6 +385,69 @@ claims:
   id: u30
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: Friday
+  span: Members of San Diego's congressional delegation and California's senators Friday demanded answers from the Trump Administration in the death of an immigrant detainee
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u31
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: wrote a letter to demand an investigation into the death
+  span: Democrat senators Alex Padilla and Adam Schiff wrote a letter to demand an investigation into the death.
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u32
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: Juan Vargas, Scott Peters, Sara Jacobs
+  span: Democrat representatives from San Diego including Juan Vargas, Scott Peters, Sara Jacobs and from San Juan Capistrano Mike Levin
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u33
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: Acting Immigration and Customs Enforcement Director David Venturella
+  span: 'The letter, addressed to Secretary of Homeland Security Markwayne Mullin and Acting Immigration and Customs Enforcement Director David Venturella, read:'
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u34
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: previously documented concerns regarding delayed access to medical care, subpar detention conditions and compliance with public health reporting requirements
+  span: A thorough investigation is all the more important in light of previously documented concerns regarding delayed access to medical care, subpar detention conditions and compliance with public health reporting requirements.
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u35
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: regularly update members of Congress as the investigation progresses
+  span: We further request that the department regularly update members of Congress as the investigation progresses.
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u36
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: ICE did not respond to a request for comment
+  span: ICE did not respond to a request for comment about the death.
+  url: https://www.nbcsandiego.com/news/local/otay-mesa-detainee-death-prompts-san-diego-congressional-demands/4098395/
+  read: fetched
+  source_kind: secondary
+  id: u37
+  outcome: verified
+  checked: '2026-11-09'
 verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
@@ -444,6 +512,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
+- date: '2026-11-06'
+  date_kind: letter date (reported by City News Service)
+  heading: San Diego's congressional delegation and California's senators demand an investigation
+  claims:
+  - u31
+  - u32
+  - u33
+  - u34
+  - u35
+  - u36
+  - u37
+  event_date_claim: u31
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 approved_names:
 - Roberto Jimenez Gutierrez
 - Guillermo Pascual Verganza
@@ -456,7 +539,7 @@ A person in ICE custody died on Oct. 24, 2026 at the Otay Mesa Detention Center 
 
 At the time of KGTV's report, the station had reached out to ICE and DHS for more information and had yet to hear back, and Aguirre was awaiting more information about the cause and the person's identity. This entry therefore binds to the operator's account as relayed by San Diego outlets, not to an ICE notification; ICE's own notice follows in the update below.
 
-San Diego County Board of Supervisors Chair Pro Tempore Paloma Aguirre, statement of Monday:  "We don’t yet know their name." She asked ICE and CoreCivic to reach the family, cooperate with an investigation and share findings with the family and the public. She pointed to what county public health staff found when they got inside after going to federal court: "tuberculosis cases no one told the County about, no vaccines in stock, and a man who had waited 18 months for a medical device." That is the county's characterization, not an adjudicated finding.
+San Diego County Supervisor Paloma Aguirre, the board's chair pro tempore, statement of Monday:  "We don’t yet know their name." She asked ICE and CoreCivic to reach the family, cooperate with an investigation and share findings with the family and the public. She pointed to what county public health staff found when they got inside after going to federal court: "tuberculosis cases no one told the County about, no vaccines in stock, and a man who had waited 18 months for a medical device." That is the county's characterization, not an adjudicated finding.
 
 Daylight reports that the death would bring the known number of deaths this year in ICE custody to 30. That is a reporter's count, not reconciled against canon's own tally ([[2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026]]).
 
@@ -485,3 +568,9 @@ ICE's release had said he had a criminal history; his family insists those charg
 ## Update (2026-10-28, identification date, county medical examiner): The medical examiner's name for the Otay Mesa decedent
 
 The San Diego County Medical Examiner's office identified the man as Guillermo Pascual Verganza, 43, a Guatemalan national. The name differs from the one ICE released. The office said it verified his identity by running his fingerprints through the Department of Justice and California ID's databases, and it also matched that information against his Guatemalan passport. An ICE spokesperson said the detainee provided false information and used several aliases to mislead law enforcement.
+
+## Update (2026-11-06, letter date (reported by City News Service)): San Diego's congressional delegation and California's senators demand an investigation
+
+Members of San Diego's congressional delegation and California's senators on Friday demanded answers from the Trump administration in the death, City News Service reported, in a story run by NBC San Diego. Rep. Juan Vargas, Rep. Scott Peters, Rep. Sara Jacobs, Rep. Mike Levin, Sen. Alex Padilla and Sen. Adam Schiff wrote a letter to demand an investigation, addressed to Secretary of Homeland Security Markwayne Mullin and Acting ICE Director David Venturella. The letter cites "previously documented concerns regarding delayed access to medical care, subpar detention conditions and compliance with public health reporting requirements," and asks that the department "regularly update members of Congress as the investigation progresses."
+
+ICE did not respond to the outlet's request for comment about the death.
