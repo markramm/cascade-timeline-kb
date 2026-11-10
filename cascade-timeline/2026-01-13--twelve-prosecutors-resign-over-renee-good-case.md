@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-01-13--twelve-prosecutors-resign-over-renee-good-case
 date: 2026-01-13
-title: Twelve Federal Prosecutors Resign Over DOJ Handling of Renee Good Shooting
+title: Minnesota Federal Prosecutors Resign Over DOJ Handling of Renee Good Case; Civil Rights Division Criminal-Section Leaders Depart
 importance: 9
 actors:
 - Joseph Thompson
@@ -45,6 +45,12 @@ sources:
   date: '2026-01-13'
   tier: 1
 status: confirmed
+corrections:
+- date: '2026-11-10'
+  was: '"Twelve federal prosecutors resign" / "At least twelve"'
+  now: 'At least six Minnesota federal prosecutors resigned (anonymous sourcing, per NPR and Notus); separately, four to six Civil Rights Division criminal-section leaders left, and DOJ says they had sought early retirement before the Minnesota events.'
+  why: 'No outlet reported "twelve". The number was a sum of two separate groups with different stated reasons.'
+  found_by: tgie siege master record (cascade-research/research-notes/tgie-siege-master-record-dec1-feb12.md)
 coverage:
   - url: https://theramm.substack.com/p/renee-goods-last-words-im-not-mad
     title: "Renee Good's Last Words: \"I'm Not Mad at You\""
@@ -53,9 +59,9 @@ capture_lanes:
 - Democratic Erosion
 ---
 
-At least twelve federal prosecutors resigned in protest over the DOJ's handling of the Renee Good shooting investigation. Six prosecutors resigned from the Minnesota U.S. Attorney's Office, including the three top-ranking prosecutors: Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro).
+At least six federal prosecutors in Minnesota resigned over the DOJ's handling of the Renee Good case, according to reporting that relies on people familiar with the departures. Six prosecutors resigned from the Minnesota U.S. Attorney's Office, including the three top-ranking prosecutors: Joseph Thompson (lead federal prosecutor on Minnesota fraud cases), Thomas Calhoun-Lopez (Assistant U.S. Attorney and lead investigator on federal racketeering trials), and Melinda Williams (who led the prosecution of sex trafficker Anton Lazzaro).
 
-Simultaneously, six prosecutors from DOJ's Civil Rights Division in Washington, D.C. announced their departures, including the criminal section's chief. The Civil Rights Division resignations were triggered by Assistant Attorney General Harmeet Dhillon's decision not to investigate the ICE officer's fatal shooting of Renee Good. Sources told CBS News: "The lack of an investigation in Minneapolis was a breaking point for some of them."
+Separately, leaders of the DOJ Civil Rights Division's criminal section (reported as four to six; DOJ says they had sought early retirement before the Minnesota events) in Washington, D.C. announced their departures, including the criminal section's chief. The Civil Rights Division resignations were triggered by Assistant Attorney General Harmeet Dhillon's decision not to investigate the ICE officer's fatal shooting of Renee Good. Sources told CBS News: "The lack of an investigation in Minneapolis was a breaking point for some of them."
 
 The Minnesota resignations were triggered by DOJ pressure to investigate Renee Good's widow Becca and her ties to activist groups, combined with the department's refusal to open a civil rights investigation into the shooting itself. Deputy Attorney General Todd Blanche stated "there is currently no basis for a criminal civil rights investigation" into the ICE agent who killed Good. The FBI announced it would handle the investigation on its own and blocked Minnesota authorities from their typical role in reviewing evidence. The investigation was being treated as an assault on a federal officer—with ICE agent Jonathan Ross, rather than Good, as the victim.
 
