@@ -54,7 +54,7 @@ guilty plea in which he admitted the act, then a justification defense in a sepa
 
 Per FBI and court filings, Boelter's SUV contained a notebook listing **eleven data brokers and
 people-search sites** — Spokeo, Intelius, and TruePeopleSearch among them — annotated with costs and
-results. **He bought his targets' addresses.** See
+results. The filings document the notebook; they do not show that the addresses he used came from those sites. See
 [[harms-and-victims-data-colonialism-substrate-2026-06-11]] and
 [[2025-06-14--minnesota-house-speaker-assassination]].
 
