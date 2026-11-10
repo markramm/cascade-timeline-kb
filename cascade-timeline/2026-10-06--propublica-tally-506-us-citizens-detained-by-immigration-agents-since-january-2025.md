@@ -92,4 +92,4 @@ ProPublica's tracker, dated Oct. 6, 2026, counts 506 U.S. citizens detained by i
 
 Of the Americans ProPublica tracked as detained for allegedly assaulting or obstructing agents, fewer than half were actually charged in federal court, and many of those cases were dropped or dismissed. DHS enforcement operations are "highly targeted", the agency said.
 
-Side by side: highly targeted operations, and 506 citizens held. Related canon: [[2026-05-07--homan-confirms-ice-detains-us-citizens-daily-acknowledges-pattern]].
+Side by side: highly targeted operations, and 506 citizens held. Related canon: [[2026-05-07--homan-says-us-citizens-have-been-shortly-detained-im-sure-we-dont-deport-them]].
