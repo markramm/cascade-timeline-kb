@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2025-06-01--miller-noem-directive-3000-daily-arrests
 date: 2025-06-01
-title: Stephen Miller and Kristi Noem directive demands 3,000 daily ICE arrests
+title: Stephen Miller and Kristi Noem demand 3,000 daily ICE arrests
 importance: 8
 tags:
 - enforcement-escalation
@@ -52,8 +52,10 @@ capture_lanes:
 - Executive Power Expansion
 ---
 
-Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem issued a directive to ICE to arrest up to 3,000 immigrants each day - a more than fourfold increase from the previous daily average. This unprecedented quota system for immigration arrests represents a fundamental shift in enforcement priorities toward quantity over targeted enforcement.
+Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem demanded in a meeting with ICE officials that ICE arrest 3,000 immigrants each day, approximately triple the number of daily arrests ICE agents were making at the beginning of the administration (Axios, as relayed by The Independent via Yahoo News).
 
 ## Coverage
 
 - [Stephen Miller Screamed 'Quantity Over Quality': The Machinery Behind the Shooting](https://theramm.substack.com/p/stephen-miller-screamed-quantity) — The RAMM (2026-01-13): Analyzes how the 3,000-daily quota created specific operational pressures — speed over accuracy, collateral arrests, warrantless operations, and fear-based management — that translated ideology into enforcement violence.
+
+Correction (2026-11-09): This entry called the demand a "directive" and said it was a more than fourfold increase, and dated it June 1. The sources say about triple the early-2025 daily arrest rate, and the demand was made in the May 21, 2025 meeting at ICE headquarters (see the 2025-05-21 entry), reported by Axios on May 28. This entry's June 1 date does not match any source and is kept only so links resolve. The "quantity over targeted enforcement" characterization was our reading and is removed.

@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2021-01-06--miller-writes-trump-ellipse-speech-inciting-insurrection
 date: 2021-01-06
-title: Stephen Miller Writes Trump's January 6 Ellipse Speech, Adds Language About Pence Overturning Election
+title: Stephen Miller Runs Speechwriting for Trump's January 6 Ellipse Speech, Relays Trump's Pence Edits
 importance: 9
 actors:
 - Stephen Miller
@@ -26,6 +26,10 @@ sources:
   url: https://americasvoice.org/blog/lets-not-overlook-stephen-millers-role-in-jan-6-pushed-voting-lies-to-justify-fraudulent-2020-electors-scheme/
   outlet: America's Voice
   tier: 2
+- title: Final Report of the Select Committee to Investigate the January 6th Attack, ch. 7
+  url: https://www.govinfo.gov/content/pkg/GPO-J6-REPORT/pdf/GPO-J6-REPORT.pdf
+  outlet: U.S. House Select Committee on the January 6th Attack
+  tier: 1
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
@@ -33,4 +37,6 @@ capture_lanes:
 - Surveillance Infrastructure
 ---
 
-Stephen Miller served as the primary author of President Trump's January 6, 2021 Ellipse speech that directly preceded the Capitol insurrection, and personally added language claiming Vice President Mike Pence had the power to overturn the election results. Miller spoke with Trump for several minutes the morning of January 6 about the planned speech, then added "POTUS edits" that included explicit references to Pence having authority to reject electoral votes. White House lawyer Eric Herschmann objected to these additions and Miller initially removed the lines about Pence, but when Trump delivered the speech, it included multiple references pressuring Pence to overturn the election. The speech Miller crafted told the crowd: "We fight like hell. And if you don't fight like hell, you're not going to have a country anymore" and directed them to march to the Capitol. Miller was with Trump at the White House throughout January 6 as the insurrection unfolded. The House January 6 Committee questioned Miller for approximately eight hours about his role in preparing Trump's remarks and his presence at the White House during the attack. Miller also testified multiple times before federal grand juries as part of Special Counsel Jack Smith's criminal investigation. Miller's authorship of the speech demonstrates his central role in the conspiracy to overturn the 2020 election, using his position as a senior policy advisor to craft rhetoric designed to incite violence and block the peaceful transfer of power.
+Stephen Miller ran the speechwriting for President Trump's January 6, 2021 Ellipse speech that directly preceded the Capitol insurrection. According to the January 6 Select Committee's final report, drafts were written by two staff speechwriters and sent to Miller on January 5. On the morning of January 6, after a call with Trump, Miller emailed the speechwriters at 10:22 a.m. revisions with "red highlights marking POTUS edits." The Committee says Trump himself "slipped in" new sentences calling out Vice President Mike Pence by name. White House lawyer Eric Herschmann objected and the lines were taken out. After Trump's 11:17 a.m. call with Pence, Miller's assistant emailed the speechwriting team: "REINSERT THE MIKE PENCE LINES. Confirm receipt." Trump's "fight like hell" line was ad-libbed; the Committee says "fight" appeared only twice in the prepared text. Miller was with Trump at the White House throughout January 6 as the insurrection unfolded. The House January 6 Committee questioned Miller for approximately eight hours about his role in preparing Trump's remarks and his presence at the White House during the attack. Miller also testified multiple times before federal grand juries as part of Special Counsel Jack Smith's criminal investigation. Miller's role was running the process and relaying Trump's edits.
+
+Correction (2026-11-09): This entry (and its former title) said Miller was the speech's primary author, personally added the language about Pence, wrote "We fight like hell," directed the crowd to march, and crafted rhetoric designed to incite violence. The January 6 Select Committee's final report (ch. 7) says otherwise: drafts came from staff speechwriters, the Pence sentences were Trump's own late edits that Miller relayed, and "We fight like hell" was ad-libbed. Miller is not named as the author of any march line; the report says a march line appeared once in an early draft and a later revision added "building" after "Capitol," without saying who made it. The "incite" characterization is the House's charge against Trump and the Committee's description of the speech, not a finding about Miller's text, and is removed. The entry id and filename are left unchanged so links resolve.

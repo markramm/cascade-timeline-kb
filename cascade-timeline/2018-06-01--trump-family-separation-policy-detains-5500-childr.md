@@ -35,6 +35,11 @@ sources:
   outlet: The Guardian
   date: '2018-06-22'
   tier: 1
+- title: Stephen Miller on the family separation policy (Business Insider quoting the New York Times, June 20, 2018)
+  url: https://www.businessinsider.com/stephen-miller-immigration-border-migrant-twisted-2018-6
+  outlet: Business Insider
+  date: '2018-06-20'
+  tier: 2
 capture_lanes:
 - Judicial Capture
 - Regulatory Capture
@@ -42,8 +47,10 @@ capture_lanes:
 - Intelligence Penetration
 ---
 
-The Trump administration's 'zero tolerance' family separation policy forcibly removed over 5,500 children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. At least 7 children died in custody. The policy's architect, Stephen Miller, called it a deterrent despite knowing it violated international law. Documents revealed the administration knew it would separate families but proceeded anyway. Private prison companies CoreCivic and GEO Group profited billions from expanded detention contracts. Federal judges ordered reunification but over 1,000 children still remained separated by 2021. The UN Human Rights Office called it 'government-sanctioned child abuse.' Physicians for Human Rights documented lasting psychological trauma equivalent to torture.
+The Trump administration's 'zero tolerance' family separation policy forcibly removed over 5,500 children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. Miller defended the policy to the New York Times on June 16, 2018: "It was a simple decision by the administration to have a zero tolerance policy for illegal entry, period. The message is that no one is exempt from immigration law." Federal judges ordered reunification but over 1,000 children still remained separated by 2021. Physicians for Human Rights documented lasting psychological trauma equivalent to torture.
 
 ## Coverage
 
 - [Stephen Miller Screamed 'Quantity Over Quality': The Machinery Behind the Shooting](https://theramm.substack.com/p/stephen-miller-screamed-quantity) — The RAMM (2026-01-13): Covers family separation as a formative event in understanding Miller's ideology — including the Vanity Fair adviser quote and his uncle David Glosser's public condemnation of a descendant of Jewish refugees becoming the architect of refugee persecution.
+
+Correction (2026-11-09): This entry said at least 7 children died in custody, that Miller called the policy a deterrent while knowing it violated international law, that the administration's documents showed it knew it would separate families and proceeded anyway, that CoreCivic and GEO Group profited billions, and that the UN Human Rights Office called it "government-sanctioned child abuse." None of these could be confirmed in the cited sources, and several appear to be mis-attributed: that phrase is usually credited to the American Academy of Pediatrics, while the UN said separation may amount to torture. The sentences are removed pending sourcing. Miller's own words are from his June 16, 2018 New York Times interview as quoted by Business Insider. The DOJ Inspector General report (Jan. 2021) names White House meetings in April and May 2018 but does not name Miller. The Guardian and NBC links above did not load on 2026-11-09 and were not re-checked.

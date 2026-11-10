@@ -1,7 +1,7 @@
 ---
 id: 2026-01-01--miller-sets-denaturalization-quota-1000-citizens
 date: 2026-01-01
-title: 'Trump Administration Sets Quota to Strip Citizenship from Over 1,000 Naturalized Americans in 2026'
+title: 'USCIS Guidance Sets 100-200 Denaturalization Referrals a Month for 2026 (NYT)'
 importance: 9
 tags:
 - denaturalization
@@ -32,3 +32,5 @@ capture_lanes:
 - Civil Rights Suppression
 ---
 The Trump administration set a goal to denaturalize over a thousand naturalized US citizens in fiscal year 2026, against a historical average of 11 denaturalization cases opened per year from 1990 to 2017 (Immigrant Legal Resource Center figure, as Truthout reports it). New USCIS guidance, reported by The New York Times in December 2025, directs USCIS field offices to 'supply Office of Immigration Litigation with 100-200 denaturalization cases per month.' The scale of planned denaturalization represents a dramatic expansion of efforts to revoke citizenship from naturalized Americans, raising concerns about due process and the weaponization of bureaucratic errors to strip citizenship.
+
+Correction (2026-11-09): This entry's title called the guidance a quota and dated it January 1, 2026. The 100-200-a-month figure is USCIS guidance reported by the New York Times on or about Tuesday, December 16, 2025 (Truthout republished it December 18), setting a goal for 2026; no cited source names Miller as setting it. The January 1 date and entry id are kept so links resolve. For scale, the Justice Department announced 40 denaturalization complaints filed between Aug. 21 and Oct. 2, 2026, which it called the largest volume in a single period under the Trump administration, far below 100-200 a month. Source: Truthout (Dec. 18, 2025) and DOJ press release.
