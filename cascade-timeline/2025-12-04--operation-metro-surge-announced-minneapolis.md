@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2025-12-04--operation-metro-surge-announced-minneapolis
 date: '2025-12-04'
-title: "DHS Announces Operation Metro Surge in Minneapolis, Largest Immigration Enforcement Operation in U.S. History"
+title: "DHS Issues First Release on Operation Metro Surge, Launched December 1, in Minneapolis-St. Paul"
 importance: 8
 status: confirmed
 actors:
@@ -48,6 +48,16 @@ sources:
   outlet: PBS NewsHour
   date: '2026-01-06'
   tier: 1
+- title: "How many federal agents are in Minnesota?"
+  url: https://www.fox9.com/news/ice-minnesota-how-many-feds-minnesota
+  outlet: Fox 9
+  date: '2026-01-26'
+  tier: 2
+- title: "Minnesota ICE surge ending, feds say (live updates)"
+  url: https://www.cbsnews.com/minnesota/live-updates/minnesota-ice-surge-ending-feds-say/
+  outlet: CBS News Minnesota
+  date: '2026-02-12'
+  tier: 2
 - title: "Operation Metro Surge - Wikipedia"
   url: https://en.wikipedia.org/wiki/Operation_Metro_Surge
   outlet: Wikipedia
@@ -58,7 +68,7 @@ sources:
   outlet: Britannica
   date: '2026-02-01'
   tier: 2
-notes: "The existing entry 2025-12-04--ice-escalates-operations-targeting-somali-minnesota covers the December Somali targeting in detail. This entry provides the broader operational overview including the January 2026 expansion. The timeline already has entries for the Jan 6 expansion, Jan 7 Renee Good killing, Jan 12 Ellison lawsuit, Jan 19 3000 arrests announcement, Feb 12 end, and Feb 23 final data."
+notes: "Narrowed 2026-11-10 to sourced claims (see correction note at end). The December Somali targeting is covered in 2025-12-04--ice-escalates-operations-targeting-somali-minnesota; arrest totals, the Jan 7 and Jan 24 killings, the Ellison suit and the Feb 12 end have their own entries (related_events)."
 related_events:
 - 2025-12-04--ice-escalates-operations-targeting-somali-minnesota
 - 2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis
@@ -68,16 +78,12 @@ related_events:
 - 2026-02-12--homan-announces-operation-metro-surge-ends
 ---
 
-On December 4, 2025, the Department of Homeland Security formally announced Operation Metro Surge, an immigration enforcement operation targeting the Minneapolis-St. Paul metropolitan area. The operation initially deployed approximately 100 ICE agents specifically targeting the Somali community following President Trump's characterization of Somali Americans as "garbage" who "contribute nothing."
+DHS's December 4, 2025 press release says ICE had made arrests "since launching Operation Metro Surge on December 1, 2025," and names 12 people it said were arrested. Dec 4 is DHS's first press release on the operation, not the launch date. The release gives no count of agents.
 
-On January 6, 2026, DHS dramatically escalated the operation, deploying 2,000 federal agents (ICE and CBP officers) to Minneapolis -- describing it as the "largest immigration enforcement operation ever carried out" in the United States. By January 26, the force had grown to approximately 2,000 ICE officers and 1,000 CBP officers. An additional 1,000 agents were announced on January 12.
+On January 6, 2026, ICE called it "the largest immigration operation ever." The AP, citing "a person briefed on the operation," reported that as many as 2,000 federal agents and officers would be sent; the AP said neither ICE's acting director nor a DHS spokeswoman would say how many officers were involved. Gov. Walz was quoted as saying "apparently 2,000 people." The 2,000 is an anonymous-source estimate of a planned deployment, not a figure DHS stated.
 
-The operation's full scope and consequences:
+On January 26, 2026, a Justice Department attorney told a federal judge in court that more than 3,000 federal immigration officers were in Minnesota, at least 2,000 from ICE and at least 1,000 from Customs and Border Protection (Fox 9). That is the first official count on the record and the peak figure. On February 4, Homan announced that 700 would be withdrawn. Homan announced the end of the operation on February 12, 2026.
 
-**Scale:** At least 3,789 arrests documented through FOIA data released in March 2026, though the White House claimed over 4,000. The majority of arrestees were from Ecuador and Mexico, contradicting the initial framing that the operation targeted Somali fraud networks. A crowdsourced observer count of 578 arrests (Minnesota Reformer, Feb. 23, 2026) was roughly 14% of the administration's public claim of more than 4,000; the Reformer described that data as incomplete.
+See the related entries for the Jan 7 killing of Renee Good, the Jan 12 Ellison suit, the Jan 19 arrests announcement and the arrest totals.
 
-**Fatal violence:** Federal agents killed two American civilians during the operation. Renee Good, a legal observer, was shot and killed on January 7, 2026. Alex Pretti was also killed by federal agents. Both were U.S. citizens. The DOJ Civil Rights Division refused to investigate the Good killing, triggering mass resignations of senior DOJ officials.
-
-**Legal challenges:** Minnesota Attorney General Keith Ellison filed suit against DHS on January 12, 2026, challenging the operation's constitutionality and documenting widespread civil rights violations including detention of U.S. citizens based on ethnic appearance.
-
-**Conclusion:** DHS border czar Tom Homan announced the end of Operation Metro Surge on February 12, 2026, after 10 weeks. The operation established the precedent that the federal government could deploy a military-scale enforcement operation targeting a specific ethnic community in an American city, kill civilians with impunity, and face no accountability from the Justice Department.
+**Correction, 2026-11-10:** An earlier version said the operation "initially deployed approximately 100 ICE agents," that DHS "deployed 2,000 federal agents" on January 6, and that "an additional 1,000 agents were announced on January 12." None of these is supported by a source we have read. The 100 figure appears only in complaint language seen via a search snippet. The 2,000 was AP's anonymous-source figure, not a DHS announcement. No source for a Jan 12 announcement of 1,000 more was found. The earlier version also gave arrest totals, a quote attributed to Trump, and conclusions about DOJ and impunity that this entry does not source; they are removed here and belong in the entries linked above. Source: the T5 chronology (cascade-research tgie-december-2025-surge-chronology).
