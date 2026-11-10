@@ -451,6 +451,141 @@ claims:
   id: u41
   outcome: verified
   checked: '2026-10-30'
+- type: date
+  value: November 6, 2026
+  span: 'Dated: November 6, 2026 Respectfully submitted, /s/ Julie A. Hamill'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u42
+  outcome: verified
+  checked: '2026-11-10'
+- type: posture
+  value: notice of voluntary dismissal
+  span: The United States provides this notice of voluntary dismissal pursuant to Fed. R. Civ. P. 41(a)(1)(A)(i).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u43
+  outcome: verified
+  checked: '2026-11-10'
+- type: posture
+  value: 41(a)(1)(A)(i)
+  span: The United States provides this notice of voluntary dismissal pursuant to Fed. R. Civ. P. 41(a)(1)(A)(i).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u44
+  outcome: verified
+  checked: '2026-11-10'
+- type: date
+  value: November 13
+  span: In addition, by the time of this Court’s hearing on November 13 in this matter,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u45
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: California will have already commingled the challenged ballots with lawful ones
+  span: California will have already commingled the challenged ballots with lawful ones.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u46
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: no way to get the challenged ballots segregated
+  span: is then no way to get the challenged ballots segregated.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u47
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: is no longer available
+  span: States sought and needed is no longer available—rendering voluntary dismissal necessary
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u48
+  outcome: verified
+  checked: '2026-11-10'
+- type: date
+  value: November 10, 2026
+  span: 'Case No. 2:26-cv-12025-DOC-ADS Date: November 10, 2026 Title: United States of America v. State of California et al.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u49
+  outcome: verified
+  checked: '2026-11-10'
+- type: posture
+  value: ORDER CLOSING CASE
+  span: 'PROCEEDINGS (IN CHAMBERS): ORDER CLOSING CASE This lawsuit attempted to disrupt an ongoing election and create confusion and uncertainty for voters and election workers alike.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u50
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: unilateral withdrawal of its Complaint in its entirety
+  span: Upon recent receipt of the Department of Justice’s unilateral withdrawal of its Complaint in its entirety,
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u51
+  outcome: verified
+  checked: '2026-11-10'
+- type: posture
+  value: MOOT and hereby vacated
+  span: the expedited hearing this Court set regarding the validity of the government’s list for Friday, November 13, 2026 is now MOOT and hereby vacated.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u52
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: This lawsuit attempted to disrupt an ongoing election and create confusion and uncertainty for voters and election workers alike
+  span: This lawsuit attempted to disrupt an ongoing election and create confusion and uncertainty for voters and election workers alike.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u53
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: The right to vote is sacred.
+  span: The right to vote is sacred.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u54
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: the validity of the government's list
+  span: the expedited hearing this Court set regarding the validity of the government’s list for Friday, November 13, 2026 is now MOOT and hereby vacated.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u55
+  outcome: verified
+  checked: '2026-11-10'
+- type: date
+  value: November 13
+  span: the expedited hearing this Court set regarding the validity of the government’s list for Friday, November 13, 2026 is now MOOT and hereby vacated.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u56
+  outcome: verified
+  checked: '2026-11-10'
 tags:
 - us-v-california
 - voter-rolls
@@ -494,6 +629,16 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.162.0.pdf
   publisher: CourtListener RECAP
   date: '2026-10-29'
+  tier: 1
+- title: United States' Notice of Voluntary Dismissal, US v. California, C.D. Cal. 2:26-cv-12025, Dkt. 180
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf
+  publisher: U.S. District Court, C.D. Cal. (RECAP)
+  date: '2026-11-06'
+  tier: 1
+- title: 'Civil minutes: Order Closing Case, US v. California, C.D. Cal. 2:26-cv-12025, Dkt. 181'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf
+  publisher: U.S. District Court, C.D. Cal. (RECAP)
+  date: '2026-11-10'
   tier: 1
 verification: source-verified
 updates:
@@ -586,6 +731,37 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-06'
+  date_kind: filing date
+  heading: The United States voluntarily dismisses its suit, saying the flagged ballots will already be commingled
+  claims:
+  - u42
+  - u43
+  - u44
+  - u45
+  - u46
+  - u47
+  - u48
+  event_date_claim: u42
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: mail-ballots-count
+- date: '2026-11-10'
+  date_kind: order date
+  heading: Judge Carter vacates the November 13 hearing and closes the case
+  claims:
+  - u49
+  - u50
+  - u51
+  - u52
+  - u53
+  - u54
+  - u55
+  - u56
+  event_date_claim: u49
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: mail-ballots-count
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -620,3 +796,11 @@ The Los Angeles County Registrar-Recorder/County Clerk, a defendant sued in his 
 ## Update (2026-10-29, order date (minute order)): Carter appoints a technical special master and sets a November 13 hearing on the list
 
 In a minute order dated October 29, Judge David O. Carter appointed "a technical Special Master" and set an expedited hearing for November 13, after Election Day, on the motions to dismiss and DOJ's motion for a preliminary injunction. By November 6 parties must submit witness lists on "the reliability of the October List and the methodology Plaintiff used to produce it." DOJ's opposition is due November 6 and replies November 10. The costs are split 50% to each side. The order decides nothing about the list's reliability, and the hearing has not happened.
+
+## Update (2026-11-06, filing date): The United States voluntarily dismisses its suit, saying the flagged ballots will already be commingled
+
+The United States filed a notice of voluntary dismissal under Federal Rule of Civil Procedure 41(a)(1)(A)(i) on November 6, 2026 ([notice](https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.180.0.pdf)). The notice says that by the time of the court's November 13 hearing, "California will have already commingled the challenged ballots with lawful ones," leaving "no way to get the challenged ballots segregated," and the relief it sought "is no longer available."
+
+## Update (2026-11-10, order date): Judge Carter vacates the November 13 hearing and closes the case
+
+On November 10, 2026, Judge David O. Carter issued an order closing the case ([minute order](https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.181.0.pdf)). Citing the Justice Department's "unilateral withdrawal of its Complaint in its entirety," he declared the expedited hearing set for November 13 on "the validity of the government's list" moot and vacated it. "This lawsuit attempted to disrupt an ongoing election and create confusion and uncertainty for voters and election workers alike," he wrote. "The right to vote is sacred."

@@ -1687,6 +1687,78 @@ claims:
   id: u174
   outcome: verified
   checked: '2026-11-05'
+- type: date
+  value: November 9, 2026
+  span: 'The Court should summarily affirm and then order the United States to explain why it should not be sanctioned for filing a frivolous appeal. DATED: November 9, 2026 Cindy Woods ACLU of Alaska Foundation'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u175
+  outcome: verified
+  checked: '2026-11-10'
+- type: attribution
+  value: League of Women Voters of Alaska, and Common Cause
+  span: 'Counsel for Risé Roy, Jan Jakub Grzeda, League of Women Voters of Alaska, and Common Cause Case: 26-7304, 11/09/2026, DktEntry: 10.1, (2 of 34)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u176
+  outcome: verified
+  checked: '2026-11-10'
+- type: figure
+  value: 26-7304
+  span: 'Counsel for Risé Roy, Jan Jakub Grzeda, League of Women Voters of Alaska, and Common Cause Case: 26-7304, 11/09/2026, DktEntry: 10.1, (2 of 34)'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u177
+  outcome: verified
+  checked: '2026-11-10'
+- type: attribution
+  value: American Civil Liberties Union Foundation
+  span: Sophia Lin Lakin American Civil Liberties Union Foundation 125 Broad Street, 18th Floor New York, NY 10004
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u178
+  outcome: verified
+  checked: '2026-11-10'
+- type: attribution
+  value: are Alaska voters who cast ballots in the election
+  span: Appellees the League of Women Voters of Alaska (LWVAK) and Common Cause are two of Alaska’s largest non-partisan civic groups, and Risé Roy and Jan Jakub Grzeda are Alaska voters who cast ballots in the election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u179
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: The Court should summarily affirm and then order the attorneys for the United States to explain why they or their client should not be sanctioned for pursuing a frivolous appeal
+  span: The Court should summarily affirm and then order the attorneys for the United States to explain why they or their client should not be sanctioned for pursuing a frivolous appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u180
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: relates solely to voter registration—not to voter confusion, ballot placement, vote counting, or certification
+  span: The NVRA, the only basis for the United States’ claims, is a statute that relates solely to voter registration—not to voter confusion, ballot placement, vote counting, or certification.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u181
+  outcome: verified
+  checked: '2026-11-10'
+- type: quote
+  value: embarrassing and indefensible
+  span: The legal theory advanced by the United States here is embarrassing and indefensible.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u182
+  outcome: verified
+  checked: '2026-11-10'
 tags:
   - election-2026
   - certification
@@ -1893,6 +1965,11 @@ sources:
     publisher: Democracy Docket
     date: '2026-11-05'
     tier: 2
+  - title: Motion for Summary Affirmance, United States v. Alaska, 9th Cir. No. 26-7304, DktEntry 10.1
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (RECAP)
+    date: '2026-11-09'
+    tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -2277,6 +2354,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-09'
+  date_kind: filing date
+  heading: League of Women Voters of Alaska, Common Cause and Alaska voters ask the Ninth Circuit to summarily affirm and to consider sanctions
+  claims:
+  - u175
+  - u176
+  - u177
+  - u178
+  - u179
+  - u180
+  - u181
+  - u182
+  event_date_claim: u175
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2386,3 +2479,7 @@ Election Law Blog, quoting the New York Times on November 3, 2026, reported that
 ## Update (2026-11-05, post date (Trump social media post, Thursday)): Trump posts that the other Sullivan's and Heikes's votes should be given to the senator
 
 In a social media post Thursday, Trump called for Alaska to transfer to incumbent Sen. Dan Sullivan (R) all votes cast for candidate Daniel J. Sullivan, writing that those totals and the votes of the other "'slug' that the Dems put on the Ballot, should be immediately given to the REAL Dan Sullivan, and the Election is over – He easily wins," Democracy Docket reported. Citing the Associated Press, it said more than 25% of the vote had not been counted, with Democratic challenger Mary Peltola holding a 0.3-point lead; candidate Daniel J. Sullivan had 1.7% and Gerald Heikes (R) 2.3%. Democracy Docket wrote that there is no precedent for giving votes cast for one candidate to another, and that with ranked-choice voting the final result may not be decided until Nov. 18. Democracy Docket discloses that the Elias Law Group, whose firm chair founded it, represents the Peltola campaign and the DSCC in the case.
+
+## Update (2026-11-09, filing date): League of Women Voters of Alaska, Common Cause and Alaska voters ask the Ninth Circuit to summarily affirm and to consider sanctions
+
+In a [motion filed November 9, 2026](https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf) in the United States' appeal (No. 26-7304), the League of Women Voters of Alaska, Common Cause and Alaska voters who cast ballots in the election, represented by the ACLU, asked the Ninth Circuit to summarily affirm the district court's dismissal. "The Court should summarily affirm and then order the attorneys for the United States to explain why they or their client should not be sanctioned for pursuing a frivolous appeal," the motion says. It argues that the NVRA "relates solely to voter registration—not to voter confusion, ballot placement, vote counting, or certification," and calls the United States' legal theory "embarrassing and indefensible." The motion is the appellees' argument; the government's response and any ruling are not yet on the docket.
