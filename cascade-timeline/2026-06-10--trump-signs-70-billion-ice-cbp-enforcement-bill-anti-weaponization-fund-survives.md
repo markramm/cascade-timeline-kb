@@ -17,6 +17,11 @@ actors:
   - ICE
   - CBP
 sources:
+  - title: 'Public Law 119-98 (S. 2), Secure America Act, enrolled text'
+    url: https://www.govinfo.gov/content/pkg/PLAW-119publ98/html/PLAW-119publ98.htm
+    publisher: U.S. Government Publishing Office
+    date: '2026-06-10'
+    tier: 1
   - title: 'Trump signs $70 billion immigration bill, capping lengthy fight over ICE funding'
     url: https://www.cbsnews.com/news/trump-immigration-funding-bill-ice/
     publisher: CBS News
@@ -46,6 +51,8 @@ related:
   - 2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure
 ---
 
-President Trump signed the **Secure America Act** on **June 10, 2026**, a **$70 billion** immigration enforcement funding package providing ICE and CBP with multi-year operational funding through the end of his term. The Senate passed the bill **52–47** on June 4–5 after an 18-hour marathon session; **Lisa Murkowski** was the sole Republican defection. The House followed **214–212** on June 9. A Democratic effort to strip the **$1.8 billion DOJ "Anti-Weaponization" settlement fund** — which compensates individuals who allege political persecution by the Justice Department — failed; the fund survived intact in the final text. The legislation is formally titled the Secure America Act and funds enforcement continuity independent of future appropriations cycles.
+President Trump signed the **Secure America Act** on **June 10, 2026**, (Public Law 119-98), about **$70 billion** in immigration enforcement funding: $38.525B for ICE, $26.02B for CBP and $5.0B for the DHS Secretary, all available until **September 30, 2029** (enrolled text, govinfo). The Senate passed the bill **52–47** on June 5 (roll call vote 163); **Lisa Murkowski** was the sole Republican defection. The House followed **214–212** on June 9. A Democratic effort to strip the **$1.8 billion DOJ "Anti-Weaponization" settlement fund** — which compensates individuals who allege political persecution by the Justice Department — failed, so the bill passed with no limit on it. The fund itself is not created or funded by the law's text (enrolled text checked 2026-11-10). The legislation is formally titled the Secure America Act and funds enforcement continuity independent of future appropriations cycles.
 
 The bill's structural significance runs on two tracks. First, it **locks in three-year funding continuity** for the detention-and-deportation infrastructure — the same "build the apparatus before elections can reverse it" move documented in the contractor-network theme entries (see [[2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract]]). The funding floor removes the appropriations leverage that previously gave Congress partial oversight over enforcement scale. Second, the **anti-weaponization fund's survival** is the load-bearing accountability-erasure detail: the DOJ settlement mechanism pays political loyalists who claim DOJ persecution, operationalizing the forgiveness-over-accountability ratchet Mark identified (2026-05-12 framework — Nixon pardon to present). Combined with the Venturella memo's elimination of post-release death reporting (see [[2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure]]), this bill completes a June 2026 paired move: accountability mechanisms eliminated, enforcement infrastructure funded to term-end.
+
+*Corrected 2026-11-10 against the enrolled text (research note ice-cbp-funding-after-pl-119-86-...): funding runs to Sep 30, 2029, not "through the end of his term"; Senate passage was Jun 5; "18-hour marathon" was unverified and is removed; the settlement fund is not in the law's text.*
