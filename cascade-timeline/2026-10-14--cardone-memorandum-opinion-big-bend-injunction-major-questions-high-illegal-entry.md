@@ -404,6 +404,78 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: Nov 09 2026
+  span: Nov 09 2026 Application (26A560) for stay presented to Justice Alito and by him referred to the Court is granted.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: presented to Justice Alito and by him referred to the Court is granted
+  span: Application (26A560) for stay presented to Justice Alito and by him referred to the Court is granted.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: is stayed pending the filing and disposition of the Government's petition for a writ of certiorari, if such writ is timely sought
+  span: is stayed pending the filing and disposition of the Government’s petition for a writ of certiorari, if such writ is timely sought.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: 3:26-cv-01099
+  span: The injunction entered by the United States District Court for the Western District of Texas in case No. 3:26–cv–01099
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: this stay shall terminate automatically
+  span: Should certiorari be denied, this stay shall terminate automatically.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-09'
+- type: quote
+  value: Justice Jackson would deny the application for stay
+  span: Justice Jackson would deny the application for stay.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: opinion per curiam
+  span: Justice Jackson would deny the application for stay. Opinion per curiam. (Detached Opinion)
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-09'
+- type: attribution
+  value: 26A560
+  span: Application (26A560) referred to the Court.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-09'
 tags:
 - border-wall
 - litigation
@@ -462,6 +534,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: big-bend-border-wall-waivers
+- date: '2026-11-09'
+  date_kind: order date
+  heading: Supreme Court stays the Big Bend injunction pending certiorari
+  claims:
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u5
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: big-bend-border-wall-waivers
 ---
 
 The written reasons for the Big Bend injunction are now on the record. In a memorandum opinion (Document 75) signed on the 14th day of October, 2026, in Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex., El Paso Division), Judge Kathleen Cardone explained the preliminary injunction she granted on October 2 "with a memorandum opinion to follow." The earlier [order](2026-10-02--judge-cardone-enjoins-big-bend-border-wall-construction-waivers-stayed) named no legal ground. This opinion names one: the Court "rules that the major questions doctrine is a constitutional clear statement rule." On that basis it finds jurisdiction "because it alleges a Constitutional violation," which matters because the waiver statute lets challengers sue only on constitutional grounds.
@@ -479,3 +567,9 @@ The Supreme Court docket for No. 26A560 shows the application docketed on "Oct 2
 ## Update (2026-10-30, filing date): Response and reply filed on the Big Bend stay application
 
 The Supreme Court docket for the stay application lists the respondents' response as filed on Oct 29 2026. It lists the government's reply as filed on Oct 30 2026.
+
+## Update (2026-11-09, order date): Supreme Court stays the Big Bend injunction pending certiorari
+
+The Supreme Court docket for No. 26A560 records an order dated November 9, 2026: the government's application for a stay, "presented to Justice Alito and by him referred to the Court is granted." The docket says Judge Cardone's injunction in case No. 3:26-cv-01099 "is stayed pending the filing and disposition of the Government's petition for a writ of certiorari, if such writ is timely sought." If certiorari is denied, "this stay shall terminate automatically." The docket notes that "Justice Jackson would deny the application for stay" and that the Court issued an opinion per curiam.
+
+This is a stay pending certiorari, not a ruling on the merits. The government's reply had asked the Court to treat the application as a certiorari petition and summarily reverse; the docket does not show the Court doing that. The per curiam opinion had not posted on the Court's site when the docket was read, so its reasoning is not yet on the record here.
