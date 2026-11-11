@@ -95,6 +95,9 @@ sources:
   tier: 1
 related_events:
 - 2026-08-10--dhs-privatized-bounty-hunter-network-tracks-deportees-abroad
+coverage:
+- url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
+  title: "ICE's Leaked Tools List Is a Before Picture. Its Contracts Show the After."
 ---
 
 USAspending lists task order 70CDCR26FR0000072 to Capgemini Government Solutions LLC as signed on 08/26/2026 (month/day/year). Its performance period runs from 08/27/2026 to 11/24/2026, a short term. Total obligation on the award is $14,450,347.5.

@@ -69,6 +69,8 @@ coverage:
     title: "\"Until the Cities Lie Ruined\": The Bible Verse DHS Didn't Finish"
   - url: https://theramm.substack.com/p/the-four-thresholds
     title: "The ICE Transformation: Four Thresholds America Has Already Crossed"
+  - url: "https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now"
+    title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 ICE agent Jonathan Ross shoots and kills Renee Nicole Good, 37, during Operation Metro Surge immigration enforcement action in Minneapolis. Good, a substitute teacher and poet who graduated from Old Dominion University in 2020, was present as a legal observer—exercising constitutionally protected First Amendment rights to document government enforcement actions. She had dropped her 6-year-old son at school that morning before heading to observe the operation.

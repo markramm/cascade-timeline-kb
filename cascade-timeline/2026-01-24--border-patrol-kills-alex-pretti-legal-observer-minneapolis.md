@@ -104,6 +104,8 @@ coverage:
     title: "Kash Patel: Ten days, four scandals"
     date: '2026-04-27'
     publication: theramm
+  - url: "https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now"
+    title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 Border Patrol agents shot and killed Alex Pretti, a 37-year-old intensive care nurse and U.S. citizen working for the VA, at 26th Street and Nicollet Avenue in Minneapolis during Operation Metro Surge. Pretti was the second legal observer killed by federal agents in Minneapolis in three weeks, following Renee Good's death on January 7. The killing occurred the day after Minnesota's historic general strike.

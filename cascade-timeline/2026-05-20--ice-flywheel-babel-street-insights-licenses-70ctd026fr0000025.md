@@ -104,6 +104,9 @@ sources:
   publisher: USAspending.gov (U.S. Treasury)
   date: '2026-05-20'
   tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
+  title: "ICE's Leaked Tools List Is a Before Picture. Its Contracts Show the After."
 ---
 
 USAspending lists order 70CTD026FR0000025 to Flywheel Data LLC, a reseller ordering under a GSA schedule vehicle, as signed on 05/20/2026 (month/day/year). Its one-year performance period runs from 05/20/2026 to 05/19/2027. Total obligation on the award is $10,300,000.

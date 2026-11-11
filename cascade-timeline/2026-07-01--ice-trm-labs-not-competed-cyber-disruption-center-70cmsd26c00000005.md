@@ -94,6 +94,9 @@ sources:
   publisher: USAspending.gov (U.S. Treasury)
   date: '2026-07-01'
   tier: 1
+coverage:
+- url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
+  title: "ICE's Leaked Tools List Is a Before Picture. Its Contracts Show the After."
 ---
 
 USAspending lists contract 70CMSD26C00000005 to TRM Labs, Inc. as signed on 07/01/2026 (month/day/year). Its performance period runs from 07/01/2026 to 08/29/2027. Total obligation on the award is $94,655,840.

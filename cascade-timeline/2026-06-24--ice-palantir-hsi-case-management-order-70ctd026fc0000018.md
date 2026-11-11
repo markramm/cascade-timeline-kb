@@ -97,6 +97,9 @@ sources:
 related_events:
 - 2026-05-13--dhs-zero-privacy-impact-assessments-palantir-1-billion-no-bid
 - 2026-04-30--ice-palantir-ero-modernization-order-70ctd026fc0000012
+coverage:
+- url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
+  title: "ICE's Leaked Tools List Is a Before Picture. Its Contracts Show the After."
 ---
 
 USAspending lists order 70CTD026FC0000018 to Palantir Technologies Inc. as signed on 06/24/2026 (month/day/year). Its performance period runs from 06/26/2026 to 06/25/2027. Total obligation on the award is $45,848,616.8.

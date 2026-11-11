@@ -48,6 +48,8 @@ coverage:
     title: "The Moral Battlefield, Part 3: The Drawdown That Wasn't"
     date: '2026-03-19'
     publication: theramm
+  - url: "https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now"
+    title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 Border czar Tom Homan announced at the Bishop Whipple Federal Building in Minneapolis that Operation Metro Surge would conclude, with a "significant drawdown" of the approximately 2,000 remaining federal agents. The operation, which began November 29, 2025, and surged to over 3,000 agents in January, resulted in more than 4,000 arrests according to DHS. Homan stated: "I have proposed, and President Trump has concurred, that this surge operation conclude."

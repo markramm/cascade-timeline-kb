@@ -96,6 +96,9 @@ sources:
   tier: 1
 related_events:
 - 2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance
+coverage:
+- url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
+  title: "ICE's Leaked Tools List Is a Before Picture. Its Contracts Show the After."
 ---
 
 USAspending lists order 70CMSD26FR0000130 to Cellebrite Inc as signed on 09/15/2026 (month/day/year). Its performance period runs from 09/30/2026 to 09/29/2027; performance starts after signing. Total obligation on the award is $12,794,860.

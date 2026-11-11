@@ -90,6 +90,9 @@ summary: On Friday President Trump said White House Deputy Chief of Staff Stephe
 verification: source-verified
 related:
 - 2025-01-20--susie-wiles-42-corporate-clients-chief-of-staff
+coverage:
+- url: https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now
+  title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 President Trump said Friday that White House Chief of Staff Susie Wiles is being replaced by Deputy Chief of Staff Stephen Miller, NPR reported. Miller has been the architect of many of Trump's most controversial policies, dating back to his first term, particularly on immigration. Miller currently serves as deputy chief of staff in the White House, as well as an advisor to the Department of Homeland Security, and will take over on Monday. "Stephen's been with me since the beginning. He gets it," Trump told reporters. In a Truth Social post, Trump said Wiles would continue to work for him on political operations.

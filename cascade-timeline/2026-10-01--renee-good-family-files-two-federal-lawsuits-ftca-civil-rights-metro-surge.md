@@ -133,6 +133,9 @@ related_events:
   - "2026-04-16--moriarty-charges-ice-agent-morgan-assault-minnesota"
   - "2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis"
   - "2025-12-04--operation-metro-surge-announced-minneapolis"
+coverage:
+- url: https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now
+  title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 The family of Renee Good, who was killed January 7 by ICE agent Jonathan Ross in Minneapolis during Operation Metro Surge, filed two civil lawsuits in Minnesota federal court. The first lawsuit names the United States as the sole defendant under the Federal Tort Claims Act, seeking damages for wrongful death. The second lawsuit alleges Operation Metro Surge was 'a carefully planned, coordinated effort between senior federal officials and private actors' to interfere with the civil rights of Minnesotans of Somali and Hispanic descent, naming Ross, Stephen Miller, Tom Homan, Kristi Noem, and Greg Bovino as defendants. The lawsuits are the first major civil actions against the Trump administration over the Minneapolis deportation crackdowns. White House spokesperson Lauren Bis said the administration intends 'to vigorously defend these baseless civil lawsuits.' None of the agents involved in Good's killing has faced any charges.

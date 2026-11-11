@@ -50,6 +50,9 @@ capture_lanes:
 - Regulatory Capture
 - Legislative Capture
 - Executive Power Expansion
+coverage:
+- url: https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now
+  title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
 ---
 
 Deputy White House Chief of Staff Stephen Miller and DHS Secretary Kristi Noem demanded in a meeting with ICE officials that ICE arrest 3,000 immigrants each day, approximately triple the number of daily arrests ICE agents were making at the beginning of the administration (Axios, as relayed by The Independent via Yahoo News).
