@@ -31,3 +31,43 @@ types:
       - claims
       - event_date_claim
       - previous_ids
+  # timeline_event: the type every entry here uses. The cascade pyrite extension declared it
+  # until pyrite 0.26 removed that extension (#953); declared here since 2026-11-11 so a create
+  # is not refused UNDECLARED_TYPE. Same field set as `event`, plus the extension's
+  # actors/capture_lanes. List fields are typed so a create writes [] rather than "".
+  # (tags and sources are reserved names and cannot be typed here.)
+  timeline_event:
+    description: "Timeline event documenting institutional capture, corruption, or democratic erosion"
+    subdirectory: ""
+    file_pattern: "{date}--{slug}.md"
+    required:
+      - title
+      - date
+    optional:
+      - importance
+      - status
+      - actors
+      - capture_lanes
+      - participants
+      - sources
+      - tags
+      - verification
+      - claims
+      - event_date_claim
+      - previous_ids
+    fields:
+      date:
+        type: date
+      actors:
+        type: list
+        description: "People and organizations involved (names or [[wikilinks]])"
+      capture_lanes:
+        type: list
+        description: "Capture lanes this event belongs to"
+      participants:
+        type: list
+      claims:
+        type: list
+        description: "Claim bindings, see the header comment"
+      previous_ids:
+        type: list
