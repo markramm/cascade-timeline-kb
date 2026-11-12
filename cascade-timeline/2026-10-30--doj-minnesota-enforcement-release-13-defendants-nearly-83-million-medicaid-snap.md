@@ -62,3 +62,5 @@ related_events: []
 ---
 
 A Justice Department release dated October 30 announces enforcement actions in Minnesota against 13 defendants over nearly $83 million in intended losses. Its title, in the source line below, names voter fraud ahead of benefits fraud. Its opening sentence describes actions "targeting fraud involving taxpayer-funded Medicaid and SNAP programs." Defendants are not named here.
+
+**Read at source on the day this entry was updated.** The body lists defendants and counts for the federal child nutrition program, Medicaid and SNAP, and forfeiture. It has no voting-related charge and no voting statute. The title's benefits-fraud dollar figure differs from the body's intended-loss figure, and the title's voter fraud has no counterpart in the body.
