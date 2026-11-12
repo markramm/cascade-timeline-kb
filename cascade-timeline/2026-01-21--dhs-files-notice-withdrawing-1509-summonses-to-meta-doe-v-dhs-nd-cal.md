@@ -65,6 +65,9 @@ claims:
   - {id: c16, type: date, value: "April 29, 2026", qualifier: "issued", span: "On April 29, 2026, the Supreme Court issued its decision", url: "https://storage.courtlistener.com/recap/gov.uscourts.cand.458146/gov.uscourts.cand.458146.51.0.pdf", read: fetched, source_kind: primary}
   - {id: c17, type: figure, value: "19 U.S.C. § 1509", qualifier: "SUMMONS", span: "issued under the title “SUMMONS,” “To Appear and/or Produce Records,” under “19 U.S.C. § 1509.”", url: "https://storage.courtlistener.com/recap/gov.uscourts.cand.458146/gov.uscourts.cand.458146.38.0.pdf", read: fetched, source_kind: primary}
   - {id: c18, type: figure, value: "3:25-mc-80325", qualifier: "Case", span: "Case 3:25-mc-80325-PHK Document 34 Filed 01/21/26 Page 1 of 1", url: "https://storage.courtlistener.com/recap/gov.uscourts.cand.458146/gov.uscourts.cand.458146.34.0.pdf", read: fetched, source_kind: primary}
+coverage:
+- url: "https://theramm.transparencycascade.org/p/the-customs-statute-being-deployed"
+  title: "The Customs Statute Being Deployed Against Labor Unions and Nonprofits"
 ---
 
 In J. Doe v. DHS (N.D. Cal. 3:25-mc-80325), an account holder, identified in the caption only as J. Doe and not named here, moved to quash summonses that Homeland Security Investigations issued to Meta under 19 U.S.C. § 1509. The movant filed on October 16, 2025. On January 21, 2026, Assistant U.S. Attorney Sarah E. Balkissoon filed a Notice of Withdrawal of Summonses before Magistrate Judge Peter H. Kang. Per DHS's own notice, DHS emailed Meta on January 16, 2026 and withdrew the summonses, and notified the movant on January 16, 2026.

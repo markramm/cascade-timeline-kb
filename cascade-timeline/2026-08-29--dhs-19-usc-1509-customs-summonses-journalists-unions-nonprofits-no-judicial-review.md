@@ -33,6 +33,9 @@ sources:
     date: '2017'
     tier: 0-primary
     note: "Cited by the Guardian; report number not given in the article. PULL THE REPORT before citing its language — the quoted phrase 'inconsistent — and, in some cases, improper' comes via the Guardian, not from the OIG document read directly."
+coverage:
+- url: "https://theramm.transparencycascade.org/p/the-customs-statute-being-deployed"
+  title: "The Customs Statute Being Deployed Against Labor Unions and Nonprofits"
 ---
 
 ## Opening

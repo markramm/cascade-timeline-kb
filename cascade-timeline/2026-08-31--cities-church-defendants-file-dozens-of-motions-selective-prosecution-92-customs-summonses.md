@@ -31,6 +31,9 @@ sources:
     publisher: Star Tribune
     date: '2026-09-01'
     tier: 1
+coverage:
+- url: "https://theramm.transparencycascade.org/p/the-customs-statute-being-deployed"
+  title: "The Customs Statute Being Deployed Against Labor Unions and Nonprofits"
 ---
 
 Attorneys for the **38 people charged** over the January 18 anti-ICE protest at **Cities Church** in

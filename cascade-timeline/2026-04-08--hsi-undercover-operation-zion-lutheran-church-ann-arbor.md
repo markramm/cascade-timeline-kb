@@ -59,6 +59,8 @@ coverage:
   title: "What is Homeland Security Investigations? And why do you need to know?"
 - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
   title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
+- url: "https://theramm.transparencycascade.org/p/the-customs-statute-being-deployed"
+  title: "The Customs Statute Being Deployed Against Labor Unions and Nonprofits"
 actors:
 - Erin Herrgott
 - Callum Robinet
