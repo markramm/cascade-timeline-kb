@@ -84,6 +84,28 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-11'
+- id: c9
+  type: quote
+  value: Word of mouth from our first-line supervisors, no official email notice
+  span: Word of mouth from our first-line supervisors, no official email notice
+  url: https://theintercept.com/2026/11/04/ice-orders-stop-election-day/
+  read: fetched
+  source_kind: secondary
+- id: c10
+  type: quote
+  value: 365 days per year, the hardworking men and women of ICE law enforcement are targeting and arresting criminal illegal aliens
+  speaker: DHS Secretary Markwayne Mullin
+  span: 365 days per year, the hardworking men and women of ICE law enforcement are targeting and arresting criminal illegal aliens
+  url: https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day
+  read: fetched
+  source_kind: primary
+- id: c11
+  type: quote
+  value: have not received instructions to reduce immigration enforcement since the election
+  span: have not received instructions to reduce immigration enforcement since the election
+  url: https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/
+  read: fetched
+  source_kind: secondary
 tags:
 - ice
 - election-watch
@@ -98,8 +120,20 @@ sources:
   publisher: The Intercept
   date: '2026-11-04'
   tier: 2
+- title: DHS Highlights Worst Illegal Aliens Arrested Across the Country on Election Day
+  url: https://www.dhs.gov/news/2026/11/04/dhs-highlights-worst-illegal-aliens-arrested-across-country-election-day
+  publisher: DHS
+  date: '2026-11-04'
+  tier: 1
+- title: ICE unlikely to scale back crackdown, sources say, citing Stephen Miller's promotion
+  url: https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/
+  publisher: CBS News
+  date: '2026-11-08'
+  tier: 2
 ---
 
 The Intercept reported that ICE officials working in four areas of responsibility, covering parts of the northeastern, midwestern, northern, and south-central U.S. regions, said they had received orders to stand down on Election Day. Handed down through ICE's Enforcement and Removal Operations division through internal group chats and verbal commands, the directive called for a halt to all immigration enforcement operations on Election Day, according to ICE officials across the country who spoke to The Intercept. "We were told all operations are canceled for Election Day," said one ICE official in the south who requested anonymity. Another, in the Great Lakes region, referred to it as "National No Enforcement Day."
 
 Sherman Austin, creator of the tracker StopICE.net, said: "Yesterday was the least amount of activity observed from ICE ERO throughout the entire year so far." The creator of another tracking site said it logged about 56 reported ICE sightings nationwide on Election Day and also saw abnormally low levels of ICE activity on November 3. The article says some ICE officials believe the orders stemmed from ICE Enforcement and Removal Operations leadership, not directly from the White House. All sources are anonymous and no written directive was obtained. Compare [[2026-11-03--ice-posts-election-day-warning-if-you-vote-illegally-we-will-find-you]] and [[2026-11-03--trump-says-he-will-accept-midterm-results-mullin-says-he-sent-no-ice-agents-to-polls]].
+
+One official in the article says the order came by "Word of mouth from our first-line supervisors, no official email notice." A DHS release listing Election Day arrests quotes Secretary Mullin: "365 days per year, the hardworking men and women of ICE law enforcement are targeting and arresting criminal illegal aliens." CBS News reported that DHS and ICE officials "have not received instructions to reduce immigration enforcement since the election."
