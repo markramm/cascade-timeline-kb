@@ -152,6 +152,27 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: 11/6/2026
+  span: '(Signed by Judge Victor Marrero on 11/6/2026)'
+  url: https://www.courtlistener.com/docket/75061821/project-rousseau-inc-v-venturella/
+  read: fetched
+  source_kind: primary
+  id: u7
+- type: quote
+  value: 'is enjoined from deporting the Afghan Nationals identified by Project Rousseau, Inc.'
+  span: 'The Government is enjoined from deporting the Afghan Nationals identified by Project Rousseau, Inc. and identified in Dkt. No. 16 to Pakistan, Afghanistan, or any other third country pending further order of this Court.'
+  url: https://www.courtlistener.com/docket/75061821/project-rousseau-inc-v-venturella/
+  read: fetched
+  source_kind: primary
+  id: u8
+- type: quote
+  value: 'is EXTENDED pending further order of this Court'
+  span: 'ORDERED that the Temporary Restraining Order (Dkt. No. 8) is EXTENDED pending further order of this Court'
+  url: https://www.courtlistener.com/docket/75061821/project-rousseau-inc-v-venturella/
+  read: fetched
+  source_kind: primary
+  id: u9
 sources:
 - title: Trump administration set to deport Afghan refugees to Pakistan
   url: https://www.nbcnews.com/news/us-news/trump-administration-set-deport-afghan-refugees-pakistan-rcna606059
@@ -173,6 +194,11 @@ sources:
   publisher: ABC News
   date: '2026-11-03'
   tier: 2
+- title: Project Rousseau, Inc. v. Venturella (S.D.N.Y.), docket entries 21 and 34
+  url: https://www.courtlistener.com/docket/75061821/project-rousseau-inc-v-venturella/
+  publisher: CourtListener RECAP (U.S. District Court, S.D.N.Y.)
+  date: '2026-11-13'
+  tier: 1
 coverage:
 - daily-capture-reports/headline/2026-11-03--federal-judge-caproni-blocks-afghan-deportation-pakistan-2026-11-03.md
 captured_by: daily-capture
@@ -208,6 +234,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: afghan-charter-pakistan
+- date: '2026-11-06'
+  date_kind: order date
+  heading: Judge Marrero extends the order for named Afghans and sets a preliminary-injunction schedule
+  claims:
+  - u7
+  - u8
+  - u9
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: investigation-research
+  cluster: afghan-charter-pakistan
 ---
 
 NBC News reported on Oct. 30, 2026 that the administration was preparing to deport Afghans to Pakistan "on the first flight of its kind." In a sealed filing obtained by AP, a senior ICE official described a charter from Alexandria, Louisiana, "with further transport onward to Afghanistan." AP's documents put the first flights "as early as Monday"; the group Human Rights First said it had confirmed a flight "on Tuesday." Neither date is confirmed by DHS, which said it could not confirm removal operations "for operational security reasons."
@@ -221,3 +258,7 @@ An ICE official's sworn declaration of Oct. 30 describes a charter flight from A
 ## Update (2026-11-03, order date): Judge Caproni temporarily blocks Afghan deportations to Afghanistan or Pakistan through the end of the week
 
 A federal judge in New York on Tuesday temporarily blocked the administration from deporting Afghan nationals to Afghanistan or Pakistan, according to ABC News. U.S. District Judge Valerie Caproni issued the order after government attorneys said in court that ICE has "no planned or confirmed chartered or commercial flights" to deport Afghan nationals. The order is in effect through Saturday.
+
+## Update (2026-11-06, order date): Judge Marrero extends the order for named Afghans
+
+Judge Caproni's temporary restraining order sat in a case that was then assigned to Judge Victor Marrero, Project Rousseau, Inc. v. Venturella (S.D.N.Y.). His Decision and Order, signed 11/6/2026, extends that order "pending further order of this Court" and ordered that the government "is enjoined from deporting the Afghan Nationals identified by Project Rousseau, Inc." to Pakistan, Afghanistan or any other third country. So the order did not lapse over the weekend; it now covers the named plaintiffs' group only, not every detained Afghan.
