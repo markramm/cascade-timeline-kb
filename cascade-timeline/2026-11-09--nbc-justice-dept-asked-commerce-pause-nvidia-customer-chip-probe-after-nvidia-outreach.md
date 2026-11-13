@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-id: 2026-11-09--nbc-justice-dept-asked-commerce-pause-megaspeed-chip-probe-after-nvidia-outreach
+id: 2026-11-09--nbc-justice-dept-asked-commerce-pause-nvidia-customer-chip-probe-after-nvidia-outreach
 date: '2026-11-09'
 date_kind: publication
 source_published_date: '2026-11-09'
@@ -20,6 +20,8 @@ claims:
   url: https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c2
   type: quote
   value: asked the Commerce Department to pause its part of an investigation
@@ -27,15 +29,15 @@ claims:
   url: https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - nvidia
 - export-controls
-- megaspeed
 - enforcement
 - china
 actors:
 - Nvidia
-- Megaspeed International
 - Justice Department
 - Commerce Department
 sources:

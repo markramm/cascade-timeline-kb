@@ -20,6 +20,8 @@ claims:
   url: https://www.newsweek.com/scott-bessent-howard-lutnick-nvidia-scandal-12712195
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c2
   type: quote
   value: Treasury, War, USTR, and State, they were in favor of putting Megaspeed on the entity list for months
@@ -27,6 +29,8 @@ claims:
   url: https://www.newsweek.com/scott-bessent-howard-lutnick-nvidia-scandal-12712195
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c3
   type: quote
   value: Commerce has the pen, Commerce BIS has the pen, and you will have to ask them about their internal processes
@@ -34,6 +38,8 @@ claims:
   url: https://www.newsweek.com/scott-bessent-howard-lutnick-nvidia-scandal-12712195
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c4
   type: quote
   value: Megaspeed is not on the Entity List or a recipient of a Commerce Department advance notice letter
@@ -41,6 +47,8 @@ claims:
   url: https://finance.biggo.com/news/6c4f18cf-119a-469d-85a4-db2e6c5ff8a3
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - nvidia
 - export-controls
@@ -72,4 +80,4 @@ Megaspeed is not on the Entity List. A Nvidia spokesperson is quoted, in a Finan
 
 Not established: why Commerce has not acted. The list of supporting agencies is one person's televised statement, and the BigGo summary of the FT names a different set.
 
-Prior entries: [[2026-10-29--nvidia-huang-megaspeed-ties-normal-after-report-executive-under-us-scrutiny-china]], [[2026-11-08--nvidia-board-opens-investigation-after-reports-ceo-huang-targeted-by-chinese-intelligence-affair]], [[2026-11-09--nbc-justice-dept-asked-commerce-pause-megaspeed-chip-probe-after-nvidia-outreach]].
+Prior entries: [[2026-10-29--nvidia-huang-megaspeed-ties-normal-after-report-executive-under-us-scrutiny-china]], [[2026-11-08--nvidia-board-opens-investigation-after-reports-ceo-huang-targeted-by-chinese-intelligence-affair]], [[2026-11-09--nbc-justice-dept-asked-commerce-pause-nvidia-customer-chip-probe-after-nvidia-outreach]].
