@@ -163,6 +163,24 @@ claims:
   id: u9
   outcome: verified
   checked: '2026-11-06'
+- type: date
+  value: October 30, 2026
+  span: October 30, 2026 at 6:50 p.m. EDT
+  url: https://web.archive.org/web/20261031224522id_/https://www.washingtonpost.com/dc-md-va/2026/10/30/she-spoke-about-her-husbands-ice-custody-death-now-she-could-face-deportation/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: unreachable
+  checked: '2026-11-13'
+- type: attribution
+  value: has been placed in deportation proceedings, according to documents shared with The Washington Post
+  span: A Maryland woman who spoke publicly about her husband’s death in ICE custody has been placed in deportation proceedings, according to documents shared with The Washington Post.
+  url: https://web.archive.org/web/20261031224522id_/https://www.washingtonpost.com/dc-md-va/2026/10/30/she-spoke-about-her-husbands-ice-custody-death-now-she-could-face-deportation/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: unreachable
+  checked: '2026-11-13'
 tags:
 - deaths-in-ice-custody
 - richwood
@@ -184,6 +202,11 @@ sources:
   publisher: The Baltimore Banner
   date: '2026-11-06'
   tier: 2
+- title: She spoke about her husband's ICE custody death. Now she could face deportation.
+  url: https://web.archive.org/web/20261031224522id_/https://www.washingtonpost.com/dc-md-va/2026/10/30/she-spoke-about-her-husbands-ice-custody-death-now-she-could-face-deportation/
+  publisher: The Washington Post (Wayback capture)
+  date: '2026-10-30'
+  tier: 2
 updates:
 - date: '2026-11-05'
   date_kind: letter date
@@ -202,6 +225,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
+- date: '2026-10-30'
+  date_kind: press report date
+  heading: Washington Post reports his widow has been placed in deportation proceedings
+  claims:
+  - u10
+  - u11
+  event_date_claim: u10
+  verification: captured
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 ---
 
 According to ICE, as relayed by researcher Austin Kocher, Julian Curo-Churata died in Louisiana on Tuesday, September 29. ICE did not report a cause of death and said the death was under investigation, and that he was held at Richwood Correctional Center, experienced a medical emergency, then was transported to a Monroe hospital, where he passed away.
@@ -215,3 +248,7 @@ Kocher writes that fiscal year 2026 was ICE's deadliest year; that count is his 
 In a letter sent Thursday to the Department of Homeland Security and ICE, Sen. Chris Van Hollen requested records detailing Curo-Churata's medical treatment, surveillance footage from the Louisiana detention facility where he was held and a timeline of events leading up to his death, and gave the agencies until Nov. 16 to respond, The Banner reported. He also questioned why DHS sent Curo-Churata's wife a notice of intent to deport her; the notice came three days after she spoke to The Washington Post about her husband's death, according to the letter. "DHS has already taken one parent away from their children permanently," the senator wrote.
 
 An attorney for the family told The Banner that hospital records list the cause of death as cardiac arrest due to septic shock. ICE reported that he was transported to the hospital at 8:14 p.m., while hospital records show he arrived at 10:26 p.m., the attorney said. ICE said in a press release that he received proper medical care and was seen by medical professionals while in custody.
+
+## Update (2026-10-30, press report date): Washington Post reports his widow has been placed in deportation proceedings
+
+The Washington Post reported on October 30, 2026 that his widow, a Maryland woman who had spoken publicly about his death in ICE custody, has been placed in deportation proceedings, according to documents shared with the Post.
