@@ -18,6 +18,8 @@ claims:
   url: https://www.yahoo.com/news/politics/articles/hud-attorney-tapped-critical-doj-194629600.html
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c2
   type: attribution
   value: Trainor replaces Harmeet Dhillon, who resigned last week.
@@ -25,6 +27,8 @@ claims:
   url: https://www.yahoo.com/news/politics/articles/hud-attorney-tapped-critical-doj-194629600.html
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c3
   type: attribution
   value: will serve as acting assistant attorney general for the Civil Rights Division
@@ -32,6 +36,8 @@ claims:
   url: https://www.cbsnews.com/news/top-lawyer-justice-department-civil-division-brett-shumate-resigns/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c4
   type: attribution
   value: will take over the job in an acting capacity, according to a person familiar with the matter
@@ -39,6 +45,8 @@ claims:
   url: https://news.bloomberglaw.com/us-law-week/trump-ally-reding-quinones-resigns-as-miamis-top-prosecutor
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c5
   type: attribution
   value: to continue under Klukas' leadership
@@ -46,6 +54,8 @@ claims:
   url: https://news.bloomberglaw.com/us-law-week/trump-ally-reding-quinones-resigns-as-miamis-top-prosecutor
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c6
   type: attribution
   value: Blanche did not name who would replace Quiñones
@@ -53,6 +63,8 @@ claims:
   url: https://www.ntd.com/us-attorney-for-southern-florida-submits-resignation_1183930.html
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 sources:
 - title: 'Yahoo News: HUD attorney tapped for critical DOJ civil rights role'
   url: https://www.yahoo.com/news/politics/articles/hud-attorney-tapped-critical-doj-194629600.html
