@@ -86,6 +86,8 @@ sources:
 coverage:
 - url: https://austinkocher.substack.com/p/were-documenting-this-because-the
   title: '“We’re Documenting This Because the Government Isn’t”: ProPublica’s Nicole Foy, Ruth Talbot, and Cengiz Yar on Their Database of U.S. Citizens Detained by Immigration Agents (Austin Kocher, Oct 28, 2026; interview)'
+- url: https://projects.propublica.org/us-citizens-detained-immigration-photo-essay/
+  title: 'More Than Numbers: Portraits of U.S. Citizens Detained by Immigration Agents (ProPublica, Nov. 12, 2026; photo essay)'
 ---
 
 ProPublica's tracker, dated Oct. 6, 2026, counts 506 U.S. citizens detained by immigration agents. Its findings: at least 70 American children and teens detained, some of whom were handcuffed; 36 Americans held for at least a day without being able to contact a lawyer or their family; and roughly a dozen citizens deported, mostly children.
