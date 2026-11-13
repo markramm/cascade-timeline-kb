@@ -19,7 +19,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c2
   type: attribution
   value: 18 U.S.C. § 611(a)
@@ -28,7 +28,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c3
   type: posture
   value: accepted the argument
@@ -37,7 +37,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c4
   type: posture
   value: State of Wisconsin
@@ -46,7 +46,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c5
   type: date
   value: November 6, 2026
@@ -55,7 +55,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c6
   type: attribution
   value: 26-mj-4-amb, Dkt. 45
@@ -64,7 +64,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c7
   type: posture
   value: GRANTED
@@ -73,7 +73,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c8
   type: posture
   value: may appeal
@@ -82,7 +82,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c9
   type: attribution
   value: ANITA MARIE BOOR
@@ -91,7 +91,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c10
   type: attribution
   value: 3:25-mj-00148
@@ -100,7 +100,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c11
   type: attribution
   value: 58(g)(2)(A)
@@ -109,71 +109,87 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c12
   type: posture
   value: exceeds Congress’s limited authority
   qualifier: must be dismissed
-  span: 'But this prosecution, premised on a federal statute that exceeds Congress’s limited authority, must be dismissed.'
+  span: But this prosecution, premised on a federal statute that exceeds Congress’s limited authority, must be dismissed.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c13
   type: posture
   value: declines to reach defendant’s facial challenge
   qualifier: facial
-  span: 'declines to reach defendant’s facial challenge.'
+  span: declines to reach defendant’s facial challenge.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c14
   type: figure
   value: at least six other
   qualifier: pending
-  span: 'There are at least six other § 611 cases pending in this district.'
+  span: There are at least six other § 611 cases pending in this district.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c15
   type: posture
   value: has appealed
   qualifier: appealed
-  span: 'the government has appealed that ruling to the Circuit Court of Appeals for the Eleventh Circuit.'
+  span: the government has appealed that ruling to the Circuit Court of Appeals for the Eleventh Circuit.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c16
   type: posture
   value: trial has been stayed
   qualifier: stayed
-  span: 'trial has been stayed in Sylvestre to allow the parties to consider a potential resolution.'
+  span: trial has been stayed in Sylvestre to allow the parties to consider a potential resolution.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c17
   type: posture
   value: reserved ruling
   qualifier: reserved
-  span: 'The judge in Murray has reserved ruling on the defendant’s motion to dismiss pending the Eleventh Circuit’s disposition of the Cox appeal.'
+  span: The judge in Murray has reserved ruling on the defendant’s motion to dismiss pending the Eleventh Circuit’s disposition of the Cox appeal.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c18
   type: posture
   value: denied defendant’s motion without prejudice
   qualifier: without prejudice
-  span: 'the presiding judge denied defendant’s motion without prejudice, and the defendant was found not guilty of the charge after a jury trial.'
+  span: the presiding judge denied defendant’s motion without prejudice, and the defendant was found not guilty of the charge after a jury trial.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55835/gov.uscourts.wiwd.55835.45.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c19
   type: posture
   value: as applied to a noncitizen voting in a state
   qualifier: as applied
-  span: 'The Court has previously examined the constitutionality of § 611 and concluded that, as applied to a noncitizen voting in a state, the statute exceeds Congress’s powers.'
+  span: The Court has previously examined the constitutionality of § 611 and concluded that, as applied to a noncitizen voting in a state, the statute exceeds Congress’s powers.
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.57617/gov.uscourts.wiwd.57617.18.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 sources:
 - title: Opinion and Order granting motion to dismiss, W.D. Wis. 3:25-mj-00148 ECF 42
   url: https://storage.courtlistener.com/recap/gov.uscourts.wiwd.55305/gov.uscourts.wiwd.55305.42.0.pdf
@@ -208,4 +224,4 @@ The government may appeal this ruling to a district court judge under Federal Ru
 
 **The companion order (26-mj-4-amb, Dkt. 45), read in full.** The opinion grants the motion to dismiss on the as-applied challenge only: the court holds that the statute exceeds Congress's limited authority, so the prosecution must be dismissed, and it declines to reach the facial challenge.
 
-**Where the other cases stand.** The opinion says at least six other Section 611 cases are pending in the district. Of the out-of-district cases it lists, the government has appealed the dismissal in Cox (S.D. Fla.) to the Eleventh Circuit; trial is stayed in Sylvestre; the judge in Murray has reserved ruling pending that appeal; and in Renaud the motion was denied without prejudice before a not-guilty verdict at jury trial. A defendant in a separate W.D. Wis. case (a later case) has since moved to dismiss on the ground that the court's Dkt. 45 conclusion, that the statute exceeds Congress's powers as applied to a noncitizen voting in a state, applies in full.
+**Where the other cases stand.** The opinion says at least six other Section 611 cases are pending in the district. Of the out-of-district cases it lists, the government has appealed an S.D. Fla. dismissal to the Eleventh Circuit; trial is stayed in another case and a judge in a further case has reserved ruling pending that appeal; and in another the motion was denied without prejudice before a not-guilty verdict at jury trial. A defendant in a separate W.D. Wis. case (a later case) has since moved to dismiss on the ground that the court's Dkt. 45 conclusion, that the statute exceeds Congress's powers as applied to a noncitizen voting in a state, applies in full.
