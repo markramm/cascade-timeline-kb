@@ -6,7 +6,7 @@ source_published_date: '2026-11-11'
 date_is_publication_date: true
 title: AP Declares Scott Colom Winner of Mississippi Senate Race by About 4,669 Votes and Hyde-Smith Concedes
 importance: 7
-status: confirmed
+status: reported
 captured_by: investigation-research
 cluster: mail-ballots-count
 event_date_claim: c1
