@@ -173,6 +173,8 @@ sources:
   publisher: ABC News
   date: '2026-11-03'
   tier: 2
+coverage:
+- daily-capture-reports/headline/2026-11-03--federal-judge-caproni-blocks-afghan-deportation-pakistan-2026-11-03.md
 captured_by: daily-capture
 tags:
 - ice
