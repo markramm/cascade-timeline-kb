@@ -17,7 +17,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c2
   type: figure
   value: more than 50 percent
@@ -26,7 +26,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c3
   type: figure
   value: 128 to 172
@@ -35,7 +35,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c4
   type: figure
   value: over $45 billion
@@ -44,7 +44,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c5
   type: posture
   value: shut down entirely
@@ -53,7 +53,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c7
   type: posture
   value: left out of the FY26 DHS Appropriations Act
@@ -62,7 +62,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c8
   type: posture
   value: fail inspections by ODO with no consequences
@@ -71,7 +71,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c9
   type: figure
   value: 61,817
@@ -80,7 +80,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c11
   type: posture
   value: had not adequately assessed how the inspection changes affected its ability to oversee facilities
@@ -89,7 +89,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c12
   type: figure
   value: two consecutive
@@ -98,7 +98,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c13
   type: figure
   value: GAO-27-109299
@@ -107,126 +107,158 @@ claims:
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c14
   type: figure
   value: 52 percent, from 40,587 in April 2025 to 61,817 in April 2026
   qualifier: average daily population
-  span: 'ICE’s average daily population in facilities that detain noncitizens for over 72 hours increased by 52 percent, from 40,587 in April 2025 to 61,817 in April 2026.'
+  span: ICE’s average daily population in facilities that detain noncitizens for over 72 hours increased by 52 percent, from 40,587 in April 2025 to 61,817 in April 2026.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c15
   type: figure
   value: 194
   qualifier: conducted 194 inspections
-  span: 'in fiscal year 2024 ODO conducted 194 inspections, which generally included follow-up, non-rated inspections. In fiscal year 2025, it conducted 102 inspections and generally did not conduct follow-up inspections.'
+  span: in fiscal year 2024 ODO conducted 194 inspections, which generally included follow-up, non-rated inspections. In fiscal year 2025, it conducted 102 inspections and generally did not conduct follow-up inspections.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c16
   type: posture
   value: did not receive an appropriation
   qualifier: OIDO, fiscal year 2026
-  span: 'The DHS Office of the Immigration Detention Ombudsman (OIDO) faced a significant reduction in force and, in fiscal year 2026, did not receive an appropriation. As a result, it has stopped conducting inspections.'
+  span: The DHS Office of the Immigration Detention Ombudsman (OIDO) faced a significant reduction in force and, in fiscal year 2026, did not receive an appropriation. As a result, it has stopped conducting inspections.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c17
   type: date
   value: January 2026
   qualifier: last OIDO inspection
-  span: 'The last inspection OIDO conducted was in January 2026.'
+  span: The last inspection OIDO conducted was in January 2026.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c18
   type: posture
   value: would no longer preclude it from receiving further funds
   qualifier: ICE officials, August 2026
-  span: 'In August 2026, officials from ICE also told us that two consecutive ODO inspections rating a facility’s performance inadequate would no longer preclude it from receiving further funds, which was previously the case.'
+  span: In August 2026, officials from ICE also told us that two consecutive ODO inspections rating a facility’s performance inadequate would no longer preclude it from receiving further funds, which was previously the case.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c19
   type: figure
   value: approximately 96
   qualifier: approximately
-  span: 'The OIG engaged a contractor to help perform the additional inspections and the contractor plans to complete approximately 96, according to OIG officials.'
+  span: The OIG engaged a contractor to help perform the additional inspections and the contractor plans to complete approximately 96, according to OIG officials.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c20
   type: posture
   value: not applicable
   qualifier: not applicable
-  span: 'because this provision was not included in the fiscal year 2026 DHS Appropriations Act, it is not applicable to determining whether to continue any contract for detention services.'
+  span: because this provision was not included in the fiscal year 2026 DHS Appropriations Act, it is not applicable to determining whether to continue any contract for detention services.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c21
   type: posture
   value: agreed
   qualifier: DHS agreed
-  span: 'DHS agreed with the two recommendations and requested that we close them as implemented based on activities ICE had underway—and that we considered—during our review.'
+  span: DHS agreed with the two recommendations and requested that we close them as implemented based on activities ICE had underway—and that we considered—during our review.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c22
   type: figure
   value: 49 or less
   qualifier: self-inspections
-  span: 'facilities with an average daily population of 49 or less now conduct self-inspections.'
+  span: facilities with an average daily population of 49 or less now conduct self-inspections.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c23
   type: figure
   value: 102
   qualifier: conducted 102 inspections
-  span: 'In fiscal year 2025, it conducted 102 inspections and generally did not conduct follow-up inspections.'
+  span: In fiscal year 2025, it conducted 102 inspections and generally did not conduct follow-up inspections.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c24
   type: figure
   value: over 40
   qualifier: added
-  span: 'ICE added over 40 detention facilities that detain noncitizens for over 72 hours from April 2025 to April 2026.'
+  span: ICE added over 40 detention facilities that detain noncitizens for over 72 hours from April 2025 to April 2026.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c25
   type: figure
   value: $20 million
   qualifier: appropriated
-  span: 'In fiscal year 2026, the OIG was appropriated $20 million, available through September 2027, to conduct additional inspections and oversight of ICE detention facilities.'
+  span: In fiscal year 2026, the OIG was appropriated $20 million, available through September 2027, to conduct additional inspections and oversight of ICE detention facilities.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c26
   type: figure
   value: four
   qualifier: DHS entities
-  span: 'In May 2025, we reported that four DHS entities conducted detention facility inspections as of fiscal year 2024.'
+  span: In May 2025, we reported that four DHS entities conducted detention facility inspections as of fiscal year 2024.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c27
   type: figure
   value: two
   qualifier: two of the four entities
-  span: 'As of July 2026, two of the four entities had decreased the frequency of or eliminated their inspections.'
+  span: As of July 2026, two of the four entities had decreased the frequency of or eliminated their inspections.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c28
   type: figure
   value: 72 hours
   qualifier: over
-  span: 'ICE’s average daily population in facilities that detain noncitizens for over 72 hours increased by 52 percent, from 40,587 in April 2025 to 61,817 in April 2026.'
+  span: ICE’s average daily population in facilities that detain noncitizens for over 72 hours increased by 52 percent, from 40,587 in April 2025 to 61,817 in April 2026.
   url: https://www.durbin.senate.gov/imo/media/doc/immigration_detention_changes_in_inspections_of_ice_facilities_raise_questions_about_oversight.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - ice
 - detention
