@@ -139,6 +139,33 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-10-31'
+- type: date
+  value: November 12, 2026
+  span: So ORDERED by Chief Judge James E. Boasberg on November 12, 2026.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-13'
+- type: date
+  value: November 17, 2026, at 11:00 a.m.
+  span: The Court ORDERS that the parties shall appear for a hearing on November 17, 2026, at 11:00 a.m. on Petitioners' Applications to Unseal.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-13'
+- type: quote
+  value: The Government shall be prepared to address why materials beyond the Affidavit itself cannot be unsealed.
+  span: The Government shall be prepared to address why materials beyond the Affidavit itself cannot be unsealed.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - omar
 - hsi
@@ -178,6 +205,11 @@ sources:
   publisher: D.D.C. via CourtListener RECAP
   date: '2026-10-27'
   tier: 1
+- title: Docket, In re Application of Fourteen Press Organizations (D.D.C. 1:26-mc-00144), minute order of Nov. 12, 2026
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  publisher: CourtListener RECAP
+  date: '2026-11-12'
+  tier: 1
 updates:
 - date: '2026-10-27'
   date_kind: filing date
@@ -190,6 +222,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: omar-search-warrant-unsealing
+- date: '2026-11-12'
+  date_kind: order date (minute order)
+  heading: Boasberg sets a Nov. 17 hearing and asks the government why more than the affidavit cannot be unsealed
+  claims:
+  - u4
+  - u5
+  - u6
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 The government did not respond to the Omar search-warrant unsealing applications by the deadline the court had set. It asked for more time, and on October 22 Chief Judge James E. Boasberg granted that motion in part and denied it in part.
@@ -207,3 +250,7 @@ The United States filed a redacted public version of its consolidated memorandum
 ## Update (2026-10-28, order date): Boasberg seals the government's opposition for now; applications consolidated
 
 The government's Oct. 27 opposition is on the public docket in redacted form (above); it also moved to file its memorandum under seal (Dkt. 11). On 10/28/2026 Chief Judge James E. Boasberg granted the motion to seal, adding: "In the event that the Court, after review, believes that a redacted version of the Government's Memorandum should be filed on the public record, it will so order." A 10/29/2026 docket entry consolidates 26mc145 and 26mc147 into this case. Press applicants, Judicial Watch and The New York Times filed replies on 10/30/2026 (Dkt. 18, 19, 20). Read as docket text through CourtListener's API on docket 74969880; hand update, because the sourcing gate can't read docket text.
+
+## Update (2026-11-12, order date (minute order)): Boasberg sets a Nov. 17 hearing and asks the government why more than the affidavit cannot be unsealed
+
+On November 12, 2026, Chief Judge James E. Boasberg ordered the parties to appear for a hearing on November 17, 2026, at 11:00 a.m. on the applications to unseal. His minute order adds: "The Government shall be prepared to address why materials beyond the Affidavit itself cannot be unsealed." The docket shows no order unsealing any of the warrant materials as of this pass.
