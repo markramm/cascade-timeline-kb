@@ -17,7 +17,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c2
   type: attribution
   value: U.S. District Court Judge Charlotte N. Sweeney
@@ -26,7 +26,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c3
   type: figure
   value: '10'
@@ -35,7 +35,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c4
   type: quote
   value: to re-detain habeas releases that had some kind of criminality
@@ -45,7 +45,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c5
   type: attribution
   value: Deputy Field Office Director George Valdez
@@ -54,7 +54,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c7
   type: quote
   value: I received a direct order
@@ -63,7 +63,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c6
   type: attribution
   value: Sweeney set a follow-up hearing for Monday, ordering ICE’s Denver field office director, Nathan Rasper, to appear
@@ -72,56 +72,70 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-11'
+  checked: '2026-11-13'
 - id: c8
   type: attribution
-  value: 'Rasper confirmed he had since stopped the re-arrests'
-  span: 'Rasper confirmed he had since stopped the re-arrests based on Sweeney’s hearing last week.'
+  value: Rasper confirmed he had since stopped the re-arrests
+  span: Rasper confirmed he had since stopped the re-arrests based on Sweeney’s hearing last week.
   url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c10
   type: attribution
-  value: 'He did not personally review Alvarez’s case before the re-arrest'
-  span: 'He did not personally review Alvarez’s case before the re-arrest.'
+  value: He did not personally review Alvarez’s case before the re-arrest
+  span: He did not personally review Alvarez’s case before the re-arrest.
   url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c11
   type: quote
-  value: 'The notion that ICE could self-review to find technical violations is not something the court will tolerate'
-  span: '“The notion that ICE could self-review to find technical violations is not something the court will tolerate. What happened to Mr. Alvarez is not a technical violation. It’s a due process violation,” Sweeney said.'
+  value: The notion that ICE could self-review to find technical violations is not something the court will tolerate
+  span: “The notion that ICE could self-review to find technical violations is not something the court will tolerate. What happened to Mr. Alvarez is not a technical violation. It’s a due process violation,” Sweeney said.
   url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c12
   type: attribution
-  value: 'Sweeney will issue a written order deciding whether she will initiate contempt proceedings'
-  span: 'Sweeney will issue a written order deciding whether she will initiate contempt proceedings.'
+  value: Sweeney will issue a written order deciding whether she will initiate contempt proceedings
+  span: Sweeney will issue a written order deciding whether she will initiate contempt proceedings.
   url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c13
   type: figure
   value: '14'
-  span: 'a court order shows it included 14 people who had since been released again.'
+  span: a court order shows it included 14 people who had since been released again.
   url: https://mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c14
   type: attribution
-  value: 'the ACLU of Colorado told the court Monday the list was likely an undercount'
-  span: 'The ACLU of Colorado told the court Monday the list was likely an undercount.'
+  value: the ACLU of Colorado told the court Monday the list was likely an undercount
+  span: The ACLU of Colorado told the court Monday the list was likely an undercount.
   url: https://mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c15
   type: attribution
   value: ultimately gave a verbal instruction to re-arrest people released on judges’ orders
-  span: 'he spoke with ICE’s principal legal advisors and his deputy director and ultimately gave a verbal instruction to re-arrest people released on judges’ orders.'
+  span: he spoke with ICE’s principal legal advisors and his deputy director and ultimately gave a verbal instruction to re-arrest people released on judges’ orders.
   url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - ice
 - habeas
