@@ -73,6 +73,55 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-11'
+- id: c8
+  type: attribution
+  value: 'Rasper confirmed he had since stopped the re-arrests'
+  span: 'Rasper confirmed he had since stopped the re-arrests based on Sweeney’s hearing last week.'
+  url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
+  read: fetched
+  source_kind: secondary
+- id: c10
+  type: attribution
+  value: 'He did not personally review Alvarez’s case before the re-arrest'
+  span: 'He did not personally review Alvarez’s case before the re-arrest.'
+  url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
+  read: fetched
+  source_kind: secondary
+- id: c11
+  type: quote
+  value: 'The notion that ICE could self-review to find technical violations is not something the court will tolerate'
+  span: '“The notion that ICE could self-review to find technical violations is not something the court will tolerate. What happened to Mr. Alvarez is not a technical violation. It’s a due process violation,” Sweeney said.'
+  url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
+  read: fetched
+  source_kind: secondary
+- id: c12
+  type: attribution
+  value: 'Sweeney will issue a written order deciding whether she will initiate contempt proceedings'
+  span: 'Sweeney will issue a written order deciding whether she will initiate contempt proceedings.'
+  url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
+  read: fetched
+  source_kind: secondary
+- id: c13
+  type: figure
+  value: '14'
+  span: 'a court order shows it included 14 people who had since been released again.'
+  url: https://mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says
+  read: fetched
+  source_kind: secondary
+- id: c14
+  type: attribution
+  value: 'the ACLU of Colorado told the court Monday the list was likely an undercount'
+  span: 'The ACLU of Colorado told the court Monday the list was likely an undercount.'
+  url: https://mprnews.org/story/2026/11/11/ice-re-arrests-in-colorado-followed-minnesotas-lead-official-says
+  read: fetched
+  source_kind: secondary
+- id: c15
+  type: attribution
+  value: ultimately gave a verbal instruction to re-arrest people released on judges’ orders
+  span: 'he spoke with ICE’s principal legal advisors and his deputy director and ultimately gave a verbal instruction to re-arrest people released on judges’ orders.'
+  url: https://www.denvergazette.com/2026/11/09/new-level-of-fear-judge-interrogates-colorado-ice-leader-on-tactics/
+  read: fetched
+  source_kind: secondary
 tags:
 - ice
 - habeas
@@ -95,3 +144,5 @@ sources:
 Colorado Politics reported that a federal judge in Colorado launched an inquiry on Wednesday into U.S. Immigration and Customs Enforcement's repeated violations of court orders, telling ICE and the government's lawyers that their conduct amounted to contempt. U.S. District Court Judge Charlotte N. Sweeney said she would not tolerate ICE's practice of releasing people from immigration custody in response to judges' orders, only to immediately arrest them again, and added that, to her knowledge, ICE had released and immediately rearrested 10 people in a week despite judges' orders.
 
 Nichole Black, the assistant field office director for ICE, testified that "I received a direct order" to "re-detain habeas releases that had some kind of criminality". The directive came from Deputy Field Office Director George Valdez, who in turn received the order from Rasper, the director. Sweeney set a follow-up hearing for Monday, ordering ICE's Denver field office director, Nathan Rasper, to appear and speak to the agency's conduct. Related: [[2026-11-06--judge-sweeney-orders-ice-field-office-director-to-court-over-colorado-re-arrests-of-released-detainees]]; [[2026-10-19--judge-bryan-threatens-ice-sanctions-after-saltos-release-order-violated-instant-rearrest-minnesota]].
+
+**Follow-up hearing (attached).** Denver Gazette reported that at the follow-up hearing Rasper confirmed he had since stopped the re-arrests, ultimately gave a verbal instruction to re-arrest people released on judges' orders, and did not personally review Alvarez's case before the re-arrest. Sweeney said "The notion that ICE could self-review to find technical violations is not something the court will tolerate." Sweeney will issue a written order deciding whether she will initiate contempt proceedings. MPR News reported that a court order shows the government's list included 14 people who had since been released again, and that the ACLU of Colorado told the court the list was likely an undercount.
