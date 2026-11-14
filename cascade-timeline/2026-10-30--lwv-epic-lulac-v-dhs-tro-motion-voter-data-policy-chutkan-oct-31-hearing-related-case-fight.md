@@ -8,7 +8,7 @@ status: confirmed
 event_date_claim: c1
 captured_by: capture-watch
 cluster: hsi-election-program
-verification: captured
+verification: source-verified
 claims:
 - id: c1
   type: date
@@ -17,6 +17,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.20.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c2
   type: posture
   value: Voter Data Transmission Policy
@@ -24,6 +26,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.16.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c3
   type: date
   value: October 29
@@ -31,6 +35,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.16.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c6
   type: quote
   value: would not send lists of voters to states and localities
@@ -38,6 +44,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.16.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c7
   type: quote
   value: have yet to respond
@@ -45,6 +53,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.16.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c8
   type: posture
   value: related cases
@@ -52,6 +62,8 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.19.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - id: c9
   type: posture
   value: Privacy Act challenge
@@ -59,20 +71,26 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.20.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-14'
 - type: date
-  value: 10/31/2026 at 1:00 PM
-  span: Motion Hearing set for 10/31/2026 at 1:00 PM by Telephonic/VTC before Judge Tanya S. Chutkan
-  url: https://www.courtlistener.com/docket/74968826/
+  value: Oct. 31, 2026
+  span: see also Oct. 31, 2026 Hr’g Tr. 53:13–24, ECF
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.31.0.pdf
   read: fetched
   source_kind: primary
-  id: d1
-- type: date
-  value: 9:00am on October 31
-  span: Defendants are ORDERED to file their opposition to Plaintiffs' 15 Motion for a Temporary Restraining Order by 9:00am on October 31, 2026
-  url: https://www.courtlistener.com/docket/74968826/
+  id: h1
+  outcome: verified
+  checked: '2026-11-14'
+- type: quote
+  value: conceded at oral argument
+  span: But as Defendants conceded at oral argument, courts in this district “ha[ve]
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297656/gov.uscourts.dcd.297656.31.0.pdf
   read: fetched
   source_kind: primary
-  id: d2
+  id: h2
+  outcome: verified
+  checked: '2026-11-14'
 - type: date
   value: 10/31/26
   span: Case 1:26-cv-03602-TSC Document 25 Filed 10/31/26 Page 1 of 39
@@ -81,7 +99,7 @@ claims:
   source_kind: primary
   id: u1
   outcome: verified
-  checked: '2026-10-31'
+  checked: '2026-11-14'
 - type: figure
   value: Document 25
   span: Case 1:26-cv-03602-TSC Document 25 Filed 10/31/26 Page 1 of 39
@@ -90,7 +108,7 @@ claims:
   source_kind: primary
   id: u2
   outcome: verified
-  checked: '2026-10-31'
+  checked: '2026-11-14'
 - type: quote
   value: Fail To Establish Final Agency Action Reviewable Under the APA
   span: A. Plaintiffs Fail To Establish Final Agency Action Reviewable Under the APA.
@@ -99,7 +117,7 @@ claims:
   source_kind: primary
   id: u3
   outcome: verified
-  checked: '2026-10-31'
+  checked: '2026-11-14'
 - type: quote
   value: the letter itself does not segregate ballots
   span: After all, the letter itself does not segregate ballots
@@ -108,7 +126,7 @@ claims:
   source_kind: primary
   id: u4
   outcome: verified
-  checked: '2026-10-31'
+  checked: '2026-11-14'
 - type: date
   value: November 2, 2026
   span: 'Plaintiffs shall post a bond in the amount of $1.00 by November 4, 2026. It is SO ORDERED. Date: November 2, 2026'
@@ -117,7 +135,7 @@ claims:
   source_kind: primary
   id: u5
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: posture
   value: GRANTED
   span: For the reasons set forth in the forthcoming Memorandum Opinion, Plaintiffs’ Motion for a Temporary Restraining Order or Preliminary Injunction and Stay under 5 U.S.C. § 705, ECF No. 15, is GRANTED.
@@ -126,7 +144,7 @@ claims:
   source_kind: primary
   id: u6
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: quote
   value: preliminarily ENJOINED and STAYED
   span: Defendants and their agents are preliminarily ENJOINED and STAYED under 5 U.S.C. § 705 from further disclosing, transmitting, or releasing data purporting to constitute lists of individual potential or actual non-citizen voters or registered voters, to any State, county, municipal, or other local official, employee, or officer responsible for administering voter registration, issuing or processing ballots, verifying signatures, or tabulating or certifying votes.
@@ -135,7 +153,7 @@ claims:
   source_kind: primary
   id: u7
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: posture
   value: SAVE
   span: This order does not preclude Defendants from (1) responding to an inquiry seeking to verify or ascertain the citizenship or immigration status of any individual through the Systematic Alien Verification for Entitlements (SAVE) system, or (2) prosecuting violations of federal law.
@@ -144,7 +162,7 @@ claims:
   source_kind: primary
   id: u8
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: figure
   value: 24 hours
   span: Defendants are also ORDERED to file a status report within 24 hours of the issuance of this Order (a) confirming compliance with this Order, and (b) identifying a senior official responsible for ensuring the Defendants’ continued compliance with this Order,
@@ -153,7 +171,7 @@ claims:
   source_kind: primary
   id: u9
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: quote
   value: that no statute authorizes the Voter Data Transmission Policy
   span: Plaintiffs have established that they will likely succeed on the merits of their claim that no statute authorizes the Voter Data Transmission Policy.
@@ -162,7 +180,7 @@ claims:
   source_kind: primary
   id: u10
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: quote
   value: violates the Act’s prohibitions on disclosure without any applicable exception
   span: Consequently, the law enforcement exception is inapplicable, and Plaintiffs are likely to succeed on their claim that the Voter Data Transmission Policy violates the Act’s prohibitions on disclosure without any applicable exception.
@@ -171,7 +189,7 @@ claims:
   source_kind: primary
   id: u11
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: date
   value: November 3, 2026
   span: 'Dated: November 3, 2026 BRETT A. SHUMATE'
@@ -180,7 +198,7 @@ claims:
   source_kind: primary
   id: u12
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: quote
   value: Defendants confirm that they are in compliance with this Order.
   span: Defendants confirm that they are in compliance with this Order. Defendants hereby submit
@@ -189,7 +207,7 @@ claims:
   source_kind: primary
   id: u13
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: attribution
   value: Intergovernmental Liaison
   span: this Status Report confirming Brian Hawkins, Intergovernmental Liaison, U.S. Department of
@@ -198,7 +216,7 @@ claims:
   source_kind: primary
   id: u14
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: attribution
   value: Homeland Security Investigations
   span: Homeland Security Investigations, U.S. Immigration and Customs Enforcement; and Larry
@@ -207,7 +225,7 @@ claims:
   source_kind: primary
   id: u15
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 - type: quote
   value: the senior officials responsible for ensuring the
   span: Citizenship and Immigration Services, as the senior officials responsible for ensuring the
@@ -216,7 +234,7 @@ claims:
   source_kind: primary
   id: u16
   outcome: verified
-  checked: '2026-11-03'
+  checked: '2026-11-14'
 tags:
 - election-capture
 - midterms-2026
@@ -306,7 +324,7 @@ coverage:
   title: "Four Election Rulings Against the Government in Three Days"
 ---
 
-EPIC and LULAC moved on October 29 for a TRO, a stay or a preliminary injunction against what they call DHS's Voter Data Transmission Policy. A docket notice sets a hearing before Judge Tanya S. Chutkan for 10/31/2026 at 1:00 PM; it has not happened. Her minute order requires the government's opposition by 9:00am on October 31. The plaintiffs' status report says they offered schedule concessions if the government agreed it "would not send lists of voters to states and localities" until the motion is decided, and that the government "have yet to respond" as of its filing. In a notice filed 10/30/26, the government listed the case as among related cases before Chief Judge Boasberg; the plaintiffs objected, calling theirs a "Privacy Act challenge." These are the parties' positions; the court has not ruled.
+EPIC and LULAC moved on October 29 for a TRO, a stay or a preliminary injunction against what they call DHS's Voter Data Transmission Policy. The case is before Judge Tanya S. Chutkan. The plaintiffs' status report says they offered schedule concessions if the government agreed it "would not send lists of voters to states and localities" until the motion is decided, and that the government "have yet to respond" as of its filing. In a notice filed 10/30/26, the government listed the case as among related cases before Chief Judge Boasberg; the plaintiffs objected, calling theirs a "Privacy Act challenge." These are the parties' positions; the court has not ruled.
 
 ## Update (2026-10-31, filing date): The government's opposition to the TRO
 
@@ -314,7 +332,7 @@ In a corrected memorandum filed 10/31/26 (Document 25), the government argues th
 
 ## Update (2026-10-31, hearing date): Chutkan hears the TRO motion; order forthcoming
 
-The docket's minute entry says Judge Tanya S. Chutkan held a motion hearing on 10/31/2026 on the Dkt. 15 motion for a temporary restraining order, stay under 5 U.S.C. § 705 and/or preliminary injunction: "The Court hears Oral Argument. Order forthcoming." Defendants filed an opposition and a corrected opposition (Dkt. 24, 25) and a notice of recent decision (Dkt. 22); plaintiffs filed a response with supplemental authority (Dkt. 26) and a reply (Dkt. 28). No ruling appears in RECAP as of the early hours of Nov. 1, which only covers what has been uploaded. Read as docket text through CourtListener's API on docket 74968826; hand update, because the sourcing gate can't read docket text.
+Judge Tanya S. Chutkan's memorandum opinion of November 2 cites the transcript of an Oct. 31, 2026 hearing and says the defendants "conceded at oral argument" a point about Privacy Act organizational claims. The opinion is the source here; the transcript is not in RECAP.
 
 ## Update (2026-11-02, order date): Chutkan grants the TRO: DHS may not send noncitizen-voter lists to election officials
 
