@@ -4,7 +4,7 @@ id: 2026-01-24--border-patrol-kills-alex-pretti-legal-observer-minneapolis
 date: 2026-01-24
 title: Border Patrol Agents Kill Alex Pretti, Second Legal Observer Shot in Minneapolis in Three Weeks
 importance: 10
-status: confirmed
+status: reported
 actors:
 - Alex Pretti
 - U.S. Border Patrol
@@ -43,6 +43,11 @@ sources:
   outlet: MPR News
   date: '2026-01-24'
   tier: 1
+- title: "'So It's Possible it Was a Bad Shooting?' Border Patrol Honcho Greg Bovino Peppered With Questions in Fiery Presser"
+  url: https://www.yahoo.com/news/articles/possible-bad-shooting-border-patrol-205449085.html
+  outlet: Mediaite (via Yahoo News)
+  date: '2026-01-25'
+  tier: 2
 - title: Killing of Alex Pretti
   url: https://en.wikipedia.org/wiki/Killing_of_Alex_Pretti
   outlet: Wikipedia
@@ -112,7 +117,7 @@ Border Patrol agents shot and killed Alex Pretti, a 37-year-old intensive care n
 
 Multiple bystander videos verified by Reuters and the Wall Street Journal contradicted the federal government's account. Videos showed Pretti holding only a phone before officers tackled him. Approximately six agents pinned him face-down and shot him approximately ten times in the back. One video appears to show an agent removing Pretti's gun and moving away less than a second before another agent fired. Witnesses stated Pretti "wasn't trying to resist, just trying to help [a] woman up" and "was not even facing agents when they grabbed him."
 
-DHS and Deputy Attorney General Todd Blanche claimed Pretti was a "domestic terrorist" who approached officers with a 9mm handgun intending to "massacre" them. Immigration official Gregory Bovino initially claimed Pretti "violently resisted" disarming attempts but later walked back definitive claims, stating "I've not concluded anything." Trump officials called Pretti a "domestic terrorist" despite no verified evidence he brandished his handgun during the encounter.
+DHS and Deputy Attorney General Todd Blanche claimed Pretti was a "domestic terrorist" who approached officers with a 9mm handgun intending to "massacre" them. Immigration official Gregory Bovino initially claimed Pretti "violently resisted" disarming attempts but at a press conference on January 25 he was asked whether he had already concluded the shooting was justified and answered: "I have not concluded anything, I have not given you a conclusion." Trump officials called Pretti a "domestic terrorist" despite no verified evidence he brandished his handgun during the encounter.
 
 Governor Tim Walz called the federal claims "nonsense" and "lies," stating the federal government cannot be trusted with the investigation and pledging "there will be justice to Minnesotans." Minnesota created evidence logs for potential future prosecution of immigration agents. Mayor Jacob Frey called the federal presence "an invasion" and urged residents to "stand up for America," stating "your children will ask you what side you were on." Minnesota's Bureau of Criminal Apprehension reported federal agents failed to properly preserve the shooting scene, calling their actions "astonishing." A federal judge ordered evidence preservation.
 
