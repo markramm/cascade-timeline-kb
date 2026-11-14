@@ -121,6 +121,26 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-13'
+- id: c13
+  type: figure
+  value: more than 200
+  qualifier: detained
+  span: More than 200 people have been detained since early October amid Fresno-area ICE raids
+  url: https://fresnoland.org/2026/11/02/fresno-area-ice-raids/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
+- id: c14
+  type: attribution
+  value: would neither confirm nor deny the California operation
+  qualifier: operation
+  span: would neither confirm nor deny the California operation
+  url: https://fresnoland.org/2026/10/08/fresno-ice-raids/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-13'
 tags:
 - immigration-enforcement-violence
 - election-capture
@@ -149,3 +169,5 @@ captured_by: daily-capture
 The Intercept reported that ICE raids in California's Central Valley became more prevalent from early October, with more than 200 people detained according to the local newsroom Fresnoland. Voter rights organizations in the region view the raids as an effort by the Trump administration to suppress the vote, especially in the 22nd District. Marisa Moraza of PowerCA Action, which did independent expenditure work for Democrat Randy Villegas, said the timing of the uptick was "not a coincidence" and that the raids suppressed get-out-the-vote efforts: the group paused in-person canvassing for several days and shifted to phone banking. Canvasser Cirilo Ordaz said recent arrests of U.S. citizens struck fear among voters. Villegas ousted Republican Rep. David Valadao in the district, which is 70 percent Latino or Hispanic. Valadao claimed "a lot" of those detained have criminal records, despite research the Intercept cites showing most people held by ICE lack criminal convictions.
 
 The Central Valley surge is the same operation tracked in [[2026-10-09--calmatters-ice-arrest-surge-san-joaquin-valley-advocates-count-100-detained-ice-declines-to-confirm]], and sits beside the state-level enforcement and ballot fights recorded in [[2026-10-08--ice-45-day-operation-safe-california-surge-san-diego-reported]] and [[2026-10-13--doj-letters-give-california-48-hours-on-likely-noncitizen-list-demand-la-county-segregate-ballots]].
+
+Fresnoland's own report, by Gisselle Medina, is the source of the figure The Intercept cites: more than 200 people have been detained since early October amid Fresno-area ICE raids. Fresnoland's earlier report has the Department of Homeland Security declining to confirm or deny the California operation.
