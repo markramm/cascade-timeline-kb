@@ -2,11 +2,11 @@
 type: timeline_event
 id: 2026-10-25--archbishop-grob-apologizes-white-house-bishops-prayer-political-photo-opportunity
 date: '2026-10-25'
-title: "Milwaukee Archbishop Grob Apologizes for Praying With Trump, Says the White House \"Manipulated\" Bishops Into a \"Political Photo Opportunity\""
+title: "Milwaukee Archbishop Grob Apologizes for Praying With Trump, Says Bishops Did Not Go \"to Pose for a Political Photo Opportunity\""
 importance: 7
 status: confirmed
-verification: source-verified
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
@@ -17,7 +17,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c2
   type: figure
   value: '12'
@@ -27,18 +27,29 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c3
   type: quote
-  value: manipulated
-  qualifier: political photo opportunity
+  value: not to pose for a political photo opportunity to benefit the few
+  qualifier: good faith
   speaker: Archbishop Jeffrey Grob
-  span: Archbishop Jeffrey Grob of Milwaukee said a recent meeting of 12 bishops with President Donald Trump was "manipulated" by the White House into a "political photo opportunity" and apologized for any harm the meeting caused.
+  span: '"We came in good faith to try to work for the betterment of our fellow human beings, to ease their suffering, to build up the common good, and to pray with a president, not to pose for a political photo opportunity to benefit the few," Grob said.'
   url: https://www.ncronline.org/news/milwaukee-archbishop-who-prayed-trump-apologizes-says-bishops-were-manipulated-white-house
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
+- id: c11
+  type: quote
+  value: would be manipulated in that way
+  qualifier: sacred
+  speaker: Archbishop Jeffrey Grob
+  span: '"I feel a heavy sadness, not only over the pain I caused, but also for the fact that something so sacred to a group of religious leaders, prayer to our Heavenly Father, would be manipulated in that way," Grob said.'
+  url: https://www.ncronline.org/news/milwaukee-archbishop-who-prayed-trump-apologizes-says-bishops-were-manipulated-white-house
+  read: fetched
+  source_kind: tier1
+  outcome: verified
+  checked: '2026-11-14'
 - id: c4
   type: date
   value: October 22
@@ -48,7 +59,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c5
   type: attribution
   value: Trump-aligned Heritage Foundation
@@ -58,7 +69,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c6
   type: quote
   value: directed to stand behind him and pray
@@ -68,7 +79,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c7
   type: quote
   value: was not given by the bishops
@@ -78,7 +89,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c8
   type: quote
   value: sincere regret
@@ -88,7 +99,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c9
   type: quote
   value: exploited
@@ -99,7 +110,7 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
 - id: c10
   type: attribution
   value: co-signed a statement along with other Wisconsin bishops critical of the Trump administration's mistreatment of immigrants
@@ -108,7 +119,18 @@ claims:
   read: fetched
   source_kind: tier1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-14'
+- id: c12
+  type: quote
+  value: There has never been a greater president for Catholic Americans than President Trump
+  qualifier: told NCR
+  speaker: White House
+  span: Following the meeting, the White House told NCR, "There has never been a greater president for Catholic Americans than President Trump, and his strong record proves it."
+  url: https://www.ncronline.org/news/milwaukee-archbishop-who-prayed-trump-apologizes-says-bishops-were-manipulated-white-house
+  read: fetched
+  source_kind: tier1
+  outcome: verified
+  checked: '2026-11-14'
 tags:
   - christian-nationalism
   - catholic-church
@@ -132,6 +154,6 @@ sources:
     tier: 2
 ---
 
-Archbishop Jeffrey Grob of Milwaukee apologized in a statement on the archdiocesan website, reported by the National Catholic Reporter on Oct. 25, for taking part in a meeting of 12 bishops with President Trump. He said the meeting was "manipulated" by the White House into a "political photo opportunity," and expressed "sincere regret." The meeting, on October 22, was organized by the Trump-aligned Heritage Foundation. Grob said the bishops were "directed to stand behind him and pray," and that permission for public distribution of the video or photos "was not given by the bishops." Bishop William Joensen of Des Moines issued a statement the same day saying the White House had "exploited" the gathering for "partisan political purposes."
+Archbishop Jeffrey Grob of Milwaukee apologized in a statement on the archdiocesan website, reported by the National Catholic Reporter on Oct. 25, for taking part in a meeting of 12 bishops with President Trump. He said the bishops came "not to pose for a political photo opportunity to benefit the few," that the prayer "would be manipulated in that way," and expressed "sincere regret." The meeting, on October 22, was organized by the Trump-aligned Heritage Foundation. Grob said the bishops were "directed to stand behind him and pray," and that permission for public distribution of the video or photos "was not given by the bishops." Bishop William Joensen of Des Moines issued a statement the same day saying the White House had "exploited" the gathering for "partisan political purposes."
 
-Grob had co-signed a statement with other Wisconsin bishops criticizing the Trump administration's mistreatment of immigrants. The apology is the bishops' own account of how the White House used a private pastoral meeting for its pre-election imagery. Related timeline entries: [[2026-02-27--usccb-calls-trump-birthright-citizenship-order-affront-catholic-teaching]], [[2026-04-14--vance-papal-rebuke-pope-leo-xiv-captured-catholic-tradition-operational-confrontation]], [[2026-02-18--400-clergy-ash-wednesday-letter-condemns-white-christian-nationalism]].
+Grob had co-signed a statement with other Wisconsin bishops criticizing the Trump administration's mistreatment of immigrants. The White House told NCR, "There has never been a greater president for Catholic Americans than President Trump." Related timeline entries: [[2026-02-27--usccb-calls-trump-birthright-citizenship-order-affront-catholic-teaching]], [[2026-04-14--vance-papal-rebuke-pope-leo-xiv-captured-catholic-tradition-operational-confrontation]], [[2026-02-18--400-clergy-ash-wednesday-letter-condemns-white-christian-nationalism]].
