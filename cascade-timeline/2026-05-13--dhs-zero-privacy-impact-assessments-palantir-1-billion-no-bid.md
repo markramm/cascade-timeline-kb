@@ -20,7 +20,7 @@ corrections:
 tags:
   - surveillance
   - government-contracts
-  - no-bid-contract
+  - single-bid-competed-award
   - dhs
   - ice
   - institutional-capture

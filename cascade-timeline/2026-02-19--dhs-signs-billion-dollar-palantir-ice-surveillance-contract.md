@@ -85,7 +85,7 @@ tags:
 - surveillance
 - palantir
 - ice
-- no-bid-contract
+- single-bid-competed-award
 - immigration-enforcement
 - corporate-profiteering
 capture_lanes:
