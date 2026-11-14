@@ -1,127 +1,128 @@
 ---
 type: timeline_event
-id: "2025-12-15--trump-sues-bbc-10-billion-documentary-edit-defamation-pending-no-payment"
-date: "2025-12-15"
-title: "Trump Sues the BBC for $10 Billion Over a Documentary Edit; Jury Trial Set for February 2027, Mediation the Week of October 26"
+id: 2025-12-15--trump-sues-bbc-10-billion-documentary-edit-defamation-pending-no-payment
+date: '2025-12-15'
+title: Trump Sues the BBC for $10 Billion Over a Documentary Edit; Judge Kuntz Keeps the Defamation Count and Dismisses the Florida Trade-Practices Count; Trump Ordered to Sit for a Deposition by December 11
 importance: 6
-status: reported
+status: confirmed
 lane: media-capture
 tags:
-  - media-capture
-  - trump-v-press
-  - bbc
-  - pending-litigation
+- media-capture
+- trump-v-press
+- bbc
+- pending-litigation
 actors:
-  - "Donald Trump"
-  - "British Broadcasting Corporation"
-  - "Alejandro Brito"
-  - "Charles Tobin"
+- Donald Trump
+- British Broadcasting Corporation
+- Alejandro Brito
+- Charles Tobin
 sources:
-  - title: "BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel"
-    url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
-    publisher: "Associated Press"
-    date: "2026-10-15"
-    tier: 2
-  - title: "Trump v. British Broadcasting Corporation, No. 1:25-cv-25894 (S.D. Fla.) docket"
-    url: https://www.courtlistener.com/docket/72040010/trump-v-british-broadcasting-corporation/
-    publisher: "CourtListener (RECAP)"
-    date: "2026-10-23"
-    tier: 1
+- title: Order Granting in Part and Denying in Part Defendant's Motion to Dismiss, ECF 209, Trump v. British Broadcasting Corp., No. 1:25-cv-25894 (S.D. Fla. Nov. 10, 2026)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.209.0.pdf
+  publisher: CourtListener (RECAP)
+  date: '2026-11-10'
+  tier: 1
+- title: Judge orders Trump to sit for a deposition in his defamation lawsuit against the BBC by Dec. 11
+  url: https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11
+  publisher: Associated Press via PBS NewsHour
+  date: '2026-10-22'
+  tier: 2
+- title: BBC asks judge to force Trump to sit for deposition in his own lawsuit against the channel
+  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  publisher: Associated Press
+  date: '2026-10-15'
+  tier: 2
+- title: President Trump files $10 billion defamation lawsuit against BBC over edited clips of his Jan. 6 speech
+  url: https://www.nbcnews.com/politics/donald-trump/president-files-10-billion-defamation-lawsuit-bbc-january-6-speech-rcna249420
+  publisher: NBC News
+  date: '2025-12-15'
+  tier: 2
 verification: source-verified
 claims:
 - id: c1
-  type: figure
-  value: $10 billion
-  qualifier: seeking
-  span: filed the lawsuit against the BBC last December, seeking $10 billion in damages
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  type: date
+  value: Monday
+  qualifier: filed
+  span: The BBC has said it will defend itself against a $10 billion lawsuit filed by President Donald Trump on Monday
+  url: https://www.nbcnews.com/politics/donald-trump/president-files-10-billion-defamation-lawsuit-bbc-january-6-speech-rcna249420
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-26'
-- id: c2
-  type: quote
-  value: deceptive and unfair trade practices
-  qualifier: defamation
-  span: 'he accused the British broadcaster of defamation as well as deceptive and unfair trade practices related to a documentary, “Trump: A Second Chance.”'
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c3
   type: date
-  value: Dec. 15, 2025
-  qualifier: Filed
-  span: 'Trump v. British Broadcasting Corporation, 1:25-cv-25894, (S.D. Fla.) Date Filed: Dec. 15, 2025'
-  url: https://www.courtlistener.com/docket/72040010/trump-v-british-broadcasting-corporation/
+  value: 10th day of November, 2026
+  qualifier: order
+  span: DONE AND ORDERED in Chambers, Fort Lauderdale, Florida, this 10th day of November, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.209.0.pdf
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c4
-  type: date
-  value: 2/15/2027
-  qualifier: Jury
-  span: Jury Trial set for 2/15/2027 in Miami Division before Judge Roy K. Altman
-  url: https://www.courtlistener.com/docket/72040010/trump-v-british-broadcasting-corporation/
+  type: quote
+  value: DENIED
+  qualifier: Count I
+  span: The Motion to Dismiss Count I of the First Amended Complaint is DENIED
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.209.0.pdf
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c5
-  type: date
-  value: October 26, 2026
-  qualifier: mediation
-  span: The mediation conference in this matter shall be held with the Honorable John W. Thornton the week of October 26, 2026, at 10:00 AM at the offices of JAMS Mediation, Arbitration, and ADR services.
-  url: https://www.courtlistener.com/docket/72040010/trump-v-british-broadcasting-corporation/
+  type: quote
+  value: GRANTED
+  qualifier: Count II
+  span: The Motion to Dismiss Count II of the First Amended Complaint is GRANTED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.209.0.pdf
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c6
   type: date
-  value: December 18
-  qualifier: close
-  span: before discovery is set to close on Dec. 18.
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  value: December 1, 2026
+  qualifier: answer
+  span: Defendant shall file an answer to Count I of the First Amended Complaint on or before December 1, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.209.0.pdf
   read: fetched
-  source_kind: secondary
+  source_kind: primary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c7
-  type: quote
-  value: matters of national importance
-  qualifier: national
-  span: “the President is no longer available for his deposition on October 16 due to other matters of national importance”
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  type: date
+  value: Dec. 11
+  qualifier: deposition
+  span: Lett said Trump must sit for a deposition by Dec. 11, or face sanctions up to dismissal of his lawsuit
+  url: https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c8
-  type: quote
-  value: admitted filmmakers spliced together quotes
-  qualifier: spliced
-  span: Britain’s publicly funded national broadcaster admitted filmmakers spliced together quotes from different sections of the speech Trump delivered to his supporters on Jan. 6, 2021
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  type: date
+  value: Dec. 18
+  qualifier: scheduled
+  span: Discovery, where lawyers for both sides exchange documents and other evidence, is scheduled to end Dec. 18, and the BBC's attorneys want to make sure they have Trump's deposition before that deadline.
+  url: https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-26'
+  checked: '2026-11-14'
 - id: c9
-  type: quote
-  value: 'Trump: A Second Chance'
-  qualifier: documentary
-  span: 'related to a documentary, “Trump: A Second Chance.”'
-  url: https://abcnews.com/amp/Business/wireStory/bbc-asks-judge-force-trump-sit-deposition-lawsuit-137294134
+  type: figure
+  value: $10 billion
+  qualifier: defamation
+  span: A federal judge on Thursday ordered President Donald Trump to sit for a deposition in his $10 billion defamation lawsuit against the BBC by Dec. 11.
+  url: https://www.pbs.org/newshour/politics/judge-orders-trump-to-sit-for-a-deposition-in-his-defamation-lawsuit-against-the-bbc-by-dec-11
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-26'
-event_date_claim: c3
+  checked: '2026-11-14'
+event_date_claim: c1
+source_published_date: '2025-12-15'
 ---
 
-Trump sued the BBC in the Southern District of Florida on Dec. 15, 2025, seeking $10 billion in damages for defamation and deceptive and unfair trade practices over the documentary "Trump: A Second Chance". The BBC admitted filmmakers spliced together quotes from different sections of his January 6, 2021 speech and apologized, and denies that it defamed him. No money has been paid: this is a pending suit, not a settlement, and it belongs in the ledger only as the next candidate.
+Trump sued the BBC in the Southern District of Florida on Monday, the day this entry is dated, in a $10 billion defamation lawsuit over a documentary edit. No money has been paid: this is a pending suit, not a settlement, and it belongs in the ledger only as the next candidate.
 
-Where it stands: the court set a jury trial for 2/15/2027, ordered mediation with John W. Thornton at JAMS the week of October 26, 2026, and discovery closes December 18, 2026. In mid-October 2026 the BBC asked the court to compel Trump's deposition after his counsel cancelled the agreed October 16 date, citing "matters of national importance".
+Where it stands: on the 10th day of November, 2026, District Judge Jeffrey T. Kuntz denied the BBC's motion to dismiss Count I, the defamation claim, granted it as to Count II, the Florida Deceptive and Unfair Trade Practices Act claim, and ordered the BBC to answer Count I on or before December 1, 2026. Magistrate Judge Enjoliqué Lett ordered Trump to sit for a deposition by Dec. 11, or face sanctions up to dismissal of his lawsuit; discovery is scheduled to end Dec. 18.
