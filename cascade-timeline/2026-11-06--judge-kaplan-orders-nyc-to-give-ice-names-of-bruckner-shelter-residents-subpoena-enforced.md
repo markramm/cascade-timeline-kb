@@ -19,7 +19,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c2
   type: quote
   value: The City has not shown that producing this list would be unduly burdensome,
@@ -28,7 +28,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c3
   type: quote
   value: Under the applicable case law, the Court therefore has no choice but to compel the subpoena’s enforcement.
@@ -37,7 +37,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c4
   type: attribution
   value: turn over a list of certain male residents that live in a shelter on Bruckner Boulevard along with their birthdays
@@ -46,7 +46,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c5
   type: quote
   value: serious criminal histories
@@ -55,7 +55,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c6
   type: figure
   value: sleeps more than 2,000 and is the city’s last emergency migrant housing facility
@@ -64,7 +64,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c7
   type: figure
   value: Beginning in August 2025, ICE submitted four separate subpoena requests
@@ -73,7 +73,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c8
   type: quote
   value: fishing expedition lacking any legitimate investigative purpose
@@ -82,39 +82,47 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-08'
+  checked: '2026-11-13'
 - id: c9
   type: quote
-  value: 'so long as it is not obviously wrong'
+  value: so long as it is not obviously wrong
   qualifier: defer
-  span: 'a court must defer to an agency’s assessment of relevancy “so long as it is not obviously wrong.”'
+  span: a court must defer to an agency’s assessment of relevancy “so long as it is not obviously wrong.”
   url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c10
   type: quote
-  value: 'extremely limited'
+  value: extremely limited
   qualifier: limited
-  span: 'A district court’s role in proceedings to enforce an administrative subpoena is “extremely limited.”'
+  span: A district court’s role in proceedings to enforce an administrative subpoena is “extremely limited.”
   url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c11
   type: quote
-  value: 'as modified by the appointment and role of a special master'
+  value: as modified by the appointment and role of a special master
   qualifier: compel
-  span: 'Under the applicable case law, the Court therefore has no choice but to compel the subpoena’s enforcement, as modified by the appointment and role of a special master.'
+  span: Under the applicable case law, the Court therefore has no choice but to compel the subpoena’s enforcement, as modified by the appointment and role of a special master.
   url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-13'
 - id: c12
   type: figure
-  value: '14 days'
+  value: 14 days
   qualifier: within
-  span: 'The petition (Dkt 12) is granted to the extent that, within 14 days of the date of this order, the parties shall submit a proposed order directing the appointment and providing for the compensation of a special master to facilitate enforcement of the subpoena in the manner proposed by counsel for the United States at the March 18 hearing.'
+  span: The petition (Dkt 12) is granted to the extent that, within 14 days of the date of this order, the parties shall submit a proposed order directing the appointment and providing for the compensation of a special master to facilitate enforcement of the subpoena in the manner proposed by counsel for the United States at the March 18 hearing.
   url: https://www.courtlistener.com/docket/72010979/united-states-v-the-city-of-new-york/
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-13'
 sources:
 - title: 'Gothamist: Federal judge rules Mamdani administration must give ICE names of Bronx shelter residents'
   url: https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents
