@@ -58,6 +58,11 @@ sources:
   outlet: Payday Report
   date: '2026-01-25'
   tier: 2
+- title: Man Feds Killed in Minneapolis Was an Observer, Eyewitnesses Say
+  url: https://theintercept.com/2026/01/24/minneapolis-killing-border-patrol-ice-alex-pretti/
+  outlet: The Intercept
+  date: '2026-01-24'
+  tier: 2
 capture_lanes:
 - Democratic Erosion
 coverage:
@@ -458,6 +463,16 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-14'
+- id: c34
+  type: attribution
+  value: acting as a civilian observer
+  qualifier: according to two eyewitnesses
+  span: The man federal agents fatally shot in Minneapolis Saturday did not appear to be a target of immigration enforcement and was acting as a civilian observer, according to two eyewitnesses who spoke with The Intercept.
+  url: https://theintercept.com/2026/01/24/minneapolis-killing-border-patrol-ice-alex-pretti/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-14'
 event_date_claim: c1
 source_published_date: '2026-01-25'
 ---
@@ -473,3 +488,5 @@ The official account, attributed. On Saturday Gregory Bovino, the commander at l
 Governor Tim Walz called the federal narrative "nonsense" and "lies," said the federal government cannot be trusted with the investigation, and said "there will be justice to Minnesotans"; Minnesota is creating a log of evidence for possible future prosecution of immigration agents. Mayor Jacob Frey called the federal surge "an invasion" and told residents: "Stand up for America. Recognize that your children will ask you what side you were on." In a court filing the Minnesota Bureau of Criminal Apprehension wrote of the federal handling of the scene: "From a law enforcement perspective, this is astonishing." A federal judge ordered the U.S. Department of Homeland Security to preserve evidence.
 
 Pretti was a member of AFGE Local 3669. Its parent union's president, Everett Kelley, said: "Our union is heartbroken. An AFGE member is dead. And a family’s life has been forever changed." Kieran Knutson, a Minneapolis CWA local president, wrote "Never Forget, Never Forgive" on Facebook from the streets near the site, and Payday Report reported that on Saturday night many online were calling for an expanded strike.
+
+The Intercept, citing anonymous eyewitnesses, reported that the man was acting as a civilian observer.
