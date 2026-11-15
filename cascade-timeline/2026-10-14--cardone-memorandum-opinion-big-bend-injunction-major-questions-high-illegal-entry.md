@@ -476,6 +476,42 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-11-09'
+- type: date
+  value: Nov 09 2026
+  span: Nov 09 2026 Application (26A560) for stay presented to Justice Alito and by him referred to the Court is granted.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Should certiorari be denied, this stay shall terminate automatically.
+  span: Should certiorari be denied, this stay shall terminate automatically.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Justice Jackson would deny the application for stay.
+  span: Justice Jackson would deny the application for stay.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u15
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Opinion per curiam.
+  span: Justice Jackson would deny the application for stay. Opinion per curiam. (Detached Opinion)
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-15'
 tags:
 - border-wall
 - litigation
@@ -550,6 +586,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: big-bend-border-wall-waivers
+- date: '2026-11-09'
+  date_kind: order date
+  heading: Supreme Court grants stay of the Big Bend injunction
+  claims:
+  - u13
+  - u14
+  - u15
+  - u16
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: big-bend-injunction
 ---
 
 The written reasons for the Big Bend injunction are now on the record. In a memorandum opinion (Document 75) signed on the 14th day of October, 2026, in Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex., El Paso Division), Judge Kathleen Cardone explained the preliminary injunction she granted on October 2 "with a memorandum opinion to follow." The earlier [order](2026-10-02--judge-cardone-enjoins-big-bend-border-wall-construction-waivers-stayed) named no legal ground. This opinion names one: the Court "rules that the major questions doctrine is a constitutional clear statement rule." On that basis it finds jurisdiction "because it alleges a Constitutional violation," which matters because the waiver statute lets challengers sue only on constitutional grounds.
@@ -573,3 +621,7 @@ The Supreme Court docket for the stay application lists the respondents' respons
 The Supreme Court docket for No. 26A560 records an order dated November 9, 2026: the government's application for a stay, "presented to Justice Alito and by him referred to the Court is granted." The docket says Judge Cardone's injunction in case No. 3:26-cv-01099 "is stayed pending the filing and disposition of the Government's petition for a writ of certiorari, if such writ is timely sought." If certiorari is denied, "this stay shall terminate automatically." The docket notes that "Justice Jackson would deny the application for stay" and that the Court issued an opinion per curiam.
 
 This is a stay pending certiorari, not a ruling on the merits. The government's reply had asked the Court to treat the application as a certiorari petition and summarily reverse; the docket does not show the Court doing that. The per curiam opinion had not posted on the Court's site when the docket was read, so its reasoning is not yet on the record here.
+
+## Update (2026-11-09, order date): Supreme Court grants stay of the Big Bend injunction
+
+The docket records that on Nov 09 2026 the application for a stay was referred to the Court and granted. The injunction is stayed pending the filing and disposition of the Government's petition for a writ of certiorari. The stay terminates automatically if certiorari is denied. Justice Jackson would deny the application for stay. The docket notes an opinion per curiam. This is a stay pending certiorari, not a ruling on the merits.
