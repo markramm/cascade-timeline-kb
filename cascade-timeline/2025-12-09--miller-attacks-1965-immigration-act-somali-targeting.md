@@ -29,7 +29,7 @@ status: confirmed
 capture_lanes:
 - Civil Rights Suppression
 event_date_claim: c1
-verification: captured
+verification: source-verified
 claims:
 - id: c1
   type: date
@@ -81,14 +81,39 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-15'
+- id: c6
+  type: quote
+  value: Borrowing, at least in spirit, from the objectively racist concept of replacement theory
+  qualifier: Borrowing, at least in spirit
+  span: Borrowing, at least in spirit, from the objectively racist concept of replacement theory, Miller said immigrants from “third world” countries are going to bring the US down.
+  url: https://www.cnn.com/2025/12/11/politics/stephen-miller-trump-immigration-law-somalia
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c7
+  type: quote
+  value: Previous law had demanded that the racial and cultural makeup of the country not be changed as a result of immigration.
+  qualifier: Previous law
+  span: Previous law had demanded that the racial and cultural makeup of the country not be changed as a result of immigration.
+  url: https://www.cnn.com/2025/12/11/politics/stephen-miller-trump-immigration-law-somalia
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
 White House Deputy Chief of Staff Stephen Miller publicly attacked the Hart-Celler Act of 1965 in a Fox News interview. Miller said: "What you saw between 1965 and today was the single largest experiment on a society, on a civilization, that had ever been conducted in human history." CNN's analysis reads his remarks as suggesting the country was better off before 1965, when the 1920s national origins quota system favored Western and Northern European immigrants. Miller's comments came as the administration exploited a pandemic relief fraud scandal in Minnesota to disparage the entire Somali immigrant community.
 
-The Hart-Celler Act eliminated the explicitly racist national origins quota system that had restricted immigration from non-white countries since the 1920s. Miller characterized the civil rights era reform as a policy disaster, echoing white nationalist talking points about demographic change. His attack on the 1965 law represents one of the most explicit statements of the administration's white nationalist immigration philosophy.
+The Hart-Celler Act was signed by President Lyndon B. Johnson in 1965. CNN reports that "Previous law had demanded that the racial and cultural makeup of the country not be changed as a result of immigration." CNN's Zachary B. Wolf wrote that Miller, "Borrowing, at least in spirit, from the objectively racist concept of replacement theory," said immigrants from "third world" countries are going to bring the US down. That characterisation is CNN's.
 
-The comments accompanied intensified ICE operations targeting Somali communities in Minneapolis, with local officials accusing Target of allowing ICE officers to stage in its parking lots (CNN), and Miller and Trump using the fraud scandal to characterize an entire immigrant community as criminal. The targeting reflects the administration's pattern of exploiting individual incidents to justify collective punishment of ethnic communities.
+The comments accompanied intensified ICE operations targeting Somali communities in Minneapolis, with local officials accusing Target of allowing ICE officers to stage in its parking lots (CNN), and Miller and Trump using the fraud scandal to characterize an entire immigrant community as criminal.
 
-Correction (2026-11-09): This entry stated as fact that Miller suggested America was better off under 1920s quotas and that agents were staging arrests in Target parking lots. The first is CNN's paraphrase of his Fox News interview (now shown with his words); the second is an allegation by local officials that Target allowed ICE officers to stage in its parking lots, not a finding about arrests. Source: CNN (Zachary B. Wolf), Dec. 11, 2025.
+## Corrections (2026-11-15)
 
-Date correction: This entry was filed under the date CNN published its analysis. CNN says Miller made the remarks "on Fox News in an interview earlier Tuesday", and the same article places the Trump event that night on December 9, 2025, so the interview is dated December 9. Source: CNN (Zachary B. Wolf), Dec. 11, 2025.
+- Cut the sentence that called the 1965 reform a policy disaster echoing white nationalist talking points.
+- Cut the sentence that called this one of the most explicit statements of a white nationalist immigration philosophy.
+- Both are replaced by CNN's own characterisation, attributed to its analysis by Zachary B. Wolf, and CNN's description of the earlier law, each quoted from the fetched CNN page.
+- Cut the closing sentence on a pattern of exploiting incidents to justify collective punishment, which no source carries.
+- Earlier correction, kept: agents staging arrests in Target parking lots was an allegation by local officials, and the entry says so.
+- Date: the entry had been filed under the day CNN published, and now carries the interview day.
