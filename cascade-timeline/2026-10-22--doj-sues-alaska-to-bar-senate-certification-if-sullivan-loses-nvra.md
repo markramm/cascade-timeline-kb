@@ -1759,6 +1759,51 @@ claims:
   id: u182
   outcome: verified
   checked: '2026-11-10'
+- type: date
+  value: November 13, 2026
+  span: I hereby certify that I electronically filed the attached document with the Clerk of the Court for the United States Court of Appeals for the Ninth Circuit by using the appellate ACMS system on November 13, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.17.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u183
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Addressing the recurring phenomenon of similarly named candidates falls to state laws, not federal law.
+  span: Addressing the recurring phenomenon of similarly named candidates falls to state laws, not federal law.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.17.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u184
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Laches bars the federal government’s attempt to interfere with Alaska’s certification process.
+  span: Laches bars the federal government’s attempt to interfere with Alaska’s certification process.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.18.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u185
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: PROPOSED
+  span: PROPOSED] BRIEF OF AMICUS CURIAE RICHARD L. HASEN IN SUPPORT OF APPELLEES
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.18.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u186
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: FORMER MARICOPA COUNTY RECORDER
+  span: BRIEF OF FORMER MARICOPA COUNTY RECORDER STEPHEN RICHER AS AMICUS CURIAE IN SUPPORT OF MOTION FOR SUMMARY AFFIRMANCE
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.17.1.pdf
+  read: fetched
+  source_kind: primary
+  id: u187
+  outcome: verified
+  checked: '2026-11-15'
 tags:
   - election-2026
   - certification
@@ -1969,6 +2014,16 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf
     publisher: U.S. Court of Appeals for the Ninth Circuit (RECAP)
     date: '2026-11-09'
+    tier: 1
+  - title: Brief of Former Maricopa County Recorder Stephen Richer as Amicus Curiae, Ninth Circuit
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.17.1.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (RECAP)
+    date: '2026-11-13'
+    tier: 1
+  - title: Proposed Brief of Amicus Curiae Richard L. Hasen, Ninth Circuit
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.18.1.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit (RECAP)
+    date: '2026-11-13'
     tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
@@ -2370,6 +2425,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-13'
+  date_kind: filing date
+  heading: Amicus briefs back the appellees' motion for summary affirmance in the Ninth Circuit
+  claims:
+  - u183
+  - u184
+  - u185
+  - u186
+  - u187
+  event_date_claim: u183
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 On October 22, 2026, the Justice Department sued Alaska, its elections director and its election and ballot-review boards in federal court in Anchorage (No. 3:26-cv-00376), asking the court to bar certification of the U.S. Senate result in one case only: if "Senator Sullivan does not win the election" and the votes cast for a second candidate, Daniel J. Sullivan, would have elected him had they gone to the incumbent. The complaint says "it is vital that Defendants not certify any election result that may be impacted by voter confusion," calls the second candidate's run a "frivolous candidacy," and asks the court to hold certification "pending an investigation to determine whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan." Its one count rests on the National Voter Registration Act's statement of purpose, to "protect the integrity of the electoral process." It is signed by Associate Attorney General Stanley E. Woodward Jr. Trump told reporters, "I'm the one that said 'do it,'" CNBC reported.
@@ -2483,3 +2551,7 @@ In a social media post Thursday, Trump called for Alaska to transfer to incumben
 ## Update (2026-11-09, filing date): League of Women Voters of Alaska, Common Cause and Alaska voters ask the Ninth Circuit to summarily affirm and to consider sanctions
 
 In a [motion filed November 9, 2026](https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.10.0.pdf) in the United States' appeal (No. 26-7304), the League of Women Voters of Alaska, Common Cause and Alaska voters who cast ballots in the election, represented by the ACLU, asked the Ninth Circuit to summarily affirm the district court's dismissal. "The Court should summarily affirm and then order the attorneys for the United States to explain why they or their client should not be sanctioned for pursuing a frivolous appeal," the motion says. It argues that the NVRA "relates solely to voter registration—not to voter confusion, ballot placement, vote counting, or certification," and calls the United States' legal theory "embarrassing and indefensible." The motion is the appellees' argument; the government's response and any ruling are not yet on the docket.
+
+## Update (2026-11-13, filing date): Amicus briefs back the appellees' motion for summary affirmance in the Ninth Circuit
+
+On November 13, 2026, amicus briefs were filed in the Ninth Circuit appeal in support of the summary affirmance motion. A former Maricopa County Recorder argues that "Addressing the recurring phenomenon of similarly named candidates falls to state laws, not federal law." A second amicus, in a brief captioned a proposed brief, argues that "Laches bars the federal government’s attempt to interfere with Alaska’s certification process."
