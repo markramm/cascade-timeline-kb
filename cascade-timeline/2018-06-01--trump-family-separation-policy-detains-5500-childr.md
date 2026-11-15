@@ -3,7 +3,7 @@ type: timeline_event
 id: 2018-06-01--trump-family-separation-policy-detains-5500-childr
 date: 2018-06-01
 importance: 9
-title: Trump Family Separation Policy Detains 5,500 Children in Cages
+title: Trump Family Separation Policy Takes Children From Parents at the Border
 actors:
 - Donald Trump
 - Stephen Miller
@@ -47,10 +47,14 @@ capture_lanes:
 - Intelligence Penetration
 ---
 
-The Trump administration's 'zero tolerance' family separation policy forcibly removed over 5,500 children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. Miller defended the policy to the New York Times on June 16, 2018: "It was a simple decision by the administration to have a zero tolerance policy for illegal entry, period. The message is that no one is exempt from immigration law." Federal judges ordered reunification but over 1,000 children still remained separated by 2021. Physicians for Human Rights documented lasting psychological trauma equivalent to torture.
+The Trump administration's 'zero tolerance' family separation policy forcibly removed children from their parents at the border, detaining them in cages at facilities described as 'concentration camps' by historians. Children as young as 4 months were taken, with no tracking system to reunite families. Audio recordings captured children crying for their parents while guards mocked them. Miller defended the policy to the New York Times on June 16, 2018: "It was a simple decision by the administration to have a zero tolerance policy for illegal entry, period. The message is that no one is exempt from immigration law." Federal judges ordered reunification but over 1,000 children still remained separated by 2021. Physicians for Human Rights documented lasting psychological trauma equivalent to torture.
 
 ## Coverage
 
 - [Stephen Miller Screamed 'Quantity Over Quality': The Machinery Behind the Shooting](https://theramm.substack.com/p/stephen-miller-screamed-quantity) — The RAMM (2026-01-13): Covers family separation as a formative event in understanding Miller's ideology — including the Vanity Fair adviser quote and his uncle David Glosser's public condemnation of a descendant of Jewish refugees becoming the architect of refugee persecution.
 
 Correction (2026-11-09): This entry said at least 7 children died in custody, that Miller called the policy a deterrent while knowing it violated international law, that the administration's documents showed it knew it would separate families and proceeded anyway, that CoreCivic and GEO Group profited billions, and that the UN Human Rights Office called it "government-sanctioned child abuse." None of these could be confirmed in the cited sources, and several appear to be mis-attributed: that phrase is usually credited to the American Academy of Pediatrics, while the UN said separation may amount to torture. The sentences are removed pending sourcing. Miller's own words are from his June 16, 2018 New York Times interview as quoted by Business Insider. The DOJ Inspector General report (Jan. 2021) names White House meetings in April and May 2018 but does not name Miller. The Guardian and NBC links above did not load on 2026-11-09 and were not re-checked.
+
+## Corrections (2026-11-15)
+
+The title and lead said 5,500 children. No source we read ties 5,500 to the separation policy (commentary gave "nearly 5,000"; later government counts were larger), so the figure is cut from the title and body; the file name keeps the old slug as its id. It can return only with a count read from the Ms. L. v. ICE docket (S.D. Cal. 3:18-cv-00428), which is a separate open task. "At least 7 children died in custody" stays removed: the child deaths reported in CBP custody were in December 2018, after this entry's date, and no source ties them to separation. The phrase "government-sanctioned child abuse" is not the UN's; it is the AAP president's. Bound span (fetched 2026-11-15): "Kraft stated that Trump’s policy amounts to “government-sanctioned child abuse” when asked by CNN host Kate Bolduan" (https://digital-release.thehill.com/?p=392790, The Hill, June 18, 2018).

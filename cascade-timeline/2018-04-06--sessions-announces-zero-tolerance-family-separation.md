@@ -44,7 +44,7 @@ capture_lanes:
 - Intelligence Penetration
 ---
 
-On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy for unauthorized border crossings that was explicitly designed to separate children from their parents as a deterrent to asylum seekers and migrants. The policy marked a deliberate escalation from targeted enforcement to systematic family separation, implementing what human rights organizations would condemn as government-sanctioned child abuse.
+On April 6, 2018, Attorney General Jeff Sessions announced a "zero tolerance" policy for unauthorized border crossings that was explicitly designed to separate children from their parents as a deterrent to asylum seekers and migrants. The policy marked a deliberate escalation from targeted enforcement to systematic family separation, implementing what the president of the American Academy of Pediatrics, Dr. Colleen Kraft, would call "government-sanctioned child abuse" on CNN in June 2018 (The Hill, June 18, 2018).
 
 ## The Policy Announcement
 
@@ -68,7 +68,7 @@ Children as young as four months old were forcibly taken from parents, with no s
 
 ## Legal and Moral Condemnation
 
-The policy violated international human rights law, including the UN Convention on the Rights of the Child and international prohibitions on torture. The UN Human Rights Office called it "government-sanctioned child abuse." Physicians for Human Rights documented lasting psychological trauma to separated children equivalent to torture.
+The policy violated international human rights law, including the UN Convention on the Rights of the Child and international prohibitions on torture. Dr. Colleen Kraft of the American Academy of Pediatrics called it "government-sanctioned child abuse." Physicians for Human Rights documented lasting psychological trauma to separated children equivalent to torture.
 
 During the two and a half months the policy remained officially in effect (April-June 2018), more than 3,000 children were separated from their families. However, a later HHS Inspector General report revealed that separations had actually begun in summer 2017 as a pilot program, affecting thousands more children than publicly disclosed.
 
@@ -78,3 +78,7 @@ The zero-tolerance policy became one of the Trump administration's most internat
 
 - [Stephen Miller Screamed 'Quantity Over Quality': The Machinery Behind the Shooting](https://theramm.substack.com/p/stephen-miller-screamed-quantity) — The RAMM (2026-01-13): Contextualizes family separation within Miller's full career arc — from his Sessions apprenticeship through the SPLC email revelations to the Vanity Fair adviser quote that Miller "actually enjoys seeing those pictures at the border."
 - [Tom Homan: The Commander](https://theramm.substack.com/p/tom-homan-the-commander) — The RAMM (2026-02-02): Homan co-authored Zero Tolerance with CBP Commissioner McAleenan; as of April 2025, 1,401 children remain without confirmed reunification.
+
+## Corrections (2026-11-15)
+
+The phrase "government-sanctioned child abuse" was credited to the UN Human Rights Office and to unnamed human rights organizations; it is Dr. Colleen Kraft's, as AAP president, on CNN. Bound span (fetched 2026-11-15): "Kraft stated that Trump’s policy amounts to “government-sanctioned child abuse” when asked by CNN host Kate Bolduan" (https://digital-release.thehill.com/?p=392790, The Hill, June 18, 2018).

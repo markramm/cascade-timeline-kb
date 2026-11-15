@@ -72,7 +72,7 @@ Despite her explicit May 10 acknowledgment, Nielsen began denying the policy's e
 
 - **June 18**: The same day as her "we will not apologize" remarks, Nielsen claimed "this administration did not create a policy of separating families at the border."
 
-This gaslighting continued even as 1,995 children had been separated in the six weeks following Sessions' April 6 order, with the number eventually exceeding 5,500 documented separations.
+This gaslighting continued even as 1,995 children had been separated in the six weeks following Sessions' April 6 order.
 
 ## The Orwellian Doublethink
 
@@ -89,4 +89,8 @@ Even after leaving office, Nielsen continued denying reality. In August 2020, sh
 
 Nielsen's role as the public face of family separation—and her willingness to both implement and then deny the policy—exemplified the Trump administration's authoritarian playbook: implement cruel policies, defend them as necessary, then deny they exist while they continue.
 
-Her defiant "we will not apologize" stance, followed immediately by denials that the policy existed, demonstrated the administration's contempt for both truth and basic human rights. The family separation policy would become one of the most internationally condemned actions in modern U.S. history, with the UN calling it "government-sanctioned child abuse" and medical professionals documenting trauma equivalent to torture.
+Her defiant "we will not apologize" stance, followed immediately by denials that the policy existed, demonstrated the administration's contempt for both truth and basic human rights. The family separation policy would become one of the most internationally condemned actions in modern U.S. history, with the president of the American Academy of Pediatrics, Dr. Colleen Kraft, calling it "government-sanctioned child abuse" on CNN (The Hill, June 18, 2018) and medical professionals documenting trauma equivalent to torture.
+
+## Corrections (2026-11-15)
+
+Cut "the number eventually exceeding 5,500 documented separations": no source we read ties 5,500 to the separation policy; it returns only with a count read from the Ms. L. docket. The phrase "government-sanctioned child abuse" was credited to the UN; it is Dr. Colleen Kraft's of the AAP. Bound span (fetched 2026-11-15): "Kraft stated that Trump’s policy amounts to “government-sanctioned child abuse” when asked by CNN host Kate Bolduan" (https://digital-release.thehill.com/?p=392790).
