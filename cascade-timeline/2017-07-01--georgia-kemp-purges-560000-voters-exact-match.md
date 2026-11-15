@@ -23,6 +23,21 @@ sources:
   date: 2019-10-29
   tier: 1
   outlet: APM Reports
+- url: https://www.apmreports.org/story/2018/10/19/georgia-voter-purge
+  title: Georgia voter purge
+  date: 2018-10-19
+  tier: 1
+  outlet: APM Reports
+- url: https://www.nbcphiladelphia.com/news/national-international/georgia-voter-registration-applications-hold-georgia-report/2068838/
+  title: Georgia voter registration applications on hold (AP)
+  date: 2018-10-10
+  tier: 2
+  outlet: Associated Press via NBC
+- url: https://www.snopes.com/fact-check/georgia-black-voter-registration/
+  title: Georgia black voter registration fact check
+  date: 2018-10-17
+  tier: 2
+  outlet: Snopes
 - url: https://www.npr.org/2018/10/22/659591998/6-takeaways-from-georgias-use-it-or-lose-it-voter-purge-investigation
   title: 6 Takeaways From Georgia's 'Use It Or Lose It' Voter Purge Investigation
   date: 2018-10-22
@@ -269,13 +284,75 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-15'
+- id: c27
+  type: figure
+  value: 8 percent
+  qualifier: registered voters
+  span: In a single day, more than half a million people — 8 percent of Georgia's registered voters — were cut from the voter rolls.
+  url: https://www.apmreports.org/story/2018/10/19/georgia-voter-purge
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c28
+  type: figure
+  value: 1.4 million
+  qualifier: cancelled since 2012
+  span: Kemp's office has cancelled over 1.4 million voter registrations since 2012.
+  url: https://www.nbcphiladelphia.com/news/national-international/georgia-voter-registration-applications-hold-georgia-report/2068838/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c29
+  type: figure
+  value: nearly 670,000
+  qualifier: cancelled in 2017
+  span: Nearly 670,000 registrations were cancelled in 2017 alone.
+  url: https://www.nbcphiladelphia.com/news/national-international/georgia-voter-registration-applications-hold-georgia-report/2068838/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c30
+  type: posture
+  value: does not dispute the figures
+  qualifier: campaign does not dispute
+  span: the campaign does not dispute the figures presented by the Associated Press about registration cancellations, agreeing that Kemp's office had overseen 1.4 million registration cancellations since 2012, with nearly 670,000 of those coming in 2017.
+  url: https://www.snopes.com/fact-check/georgia-black-voter-registration/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c31
+  type: figure
+  value: nearly 70 percent
+  qualifier: black
+  span: Thousands of forms are being held in a "pending" status by Georgia Secretary of State Brian Kemp's office, and nearly 70 percent of them are black, according to an analysis by The Associated Press.
+  url: https://www.nbcphiladelphia.com/news/national-international/georgia-voter-registration-applications-hold-georgia-report/2068838/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c32
+  type: figure
+  value: 32 percent
+  qualifier: population black
+  span: Georgia's population is approximately 32 percent black, according to the U.S. Census, but the list of voter registrations on hold with Kemp's office is nearly 70 percent black.
+  url: https://www.nbcphiladelphia.com/news/national-international/georgia-voter-registration-applications-hold-georgia-report/2068838/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
 On a single day in late July 2017, Georgia Secretary of State Brian Kemp's office removed from the rolls 560,000 Georgians who had been flagged because they'd skipped one too many elections. An APM Reports investigation estimated 107,000 of the people purged under the policy would otherwise have been eligible to vote.
 
 ## The Mass Purge
 
-Kemp's office removed 560,000 people from the voter rolls for infrequent voting. His office portrayed the purge as innocuous voter list maintenance. But the number of voters purged was unusually high. Some Democrats accused Kemp of trying to manipulate the electorate ahead of his run for governor.
+Kemp's office removed 560,000 people from the voter rolls for infrequent voting. His office portrayed the purge as innocuous voter list maintenance. APM Reports put the single-day removal at 8 percent of Georgia's registered voters. But the number of voters purged was unusually high. Some Democrats accused Kemp of trying to manipulate the electorate ahead of his run for governor.
+
+Cancellations in the larger count are a different category from the single-day removal. The Associated Press reported that Kemp's office cancelled over 1.4 million voter registrations since 2012 (all reasons, not only inactivity), and nearly 670,000 in 2017 alone; the Kemp campaign did not dispute those figures.
 
 ## "Use It Or Lose It" Policy
 
@@ -283,7 +360,7 @@ Georgia is one of a handful of states that removes people from the voter rolls f
 
 ## "Exact Match" Holds, 2018
 
-Exact match is a separate mechanism from the 2017 removal. It acted on pending applications, not on registered voters: voting rights advocates took Kemp to court over an "exact-match" policy that held up 53,000 pending registrations, mostly of people of color, many over small typos, like a missing apostrophe or hyphen.
+Exact match is a separate mechanism from the 2017 removal. It acted on pending applications, not on registered voters: voting rights advocates took Kemp to court over an "exact-match" policy that held up 53,000 pending registrations, mostly of people of color, many over small typos, like a missing apostrophe or hyphen. The Associated Press found that nearly 70 percent of the 53,000 pending applications were from black applicants; Georgia's population is about 32 percent black (Census). These applications were held, not removed.
 
 ## Litigation
 
@@ -298,5 +375,7 @@ A separate action filed November 27, 2018 generally challenged Georgia's oversig
 - Removed as absent from the source read: the share of registered voters, the total removed during Kemp's tenure, the count for 2017 alone, the racial composition of the holds with its comparison to population share, and the comparison of the 2018 margin to a purge count.
 - Follow-up ticket: [[georgia-2017-purge-source-the-8-1-4-million-668-000-and-70-32-figures-and-the]].
 - The earlier sections on timing, litigation and significance were uncited characterizations. Litigation is restored above from the Federal Judicial Center and NPR; the earlier claim that courts found the purges violated the NVRA is not in the sources read and stays out, and the timing and significance sections stay out.
+- Restored from re-fetched spans (basis [[georgia-2017-purge-figures-sourced-2026-11-15]]): APM's 8 percent for the single-day removal; AP's 1.4 million cancellations since 2012, all reasons, undisputed by the Kemp campaign; AP's nearly 670,000 for 2017; nearly 70 percent of the 53,000 pending applications black against a 32 percent black state population (Census), not 32 percent of voters. The Abrams-margin comparison stays out.
+- Not restored: the Atlanta Journal-Constitution's lower 2017 all-reasons count attributed to the Secretary of State's office. Its span did not re-fetch (the fetched AJC page no longer carries it), so the entry gives only AP's count and the two counts stay unreconciled.
 - Filename and id keep "exact-match" so links stay stable.
 - Basis: [[vt-flagged-voter-table-reconciliation-2026-11-15]].

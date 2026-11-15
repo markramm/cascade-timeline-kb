@@ -39,15 +39,97 @@ capture_lanes:
 - Electoral Manipulation
 - Media Capture and Control
 - Judicial Capture
+verification: captured
+claims:
+- id: c1
+  type: figure
+  value: 234,039
+  qualifier: may have moved
+  span: The Movers Report identified 234,039 people who may have moved to an address that is not yet on their voter registration forms.
+  url: https://slate.com/news-and-politics/2019/12/wisconsin-voter-purge-judge-order.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c2
+  type: figure
+  value: 232,500
+  qualifier: mailed
+  span: The Elections Commission mailed about 232,500 voters in October to tell them that records indicated that they had moved and that they needed to verify that the addresses where they were registered to vote were current.
+  url: https://www.nbcnews.com/politics/2020-election/conservatives-seek-immediate-purge-over-200-000-voters-wisconsin-n1109636
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c3
+  type: figure
+  value: 209,000
+  qualifier: have not requested continuation
+  span: About 209,000 have not requested continuation at their current addresses or re-registered at other ones.
+  url: https://www.nbcnews.com/politics/2020-election/conservatives-seek-immediate-purge-over-200-000-voters-wisconsin-n1109636
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c4
+  type: date
+  value: on Friday
+  qualifier: judge ordered
+  span: A Wisconsin judge ordered the state to remove more than 200,000 people from the voter rolls on Friday in a massive purge that would disproportionately affect minorities and Democrats.
+  url: https://slate.com/news-and-politics/2019/12/wisconsin-voter-purge-judge-order.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c5
+  type: date
+  value: in February
+  qualifier: appeals court blocked the purge
+  span: Wisconsin election officials appealed the ruling, and in February a state appeals court struck down the county judge’s ruling, and blocked the purge.
+  url: https://americanoversight.org/investigation/wisconsins-voter-roll-purge
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c6
+  type: quote
+  value: it gives this responsibility to municipal election officials, not to the Commission
+  qualifier: municipal election officials
+  span: ¶6 In sum, while Wis. Stat. § 6.50(3) requires that the registration status be changed for those who move out of their municipality, it gives this responsibility to municipal election officials, not to the Commission.
+  url: https://law.justia.com/cases/wisconsin/supreme-court/2021/2020ap000112.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c7
+  type: quote
+  value: The Commission, however, took no action to comply with the writ.
+  qualifier: Commission
+  span: The Commission, however, took no action to comply with the writ.
+  url: https://law.justia.com/cases/wisconsin/supreme-court/2021/2020ap000112.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c8
+  type: date
+  value: April 9, 2021
+  qualifier: April
+  span: 'REVIEW OF DECISION OF THE COURT OF APPEALS Reported at 391 Wis. 2d 441,941 N.W.2d 284 PDC No:2020 WI App 17 - Published OPINION FILED: SUBMITTED ON BRIEFS: ORAL ARGUMENT: April 9, 2021'
+  url: https://law.justia.com/cases/wisconsin/supreme-court/2021/2020ap000112.html
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
 A Wisconsin judge orders the state Elections Commission to immediately remove over 200,000 voters from registration rolls following a lawsuit by the conservative Wisconsin Institute for Law and Liberty (WILL). The purge targets voters flagged as potential "movers" based on data suggesting they may have changed addresses, with the timing designed to impact the 2020 presidential election in this crucial swing state that Donald Trump won by just 23,000 votes in 2016.
 
 ## The Lawsuit and Ruling
 
-In October 2019, WILL files a lawsuit against the Wisconsin Elections Commission arguing that state law requires immediate removal of voters flagged by the Electronic Registration Information Center (ERIC) as having potentially moved. ERIC data suggests approximately 234,000 registered voters may have changed addresses, and WILL demands these voters be removed from rolls immediately if they don't respond to mailed notices within 30 days.
+In October 2019, WILL files a lawsuit against the Wisconsin Elections Commission arguing that state law requires immediate removal of voters flagged by the Electronic Registration Information Center (ERIC) as having potentially moved. The ERIC Movers Report identified 234,039 people who may have moved; the Elections Commission mailed about 232,500 voters in October 2019. These are flagged and mailed counts, not removal counts. WILL demands these voters be removed from rolls immediately if they don't respond to mailed notices within 30 days.
 
-On December 13, 2019, Ozaukee County Circuit Judge Paul Malloy orders the Elections Commission to purge approximately 209,000 voters who did not respond to the mailed notices. The ruling requires immediate action, potentially removing voters from rolls months before the 2020 presidential election without adequate time to re-register or correct errors.
+On December 13, 2019, Ozaukee County Circuit Judge Paul Malloy orders the Elections Commission to deactivate the voters who did not respond to the mailed notices; about 209,000 had not responded as of January 2, 2020. That is a count of non-responders, not of removals. The ruling requires immediate action, potentially removing voters from rolls months before the 2020 presidential election without adequate time to re-register or correct errors.
 
 ## Political Targeting and Demographics
 
@@ -59,7 +141,7 @@ WILL, described as the "MVP" of Wisconsin's right-wing infrastructure, is hardly
 
 ## Problems With the Purge
 
-The ERIC data flagging voters as "movers" has significant error rates. WILL itself acknowledges that approximately 5% of flagged voters—about 10,000 people—have not actually moved and would be wrongly purged. Other estimates suggest error rates may be higher. People are flagged for various reasons that don't indicate they've moved: temporary address changes, data entry errors, commercial data matching problems, and algorithmic false positives.
+The ERIC data flagging voters as "movers" is an indicator of a possible move, not proof of one. People are flagged for various reasons that don't indicate they've moved: temporary address changes, data entry errors, commercial data matching problems, and algorithmic false positives.
 
 The mailed notices that voters must respond to avoid purging often go unnoticed or are mistaken for junk mail. Many voters don't realize that failure to respond will result in their removal from registration rolls. The 30-day response window is short, particularly for notices that arrive during holidays or that recipients don't immediately recognize as official.
 
@@ -73,15 +155,21 @@ WILL's lawsuit forces immediate action that the Commission believes is premature
 
 ## Appeals Court Reversal
 
-In February 2020, a state appeals court overturns Judge Malloy's ruling, blocking the immediate purge. The Wisconsin Supreme Court eventually rules in 2020 that the Elections Commission should not remove voters flagged as possible movers, preventing about 69,000 people on the list from having their registrations deactivated before the November election.
+In February 2020, a state appeals court struck down the county judge's ruling and blocked the purge. The Wisconsin Supreme Court decided the case on April 9, 2021 (State ex rel. Zignego v. WEC, 2021 WI 32): the opinion held that Wis. Stat. § 6.50(3) gives the responsibility to change the registration status of movers to municipal election officials, not to the Commission. The court recorded that "The Commission, however, took no action to comply with the writ." No voter was deactivated under the order.
 
 However, the legal battle creates months of uncertainty and confusion. Many voters receive conflicting information about their registration status. The litigation demonstrates how even unsuccessful purge attempts can suppress votes through fear, uncertainty, and administrative chaos.
+
+## Corrections (2026-11-15)
+
+- The three Wisconsin counts are different things and none is a removal count: 234,039 people on the ERIC Movers Report (flagged), about 232,500 mailed in October 2019, and about 209,000 who had not responded as of early January 2020. The judge ordered the non-responders deactivated on the Friday before Slate's December 16 article; a state appeals court blocked the order in February 2020, and the Wisconsin Supreme Court decided the case on April 9, 2021, finding the Commission had no duty under Wis. Stat. § 6.50(3); the Commission never complied, so no removals occurred under the order (the court's own account). Basis: [[vt-flagged-voter-table-wi-2019-ga-sb189-rows-2026-11-15]].
+- Cut: the unsourced figure for people said to be spared deactivation and the claim that the Wisconsin Supreme Court ruled in 2020 (it decided on April 9, 2021; now stated and bound above), the unsourced wrongly-purged estimate and the statement that WILL acknowledged it, and the Significance sentence built on it.
+- Not touched and still uncited in this entry: the Journal Sentinel notice-share comparison, the 2016 margin, and the characterizations of intent and timing. They are legacy text awaiting sourcing.
 
 ## Significance
 
 The Wisconsin purge attempt exemplifies modern strategic voter suppression: using litigation to force aggressive voter roll maintenance in swing states before crucial elections, disproportionately targeting Democratic-leaning areas, and timing actions to maximize electoral impact.
 
-The case demonstrates how conservative legal organizations weaponize voter roll maintenance. While states have legitimate interests in maintaining accurate registration lists, WILL's lawsuit pushes for immediate mass purges using imperfect data, prioritizing removal over accuracy. The willingness to accept 5% error rates—10,000+ wrongly purged voters—reveals that the goal is reducing the electorate, not accuracy.
+The case demonstrates how conservative legal organizations weaponize voter roll maintenance. While states have legitimate interests in maintaining accurate registration lists, WILL's lawsuit pushes for immediate mass purges using imperfect data, prioritizing removal over accuracy.
 
 The geographic and demographic targeting is transparent. By disproportionately impacting Milwaukee and Madison, the purge targets the most diverse and Democratic areas of Wisconsin. In a state Trump won by 23,000 votes, removing 200,000+ voters—even with some eventually re-registering—could determine the presidential outcome.
 
