@@ -39,11 +39,53 @@ tags:
 - prosecutorial-misconduct
 - judicial-interference
 status: confirmed
-id: 2025-02-14--doj-public-corruption-division-systematic-dismantling
-capture_lanes:
-- Regulatory Capture
-- Judicial Capture
-- Civil Rights Suppression
+verification: captured
+claims:
+- id: c1
+  type: figure
+  value: Current services are 28 positions (18 attorneys) and $7.9 million.
+  qualifier: Current services
+  span: 'Reduction to the Public Integrity Section: -$6.6 million and -19 positions (-12 attorneys) Realigns CRM resources to Administration priorities including the dismantling of transnational criminal organizations, human smuggling operations, and cartels, to have the largest positive impact for the American people. Current services are 28 positions (18 attorneys) and $7.9 million.'
+  url: https://www.justice.gov/media/1403736/dl
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c2
+  type: figure
+  value: -19 positions (-12 attorneys)
+  qualifier: Reduction to the Public Integrity Section
+  span: 'Reduction to the Public Integrity Section: -$6.6 million and -19 positions (-12 attorneys)'
+  url: https://www.justice.gov/media/1403736/dl
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c3
+  type: quote
+  value: slashed from more than 30 attorneys down to just four or five
+  qualifier: slashed
+  span: slashed from more than 30 attorneys down to just four or five.
+  url: https://www.warren.senate.gov/wp-content/uploads/media/doc/letter_from_senator_warren_repnadlercongressionaldemstodepartmentofjusticeandfederalbureauofinvestigationonpubliccorruptionlawenforcement.pdf
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c4
+  type: date
+  value: August 28, 2025
+  qualifier: August 28, 2025
+  span: August 28, 2025 The Honorable Pamela J. Bondi Attorney General
+  url: https://www.warren.senate.gov/wp-content/uploads/media/doc/letter_from_senator_warren_repnadlercongressionaldemstodepartmentofjusticeandfederalbureauofinvestigationonpubliccorruptionlawenforcement.pdf
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
-Trump administration systematically dismantles federal government's public corruption investigation capabilities through coordinated personnel purges and case dismissals. Key actions include forcing dismissal of Eric Adams prosecution, with seven senior federal prosecutors resigning in protest after being ordered to drop corruption charges. The Public Integrity Section was reduced from 30 to approximately 5 prosecutors, effectively neutralizing the DOJ's ability to investigate official corruption. Acting Deputy Attorney General Emil Bove, a former Trump defense lawyer, ordered Manhattan prosecutors to dismiss Adams' case, allegedly in exchange for cooperation on immigration enforcement. Judge Dale Ho ultimately dismissed the case with prejudice, noting the troubling quid pro quo implications.
+Trump administration systematically dismantles federal government's public corruption investigation capabilities through coordinated personnel purges and case dismissals. Key actions include forcing dismissal of Eric Adams prosecution, with seven senior federal prosecutors resigning in protest after being ordered to drop corruption charges. A letter dated August 28, 2025 from Senator Elizabeth Warren, Rep. Jerrold Nadler and other congressional Democrats says the Public Integrity Section was "slashed from more than 30 attorneys down to just four or five"; that is the letter's claim, footnoted to press reporting rather than to DOJ, and it post-dates February 2025. DOJ's own FY2026 budget request lists the section's current services at 28 budgeted positions (18 attorneys) and proposes cutting 19 positions (12 attorneys); these are budgeted positions, not attorneys on board. Together these developments effectively neutralized the DOJ's ability to investigate official corruption. Acting Deputy Attorney General Emil Bove, a former Trump defense lawyer, ordered Manhattan prosecutors to dismiss Adams' case, allegedly in exchange for cooperation on immigration enforcement. Judge Dale Ho ultimately dismissed the case with prejudice, noting the troubling quid pro quo implications.
+
+## Corrections (2026-11-15)
+
+- The earlier text stated a Public Integrity Section staffing cut as a February 2025 fact. That wording comes from a letter dated August 28, 2025 (Warren, Nadler and other congressional Democrats to the Attorney General and FBI Director), which sources it to press reporting, not to DOJ. It is now attributed to the letter with its date.
+- Added the primary figure: DOJ's FY2026 budget request puts the section's current services at 28 positions (18 attorneys) and requests a cut of 19 positions (12 attorneys). These count budgeted positions, not attorneys on board.
