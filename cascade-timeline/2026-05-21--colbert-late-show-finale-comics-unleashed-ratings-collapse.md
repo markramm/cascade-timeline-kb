@@ -37,7 +37,7 @@ actors:
   - CBS
   - Paramount Skydance
 related:
-  - 2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete
+  - 2026-06-02--cbs-fires-scott-pelley-after-60-minutes-staff-meeting-bilton-cites-insubordination
 ---
 
 **CBS cancelled The Late Show with Stephen Colbert in July 2025**, stating the decision was "purely financial" — the network characterized the timeslot as losing roughly **$40 million annually**. The show's **final episode aired Thursday, May 21, 2026**: an extended broadcast drawing **6.74 million viewers** (per TheWrap) — reported elsewhere as up to 9.77 million on an expanded Live+7 measurement window — making it the program's most-watched weeknight episode on record.

@@ -203,7 +203,7 @@ sources:
     tier: 2
 related:
   - 2026-06-08--cnn-investigation-bari-weiss-cbs-paramount-wbd-merger-link-bonta-active
-  - 2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete
+  - 2026-06-02--cbs-fires-scott-pelley-after-60-minutes-staff-meeting-bilton-cites-insubordination
   - 2025-07-24--fcc-paramount-skydance-approval
 capture_lanes:
   - Systematic Corruption
@@ -220,7 +220,7 @@ A federal lawsuit filed Saturday asks a court to stop the UFC fight night planne
 
 **Paramount+.** UFC and Paramount always planned to have the White House card streamed exclusively on Paramount+, per Sports Business Journal. UFC and Paramount struck a media rights deal worth $7.7 billion. Whether Paramount+ paid anything separately for this event is not established.
 
-Context for the Paramount-Skydance sequence: [[2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete]], [[2025-08-07--paramount-skydance-merger-closes]], [[ellison-david]].
+Context for the Paramount-Skydance sequence: [[2026-06-02--cbs-fires-scott-pelley-after-60-minutes-staff-meeting-bilton-cites-insubordination]], [[2025-08-07--paramount-skydance-merger-closes]], [[ellison-david]].
 
 ## Correction
 

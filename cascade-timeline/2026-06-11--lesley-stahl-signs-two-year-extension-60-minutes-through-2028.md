@@ -39,7 +39,7 @@ sources:
     date: '2026-06'
     tier: 2
 related:
-  - 2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete
+  - 2026-06-02--cbs-fires-scott-pelley-after-60-minutes-staff-meeting-bilton-cites-insubordination
   - 2026-05-27--cbs-news-declines-renew-sharyn-alfonsi-60-minutes-bari-weiss-cecot-segment-conflict
   - 2025-12-21--cbs-bari-weiss-pulls-60-minutes-cecot-deportee-abuse-segment
 ---

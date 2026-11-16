@@ -173,7 +173,7 @@ CBS News fired "60 Minutes" correspondents Sharyn Alfonsi and Cecilia Vega, alon
 
 **The Rather letter.** Dan Rather, Lowell Bergman and other journalists urged David Ellison on Monday to protect CBS News' editorial independence. The letter states: "Acquiring CBS News came with a legal requirement to serve the public interest, avoid political interference and maintain editorial independence."
 
-Related entries: [[2025-12-21--cbs-bari-weiss-pulls-60-minutes-cecot-deportee-abuse-segment]], [[2026-05-27--cbs-news-declines-renew-sharyn-alfonsi-60-minutes-bari-weiss-cecot-segment-conflict]], [[2026-06-03--cbs-60-minutes-pelley-fired-insubordination-cooper-gone-capture-complete]].
+Related entries: [[2025-12-21--cbs-bari-weiss-pulls-60-minutes-cecot-deportee-abuse-segment]], [[2026-05-27--cbs-news-declines-renew-sharyn-alfonsi-60-minutes-bari-weiss-cecot-segment-conflict]], [[2026-06-02--cbs-fires-scott-pelley-after-60-minutes-staff-meeting-bilton-cites-insubordination]].
 
 ## Correction
 
