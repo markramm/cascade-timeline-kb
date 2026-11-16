@@ -1,7 +1,7 @@
 ---
 type: timeline_event
-id: 1979-06-01--moral-majority-founded-corporate-religious-alliance
-date: 1979-06-01
+id: 1979-06-06--moral-majority-founded-corporate-religious-alliance
+date: '1979-06-06'
 title: Moral Majority Founded - Corporate Agenda Masked by Religious Cultural Warfare
 importance: 8
 tags:
@@ -21,17 +21,17 @@ actors:
 - Joseph Coors
 sources:
 - title: Moral Majority
-  url: 'https://en.wikipedia.org/wiki/Moral_Majority'
+  url: https://en.wikipedia.org/wiki/Moral_Majority
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
 - title: Paul Weyrich
-  url: 'https://en.wikipedia.org/wiki/Paul_Weyrich'
+  url: https://en.wikipedia.org/wiki/Paul_Weyrich
   outlet: Wikipedia
   date: '2024-11-08'
   tier: 2
 - title: Moral Majority Is Founded
-  url: 'https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded'
+  url: https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded
   outlet: EBSCO Research Starters
   date: '2024-09-15'
   tier: 2
@@ -40,6 +40,9 @@ capture_lanes:
 - Electoral Manipulation
 - Corporate Capture
 - Military-Industrial Complex
+date_kind: founding date as given by the Liberty University Archives finding aid for the Moral Majority records; an incorporation filing was not checked
+previous_ids:
+- 1979-06-01--moral-majority-founded-corporate-religious-alliance
 ---
 In June 1979, Paul Weyrich and Jerry Falwell founded the Moral Majority during a meeting at a Holiday Inn in Lynchburg, Virginia, with Weyrich coining the term "moral majority." The organization represented a strategic alliance between corporate interests and religious conservatives, using cultural issues to mobilize voters for an economic agenda that primarily benefited wealthy elites.
 
@@ -52,6 +55,10 @@ religious-constituency mobilization went in, and electoral support for corporate
 deregulation, and anti-labor policy came out, carried in cultural and moral language. The observable
 result was a durable voting bloc whose electoral weight backed policies benefiting corporate donors.
 
-A second entry on the same event, [[1979-06-01--falwell-weyrich-found-moral-majority-religious-corporate-alliance]], carries the **Liberty University archival finding-aid account** (June 6, 1979; Washington, D.C.; five founding ministers), which **conflicts with the Weyrich-centered account** here. The two accounts are recorded unreconciled.
+A second entry on the same event, [[1979-06-06--falwell-weyrich-found-moral-majority-religious-corporate-alliance]], carries the **Liberty University archival finding-aid account** (June 6, 1979; Washington, D.C.; five founding ministers), which **conflicts with the Weyrich-centered account** here. The two accounts are recorded unreconciled.
 
 The Moral Majority demonstrated how corporate-funded political infrastructure could use cultural warfare to obscure economic class interests, turning working-class religious voters into supporters of wealthy elites' economic agenda. This model would be replicated and expanded for decades, with cultural issues serving as cover for systematic wealth transfer from poor and middle-class Americans to corporate interests.
+
+## Correction (2026-11-16)
+
+This entry was dated June 1, 1979, a placeholder. The Liberty University Archives finding aid for the Moral Majority's records (https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf) gives June 6, 1979 as the date it "was founded"; the date is moved to June 6 and the file renamed. The Holiday Inn meeting in Lynchburg and the founders named above come from secondary summaries; the finding aid names five ministers (Falwell, LaHaye, Stanley, Kennedy and Dixon) and a Washington, D.C. headquarters. The accounts are not reconciled; see [[1979-06-06--falwell-weyrich-found-moral-majority-religious-corporate-alliance]].

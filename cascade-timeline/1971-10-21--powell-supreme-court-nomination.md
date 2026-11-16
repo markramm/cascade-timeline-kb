@@ -3,7 +3,7 @@ type: timeline_event
 id: 1971-10-21--powell-supreme-court-nomination
 date: 1971-10-21
 importance: 6
-title: Nixon nominates Lewis Powell to Supreme Court two months after corporate blueprint memo
+title: Nixon Announces He Will Nominate Lewis Powell and William Rehnquist to the Supreme Court; Names Go to the Senate the Next Day
 location: Washington, DC
 actors:
 - Richard Nixon
@@ -42,8 +42,64 @@ sources:
   date: '2024-01-01'
   verified: true
   tier: 1
-notes: Only Senator Fred R. Harris (D-OK) voted against confirmation, calling Powell an "elitist" who lacked compassion for "little people." Powell took oath of office January 7, 1972, with $60,000 salary. Nomination came just 59 days after Powell's August 23, 1971 memo advising Chamber of Commerce that "political power is necessary" and courts are "most important instrument for social, economic and political change." Powell's corporate law background at Hunton & Williams included representing Tobacco Institute.
 status: confirmed
+date_kind: announcement date; the Senate dates the formal nomination to October 22, 1971
+event_date_claim: c1
+claims:
+- id: c1
+  type: date
+  value: October 21, 1971
+  qualifier: ''
+  span: Address to the Nation Announcing Intention To Nominate Lewis F. Powell, Jr., and William H. Rehnquist To Be Associate Justices of the Supreme Court of the United States October 21, 1971
+  url: https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: names I will send to the Senate tomorrow
+  qualifier: ''
+  span: I should like to share with you tonight my reasons for selecting the two individuals whose names I will send to the Senate tomorrow for confirmation as Justices of the Supreme Court of the United States.
+  url: https://www.presidency.ucsb.edu/documents/address-the-nation-announcing-intention-nominate-lewis-f-powell-jr-and-william-h-rehnquist
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: date
+  value: Oct 22, 1971
+  qualifier: ''
+  span: Powell, Lewis F., Jr. Black Oct 22, 1971 89-1 No. 439 C Dec 6, 1971
+  url: https://www.senate.gov/legislative/nominations/SupremeCourtNominations1789present.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: figure
+  value: 89-1
+  qualifier: ''
+  span: Powell, Lewis F., Jr. Black Oct 22, 1971 89-1 No. 439 C Dec 6, 1971
+  url: https://www.senate.gov/legislative/nominations/SupremeCourtNominations1789present.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: date
+  value: Dec 6, 1971
+  qualifier: ''
+  span: Powell, Lewis F., Jr. Black Oct 22, 1971 89-1 No. 439 C Dec 6, 1971
+  url: https://www.senate.gov/legislative/nominations/SupremeCourtNominations1789present.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+verification: source-verified
 ---
+On October 21, 1971, in an address to the nation, President Nixon named Lewis F. Powell Jr. and William H. Rehnquist as his picks for the Supreme Court and said he would send their names to the Senate the next day. The formal nominations went to the Senate on October 22, 1971, and Powell won Senate approval 89-1 on December 6, 1971. The Powell memo is covered in [[1971-08-23--powell-memo-corporate-blueprint]].
 
-President Nixon nominates corporate lawyer Lewis Powell to Supreme Court as Associate Justice, just 59 days after Powell wrote confidential memo to Chamber of Commerce calling for business to acquire "political power" and use courts as "most important instrument for social, economic and political change." Powell's rapid transition from writing corporate strategy memo to Supreme Court appointment positions him to implement his own blueprint for expanding business power through judicial decisions. Senate confirms nomination 89-1 on December 7, 1971.
+## Correction (2026-11-16)
+
+An earlier version of this entry was titled as the nomination and had the approval vote one day late. October 21 is the date of Nixon's televised address; the formal nomination is October 22, 1971, and the vote is December 6, 1971, per the Senate's table. The sibling entry [[1971-10-22--nixon-nominates-powell-supreme-court-memo-author]] carries the formal nomination.

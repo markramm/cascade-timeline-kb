@@ -87,7 +87,7 @@ The disclosure documents a newly-visible direct-ownership chain for World Libert
 - **15,750,000,000 governance tokens** are held through **DTTM Operations LLC**
 - The aggregate WLFI position is disclosed at **$50 million or more**
 
-The 75-percent ownership figure is the most consequential single line in the disclosure. It means that when the UAE-linked MGX fund (chaired by Sheikh Tahnoon bin Zayed Al Nahyan) purchased 49 percent of WLFI governance tokens on January 17, 2026 for $500 million (see [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]), the counterparty acquiring that position was a firm whose sole member was a Holdco three-quarters-owned by a Trump-family LLC. The Tahnoon transaction is not an arm's-length investment in a crypto project — it is a payment into a structure where the Trump family retains supermajority control.
+The 75-percent ownership figure is the most consequential single line in the disclosure. It means that when the UAE-linked MGX fund (chaired by Sheikh Tahnoon bin Zayed Al Nahyan) purchased 49 percent of WLFI governance tokens on January 17, 2026 for $500 million (see [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]), the counterparty acquiring that position was a firm whose sole member was a Holdco three-quarters-owned by a Trump-family LLC. The Tahnoon transaction is not an arm's-length investment in a crypto project — it is a payment into a structure where the Trump family retains supermajority control.
 
 ## Dar Al Arkan and DAMAC: Licensing Trump Personally, Not Just the Organization
 
@@ -170,7 +170,7 @@ The disclosure lists hundreds of individual municipal bond holdings, corporate b
 Four prior timeline entries become more interpretable with the disclosure in hand:
 
 1. [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]] — the QIA + Lunate capital into Affinity Partners now sits alongside Dar Al Arkan's $22M direct licensing of Trump, documenting a two-channel Gulf capital pipeline (Kushner-channel + Trump-personal-channel) operating simultaneously.
-2. [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — the Tahnoon $500M WLFI purchase is now visible as a payment into a structure Trump-family LLCs 75-percent-own.
+2. [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — the Tahnoon $500M WLFI purchase is now visible as a payment into a structure Trump-family LLCs 75-percent-own.
 3. [[2026-01-11--trump-organization-dar-global-10b-saudi-slate]] — the Saudi $10B slate is the forward pipeline of the $22M-in-2024 Dar Al Arkan relationship the disclosure documents.
 4. [[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]] — Trump's Blue Owl stock holding is confirmed. He is #1 on the list of 33 administration officials with Blue Owl positions at the time of the $119.5M Tremont warehouse transaction.
 
@@ -184,7 +184,7 @@ The disclosure is the single most detailed public document on the Trump-family f
 - [[world-liberty-financial]] — *needs entry*
 - [[dar-global]] — *needs entry*
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[2026-01-11--trump-organization-dar-global-10b-saudi-slate]]
 - [[2026-01-29--dhs-purchases-blue-owl-tremont-warehouse]]
 - [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]]

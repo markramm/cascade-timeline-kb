@@ -134,7 +134,7 @@ The letter's effectiveness depends on whether Affinity responds, which it is not
 - [[kushner-jared]] — full actor profile
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]] — the December 2024 raise that prompted the letter
 - [[2021-06--affinity-partners-2b-saudi-pif-commitment]] — *(needs timeline entry)* original commitment
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel Trump-family UAE deal
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel Trump-family UAE deal
 - [[2026-02-26--witkoff-kushner-conflicts-iran-nuclear-talks]] — joint envoy activity during fundraising window
 - [[2026-02-19--house-democrats-probe-world-liberty-financial-uae-bank]] — parallel House Democratic probe
 - [[2026-03-29--warren-raskin-letter-52-lawmakers-detention-contractors]] — parallel oversight letter (Investigation 1)

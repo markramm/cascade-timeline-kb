@@ -114,7 +114,7 @@ The timing positions Treasury's action not as a response to judicial compulsion 
 ## Related Entries
 
 - [[2025-03-21--fincen-ifr-exempts-us-entities-from-boi-reporting]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[twin-shell-sovereign-capital-routing]]
 - [[bessent-scott]] — *needs entry*
 - [[fincen]] — *needs entry*

@@ -173,7 +173,7 @@ Affinity's specific equity share within the $36B equity consortium has not been 
 - [[kushner-jared]] — actor profile with Trump 2 addendum
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]] — December 2024 Affinity raise
 - [[2021-06--affinity-partners-2b-saudi-pif-commitment]] — *(needs timeline entry)* original $2B PIF commitment
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel UAE/Trump-family event
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel UAE/Trump-family event
 - [[2026-03-19--garcia-wyden-letter-affinity-kushner-fundraising]] — congressional oversight
 - [[2026-02-26--witkoff-kushner-conflicts-iran-nuclear-talks]] — Kushner-Witkoff joint envoy activity during EA deal window
 - [[trump-2-personnel-pipelines]] — Pipeline 2 context

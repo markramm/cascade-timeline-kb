@@ -1,9 +1,11 @@
 ---
 type: timeline_event
-id: 2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m
-previous_ids: [2025-01-17--tahnoon-axis-wlfi-500m-phase-4-anchor]
-date: '2025-01-17'
-title: "Tahnoon bin Zayed (UAE National Security Advisor) Lieutenants Buy 49% of Trump-Family World Liberty Financial for $500M — Days Before Inauguration; $187M to Trump Family, $31M to Witkoff Family"
+id: 2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m
+previous_ids:
+- 2025-01-17--tahnoon-axis-wlfi-500m-phase-4-anchor
+- 2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m
+date: '2025-01-16'
+title: Tahnoon bin Zayed (UAE National Security Advisor) Lieutenants Buy 49% of Trump-Family World Liberty Financial for $500M — Days Before Inauguration; $187M to Trump Family, $31M to Witkoff Family
 importance: 10
 actors:
 - Sheikh Tahnoon bin Zayed Al Nahyan
@@ -43,72 +45,72 @@ tags:
 - delaware-shell
 - adgm
 sources:
-- title: "UAE-linked firm bought major stake in Trump family crypto company"
+- title: UAE-linked firm bought major stake in Trump family crypto company
   url: https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae
   outlet: CNN
   date: '2026-02-01'
   tier: 1
-- title: "UAE 'Spy Sheikh' bought stake in Trump crypto company"
+- title: UAE 'Spy Sheikh' bought stake in Trump crypto company
   url: https://www.cnbc.com/2026/02/01/spy-sheikh-stake-trump-crypto.html
   outlet: CNBC
   date: '2026-02-01'
   tier: 1
-- title: "Trump family crypto deal with UAE investors renews conflict questions"
+- title: Trump family crypto deal with UAE investors renews conflict questions
   url: https://www.washingtonpost.com/politics/2026/02/01/trump-uae-crypto-world-liberty-financial/
   outlet: Washington Post
   date: '2026-02-01'
   tier: 1
-- title: "How a 'spy sheikh' bought 49% of the Trump family's flagship crypto company"
+- title: How a 'spy sheikh' bought 49% of the Trump family's flagship crypto company
   url: https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/
   outlet: Fortune
   date: '2026-02-02'
   tier: 1
-- title: "Trump linked crypto venture World Liberty sold 49% stake to UAE state affiliated firm"
+- title: Trump linked crypto venture World Liberty sold 49% stake to UAE state affiliated firm
   url: https://www.ledgerinsights.com/trump-linked-crypto-venture-world-liberty-sold-49-stake-to-uae-state-affiliated-firm/
   outlet: Ledger Insights
-  date: '2026-02'
+  date: 2026-02
   tier: 2
-- title: "House probe targets World Liberty Financial after report of $500 Million UAE stake"
+- title: House probe targets World Liberty Financial after report of $500 Million UAE stake
   url: https://www.coindesk.com/policy/2026/02/05/house-probe-targets-wlfi-after-report-of-usd500-million-uae-stake
   outlet: CoinDesk
   date: '2026-02-05'
   tier: 1
-- title: "White House faces questions over UAE royal's investment in Trump family's crypto firm"
+- title: White House faces questions over UAE royal's investment in Trump family's crypto firm
   url: https://abcnews.com/Politics/white-house-faces-questions-uae-royals-investment-trump/story?id=129774262
   outlet: ABC News
-  date: '2026-02'
+  date: 2026-02
   tier: 1
-- title: "Unveiling the Backers of WLFI: The UAE Secretly Invested $500 Million, Opening the Door to AI for the Trump Administration"
+- title: 'Unveiling the Backers of WLFI: The UAE Secretly Invested $500 Million, Opening the Door to AI for the Trump Administration'
   url: https://www.panewslab.com/en/articles/85f1686d-d5a8-4922-8f90-d8569f116699
   outlet: PANews (WSJ-sourced secondary)
-  date: '2026-02'
+  date: 2026-02
   tier: 2
-- title: "WSJ: $500 Million Investment in WLFI Reveals 'Spy Chief' and Trump Family's Money-for-Power Deal"
+- title: 'WSJ: $500 Million Investment in WLFI Reveals ''Spy Chief'' and Trump Family''s Money-for-Power Deal'
   url: https://en.theblockbeats.news/news/61139
   outlet: BlockBeats (WSJ-sourced secondary)
-  date: '2026-02'
+  date: 2026-02
   tier: 2
-- title: "Inside The $187M Deal Between The Trump Family And The UAE's 'Spy Sheikh'"
+- title: Inside The $187M Deal Between The Trump Family And The UAE's 'Spy Sheikh'
   url: https://finance.yahoo.com/news/inside-187m-deal-between-trump-003116654.html
   outlet: Yahoo Finance
-  date: '2026-02'
+  date: 2026-02
   tier: 2
-- title: "The UAE investment fund which acquired 49% of WLFI profited"
+- title: The UAE investment fund which acquired 49% of WLFI profited
   url: https://laraontheblock.com/the-uae-investment-fund-which-acquired-49-of-wlfi-profited/
   outlet: Lara on the Block
   date: '2026'
   tier: 2
-- title: "MGX Fund Management Limited — ADGM Public Register"
+- title: MGX Fund Management Limited — ADGM Public Register
   url: https://www.adgm.com/public-registers/fsra/firms/financial-firms/mgx-fund-management-limited-240067
   outlet: Abu Dhabi Global Market FSRA
   date: '2026'
   tier: 1
-- title: "Ranking Member Ro Khanna Presses World Liberty Financial for Information on Trump Family Crypto Corruption (letter to Zach Witkoff, Feb. 4, 2026)"
+- title: Ranking Member Ro Khanna Presses World Liberty Financial for Information on Trump Family Crypto Corruption (letter to Zach Witkoff, Feb. 4, 2026)
   url: https://democrats-selectcommitteeontheccp.house.gov/sites/evo-subsites/democrats-selectcommitteeontheccp.house.gov/files/evo-media-document/2-4-26-scc-letter-to-wlf.pdf
   outlet: House Select Committee on the Strategic Competition Between the U.S. and the CCP (Democrats)
   date: '2026-02-04'
   tier: 1
-- title: "SEC EDGAR full-text search — 'Aryam' and 'Aryam Investment', verified zero hits"
+- title: SEC EDGAR full-text search — 'Aryam' and 'Aryam Investment', verified zero hits
   url: https://efts.sec.gov/LATEST/search-index?q=%22Aryam+Investment%22
   outlet: SEC EDGAR full-text search
   date: '2026-08-31'
@@ -119,6 +121,7 @@ capture_lanes:
 - Foreign State Payments to Trump Family
 - Crypto-Infrastructure Capture
 - Pre-Inauguration Payment Architecture
+date_kind: signing date; the deal was reported on January 31 and February 1, 2026
 ---
 
 Days before Donald Trump's January 20, 2025 inauguration, entities controlled by **Sheikh Tahnoon bin Zayed Al Nahyan** — the United Arab Emirates' **National Security Advisor, manager of the UAE's largest sovereign wealth fund, and chairman of G42 (the Emirati AI firm)** — agreed to purchase **49% of World Liberty Financial (WLFI)** for **$500 million**. Half of it, $250 million, was paid at signing; the other $250 million was due by July 15, 2025. Of the first $250 million, **$187 million went to Trump family entities** and **at least $31 million went to Witkoff family entities**. The transaction became public only on February 1, 2026, approximately one year after it was executed, via reporting from the Wall Street Journal followed by CNN, CNBC, Washington Post, Fortune, and other outlets.
@@ -279,3 +282,6 @@ This entry said the payment was made up front, which contradicted its own transa
 
 This entry also absorbs a second entry on the same event, "Tahnoon-Lieutenant UAE Vehicle Acquires 49% of World Liberty Financial for $500M Three Days Before Inauguration — Phase 4 Anchor", whose old id redirects here. That entry named MGX as the buyer and showed $500 million paid at once. The buyer is Aryam Investment 1, a company that Tahnoon backs. MGX is a separate Tahnoon-led firm. The Phase 4 entry's account of CFIUS and SEC treatment, which no cited source carried, is not carried over.
 
+## Correction (2026-11-16)
+
+This entry was dated January 17, 2025. Fortune (https://fortune.com/2026/02/02/world-liberty-financial-spy-sheikh-500-million-trump-family-conflicts-of-interest/) says the contract was signed "just four days before" Trump took office, and CNN (https://www.cnn.com/2026/02/01/politics/trump-family-crypto-world-liberty-financial-uae), citing the Wall Street Journal, says the stake was acquired four days before the second inauguration; counting back from January 20 gives January 16, which the body already stated. January 17 matches neither the signing nor the reporting date (the Journal reported on January 31, 2026). The entry is re-dated to the signing and the file renamed.

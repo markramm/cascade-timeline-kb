@@ -109,7 +109,7 @@ The Al-Khayyat revelation extends the documented Qatar-to-Trump-family capital f
 | **April 2017 Brookfield bailout** | QIA-linked Brookfield | $1.28B | Kushner family (666 Fifth Ave) |
 | **2021 Affinity PIF** | Saudi PIF (not Qatari but adjacent) | $2B commitment | Kushner family |
 | **December 2024 Affinity** | QIA (with Lunate) | Share of $1.5B | Kushner family ([[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]]) |
-| **January 2025 WLFI** | Tahnoon / UAE (not Qatari) | $500M | Trump family + Witkoff family ([[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]) |
+| **January 2025 WLFI** | Tahnoon / UAE (not Qatari) | $500M | Trump family + Witkoff family ([[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]) |
 | **Sazan Island (ongoing)** | **Al-Khayyat brothers (Qatari)** | **€1.4B total** | **Kushner/Ivanka via Affinity partnership** |
 | **Patel Trishul consulting** | Embassy of Qatar | Undisclosed | Patel consulting fees |
 

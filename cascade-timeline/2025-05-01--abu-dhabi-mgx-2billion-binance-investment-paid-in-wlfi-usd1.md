@@ -108,7 +108,7 @@ Zach Witkoff, a World Liberty co-founder, announced the arrangement at a crypto 
 
 Fortune reported in February 2026 that the coin received "an immediate bump in market capitalization after MGX, another venture firm tied to the Abu Dhabi royal family, invested $2 billion into the crypto exchange Binance with USD1."
 
-The link to the Trump family runs through the stablecoin and through the people on both sides, not through an investment in World Liberty. The separate purchase of a stake in World Liberty by Aryam Investment 1, a Tahnoon-backed company, is covered in [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]].
+The link to the Trump family runs through the stablecoin and through the people on both sides, not through an investment in World Liberty. The separate purchase of a stake in World Liberty by Aryam Investment 1, a Tahnoon-backed company, is covered in [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]].
 
 ## Correction (2026-11-16)
 

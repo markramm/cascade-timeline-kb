@@ -169,7 +169,7 @@ A deferral, denial, or withdrawal would each produce different downstream signal
 
 The pre-decision condition of the WLFI ecosystem is materially different from the conditions present when Circle, BitGo, Paxos, and Coinbase received their conditional approvals. None of those issuers had a public-record fact pattern in which the issuing entity's CTO had used token reserves to fund loans on a third-party platform he co-founded; none had a 49% foreign-state-adjacent shareholder whose disclosure status the OCC had publicly declined to confirm; none had a sitting U.S. senator publicly characterizing the review as "a sham" (Sen. Warren, American Banker, Jan. 2026). The OCC is therefore in the position of either approving the application despite these distinguishing fact patterns (which would establish that they are not disqualifying for trust-bank charters under Gould's framework), or producing a record of the criteria under which approval was withheld or deferred.
 
-The 49% Aryam/G42 stake — see [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] and the [[world-liberty-financial]] organization profile — is the structural fact that distinguishes the WLTC application from the other crypto-native trust-bank applications in the OCC's docket. Aryam Investment 1 was registered as twin shells in Delaware and Abu Dhabi in early December 2024, controlled by executives of Sheikh Tahnoon bin Zayed Al Nahyan's G42; the Abu Dhabi entity is not registered with ADGM or the UAE Securities and Commodities Authority. Two of five WLFI board seats are filled by senior G42 executives. The OCC's 10%-ownership disclosure threshold makes this a load-bearing question for the application's adequacy.
+The 49% Aryam/G42 stake — see [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] and the [[world-liberty-financial]] organization profile — is the structural fact that distinguishes the WLTC application from the other crypto-native trust-bank applications in the OCC's docket. Aryam Investment 1 was registered as twin shells in Delaware and Abu Dhabi in early December 2024, controlled by executives of Sheikh Tahnoon bin Zayed Al Nahyan's G42; the Abu Dhabi entity is not registered with ADGM or the UAE Securities and Commodities Authority. Two of five WLFI board seats are filled by senior G42 executives. The OCC's 10%-ownership disclosure threshold makes this a load-bearing question for the application's adequacy.
 
 ## Research Gaps
 
@@ -192,7 +192,7 @@ The 49% Aryam/G42 stake — see [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-5
 - [[2026-02-19--house-democrats-probe-world-liberty-financial-uae-bank]]
 - [[2026-02-26--warren-grills-gould-wlfi-uae-disclosure-hearing]]
 - [[2026-04-01--occ-12-cfr-5-20-amendment-trust-bank-chartering-rule-effective]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[crypto-cluster-as-pre-appointment-equity-platform]]
 - [[administrative-capture-2025-rollbacks]]
 - [[trump-donald]]

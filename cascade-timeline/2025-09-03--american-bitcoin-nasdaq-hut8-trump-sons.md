@@ -99,7 +99,7 @@ capture_lanes:
 
 On **September 3, 2025**, **American Bitcoin (NASDAQ: ABTC)** began trading on the Nasdaq Global Select Market following an all-stock merger with **Gryphon Digital Mining**. The company was founded in **March 2025** by **Eric Trump** and **Donald Trump Jr.** as a bitcoin mining and digital-asset treasury operation. **Hut 8 Mining Corp. owns 80%** of the entity; the Trump brothers and legacy American Data Centers shareholders own the remaining **20%**. Subsequently, CEO **Mike Ho confirmed in October 2025 that American Bitcoin has held discussions with Abu Dhabi sovereign wealth fund ADQ and Abu Dhabi-based global energy company Taqa** regarding UAE expansion.
 
-American Bitcoin is the **Nasdaq-listed flagship** of the Trump-family crypto empire, operating alongside **World Liberty Financial** (the DeFi / USD1 stablecoin venture documented in [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]) and other Trump-family crypto interests.
+American Bitcoin is the **Nasdaq-listed flagship** of the Trump-family crypto empire, operating alongside **World Liberty Financial** (the DeFi / USD1 stablecoin venture documented in [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]) and other Trump-family crypto interests.
 
 ## Founding and Ownership
 
@@ -142,7 +142,7 @@ In **October 2025**, American Bitcoin CEO **Mike Ho publicly confirmed that the 
 - **ADQ** (Abu Dhabi Developmental Holding Company) — UAE sovereign wealth fund
 - **Taqa** (Abu Dhabi National Energy Company) — UAE state-owned energy and utilities company
 
-Both entities are **Abu Dhabi sovereign-controlled**. ADQ is one of the three major Abu Dhabi sovereign funds (alongside ADIA and Mubadala); Tahnoon bin Zayed (who paid $500M for 49% of WLFI per [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]) chairs ADIA, not ADQ, but the three funds operate in coordinated Abu Dhabi sovereign capital strategy.
+Both entities are **Abu Dhabi sovereign-controlled**. ADQ is one of the three major Abu Dhabi sovereign funds (alongside ADIA and Mubadala); Tahnoon bin Zayed (who paid $500M for 49% of WLFI per [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]) chairs ADIA, not ADQ, but the three funds operate in coordinated Abu Dhabi sovereign capital strategy.
 
 Mike Ho's statement: **"I've had conversations with [Abu Dhabi sovereign wealth fund] ADQ and with [Abu Dhabi-based global energy company] Taqa."**
 
@@ -154,7 +154,7 @@ The UAE expansion was being explored within 90 days of the Nasdaq listing — a 
 
 American Bitcoin sits within a broader Trump-family crypto structure that includes:
 
-1. **World Liberty Financial (WLFI)** — DeFi protocol, USD1 stablecoin; 49% owned by Tahnoon lieutenants since January 2025 ([[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]])
+1. **World Liberty Financial (WLFI)** — DeFi protocol, USD1 stablecoin; 49% owned by Tahnoon lieutenants since January 2025 ([[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]])
 2. **American Bitcoin (ABTC)** — Nasdaq-listed bitcoin miner; Hut 8-majority, Trump-minority
 3. **American Data Centers** — Eric + Don Jr. data-center/crypto infrastructure venture (Feb 2025)
 4. **USD1 stablecoin** — issued by WLFI, launched March 2025
@@ -258,7 +258,7 @@ Transaction-code key used above: **P** = open-market purchase, **S** = open-mark
 
 ## Related Entries
 
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel Trump-family crypto event (WLFI)
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel Trump-family crypto event (WLFI)
 - [[2025-09-29--ea-55b-acquisition-affinity-silver-lake-pif]] — concurrent Affinity activity
 - [[2026-01-11--trump-organization-dar-global-10b-saudi-slate]] — concurrent Trump Organization foreign expansion
 - [[2024-11-27--trump-jr-joins-unusual-machines-advisory-board]] — pre-existing Trump Jr. defense-contract conflict

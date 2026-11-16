@@ -196,7 +196,7 @@ The structural pattern established: **the Trump Organization uses Saudi-sovereig
 
 - [[2025-09-29--ea-55b-acquisition-affinity-silver-lake-pif]] — parallel Saudi PIF-Trump-family event
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]] — Kushner Affinity parallel
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — WLFI parallel
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — WLFI parallel
 - [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]] — Kushner-Ivanka Albania parallel
 - [[2026-01-22--kushner-davos-gaza-master-plan-180-skyscrapers]] — Kushner Gaza parallel
 - [[2024-12-11--trump-organization-officially-launches-new-saudi-arabia-towe]] — pre-existing Jeddah launch

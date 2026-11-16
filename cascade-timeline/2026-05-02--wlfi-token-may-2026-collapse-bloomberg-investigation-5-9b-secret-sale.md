@@ -141,7 +141,7 @@ The net result: retail investors who purchased WLFI at $0.05 to participate in a
 ## Related Entries
 
 - [[2026-03-16--wlfi-governance-vote-5m-direct-access]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[2026-01-13--warren-presses-occ-halt-wlfi-bank-charter]]
 - [[2026-01-23--occ-rebuffs-warren-wlfi-charter-delay]]
 - [[2026-02-26--warren-grills-gould-wlfi-uae-disclosure-hearing]]

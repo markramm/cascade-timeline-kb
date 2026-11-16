@@ -61,7 +61,7 @@ capture_lanes:
 
 On or about December 20, 2024 — **one month before Donald Trump's January 20, 2025 inauguration** — Jared Kushner's private equity fund, **Affinity Partners**, closed an additional **$1.5 billion** from **Qatar Investment Authority (QIA)** and **Lunate**, an Abu Dhabi-based asset manager functionally tied to the UAE government. The additional capital brought Affinity's total assets under management to approximately **$4.8 billion**, and Affinity simultaneously **extended the investment period of its debut fund to 2029**.
 
-The transaction is the **second major Gulf-state capital event** in Affinity's history, following the 2021 $2 billion initial commitment from Saudi Arabia's Public Investment Fund. Combined with the **January 2025 Tahnoon bin Zayed / World Liberty Financial $500M transaction** ([[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]), Gulf-state sovereign wealth fund flows to Trump-family-adjacent entities totaled approximately **$2 billion in the November 2024 – January 2025 transition period alone**.
+The transaction is the **second major Gulf-state capital event** in Affinity's history, following the 2021 $2 billion initial commitment from Saudi Arabia's Public Investment Fund. Combined with the **January 2025 Tahnoon bin Zayed / World Liberty Financial $500M transaction** ([[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]), Gulf-state sovereign wealth fund flows to Trump-family-adjacent entities totaled approximately **$2 billion in the November 2024 – January 2025 transition period alone**.
 
 ## Transaction Structure
 
@@ -158,7 +158,7 @@ The timing — post-election, pre-inauguration — is structural. It places the 
 - [[qatar-investment-authority]] — QIA co-lead profile
 - [[kushner-jared]] — comprehensive actor profile
 - [[2021-06--affinity-partners-2b-saudi-pif-commitment]] — *(needs timeline entry)* original Saudi PIF commitment
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel $500M Trump-family UAE deal
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]] — parallel $500M Trump-family UAE deal
 - [[2023-08-28--qia-buys-witkoff-park-lane-hotel-623m]] — parallel Qatar-sovereign Trump-family-adjacent deal
 - [[witkoff-steve]] — Peace Envoy with parallel Gulf-state family-business exposure
 - [[2026-02-26--witkoff-kushner-conflicts-iran-nuclear-talks]] — Iran negotiations with both principals

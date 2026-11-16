@@ -186,7 +186,7 @@ The IFR process chain:
 ## Related Entries
 
 - [[2025-03-02--treasury-suspends-cta-enforcement-boi]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[twin-shell-sovereign-capital-routing]]
 - [[2026-04-19--nyt-reveals-sazan-island-qatar-al-khayyat-brothers]]
 - [[bessent-scott]] — *needs entry*

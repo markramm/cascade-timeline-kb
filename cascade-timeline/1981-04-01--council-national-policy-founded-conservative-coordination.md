@@ -1,7 +1,7 @@
 ---
 type: timeline_event
-id: 1981-05-01--council-national-policy-founded-conservative-coordination
-date: 1981-05-01
+id: 1981-04-01--council-national-policy-founded-conservative-coordination
+date: '1981-04-01'
 title: Council for National Policy Founded - Secret Conservative Coordination Network
 importance: 8
 tags:
@@ -21,17 +21,17 @@ actors:
 - William Cies
 sources:
 - title: Council for National Policy
-  url: 'https://en.wikipedia.org/wiki/Council_for_National_Policy'
+  url: https://en.wikipedia.org/wiki/Council_for_National_Policy
   outlet: Wikipedia
   date: '2024-11-10'
   tier: 2
 - title: 'The Council for National Policy: Behind the Curtain'
-  url: 'https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain'
+  url: https://www.splcenter.org/hatewatch/2016/05/17/council-national-policy-behind-curtain
   outlet: Southern Poverty Law Center
   date: '2024-09-15'
   tier: 1
 - title: Council for National Policy - SourceWatch
-  url: 'https://www.sourcewatch.org/index.php/Council_for_National_Policy'
+  url: https://www.sourcewatch.org/index.php/Council_for_National_Policy
   outlet: SourceWatch
   date: '2024-08-20'
   tier: 2
@@ -40,6 +40,10 @@ capture_lanes:
 - Corporate Capture
 - Military-Industrial Complex
 - Regulatory Capture
+date_precision: month
+date_kind: month the Council was formed, per a White House event briefing in the Reagan Library's Blackwell files
+previous_ids:
+- 1981-05-01--council-national-policy-founded-conservative-coordination
 ---
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.
 
@@ -56,3 +60,7 @@ The secretive nature of CNP meetings allowed conservative religious leaders, cor
 The CNP represented the culmination of the Powell Memo's vision of coordinated conservative infrastructure - a secretive network where corporate money, religious conservative activism, think tank policy development, and political power could be integrated and directed toward systematic capture of governing institutions.
 
 The organization's founding in 1981, the same year Heritage Foundation's "Mandate for Leadership" was implemented by Reagan, demonstrated how quickly conservative infrastructure had matured from the scattered elements of the early 1970s into a sophisticated, coordinated network capable of exercising significant political power while maintaining operational secrecy.
+
+## Correction (2026-11-16)
+
+This entry was dated May 1, 1981, a placeholder. A White House briefing for a September 14, 1981 event, in the Reagan Library's Morton Blackwell files (https://www.reaganlibrary.gov/public/digitallibrary/smof/publicliaison/blackwell/box-006/40_047_7006969_006_001_2017.pdf), says the Council "was formed in April of 1981"; the date is moved to April 1981 at month precision and the file renamed. The briefing does not say whether "formed" means incorporation or a first meeting, and no source we read gives a day. May 18-19 was the Council's annual meeting in Washington (its call letter is dated April 29, 1981), not its founding: see [[1981-05-18--cnp-annual-meeting-washington-viguerie-dinner-for-stockman]] and the New York Times report of May 20, [[1981-05-20--nyt-reports-council-for-national-policy-convened-lahaye-president]].

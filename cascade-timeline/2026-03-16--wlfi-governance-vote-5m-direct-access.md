@@ -116,7 +116,7 @@ The vote occurred during the same two-week window as Senate debate over the GENI
 ## Related Entries
 
 - [[world-liberty-financial]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[2026-01-07--world-liberty-financial-occ-bank-charter-application]]
 - [[2026-03-10--senators-stablecoin-genius-act-trump-crypto-conflicts]]
 - [[2026-03-03--senate-republicans-block-trump-emoluments-crypto-resolutions]]

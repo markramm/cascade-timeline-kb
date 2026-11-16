@@ -112,7 +112,7 @@ No formal CFIUS review of Stargate LLC formation has been publicly documented. C
 
 ## Related Concurrent Transactions
 
-- **January 17, 2025** (four days prior): $500M purchase of 49% of [[world-liberty-financial]] via Aryam Investment 1 — a Tahnoon-lieutenant Delaware/Abu Dhabi shell structure. See [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]].
+- **January 17, 2025** (four days prior): $500M purchase of 49% of [[world-liberty-financial]] via Aryam Investment 1 — a Tahnoon-lieutenant Delaware/Abu Dhabi shell structure. See [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]].
 - **December 20, 2024** (one month prior): [[lunate]] and Qatar Investment Authority co-led a $1.5B capital raise for Jared Kushner's [[affinity-partners]]. See [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]].
 - **March 2025** (two months after): MGX $2B minority stake in Binance settled via WLFI's USD1 stablecoin — routing UAE capital into the Trump-family crypto platform.
 
@@ -138,7 +138,7 @@ The January 17 → January 21 pairing is particularly tight: the Aryam WLFI purc
 - [[g42-uae]] — *needs entry*
 - [[lunate]]
 - [[world-liberty-financial]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]]
 - [[2025-10-24--crusoe-series-e-mubadala-capital-valor-co-lead]]
 - [[cn-wn-cabinet-faction]]

@@ -56,4 +56,4 @@ Warren requested that Gould share the unredacted charter application with her an
 
 The exchange established on the hearing record that: (1) WLFI's 49% Aryam/G42/UAE ownership is at least prima facie within OCC's disclosure thresholds; (2) the OCC had not, as of February 26, publicly confirmed whether the application discloses Aryam; and (3) the Comptroller would not voluntarily share the unredacted application with the Banking Committee minority. The hearing formalized the beneficial-ownership-disclosure question as an unresolved gap on which any subsequent conditional approval would be litigated.
 
-See [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]], [[2026-01-07--world-liberty-financial-occ-bank-charter-application]], [[2026-01-23--occ-rebuffs-warren-wlfi-charter-delay]], and [[world-liberty-financial]].
+See [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]], [[2026-01-07--world-liberty-financial-occ-bank-charter-application]], [[2026-01-23--occ-rebuffs-warren-wlfi-charter-delay]], and [[world-liberty-financial]].

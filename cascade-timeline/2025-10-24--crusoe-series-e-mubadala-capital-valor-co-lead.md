@@ -128,7 +128,7 @@ Crusoe has not disclosed whether Mubadala Capital's co-lead position carries boa
 - [[thiel-network]]
 - [[lunate]]
 - [[2025-01-21--stargate-llc-white-house-announcement]]
-- [[2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m]]
+- [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]]
 - [[cn-wn-cabinet-faction]]
 - [[epic-inv4-trump-family-gulf-capital]]
