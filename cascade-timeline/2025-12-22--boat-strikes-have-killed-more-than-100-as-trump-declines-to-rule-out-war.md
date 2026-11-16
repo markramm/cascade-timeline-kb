@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 2025-12-22--venezuela-naval-blockade-105-killed-29-strikes
+id: 2025-12-22--boat-strikes-have-killed-more-than-100-as-trump-declines-to-rule-out-war
+previous_ids:
+- 2025-12-22--venezuela-naval-blockade-105-killed-29-strikes
 date: 2025-12-22
 title: Boat Strikes Have Killed More Than 100 as Trump Declines to Rule Out War with Venezuela
 importance: 9
@@ -186,5 +188,7 @@ The sources read do not name the dead. NBC also reported that Trump, asked in a 
 China called the US's latest moves a "serious violation of international law", and Russia's foreign ministry reaffirmed its full support for Venezuela's leadership, per Al Jazeera. Those are the two governments' statements, not findings.
 
 ## Correction (2026-11-16)
+
+This file was renamed; the earlier filename named a count the entry does not bind and the wrong cause of death.
 
 Checked by the recheck-canon task. The earlier text and title said the blockade killed people in strikes; the strikes are the boat strikes, not the blockade. The earlier strike count is replaced with the attributed counts above. The earlier sources included unrelated Epstein and immigration items; they are removed. The earlier statements about a tanker seizure, troop numbers, a Senate bill and two named officials' remarks are removed.

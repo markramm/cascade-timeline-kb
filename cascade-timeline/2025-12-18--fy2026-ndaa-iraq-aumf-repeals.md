@@ -73,7 +73,7 @@ Kaine and Young's provision is substantively a war-powers-reclamation step celeb
 
 ## Broader Context
 
-The 2002 AUMF has been cited as legal authority for military operations beyond Iraq — including against ISIS in Syria and Iraq, for some Quds Force operations, and in arguments over the January 2020 Soleimani strike. Its repeal is substantively meaningful. But its repeal does not constrain the Trump administration's current operational authorities, which rest on the 2001 AUMF, Article II self-defense claims, and the Operation Southern Spear Venezuela counter-narcotics framing (see [[2025-12-15--operation-southern-spear-death-toll-82-killed]]).
+The 2002 AUMF has been cited as legal authority for military operations beyond Iraq — including against ISIS in Syria and Iraq, for some Quds Force operations, and in arguments over the January 2020 Soleimani strike. Its repeal is substantively meaningful. But its repeal does not constrain the Trump administration's current operational authorities, which rest on the 2001 AUMF, Article II self-defense claims, and the Operation Southern Spear Venezuela counter-narcotics framing (see [[2025-12-15--southern-spear-strike-on-three-boats-kills-eight]]).
 
 The simultaneous FY 2026 NDAA also included Hegseth boat-strike oversight provisions (see [[2025-12-17--senate-passes-ndaa-hegseth-boat-strike-oversight]]) — another oversight-win provision that coexists with the AUMF repeal to further the "Congress is reclaiming war powers" framing while the bundle's more substantively significant capture provisions advance.
 
@@ -96,4 +96,4 @@ This entry is included in the NDAA-bundling capture-template documentation not b
 - [[2025-12-18--fy2026-ndaa-sections-1651-1652-golden-dome-codification]]
 - [[2025-12-18--fy2026-ndaa-section-1085-aukus-export-control-streamlining]]
 - [[ndaa-bundling-as-capture-template]]
-- [[2025-12-15--operation-southern-spear-death-toll-82-killed]]
+- [[2025-12-15--southern-spear-strike-on-three-boats-kills-eight]]

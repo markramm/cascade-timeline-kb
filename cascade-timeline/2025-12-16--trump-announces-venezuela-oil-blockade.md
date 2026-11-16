@@ -1,7 +1,9 @@
 ---
 type: timeline_event
-id: 2025-12-17--trump-announces-venezuela-oil-blockade
-date: 2025-12-17
+id: 2025-12-16--trump-announces-venezuela-oil-blockade
+previous_ids:
+- 2025-12-17--trump-announces-venezuela-oil-blockade
+date: 2025-12-16
 title: Trump Announces Blockade of Sanctioned Venezuelan Oil Tankers and Says the Venezuelan Regime Has Been Designated a Terrorist Organization
 importance: 9
 tags:
@@ -29,7 +31,7 @@ sources:
   url: https://www.pbs.org/newshour/world/a-timeline-of-u-s-military-escalation-against-venezuela-leading-to-maduros-capture
   tier: 1
   outlet: PBS NewsHour
-status: reported
+status: confirmed
 actors:
 - Donald Trump
 - Marco Rubio
@@ -40,6 +42,7 @@ capture_lanes:
 coverage:
 - url: https://theramm.substack.com/p/venezuela-fits-the-pattern
   title: Venezuela Fits the Pattern
+event_date_claim: c1
 claims:
 - id: c1
   type: date
@@ -131,7 +134,7 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
-verification: captured
+verification: source-verified
 ---
 President Trump said on Tuesday, December 16, 2025 that he was ordering a blockade of all sanctioned oil tankers going into and out of Venezuela. In the same Truth Social post he said "the Venezuelan Regime has been designated a FOREIGN TERRORIST ORGANIZATION".
 
@@ -144,5 +147,7 @@ The State Department designated Cartel de los Soles, not the Venezuelan governme
 Just Security's analysis says that as a matter of law peacetime blockades qualify as a use of force even before force is used against ships attempting to breach them. That is the analysis of its authors, not a finding by a court or the UN.
 
 ## Correction (2026-11-16)
+
+This file was renamed to carry the date of the post, one day earlier than the earlier filename.
 
 Checked by the recheck-canon task. The earlier text said Trump designated the Venezuelan government as a terrorist organization and that this gave legal cover under a material-support statute for seizing vessels. The record read shows a post saying so, and a Federal Register designation of Cartel de los Soles made in November. Also removed: the earlier troop and warship figures and crude-export percentage.

@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 2025-12-15--operation-southern-spear-death-toll-82-killed
+id: 2025-12-15--southern-spear-strike-on-three-boats-kills-eight
+previous_ids:
+- 2025-12-15--operation-southern-spear-death-toll-82-killed
 date: 2025-12-15
 title: US Strikes Three Boats in the Eastern Pacific, Killing Eight; Counts of the Boat-Strike Dead Differ by Counting Party
 importance: 8
@@ -177,5 +179,7 @@ Each figure below is a named party's, and the two counts differ in what they cou
 The administration describes the people killed as "narco-terrorists", in HRW's rendering of its claim. The sources read do not name the dead.
 
 ## Correction (2026-11-16)
+
+This file was renamed; the earlier filename named a count the entry does not bind.
 
 Checked by the recheck-canon task. Replaced the earlier counts and survivor details with the attributed figures above.
