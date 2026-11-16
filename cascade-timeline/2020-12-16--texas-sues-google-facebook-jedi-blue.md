@@ -1,273 +1,300 @@
 ---
 type: timeline_event
+id: 2020-12-16--texas-sues-google-facebook-jedi-blue
 date: 2020-12-16
-title: 'Texas Leads 10-State Lawsuit: Google-Facebook "Jedi Blue" Collusion'
-description: Texas Attorney General Ken Paxton led a 10-state antitrust lawsuit exposing "Jedi Blue"—a secret 2018 agreement between Google and Facebook to eliminate header bidding competition and maintain Google's ad exchange monopoly. The complaint revealed that when Facebook threatened to support header bidding (which would have reduced Google's market power), Google offered Facebook preferential treatment in its "Open Bidding" system including non-public data, faster processing, and guaranteed win rates. In exchange, Facebook abandoned header bidding and agreed not to compete with Google's exchange. Internal documents showed executives including Mark Zuckerberg and Sundar Pichai personally approved the agreement. The collusion allowed Google to maintain its ad tech monopoly while Facebook received advantages over other advertisers—a textbook example of monopolist coordination to eliminate emerging competition.
+title: 'Texas and Nine States Sue Google, Alleging an Ad-Auction Deal With Facebook'
+description: On December 16, 2020, Texas and nine other states sued Google in the Eastern District of Texas, alleging that it monopolized online display advertising, including through an agreement with Facebook that the redacted complaint did not name and that later filings call "Jedi Blue". Google denied wrongdoing. The case was sent to a multidistrict proceeding in 2021 and returned to Texas in 2023. A trial set for August 2025 was cancelled and the case is stayed pending final judgment in the federal government's separate Virginia case. No court has ruled on the Facebook agreement.
 actors:
 - Texas Attorney General Ken Paxton
 - Google
 - Facebook
-- Mark Zuckerberg
-- Sundar Pichai
-- 9 other state Attorneys General
+status: reported
 importance: 10
 tags:
 - google
 - facebook
 - antitrust
 - jedi-blue
-- collusion
 - ad-tech
 - texas
 - header-bidding
-- monopoly-maintenance
-sources:
-- title: Paxton Files Third Amendment in Antitrust Lawsuit Against Google
-  url: https://www.texasattorneygeneral.gov/news/releases/paxton-files-third-amendment-antitrust-lawsuit-against-google
-  outlet: Texas Attorney General
-  date: '2022-01-14'
-  tier: 1
-- title: Lawsuit - Google allegedly creates ad monopoly with Facebook according to Jedi Blue
-  url: https://searchengineland.com/google-allegedly-creates-ad-monopoly-with-facebook-to-favor-its-own-exchange-according-to-new-unredacted-details-from-project-jedi-375487
-  outlet: Search Engine Land
-  date: '2022-01-15'
-  tier: 2
-- title: Zuckerberg Pichai Signed Off On Backroom Facebook-Google Collusion
-  url: https://dailycaller.com/2022/01/14/mark-zuckerberg-sundar-pichai-google-facebook-jedi-blue/
-  outlet: The Daily Caller
-  date: '2022-01-14'
-  tier: 3
-- title: US states are suing Google - here''s what you need to know
-  url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
-  outlet: MIT Technology Review
-  date: '2020-12-16'
-  tier: 1
-status: confirmed
-id: 2020-12-16--texas-sues-google-facebook-jedi-blue
 capture_lanes:
 - Regulatory Capture
 - Corporate Capture
 - Financial Capture
 capture_type: monopolist_collusion
-patterns:
-- monopolist-coordination
-- competition-elimination
-- market-allocation
-- coordinated-exclusion
 connections:
 - Google ad tech monopoly
 - Facebook advertising dominance
 - Header bidding competition
-notes: Code-named after Star Wars "Jedi" characters. Revealed CEO-level coordination between monopolists to eliminate competition. One of clearest examples of illegal market allocation and coordinated monopoly maintenance.
+notes: 'Corrected 2026-11-16: the earlier text stated the complaint''s allegations as findings; see Correction. The complaint is an allegation; no court has found the Facebook agreement unlawful.'
+verification: captured
+claims:
+- id: c1
+  type: date
+  value: Dec 16, 2020
+  qualifier: COMPLAINT
+  span: 1 Dec 16, 2020 COMPLAINT (REDACTED) against Google, LLC, filed by State of Mississippi, State of Idaho, State of Missouri, State of South Dakota, State of Arkansas, State of North Dakota, The State Of Texas, State of Indiana, State of Utah, Commonwealth of Kentucky.
+  url: https://www.courtlistener.com/docket/18749317/the-state-of-texas-v-google-llc/
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c2
+  type: figure
+  value: nine other
+  qualifier: Republican-led
+  span: Texas and nine other Republican-led states have filed an antitrust lawsuit against Google, alleging that the company has monopolized digital advertising by means that include anti-competitive agreements with Facebook.
+  url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: quote
+  value: struck a deal executed at the highest levels
+  qualifier: Ultimately
+  span: Ultimately, Google and Facebook struck a deal executed at the highest levels; Google codenamed it “Jedi Blue,” i.e., a combination of their own Star Wars reference and the color of Facebook’s logo.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: quote
+  value: curtailed its involvement with header bidding in return for Google giving Facebook information, speed, and other advantages
+  qualifier: curtailed
+  span: Following the agreement, Facebook curtailed its involvement with header bidding in return for Google giving Facebook information, speed, and other advantages.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: quote
+  value: they want this deal to kill header bidding
+  qualifier: Internal Facebook communications
+  span: 'Internal Facebook communications reveal that Facebook executives fully understood why Google wanted to cut a deal with them: “they want this deal to kill header bidding.”'
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: quote
+  value: agreed up front on quotas for how often Facebook would win publishers’ auctions
+  qualifier: parties
+  span: The parties also agreed up front on quotas for how often Facebook would win publishers’ auctions—literally manipulating the auction with minimum spends and quotas for how often Facebook would bid and win.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: quote
+  value: running to hundreds of millions of dollars a year
+  qualifier: minimum spend requirements
+  span: Google ensured that Facebook would not—and, economically, could not—return to support header bidding by imposing significant minimum spend requirements running to hundreds of millions of dollars a year.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: quote
+  value: is pitcher, batter, and umpire, all at the same time
+  qualifier: Google
+  span: In this electronically traded market, Google is pitcher, batter, and umpire, all at the same time.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: quote
+  value: meritless
+  qualifier: denied wrongdoing
+  span: For its part, Google has denied wrongdoing and called Texas’s claims “meritless.”
+  url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: quote
+  value: strongly defend ourselves from his baseless claims in court
+  qualifier: baseless
+  span: We will strongly defend ourselves from his baseless claims in court.”
+  url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c11
+  type: quote
+  value: the States have plausibly alleged that Google has monopoly power in and willfully engaged in anticompetitive conduct
+  qualifier: court ruled
+  span: The court ruled that “the States have plausibly alleged that Google has monopoly power in and willfully engaged in anticompetitive conduct.”
+  url: https://www.texasattorneygeneral.gov/news/releases/paxton-applauds-courts-decision-green-light-texass-antitrust-suit-against-google
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c12
+  type: date
+  value: June 5, 2023
+  qualifier: JPML remand order
+  span: Thereafter, on June 5, 2023, the JPML ordered remand of this action to the Eastern District of Texas.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c13
+  type: date
+  value: November 2023
+  qualifier: mandamus
+  span: After Google’s mandamus petition was denied, the case arrived back in this Court in November 2023, about twentyseven months after being sent to MDL 3010.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c14
+  type: date
+  value: August 11, 2025
+  qualifier: CANCELLED
+  span: It is further ORDERED that the current trial scheduled for August 11, 2025, is CANCELLED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c15
+  type: quote
+  value: pending the entry of final judgment in the EDVA Action
+  qualifier: STAYED
+  span: It is further ORDERED that all deadlines and hearings in this case are STAYED pending the entry of final judgment in the EDVA Action.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c16
+  type: date
+  value: April 2025
+  qualifier: Brinkema
+  span: In April 2025, Judge Brinkema entered her liability order in the EDVA Action, concluding that Google had violated the Sherman Act
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c17
+  type: date
+  value: July 24, 2026
+  qualifier: Filing
+  span: 'Date of Last Known Filing: July 24, 2026'
+  url: https://www.courtlistener.com/docket/18749317/the-state-of-texas-v-google-llc/
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c18
+  type: figure
+  value: '1'
+  qualifier: Section
+  span: Google’s conduct is a per se violation that restrains trade and harms competition through an unlawful agreement in violation of Section 1 of the Sherman Act, 15 U.S.C. § 1.
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c19
+  type: figure
+  value: '2'
+  qualifier: Section
+  span: Following a bench trial in September 2024, that court issued its memorandum opinion on liability in April 2025, finding that Google had violated Section 2 of the Sherman Act by willfully acquiring and maintaining monopoly power
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c20
+  type: figure
+  value: '3010'
+  qualifier: MDL
+  span: Within three months, however, the United States Judicial Panel on Multidistrict Litigation (“JPML”) ordered that this case be transferred to the United States District Court for the Southern District of New York for coordinated and consolidated pretrial proceedings in MDL 3010.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+event_date_claim: c1
+sources:
+- title: Third Amended Complaint (redacted public version), In re Google Digital Advertising Antitrust Litigation, S.D.N.Y. 1:21-md-03010, Dkt. 176
+  url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
+  outlet: Texas Attorney General (court filing)
+  date: '2021-11-12'
+  tier: 1
+- title: Order, State of Texas v. Google LLC, E.D. Tex. 4:20-cv-957, Dkt. 881
+  url: https://storage.courtlistener.com/recap/gov.uscourts.txed.202878/gov.uscourts.txed.202878.881.0_1.pdf
+  outlet: U.S. District Court, E.D. Tex. (via CourtListener RECAP)
+  date: '2025-07-17'
+  tier: 1
+- title: Docket, State of Texas v. Google LLC, 4:20-cv-957
+  url: https://www.courtlistener.com/docket/18749317/the-state-of-texas-v-google-llc/
+  outlet: CourtListener (RECAP)
+  date: '2026-11-12'
+  tier: 1
+- title: US states are suing Google - here's what you need to know
+  url: https://www.technologyreview.com/2020/12/16/1014886/texas-lawsuit-google-antitrust-facebook/
+  outlet: MIT Technology Review
+  date: '2020-12-16'
+  tier: 1
+- title: Paxton Applauds Court's Decision to Green-Light Texas's Antitrust Suit Against Google
+  url: https://www.texasattorneygeneral.gov/news/releases/paxton-applauds-courts-decision-green-light-texass-antitrust-suit-against-google
+  outlet: Texas Attorney General
+  date: '2022-09-14'
+  tier: 1
 ---
 
-On December 16, 2020, Texas Attorney General Ken Paxton filed an antitrust lawsuit against Google joined by nine other states, exposing secret agreements between Google and Facebook—including the "Jedi Blue" deal—to eliminate competition in digital advertising and maintain Google's ad exchange monopoly. The complaint revealed CEO-level coordination between the two tech giants to suppress emerging competitive threats.
+On December 16, 2020, Texas Attorney General Ken Paxton and nine other states sued Google in federal court in the Eastern District of Texas. The complaint alleges that Google monopolized digital advertising, including through an agreement with Facebook. The Facebook paragraphs below set out the complaint's text, not findings. Google denies wrongdoing, and no court has ruled on the Facebook agreement.
 
-## Header Bidding: The Competitive Threat
+## What the states allege
 
-To understand Jedi Blue's significance, it's crucial to understand header bidding—the technology that threatened Google's ad exchange dominance.
+The original complaint was filed in redacted form, and MIT Technology Review reported that the code name was redacted. The states' redacted third amended complaint, filed in November 2021, names the deal.
 
-### Traditional Model (Google's Monopoly)
-- Publishers used Google's ad server (DFP/Ad Manager)
-- Ad requests went first to Google's ad exchange (AdX)
-- Google saw all competing bids before deciding
-- Google took 30-50% of ad revenues
-- Publishers had no ability to simultaneously query multiple exchanges
+- **The deal.** The states allege Google and Facebook "struck a deal executed at the highest levels", which Google codenamed "Jedi Blue". They allege Facebook "curtailed its involvement with header bidding in return for Google giving Facebook information, speed, and other advantages".
+- **Motive.** The complaint quotes internal Facebook communications: "they want this deal to kill header bidding."
+- **Terms.** The states allege the parties "agreed up front on quotas for how often Facebook would win publishers' auctions", and that Google imposed minimum spend requirements "running to hundreds of millions of dollars a year".
+- **Legal theory.** The complaint pleads the agreement as a per se violation of Section 1 of the Sherman Act and, in the alternative, as one whose anticompetitive effects outweigh any benefit.
+- **Framing.** The complaint says Google "is pitcher, batter, and umpire, all at the same time" in the display-ad exchange market.
 
-### Header Bidding (Competitive Alternative)
-- Publishers could simultaneously query multiple ad exchanges
-- All exchanges submitted bids concurrently
-- Publisher selected highest bidder
-- Increased publisher revenues by 10-40%
-- Reduced Google's monopoly power
+The states are Texas, Arkansas, Idaho, Indiana, Kentucky, Mississippi, Missouri, North Dakota, South Dakota and Utah. All of them are Republican-led, per MIT Technology Review.
 
-By 2017-2018, header bidding was gaining rapid adoption and posed an existential threat to Google's ad exchange monopoly. If publishers could easily access multiple exchanges, Google would have to compete on price and service rather than maintaining monopoly through vertical integration.
+## Google's response
 
-## Facebook's Header Bidding Plans
+Google called the claims "meritless" and said it would "strongly defend ourselves from his baseless claims in court."
 
-Facebook Audience Network (FAN) began developing header bidding capabilities in 2017. As one of the few companies with advertiser demand comparable to Google, Facebook's entry into header bidding could have fundamentally altered ad tech competition:
+## What courts have done
 
-- Facebook had billions of users and massive advertiser demand
-- Facebook header bidding would give publishers real alternative to Google
-- Publishers could play Facebook and Google against each other
-- Google's monopoly pricing power would collapse
+- **Transfer.** In 2021 the Judicial Panel on Multidistrict Litigation sent the case to the Southern District of New York for pretrial proceedings in MDL 3010.
+- **Motion to dismiss.** In September 2022 the S.D.N.Y. court rejected Google's motion to dismiss. The Texas Attorney General quotes the court:  "the States have plausibly alleged that Google has monopoly power in and willfully engaged in anticompetitive conduct." That is a ruling on what is pleaded, not a finding that it happened.
+- **Return to Texas.** The Judicial Panel ordered the case remanded on June 5, 2023, and it returned to Judge Sean Jordan in November 2023 after the Second Circuit denied Google's mandamus petition.
+- **Jury.** In June 2025 Judge Jordan struck the jury demand on the states' federal antitrust claims and on civil penalties, and otherwise denied Google's motion.
+- **Trial cancelled, case stayed.** In July 2025 Judge Jordan cancelled the August 11, 2025 trial and stayed all deadlines "pending the entry of final judgment in the EDVA Action", the Justice Department's separate case against Google in the Eastern District of Virginia. In that case, Judge Brinkema's April 2025 liability opinion held that Google had violated Section 2 of the Sherman Act.
+- **Where it stands.** Google's summary-judgment motions were outstanding when the case was stayed. The last docket entries, through July 24, 2026, are attorney withdrawals, with no new trial date set. CourtListener's copy comes from RECAP and may lag the court's own docket.
 
-Internal Google documents showed the company viewed Facebook header bidding as a "Code Red" threat to its business model.
+## Correction (2026-11-16)
 
-## The Jedi Blue Agreement
+The earlier text of this entry gave the complaint's text as fact. It gave the Facebook deal, its motive and its terms as fact, labelled the deal illegal market allocation, and treated internal documents as proof. No court has ruled on the Facebook agreement. The earlier text also framed the coming trial as a test only of whether courts enforce the law, but the case has not been tried.
 
-In September 2018, Google and Facebook struck a deal code-named "Jedi Blue" (after Star Wars' Force-wielding knights). The agreement's core elements:
+Removed because the sources read do not carry them:
 
-### What Google Offered Facebook
-1. **Preferential auction access**: Facebook Audience Network (FAN) received special advantages in Google's "Open Bidding" system
-2. **Non-public information**: Data and insights unavailable to other advertisers
-3. **Speed advantages**: Faster processing and response times
-4. **Guaranteed win rates**: Assurances that Facebook would win a certain percentage of auctions
-5. **Inside track**: Advance notice of auction changes and preferential treatment
+- The two companies' chief executives personally approving the agreement, and Facebook's chief operating officer negotiating it. The public complaint says only that the deal was struck at the highest levels. The named-executive version came from a news report this check could not open.
+- Internal quotations about whether the deal was kosher, about optics and about a Code Red threat, a Paxton baseball line, and the quoted Google and Facebook denials. None could be matched to a document read.
+- Header-bidding revenue gains and fee percentages, the Open Web deception section, and the claim that the deal was kept secret to avoid scrutiny.
+- A statement that the case was in litigation as of 2024, and a list of the case's downstream effects on EU and congressional action.
 
-### What Facebook Promised Google
-1. **Abandon header bidding**: Facebook would not pursue header bidding development
-2. **Exclusive use of Open Bidding**: Facebook would route publisher inventory through Google's controlled system
-3. **Market division**: Facebook wouldn't compete with Google's ad exchange
-4. **Coordination on "anti-fraud"**: Joint efforts to characterize header bidding as fraudulent
-
-### CEO-Level Coordination
-
-Unredacted court filings revealed that the highest levels of both companies knew about and approved Jedi Blue:
-
-**Mark Zuckerberg**: Signed off on the agreement for Facebook
-**Sundar Pichai**: Approved the deal for Google
-**Sheryl Sandberg**: Facebook COO involved in negotiations
-**Multiple executives**: Both companies' top leadership coordinated on the competitive restraint
-
-This wasn't rogue behavior by mid-level managers—it was deliberate coordination between tech industry's most powerful executives to eliminate competition.
-
-## Legal Significance: Market Allocation
-
-The Texas complaint characterized Jedi Blue as an illegal market allocation agreement violating antitrust law:
-
-### Sherman Act Section 1 Violation
-Agreement between competitors (Google and Facebook both compete for advertiser dollars) to:
-- Divide markets (Google keeps ad exchange monopoly, Facebook gets preferential treatment)
-- Eliminate competition (killing header bidding as competitive threat)
-- Fix terms of trade (guaranteed win rates and preferential access)
-
-Market allocation agreements are per se illegal under antitrust law—meaning they're presumptively unlawful regardless of purported justifications.
-
-### Texas AG Paxton's Statement
-"If the free market were a baseball game, Google positioned itself as the pitcher, the batter and the umpire. Facebook and Google decided to team up to dominate the market. This conduct is per se illegal under federal antitrust law and violates Texas state law."
-
-## How Open Bidding Maintained Google's Monopoly
-
-Google created "Open Bidding" ostensibly as an alternative to header bidding, but it maintained Google's monopoly control:
-
-**Header bidding (competitive)**:
-- Publishers query multiple exchanges simultaneously
-- All exchanges compete on equal terms
-- Publisher sees all bids and chooses winner
-- Google has no special advantage
-
-**Open Bidding (Google-controlled)**:
-- All bids route through Google's infrastructure
-- Google sees bids before publishers
-- Google controls auction mechanics
-- Google can manipulate outcomes (as shown with Project Bernanke)
-- Google still takes monopoly fees
-
-Jedi Blue ensured Facebook would use Open Bidding (giving Google control) rather than header bidding (giving publishers control).
-
-## Evidence from Internal Documents
-
-The Texas lawsuit included stunning internal quotes:
-
-### Google's Awareness of Illegality
-Internal documents showed Google employees used terms suggesting awareness of antitrust issues:
-- Discussions of whether agreement was "kosher"
-- Concerns about "optics" of coordination with Facebook
-- Deliberately obscuring the relationship to avoid antitrust scrutiny
-
-### Google's Strategic Goals
-"The goal is to kill header bidding"—Internal Google communication
-
-Google understood header bidding threatened its monopoly and used the Facebook agreement as part of a broader strategy to eliminate this competitive threat.
-
-### Facebook's Benefits
-In Google's own words, the agreement gave Facebook "information, speed and other advantages in the auction it runs in the US."
-
-Google acknowledged providing preferential treatment that advantaged Facebook over competing advertisers—precisely the kind of discriminatory dealing antitrust law prohibits.
-
-## The "Open Web" Deception
-
-Google marketed Open Bidding as supporting the "open web" and publisher choice. Internal documents revealed this was false:
-
-"The Jedi program generates suboptimal yields for publishers and serious risks of negative media coverage if exposed externally."—Internal Google document
-
-Google knew:
-- Jedi Blue harmed publishers by suppressing header bidding competition
-- The deal would not withstand public scrutiny
-- It needed to be kept secret to avoid antitrust enforcement
-
-The agreement was structured to appear as normal business dealings while actually constituting monopoly coordination.
-
-## Publisher Harm
-
-Header bidding typically increased publisher revenues 10-40% by introducing real competition for advertising inventory. By coordinating with Facebook to kill header bidding, Google and Facebook:
-
-- Kept publisher revenues artificially low
-- Maintained Google's monopoly pricing power
-- Prevented publishers from accessing competitive alternatives
-- Extracted monopoly rents that should have gone to content creators
-
-For struggling news publishers, this coordination directly contributed to journalism's economic crisis—two of the world's most powerful companies conspired to suppress publisher revenues for their own benefit.
-
-## The Broader Conspiracy
-
-Jedi Blue wasn't isolated—the Texas complaint detailed Google's systematic efforts to kill header bidding:
-
-1. **Project Bernanke**: Manipulated auctions to disadvantage competitors
-2. **Jedi Blue**: Paid Facebook to abandon header bidding
-3. **Unified Pricing Rules**: Changed auction mechanics to make header bidding less effective
-4. **False "fraud" claims**: Characterized legitimate header bidding as fraudulent
-5. **Aggressive publisher pressure**: Threatened to cut off access to Google demand for publishers using header bidding
-
-The coordination represented a multi-year, multi-tactic campaign to eliminate competitive threat to Google's monopoly.
-
-## Other States Join
-
-The lawsuit was filed by attorneys general from:
-- Texas (lead)
-- Arkansas
-- Idaho
-- Indiana
-- Kentucky
-- Mississippi
-- Missouri
-- North Dakota
-- South Dakota
-- Utah
-
-All Republican attorneys general, suggesting bipartisan concern (Democratic AGs filed separate Google antitrust suits) about tech platform monopoly abuse.
-
-## Google and Facebook's Defense
-
-Both companies denied wrongdoing:
-
-**Google**: "The Texas complaint is full of inaccuracies. We never manipulate the auction. Open Bidding and header bidding compete today, and advertisers regularly use both."
-
-**Facebook**: "Facebook Audience Network's participation in Open Bidding is similar to the dozens of other companies. The evidence will show that the claims don't reflect how online advertising works or the value we provide."
-
-Both claimed the agreement was ordinary business dealing, not anticompetitive coordination—despite CEO-level involvement and internal documents showing intent to eliminate competition.
-
-## Significance for Monopoly Accountability
-
-Jedi Blue represents one of the clearest modern examples of monopolist coordination:
-
-**Explicit agreement**: Written contract between monopolists
-**CEO involvement**: Highest level of both companies approved
-**Competitive harm**: Directly suppressed emerging competition
-**Market allocation**: Classic illegal division of markets
-**Consumer harm**: Kept prices high and competition low
-
-Unlike many antitrust cases involving complex economic analysis, Jedi Blue is straightforward: two dominant platforms coordinated to eliminate competition. The main legal question isn't whether it happened (internal documents prove it) but whether courts will enforce antitrust law against tech giants as they would against any other industry.
-
-## Connection to Broader Tech Antitrust
-
-Jedi Blue influenced other enforcement:
-
-- Demonstrated willingness of tech monopolists to coordinate rather than compete
-- Showed CEO-level involvement in anticompetitive practices
-- Provided template for investigating platform coordination
-- Strengthened calls for structural separation to prevent conflicts of interest
-
-The case illustrated that absent antitrust enforcement, dominant platforms will coordinate to maintain market power rather than compete—making active antitrust enforcement essential for market functioning.
-
-## Status and Implications
-
-As of 2024, the case remains in litigation with both companies vigorously defending. However, Jedi Blue has already influenced:
-
-- DOJ's 2023 ad tech lawsuit citing similar coordination concerns
-- EU Digital Markets Act prohibiting such self-preferencing
-- Congressional proposals to ban certain platform coordination
-- Recognition that platform gatekeepers will coordinate absent legal constraints
-
-The case represents a pivotal moment in tech antitrust: clear documentary evidence of CEO-level coordination between monopolists to eliminate competition—exactly the conduct antitrust law was designed to prevent.
+Also corrected: the redacted 2020 complaint did not use the code name Jedi Blue. It appears in later filings.
