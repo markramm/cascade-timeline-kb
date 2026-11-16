@@ -144,6 +144,60 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-11-10'
+- type: date
+  value: November 5
+  span: Dhillon formally submitted her resignation on November 5, according to a letter obtained by Fox News Digital.
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: I wasn't asked to resign.
+  span: '"I wasn''t asked to resign," Dhillon told Fox News Digital.'
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-11-15'
+- type: attribution
+  value: three weeks before Election Day
+  span: Dhillon said she informed Wiles three weeks before Election Day that she believed she had "accomplished everything" she came to Washington to do and wanted to return to private practice.
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: accomplished everything
+  span: Dhillon said she informed Wiles three weeks before Election Day that she believed she had "accomplished everything" she came to Washington to do and wanted to return to private practice.
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-15'
+- type: attribution
+  value: Susie asked me to please wait
+  span: '"I resigned three weeks ago, and Susie asked me to please wait until after the midterms."'
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: My decision, my choice.
+  span: '"My decision, my choice," Dhillon said. "It''s time."'
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-11-15'
 sources:
 - title: 'HuffPost: DOJ Civil Rights Head Harmeet Dhillon Plans To Resign'
   url: https://www.huffpost.com/entry/harmeet-dhillon-resigns-doj-civil-rights_n_6aecaef1e4b08d8d4a8e1eec
@@ -154,6 +208,11 @@ sources:
   url: https://storage.courtlistener.com/recap/gov.uscourts.ca1.54522/gov.uscourts.ca1.54522.00108533575.0.pdf
   publisher: U.S. Court of Appeals for the First Circuit (via RECAP)
   date: '2026-11-06'
+  tier: 1
+- title: DOJ civil rights chief Harmeet Dhillon resigns, says White House asked her to wait until after midterms
+  url: https://www.foxnews.com/politics/doj-civil-rights-chief-harmeet-dhillon-resigns-says-white-house-asked-her-wait-until-after-midterms
+  publisher: Fox News
+  date: '2026-11-05'
   tier: 1
 captured_by: capture-watch
 cluster: voter-roll-suits
@@ -201,6 +260,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-05'
+  date_kind: interview and letter date
+  heading: Dhillon gives her own reasons in a Fox News Digital interview
+  claims:
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-civil-rights
 ---
 
 Harmeet Dhillon's departure from the Justice Department's Civil Rights Division was first reported as a plan to step down. HuffPost called the reported departure the first for the Trump administration after the midterms, and said Dhillon reportedly told colleagues she would leave the department after the midterms. 
@@ -215,3 +288,7 @@ Assistant Attorney General Harmeet Dhillon said Thursday that she had resigned, 
 ## Update (2026-11-06, filing date (signature block of a DOJ appellate brief)): Civil Rights Division appellate brief lists Jesus A. Osete as Acting Assistant Attorney General
 
 The [reply brief](https://storage.courtlistener.com/recap/gov.uscourts.ca1.54522/gov.uscourts.ca1.54522.00108533575.0.pdf) the United States filed on 11/06/2026 in No. 26-1783, its First Circuit appeal against the New Hampshire Secretary of State over the state's voter registration list, lists Jesus A. Osete as Acting Assistant Attorney General at the head of its signature block, above the Department of Justice Civil Rights Division Appellate Section.
+
+## Update (2026-11-05, interview and letter date): Dhillon gives her own reasons in a Fox News Digital interview
+
+Dhillon formally submitted her resignation on November 5, according to a letter obtained by Fox News Digital. In an exclusive interview with Fox News Digital she said: "I wasn't asked to resign." Fox reports she told White House chief of staff Susie Wiles three weeks before Election Day that she believed she had "accomplished everything" she came to Washington to do and wanted to return to private practice, and that Wiles asked her to wait. Dhillon said: "My decision, my choice." Everything in this update is Dhillon's account to Fox News Digital, as reported by Fox.
