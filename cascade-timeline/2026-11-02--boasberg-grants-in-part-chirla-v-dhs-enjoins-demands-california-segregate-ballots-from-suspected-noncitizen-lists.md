@@ -49,6 +49,9 @@ tags:
 - trujillo-v-dhs
 related:
 - 2026-10-21--boasberg-takes-trujillo-v-dhs-sets-oct-30-tro-hearing-government-opposition-filed-oct-26
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
+    title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
 ---
 
 In Coalition for Humane Immigrant Rights v. DHS, Chief Judge Boasberg's order is "GRANTED IN PART and DENIED IN PART": "Defendants and their agents are preliminarily ENJOINED from issuing demands to" California elections officials to compel the segregation of ballots over voters' inclusion on the lists of suspected non-citizens. This went against the government.

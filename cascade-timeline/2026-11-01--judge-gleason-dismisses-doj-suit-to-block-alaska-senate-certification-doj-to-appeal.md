@@ -89,6 +89,9 @@ sources:
   publisher: NPR
   date: '2026-11-01'
   tier: 2
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
+    title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
 ---
 
 NPR reported on November 1, 2026 that U.S. District Judge Sharon Gleason found the federal government does not have the ability to bring the Justice Department's lawsuit, which cited the preamble of the National Voter Registration Act. Gleason also concluded that the court order DOJ sought would likely violate Alaskan voters' right to a secret ballot, writing: "The absence of any explanation from the United States as to how its requested relief could redress its alleged injury while simultaneously maintaining the secrecy of the ballot is telling." The Justice Department is planning to appeal, a spokesperson told NPR.

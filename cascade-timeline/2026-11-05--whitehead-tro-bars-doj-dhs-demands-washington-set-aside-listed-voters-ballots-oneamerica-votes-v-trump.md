@@ -242,6 +242,9 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
+    title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
 ---
 
 U.S. District Judge Jamal N. Whitehead granted in part the plaintiffs' TRO motion in OneAmerica Votes v. Trump (2:26-cv-04223) on 11/05/26. Defendants DOJ, Attorney General Todd Blanche, DHS, Secretary of Homeland Security Markwayne Mullin and the federal prosecutors who had sent Secretary of State Steve Hobbs a list of roughly 400 registered voters are RESTRAINED from directing or demanding that any Washington state, county, or local election official remove specific registered voters from their registration lists, refuse them ballots, or set aside or not count their ballots, and from threatening officials who refuse.

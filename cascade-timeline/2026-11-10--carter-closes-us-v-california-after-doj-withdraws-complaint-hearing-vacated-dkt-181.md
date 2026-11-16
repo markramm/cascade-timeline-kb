@@ -67,7 +67,9 @@ related_events:
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
 - 2026-11-02--doj-asks-supreme-court-make-california-set-aside-20000-flagged-mail-ballots-sauer-application
 - 2026-11-02--supreme-court-denies-doj-application-for-injunction-pending-appeal-united-states-v-california
-coverage: []
+coverage:
+  - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
+    title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
 summary: Judge Carter closed United States v. California after DOJ withdrew its complaint, and vacated the Nov. 13 hearing on the government's list.
 ---
 
