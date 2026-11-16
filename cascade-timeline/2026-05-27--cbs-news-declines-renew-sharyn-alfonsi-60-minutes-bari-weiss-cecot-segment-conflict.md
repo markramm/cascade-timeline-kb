@@ -35,10 +35,6 @@ sources:
   url: https://www.huffpost.com/entry/cbs-correspondent-sharyn-alfonsi-bari-weiss-wont-have-contract-renewed_n_6a171643e4b0457678e5f8df
   outlet: HuffPost
   tier: 2
-- title: "CBS News Fires Sharyn Alfonsi Amid '60 Minutes' Overhaul"
-  url: https://www.hollywoodreporter.com/tv/tv-news/60-minutes-correspondent-sharyn-alfonsi-exit-cbs-news-1236457180/
-  outlet: Hollywood Reporter
-  tier: 1
 - title: "'60 Minutes' journalist's contract not renewed after public dispute with Bari Weiss"
   url: https://www.npr.org/2026/05/28/nx-s1-5836699/60-minutes-journalists-contract-not-renewed-after-public-dispute-with-bari-weiss
   outlet: NPR
@@ -57,7 +53,7 @@ capture_lanes:
 - Democratic Erosion
 ---
 
-CBS News declines to renew the contract of veteran 60 Minutes correspondent Sharyn Alfonsi, ending her nearly 20-year tenure at the network after she publicly condemned editor-in-chief Bari Weiss's December 2025 pre-emption of her CECOT prison segment as political censorship. Alfonsi's contract lapses over the Memorial Day weekend (May 24–26, 2026); CBS News simultaneously announces that executive producer Tanya Simon and correspondent Cecilia Vega have also been terminated as part of a 60 Minutes overhaul, with journalist Nick Bilton installed as the new executive producer.
+CBS News declines to renew the contract of veteran 60 Minutes correspondent Sharyn Alfonsi, ending her nearly 20-year tenure at the network after she publicly condemned editor-in-chief Bari Weiss's December 2025 pre-emption of her CECOT prison segment as political censorship. Alfonsi's contract lapsed over the weekend before she went public on May 27, 2026; she stayed employed until Thursday, May 28, when CBS News fired her, executive producer Tanya Simon and correspondent Cecilia Vega, with journalist Nick Bilton named the new executive producer (see [[2026-05-28--60-minutes-black-thursday-weiss-fires-alfonsi-vega-simon-then-pelley-confrontation-and-rather-letter]]).
 
 **The CECOT conflict (December 2025 predicate):** Alfonsi's segment — featuring Venezuelan deportees describing beatings, sexual assault, and torture at El Salvador's CECOT detention facility — was pulled by Weiss approximately three hours before its scheduled broadcast on December 21, 2025, despite having cleared CBS legal and Standards and Practices review five times. In an internal email that leaked and became public, Alfonsi wrote: "Our story was screened five times and cleared by both CBS attorneys and Standards and Practices. It is factually correct. In my view, pulling it now, after every rigorous internal check has been met, is not an editorial decision, it is a political one." Weiss had demanded additional Trump administration commentary, including a Stephen Miller interview, as a precondition for broadcast — framing administration access as editorial standard.
 
@@ -65,8 +61,12 @@ CBS News declines to renew the contract of veteran 60 Minutes correspondent Shar
 
 **Simultaneous open-letter mobilization:** Also on May 27, 2026, the Freedom of the Press Foundation publishes a letter signed by over 200 journalists, academics, and filmmakers — including former CNN anchor Jim Acosta and Oscar-winning filmmaker Laura Poitras — warning that Paramount Skydance's pending $110 billion acquisition of Warner Bros. Discovery (and with it CNN) will extend the CBS editorial-capture pattern to CNN. The letter states that David Ellison "already made such sweeping changes to appease Trump" at CBS News, citing Bari Weiss's installation as evidence, and warns the merger represents a "political arrangement to circumvent constitutional safeguards."
 
-**Pattern context:** The Alfonsi non-renewal is the third documented data point in the CBS/Paramount Skydance editorial-capture sequence: (1) Weiss installed as editor-in-chief on October 6, 2025, via Paramount's $150 million acquisition of The Free Press; (2) CECOT segment pre-empted December 21, 2025; (3) Alfonsi contract non-renewed May 27, 2026, after six months of silence from management following her internal dissent. The mechanism is distinct from straightforward journalist-firing: contract-non-renewal after a defined dispute period creates deniability ("we simply didn't renew") while functionally punishing the dissenting correspondent. Weiss simultaneously overhauls the 60 Minutes production leadership, installing Bilton and removing Simon.
+**Pattern context:** The Alfonsi non-renewal is the third documented data point in the CBS/Paramount Skydance editorial-capture sequence: (1) Weiss installed as editor-in-chief on October 6, 2025, via Paramount's $150 million acquisition of The Free Press; (2) CECOT segment pre-empted December 21, 2025; (3) Alfonsi contract non-renewed May 27, 2026, after six months of silence from management following her internal dissent. The mechanism is distinct from straightforward journalist-firing: contract-non-renewal after a defined dispute period creates deniability ("we simply didn't renew") while functionally punishing the dissenting correspondent. The 60 Minutes production leadership was overhauled the next day, May 28, with Bilton installed and Simon removed.
 
 **Congressional context:** House Judiciary Ranking Member Jamie Raskin and House Energy and Commerce Ranking Member Frank Pallone have an open investigation into the Paramount-Skydance FCC approval process and have expanded the investigation to the Warner Bros. Discovery acquisition; they have accused Paramount of stonewalling document requests. The Alfonsi non-renewal occurs within this investigative window.
 
 **Cross-reference:** [[2025-12-21--cbs-bari-weiss-pulls-60-minutes-cecot-deportee-abuse-segment]] (predicate event); [[paramount-skydance-cbs-editorial-leadership]] (organization profile); [[operationalization-layer-of-captured-x-personnel-ownership-vehicles-as-substrate-specific-mechanism]] (meta-theme, media-capture register)
+
+## Correction
+
+Corrected 2026-11-16: Simon and Vega were fired on Thursday, May 28, the day after Alfonsi went public, not on May 27. Alfonsi's contract lapsed on a Saturday, not May 24-26 as first written; she was fired on May 28. The Hollywood Reporter link was removed: it could not be read (payment wall) and its slug did not match the date.
