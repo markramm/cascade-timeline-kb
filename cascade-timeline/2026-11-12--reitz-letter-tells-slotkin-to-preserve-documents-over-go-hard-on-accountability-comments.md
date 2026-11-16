@@ -2,13 +2,13 @@
 type: timeline_event
 id: 2026-11-12--reitz-letter-tells-slotkin-to-preserve-documents-over-go-hard-on-accountability-comments
 date: '2026-11-12'
-title: U.S. Attorney Reitz Posts Preservation Letter to Sen. Slotkin Over Her Oversight Comments, Calling Them Potentially Illegal
+title: 'U.S. Attorney Reitz Posts Preservation Letter to Sen. Slotkin Over Her Oversight Remarks, With a November 19 Deadline'
 importance: 7
 status: confirmed
 event_date_claim: c1
 date_kind: post date
 captured_by: agent:claude-sonnet-5-5-capture-reitz
-verification: source-verified
+verification: captured
 claims:
 - id: c1
   type: date
@@ -38,36 +38,6 @@ claims:
   url: https://api.fxtwitter.com/USAttyReitz/status/2121028432008233378
   read: fetched
   source_kind: primary
-  outcome: verified
-  checked: '2026-11-16'
-- id: c4
-  type: quote
-  value: go hard on accountability
-  qualifier: preserve documents
-  span: warning Sen. Elissa Slotkin (D-Mich.) to preserve documents related to her public comments promising to “go hard on accountability.”
-  url: https://www.democracydocket.com/news-alerts/u-s-attorneys-legal-threats-against-democrats-are-meritless-attempts-to-chill-free-speech-experts-say/
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-16'
-- id: c5
-  type: quote
-  value: seem to have no legitimate legislative purpose and may therefore be unlawful
-  qualifier: oversight
-  span: In other words, your ‘oversight’ plans seem to have no legitimate legislative purpose and may therefore be unlawful.
-  url: https://www.democracydocket.com/news-alerts/u-s-attorneys-legal-threats-against-democrats-are-meritless-attempts-to-chill-free-speech-experts-say/
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-16'
-- id: c6
-  type: attribution
-  value: two statutes
-  qualifier: color of law
-  span: In the letters, Reitz cites two statutes that criminalize attempts to deprive an individual of their constitutional rights through conspiracy or governmental action under the “color of law.”
-  url: https://www.democracydocket.com/news-alerts/u-s-attorneys-legal-threats-against-democrats-are-meritless-attempts-to-chill-free-speech-experts-say/
-  read: fetched
-  source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
 - id: c7
@@ -100,6 +70,66 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+- id: c11
+  type: quote
+  value: You need to pick those signature cases and go hard on accountability, not just Trump.
+  qualifier: signature cases
+  span: You need to pick those signature cases and go hard on accountability, not just Trump.
+  url: https://pbs.twimg.com/media/HW9oHSpWsAA0uoU.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c12
+  type: quote
+  value: your “oversight” plans seem to have no legitimate legislative purpose and may therefore be unlawful
+  qualifier: oversight plans
+  span: In other words, your “oversight” plans seem to have no legitimate legislative purpose and may therefore be unlawful.
+  url: https://pbs.twimg.com/media/HW9oHUbWwAEe4DP.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c13
+  type: date
+  value: 6:00 p.m. Eastern Time on November 19, 2026
+  qualifier: confirm in writing
+  span: Please confirm in writing by 6:00 p.m. Eastern Time on November 19, 2026, that you have received this letter and have taken steps to preserve the materials described above.
+  url: https://pbs.twimg.com/media/HW9oHUbWwAEe4DP.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c14
+  type: quote
+  value: 18 U.S.C. §§ 241 and 242
+  qualifier: formal notice
+  span: I am writing to give you formal notice of your obligation to preserve all documents, communications, and other electronically stored information relevant to your intent to weaponize congressional investigations and deprive citizens of their core constitutional rights in violation of 18 U.S.C. §§ 241 and 242.
+  url: https://pbs.twimg.com/media/HW9oHUbWwAEe4DP.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c15
+  type: quote
+  value: soon-to-be-realized fantasies about weaponizing congressional investigations
+  qualifier: fantasies
+  span: Your comments reflect soon-to-be-realized fantasies about weaponizing congressional investigations for the purpose of personal aggrandizement and punishment of people close to the President.
+  url: https://pbs.twimg.com/media/HW9oHUbWwAEe4DP.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
+- id: c16
+  type: date
+  value: Oct. 19, 2026
+  qualifier: CNN
+  span: 'CNN: Slotkin goes after Trump Administration corruption and responds to MAGA attacks, CNN (Oct. 19, 2026), available at https://transcripts.cnn.com/show/cg/date/2026-10-19/segment/01? (transcript).'
+  url: https://pbs.twimg.com/media/HW9oHSpWsAA0uoU.jpg?name=orig
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-16'
 tags:
 - doj
 - congressional-oversight
@@ -112,6 +142,11 @@ actors:
 - Elissa Slotkin
 - U.S. Attorney's Office, Southern District of Texas
 sources:
+- title: 'Slotkin letter, two pages, read from the images attached to the X post (page 1 and page 2)'
+  url: https://api.fxtwitter.com/USAttyReitz/status/2121028432008233378
+  publisher: X (official account of the U.S. Attorney, Southern District of Texas)
+  date: '2026-11-12'
+  tier: 1
 - title: 'Post by U.S. Attorney Aaron Reitz (@USAttyReitz) on X, status 2121028432008233378 (read via api.fxtwitter.com)'
   url: https://api.fxtwitter.com/USAttyReitz/status/2121028432008233378
   publisher: X (official account of the U.S. Attorney, Southern District of Texas)
@@ -130,8 +165,8 @@ related:
 - 2026-10-19--us-attorney-reitz-posts-video-on-first-day-of-texas-early-voting-warning-he-will-hunt-down-and-prosecute-federal-election-law-violators
 ---
 
-Aaron Reitz, U.S. attorney for the Southern District of Texas, posted on X on Thursday, Nov. 12, that Sen. Elissa Slotkin, D-Mich., "fantasized about weaponizing Congress to push her 'deterrence message'," adding that it sounds "potentially illegal to me." Democracy Docket reports the accompanying letter warned Slotkin to preserve documents related to her public comments promising to "go hard on accountability." In the letter, as Democracy Docket quotes it, Reitz wrote that her "oversight" plans "seem to have no legitimate legislative purpose and may therefore be unlawful." Democracy Docket says the letters cite two statutes, which it describes as covering conspiracy and governmental action under color of law to deprive someone of constitutional rights. Slotkin's office told Democracy Docket the letter went online before she received it. Democracy Docket reports that legal experts say Reitz's letters make specious legal arguments.
+Aaron Reitz, the United States attorney for the Southern District of Texas, posted on X on Thursday, Nov. 12, that Sen. Elissa Slotkin, D-Mich., "fantasized about weaponizing Congress to push her 'deterrence message'," adding that it sounds "potentially illegal to me." The letter attached to the post, read from its page images, is dated Nov. 12. It block-quotes Slotkin's remarks on CNN's "The Lead" (the letter's footnote dates the segment Oct. 19, 2026): "You need to pick those signature cases and go hard on accountability, not just Trump." The letter says her comments reflect "soon-to-be-realized fantasies about weaponizing congressional investigations" and that her "oversight" plans "seem to have no legitimate legislative purpose and may therefore be unlawful." It gives notice of an obligation to preserve documents relevant to her alleged intent to weaponize congressional investigations in violation of 18 U.S.C. §§ 241 and 242, and asks her to confirm in writing by 6:00 p.m. Eastern Time on Nov. 19, 2026 that she received the letter and has taken steps to preserve the materials. Slotkin's office told Democracy Docket the letter went online before she received it. Democracy Docket reports that legal experts say Reitz's letters make specious legal arguments.
 
-Slotkin's comments that drew the letter, and Attorney General Blanche's statement the same week that they were not a crime, are in [[2026-11-12--blanche-says-no-criminal-investigation-of-slotkin-remarks-not-a-crime-a-week-after-trump-order]]. Reitz's letter to Sen. Blumenthal is [[2026-11-11--reitz-letter-tells-blumenthal-to-preserve-documents-citing-18-usc-241-242-over-ballroom-donor-inquiry]] and to Sen. Warren [[2026-11-15--reitz-letter-accuses-warren-of-wielding-gavel-like-tomahawk-demands-preservation-by-nov-23]]. The letter itself (an image attached to the X post) was not read here; the letter's wording is as quoted by Democracy Docket.
+Slotkin's comments that drew the letter, and Attorney General Blanche's statement the same week that they were not a crime, are in [[2026-11-12--blanche-says-no-criminal-investigation-of-slotkin-remarks-not-a-crime-a-week-after-trump-order]]. Reitz's letter to Sen. Blumenthal is [[2026-11-11--reitz-letter-tells-blumenthal-to-preserve-documents-citing-18-usc-241-242-over-ballroom-donor-inquiry]] and to Sen. Warren [[2026-11-15--reitz-letter-accuses-warren-of-wielding-gavel-like-tomahawk-demands-preservation-by-nov-23]]. The letter text is as transcribed from the X images, which are screenshots, not a DOJ-hosted original.
 
 Related: [[2026-11-07--trump-orders-doj-to-investigate-democrats-who-pledged-oversight-blanche-wont-rule-out-prosecuting-lawmakers]]; [[2026-10-19--us-attorney-reitz-posts-video-on-first-day-of-texas-early-voting-warning-he-will-hunt-down-and-prosecute-federal-election-law-violators]].
