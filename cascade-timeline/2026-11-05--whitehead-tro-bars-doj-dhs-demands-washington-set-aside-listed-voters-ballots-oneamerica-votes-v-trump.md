@@ -200,6 +200,51 @@ claims:
   id: u7
   outcome: verified
   checked: '2026-11-13'
+- type: date
+  value: 11/14/26
+  span: Case 2:26-cv-04223-JNW Document 24 Filed 11/14/26 Page 1 of 6
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-16'
+- type: posture
+  value: withdraw the portion of their Motion
+  span: Commercial Workers International Union respectfully withdraw the portion of their Motion
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-16'
+- type: attribution
+  value: Defendants represent to the Court
+  span: Defendants represent to the Court that, based on the Court’s
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: December 3, 2026
+  span: that conduct before Washington certifies the election results on December 3, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-16'
+- type: posture
+  value: without prejudice
+  span: as noted on November 18, 2026. This withdrawal is without prejudice and is conditioned on
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-16'
 sources:
 - title: Order Granting Temporary Restraining Order in Part, OneAmerica Votes v. Trump, W.D. Wash. 2:26-cv-04223 ECF 21
   url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.21.0.pdf
@@ -215,6 +260,11 @@ sources:
   url: https://www.courtlistener.com/docket/75053712/oneamerica-votes-v-trump/?order_by=desc
   publisher: CourtListener RECAP
   date: '2026-11-12'
+  tier: 1
+- title: Plaintiffs' Notice to Withdraw Pending Motion for Preliminary Injunction (Dkt. 24)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.wawd.371038/gov.uscourts.wawd.371038.24.0.pdf
+  publisher: W.D. Wash. via CourtListener RECAP
+  date: '2026-11-14'
   tier: 1
 tags:
 - election
@@ -242,6 +292,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: voter-roll-suits
+- date: '2026-11-14'
+  date_kind: filing date
+  heading: Plaintiffs withdraw their preliminary-injunction motion, without prejudice
+  claims:
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u8
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: voter-roll-suits
 coverage:
   - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
     title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
@@ -254,3 +317,7 @@ The court found plaintiffs likely to succeed on their claim that defendants exce
 ## Update (2026-11-12, filing date): DOJ opposes a preliminary injunction, saying the matter has ended
 
 In a response entered on the docket 11/12/2026, the defendants opposed the plaintiffs' motion for a preliminary injunction (W.D. Wash. 2:26-cv-04223). They point to Secretary Hobbs' refusals to act on Defendants’ list and to the injunction entered on November 2 in League of Women Voters v. DHS, which they say bars them from sending such lists to election officials, and conclude: "Thus, the matter has ended." They write: "On this record, Plaintiffs lack standing because there is no injury in fact." In the alternative, they argue that "Any TRO Should be Limited, Accompanied by Security, and be Stayed".
+
+## Update (2026-11-14, filing date): Plaintiffs withdraw their preliminary-injunction motion, without prejudice
+
+In a notice filed 11/14/26, the plaintiffs withdrew the portion of their motion that seeks a preliminary injunction. The notice says Defendants represent to the Court that they will not resume the restrained conduct before Washington certifies the election results on December 3, 2026, and states that the withdrawal is without prejudice.
