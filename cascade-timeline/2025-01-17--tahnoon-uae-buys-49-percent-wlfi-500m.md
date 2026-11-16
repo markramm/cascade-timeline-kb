@@ -1,6 +1,7 @@
 ---
 type: timeline_event
 id: 2025-01-17--tahnoon-uae-buys-49-percent-wlfi-500m
+previous_ids: [2025-01-17--tahnoon-axis-wlfi-500m-phase-4-anchor]
 date: '2025-01-17'
 title: "Tahnoon bin Zayed (UAE National Security Advisor) Lieutenants Buy 49% of Trump-Family World Liberty Financial for $500M — Days Before Inauguration; $187M to Trump Family, $31M to Witkoff Family"
 importance: 10
@@ -120,9 +121,9 @@ capture_lanes:
 - Pre-Inauguration Payment Architecture
 ---
 
-Days before Donald Trump's January 20, 2025 inauguration, entities controlled by **Sheikh Tahnoon bin Zayed Al Nahyan** — the United Arab Emirates' **National Security Advisor, manager of the UAE's largest sovereign wealth fund, and chairman of G42 (the Emirati AI firm)** — agreed to purchase **49% of World Liberty Financial (WLFI)** for **$500 million**. The payment was made up front. Of that total, **$187 million went to Trump family entities** and **at least $31 million went to Witkoff family entities**. The transaction became public only on February 1, 2026, approximately one year after it was executed, via reporting from the Wall Street Journal followed by CNN, CNBC, Washington Post, Fortune, and other outlets.
+Days before Donald Trump's January 20, 2025 inauguration, entities controlled by **Sheikh Tahnoon bin Zayed Al Nahyan** — the United Arab Emirates' **National Security Advisor, manager of the UAE's largest sovereign wealth fund, and chairman of G42 (the Emirati AI firm)** — agreed to purchase **49% of World Liberty Financial (WLFI)** for **$500 million**. Half of it, $250 million, was paid at signing; the other $250 million was due by July 15, 2025. Of the first $250 million, **$187 million went to Trump family entities** and **at least $31 million went to Witkoff family entities**. The transaction became public only on February 1, 2026, approximately one year after it was executed, via reporting from the Wall Street Journal followed by CNN, CNBC, Washington Post, Fortune, and other outlets.
 
-**Months after the $500M stake was paid, the U.S. agreed to give the UAE access to 500,000 of America's most advanced AI chips per year.** The agreement called for **one-fifth of those chips to go to Tahnoon's own AI company, G42**.
+**Months after the $250M first payment, the U.S. agreed to give the UAE access to 500,000 of America's most advanced AI chips per year.** The agreement called for **one-fifth of those chips to go to Tahnoon's own AI company, G42**.
 
 ## Transaction Structure
 
@@ -151,7 +152,7 @@ Days before Donald Trump's January 20, 2025 inauguration, entities controlled by
 - **Martin Edelman** — General Counsel / Chief Legal Officer of G42 and a key advisor to Tahnoon; appointed to WLFI's board of directors via the Aryam transaction
 - **Fiacc Larkin** — Head of Crypto & Blockchain at G42; joined WLFI in January 2025 as **Chief Strategy Advisor** — providing operational integration between G42 and WLFI beyond the board-level stake
 
-The **MGX connection** operates in parallel rather than through Aryam directly: Tahnoon chairs **MGX** (Abu Dhabi's flagship AI-and-technology investment firm, registered in the Abu Dhabi Global Market with MGX Fund Management Limited as its FSRA-regulated arm), which in March 2025 invested $2 billion in Binance using WLFI's USD1 stablecoin as the settlement rail. MGX is publicly registered at ADGM; Aryam Investment 1 is not registered with the ADGM or UAE Securities and Commodities Authority. The shell-vehicle (Aryam) and the state-affiliated fund (MGX) are structurally distinct but operate under the same ultimate principal.
+The **MGX connection** operates in parallel rather than through Aryam directly: Tahnoon chairs **MGX** (Abu Dhabi's flagship AI-and-technology investment firm, registered in the Abu Dhabi Global Market with MGX Fund Management Limited as its FSRA-regulated arm), which invested $2 billion in Binance, paid in WLFI's USD1 stablecoin ([[2025-05-01--abu-dhabi-mgx-2billion-binance-investment-paid-in-wlfi-usd1]]). That money went to Binance, not to World Liberty. MGX is publicly registered at ADGM; Aryam Investment 1 is not registered with the ADGM or UAE Securities and Commodities Authority. The shell-vehicle (Aryam) and the state-affiliated fund (MGX) are structurally distinct but operate under the same ultimate principal.
 
 **Relationship to ADIA/Mubadala**: Tahnoon chairs the Abu Dhabi Investment Authority (ADIA) — the UAE's $1T+ sovereign wealth fund — and MGX is formally a joint venture of Mubadala Investment Company and G42. There is no public documentation that ADIA or Mubadala capital funded the Aryam $500M; the WSJ reporting treats Aryam as a Tahnoon-personal-vehicle structure rather than a sovereign-fund deployment. The distinction is legally important (sovereign-fund capital would trigger CFIUS review; personal-royal capital did not) but economically thin (Tahnoon's personal and institutional balance sheets are not cleanly separated in UAE governance architecture).
 
@@ -186,7 +187,7 @@ The Trump family titles:
 
 ## The USD1 Stablecoin
 
-WLFI launched the **USD1 stablecoin** in March 2025 — two months after Tahnoon's $500M stake purchase. USD1 is pegged to the U.S. dollar and backed by short-term U.S. government treasuries, dollar deposits, and cash equivalents. The launch created a Trump-family-branded stablecoin in the same market segment as Tether, Circle (USDC), and Paxos — but with the structural feature that its governance, minting authority, and reserve arrangements are controlled by the Trump family and its now-49%-UAE-state-affiliated partners.
+WLFI launched the **USD1 stablecoin** in March 2025 — two months after the Aryam signing. USD1 is pegged to the U.S. dollar and backed by short-term U.S. government treasuries, dollar deposits, and cash equivalents. The launch created a Trump-family-branded stablecoin in the same market segment as Tether, Circle (USDC), and Paxos — but with the structural feature that its governance, minting authority, and reserve arrangements are controlled by the Trump family and its now-49%-UAE-state-affiliated partners.
 
 ## The 500,000 AI Chip Agreement
 
@@ -271,3 +272,10 @@ See [[trump-2-personnel-pipelines]] for the Pipeline 2 context — Witkoff and t
 - [[kushner-jared]]
 - [[trump-2-personnel-pipelines]] — the Pipeline 2 context
 - [[investigation-map-april-2026]] — Investigation 4 intersection
+
+## Correction (2026-11-16)
+
+This entry said the payment was made up front, which contradicted its own transaction structure. The buyer paid half at signing: $250 million, with $250 million due by July 15, 2025. It also placed the MGX investment in Binance in March 2025 and left open whether it went to World Liberty. It was announced in the spring of 2025, went into Binance, and was paid in USD1.
+
+This entry also absorbs a second entry on the same event, "Tahnoon-Lieutenant UAE Vehicle Acquires 49% of World Liberty Financial for $500M Three Days Before Inauguration — Phase 4 Anchor", whose old id redirects here. That entry named MGX as the buyer and showed $500 million paid at once. The buyer is Aryam Investment 1, a company that Tahnoon backs. MGX is a separate Tahnoon-led firm. The Phase 4 entry's account of CFIUS and SEC treatment, which no cited source carried, is not carried over.
+
