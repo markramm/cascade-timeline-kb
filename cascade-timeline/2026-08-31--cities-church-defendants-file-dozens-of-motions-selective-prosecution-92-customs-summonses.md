@@ -66,7 +66,7 @@ disclosed HSI files showed an undercover officer surveilling inside **University
 ([[2026-08-20--synod-plaintiffs-file-non-compliance-motion-whipple-shield-roi-university-baptist]]).
 The asymmetry named here is the whole structure in one sentence: protesting inside a church is
 charged as a federal civil-rights conspiracy; the government's own agents operating inside churches
-under an injunction barring them ([[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]])
+under an injunction the plaintiffs say bars them ([[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist]])
 draws no charge at all.
 
 ## The 92 customs summonses

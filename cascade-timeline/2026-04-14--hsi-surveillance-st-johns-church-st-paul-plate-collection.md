@@ -35,7 +35,7 @@ sources:
     date: '2026-08-13'
     tier: 1
   - title: "DHS Surveilled at Least Five Midwest Churches While Under a Federal Injunction Barring It"
-    url: "cascade-kb/cascade-timeline/2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist.md"
+    url: "cascade-kb/cascade-timeline/2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist.md"
     publisher: "cascade-timeline (MPR News / Religion News Service / Word&Way, tier 1-2)"
     date: '2026-08-15'
     tier: 1
@@ -48,7 +48,7 @@ coverage: []
 
 On April 14, 2026, at approximately 1715 hours, a Homeland Security Investigations Special Operations Group — SOG 2207 — set up perimeter surveillance around "St. John's Church" in St. Paul, Minnesota, ahead of a Direct Action Minnesota (DAMN) group meeting scheduled inside from 1800 to 1930 hours. An undercover agent (UC) attended the meeting itself; the SOG's job was the perimeter — watching who came and went, and running the license plates of the cars they arrived in.
 
-**This is the church separate five-church reporting has identified as St. John the Evangelist Episcopal Church, St. Paul** — see [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]]. The ROI itself gives only "St. John's Church" with the street address redacted; the fuller identification comes from Religion News Service's and MPR's court-records review of the same discovery set.
+**This is the church separate five-church reporting has identified as St. John the Evangelist Episcopal Church, St. Paul** — see [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist]]. The ROI itself gives only "St. John's Church" with the street address redacted; the fuller identification comes from Religion News Service's and MPR's court-records review of the same discovery set.
 
 The Report of Investigation is unredacted on its accountability block:
 
@@ -89,7 +89,7 @@ The ROI names no attendee, records no in-meeting content, and offers no evidence
 ## Cross-References
 
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
-- [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]]
+- [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist]]
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]

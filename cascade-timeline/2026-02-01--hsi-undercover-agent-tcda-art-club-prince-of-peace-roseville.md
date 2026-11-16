@@ -20,7 +20,7 @@ sources:
   publisher: "US District Court, District of Minnesota — Case 0:26-cr-00115-KMM-DTS, Doc. 212-21, filed 08/13/26"
   tier: 1
 - title: "DHS Surveilled at Least Five Midwest Churches While Under a Federal Injunction Barring It"
-  url: "cascade-kb/cascade-timeline/2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist.md"
+  url: "cascade-kb/cascade-timeline/2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist.md"
   date: '2026-08-15'
   publisher: "cascade-timeline (MPR News / Religion News Service / Word&Way, tier 1-2)"
   tier: 1
@@ -121,14 +121,14 @@ No attendee other than Cameron Kennedy is identified, and none is independently 
 
 - The February 1 event date versus the February 11, 2026 case-opening date for MS02PR26MS0004 — sequencing not resolved in this entry; may indicate this ROI was folded in from an earlier or parallel investigative file.
 - The identities behind the redacted attendee descriptions, including the couple UCA 9843 believed had arranged the church booking.
-- Whether Prince of Peace Lutheran Church's clergy have spoken publicly about this specific meeting, beyond Rev. Steve Sylvester's general statement in the five-church reporting (see [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]]).
+- Whether Prince of Peace Lutheran Church's clergy have spoken publicly about this specific meeting, beyond Rev. Steve Sylvester's general statement in the five-church reporting (see [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist]]).
 - Full contents of the photo array and which redacted individuals UCA 9843 identified from it.
 
 ## Cross-References
 
 - [[2026-04-14--hsi-surveillance-st-johns-church-st-paul-plate-collection]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
-- [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-violation-university-baptist]]
+- [[2026-08-15--dhs-surveilled-five-midwest-churches-saylor-injunction-alleged-violation-university-baptist]]
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
