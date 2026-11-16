@@ -117,6 +117,7 @@ claims:
   outcome: verified
   checked: '2026-11-15'
 event_date_claim: c7
+previous_ids: ['2025-12-24--ice-enters-minneapolis-hospital-without-warrant', '2025-12-28--ice-enters-minneapolis-hospital-without-warrant']
 ---
 
 ICE agents entered Hennepin County Medical Center's emergency department without a judicial warrant over the holiday, remaining at a patient's bedside for more than 24 hours, according to a spokesperson for Unidos MN, and handcuffing the patient to the hospital bed. Agents gained access to staff-only areas including break rooms and parking lots before hospital security confronted them and confirmed no judicial warrant existed, at which point they were told to leave and complied.

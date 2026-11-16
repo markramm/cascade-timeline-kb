@@ -17,6 +17,7 @@ actors:
 - Judge Patrick J. Schiltz
 - Judge John R. Tunheim
 - Stanley E. Woodward, Jr.
+claims:
 - id: c1
   type: date
   value: October 20, 2026

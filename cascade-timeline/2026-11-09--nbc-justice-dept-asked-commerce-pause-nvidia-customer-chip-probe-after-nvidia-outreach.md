@@ -47,6 +47,7 @@ sources:
   date: '2026-11-09'
   tier: 2
 summary: NBC News reported, citing one unnamed person, that the Justice Department asked Commerce to pause its part of a probe of a Nvidia cloud customer after a Nvidia representative contacted Commerce investigators.
+previous_ids: ['2026-11-09--nbc-justice-dept-asked-commerce-pause-megaspeed-chip-probe-after-nvidia-outreach']
 ---
 
 NBC News reported on November 9 that the Justice Department "asked the Commerce Department to pause its part of an investigation" into whether one of Nvidia’s cloud-computing customers smuggled AI chips into China, after an Nvidia representative reached out to Commerce investigators during the inquiry, according to a person familiar with the matter ([NBC News](https://www.nbcnews.com/tech/tech-news/nvidia-investigation-justice-fbi-commerce-jensen-huang-alice-china-rcna608397)). The subhead and photo caption name the customer as Megaspeed, a Singapore company, and say Commerce pulled back from the inquiry after the outreach.
