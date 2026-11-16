@@ -3,7 +3,7 @@ type: timeline_event
 id: 2003-11-25--bush-administration-hides-39b-medicare-part-d-cost
 date: 2003-11-25
 importance: 8
-title: Bush Administration Hides 39B Medicare Part D Cost from Congress
+title: Bush Administration Hides Higher Medicare Part D Cost Estimate from Congress
 actors:
 - Thomas Scully
 - Richard Foster
@@ -40,4 +40,8 @@ capture_lanes:
 - Intelligence Penetration
 ---
 
-The Bush administration systematically concealed the true 34 billion cost of Medicare Part D from Congress, presenting false 95 billion estimates to ensure passage. CMS Administrator Thomas Scully ordered Chief Actuary Richard Foster to suppress accurate cost estimates, allegedly telling him 'We can't let that get out' and threatening to fire him if he communicated directly with Congress between June and December 2003. Foster's hidden calculations showed the legislation would cost 39 billion more than presented to lawmakers. This deception was crucial to passage—many conservative Republicans only supported the bill based on promises it wouldn't exceed 00 billion. The true costs were revealed only after Bush signed the legislation into law on December 8, 2003. House Ways and Means ranking member Charles Rangel stated the bill would have died if true costs were known. The GAO determined Scully's actions violated federal appropriations law, while the HHS Inspector General concluded his conduct was 'inappropriate' and involved withholding information 'for what I perceived to be political purposes.' Scully was ordered to return approximately half his 45,600 salary for the violation, representing systematic fraud on Congress to pass major healthcare legislation.
+The Bush administration systematically concealed its chief actuary's $534 billion estimate of the cost of Medicare Part D from Congress, which had the Congressional Budget Office's $395 billion estimate. CMS Administrator Thomas Scully ordered Chief Actuary Richard Foster to suppress accurate cost estimates, allegedly telling him 'We can't let that get out' and threatening to fire him if he communicated directly with Congress between June and December 2003. This deception was crucial to passage—many conservative Republicans only supported the bill based on promises it would not top $400 billion. The true costs were revealed only after Bush signed the legislation into law on December 8, 2003. House Ways and Means ranking member Charles Rangel stated the bill would have died if true costs were known. The GAO determined Scully's actions violated federal appropriations law, while the HHS Inspector General concluded his conduct was 'inappropriate' and involved withholding information 'for what I perceived to be political purposes.' Scully was ordered to return approximately half his salary for the violation, representing systematic fraud on Congress to pass major healthcare legislation.
+
+## Correction
+
+*Corrected 2026-11-16.* Dollar figures had lost their dollar signs and leading digits in publication, and the entry called the $395 billion figure a false administration estimate. Restored from Government Executive (2004-03-25): "The Congressional Budget Office had estimated the new law would cost $395 billion, while Foster's tally was $534 billion", and the promise that it "would not top $400 billion". Cut: the "39 billion more" difference (no source states it) and Scully's salary figure (the HHS OIG page cited returns 404). The slug keeps the damaged "39b" for now.

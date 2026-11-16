@@ -3,7 +3,7 @@ type: timeline_event
 id: 2008-10-03--bush-signs-00b-bank-bailout-with-minimal-oversight
 date: 2008-10-03
 importance: 9
-title: Bush Signs 00B Bank Bailout with Minimal Oversight
+title: Bush Signs $700B Bank Bailout with Minimal Oversight
 actors:
 - George W. Bush
 - Henry Paulson
@@ -46,4 +46,8 @@ capture_lanes:
 - Executive Power Expansion
 ---
 
-President Bush signed the Emergency Economic Stabilization Act authorizing 00 billion in bank bailouts with initially minimal oversight. Treasury Secretary Henry Paulson, former Goldman Sachs CEO, originally sought exemption from 'review by any court of law or administrative agency.' The program shifted from its stated purpose of purchasing toxic assets to direct capital injections: Citigroup and Bank of America received 5 billion each, JPMorgan Chase and Wells Fargo 5 billion each, Goldman Sachs 0 billion. Despite taxpayer support, banks continued paying massive bonuses—Goldman gave 953 workers at least  million each, JPMorgan gave 1,626 employees million-dollar bonuses. Paulson had 24+ conversations with Goldman CEO Lloyd Blankfein during the crisis, requiring ethics waivers. Goldman ultimately received 2.9 billion through the AIG bailout. TARP administrator Neel Kashkari was also a former Goldman VP. The Congressional Oversight Panel found 'no evidence' TARP funds supported the housing market despite promises. Over 300 criminal convictions resulted from fraud, with Special Inspector General Neil Barofsky recovering 1 billion. The bailout highlighted conflicts of interest and the power of Wall Street over government policy.
+President Bush signed the Emergency Economic Stabilization Act authorizing $700 billion in bank bailouts with initially minimal oversight. Treasury Secretary Henry Paulson, former Goldman Sachs CEO, originally sought exemption from 'review by any court of law or administrative agency.' The program shifted from its stated purpose of purchasing toxic assets to direct capital injections into the largest banks. Despite taxpayer support, banks continued paying large bonuses. Paulson had 24+ conversations with Goldman CEO Lloyd Blankfein during the crisis, requiring ethics waivers. TARP administrator Neel Kashkari was also a former Goldman VP. The Congressional Oversight Panel found 'no evidence' TARP funds supported the housing market despite promises. Over 300 criminal convictions resulted from fraud. The bailout highlighted conflicts of interest and the power of Wall Street over government policy.
+
+## Correction
+
+*Corrected 2026-11-16.* Dollar figures had lost their dollar signs and leading digits in publication. Restored from the Treasury TARP page: Congress "initially authorized $700 billion for TARP in October 2008". Cut because no readable cited source carries them: the per-bank capital injections, the bonus figures, Goldman's AIG receipts ("2.9 billion", whose surviving digit hides the loss) and the inspector general's recoveries.

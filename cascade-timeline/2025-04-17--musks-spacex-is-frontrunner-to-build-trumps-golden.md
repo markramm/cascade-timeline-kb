@@ -34,7 +34,7 @@ sources:
   outlet: NPR
   date: '2025-04-22'
   tier: 1
-- title: Elon Musk denies SpaceX is frontrunner for Trump's 00 billion Golden Dome missile-defense project
+- title: Elon Musk denies SpaceX is frontrunner for Trump's $500 billion Golden Dome missile-defense project
   url: https://fortune.com/2025/05/21/elon-musk-denies-spacex-frontrunner-for-trump-golden-dome/
   outlet: Fortune
   date: '2025-05-21'
@@ -51,3 +51,7 @@ Reuters and CNBC reported in April 2025 that Musk's SpaceX had emerged as the fr
 The conflict of interest was explicit and widely noted: Musk served as DOGE's de facto leader with access to federal agency operations and decision-making, while simultaneously running SpaceX as its CEO and largest shareholder. A decision to award the Golden Dome contract to SpaceX would be worth potentially hundreds of billions of dollars to a company owned by the man who wielded unofficial but substantial influence over the executive branch agencies reviewing the contract. NPR reported on the enormous technical requirements and cost estimates for the Golden Dome project, noting the program would involve procurement decisions across multiple agencies.
 
 Musk publicly denied that SpaceX was positioned as a frontrunner for the contract, telling followers on X that the reports were inaccurate. Fortune reported on Musk's denial in May 2025. Nevertheless, the reporting from Reuters — citing multiple government sources — and the structural reality that SpaceX was one of the few companies with existing capabilities in space-based military satellite systems, maintained the conflict-of-interest concerns. The Golden Dome situation represented one of the most direct examples of how Musk's simultaneous roles in government and as a defense contractor CEO created potential for the self-dealing that critics of the DOGE arrangement had warned about from its inception.
+
+## Correction
+
+*Corrected 2026-11-16.* A source title had lost the dollar sign and leading digit of its figure in publication. Restored from the Fortune page: $500 billion.

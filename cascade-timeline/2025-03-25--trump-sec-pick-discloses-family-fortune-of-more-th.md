@@ -25,7 +25,7 @@ sources:
   outlet: Bloomberg
   date: '2025-03-25'
   tier: 1
-- title: Incoming SEC chair Paul Atkins owns up to  million in crypto-related assets
+- title: Incoming SEC chair Paul Atkins owns up to $6 million in crypto-related assets
   url: https://fortune.com/crypto/2025/03/25/paul-atkins-sec-nominee-securitize-anchorage-off-the-chain-capital-6-million-ethics-disclosure/
   outlet: Fortune
   date: '2025-03-25'
@@ -52,3 +52,7 @@ Paul Atkins, Trump's nominee to chair the Securities and Exchange Commission, di
 Atkins had previously served as an SEC commissioner from 2002 to 2008 and had spent the intervening years at Patomak Global Partners, a financial consulting firm advising crypto and financial industry clients on regulatory strategy. The revolving-door nature of his career — from SEC regulator, to industry consultant advising clients on how to navigate the SEC, back to SEC chair — exemplified the regulatory capture dynamic critics identified in the nomination. His clients at Patomak had included cryptocurrency exchanges, digital asset firms, and financial institutions with significant interests in SEC enforcement and rulemaking.
 
 The Senate confirmed Atkins to the SEC chairmanship on April 9, 2025. Following his confirmation, the SEC under Atkins rapidly dropped or settled numerous enforcement actions against cryptocurrency companies, including the dismissal of the long-running case against Binance in May 2025. Legal commentators noted that Atkins's extensive personal investments in the crypto sector — assets he would need to divest or manage through recusal — created ongoing conflicts of interest that could affect his ability to supervise the industry in which he had substantial financial stakes and prior professional relationships.
+
+## Correction
+
+*Corrected 2026-11-16.* A source title had lost the dollar sign and digit of its figure in publication. Restored from the Fortune page: $6 million.

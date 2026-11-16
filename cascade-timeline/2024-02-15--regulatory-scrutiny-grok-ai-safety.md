@@ -30,9 +30,13 @@ sources:
   url: 'https://cryptobriefing.com/xai-us-government-grok-ai-expansion-2024/'
   tier: 2
 - outlet: NBC News
-  title: 'Musk''s xAI was a late addition to the Pentagon''s set of 00 million AI contracts, former defense employee says'
+  title: 'Musk''s xAI was a late addition to the Pentagon''s set of $200 million AI contracts, former defense employee says'
   url: 'https://www.nbcnews.com/tech/security/musk-xai-was-added-late-pentagon-grok-defense-department-rcna219488'
   tier: 1
 status: confirmed
 ---
 xAI's Grok AI faces initial government safety investigations and scrutiny at the AI Seoul Summit. Advocacy groups and AI safety researchers challenge the lack of comprehensive safety reports for Grok 4, while the GSA conducts an independent safety evaluation. Multiple consumer advocacy organizations demand halting Grok's government deployment due to potential systemic biases and untested safety protocols.
+
+## Correction
+
+*Corrected 2026-11-16.* A source title had lost the dollar sign and leading digit of its figure in publication. Restored from the NBC News page: $200 million.

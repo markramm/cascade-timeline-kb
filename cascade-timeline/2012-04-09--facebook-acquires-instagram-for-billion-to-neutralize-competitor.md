@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2012-04-09--facebook-acquires-instagram-for-billion-to-neutralize-competitor
 date: 2012-04-09
-title: Facebook Acquires Instagram for  Billion to Neutralize Potential Competitor
+title: Facebook Acquires Instagram for $1 Billion to Neutralize Potential Competitor
 importance: 8
 tags:
 - regulatory-capture
@@ -44,4 +44,8 @@ capture_lanes:
 - 'Digital and Tech Capture'
 - Regulatory Capture
 ---
-Facebook acquired photo-sharing app Instagram for  billion, implementing what the FTC would later characterize as a 'buy or bury' strategy to eliminate competitive threats. Internal emails revealed CEO Mark Zuckerberg explicitly stated the acquisition was motivated by a desire to 'neutralize a potential competitor' rather than enhance services. The FTC approved the acquisition despite its anticompetitive intent, demonstrating regulatory capture as Facebook successfully concealed key information about its monopolistic strategies from regulators.
+Facebook acquired photo-sharing app Instagram for $1 billion, implementing what the FTC would later characterize as a 'buy or bury' strategy to eliminate competitive threats. Internal emails revealed CEO Mark Zuckerberg explicitly stated the acquisition was motivated by a desire to 'neutralize a potential competitor' rather than enhance services. The FTC approved the acquisition despite its anticompetitive intent, demonstrating regulatory capture as Facebook successfully concealed key information about its monopolistic strategies from regulators.
+
+## Correction
+
+*Corrected 2026-11-16.* The purchase price had lost its dollar sign and digit in publication, in the title and the body. Restored from Fortune: "its acquisition of Instagram for $1 billion in April 2012".

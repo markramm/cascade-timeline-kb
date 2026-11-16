@@ -41,7 +41,7 @@ sources:
   outlet: Truthout
   date: '2025-04-21'
   tier: 2
-- title: Trump's Inauguration Donor Pool Includes 0 Million from Corporations Under Investigation
+- title: Trump's Inauguration Donor Pool Includes $50 Million from Corporations Under Investigation
   url: https://www.citizen.org/news/trumps-corporate-inauguration-donor-pool-littered-with-federal-investigations-enforcement-lawsuits/
   outlet: Public Citizen
   date: '2025-03-12'
@@ -57,3 +57,7 @@ capture_lanes:
 ---
 
 After Capitol One donated $1 million to President Trump's inauguration fund, the Trump Administration ended a Consumer Financial Protection Bureau (CFPB) case against Capital One involving allegedly misleading consumers about interest payments.
+
+## Correction
+
+*Corrected 2026-11-16.* A source title had lost the dollar sign and leading digit of its figure in publication. Restored from the Public Citizen page: $50 million.

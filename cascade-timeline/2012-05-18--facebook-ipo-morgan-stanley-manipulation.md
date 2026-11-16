@@ -35,4 +35,8 @@ capture_lanes:
 - Financial Capture
 - Regulatory Capture
 ---
-Morgan Stanley and other underwriters engaged in selective disclosure during Facebook's initial public offering, revealing sensitive financial information only to institutional investors. Massachusetts securities regulators fined Morgan Stanley  million for creating an 'unlevel playing field' by verbally disclosing potentially negative financial projections to select clients ahead of the IPO. This action violated fair disclosure principles and potentially manipulated market sentiment, leading to investigations by FINRA and multiple shareholder lawsuits.
+Morgan Stanley and other underwriters engaged in selective disclosure during Facebook's initial public offering, revealing sensitive financial information only to institutional investors. Massachusetts securities regulators fined Morgan Stanley $5 million for creating an 'unlevel playing field' by verbally disclosing potentially negative financial projections to select clients ahead of the IPO. This action violated fair disclosure principles and potentially manipulated market sentiment, leading to investigations by FINRA and multiple shareholder lawsuits.
+
+## Correction
+
+*Corrected 2026-11-16.* The fine had lost its dollar sign and digit in publication. Restored from CNBC (2012-12-17): "will pay a $5 million fine to Massachusetts".
