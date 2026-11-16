@@ -52,7 +52,12 @@ sources:
     outlet: Inside Defense
     date: '2025-09-24'
     tier: 2
-    note: "Teaser read only (paywalled): sworn in Sept. 22 a month after he promised to give up all equity; asked in August to revise the ethics agreement. Amended agreement not read."
+    note: "Teaser read only (paywalled): sworn in Sept. 22 per the Army under secretary webpage, a month after he promised to give up all equity; asked in August to revise the ethics agreement. The amended agreement itself was read at the OGE posting."
+  - title: "Obadal, Michael AMENDED final EA (DoD OGC transmittal, Aug. 18, 2025; Obadal letter Aug. 15, 2025; April 11, 2025 agreement)"
+    url: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/22D2862F18C6328885258C6F002C8B8D/$FILE/Obadal,%20Michael%20%20AMENDED%20finalEA.pdf
+    outlet: U.S. Office of Government Ethics
+    date: '2025-08-18'
+    tier: 1
 capture_lanes:
   - Corporate Capture
   - Personnel Capture
@@ -90,6 +95,11 @@ corrections:
   now: "Read the Warren letter as text (2026-11-16): dated May 7, 2025 on its face; says the Army announced in February that Anduril would take over a $22 billion contract for headsets; says Obadal's disclosure forms say he plans to retain vested RSUs valued at between $250,000 and $500,000. The $22 billion and the valuation are now bound; the May 7 date is on the letter's face but its only usable span is a headline, so it stays unbound. The Intercept page (May 8) also says he valued the stock at between $250,000 and $500,000. Other dates in the entry remain unbound, so status stays reported."
   why: "https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf (pdftotext of fetched PDF); https://theintercept.com/2025/05/08/mike-obadal-army-trump-anduril-stock-elizabeth-warren/"
   found_by: recheck-canon-gate-failures-scotus-sept-14-may-28-obadal-cfpb-birthday-2026-11-16 (2026-11-16)
+- date: '2026-11-16'
+  was: "'In August 2025 he asked to revise the agreement so that he would hold no stock'; 'first kept vested stock and was later amended to hold none'; 'the amended agreement itself was not read here'"
+  now: "The amended agreement was read at OGE. Obadal's August 15, 2025 letter amends the April 11 agreement 'to remove reference to vested restricted stock units which I did not hold as of the date of my ethics agreement', and the DoD ethics official's transmittal says he 'did not have any vested restricted stock units of Anduril as of the date of his signed OGE 278e'. The amended Section 2 says he holds unvested units, no other Anduril equity, and will forfeit the unvested units on resignation. So the April text about retaining vested units described units he says he never held; no sale of vested units needs explaining, and none is inferred. Not established: whether the unvested units were forfeited (no certification read), and what the amended 278e shows. The title and slug ('First Kept Vested Anduril Stock, Later Amended to Give Up All Equity') now over-read the April text and should be revisited in a rename pass; not renamed here. The Sept. 22, 2025 swearing-in date is the Army under secretary page's date as Inside Defense quotes it; the Senate confirmed on the preceding Thursday, Sept. 18 (Inside Defense: the 51-47 vote 'last Thursday' in an article of Sept. 24)."
+  why: "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/22D2862F18C6328885258C6F002C8B8D/$FILE/Obadal,%20Michael%20%20AMENDED%20finalEA.pdf (fetched and read 2026-11-16); https://insidedefense.com/daily-news/obadal-steps-army-under-secretary-role-sheds-anduril-stocks (teaser)"
+  found_by: recheck-canon-venturella-acting-director-entry-and-obadal-vested-stock-and-two-theme-carryovers (2026-11-16)
 verification: captured
 claims:
 - id: c0
@@ -140,17 +150,49 @@ claims:
   url: https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf
   read: fetched
   source_kind: primary
+- id: c7
+  type: quote
+  value: "remove reference to vested restricted stock units which I did not hold as of the date of my ethics agreement"
+  qualifier: ""
+  span: "The purpose of this letter is to amend my ethics agreement signed on April 11 , 2025 to remove reference to vested restricted stock units which I did not hold as of the date of my ethics agreement."
+  url: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/22D2862F18C6328885258C6F002C8B8D/$FILE/Obadal,%20Michael%20%20AMENDED%20finalEA.pdf
+  read: fetched
+  source_kind: primary
+- id: c8
+  type: quote
+  value: "I hold unvested restricted stock units with Anduril Industries"
+  qualifier: ""
+  span: "I hold unvested restricted stock units with Anduril Industries; I do not hold any other equity interests in Anduril Industries."
+  url: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/22D2862F18C6328885258C6F002C8B8D/$FILE/Obadal,%20Michael%20%20AMENDED%20finalEA.pdf
+  read: fetched
+  source_kind: primary
+- id: c9
+  type: quote
+  value: "I will forfeit my unvested restricted stock units"
+  qualifier: ""
+  span: "Upon my resignation, I will forfeit my unvested restricted stock units."
+  url: https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/22D2862F18C6328885258C6F002C8B8D/$FILE/Obadal,%20Michael%20%20AMENDED%20finalEA.pdf
+  read: fetched
+  source_kind: primary
+- id: c10
+  type: date
+  value: "Sept. 22"
+  qualifier: ""
+  span: "The former senior director at Anduril was sworn in Sept. 22, the Army under secretary webpage says, following the Senate’s 51-47 confirmation vote last Thursday."
+  url: https://insidedefense.com/daily-news/obadal-steps-army-under-secretary-role-sheds-anduril-stocks
+  read: fetched
+  source_kind: secondary
 ---
 
 ## Opening
 
-On March 11, 2025, the White House sent the Senate President Trump's nomination of **Michael Obadal**, a senior director at Anduril Industries (former U.S. Army colonel with 27 years of service), to be **Under Secretary of the Army** — the Army's number-two civilian role with portfolio responsibility for Army acquisition, financial management, and installations. Obadal's April 11, 2025 ethics agreement said he would retain his vested Anduril restricted stock units after confirmation; The Intercept reported on May 8, 2025 that he valued his Anduril stock at between $250,000 and $500,000. In August 2025 he asked to revise the agreement so that he would hold no stock, and Inside Defense reported that he was sworn in on Sept. 22, 2025 after promising to give up all equity. Sen. Elizabeth Warren (D-MA), in a May 7, 2025 letter to Obadal released May 8 ahead of his Senate Armed Services Committee hearing, noted that Anduril had recently been awarded a $22 billion contract to produce headsets for the Army and asked him to divest his Anduril equity and recuse from Anduril matters. On March 13-14, 2026 the Army awarded Anduril an enterprise contract vehicle with a ceiling of up to $20 billion (DefenseScoop); a ceiling is not money spent.
+On March 11, 2025, the White House sent the Senate President Trump's nomination of **Michael Obadal**, a senior director at Anduril Industries (former U.S. Army colonel with 27 years of service), to be **Under Secretary of the Army** — the Army's number-two civilian role with portfolio responsibility for Army acquisition, financial management, and installations. Obadal's April 11, 2025 ethics agreement said he would retain his vested Anduril restricted stock units after confirmation; The Intercept reported on May 8, 2025 that he valued his Anduril stock at between $250,000 and $500,000. In an August 15, 2025 letter he amended the agreement to remove the reference to vested units, which he wrote he "did not hold as of the date of my ethics agreement"; the amended text says he held unvested units and would forfeit them on resignation. Inside Defense reported that he was sworn in on Sept. 22, 2025, citing the Army under secretary webpage. Sen. Elizabeth Warren (D-MA), in a May 7, 2025 letter to Obadal released May 8 ahead of his Senate Armed Services Committee hearing, noted that Anduril had recently been awarded a $22 billion contract to produce headsets for the Army and asked him to divest his Anduril equity and recuse from Anduril matters. On March 13-14, 2026 the Army awarded Anduril an enterprise contract vehicle with a ceiling of up to $20 billion (DefenseScoop); a ceiling is not money spent.
 
 ## What Happened
 
 Obadal retired from the Army in 2023 and has been a senior director at Anduril since January 2023 (The Intercept, May 1, 2025), serving as a senior director focused on Army-customer-facing capabilities. The Anduril-to-Army-Under-Secretary nomination created a procurement-conflict question that the second administration's surveillance-cluster personnel placements also raise:
 
-1. **Stock retention**: In his April 11, 2025 ethics agreement, Obadal wrote that upon confirmation he would resign from Anduril and forfeit unvested restricted stock units but retain vested ones; because he would still hold Anduril equity, he committed not to participate personally and substantially in any particular matter with a direct and predictable effect on Anduril's financial interests unless he first obtained a waiver under 18 U.S.C. § 208(b)(1) (OGE-posted ethics agreement; The Intercept, May 1, 2025). In August 2025 he asked to revise the agreement so that he would hold no Anduril stock (Inside Defense, Sept. 24, 2025); the amended agreement itself was not read here, so its exact wording and date are unverified.
+1. **Stock retention**: In his April 11, 2025 ethics agreement, Obadal wrote that upon confirmation he would resign from Anduril and forfeit unvested restricted stock units but retain vested ones; because he would still hold Anduril equity, he committed not to participate personally and substantially in any particular matter with a direct and predictable effect on Anduril's financial interests unless he first obtained a waiver under 18 U.S.C. § 208(b)(1) (OGE-posted ethics agreement; The Intercept, May 1, 2025). His August 15, 2025 amendment, read at the OGE posting, says the purpose was to remove the reference to vested units that he did not hold as of the date of the agreement, and the amended Section 2 says he held unvested units, held no other Anduril equity and would forfeit the unvested units on resignation. The record read here therefore shows no vested units to sell: no source dates a sale, and none is inferred. Two things stay open. The amended 278e was not read, and Warren's May 7 letter and The Intercept both described the $250,000-$500,000 valuation as attached to vested units. Whether the unvested units were in fact forfeited is not documented here either (no certification of compliance was read).
 2. **Active Army-Anduril contract footprint at nomination**: At the time of Obadal's March 2025 nomination, Anduril held active contracts with the Army including the **$22B Integrated Visual Augmentation System (IVAS) headset program transferred from Microsoft to Anduril in February 2025** (per [[2025-02-11--anduril-takes-over-microsoft-ivas-22b-army-headset]]) and the autonomous-targeting / Lattice OS portfolio. Warren's letter, not an Army record we read, is the source for the headset award.
 3. **Sen. Warren's May 7, 2025 letter** to Obadal raised the recusal-scope question: recusal alone was insufficient "particularly when the conflict arises from Army work that does not fit the narrow definition of a 'particular matter' and therefore does not trigger recusal obligations." She asked him to divest his Anduril equity, recuse from Anduril matters, and divest other defense-contractor stock.
 
@@ -164,7 +206,7 @@ Obadal's nomination is the **structural-conflict event of the 2025 personnel pip
 2. **The contract trajectory is observable.** The March 2026 Anduril enterprise contract vehicle (ceiling up to $20 billion, not spend) came approximately twelve months after the nomination; our chronology reads it as the later outcome that the [[trump-2-surveillance-procurement-chronology-2025-2026]] Phase 5 temporal-coupling analysis depends on.
 3. **The recusal-scope question is statutorily framed.** Under 18 U.S.C. § 208, Obadal would need to recuse from "particular matters" affecting his retained Anduril holdings — but the broad-policy decisions of an Army Under Secretary may not constitute "particular matters" as construed.
 
-Per the [[luckey-palmer]] actor profile: the Obadal nomination is one piece of evidence for the claim that the Anduril-to-procurement-principal pipeline is structurally captured. That is our reading, and a sequence is not a causal link: the nominee's agreement first kept vested stock and was later amended to hold none, he was confirmed, and the Army later made an enterprise contract vehicle with a ceiling of up to $20 billion available to his former employer. No source read says the nomination caused the award.
+Per the [[luckey-palmer]] actor profile: the Obadal nomination is one piece of evidence for the claim that the Anduril-to-procurement-principal pipeline is structurally captured. That is our reading, and a sequence is not a causal link: the nominee's April agreement said he would keep vested units and his August amendment says he held none that were vested, he was confirmed, and the Army later made an enterprise contract vehicle with a ceiling of up to $20 billion available to his former employer. No source read says the nomination caused the award.
 
 ## Broader Context
 
@@ -191,7 +233,7 @@ The three events span about twelve months; the legs are sourced unevenly, and th
 - [ ] **Sen. Warren's subsequent oversight pressure**: Did Warren issue follow-up letters, hearing requests, or floor statements after her May 7, 2025 letter?
 - [ ] **Anduril SEC disclosure pattern**: Has Anduril (private company; per [[anduril-private-opacity]] zero SEC disclosure pattern) provided any documentation about the Obadal nomination's effect on its government-customer relationship?
 - [ ] **Other Anduril-to-administration personnel placements**: The Colin Carroll (Anduril → DoD Chief of Staff) placement is documented; whether further Anduril personnel have moved to administration roles deserves systematic mapping.
-- [ ] **The exact dates and OGE-filing identifiers** for Obadal's ethics agreement and its amendment. A search-result summary of Congress.gov's nomination page gives a Senate received date of March 10, 2025, one day before this entry's date; the page was not readable here (Cloudflare), so the entry date is unchanged and unresolved.
+- [ ] **The OGE-filing identifiers and the Certification of Ethics Agreement Compliance** for Obadal's agreement; the agreement and amendment dates are read (April 11 and August 15, 2025). A search-result summary of Congress.gov's nomination page gives a Senate received date of March 10, 2025, one day before this entry's date; the page was not readable here (Cloudflare), so the entry date is unchanged and unresolved.
 
 ## Related Entries
 
