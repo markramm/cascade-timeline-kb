@@ -18,7 +18,7 @@ actors:
 - Cantor Fitzgerald
 - Dynasty Trust A
 sources: []
-status: confirmed
+status: reported
 capture_lanes:
 - financial-capture
 - regulatory-capture
