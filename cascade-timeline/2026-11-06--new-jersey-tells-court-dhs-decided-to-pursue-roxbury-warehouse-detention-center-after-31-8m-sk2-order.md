@@ -110,6 +110,42 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-09'
+- type: date
+  value: 11/10/2026
+  span: So Ordered by Judge Jamel K. Semper on 11/10/2026.
+  url: https://www.courtlistener.com/docket/72520349/new-jersey-v-united-states-immigration-and-customs-enforcement/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: Tuesday, November 17, 2026
+  span: on or before Tuesday, November 17, 2026
+  url: https://www.courtlistener.com/docket/72520349/new-jersey-v-united-states-immigration-and-customs-enforcement/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: including the filing of any amended complaint and renewed motion for preliminary injunction
+  span: confer and submit a joint status report to the Court proposing a schedule for future proceedings, including the filing of any amended complaint and renewed motion for preliminary injunction
+  url: https://www.courtlistener.com/docket/72520349/new-jersey-v-united-states-immigration-and-customs-enforcement/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: May 12
+  span: Pursuant to this Court's May 12, 2026 Order
+  url: https://www.courtlistener.com/docket/72520349/new-jersey-v-united-states-immigration-and-customs-enforcement/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-16'
 sources:
 - title: Plaintiffs' Status Report, New Jersey v. ICE, D.N.J. 2:26-cv-02884, ECF 51 (Nov. 6, 2026)
   url: https://www.projectsaltbox.com/api/v1/file/3d3ae24b-5248-4184-9b79-b61537a6fd27.pdf
@@ -121,6 +157,11 @@ sources:
   publisher: Project Salt Box
   date: '2026-11-06'
   tier: 2
+- title: State of New Jersey v. ICE, 2:26-cv-02884 (D.N.J.) docket, ECF 52 text order
+  url: https://www.courtlistener.com/docket/72520349/new-jersey-v-united-states-immigration-and-customs-enforcement/
+  publisher: CourtListener
+  date: '2026-11-10'
+  tier: 1
 tags:
 - ice-warehouses
 - detention-expansion
@@ -140,6 +181,19 @@ actors:
 - SK2 LLC
 - State of New Jersey
 - Roxbury Township
+updates:
+- date: '2026-11-10'
+  date_kind: order date
+  heading: Judge Semper orders a joint status report on a schedule for an amended complaint and renewed injunction motion
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: detention-expansion
 ---
 
 In a status report filed Friday in their suit against ICE, New Jersey and Roxbury Township told the court that counsel for DHS had advised them "for the first time" that DHS had decided to proceed with pursuing a detention facility at its Roxbury warehouse (filed 11/06/26). The plaintiffs said they contacted DHS after public reporting that DHS had entered a $31.8 million contract to convert the site. DHS counsel could not confirm the report but said "money has been obligated for maintenance, design of ICE’s preferred alternative, and the NEPA analysis of that design." A stipulated order the court entered on May 12, 2026 bars converting the site into a detention center; the plaintiffs wrote that a conversion contract would raise "significant concerns" about DHS's compliance with it. They also cited DHS's admission that on two occasions in September, Immigration and Customs Enforcement (ICE) used the parking lot of the Roxbury warehouse to process individuals whom ICE had apprehended.
@@ -147,3 +201,7 @@ In a status report filed Friday in their suit against ICE, New Jersey and Roxbur
 Project Salt Box, which first reported the contract, said the contractor, SK2 LLC, is the Tennessee company that helped DHS buy warehouses for immigrant detention this year, and that it received a $31.8 million order on Thursday to renovate the Roxbury warehouse into a processing and detention center. On SAM.gov the award record describes the work as the "renovation of existing, ICE-owned permanent structure in San Antonio, TX."
 
 Earlier turns in the Roxbury fight: [[2026-03-20--nj-roxbury-sue-ice-dhs-detention-warehouse]], [[2026-06-29--dhs-abandons-roxbury-nj-warehouse-ice-detention-after-lawsuit]], [[2026-07-20--roxbury-nj-dhs-flip-flop-continuing-assess-status-report]], [[2026-10-13--dhs-confirms-ice-processed-14-detainees-roxbury-nj-warehouse-parking-lot]].
+
+## Update (2026-11-10, order date): Judge Semper orders a joint status report on a schedule for an amended complaint and renewed injunction motion
+
+After receiving the plaintiffs' status report, Judge Semper ordered the parties to submit a joint status report on or before Tuesday, November 17, 2026. The report is to propose a schedule for future proceedings, including the filing of any amended complaint and renewed motion for preliminary injunction. The order cites the May 12 order.
