@@ -100,6 +100,114 @@ claims:
   url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS21900_En.pdf
   read: fetched
   source_kind: primary
+- type: date
+  value: October 7, 2026
+  span: Amicus Curiae submission from the Crawfish Rock Indigenous Community (October 7, 2026)
+  url: https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/2
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-16'
+- type: attribution
+  value: Amicus Curiae submission from the Fraternal Black Honduran Organization (October 7, 2026)
+  span: Amicus Curiae submission from the Fraternal Black Honduran Organization (October 7, 2026)
+  url: https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/2
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: Claimants are unable to recover because of their role in these violations of international law
+  span: Accordingly, Claimants are unable to recover because of their role in these violations of international law.
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: any damage the tribunal awards should be reduced commensurate to Claimants’ contribution in fault
+  span: any damage the tribunal awards should be reduced commensurate to Claimants’ contribution in fault.
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: many community members thought was merely an attendance sheet
+  span: many community members thought was merely an attendance sheet
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: Próspera removed the pipes it had installed, cutting off the community’s access to water altogether
+  span: Próspera removed the pipes it had installed, cutting off the community’s access to water altogether.
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: the community was forced to buy water and bring it in on trucks
+  span: the community was forced to buy water and bring it in on trucks.
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: Construction runoff flows down the hill, through Crawfish Rock, and directly into the Mesoamerican Reef
+  span: Construction runoff flows down the hill, through Crawfish Rock, and directly into the Mesoamerican Reef
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: the expectation of an immutable regime for decades cannot be considered legitimate as against the Communities
+  span: the expectation of an immutable regime for decades cannot be considered legitimate as against the Communities
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22085_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: communities such as Corozal and Sambo Creek, in the surroundings of La Ceiba
+  span: communities such as Corozal and Sambo Creek, in the surroundings of La Ceiba
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22085_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: the repeal of the ZEDE framework is compatible with the legitimate exercise of regulatory power
+  span: the repeal of the ZEDE framework is compatible with the legitimate exercise of regulatory power
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22085_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: statements made by amici curiae do not have the evidentiary weight of witness evidence
+  span: statements made by amici curiae do not have the evidentiary weight of witness evidence submitted in accordance with ICSID Arbitration Rule 38.
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS21957_En.pdf
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-16'
 sources:
 - title: ICSID case page ARB/23/2
   url: https://icsid.worldbank.org/cases/case-database/case-detail?CaseNo=ARB/23/2
@@ -120,9 +228,46 @@ sources:
   publisher: Republic of Honduras
   date: '2026-07-12'
   tier: 1
+- title: Amicus submission, Leaders of the Crawfish Rock Indigenous Community
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22083_En.pdf
+  publisher: Crawfish Rock petitioners
+  date: '2026-10-07'
+  tier: 1
+- title: Amicus submission, OFRANEH
+  url: https://icsidfiles.worldbank.org/icsid/ICSIDBLOBS/OnlineAwards/C11037/DS22085_En.pdf
+  publisher: OFRANEH
+  date: '2026-10-07'
+  tier: 1
+updates:
+- date: '2026-10-07'
+  date_kind: filing date
+  heading: Crawfish Rock leaders' and OFRANEH's amicus briefs are posted
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: prospera-v-honduras
 ---
 The tribunal in the Próspera arbitration against Honduras admitted the Crawfish Rock Petitioners, who are community leaders represented by Cornell Law School counsel, and OFRANEH as amici, alongside Cato and an independent researcher. CYA’s participation as amicus is denied. The tribunal says amicus statements do not carry the evidentiary weight of witness evidence.
 
 The case page does not post the residents' briefs, so their account is not yet on the public record in their own words. In its Counter-Memorial, Honduras says public complaints and residents' testimony describe Próspera taking the community's water reserve, says residents who protested were threatened and attacked, and says the record holds no formal consultation at Crawfish Rock. The Claimants' Memorial says Próspera built the community's first running-water well system in 2019, and cites a local news report whose headline says the community appears divided.
 
 The parties ask for opposite outcomes. The Claimants ask for restitution or damages of US$ 1.63 billion, and Honduras asks the tribunal to dismiss all the claims. The case page lists an order on a site visit, which is not posted.
+
+## Update (2026-10-07, filing date): Crawfish Rock leaders' and OFRANEH's amicus briefs are posted
+
+The seven Crawfish Rock leaders' brief and OFRANEH's brief are now posted on the ICSID case page, both dated 7 October 2026. The Crawfish Rock brief says that residents were never asked for consent in the form international law requires, and that at a 2019 community meeting a sign-in document was circulated that "many community members thought was merely an attendance sheet". It says that when the community moved to run its own water, "Próspera removed the pipes it had installed, cutting off the community’s access to water altogether", and that the community was "forced to buy water and bring it in on trucks". It also says construction runoff "flows down the hill, through Crawfish Rock, and directly into the Mesoamerican Reef". Its ask: "Claimants are unable to recover because of their role in these violations of international law" or, alternatively, "any damage the tribunal awards should be reduced commensurate to Claimants’ contribution in fault". These are the leaders' allegations: the tribunal has said "statements made by amici curiae do not have the evidentiary weight of witness evidence".
+
+OFRANEH's brief speaks for the Garífuna communities rather than for Crawfish Rock. It names "communities such as Corozal and Sambo Creek, in the surroundings of La Ceiba", argues "the expectation of an immutable regime for decades cannot be considered legitimate as against the Communities", and that "the repeal of the ZEDE framework is compatible with the legitimate exercise of regulatory power".
