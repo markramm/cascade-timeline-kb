@@ -36,6 +36,7 @@ sources:
   date: '2025-03-20'
   tier: 2
 status: confirmed
+event_date_claim: c13
 corrections:
 - date: '2026-10-14'
   was: "id and date 2026-03-06; body 'By March 2026'; source dates all '2026-03-06'"
@@ -58,6 +59,97 @@ claims:
   url: https://www.notus.org/courts/doj-public-integrity
   read: fetched
   source_kind: secondary
+- id: c3
+  type: quote
+  value: When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two.
+  span: When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: figure
+  value: two
+  span: When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: figure
+  value: 10
+  span: An internal DOJ roster obtained by NOTUS shows the Public Integrity Section having 12 lawyers — even though 10 of them have been moved elsewhere.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c6
+  type: quote
+  value: The Public Integrity Section is now smaller than it’s ever been since its creation in 1976.
+  span: The Public Integrity Section is now smaller than it’s ever been since its creation in 1976.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c7
+  type: figure
+  value: more than a dozen
+  span: The section has also lost all but one of more than a dozen paralegals.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c8
+  type: figure
+  value: 94
+  span: Sources with knowledge of the section’s operations say the reduction in staff means it can no longer advise the 94 U.S.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c9
+  type: quote
+  value: The acting chief, John Keller, quit along with his three deputies, according to several sources
+  span: The acting chief, John Keller, quit along with his three deputies, according to several sources
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c10
+  type: quote
+  value: disbanded an FBI squad tasked with investigating congressional misconduct
+  span: disbanded an FBI squad tasked with investigating congressional misconduct
+  url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
+  read: fetched
+  source_kind: secondary
+- id: c11
+  type: quote
+  value: ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations
+  span: ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations
+  url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
+  read: fetched
+  source_kind: secondary
+- id: c12
+  type: quote
+  value: has dropped from roughly 35 lawyers to four to five, according to two former members of the unit
+  span: has dropped from roughly 35 lawyers to four to five, according to two former members of the unit
+  url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
+  read: fetched
+  source_kind: secondary
+- id: c13
+  type: date
+  value: September 22, 2025
+  span: September 22, 2025 05:30 a.m.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c14
+  type: quote
+  value: The remaining leaders in the Public Integrity Section refused to sign off on dropping the charges.
+  span: The remaining leaders in the Public Integrity Section refused to sign off on dropping the charges.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c15
+  type: quote
+  value: The section has also lost all but one of more than a dozen paralegals.
+  span: The section has also lost all but one of more than a dozen paralegals.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
 capture_lanes:
 - Institutional Capture
 - Systematic Corruption
@@ -70,18 +162,15 @@ coverage:
     title: "The Emergency Is the Agencies"
 ---
 
-By September 2025, the Department of Justice's Public Integrity Section -- the unit created after Watergate specifically to prosecute corruption by government officials at all levels -- had been reduced from 36 full-time lawyers to just two. NOTUS reported the collapse in detail on September 22, 2025: "When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two." The section, NOTUS wrote, "is now smaller than it's ever been since its creation in 1976."
+By September 2025, the Department of Justice's Public Integrity Section -- the unit created after Watergate to prosecute corruption by government officials -- had been reduced from 36 full-time lawyers to just two. NOTUS reported the count on September 22, 2025: "When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two." NOTUS wrote: "The Public Integrity Section is now smaller than it’s ever been since its creation in 1976."
 
-The decimation followed a cascade of resignations in protest and politically motivated reassignments. The most visible early rupture came when the Trump DOJ ordered the Public Integrity Section to drop corruption charges against New York Mayor Eric Adams. John Keller, the section's acting chief, refused and resigned. Other attorneys followed. When Pam Bondi's DOJ subsequently demanded that remaining lawyers decide within one hour whether they would dismiss the Adams charges or face firing, a further exodus resulted.
+NOTUS tied the decline to resignations and reassignments. In the Adams case, it reported that "The remaining leaders in the Public Integrity Section refused to sign off on dropping the charges." It also reported that "The acting chief, John Keller, quit along with his three deputies, according to several sources." NOTUS also reported: "The section has also lost all but one of more than a dozen paralegals." According to sources with knowledge of its operations, the reduction in staff means it can no longer advise the 94 U.S. attorneys' offices.
 
-Beyond the Adams episode, attorneys departed as the section was stripped of its core mandate: rather than directly handling cases, its surviving staff were reassigned to advise U.S. attorneys' offices around the country -- a function that requires far more lawyers than two. The section also lost all but one of more than a dozen paralegals.
+NBC News described the wider pattern: the administration "disbanded an FBI squad tasked with investigating congressional misconduct" and "ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations." Senator Sheldon Whitehouse demanded answers from the DOJ on the dismantling of the section.
 
-The practical consequences were severe. The section could no longer advise the 94 U.S. attorneys' offices on how to build corruption cases against crooked government officials, nor prosecute new cases on its own. NBC News reporting noted the simultaneous gutting of FBI anti-corruption squads, disbanding of the unit that investigated congressional misconduct, the issuance of pardons to Trump's political allies, and the effective end of a 50-year policy keeping the DOJ independent of the White House in criminal matters.
-
-Senator Sheldon Whitehouse demanded answers from the DOJ on the dismantling of the section. The collapse ensured that the federal government's principal institutional mechanism for prosecuting public officials who abuse their offices was functionally inoperative during a period when critics argued it was most needed.
-
-NOTUS also reported that an internal DOJ roster it obtained lists 12 lawyers in the section, 10 of whom have been moved elsewhere. The count of two is therefore lawyers working in the section; the roster, which NOTUS describes but did not publish, still names 12. DOJ's own FY2026 budget request counts something different again: budgeted positions, 28 in all (18 attorney positions), with a requested cut of 19 positions (12 attorneys). These are three counts of different things (attorneys assigned full-time, roster names, budgeted positions), and none is a trend line for the others.
+NOTUS also reported that an internal DOJ roster it obtained lists 12 lawyers in the section, 10 of whom have been moved elsewhere. The count of two is therefore lawyers working in the section; the roster, which NOTUS describes but did not publish, still names 12. NBC's earlier count is another kind of figure: the section "has dropped from roughly 35 lawyers to four to five, according to two former members of the unit." These are counts of different things at different dates (attorneys assigned full-time in September, roster names, a former members' estimate from NBC's earlier report), and none is a trend line for the others.
 
 ## Correction (2026-11-16)
 
-- Added the roster detail from the same NOTUS article, and the budget comparison, to the paragraph above. The earlier text is unchanged.
+- Added the roster detail from the same NOTUS article to the paragraph above, and NBC's separate count, each as an attributed claim.
+- Second pass, same day: the body is rewritten to the claims in the frontmatter, and text that none of them carries is removed. The list of what was removed is in the task work log, follow-up-public-integrity-section-entries-two-unedited-lines-and-two-gate-failures.

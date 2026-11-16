@@ -33,6 +33,23 @@ sources:
   outlet: NPR
   date: '2025-02-14'
   tier: 1
+- url: https://www.cnbc.com/2025/04/02/eric-adams-case-dismissed-new-york-trump-doj.html
+  title: Judge dismisses criminal case against New York Mayor Eric Adams
+  outlet: CNBC
+  date: '2025-04-02'
+  tier: 1
+- url: https://www.notus.org/courts/doj-public-integrity
+  title: The Justice Department Had 36 Lawyers Fighting Corruption Full-Time. Under Trump, It's Down to Two.
+  outlet: NOTUS
+  date: '2025-09-22'
+  tier: 2
+- url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
+  title: Firings, pardons and policy changes have gutted DOJ anti-corruption efforts, experts say
+  outlet: NBC News
+  date: '2025-06-03'
+  tier: 1
+date_kind: PBS dates Sassoon's resignation February 13, 2025; the section's resignations followed
+event_date_claim: c5
 claims:
 - id: c1
   type: figure
@@ -57,21 +74,98 @@ claims:
   url: https://www.notus.org/courts/doj-public-integrity
   read: fetched
   source_kind: secondary
+- id: c4
+  type: quote
+  value: no longer directly handle investigations or prosecutions
+  span: will no longer directly handle investigations or prosecutions, two sources said.
+  url: https://www.nbcnews.com/politics/justice-department/justice-department-office-prosecutes-public-corruption-slashed-size-so-rcna195928
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: date
+  value: Feb 13, 2025
+  span: Feb 13, 2025 5:40 PM EST
+  url: https://www.pbs.org/newshour/politics/federal-prosecutor-resigns-after-refusing-doj-order-to-drop-nyc-mayor-adams-corruption-case
+  read: fetched
+  source_kind: secondary
+- id: c6
+  type: quote
+  value: confident
+  span: Sassoon told Trump's new attorney general that she was "confident" Adams had committed the crimes.
+  url: https://www.pbs.org/newshour/politics/federal-prosecutor-resigns-after-refusing-doj-order-to-drop-nyc-mayor-adams-corruption-case
+  read: fetched
+  source_kind: secondary
+- id: c7
+  type: quote
+  value: practicable
+  span: had directed Sassoon to drop Adams' case as soon as "practicable."
+  url: https://www.pbs.org/newshour/politics/federal-prosecutor-resigns-after-refusing-doj-order-to-drop-nyc-mayor-adams-corruption-case
+  read: fetched
+  source_kind: secondary
+- id: c8
+  type: quote
+  value: quid pro quo
+  span: Sassoon accused Adams' lawyers of offering "a "quid pro quo"" during a meeting with the Justice Department "last month."
+  url: https://www.pbs.org/newshour/politics/federal-prosecutor-resigns-after-refusing-doj-order-to-drop-nyc-mayor-adams-corruption-case
+  read: fetched
+  source_kind: secondary
+- id: c9
+  type: quote
+  value: refused to sign off on dropping the charges
+  span: The remaining leaders in the Public Integrity Section refused to sign off on dropping the charges.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c10
+  type: quote
+  value: a senior prosecutor on the team, Ed Sullivan, signed the court paperwork
+  span: In the end, a senior prosecutor on the team, Ed Sullivan, signed the court paperwork
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c11
+  type: quote
+  value: Everything here smacks of a bargain
+  span: Everything here smacks of a bargain
+  url: https://www.cnbc.com/2025/04/02/eric-adams-case-dismissed-new-york-trump-doj.html
+  read: fetched
+  source_kind: secondary
+- id: c12
+  type: quote
+  value: ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations
+  span: ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations
+  url: https://www.nbcnews.com/politics/justice-department/firings-pardons-policy-changes-gutted-doj-anti-corruption-efforts-expe-rcna200571
+  read: fetched
+  source_kind: secondary
+- id: c13
+  type: figure
+  value: two
+  span: When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c14
+  type: date
+  value: September 22, 2025
+  span: September 22, 2025 05:30 a.m.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
 ---
 
-The Department of Justice's Public Integrity Section—created after Watergate to prosecute public corruption—was effectively dismantled in February 2025 following a mass revolt over political interference in the Eric Adams corruption case. NBC News reported on March 11, 2025, citing three anonymous sources, that the section would keep roughly a half-dozen employees and would no longer directly handle investigations or prosecutions. NOTUS reported on September 22, 2025 that the 36 attorneys assigned full-time when Trump took office had become two (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]). The crisis began when Bove ordered prosecutors to dismiss corruption charges against New York Mayor Eric Adams, arguing the case interfered with Adams' ability to help the administration's mass deportation efforts.
+The Department of Justice's Public Integrity Section, created after Watergate to prosecute public corruption, was cut to a fraction of its staff in 2025 after the Adams corruption case. NBC News reported on March 11, 2025, citing anonymous sources, that the section would keep roughly a half-dozen employees and would "no longer directly handle investigations or prosecutions." NOTUS reported on September 22, 2025 that the 36 experienced attorneys assigned full-time when Trump took office had become two (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]).
 
-Seven prosecutors resigned over 36 hours rather than comply with Bove's order. Acting U.S. Attorney Danielle Sassoon refused to dismiss the case, stating she saw no "good-faith basis" and was "confident" Adams had committed the crimes. After Sassoon's February 13 resignation, Bove moved the case to the Public Integrity Section in Washington. John Keller, the section's acting head, refused and resigned, followed immediately by Kevin Driscoll, acting head of the Criminal Division. When Bove requested "three more prosecutors from the office" to find someone who would file the dismissal, all three "resigned on the spot" after attempting to talk Bove out of it.
+PBS reported that Bove had directed Sassoon to drop Adams' case as soon as "practicable." Sassoon told the attorney general she was "confident" Adams had committed the crimes, and resigned; PBS's article is dated Feb 13, 2025. She accused Adams' lawyers of offering a "quid pro quo" in a meeting with the Justice Department the month before. NOTUS reported that the section's remaining leaders "refused to sign off on dropping the charges," and that "a senior prosecutor on the team, Ed Sullivan, signed the court paperwork."
 
-On February 14, Bove issued an ultimatum to "nearly 20 lawyers" on a video call: choose someone to carry out the dismissal or be fired. After discussing mass resignation, the lawyers coalesced around having one person—Edward Sullivan, a senior litigation counsel—sign the filing to protect his colleagues. Sassoon stated she attended a January 31 meeting where Adams' attorneys "repeatedly urged what amounted to a quid pro quo, indicating that Adams would be in a position to assist with the Department's enforcement priorities only if the indictment were dismissed."
+Judge Dale Ho dismissed the case with prejudice. CNBC reported that Ho wrote "Everything here smacks of a bargain."
 
-Federal Judge Dale Ho ultimately dismissed Adams' indictment with prejudice on April 2, 2025, contrary to DOJ's request for dismissal without prejudice. Ho wrote that dismissing without prejudice "would create the unavoidable perception that the Mayor's freedom depends on his ability to carry out the immigration enforcement priorities of the administration," and that "everything here smacks of a bargain: dismissal of the Indictment in exchange for immigration policy concessions." The gutting of the Public Integrity Section eliminated the federal government's primary capability to prosecute public corruption, marking the end of a 50-year post-Watergate policy of keeping DOJ independent from White House political direction in criminal investigations.
+NBC reported separately that the administration had "ended a 50-year policy of keeping the Justice Department independent of the White House in criminal investigations."
 
 ## Correction (2026-11-16)
 
-- The entry had a sentence saying Bove ordered the section cut from 36 career lawyers to about two. No source on the entry carries it. The 36-to-two count comes from NOTUS (September 22, 2025), and NBC's report of a half-dozen remaining is dated March 11, 2025. The sentence now gives both, each with its date.
-- The NBC source was dated February 14, 2025 on the entry. The article's own date is March 11, 2025.
-- The entry's other claims were not rechecked in this pass.
+- An earlier sentence on staffing cut under Bove's order is replaced by the attributed counts above.
+- The NBC source carried the wrong date on the entry; it now carries March 11, 2025.
+- Second pass, same day: the body is rewritten to the claims in the frontmatter, and text that none of them carries is removed. The list of what was removed is in the task work log, follow-up-public-integrity-section-entries-two-unedited-lines-and-two-gate-failures.
