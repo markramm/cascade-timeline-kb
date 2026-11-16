@@ -30,7 +30,7 @@ sources:
 related_events:
   - 2026-08-10--ice-lexisnexis-palantir-bulk-facial-recognition-contract
   - 2026-08-25--ice-hsi-5m-rfi-recurring-national-voter-file-acquisition
-  - 2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract
+  - 2026-02-12--dhs-palantir-department-wide-software-bpa-1-billion-ceiling
   - 2026-09-02--ice-zerofox-doxing-mitigation-scrub-agent-identities
 coverage:
   - daily-capture-reports/feed/2026-09-03--ice-unvetted-hires-palantir-elite-app-restricted-data.md

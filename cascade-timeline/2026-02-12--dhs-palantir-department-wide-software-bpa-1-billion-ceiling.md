@@ -1,7 +1,8 @@
 ---
 type: timeline_event
-id: 2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract
-date: 2026-02-19
+id: 2026-02-12--dhs-palantir-department-wide-software-bpa-1-billion-ceiling
+previous_ids: ["2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract"]
+date: 2026-02-12
 title: 'DHS Signs Palantir Department-Wide Software BPA With a $1 Billion Ceiling; ICE and CBP Can Order Under It'
 title_corrected: '2026-11-14: earlier title said "for Immigration Surveillance"; Wired and the award record describe department-wide commercial software'
 importance: 9
@@ -38,7 +39,12 @@ corrections:
   now: "DHS signed a single-award blanket purchase agreement with Palantir, ceiling $1 billion, to provide commercial software licenses, maintenance and implementation services department wide; ICE and CBP are named by Wired as examples of agencies that can order under it. $0 was obligated on the BPA itself. FPDS/USAspending codes the extent of competition 'full and open' with one offer received; Wired's own phrasing is that agencies can 'essentially skip the competitive bidding process for new purchases', which refers to task orders under the BPA."
   why: "Wired and the USAspending award record both describe the scope as department-wide commercial software, not immigration surveillance; the $1 billion is a ceiling. Found by the TGIE N2 fact-check (items 1 and 5), re-read at source 2026-11-14."
   found_by: "TGIE N2 fact-check pass 1, re-verified by task palantir-wired-bpa-and-2018-letter-check"
-event_date_claim: c4
+- date: '2026-11-16'
+  was: "Entry dated 2026-02-19 (the Wired and SiliconANGLE publication date) under the id 2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract."
+  now: "Entry dated 2026-02-12, the signing date in the USAspending award record (date_signed and period-of-performance start both 2026-02-12); id and file renamed, old id kept in previous_ids."
+  why: "The event is the signing, not the press coverage. The old slug also called the BPA a billion-dollar contract when the $1 billion is a ceiling."
+  found_by: "investigation-map-april-2026 hub pass; task recheck-canon-dhs-palantir-bpa-date-and-slug-and-tremont-census-basis"
+event_date_claim: c1
 verification: source-verified
 claims:
 - id: c1

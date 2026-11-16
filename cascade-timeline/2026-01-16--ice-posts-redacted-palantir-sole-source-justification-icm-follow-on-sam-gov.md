@@ -124,4 +124,4 @@ ICE's Office of Acquisition Management posted special notice ICE_JA-25-0266 to S
 
 In that justification ICE writes: "Palantir is the only source available capable of meeting all of ICE’s minimum requirements for ICM." It says it reviewed 42 companies in market research, and describes the system in its own words: "The ICM system is the official system of record" for ICE investigative cases. Those are the agency's statements in its own justification, not an outside finding.
 
-The posting follows ICE's notice of intent to sole source ICM, posted to SAM.gov in June 2025, which said the redacted justification "will ultimately be published to the Government Point of Entry, SAM.gov, at a later date." Related: [[2026-02-19--dhs-signs-billion-dollar-palantir-ice-surveillance-contract]].
+The posting follows ICE's notice of intent to sole source ICM, posted to SAM.gov in June 2025, which said the redacted justification "will ultimately be published to the Government Point of Entry, SAM.gov, at a later date." Related: [[2026-02-12--dhs-palantir-department-wide-software-bpa-1-billion-ceiling]].
