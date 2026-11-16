@@ -4,7 +4,7 @@ id: 2026-09-15--ice-oversight-office-inspects-delaney-hall-22-deficiencies-up-fr
 date: '2026-09-15'
 date_kind: inspection start date
 source_published_date: '2026-11-13'
-title: ICE Detention Oversight Inspection of Delaney Hall Finds 22 Deficiencies, Up From 12, and Rates the Newark Facility “Acceptable/Adequate”
+title: Gothamist Reports ICE Detention Oversight Inspection of Delaney Hall Found 22 Deficiencies, Up From 12, and Rated the Newark Facility “Acceptable/Adequate”
 importance: 6
 status: confirmed
 captured_by: capture-watch
