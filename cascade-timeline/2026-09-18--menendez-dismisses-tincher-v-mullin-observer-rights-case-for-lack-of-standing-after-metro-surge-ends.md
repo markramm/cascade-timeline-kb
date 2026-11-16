@@ -238,6 +238,36 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-19'
+- id: c22
+  type: date
+  value: 11/3/2026
+  qualifier: Ordered
+  span: Ordered by Judge Katherine M. Menendez on 11/3/2026.
+  url: https://www.courtlistener.com/docket/72047643/doxsey-v-mullin/?order_by=desc
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c23
+  type: date
+  value: 11/05/2026
+  qualifier: Entered
+  span: 'JUDGMENT (Attachments: # 1 Civil Notice - appeal)(kt) (Entered: 11/05/2026)'
+  url: https://www.courtlistener.com/docket/72047643/doxsey-v-mullin/?order_by=desc
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c24
+  type: quote
+  value: has not filed a second amended complaint
+  qualifier: Doxsey
+  span: Mr. Doxsey has not filed a second amended complaint.
+  url: https://www.courtlistener.com/docket/72047643/doxsey-v-mullin/?order_by=desc
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 On September 18, 2026 (order date), Judge Katherine M. Menendez of the District of Minnesota granted the government's motion to dismiss the amended complaint in Tincher v. Mullin (formerly Tincher v. Noem; the RECAP docket is captioned Doxsey v. Mullin), the suit brought by people who observed, recorded and protested immigration enforcement during Operation Metro Surge. All named plaintiffs were dismissed without prejudice for lack of jurisdiction, and the motion for jurisdictional discovery was denied.
 
@@ -246,3 +276,11 @@ On September 18, 2026 (order date), Judge Katherine M. Menendez of the District 
 **What bears on observer rights.** The order does not reach the merits. The preliminary injunction was dissolved as moot on April 8, 2026 after the surge ended. The standing holding rests on the operation having ended, so a renewed at-large enforcement operation would present a different record. The court tied the plaintiffs' follow-and-observe practice to at-large arrests: Plaintiffs would not continue to engage in the protest strategies central to the case without them.
 
 **Ryan Doxsey, the one surviving thread.** Mr. Doxsey alleges he was told by immigration agents on January 27, 2026 that he would be added to a list of domestic terrorists. That allegation was unaffected by the end of the surge, but he alleged no concrete harm from the designation, and the court said it could not conjure up unpled allegations to save his standing. He was given leave to file a Second Amended Complaint within 21 days, or to sue separately.
+
+## Addendum (2026-11-16): the closing order and judgment
+
+The order above dismissed the amended complaint and gave Mr. Doxsey leave to amend; it did not close the docket. The docket's text-only closing order records that Mr. Doxsey has not filed a second amended complaint.
+Ordered by Judge Katherine M. Menendez on 11/3/2026.
+The clerk's judgment line carries (Entered: 11/05/2026).
+
+So the September order is the dismissal of the complaint, and the closing order and judgment came in November. A source that gives a November dismissal date is dating the closing order, not contradicting this entry. Read on the CourtListener docket for the case (RECAP caption Doxsey v. Mullin); the closing order is not in RECAP as a document, so this rests on the docket entry's text.
