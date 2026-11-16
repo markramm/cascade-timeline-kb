@@ -46,7 +46,7 @@ On **July 29, 2025**, the U.S. Senate confirmed **Emil Bove** to the **U.S. Cour
 
 Emil Bove served as **Acting Deputy Attorney General** in the early Trump-2025 DOJ. His tenure was defined by:
 
-- **Eric Adams case**: Ordered the dismissal of the criminal corruption case against New York Mayor Eric Adams in February 2025, triggering mass resignations from the DOJ Public Integrity Section, which Bove then gutted from 36 to approximately 2 career lawyers (see [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]])
+- **Eric Adams case**: Ordered the dismissal of the criminal corruption case against New York Mayor Eric Adams in February 2025, triggering mass resignations from the DOJ Public Integrity Section, which NBC News reported in March 2025 would shrink to roughly a half-dozen employees (see [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]]); NOTUS later counted two attorneys against 36 at the start of the term (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]])
 - **Sassoon resignation letter**: Danielle Sassoon, SDNY acting U.S. Attorney, resigned rather than drop the Adams case and documented in her resignation letter Bove's alleged instruction to ignore the court's concerns
 - **Venezuelan deportation case**: Whistleblowers alleged Bove suggested ignoring a federal court order in cases involving deportations to El Salvador
 - **Ethics authority delegated to political aides**: Bove issued a January 27, 2026 directive delegating DOJ ethics oversight to political appointees, sidelining career officials (see [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]])
@@ -67,3 +67,7 @@ In Armitage's framework, Bove is categorized as a **consigliere** — a legal en
 - [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]]
 - [[2025-09-22--lindsey-halligan-appointed-us-attorney]]
 - [[2025-11-24--halligan-indictments-dismissed-appointment-unconstitutional]]
+
+## Correction (2026-11-16)
+
+- The Public Integrity Section line had Bove cutting the section from 36 to about 2 career lawyers. The 36-to-two count is NOTUS's, published after this confirmation, and no source on the entry has Bove making that cut. The line now gives the NBC and NOTUS reports instead.

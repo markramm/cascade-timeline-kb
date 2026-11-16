@@ -42,6 +42,22 @@ corrections:
   now: "id, file name and date 2025-09-22, the NOTUS publication date; old id kept in previous_ids so /event/2026-03-06--.../ still resolves; source dates set to each page's own date (NOTUS 2025-09-22, NBC 2025-06-03, Whitehouse release 2025-03-20)"
   why: "https://www.notus.org/courts/doj-public-integrity re-read 2026-10-14: datePublished 2025-09-22T09:30:00Z; 'When Donald Trump took office eight months ago ... 36 experienced attorneys ... Today it has two.' NBC datePublished 2025-06-03; Whitehouse release page dated March 20, 2025. No source on the entry is from March 2026."
   found_by: "editorial verification, 2026-10-14"
+claims:
+- id: c1
+  type: figure
+  value: 36 experienced attorneys
+  qualifier: assigned full-time when Trump took office
+  span: When Donald Trump took office eight months ago, the Department of Justice had 36 experienced attorneys assigned full-time to investigate corrupt politicians and police officers. Today it has two.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: figure
+  value: 12 lawyers
+  span: An internal DOJ roster obtained by NOTUS shows the Public Integrity Section having 12 lawyers — even though 10 of them have been moved elsewhere.
+  url: https://www.notus.org/courts/doj-public-integrity
+  read: fetched
+  source_kind: secondary
 capture_lanes:
 - Institutional Capture
 - Systematic Corruption
@@ -63,3 +79,9 @@ Beyond the Adams episode, attorneys departed as the section was stripped of its 
 The practical consequences were severe. The section could no longer advise the 94 U.S. attorneys' offices on how to build corruption cases against crooked government officials, nor prosecute new cases on its own. NBC News reporting noted the simultaneous gutting of FBI anti-corruption squads, disbanding of the unit that investigated congressional misconduct, the issuance of pardons to Trump's political allies, and the effective end of a 50-year policy keeping the DOJ independent of the White House in criminal matters.
 
 Senator Sheldon Whitehouse demanded answers from the DOJ on the dismantling of the section. The collapse ensured that the federal government's principal institutional mechanism for prosecuting public officials who abuse their offices was functionally inoperative during a period when critics argued it was most needed.
+
+NOTUS also reported that an internal DOJ roster it obtained lists 12 lawyers in the section, 10 of whom have been moved elsewhere. The count of two is therefore lawyers working in the section; the roster, which NOTUS describes but did not publish, still names 12. DOJ's own FY2026 budget request counts something different again: budgeted positions, 28 in all (18 attorney positions), with a requested cut of 19 positions (12 attorneys). These are three counts of different things (attorneys assigned full-time, roster names, budgeted positions), and none is a trend line for the others.
+
+## Correction (2026-11-16)
+
+- Added the roster detail from the same NOTUS article, and the budget comparison, to the paragraph above. The earlier text is unchanged.

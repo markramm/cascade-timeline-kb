@@ -13,13 +13,12 @@ event_date_claim: c1
 claims:
 - id: c1
   type: date
-  value: Friday
-  span: ICE had asked for the names of all the residents, but under Friday's ruling, the agency has appointed a special master to identify only residents with “serious criminal histories,” according to the ruling.
-  url: https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents
+  value: 11/06/26
+  qualifier: filed
+  span: Case 1:25-mc-00559-LAK Document 49 Filed 11/06/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
   read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-13'
+  source_kind: primary
 - id: c2
   type: quote
   value: The City has not shown that producing this list would be unduly burdensome,
@@ -50,12 +49,11 @@ claims:
 - id: c5
   type: quote
   value: serious criminal histories
-  span: ICE had asked for the names of all the residents, but under Friday's ruling, the agency has appointed a special master to identify only residents with “serious criminal histories,” according to the ruling.
-  url: https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents
+  qualifier: residents with certain
+  span: the agency has consented to the appointment of a special master who will identify residents of the facility with certain serious criminal histories and provide only those names to the agency.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
   read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-13'
+  source_kind: primary
 - id: c6
   type: figure
   value: sleeps more than 2,000 and is the city’s last emergency migrant housing facility
@@ -123,6 +121,20 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-11-13'
+- id: c13
+  type: quote
+  value: has appointed a special master
+  span: ICE had asked for the names of all the residents, but under Friday's ruling, the agency has appointed a special master to identify only residents with “serious criminal histories,” according to the ruling.
+  url: https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents
+  read: fetched
+  source_kind: secondary
+- id: c14
+  type: quote
+  value: the agency has consented to the appointment of a special master
+  span: the agency has consented to the appointment of a special master who will identify residents of the facility with certain serious criminal histories and provide only those names to the agency.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.654411/gov.uscourts.nysd.654411.49.0_1.pdf
+  read: fetched
+  source_kind: primary
 sources:
 - title: 'Gothamist: Federal judge rules Mamdani administration must give ICE names of Bronx shelter residents'
   url: https://gothamist.com/news/federal-judge-rules-mamdani-administration-must-give-ice-names-of-bronx-shelter-residents
@@ -136,12 +148,18 @@ tags:
 - sanctuary
 - shelters
 - data
-summary: On Friday, Nov. 6, 2026, U.S. District Judge Lewis Kaplan enforced an ICE subpoena ordering New York City to turn over the names and birthdates of certain male residents of the Bruckner Boulevard shelter in the Bronx, which sleeps more than 2,000, with a special master to identify only residents with "serious criminal histories"; it was ICE's fourth subpoena for city shelter data since August 2025.
+summary: On Friday, Nov. 6, 2026, U.S. District Judge Lewis Kaplan enforced an ICE subpoena ordering New York City to turn over the names and birthdates of certain male residents of the Bruckner Boulevard shelter in the Bronx, which sleeps more than 2,000, with a special master, once the court appoints one, to identify only residents with "serious criminal histories"; it was ICE's fourth subpoena for city shelter data since August 2025.
 verification: captured
 ---
 
-U.S. District Judge Lewis Kaplan ruled Friday that New York City must comply with an ICE subpoena and turn over a list of certain male residents that live in a shelter on Bruckner Boulevard along with their birthdays, Gothamist reported. "The City has not shown that producing this list would be unduly burdensome," the ruling reads. "Under the applicable case law, the Court therefore has no choice but to compel the subpoena's enforcement." ICE had asked for the names of all residents; under the ruling, a special master will identify only residents with "serious criminal histories."
+U.S. District Judge Lewis Kaplan ruled Friday that New York City must comply with an ICE subpoena and turn over a list of certain male residents that live in a shelter on Bruckner Boulevard along with their birthdays, Gothamist reported. "The City has not shown that producing this list would be unduly burdensome," the ruling reads. "Under the applicable case law, the Court therefore has no choice but to compel the subpoena's enforcement." ICE had asked for the names of all residents; the ruling enforces the subpoena as modified by a special master who is to identify only residents with "serious criminal histories" (no master has been appointed yet; see the correction below).
 
 The converted South Bronx warehouse sleeps more than 2,000 and is the city's last emergency migrant housing facility. Beginning in August 2025, ICE submitted four separate subpoena requests for personal information about residents of New York City shelters, and the city fought them, once calling a request a "fishing expedition lacking any legitimate investigative purpose."
 
 **From the order itself (the redacted opinion on RECAP).** Kaplan applied the Second Circuit's deferential standard: the court's role is "extremely limited" and it defers on relevance "so long as it is not obviously wrong." He enforced the subpoena "as modified by the appointment and role of a special master." The special master is not yet appointed: the court gave the parties 14 days to submit a proposed order on appointment and compensation, so Gothamist's phrase that the agency "has appointed" one overstates it. The research note [[us-v-city-of-new-york-25-mc-559-opinion-read-and-other-1225d4-enforcement-petitions-2026-11-13]] has the rest.
+
+## Correction (2026-11-16)
+
+- Gothamist wrote that ICE "has appointed a special master", and the entry's event-date and "serious criminal histories" claims were bound to that sentence. They are now bound to the opinion. The opinion says the agency "has consented to the appointment of a special master" and enforces the subpoena "as modified by the appointment and role of a special master". The court, not ICE, would appoint. The order gives the parties 14 days to submit a proposed order on appointment and compensation, counted from the order's filing date.
+- A docket check on the day of this correction found RECAP's copy ending at the order itself.
+- Gothamist remains the source for what it reported directly: the shelter's size, the four subpoenas since August 2025, the city's characterization of a request, and the burden quote.
