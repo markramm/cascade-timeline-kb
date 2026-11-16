@@ -52,7 +52,7 @@ sources:
   title: Lutnick Could Sit on Crypto Council Despite Conflicts
   url: 'https://readsludge.com/2025/02/04/lutnick-could-sit-on-crypto-council-despite-conflicts/'
   tier: 2
-status: confirmed
+status: reported
 tags:
 - howard-lutnick
 - tether
