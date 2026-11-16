@@ -25,6 +25,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 45
     steps:
+      # Fail fast, before touching the VPS, on a timeline entry whose
+      # frontmatter lost its shape (the 2026-11-14 dropped `claims:` line
+      # crashed generate_content.py and blocked two deploys).
+      - uses: actions/checkout@v4
+      - name: Check timeline entry shape
+        run: |
+          python3 -m pip install --quiet pyyaml
+          python3 hugo-timeline/scripts/check_entry_shape.py
       - name: SSH to VPS and run deploy.sh
         uses: appleboy/ssh-action@v1.2.0
         with:

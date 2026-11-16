@@ -1,0 +1,11 @@
+#!/bin/sh
+# Refuse a commit that stages a timeline entry whose frontmatter lost its shape
+# (e.g. a dropped `claims:` line). hugo-timeline/scripts/check_entry_shape.py.
+files=$(git diff --cached --name-only --diff-filter=ACMR -- 'cascade-timeline/*.md')
+[ -z "$files" ] && exit 0
+PY=python3
+for c in "$HOME/pyrite/.venv/bin/python" python3; do "$c" -c 'import yaml' 2>/dev/null && PY=$c && break; done
+tmp=$(mktemp -d); trap 'rm -rf "$tmp"' EXIT
+for f in $files; do mkdir -p "$tmp/$(dirname "$f")"; git show ":$f" > "$tmp/$f"; done
+cd "$tmp" && "$PY" "$OLDPWD/hugo-timeline/scripts/check_entry_shape.py" $files || {
+  echo "pre-commit: timeline entry shape check failed (see above). Nothing committed." >&2; exit 1; }
