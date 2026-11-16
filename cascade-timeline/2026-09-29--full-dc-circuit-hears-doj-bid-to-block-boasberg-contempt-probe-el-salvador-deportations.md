@@ -125,7 +125,7 @@ sources:
   tier: 1
 related_events:
 - 2026-04-14--dc-circuit-mandamus-kills-boasberg-contempt-inquiry-blanche-bove
-- 2026-06-01--boasberg-contempt-stalled-bove-confirmed-third-circuit
+- 2026-01-12--whitehouse-letter-bondi-boasberg-contempt-stall-bove-confirmed-third-circuit
 - 2025-11-26--doj-reveals-noem-approved-deportations-defying-court-order
 capture_lanes:
 - Constitutional Crisis
@@ -137,4 +137,4 @@ Justice Department attorney Brett Shumate argued that Chief U.S. District Judge 
 
 Judge Millett said: "The separation of powers is going to run two ways here." Gelernt, arguing for the plaintiffs, said: "If you don't uphold what this district court did, it's going to send a horrible message, not just to the districts court in this district." The original appellate decision blocking the probe was a 2-1 decision.
 
-The earlier stages are at [[2026-04-14--dc-circuit-mandamus-kills-boasberg-contempt-inquiry-blanche-bove]] and [[2026-06-01--boasberg-contempt-stalled-bove-confirmed-third-circuit]].
+The earlier stages are at [[2026-04-14--dc-circuit-mandamus-kills-boasberg-contempt-inquiry-blanche-bove]] and [[2026-01-12--whitehouse-letter-bondi-boasberg-contempt-stall-bove-confirmed-third-circuit]].

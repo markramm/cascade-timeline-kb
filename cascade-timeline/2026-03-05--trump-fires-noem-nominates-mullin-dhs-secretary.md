@@ -112,7 +112,7 @@ The transition raised several significant questions for the institutional captur
 
 ## Related Timeline Entries
 
-- [[2026-03-06--noem-firing-aftermath-dhs-tenure-controversies]] — Five-controversy post-firing catalog
+- [[2026-03-05--axios-five-controversies-noem-leaves-dhs-court-order-counts]] — Five-controversy post-firing catalog
 - [[2026-03-07--shield-of-americas-summit-trump-doral-cartel-coalition]] — Noem's formal debut as Shield of the Americas envoy
 - [[2026-03-24--mullin-sworn-in-as-dhs-secretary]] — Mullin's actual Senate confirmation (March 23) and swearing-in (March 24); first-days policy record
 - [[2026-04-17--stateline-dhs-compromises-warehouse-detention-centers]] — Downstream warehouse-detention scale-backs under Mullin

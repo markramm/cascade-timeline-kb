@@ -186,4 +186,4 @@ A D.C. Circuit panel (Judges Rao, Walker and Childs) granted the petition for a 
 
 The panel opinion records that the government identified then-Secretary of Homeland Security Kristi Noem as the official responsible for the transfer decision. Judge Childs's dissent records that Emil Bove and Todd Blanche each stated in declarations that they provided privileged legal advice to Noem.
 
-Earlier steps in this inquiry are in [[2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act]] and [[2026-06-01--boasberg-contempt-stalled-bove-confirmed-third-circuit]].
+Earlier steps in this inquiry are in [[2025-12-08--boasberg-orders-doj-testimony-alien-enemies-act]] and [[2026-01-12--whitehouse-letter-bondi-boasberg-contempt-stall-bove-confirmed-third-circuit]].
