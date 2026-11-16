@@ -4,7 +4,7 @@ id: 2026-09-14--scotus-blocks-trump-mail-ballot-eo-7-2-kavanaugh-timing-midterms
 date: '2026-09-14'
 title: "Supreme Court Blocks Trump's Mail-Ballot Rules 7-2 for the 2026 Midterms, Kavanaugh Resting It on Timing Rather Than Authority"
 importance: 9
-status: confirmed
+status: reported
 lane: election-capture
 tags:
   - election-capture
@@ -63,11 +63,50 @@ corrections:
   now: "What it leaves open is whether ... lawful at all ... without a final merits answer. The administration retains the vehicle, but it lost the stay on the Court's interim view of the merits as well as on Kavanaugh's calendar."
   why: "https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf - order p.1: \"unlikely to succeed on the merits\" and equitable factors \"do not favor a stay\""
   found_by: "editorial verification, 2026-10-10"
+- date: '2026-11-16'
+  was: "status: confirmed; 'The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system ... non-compliant ballot mail subject to rejection'; 'mail ballots had already gone out in several states, North Carolina first'; 'Voters face no new federal mail-voting hurdle this cycle'"
+  now: "The rule description and the ballots-already-out clause are cut as stated fact: the Court's pages (read as text 2026-11-16) call it a final rule concerning election ballot mail and give Kavanaugh's ground as insufficient time for officials, and carry neither. The 7-2 count is our arithmetic from two named dissenters. Status reset to reported; the quotations and the dissent are bound to the Court's own pages."
+  why: "https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf read as text 2026-11-16: order, Kavanaugh concurrence, Alito dissent joined by Thomas"
+  found_by: recheck-canon-gate-failures-scotus-sept-14-may-28-obadal-cfpb-birthday-2026-11-16 (2026-11-16)
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "The Government is unlikely to succeed on the merits of its challenge to the District Court's preliminary injunction."
+  qualifier: ""
+  span: "The Government is unlikely to succeed on the merits of its challenge to the District Court’s preliminary injunction."
+  url: https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf
+  read: fetched
+  source_kind: primary
+- id: c1
+  type: quote
+  value: "at least a fair prospect"
+  qualifier: ""
+  span: "there is at least a fair prospect that the final rule falls within the Postal Service’s statutory authority."
+  url: https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: quote
+  value: "would be arbitrary and capricious"
+  qualifier: ""
+  span: "But applying the rule in the 2026 elections would be arbitrary and capricious in violation of the Administrative Procedure Act"
+  url: https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: attribution
+  value: "JUSTICE ALITO, with whom JUSTICE THOMAS joins, dissenting from the denial of application for stay."
+  qualifier: ""
+  span: "JUSTICE ALITO, with whom JUSTICE THOMAS joins, dissenting from the denial of application for stay."
+  url: https://www.supremecourt.gov/opinions/25pdf/26a305_4g15.pdf
+  read: fetched
+  source_kind: primary
 ---
 
-On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The challenged rules would have required states to submit mail-ballot envelope designs for USPS pre-clearance and to feed voter information into a USPS system before ballots could be mailed, with non-compliant ballot mail subject to rejection. **Justice Brett Kavanaugh**, in a concurrence (the underlying order was per curiam), reasoned that applying the rules to an election already underway was unlawful because state and local election officials had insufficient time to implement the changes — mail ballots had already gone out in several states, North Carolina first. Voters face no new federal mail-voting hurdle this cycle.
+On **September 14, 2026** the Supreme Court blocked the Trump administration from enforcing the USPS mail-ballot rules issued under the March executive order, **7-2**, with **Justices Clarence Thomas and Samuel Alito** dissenting. The order denied the Government's application for a stay of a universal injunction against a final rule concerning election ballot mail (Alito dissent, citing 91 Fed. Reg. 54966); the injunction stays in place. **Justice Brett Kavanaugh**, concurring (the order itself is unsigned), wrote that there is "at least a fair prospect" the rule falls within the Postal Service's statutory authority, but that applying it in the 2026 elections "would be arbitrary and capricious" because state and local election officials lack sufficient time to implement it. News accounts add that mail ballots had already gone out in some states; the Court's pages do not say so, and we did not bind those accounts.
 
-The unsigned order and Kavanaugh's concurrence rest on different grounds, and the difference matters. A 7-2 vote in a case this administration has driven to the emergency docket three times ([[2026-09-03--doj-third-scotus-emergency-application-usps-mail-ballot-rule]]) reads like a rout, but only Kavanaugh's concurrence rests on timing: it does not say USPS lacks the authority to impose ballot-design pre-clearance, it says USPS cannot impose it *this late*. The unsigned order itself says: "The Government is unlikely to succeed on the merits of its challenge to the District Court's preliminary injunction. And the equitable factors applicable for obtaining emergency relief from this Court do not favor a stay." (No. 26A305, Sept. 14, 2026; [[2026-08-28--scotus-lifts-talwani-block-mail-voting-order-usps-rule-effective-nc-first-to-comply]] for the August stay of Judge Indira Talwani's first block.) Talwani's September 4 preliminary injunction had rested on the same clock, citing a final rule issued fewer than seventy days before the election ([[2026-09-04--talwani-preliminary-injunction-usps-mail-ballot-rule-seventy-days-before-election]]).
+The unsigned order and Kavanaugh's concurrence rest on different grounds, and the difference matters. A 7-2 vote (two dissenters, Alito joined by Thomas, on the Court's pages; the count is our arithmetic) in a case this administration has driven to the emergency docket three times ([[2026-09-03--doj-third-scotus-emergency-application-usps-mail-ballot-rule]]) reads like a rout, but only Kavanaugh's concurrence rests on timing: it does not say USPS lacks the authority to impose ballot-design pre-clearance, it says USPS cannot impose it *this late*. The unsigned order itself says: "The Government is unlikely to succeed on the merits of its challenge to the District Court's preliminary injunction. And the equitable factors applicable for obtaining emergency relief from this Court do not favor a stay." (No. 26A305, Sept. 14, 2026; [[2026-08-28--scotus-lifts-talwani-block-mail-voting-order-usps-rule-effective-nc-first-to-comply]] for the August stay of Judge Indira Talwani's first block.) Talwani's September 4 preliminary injunction had rested on the same clock, citing a final rule issued fewer than seventy days before the election ([[2026-09-04--talwani-preliminary-injunction-usps-mail-ballot-rule-seventy-days-before-election]]).
 
 What this closes is the 2026 exposure. What it leaves open is whether an executive order restricting mail voting through postal rulemaking is lawful at all — a question the corpus has now tracked through six months of litigation ([[2026-03-31--trump-executive-order-restricts-mail-voting-usps-voter-lists]]) without a final merits answer. The administration retains the vehicle, but it lost the stay on the Court's interim view of the merits as well as on Kavanaugh's calendar.
 

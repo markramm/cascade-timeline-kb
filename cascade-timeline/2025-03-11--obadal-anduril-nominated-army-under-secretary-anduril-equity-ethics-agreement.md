@@ -83,8 +83,13 @@ corrections:
   found_by: "timeline fact-check slice 1 2026-10-08"
 - date: '2026-11-16'
   was: "slug and title: stock-retention / Plans to Retain $250K-$500K Anduril Stock; body: In an August 15, 2025 amendment he removed the reference to vested units, stating he held no vested Anduril restricted stock units as of the agreement's date; 'The dollar value is primary-source disclosed ... filed with OGE'; 'the Army's largest active procurement category was the nominee's former employer's product line'; 'the post-nomination contract awarded to that former employer reached $20 billion'; research gap citing 'the April 15, 2025 letter'"
-  now: "The April 11, 2025 agreement said he would keep vested units (The Intercept, May 1, 2025); Inside Defense reported on Sept. 24, 2025 that he was sworn in Sept. 22 after promising a month earlier to give up all equity, having asked in August to revise the agreement so that he would hold no stock. The slug and title now say the agreement first kept the stock and was later amended; the old slugs are in previous_ids. The $250,000-$500,000 figure is Obadal's own valuation as reported by The Intercept (May 8, 2025), not an OGE figure we read; the amended agreement and its August 15 date were not re-read here. The $20 billion is a ceiling on an enterprise contract vehicle, not spend. The Warren letter is dated May 7, 2025; there is no April 15 letter. The Army-largest-category sentence had no source and was cut."
+  now: "The April 11, 2025 agreement said he would keep vested units (The Intercept, May 1, 2025); Inside Defense reported on Sept. 24, 2025 that he was sworn in Sept. 22 after promising a month earlier to give up all equity, having asked in August to revise the agreement so that he would hold no stock. The slug and title now say the agreement first kept the stock and was later amended; the old slugs are in previous_ids. The $250,000-$500,000 figure is the valuation in Warren's May 7 letter, which says it comes from Obadal's financial disclosure forms (the OGE form itself was not read) (May 8, 2025), not an OGE figure we read; the amended agreement and its August 15 date were not re-read here. The $20 billion is a ceiling on an enterprise contract vehicle, not spend. The Warren letter is dated May 7, 2025; there is no April 15 letter. The Army-largest-category sentence had no source and was cut."
   found_by: recheck-canon-medicaid-palantir-chatrie-702-lapse-obadal-entries (2026-11-16)
+- date: '2026-11-16'
+  was: "claims: Warren letter quotation only; the $250,000-$500,000 figure attributed to The Intercept alone"
+  now: "Read the Warren letter as text (2026-11-16): dated May 7, 2025 on its face; says the Army announced in February that Anduril would take over a $22 billion contract for headsets; says Obadal's disclosure forms say he plans to retain vested RSUs valued at between $250,000 and $500,000. The $22 billion and the valuation are now bound; the May 7 date is on the letter's face but its only usable span is a headline, so it stays unbound. The Intercept page (May 8) also says he valued the stock at between $250,000 and $500,000. Other dates in the entry remain unbound, so status stays reported."
+  why: "https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf (pdftotext of fetched PDF); https://theintercept.com/2025/05/08/mike-obadal-army-trump-anduril-stock-elizabeth-warren/"
+  found_by: recheck-canon-gate-failures-scotus-sept-14-may-28-obadal-cfpb-birthday-2026-11-16 (2026-11-16)
 verification: captured
 claims:
 - id: c0
@@ -119,6 +124,22 @@ claims:
   url: https://www.executivegov.com/articles/michael-obadal-army-under-secretary-nomination
   read: fetched
   source_kind: secondary
+- id: c5
+  type: figure
+  value: "$22 billion"
+  qualifier: "contract"
+  span: "the Army announced Anduril would take over a $22 billion contract to produce"
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf
+  read: fetched
+  source_kind: primary
+- id: c6
+  type: figure
+  value: "between $250,000 and $500,000"
+  qualifier: "valued"
+  span: "you plan to “retain [your] vested restricted stock units” (RSUs) in Anduril, valued at between $250,000 and $500,000."
+  url: https://www.warren.senate.gov/imo/media/doc/letter_from_senator_warren_to_mike_obadal_on_ethics_commitments.pdf
+  read: fetched
+  source_kind: primary
 ---
 
 ## Opening

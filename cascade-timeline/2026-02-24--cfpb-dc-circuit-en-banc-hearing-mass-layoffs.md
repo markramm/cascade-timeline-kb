@@ -2,8 +2,8 @@
 type: timeline_event
 id: 2026-02-24--cfpb-dc-circuit-en-banc-hearing-mass-layoffs
 date: 2026-02-24
-status: confirmed
-title: Full DC Circuit Hears Three-Hour Arguments on CFPB Mass Layoffs; Court Grills Administration on Separation of Powers
+status: reported
+title: Full DC Circuit Hears Nearly Three Hours of Arguments on CFPB Mass Layoffs; Court Grills Administration on Separation of Powers
 importance: 9
 actors:
 - Russell Vought
@@ -50,6 +50,22 @@ sources:
   outlet: U.S. Government Accountability Office
   date: '2026-01-27'
   tier: 1
+corrections:
+- date: '2026-11-16'
+  was: "title: Full DC Circuit Hears Three-Hour Arguments on CFPB Mass Layoffs; status: confirmed"
+  now: "Title now says nearly three hours, matching Bloomberg Law's 'At a nearly three-hour hearing Tuesday' (the body already said nearly). Status reset to reported: the other figures (1,700 employees, 90%, 88%, 17, 70, $19 billion) and the Bennett quotation are not bound to read spans. American Banker's pre-hearing piece does not carry the quotation or the duration, so the Bennett quotation is unverified here."
+  why: "https://news.bloomberglaw.com/banking-law/cfpb-shutdown-hearing-probes-courts-sway-over-trump-era-firings fetched 2026-11-16"
+  found_by: recheck-canon-gate-failures-scotus-sept-14-may-28-obadal-cfpb-birthday-2026-11-16 (2026-11-16)
+verification: captured
+claims:
+- id: c0
+  type: quote
+  value: "nearly three-hour hearing"
+  qualifier: ""
+  span: "At a nearly three-hour hearing Tuesday, judges on the full US Court of Appeals for the District of Columbia Circuit"
+  url: https://news.bloomberglaw.com/banking-law/cfpb-shutdown-hearing-probes-courts-sway-over-trump-era-firings
+  read: fetched
+  source_kind: secondary
 capture_lanes:
 - Regulatory Capture
 - Financial Deregulation
@@ -63,3 +79,7 @@ Jennifer Bennett of Gupta Wessler LLP, arguing for the union and co-plaintiffs, 
 Judges pressed both sides hard, grappling with the core constitutional question of how much deference courts owed to executive branch restructuring decisions when they appeared to cross from reorganization into de facto elimination of a congressionally-established agency. The full court review was triggered after a three-judge panel split 2-1 in favor of the administration in late 2025, with two Trump-appointed judges siding with Vought.
 
 The hearing came as GAO's January 27 report documented the scale of CFPB's dismantling: a planned 88% workforce reduction including 90% of the supervision division and 80% of the enforcement division; dismissal of 17 enforcement actions; rescission of 70 guidance documents; closure of CFPB headquarters; and termination of all regional office leases. The One Big Beautiful Bill Act had already halved CFPB's statutory funding cap. A separate report found the Trump administration's CFPB changes had cost American consumers $19 billion in lost protections, as enforcement actions that would have resulted in restitution were dropped. The D.C. Circuit's ruling would set a precedent for whether any independent regulatory agency created by Congress can be effectively abolished through executive personnel actions without a specific statutory repeal.
+
+## Correction (2026-11-16)
+
+See the corrections field. The title said three hours; the source says nearly three. Status is reported, not confirmed: most figures and the Bennett quotation are not bound to a span we read.
