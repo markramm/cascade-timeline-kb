@@ -31,6 +31,17 @@ citations:
 - 'https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds'
 - 'https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content'
 status: confirmed
+corrections:
+- date: '2026-11-16'
+  was: "The policy change, announced by Meta CEO Mark Zuckerberg"
+  now: "The change was announced in a post on the Instagram blog and Meta's Transparency Center; Instagram executive Adam Mosseri described it on Threads"
+  why: "https://techcrunch.com/2024/02/09/instagram-and-threads-will-no-longer-proactively-recommend-political-content/ and https://www.theverge.com/2024/2/9/24067742/instagram-threads-meta-political-content-recommended-feeds name the blog and Mosseri; neither names Zuckerberg. The Instagram blog post itself could not be fetched (HTTP 400), so who, if anyone, signed it was not checked."
+  found_by: "organizer tick 29; corrected by cascade-research task correct-canon-meta-political-default-2024-02-09-and-good-legal-observer-label-2026-01-07"
+- date: '2026-11-16'
+  was: "The silent default has remained in effect through 2025-2026."
+  now: "The default held until January 2025, when Mosseri announced political content would be included in recommendations with less, standard (default) and more settings."
+  why: "https://www.engadget.com/social-media/threads-and-instagram-will-recommend-political-content-after-all-232343107.html (Jan. 8, 2025)"
+  found_by: "organizer tick 29; corrected by cascade-research task correct-canon-meta-political-default-2024-02-09-and-good-legal-observer-label-2026-01-07"
 sources:
 - url: 'https://www.washingtonpost.com/technology/2024/02/10/politics-meta-threads-instagram/'
   outlet: The Washington Post
@@ -60,11 +71,11 @@ coverage:
   - url: https://theramm.transparencycascade.org/p/the-architecture-of-visibility
     title: "The Architecture of Visibility: How Meta Made Political Speech Disappear Without Banning It"
 ---
-Meta announced on February 9, 2024, that Instagram and Threads would no longer proactively recommend political content from accounts that users do not already follow, making political content non-recommended by default. The policy change, announced by Meta CEO Mark Zuckerberg, applied to content related to politics, crime, tragedy, and civil unrest. Users who wished to see political content in their Explore feeds, Reels recommendations, or suggested accounts would need to actively opt in through settings changes.
+Meta announced on February 9, 2024, that Instagram and Threads would no longer proactively recommend political content from accounts that users do not already follow, making political content non-recommended by default. The change was announced in a post on the Instagram blog and Meta's Transparency Center; Instagram executive Adam Mosseri described it on Threads. It applied to content related to politics, crime, tragedy, and civil unrest. Users who wished to see political content in their Explore feeds, Reels recommendations, or suggested accounts would need to actively opt in through settings changes.
 
 **Silent-default mechanism**: The toggle defaulted to OFF for all users as a platform infrastructure change — not as an opt-out policy requiring user agreement. No primary-source documentation exists of Meta sending inline notifications, in-app prompts, email notifications, or settings-screen disclosures to existing users explaining that the toggle had changed and that their political content visibility had been reduced. The corporate announcement was published in a blog post; it was not communicated to users through the product interfaces through which they experience the platform. Users who regularly read tech news had information to find and reverse the toggle; the larger user population received no product-level signal that their political content experience had changed.
 
-**Persistence-without-notification compounds over time**: The silent default has remained in effect through 2025-2026. All Instagram and Threads users who joined the platforms after February 9, 2024 inherited the toggle-OFF default as their baseline experience. This cohort — which grows continuously — has never experienced a version of these platforms in which political content was proactively recommended. The suppression is not visible to them as suppression; it is their platform's neutral baseline. The mechanism compounds as the default experience of an expanding post-2024-02-09 user population.
+**The default held until January 2025**: Instagram and Threads users who joined after February 9, 2024 started with political content left out of recommendations unless they changed the setting. On January 8, 2025, Mosseri posted that Instagram and Threads would start including political content in recommendations, with three levels users can choose (less, standard, more) and standard as the default. He wrote: "It's proven impractical to draw a red line around what is and is not political content." The change was to begin rolling out that week in the US and elsewhere over the following weeks. So the default this entry describes ran for about eleven months, through the 2024 election, and is not in force as the platforms' default after the January 2025 rollout. Whether the platforms later changed it again was not checked.
 
 Meta framed the decision as responding to user feedback that political content was creating negative experiences on the platform. The company had first restricted political content recommendations on Instagram in 2023 and extended the approach to Threads, its Twitter competitor launched in July 2023.
 
@@ -73,3 +84,11 @@ The policy had significant implications for the 2024 election cycle. Political c
 **Structural classification**: This is a class-level operational mechanism distinct from the more visible content-moderation cycles (fact-checking end, Community Notes adoption). It operates at the infrastructure-default layer — changing the recommendation system's default configuration once, for all users, without content-instance triggers or per-instance observable interventions. The mechanism falls between the layers at which platform-level regulatory oversight, content-moderation oversight, and user-disclosure mechanisms are typically calibrated. See Meta capture-trajectory theme (commit 21474531) substrate-add for full structural analysis.
 
 The change preceded by less than a year Meta's January 2025 decision to eliminate third-party fact-checking programs entirely, part of a pattern of Meta reducing its role as an arbiter of political information. The silent-default-suppression mechanism and the fact-checking-program elimination are structurally distinct: the former operates at the infrastructure-default layer without per-instance observability; the latter operates as an explicit policy decision generating news-cycle scrutiny. Both are consistent with the Meta inception-design trajectory documented in the capture-trajectory theme.
+
+## Correction, 2026-11-16
+
+Changed: the announcer. The entry said Meta CEO Mark Zuckerberg announced the change; TechCrunch and The Verge report an announcement on the Instagram blog and Meta's Transparency Center, with Instagram executive Adam Mosseri describing it on Threads, and neither names Zuckerberg.
+
+Changed: the duration. The entry said the default remained in effect through 2025-2026. On January 8, 2025, Mosseri announced that Instagram and Threads would include political content in recommendations, with less, standard (the default) and more settings, per Engadget. The paragraph on a growing cohort that never saw political recommendations is replaced by that account.
+
+Not checked: the Instagram blog post itself (the page returned HTTP 400), and whether the setting changed again after January 2025.
