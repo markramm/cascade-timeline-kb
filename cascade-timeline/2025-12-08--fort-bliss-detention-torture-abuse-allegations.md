@@ -3,7 +3,7 @@ type: timeline_event
 id: 2025-12-08--fort-bliss-detention-torture-abuse-allegations
 date: 2025-12-08
 title: "Human Rights Groups Report Beatings, Sexual Abuse and Coercive Third-Country Removal Threats at Fort Bliss Camp East Montana, Citing 45+ Detainee Interviews and 16 Sworn Declarations"
-summary: Human rights organizations including the ACLU, Human Rights Watch, and multiple civil rights groups released findings from interviews with more than 45 detained immigrants at Fort Bliss Camp East Montana in Texas, documenting widespread torture, sexual abuse, and coerced deportations. Sworn declarations describe officers beating detainees unconscious, crushing testicles, forcing fingers into ears causing permanent hearing damage, slamming heads against walls repeatedly, and threatening deportation to El Salvador or Africa to coerce non-Mexican immigrants into crossing into the Mexican desert. The facility, located on a military base previously used to intern Japanese Americans during World War II, now holds over 2,700 people and is the largest immigration detention center in the United States. A leaked internal ICE inspection found the facility violated over 60 federal detention standards in its first 50 days of operation. One Guatemalan immigrant, Francisco Gaspar Andres, died
+summary: Human rights organizations including the ACLU, Human Rights Watch, and multiple civil rights groups released findings from interviews with more than 45 detained immigrants at Fort Bliss Camp East Montana in Texas, documenting widespread torture, sexual abuse, and coerced deportations. Sworn declarations describe officers beating detainees unconscious, crushing testicles, forcing fingers into ears causing permanent hearing damage, slamming heads against walls repeatedly, and threatening deportation to El Salvador or Africa to coerce non-Mexican immigrants into crossing into the Mexican desert. The facility, located on a military base previously used to intern Japanese Americans during World War II, now holds over 2,700 people and is the largest immigration detention center in the United States. A leaked internal ICE inspection, as reported by the Washington Post (a Sept 2025 inspection, separate from ODO's Feb 10-12, 2026 inspection, which counted 49 deficiencies), found the facility violated over 60 federal detention standards in its first 50 days of operation. One Guatemalan immigrant, Francisco Gaspar Andres, died
   at the facility on December 3, 2025 after failing to receive appropriate medical care for liver and kidney failure.
 importance: 9
 tags:
@@ -73,7 +73,7 @@ coverage:
     title: "The $165 Billion Machine"
     date: '2026-02-26'
     publication: theramm
-    note: "Documents Acquisition Logistics LLC ($1.24B contract, 39 employees) and insulin denial at the same facility"
+    note: "Documents Acquisition Logistics LLC (the piece says a $1.24B contract; $1.24B was the Army order's ceiling only Aug 26-Sep 16, 2025, $1,218,233,067.52 at signing and $1,342,742,059.48 now; 39 employees) and insulin denial at the same facility"
   - url: https://theramm.substack.com/p/the-mercenaries-gardaworld-kvg-and
     title: "The Mercenaries: GardaWorld, KVG, and the $1.35 Billion Nobody Was Watching"
 corrections:
@@ -97,6 +97,11 @@ corrections:
   now: ""
   why: "https://www.texastribune.org/2025/12/10/texas-migrant-detention-fort-bliss-abuse-allegations-aclu-report/ ; HRW ; ACLU ; the 19-page letter — method is 'months of interviews with more than 45 detained people' plus 16 sworn declarations; no photographs, medical records review, or announced House Oversight / Senate Judiciary investigations; DHS 'false and misleading', McLaughlin 'categorically false' about claims of inhumane conditions"
   found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-11-16'
+  was: "A leaked internal ICE inspection found the facility violated over 60 federal detention standards in its first 50 days of operation. / note: ($1.24B contract, 39 employees)"
+  now: "The 60+ count is the Washington Post's report of a separate Sept 2025 inspection; ODO's Feb 10-12, 2026 inspection counted 49. These are different counts, not a conflict. The $1.24B in the RAMM piece's note was the Army order's ceiling only Aug 26-Sep 16, 2025 ($1,218,233,067.52 at signing, $1,342,742,059.48 now)."
+  why: "cascade-kb cee81b27, task correct-canon-camp-east-montana-1-24b-ceiling-and-incumbency-claims; USAspending per-modification ceilings"
+  found_by: "correct-canon wording patch 2026-11-16"
 verification: captured
 claims:
 - id: c0
