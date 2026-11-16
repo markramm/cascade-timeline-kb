@@ -118,4 +118,4 @@ ICE bought a warehouse on the city's East Side for $66.1 million in January. The
 
 Mayor Gina Ortiz Jones said the city has put a deadline by the 30th of September to review what response it gets from ICE before deciding next steps. Opponents plan to march from Davis Middle School toward the ICE site on Saturday, Oct. 3.
 
-Same site, earlier steps: [[2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-detention-conversion]], [[2026-04-17--san-antonio-restricts-detention-facilities-ordinance]], [[2026-04-15--hurson-maryland-nepa-precedent-bexar-tx-warehouse-pause]].
+Same site, earlier steps: [[2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-conversion-via-wexmac-titus-after-retreat]], [[2026-04-17--san-antonio-restricts-detention-facilities-ordinance]], [[2026-04-15--hurson-maryland-nepa-precedent-bexar-tx-warehouse-pause]].

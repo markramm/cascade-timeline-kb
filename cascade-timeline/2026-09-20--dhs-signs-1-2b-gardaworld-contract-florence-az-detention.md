@@ -52,7 +52,7 @@ sources:
   tier: 2
 related_events:
 - 2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract
-- 2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-detention-conversion
+- 2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-conversion-via-wexmac-titus-after-retreat
 - 2026-09-06--dhs-retains-contractor-surprise-az-environmental-review
 - 2026-09-21--dhs-awards-7-3b-idiq-detention-contracts-five-states
 coverage:
@@ -211,9 +211,9 @@ claims:
   checked: '2026-10-13'
 - id: c16
   type: figure
-  value: '61829037.54'
+  value: '$17,333,698.5'
   qualifier: total_obligation
-  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  span: '"total_obligation": 17333698.5, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 17333698.5, "base_and_all_options": 1008135768.12'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
   read: fetched
   source_kind: primary
@@ -223,7 +223,7 @@ claims:
   type: figure
   value: '1008135768.12'
   qualifier: base_and_all_options
-  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  span: '"total_obligation": 17333698.5, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 17333698.5, "base_and_all_options": 1008135768.12'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
   read: fetched
   source_kind: primary
@@ -283,7 +283,7 @@ corrections:
   found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
   was: a $313 million operating contract for the Surprise, AZ warehouse conversion; a separate $17.3 million San Antonio warehouse-conversion award
-  now: Surprise order 70CDCR26FR0000043 is a renovation-plus-wraparound-services order with $313,357,612.46 obligated and $704,091,073 potential; San Antonio order 70CDCR26FR0000103 now has $61,829,037.54 obligated and $1,008,135,768.12 potential.
+  now: Surprise order 70CDCR26FR0000043 is a renovation-plus-wraparound-services order with $313,357,612.46 obligated and $704,091,073 potential; San Antonio order 70CDCR26FR0000103 now has $17,333,698.5 obligated and $1,008,135,768.12 potential (re-fetched 2026-11-16; an earlier reading of $61,829,037.54 no longer appears in the record).
   why: 'USAspending IDV 70CMSW26D00000014 and order 70CMSW26FR0000093 (api.usaspending.gov, retrieved 2026-10-13); Tucson.com/Arizona Republic and KJZZ for what the press reported; ICE solicitation 70CMSW26R00000012 (SAM.gov, read from saved copy: five single-award construction IDIQs capped together at $10 billion, Florence priced as a ''sample'' 26-cell Secure Housing Unit scenario; not fetchable by the gate)'
   found_by: "editorial verification, 2026-10-13"
 - date: '2026-10-13'
@@ -303,4 +303,4 @@ Tucson.com, carrying an Arizona Republic report, said the security firm GardaWor
 
 The USAspending record is for IDV 70CMSW26D00000014, a construction contract vehicle: "SINGLE AWARD CONSTRUCTION CONTRACT (SACC) INDEFINITE DELIVERY INDEFINITE QUANTITY (IDIQ) CONTRACT VEHICLE DESIGNED TO SUPPORT A BROAD RANGE OF CONSTRUCTION-RELATED SERVICES FOR OFFICE OF ASSETS AND FACILITY MANAGEMENT (OAFM) AT FLORENCE, AZ (PHO)." Its potential value (base and all options) is $1,200,000,000 and its total obligation is $0. It is coded "FULL AND OPEN COMPETITION", with 5 offers received. Its one order, 70CMSW26FR0000093, is described as "GUARANTEED MINIMUM FOR SINGLE AWARD CONSTRUCTION CONTRACT (SACC) IDIQ CONTRACT VEHICLE DESIGNED TO SUPPORT A BROAD RANGE OF CONSTRUCTION-RELATED SERVICES FOR OAFM AT FLORENCE, AZ (PHO)." and carries $10,000 obligated. The award descriptions carry no bed count.
 
-GardaWorld Federal Services LLC's other ICE detention task orders are a different kind of award. The Surprise, Arizona order, 70CDCR26FR0000043, lists $313,357,612.46 obligated and $704,091,073 potential ([[2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract]]). The San Antonio order, 70CDCR26FR0000103, lists $61,829,037.54 obligated and $1,008,135,768.12 potential ([[2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-detention-conversion]]). Tucson.com reports that in June the department agreed to hold off on physically converting the Surprise warehouse until the completion of an environmental review ([[2026-09-06--dhs-retains-contractor-surprise-az-environmental-review]]). Related: [[2026-09-21--dhs-awards-7-3b-idiq-detention-contracts-five-states]].
+GardaWorld Federal Services LLC's other ICE detention task orders are a different kind of award. The Surprise, Arizona order, 70CDCR26FR0000043, lists $313,357,612.46 obligated and $704,091,073 potential ([[2026-03-06--ice-awards-gardaworld-313m-surprise-arizona-contract]]). The San Antonio order, 70CDCR26FR0000103, lists $17,333,698.5 obligated and $1,008,135,768.12 potential ([[2026-08-27--ice-awards-gardaworld-17-3m-san-antonio-warehouse-conversion-via-wexmac-titus-after-retreat]]). Tucson.com reports that in June the department agreed to hold off on physically converting the Surprise warehouse until the completion of an environmental review ([[2026-09-06--dhs-retains-contractor-surprise-az-environmental-review]]). Related: [[2026-09-21--dhs-awards-7-3b-idiq-detention-contracts-five-states]].
