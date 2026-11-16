@@ -16,6 +16,12 @@ tags:
 - minneapolis
 - immigration-enforcement
 - 2026-cascade
+corrections:
+- date: '2026-11-16'
+  was: "an ICE agent killed legal observer Renee Good"
+  now: "an ICE agent killed Renee Nicole Good, whom local officials described as a legal observer"
+  why: "https://www.aljazeera.com/news/2026/1/8/who-is-renee-nicole-good-the-woman-killed-in-the-ice-minneapolis-shooting ('Local officials said the woman was acting as a legal observer'); https://www.advocate.com/news/renee-good-family-legal-observer (family attorneys: stopped 'to observe with the intention of supporting and helping their neighbors'); https://www.rblaw.net/assets/htmldocuments/ECF%201.%20Good_Complaint%201985.pdf paras 1, 166-167 (Becca Good filming, Renee Good honking; label not applied to Renee). See [[2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge]]."
+  found_by: "organizer tick 59; corrected by cascade-research task correct-canon-pretti-border-patrol-not-ice-and-good-legal-observer-attribution-jan-2026-entries"
 sources:
 - title: 2,000 federal agents deploying to Minneapolis in immigration crackdown
   url: https://www.cbsnews.com/news/minneapolis-federal-agents-crackdown/
@@ -116,4 +122,8 @@ DHS Secretary Kristi Noem announced the deployment of 2,000 federal agents to th
 
 The operation, dubbed "Operation Metro Surge," had quietly begun in early December 2025 with approximately 700 agents. The January 6 announcement represented a massive escalation, more than doubling the number of local Minneapolis police officers with federal immigration agents. Agent composition included approximately 75% from ICE's Enforcement and Removal Operations, 600 investigators from Homeland Security Investigations, Special Response Teams (tactical units), and U.S. Border Patrol agents.
 
-The operation would trigger the first recorded homicide of 2026 in Minneapolis the following day when an ICE agent killed legal observer Renee Good, sparking nationwide protests and eventually leading to the resignation of six federal prosecutors who objected to DOJ's handling of the investigation.
+The operation would trigger the first recorded homicide of 2026 in Minneapolis the following day when an ICE agent killed Renee Nicole Good, whom local officials described as a legal observer, sparking nationwide protests and eventually leading to the resignation of six federal prosecutors who objected to DOJ's handling of the investigation.
+
+## Correction, 2026-11-16
+
+Changed the wording from *an ICE agent killed legal observer Renee Good* to *an ICE agent killed Renee Nicole Good, whom local officials described as a legal observer*. Good's label as a legal observer comes from local officials, per the reporting cited in the corrections record; her family's attorneys said she and her wife stopped to observe with the intention of supporting and helping their neighbors; the family's complaint in *Ganger v. Ross* has Becca Good filming and Renee Good honking her horn to warn neighbors and does not apply the label to Renee. The entry now attributes it.

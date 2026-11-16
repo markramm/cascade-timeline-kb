@@ -16,6 +16,12 @@ tags:
 - constitutional-challenge
 - minneapolis
 - 2026-cascade
+corrections:
+- date: '2026-11-16'
+  was: "a 37-year-old U.S. citizen and legal observer"
+  now: "a 37-year-old U.S. citizen whom local officials described as a legal observer"
+  why: "https://www.aljazeera.com/news/2026/1/8/who-is-renee-nicole-good-the-woman-killed-in-the-ice-minneapolis-shooting ('Local officials said the woman was acting as a legal observer'); https://www.advocate.com/news/renee-good-family-legal-observer (family attorneys: stopped 'to observe with the intention of supporting and helping their neighbors'); https://www.rblaw.net/assets/htmldocuments/ECF%201.%20Good_Complaint%201985.pdf paras 1, 166-167 (Becca Good filming, Renee Good honking; label not applied to Renee). See [[2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge]]."
+  found_by: "organizer tick 59; corrected by cascade-research task correct-canon-pretti-border-patrol-not-ice-and-good-legal-observer-attribution-jan-2026-entries"
 sources:
 - title: Attorney General Ellison and cities sue to halt ICE surge
   url: https://www.ag.state.mn.us/Office/Communications/2026/01/12_ICE.asp
@@ -60,6 +66,10 @@ coverage:
 
 Minnesota Attorney General Keith Ellison, along with the cities of Minneapolis and Saint Paul, filed a federal lawsuit against DHS Secretary Kristi Noem and other federal officials seeking to halt Operation Metro Surge. The lawsuit alleged violations of the 10th Amendment and constitutional sovereignty, asking the court to declare the ICE surge unconstitutional and grant a temporary restraining order and permanent injunction.
 
-The lawsuit cited: unlawful racial profiling, targeting of sensitive locations (schools, medical facilities, places of worship, daycares, funeral homes), arresting peaceful bystanders, and detaining U.S. citizens. The filing came five days after ICE agent Jonathan Ross fatally shot Renee Good, a 37-year-old U.S. citizen and legal observer.
+The lawsuit cited: unlawful racial profiling, targeting of sensitive locations (schools, medical facilities, places of worship, daycares, funeral homes), arresting peaceful bystanders, and detaining U.S. citizens. The filing came five days after ICE agent Jonathan Ross fatally shot Renee Good, a 37-year-old U.S. citizen whom local officials described as a legal observer.
 
 The lawsuit noted that Minneapolis police had worked over 3,000 hours of overtime by January 9, with estimated costs exceeding $2 million in just four days. Customer-facing businesses along immigrant corridors reported 50-80% revenue decreases, with 80% of immigrant-owned businesses temporarily closing—described by business owners as "worse than COVID."
+
+## Correction, 2026-11-16
+
+Changed the wording from *a 37-year-old U.S. citizen and legal observer* to *a 37-year-old U.S. citizen whom local officials described as a legal observer*. Good's label as a legal observer comes from local officials, per the reporting cited in the corrections record; her family's attorneys said she and her wife stopped to observe with the intention of supporting and helping their neighbors; the family's complaint in *Ganger v. Ross* has Becca Good filming and Renee Good honking her horn to warn neighbors and does not apply the label to Renee. The entry now attributes it.

@@ -13,6 +13,12 @@ tags:
 - democratic-erosion
 - resistance
 - immigration-enforcement
+corrections:
+- date: '2026-11-16'
+  was: "ICE enforcement killings — including those of Renee Good, Keith Porter Jr., and Alex Pretti"
+  now: "killings by federal immigration agents — including those of Renee Good, Keith Porter Jr., and Alex Pretti (shot by Border Patrol)"
+  why: "https://www.cbsnews.com/minnesota/live-updates/reported-shooting-south-minneapolis-federal-agents-protesters/ ('the fatal shooting of Alex Pretti by a Border Patrol Agent in Minneapolis'); see [[2026-01-24--border-patrol-kills-alex-pretti-legal-observer-minneapolis]]."
+  found_by: "organizer tick 59; corrected by cascade-research task correct-canon-pretti-border-patrol-not-ice-and-good-legal-observer-attribution-jan-2026-entries"
 sources:
 - title: "'No Kings' protest movement announces March rally on Boston Common"
   url: https://www.boston.com/news/events/2026/03/11/no-kings-protest-movement-announces-march-rally-on-boston-common/
@@ -45,4 +51,8 @@ Boston's event — announced the same day by a coalition including the ACLU of M
 
 The No Kings movement had grown substantially since its first mobilization. Previous rounds had drawn between 2 million and 6.5 million participants nationally. For the March 28 event, organizers described unprecedented preparation: weeks-long safety and security buildups, formal de-escalation trainings, coordination with legal observers, volunteer marshal training through Indivisible, and a nationwide "Eyes on ICE" monitoring program whose first virtual training session drew more than 200,000 viewers.
 
-The movement was triggered initially by ICE enforcement killings — including those of Renee Good, Keith Porter Jr., and Alex Pretti — and the administration's aggressive immigration operations. The March 28 protests were being organized by a coalition including Indivisible, 50501, and the AFL-CIO, representing an unusual convergence of grassroots civic resistance groups and organized labor.
+The movement was triggered initially by killings by federal immigration agents — including those of Renee Good, Keith Porter Jr., and Alex Pretti (shot by Border Patrol) — and the administration's aggressive immigration operations. The March 28 protests were being organized by a coalition including Indivisible, 50501, and the AFL-CIO, representing an unusual convergence of grassroots civic resistance groups and organized labor.
+
+## Correction, 2026-11-16
+
+Changed the wording from *ICE enforcement killings — including those of Renee Good, Keith Porter Jr., and Alex Pretti* to *killings by federal immigration agents — including those of Renee Good, Keith Porter Jr., and Alex Pretti (shot by Border Patrol)*. Alex Pretti was killed by Border Patrol, not ICE. The sentence grouped him under ICE killings. It now says federal immigration agents and names Border Patrol for Pretti.

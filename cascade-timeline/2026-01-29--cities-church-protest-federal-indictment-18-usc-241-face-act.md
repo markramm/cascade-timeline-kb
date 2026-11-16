@@ -96,6 +96,11 @@ corrections:
   now: "| Lemon arrested in Beverly Hills | January 29, 2026 |\n| Fort arrested at her home | January 30, 2026 |"
   why: "https://minnesotareformer.com/2026/02/13/don-lemon-cities-church-protestors-plead-not-guilty-in-federal-court-in-minnesota/ — 'Lemon was arrested on Jan. 29 in a hotel lobby in Beverly Hills'; MPR News Jan 30: Fort arrested at home"
   found_by: "timeline fact-check slice 1 2026-10-08"
+- date: '2026-11-16'
+  was: "zero federal charges for the ICE killing of Renee Good (January 7) and Alex Pretti (January 24)"
+  now: "zero federal charges for the killing of Renee Good by an ICE officer (January 7) or of Alex Pretti by Border Patrol (January 24)"
+  why: "https://www.cbsnews.com/minnesota/live-updates/reported-shooting-south-minneapolis-federal-agents-protesters/ ('the fatal shooting of Alex Pretti by a Border Patrol Agent in Minneapolis'); see [[2026-01-24--border-patrol-kills-alex-pretti-legal-observer-minneapolis]]."
+  found_by: "organizer tick 59; corrected by cascade-research task correct-canon-pretti-border-patrol-not-ice-and-good-legal-observer-attribution-jan-2026-entries"
 verification: captured
 claims:
 - id: c0
@@ -232,7 +237,7 @@ According to Lawfare, the case appears to be the first criminal prosecution unde
 
 Cities Church is a Southern Baptist Convention congregation in St. Paul planted in 2014–2015 from John Piper's Bethlehem Baptist Church. One of its eight pastors, David Easterwood, serves simultaneously as Acting Field Office Director for ICE's Enforcement and Removal Operations in the five-state St. Paul jurisdiction (Minnesota, North Dakota, South Dakota, Iowa, Nebraska). Easterwood was not present during the January 18 service. The protest targeted the church specifically because of this dual role.
 
-The same prosecution period saw zero federal charges for the ICE killing of Renee Good (January 7) and Alex Pretti (January 24) in Minneapolis, and no federal response to the 96 court orders ICE violated in Minnesota per Judge Patrick Schiltz's January 28 ruling.
+The same prosecution period saw zero federal charges for the killing of Renee Good by an ICE officer (January 7) or of Alex Pretti by Border Patrol (January 24) in Minneapolis, and no federal response to the 96 court orders ICE violated in Minnesota per Judge Patrick Schiltz's January 28 ruling.
 
 Separately, at least four states enacted laws in 2026 criminalizing disruption of worship services in direct response to the Cities Church protest, extending the case's legal footprint beyond the federal prosecution.
 
@@ -252,3 +257,7 @@ Separately, at least four states enacted laws in 2026 criminalizing disruption o
 - [[levy-armstrong-nekima]]
 - [[cities-church]]
 - [[david-easterwood-cities-church-ice-pastor-scene-substrate-pack]]
+
+## Correction, 2026-11-16
+
+Changed the wording from *zero federal charges for the ICE killing of Renee Good (January 7) and Alex Pretti (January 24)* to *zero federal charges for the killing of Renee Good by an ICE officer (January 7) or of Alex Pretti by Border Patrol (January 24)*. Alex Pretti was killed by Border Patrol, not ICE (CBS News, the judge's preservation order coverage; the entry on his killing carries the full record). The sentence named ICE for both deaths. It now names the agency for each.
