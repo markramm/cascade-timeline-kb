@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-id: 2025-10-06--tether-loan-lutnick-children-ucc-filing
+id: 2025-10-07--tether-loan-lutnick-children-ucc-filing
 date: '2025-10-07'
 event_date_claim: c2
 title: Tether Loan to Lutnick Children Revealed via UCC Filing
@@ -26,7 +26,7 @@ sources:
 - url: https://thechainobserver.com/swan-bitcoin-to-subpoena-cantor-fitzgerald/
   title: The Chain Observer, on Swan Bitcoin's 28 U.S.C. 1782 application
   tier: 3
-status: confirmed
+status: reported
 capture_lanes:
 - financial-capture
 - regulatory-capture
@@ -92,6 +92,7 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-15'
+previous_ids: ['2025-10-06--tether-loan-lutnick-children-ucc-filing']
 ---
 
 A credit document filed in New York on October 7, 2025, the day after Howard Lutnick sold his stake in the financial-services firm to his children, shows Tether lending an undisclosed amount to "Dynasty Trust A," according to Bloomberg reporting as relayed in an April 2026 letter from Senators Warren and Wyden. The senators write that the trust's four beneficiaries are Lutnick's children and that the loan is reportedly secured by "all assets" the trust holds, including more than half of the firm's equity, in the senators' words. A court application by a party in a separate Tether dispute, as reported by a trade outlet, says a public UCC filing identified Tether as collateral agent for the trust. A summary of the Bloomberg report quotes a firm executive saying the loan is collateralized by a convertible bond that gives the firm the right to acquire a 5% stake in Tether.
