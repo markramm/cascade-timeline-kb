@@ -129,6 +129,84 @@ claims:
   url: https://www.ms.now/rachel-maddow-show/maddowblog/hegseth-pentagon-fatalities-casualties-war-iran-defense-dcas
   read: fetched
   source_kind: secondary
+- type: date
+  value: October 29, 2026
+  span: Published October 29, 2026 · The Pentagon has revised the number of U.S. troops who have died during operations related to the war against Iran to 23.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: '23'
+  qualifier: to
+  span: The Pentagon has revised the number of U.S. troops who have died during operations related to the war against Iran to 23.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: '865'
+  qualifier: wounded
+  span: Additionally, 865 American service members have been wounded.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: 15 deaths and 417 wounded
+  qualifier: counts
+  span: It counts 15 deaths and 417 wounded.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: eight deaths and 448 wounded
+  qualifier: lists
+  span: It lists eight deaths and 448 wounded.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: Feb. 28
+  qualifier: Epic Fury began
+  span: The first, Operation Epic Fury, began with U.S. and Israeli strikes on Iran on Feb. 28.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: July 7
+  qualifier: overseas operations since
+  span: The second category, “overseas operations,” covers casualties since July 7.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: overseas operations
+  span: The second category, “overseas operations,” covers casualties since July 7.
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-16'
 sources:
 - title: Pentagon Quietly Raises Count of U.S. Troops Killed in Iran War (headline, Oct. 12 broadcast)
   url: https://www.democracynow.org/2026/10/12/headlines/pentagon_quietly_raises_count_of_us_troops_killed_in_iran_war
@@ -150,6 +228,11 @@ sources:
   publisher: MS NOW (MaddowBlog)
   date: '2026-10-12'
   tier: 2
+- title: Pentagon raises official death toll from Iran war to 23
+  url: https://www.stripes.com/theaters/middle_east/2026-10-29/pentagon-iran-war-troops-deaths-23299434.html
+  publisher: Stars and Stripes
+  date: '2026-10-29'
+  tier: 2
 tags:
 - iran-war
 - pentagon
@@ -163,6 +246,23 @@ actors:
 - Chrissy Houlahan
 related_events:
 - 2026-03-13--iran-war-two-week-casualties-cost
+updates:
+- date: '2026-10-29'
+  date_kind: publication date
+  heading: DCAS count rises to 23 deaths; wounded stays at 865
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: iran-war-us-casualties
 ---
 
 The Defense Department edited its Defense Casualty Analysis System (DCAS) website on a Friday (database change date; reporting followed over the next days) and did not announce it. Democracy Now reports: "The Defense Casualty Analysis System website now lists 21 service members killed, up from 18, and 865 wounded, 98 more than in August." These outlets are secondary; DCAS itself blocks scripts and I did not reach a department release.
@@ -174,3 +274,7 @@ A department official told The Intercept of a new category: "This new category w
 Earlier changes, per MS NOW: the total of 18 was reduced to 14 in July. The Intercept says 454 of the casualties in the count occurred since July 7, when the label changed to "Overseas Operations."
 
 Terms such as "cover-up" belong to the sources that use them, not to this entry.
+
+## Update (2026-10-29, publication date): DCAS count rises to 23 deaths; wounded stays at 865
+
+Stars and Stripes reported on October 29, 2026 that the Pentagon had revised the number of U.S. troops who died during operations related to the war against Iran to 23. Its report says the total in the Defense Casualty Analysis System includes additional noncombat deaths recorded in updates Wednesday and Thursday, and that 865 service members have been wounded. The department reports the count in separate categories: Operation Epic Fury, which began Feb. 28, counts 15 deaths and 417 wounded, and "overseas operations," covering casualties since July 7, lists eight deaths and 448 wounded.
