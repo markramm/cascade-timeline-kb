@@ -4,7 +4,7 @@ id: 2026-07-22--genius-act-tether-lutnick-hines-revolving-door-bloomberg
 date: '2026-07-22'
 title: "Bloomberg: Lutnick and Hines Shaped GENIUS Act to Benefit Tether, Then Took Tether Jobs"
 importance: 8
-status: confirmed
+status: reported
 tags:
   - crypto-finance
   - regulatory-capture
@@ -27,8 +27,34 @@ sources:
     publisher: "Bloomberg"
     date: '2026-07-22'
     tier: 1
+verification: captured
+claims:
+- id: c1
+  type: quote
+  value: reportedly holds a 5 percent stake
+  qualifier: reportedly holds
+  span: As CEO of Tether’s asset manager, Cantor Fitzgerald, which also reportedly holds a 5 percent stake in the cryptocurrency company, Lutnick played a significant role in Tether’s rise.
+  url: https://www.warren.senate.gov/newsroom/press-releases/warren-probes-lutnick-for-ties-to-crypto-firm-with-long-record-of-financing-terrorists-illicit-activity
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c2
+  type: quote
+  value: a convertible bond but not a direct equity stake
+  qualifier: Lutnick testified
+  span: She also contended that Cantor Fitzgerald owns part of Tether, though Lutnick testified on Wednesday that the firm has a convertible bond but not a direct equity stake.
+  url: https://www.coindesk.com/policy/2025/01/29/as-lutnick-faces-u-s-senate-elizabeth-warren-scrutinizes-his-tether-ties
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
-A Bloomberg investigation published July 22, 2026 documents a revolving-door sequence around the GENIUS Act, the first federal stablecoin law. Before taking office as Commerce Secretary, Howard Lutnick worked to kill earlier stablecoin legislation that was unfavorable to Tether, the stablecoin issuer in which he holds a roughly $600 million stake ([[2025-01-28--warren-probes-lutnick-tether-ties-cantor-reported-5-percent-stake]]). During GENIUS Act drafting, White House crypto aide Bo Hines personally defended provisions preferred by Tether. Within one month of the Act's signing, Tether hired Hines — later promoting him to CEO of its new U.S. stablecoin, USAT — completing the loop from regulatory advocacy to direct employment by the company that benefited.
+A Bloomberg investigation published July 22, 2026 documents a revolving-door sequence around the GENIUS Act, the first federal stablecoin law. Before taking office as Commerce Secretary, Howard Lutnick worked to kill earlier stablecoin legislation that was unfavorable to Tether, the stablecoin issuer in which Cantor Fitzgerald, the firm he led, "reportedly holds a 5 percent stake," according to a January 2025 release from Sen. Elizabeth Warren; Lutnick testified that Cantor holds "a convertible bond but not a direct equity stake," according to CoinDesk ([[2025-01-28--warren-probes-lutnick-tether-ties-cantor-reported-5-percent-stake]]). During GENIUS Act drafting, White House crypto aide Bo Hines personally defended provisions preferred by Tether. Within one month of the Act's signing, Tether hired Hines — later promoting him to CEO of its new U.S. stablecoin, USAT — completing the loop from regulatory advocacy to direct employment by the company that benefited.
 
 This closes the loop on a pattern the timeline has been tracking piecemeal since Tether's early 2025 political rehabilitation ([[2025-04-29--tether-was-accused-of-fraud-now-it-s-a-crypto-darling-in-was]]), which already named both Hines and Lutnick as vectors of Tether's rising Washington influence, and Lutnick's undisclosed-scale financial exposure to the company he was positioned to regulate ([[2025-01-28--warren-probes-lutnick-tether-ties-cantor-reported-5-percent-stake]]), further extended by the UCC filing revealing Tether as collateral agent for the Lutnick family trust ([[2025-10-07--tether-loan-lutnick-children-ucc-filing]]). It also sits alongside the broader GENIUS Act implementation record — the OCC's industry-preferred reserve-standard rulemaking ([[2026-06-24--genius-act-occ-stablecoin-charters-crypto-industry-reserve-standards]]) and the July 18 deadline opening the stablecoin market to banks ([[2026-07-12--genius-act-july18-deadline-banks-enter-stablecoin-market]]) — as documentation that the law Trump signed hailing a "new frontier" ([[2025-07-18--trump-signs-landmark-genius-act-hailing-exciting-new-frontie]]) was shaped at the drafting stage by the people who personally profited from its passage, a textbook case of the personnel-capture mechanism found throughout the crypto-regulatory apparatus.
+
+## Corrections (2026-11-16)
+
+- This entry previously said Lutnick holds a roughly $600 million stake in Tether. The reconciliation against his OGE filings (nominee 278e dated 01/22/2025 and ethics agreement) found no Tether holding of his. The $600 million is Cantor Fitzgerald's reported convertible-bond price for a reported stake of about 5 percent. The 5 percent is attributed to Warren's release (Cantor, "reportedly"); Lutnick testified that Cantor holds a convertible bond, not direct equity. See [[2025-01-28--warren-probes-lutnick-tether-ties-cantor-reported-5-percent-stake]].
