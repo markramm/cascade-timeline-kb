@@ -43,7 +43,8 @@
     <label for="f-status">Status</label>
     <select id="f-status">
       <option value="">all</option>
-      <option value="confirmed">confirmed</option>
+      <option value="confirmed">confirmed (re-checked)</option>
+      <option value="unchecked">not yet re-checked</option>
       <option value="reported">reported</option>
       <option value="alleged">alleged</option>
       <option value="disputed">disputed</option>
@@ -320,7 +321,7 @@
         + '</td>'
         + '<td>'+(actors||'<span class="dim">—</span>')+'</td>'
         + '<td class="lanes">'+laneDots+'</td>'
-        + '<td><span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">'+esc(e.status||'')+'</span></td>'
+        + '<td><span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">'+esc(e.status==='unchecked'?'not re-checked':(e.status||''))+'</span></td>'
         + '</tr>';
     }).join('');
     els.tbody.insertAdjacentHTML('beforeend', html);

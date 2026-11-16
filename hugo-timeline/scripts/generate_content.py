@@ -36,6 +36,19 @@ TERM_PAGE_MIN_EVENTS = 3
 LINKED_ACTORS: set[str] = set()
 LINKED_TAGS: set[str] = set()
 
+
+def display_status(ev: dict) -> str:
+    """Public status: "confirmed" only when every claim was re-checked (verification: source-verified).
+
+    An entry marked confirmed before the claims gate existed shows as "unchecked" ("not re-checked"),
+    matching the event page's status pill. The underlying frontmatter is not changed.
+    """
+    st = (ev.get("status") or "").strip().strip('"').lower()
+    ver = (ev.get("verification") or "").strip().strip('"').lower()
+    if st == "confirmed" and ver != "source-verified":
+        return "unchecked"
+    return st
+
 def hugo_urlize(s: str) -> str:
     """Mirror Hugo's `urlize` function — lowercase, replace spaces and most
     punctuation with dashes, but PRESERVE dots and other path-safe chars.
@@ -280,7 +293,7 @@ def write_filter_dataset(events: list[dict]) -> None:
             "actors":  ev.get("actors") or [],
             "tags":    ev.get("tags") or [],
             "capture_lanes": ev.get("capture_lanes") or [],
-            "status":  ev.get("status"),
+            "status":  display_status(ev),
             "importance": ev.get("importance"),
             "body":    body,
         })
@@ -705,7 +718,7 @@ def write_actor_events(events: list[dict]) -> None:
             "date":  str(ev["date"]),
             "lane":  lk,
             "imp":   ev.get("importance") or 5,
-            "stat":  (ev.get("status") or "")[:1],   # 'c'/'r'/'a'/'d' or ''
+            "stat":  ("r" if display_status(ev) == "unchecked" else (ev.get("status") or "")[:1]),   # unchecked "confirmed" draws as reported
             "title": (ev.get("title") or "")[:120],
         }
         for actor in ev.get("actors") or []:

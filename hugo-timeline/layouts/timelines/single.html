@@ -89,7 +89,7 @@
             {{ end }}
           </td>
           <td>{{ with .Params.actors }}<span class="dim mono" style="font-size:11px;">{{ len . }}</span>{{ end }}</td>
-          <td>{{ with .Params.status }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ . }}</span>{{ end }}</td>
+          <td>{{/* "confirmed" shows only when every claim was re-checked (verification: source-verified), as on the event page. */}}{{ $ver := .Params.verification | default "none" }}{{ with .Params.status }}{{ $s := . }}{{ if and (eq $s "confirmed") (ne $ver "source-verified") }}{{ $s = "not re-checked" }}{{ end }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ $s }}</span>{{ end }}</td>
         </tr>
       {{ end }}
       </tbody>
