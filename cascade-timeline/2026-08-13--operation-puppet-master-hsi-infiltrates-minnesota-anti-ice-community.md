@@ -44,6 +44,16 @@ sources:
     publisher: emptywheel
     date: '2026-08-18'
     tier: 2
+  - title: Activists turn to noise demonstrations at local hotels to get ‘ICE out of Minnesota’
+    url: https://sahanjournal.com/immigration/ice-noise-protest-hotel-edina-minnesota/
+    publisher: Sahan Journal
+    date: '2025-12-12'
+    tier: 2
+  - title: Graduate Hotel protest sees 3 arrests from University police
+    url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+    publisher: Minnesota Daily
+    date: '2026-01-21'
+    tier: 2
 coverage:
   - url: https://theramm.transparencycascade.org/p/the-surveillance-started-before-the
     title: "The Surveillance Started Before the Killings"
@@ -118,6 +128,105 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-15'
+- type: date
+  value: Dec. 11, 2025
+  span: Protesters hold a noise demonstration to protest U.S. immigration and Customs Enforcement agents staying at the Homewood Suites on Dec. 11, 2025 in Edina.
+  url: https://sahanjournal.com/immigration/ice-noise-protest-hotel-edina-minnesota/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-15'
+- type: date
+  value: Thursday night
+  span: Protesters banged pots and pans, blew noisemakers, shouted through speakers and leaned on car horns outside Homewood Suites by Hilton in Edina for three hours on Thursday night.
+  url: https://sahanjournal.com/immigration/ice-noise-protest-hotel-edina-minnesota/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Protesters banged pots and pans, blew noisemakers, shouted through speakers and leaned on car horns outside Homewood Suites by Hilton in Edina for three hours
+  span: Protesters banged pots and pans, blew noisemakers, shouted through speakers and leaned on car horns outside Homewood Suites by Hilton in Edina for three hours on Thursday night.
+  url: https://sahanjournal.com/immigration/ice-noise-protest-hotel-edina-minnesota/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-15'
+- type: figure
+  value: About 150 people
+  span: About 150 people gathered as part of an effort to disrupt the peace of the Immigration and Customs Enforcement (ICE) agents staying at the hotel.
+  url: https://sahanjournal.com/immigration/ice-noise-protest-hotel-edina-minnesota/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-15'
+- type: date
+  value: Jan. 13
+  span: Hundreds of anti-ICE protesters brought pots, pans, guitars, smoke detectors and whistles to what organizers called a “noise demonstration” outside the Graduate Hotel on the night of Jan. 13, following allegations of U.S. Immigration and Customs Enforcement’s occupancy in the hotel.
+  url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: pots, pans, guitars, smoke detectors and whistles
+  span: Hundreds of anti-ICE protesters brought pots, pans, guitars, smoke detectors and whistles to what organizers called a “noise demonstration” outside the Graduate Hotel on the night of Jan. 13, following allegations of U.S. Immigration and Customs Enforcement’s occupancy in the hotel.
+  url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-15'
+- type: figure
+  value: Hundreds
+  span: Hundreds of anti-ICE protesters brought pots, pans, guitars, smoke detectors and whistles to what organizers called a “noise demonstration” outside the Graduate Hotel on the night of Jan. 13, following allegations of U.S. Immigration and Customs Enforcement’s occupancy in the hotel.
+  url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: noise demonstration
+  span: Hundreds of anti-ICE protesters brought pots, pans, guitars, smoke detectors and whistles to what organizers called a “noise demonstration” outside the Graduate Hotel on the night of Jan. 13, following allegations of U.S. Immigration and Customs Enforcement’s occupancy in the hotel.
+  url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-15'
+- type: quote
+  value: Wide Awake
+  span: The protest was what the Sunrise Movement and SDS call a “Wide Awake,” a loud and peaceful noise demonstration that uses whistles, instruments, car alarms or horns and other noisemakers to express dissent and wake people up, according to a joint post.
+  url: https://mndaily.com/top-story/graduate-hotel-protest-sees-3-arrests-from-university-police/01/21/2026/eicmndaily-com/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-15'
+updates:
+- date: '2025-12-11'
+  date_kind: protest date (Edina)
+  heading: What the hotel noise protests were
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-hsi-dhs-detention
 ---
 
 Federal court filings in the District of Minnesota — unsealed August 13, 2026 on a discovery motion by defense attorney Kevin Riach in *United States v. Sant et al.*, Case 0:26-cr-00115 (D. Minn.), and reported the same day across KSTP, the Minnesota Reformer, AP, and CBS — revealed "Operation Puppet Master" — a Homeland Security Investigations case opened four days after federal immigration agents shot and killed Alex Pretti, a nurse and protester, in Minneapolis, and covering undercover work that began earlier: its own report summarizes undercover-agent activity from December 3, 2025, "before the formal opening of Operation Puppet Master" (Doc. 212-12). Undercover HSI agents posing as protesters and activists surveilled community meetings at churches, parks, libraries, union halls, schools, and restaurants. Agents secretly recorded political discussions, entered encrypted Signal chats, collected license plate numbers, and compiled dossiers containing names, photographs, home addresses, and employment and family information. Targets included labor unions, community groups, the Sunrise Movement, and a bicycle repair collective. The Intercept reported that at least one undercover agent attempted to entice Minneapolis activists toward more confrontational tactics.
@@ -133,3 +242,7 @@ The predicate matters as much as the surveillance. Emptywheel's reporting traced
 ## Corrections (2026-11-15)
 
 The earlier text said a "federal terrorism probe was opened against Minnesota protesters banging pots and pans outside hotels housing ICE agents." That clause came from a Defiance (Substack) summary of an August 13 New York Times story and is not supported as stated. Read at source: the Doc. 212-12 report (US v. Sant) lists "organized hotel noise demonstrations" among ideas raised at a Sunrise Movement meeting and records that the next hotel noise demonstration would be at a Hampton Inn in Eagan; The Intercept (August 15) reports undercover agents joined a Sunrise Signal group planning hotel protests and attended a January 9 demonstration outside a Hilton. "Domestic terrorist financing" appears in Doc. 212-5 for the review of SEIU wire transfers, not for noise protesters. No released report read says a terrorism investigation targeted pots-and-pans protesters. The New York Times story itself was not reached (paywalled; no bypass attempted), so whether the Times characterized it differently is unverified. The clause above is rewritten to what the reports show.
+
+## Update (2025-12-11, protest date (Edina)): What the hotel noise protests were
+
+Sahan Journal reported that on Thursday night, Dec. 11, 2025, "Protesters banged pots and pans, blew noisemakers, shouted through speakers and leaned on car horns outside Homewood Suites by Hilton in Edina for three hours." About 150 people gathered, in an effort to disrupt the peace of the ICE agents staying at the hotel. On the night of Jan. 13, 2026, hundreds of protesters brought "pots, pans, guitars, smoke detectors and whistles" to a "noise demonstration" outside the Graduate Hotel, the Minnesota Daily reported. The Sunrise Movement and SDS call such a protest a "Wide Awake," which they describe as a loud and peaceful noise demonstration.
