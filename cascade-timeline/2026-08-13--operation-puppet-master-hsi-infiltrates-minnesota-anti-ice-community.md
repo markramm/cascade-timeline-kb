@@ -66,6 +66,58 @@ corrections:
   now: "when HSI undercover agents tracked the Sunrise Movement's noise demonstrations outside hotels thought to house ICE agents; the released reports show no terrorism investigation of those demonstrators"
   why: "The clause traced to a secondary summary (Defiance, Aug 14) of a New York Times story of Aug 13. The released ROIs show hotel noise demonstrations only as an idea at a Sunrise meeting (Doc. 212-12) and as tracked events, and use 'domestic terrorist financing' only for the SEIU wire-transfer review (Doc. 212-5). The NYT story was not reached."
   found_by: "research-notes/tgie-minnesota-items-verified-at-source-2026-11-15.md item 7"
+verification: captured
+claims:
+- id: c1
+  type: quote
+  value: organized hotel noise demonstrations
+  qualifier: possible actions
+  span: 'Facilitated discussions between attendees and facilitators developed the following possible actions: surveillance, crashing the ICE hiring website, getting someone in as an ICE agent (with the intent of them disrupting operations), shaming & bullying ICE, sitting outside of the Whipple building, wasting ICE''s resources such as flooding their tipline & taking long time during interviews, and organized hotel noise demonstrations.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.12_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-15'
+- id: c2
+  type: figure
+  value: Hampton Inn - Eagan
+  qualifier: next hotel noise demonstration
+  span: HSI UCA 9843 learned that the next hotel noise demonstration would be held at Hampton Inn — Eagan, where PY claimed ICE had 16 rooms rented.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.12_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-15'
+- id: c3
+  type: quote
+  value: domestic terrorist financing
+  qualifier: financial investigation
+  span: This financial investigation involving protest domestic terrorist financing continues.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.5_1.pdf
+  read: fetched
+  source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-15'
+- id: c4
+  type: date
+  value: December 22
+  qualifier: Signal group
+  span: By December 22, an undercover agent had been added to the Signal group for planning one of Sunrise’s hotel protests.
+  url: https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
+- id: c5
+  type: figure
+  value: two undercover agents
+  qualifier: noise demonstration
+  span: On January 9, two undercover agents attended a noise demonstration outside a Hilton Hotel, noting that a member of the crowd set off fireworks at one point.
+  url: https://theintercept.com/2026/08/15/undercover-ice-agents-minneapolis-sunrise-movement/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-15'
 ---
 
 Federal court filings in the District of Minnesota — unsealed August 13, 2026 on a discovery motion by defense attorney Kevin Riach in *United States v. Sant et al.*, Case 0:26-cr-00115 (D. Minn.), and reported the same day across KSTP, the Minnesota Reformer, AP, and CBS — revealed "Operation Puppet Master" — a Homeland Security Investigations case opened four days after federal immigration agents shot and killed Alex Pretti, a nurse and protester, in Minneapolis, and covering undercover work that began earlier: its own report summarizes undercover-agent activity from December 3, 2025, "before the formal opening of Operation Puppet Master" (Doc. 212-12). Undercover HSI agents posing as protesters and activists surveilled community meetings at churches, parks, libraries, union halls, schools, and restaurants. Agents secretly recorded political discussions, entered encrypted Signal chats, collected license plate numbers, and compiled dossiers containing names, photographs, home addresses, and employment and family information. Targets included labor unions, community groups, the Sunrise Movement, and a bicycle repair collective. The Intercept reported that at least one undercover agent attempted to entice Minneapolis activists toward more confrontational tactics.
