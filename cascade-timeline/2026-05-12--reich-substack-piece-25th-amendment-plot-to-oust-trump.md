@@ -2,29 +2,79 @@
 type: timeline_event
 id: 2026-05-12--reich-substack-piece-25th-amendment-plot-to-oust-trump
 date: '2026-05-12'
-title: "Robert Reich Publishes Substack Piece Describing 25th Amendment 'Plot to Oust Trump'; Names Vance, Rubio, Johnson, Thune, Hegseth, Blanche; 30% Probability Within Four Months"
-importance: 9
+title: "Robert Reich Publishes Substack Post Relaying Dinner Companions' 'Fantasy'"
+importance: 5
 status: confirmed
 tags:
   - succession-discourse
   - 25th-amendment
-  - vance-coupling-thesis-in-public-discourse
   - reich-robert
-  - iran-war
-  - executive-power-transition
-  - public-commentary-position-change
+  - public-commentary
   - trump-administration
-  - midterm-2026
   - capture-cascade
 actors:
   - Robert Reich
-  - J.D. Vance
-  - Marco Rubio
-  - Mike Johnson
-  - John Thune
-  - Pete Hegseth
-  - Todd Blanche
   - Donald Trump
+event_date_claim: c1
+date_is_publication_date: true
+source_published_date: '2026-05-12'
+verification: source-verified
+claims:
+- id: c1
+  type: date
+  value: May 12, 2026
+  qualifier: May 12, 2026
+  span: Robert Reich May 12, 2026 ∙ Paid Friends, I had dinner recently with a group of political operatives
+  url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: had dinner recently with a group of political operatives
+  qualifier: dinner
+  span: I had dinner recently with a group of political operatives — sophisticated people who for years have been advising politicians and candidates.
+  url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: quote
+  value: their fantasy
+  qualifier: fantasy
+  span: During dinner they shared with me their fantasy, which they gave 30 percent odds of becoming a reality within the next four months.
+  url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: figure
+  value: 30 percent odds
+  qualifier: odds
+  span: During dinner they shared with me their fantasy, which they gave 30 percent odds of becoming a reality within the next four months.
+  url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: quote
+  value: within the next four months
+  qualifier: four months
+  span: During dinner they shared with me their fantasy, which they gave 30 percent odds of becoming a reality within the next four months.
+  url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+corrections:
+- date: '2026-11-16'
+  was: 'Title and body summarized the full post as describing a coordinated Republican-leadership effort, named seven officials, gave Reich a 30 percent probability, described a Section 4 call at Mar-a-Lago, and called Todd Blanche "White House Counsel".'
+  now: 'The entry states only what the public opening of the post says, as Reich’s account of what others told him. Blanche was Acting Attorney General, in the post since April 2, 2026.'
+  why: 'The post is paywalled and the earlier text was not drawn from it; span_check.py fetch returned only the opening. Blanche title per 2026-04-02--trump-fires-bondi-attorney-general.'
 sources:
   - title: "What I Just Heard About the Plot To Oust Trump"
     url: https://robertreich.substack.com/p/what-i-heard-about-the-plot-to-oust
@@ -33,6 +83,8 @@ sources:
     tier: 2
 ---
 
-On May 12, 2026, former Labor Secretary Robert Reich published a Substack piece titled "What I Just Heard About the Plot To Oust Trump." The piece describes a coordinated effort among Republican leadership to invoke the 25th Amendment removal mechanism against Trump on the basis of failed war policy (Iran), economic deterioration (inflation; oil-price shock; midterm-bloodbath political risk), and Trump's cognitive decline. Named figures: Vance (Vice President; presumed successor), Rubio (Secretary of State), Mike Johnson (House Speaker), John Thune (Senate Majority Leader), Pete Hegseth (Secretary of Defense), Todd Blanche (White House Counsel; proposed AG). Reich assigns a 30% probability within four months, with the probability rising if the Iran war continues. The described execution mechanism is a conference call invoking 25th Amendment Section 4 (cabinet declaration of inability) while Trump is at Mar-a-Lago. Reich frames the prospect with ambivalence ("I can't decide whether to be elated or worried").
+Former Labor Secretary Robert Reich published a Substack post about a plot to oust Trump. It is paywalled; only the opening is public, and this entry rests on that. Reich writes that he "had dinner recently with a group of political operatives" who shared "their fantasy," which they gave "30 percent odds" within "the next four months." That is Reich's account of what his dinner companions told him.
 
-This event marks a structural transition in the public discourse around the Trump-succession scenario. Until early May 2026, succession-engineering analysis lived in private working theses (e.g., the Vance Coupling Thesis), in specialist substack archives, and in the underlying evidence base — but had not surfaced in major commentariat-grade public commentary as a *named plot framework* with assigned probabilities. Reich's piece transitions the framework from specialist-discourse to public commentary by a former cabinet secretary with substantial mainstream readership. The plot-naming is now in public discourse; subsequent commentary cannot pretend the framework is novel or fringe. The substantive question for downstream analysis becomes the documentary-record adequacy of the framework's specific claims, not the analytical novelty of the claims themselves.
+## Correction
+
+The earlier text of this entry was not drawn from the post, and it gave Acting Attorney General Todd Blanche a wrong title. The `corrections` field above has the particulars.
