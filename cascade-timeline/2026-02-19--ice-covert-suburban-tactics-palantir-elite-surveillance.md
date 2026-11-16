@@ -48,6 +48,11 @@ sources:
   tier: 1
   title: ICE Is Going on a Surveillance Shopping Spree
   url: https://www.eff.org/deeplinks/2026/01/ice-going-surveillance-shopping-spree
+- date: '2025-09-25'
+  outlet: USAspending.gov
+  tier: 1
+  title: Award 70CTD022FR0000170, modification P00012
+  url: https://api.usaspending.gov/api/v2/transactions/
 - date: '2026-02-01'
   outlet: Sahan Journal
   tier: 1
@@ -78,7 +83,7 @@ Most strikingly, an environmental nonprofit worker reported that her organizatio
 
 ## The ELITE Surveillance Platform
 
-Undergirding the covert ground operations was a sophisticated technology infrastructure built on Palantir's ELITE (Enhanced Leads Identification and Targeting for Enforcement) platform, deployed under a $29.9 million contract beginning in September 2025. ELITE functions as an intelligence fusion tool: agents use it to populate a map with potential deportation targets, pull up dossiers on individuals, and receive "confidence scores" predicting the probability that a specific person will be at a particular location at a given time.
+Undergirding the covert ground operations was a sophisticated technology infrastructure built on Palantir's ELITE (Enhanced Leads Identification and Targeting for Enforcement) platform, funded through a September 2025 modification to ICE's existing Investigative Case Management order with Palantir. USAspending records that modification (P00012, dated 2025-09-25) at $29,898,236 for "licenses, continue configuration and engineering services for enhanced leads identification and targeting for enforcement." ELITE functions as an intelligence fusion tool: agents use it to populate a map with potential deportation targets, pull up dossiers on individuals, and receive "confidence scores" predicting the probability that a specific person will be at a particular location at a given time.
 
 The platform enables what enforcement officials call "target-rich area" identification — agents draw geographic shapes on the map to select neighborhoods where multiple targets may be present simultaneously, rather than executing address-specific warrants based on individual probable cause determinations. This neighborhood-scale probabilistic targeting is legally contested: civil liberties organizations have argued it cannot satisfy the Fourth Amendment's individualized probable cause requirements for arrest.
 
@@ -97,3 +102,7 @@ ELITE was one component of a much larger surveillance infrastructure assembled b
 The shift from visible surge to covert suburban operations carried several implications for accountability and civil liberties. The high-visibility Metro Surge had generated intense community monitoring, protest, and court intervention because its scale was observable. The covert suburban model was designed to be harder to see, document, and contest. Agents impersonating environmental workers — a deceptive tactic with no legal authorization — represented a qualitative escalation in the willingness to circumvent community awareness.
 
 The Palantir ELITE system represented a different kind of concern: the outsourcing of targeting decisions to an algorithmic system producing probabilistic scores, operated by a private corporation, funded through government contracts, and operating at scales that individual warrant requirements were never designed to accommodate. The combination of surveillance technology capable of monitoring entire neighborhoods and covert ground agents using pretextual cover stories created an enforcement posture qualitatively different from, and harder to hold accountable than, the surge operations that had drawn national attention.
+
+## Correction, 2026-11-16
+
+An earlier version said ELITE was deployed "under a $29.9 million contract beginning in September 2025." No separate $29.9 million ELITE contract exists in USAspending. The figure is a modification, P00012 (2025-09-25, $29,898,236), to Palantir's Investigative Case Management order 70CTD022FR0000170, whose description names Enhanced Leads Identification and Targeting for Enforcement. An earlier modification, P00009 (2025-04-11), carries the identical amount and describes work "to deploy new targeting and enforcement prioritization, self-deportation tracking, and immigration lifecycle process capabilities," the ImmigrationOS work. The two should not be read as separate contracts or added together as one program's price, and the reporting this entry cites does not itself state the figure.
