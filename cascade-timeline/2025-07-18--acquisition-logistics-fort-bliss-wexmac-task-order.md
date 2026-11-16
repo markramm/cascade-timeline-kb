@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2025-07-18--acquisition-logistics-fort-bliss-wexmac-task-order
 date: '2025-07-18'
-title: "Army Issues $1.24B WEXMAC Task Order to Acquisition Logistics for Fort Bliss Soft-Sided Detention Facility"
+title: "Army Issues WEXMAC Task Order to Acquisition Logistics for Fort Bliss Soft-Sided Detention Facility"
 importance: 8
 status: confirmed
 tags:
@@ -41,15 +41,82 @@ sources:
     publisher: Stars and Stripes
     date: '2025-07-22'
     tier: 1
+  - title: USAspending award record, Army order
+    url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/
+    publisher: USAspending.gov
+    date: '2026-11-16'
+    tier: 1
+  - title: USAspending award record, parent vehicle
+    url: https://api.usaspending.gov/api/v2/awards/CONT_IDV_N0002325D0004_9700/
+    publisher: USAspending.gov
+    date: '2026-11-16'
+    tier: 1
 capture_lanes:
   - Military-Industrial Complex
   - Civil Rights Suppression
 coverage: []
+claims:
+- type: figure
+  value: $1,342,742,059.48
+  qualifier: base_and_all_options
+  span: '"total_obligation": 253178228.81, "subaward_count": 5, "total_subaward_amount": 246475392.43, "date_signed": "2025-07-18", "base_exercised_options": 854490135.68, "base_and_all_options": 1342742059.48,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/
+  id: k1
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: $253,178,228.81
+  qualifier: total_obligation
+  span: '"total_obligation": 253178228.81, "subaward_count": 5, "total_subaward_amount": 246475392.43, "date_signed": "2025-07-18", "base_exercised_options": 854490135.68, "base_and_all_options": 1342742059.48,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/
+  id: k2
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- type: date
+  value: '2025-07-18'
+  qualifier: date_signed
+  span: '"total_obligation": 253178228.81, "subaward_count": 5, "total_subaward_amount": 246475392.43, "date_signed": "2025-07-18", "base_exercised_options": 854490135.68, "base_and_all_options": 1342742059.48,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/
+  id: k3
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: $231,878,229
+  qualifier: obligated
+  span: Fiscal 2025 operation and maintenance, Army funds in the amount of $231,878,229 were obligated at the time of the award.
+  url: https://www.highergov.com/contract/N0002325D0004-W9124J25FA075/
+  source_kind: secondary
+  id: k4
+  read: fetched
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: $67,850,000,500
+  qualifier: base_and_all_options
+  span: '"total_obligation": 0.0, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2024-12-19", "base_exercised_options": null, "base_and_all_options": 67850000500.0,'
+  url: https://api.usaspending.gov/api/v2/awards/CONT_IDV_N0002325D0004_9700/
+  id: k5
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+corrections:
+- date: '2026-11-16'
+  was: Army Issues $1.24B WEXMAC Task Order ... $1.238 billion task order; total task order value $1,238,567,966; IDIQ ceiling under the task order $2.7 billion
+  now: Task order ceiling $1,218,233,067.52 at signing, $1,342,742,059.48 after modifications (base and all options); $253,178,228.81 obligated; parent IDIQ N0002325D0004 ceiling $67,850,000,500 shared across awardees
+  why: https://api.usaspending.gov/api/v2/awards/CONT_AWD_W9124J25FA075_9700_N0002325D0004_9700/ and https://api.usaspending.gov/api/v2/awards/CONT_IDV_N0002325D0004_9700/ ; no source found for $2.7 billion or $1,238,567,966
+  found_by: task-correct-canon-camp-east-montana-1-24b-ceiling-and-incumbency-claims 2026-11-16
 ---
 
 ## Opening Paragraph
 
-On July 18, 2025, the U.S. Army's Mission and Installation Contracting Command (MICC), Fort Sam Houston, Texas, issued a $1.238 billion task order to Acquisition Logistics LLC under the Navy's Worldwide Expeditionary Multiple Award Contract (WEXMAC), designating the task order RTOP-2372 ("Montana Temporary Staging") and the delivery order W9124J-25-F-A075 under parent IDIQ N0002325D0004. The task order directed Acquisition Logistics — a Henrico County, Virginia company with no detention experience and a lifetime federal contracting history of approximately $48 million — to construct and operate a 5,000-bed soft-sided immigration detention facility at Fort Bliss, El Paso, Texas, which would open August 17, 2025 as Camp East Montana.
+On July 18, 2025, the U.S. Army's Mission and Installation Contracting Command (MICC), Fort Sam Houston, Texas, issued a task order to Acquisition Logistics LLC (ceiling $1,218,233,067.52 at signing, later raised by modifications to $1,342,742,059.48; $253,178,228.81 obligated; corrected 2026-11-16) under the Navy's Worldwide Expeditionary Multiple Award Contract (WEXMAC), designating the task order RTOP-2372 ("Montana Temporary Staging") and the delivery order W9124J-25-F-A075 under parent IDIQ N0002325D0004. The task order directed Acquisition Logistics — a Henrico County, Virginia company with no detention experience and a lifetime federal contracting history of approximately $48 million — to construct and operate a 5,000-bed soft-sided immigration detention facility at Fort Bliss, El Paso, Texas, which would open August 17, 2025 as Camp East Montana.
 
 ## What Happened / Key Facts
 
@@ -57,8 +124,8 @@ The Army issued a solicitation June 9, 2025, restricted to small disadvantaged b
 
 **Key procurement facts**:
 - Initial obligation: $231,878,229 (first 1,000 beds)
-- Total task order value: $1,238,567,966
-- IDIQ ceiling under the task order: $2.7 billion
+- Ceiling (base and all options): $1,218,233,067.52 at signing; modifications raised it to $1,342,742,059.48 by September 18, 2025. Total obligations: $253,178,228.81 (corrected 2026-11-16; USAspending transaction history, modification 0 for the ceiling at signing)
+- Parent IDIQ N0002325D0004 (multiple-award) ceiling: $67,850,000,500, shared across awardees (corrected 2026-11-16; the $2.7 billion recorded here earlier has no source)
 - Ordering period: July 19, 2025 – September 30, 2027
 - Contract type: Firm-fixed-price delivery order under WEXMAC
 
@@ -76,7 +143,7 @@ The Army's use of WEXMAC cross-agency authority also demonstrates the vehicle's 
 
 ## Broader Context
 
-The WEXMAC vehicle was originally designed for expeditionary military logistics abroad. The July 2025 TITUS amendment repurposed it for domestic immigration enforcement. The Fort Bliss task order was the first use of WEXMAC for a soft-sided detention facility at a military base. The subsequent collapse of Acquisition Logistics — three detainee deaths, 60+ federal violations, homicide ruling, contractor replacement — did not produce further soft-sided military-base task orders. The administration instead moved to warehouse conversions under separate WEXMAC task orders.
+The WEXMAC vehicle was originally designed for expeditionary military logistics abroad. The July 2025 TITUS amendment repurposed it for domestic immigration enforcement. The Fort Bliss task order was the first use of WEXMAC for a soft-sided detention facility at a military base. The subsequent collapse of Acquisition Logistics — three detainee deaths, reported violations of at least 60 federal detention standards, homicide ruling, contractor replacement — did not produce further soft-sided military-base task orders. The administration instead moved to warehouse conversions under separate WEXMAC task orders.
 
 ## Research Gaps
 
@@ -93,3 +160,7 @@ The WEXMAC vehicle was originally designed for expeditionary military logistics 
 - [[wexmac-titus-comprehensive-seller-census]] — existing WEXMAC warehouse research
 - [[acquisition-logistics-llc]] — *needs entry*
 - [[wagner-kenneth]] — Acquisition Logistics CEO
+
+## Correction (2026-11-16)
+
+The task order value and IDIQ ceiling in this entry's title, opening paragraph and key facts did not match the federal contracting record and have been replaced. USAspending lists the order with a ceiling of $1,342,742,059.48 and total obligations of $253,178,228.81. The Army's announcement put the amount obligated at award at $231,878,229. The parent vehicle carries a ceiling of $67,850,000,500 shared across its awardees, and that figure replaces the entry's IDIQ ceiling.
