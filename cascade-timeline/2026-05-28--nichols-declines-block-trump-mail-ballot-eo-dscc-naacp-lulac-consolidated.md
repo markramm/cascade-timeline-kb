@@ -113,7 +113,7 @@ Nichols's ruling does not address the constitutional question of whether the Pre
 
 ## Research gaps
 
-- DSCC v. Trump full docket number sequence (component case IDs for NAACP, LULAC) not yet pulled from PACER/RECAP.
+- Component case numbers: LULAC is 1:26-cv-01132 and NAACP is 1:26-cv-01151, per the court's Sept. 13 opinion in the lead case (see the Sept. 13 entry). The lead case is No. 1:26-cv-01114; a different case with the same name, No. 1:26-cv-03674, concerns voter-roll demands.
 - The Massachusetts case's June 2 hearing outcome.
 
 ## Update (2026-07-28): D.C. Circuit affirms on appeal

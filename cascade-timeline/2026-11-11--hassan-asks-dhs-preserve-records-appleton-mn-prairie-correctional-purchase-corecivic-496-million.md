@@ -65,6 +65,29 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+- id: c7
+  type: date
+  value: November 11, 2026
+  span: November 11, 2026 The Honorable Markwayne Mullin Secretary Department of Homeland Security
+  url: https://www.hassan.senate.gov/imo/media/doc/mwh_letter_to_dhs.pdf
+  read: fetched
+  source_kind: primary
+- id: c8
+  type: figure
+  value: $495 million
+  qualifier: bought
+  span: New reporting states that last year DHS bought the Prairie Correctional Facility from CoreCivic, Inc. (CoreCivic) for $495 million, even though CoreCivic had previously attempted to sell the facility to the State of Minnesota for only $75 million.
+  url: https://www.hassan.senate.gov/imo/media/doc/mwh_letter_to_dhs.pdf
+  read: fetched
+  source_kind: primary
+- id: c9
+  type: date
+  value: November 30, 2026
+  qualifier: confirm
+  span: Please confirm in writing by November 30, 2026, that DHS has implemented this preservation request
+  url: https://www.hassan.senate.gov/imo/media/doc/mwh_letter_to_dhs.pdf
+  read: fetched
+  source_kind: primary
 tags:
 - detention-expansion
 - corecivic
@@ -82,6 +105,11 @@ sources:
   publisher: Minnesota Reformer
   date: '2026-11-13'
   tier: 2
+- title: Letter from Sen. Maggie Hassan to DHS Secretary Markwayne Mullin (preservation request)
+  url: https://www.hassan.senate.gov/imo/media/doc/mwh_letter_to_dhs.pdf
+  publisher: Office of Sen. Maggie Hassan
+  date: '2026-11-11'
+  tier: 1
 related_events:
 - 2026-08-04--corecivic-536m-contract-reopen-appleton-mn-prairie-correctional
 - 2026-08-04--corecivic-sells-prairie-appleton-and-midwest-leavenworth-to-dhs-734m-sec-filings
@@ -89,7 +117,7 @@ related_events:
 coverage: []
 summary: Sen. Maggie Hassan wrote to DHS Secretary Markwayne Mullin asking the administration to preserve all records on the federal purchase of the Prairie Correctional Facility in Appleton, Minn.; Minnesota Reformer reports CoreCivic was paid $496 million.
 source_published_date: '2026-11-13'
-verification_note: 'Sourced to Minnesota Reformer only; Hassan''s letter was not fetched. The entry date, Nov. 11, is inferred: the article is dated Nov. 13 and says the letter went out on Wednesday. The $496 million and $75 million figures are the Reformer''s, not seen in a primary record.'
+verification_note: 'Corrected 2026-11-16. The entry first rested on the Minnesota Reformer alone. The Hassan letter to Mullin, dated Nov. 11, 2026, was then fetched and read; it is cited in claims c7 to c9. The letter states $495 million; the $496 million figure is the Reformer''s. The letter says DHS bought the facility last year; this entry does not repeat that.'
 verification: source-verified
 ---
 
@@ -98,3 +126,7 @@ Sen. Maggie Hassan, D-N.H., a member of the Senate Committee on Homeland Securit
 Minnesota Reformer reports that CoreCivic, a private prison company, was paid $496 million for the 1,600-bed facility after offering it to the state of Minnesota in May 2025 for $75 million. The Reformer also says the Appleton immigrant detention center accepted its first detainees this week.
 
 Related: [[2026-08-04--corecivic-536m-contract-reopen-appleton-mn-prairie-correctional]], [[2026-08-04--corecivic-sells-prairie-appleton-and-midwest-leavenworth-to-dhs-734m-sec-filings]], [[2026-11-04--corecivic-q3-2026-four-detention-facilities-sold-to-dhs-2-2-billion-ceo-urges-ice-move-quickly]].
+
+## Correction (2026-11-16)
+
+Corrected entry. Research note: [[2026-11-16-tgie-lock-appleton-opening-binger-hassan-vigil]].

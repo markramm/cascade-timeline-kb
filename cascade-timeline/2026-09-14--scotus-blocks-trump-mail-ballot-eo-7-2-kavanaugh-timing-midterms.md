@@ -96,7 +96,7 @@ stated ground was APA arbitrary-and-capricious: officials lacked time to impleme
 was "at least a fair prospect" USPS possesses the authority.
 
 **And the entry is incomplete on the record around it.** A separate ruling by **Judge Nichols
-(D.D.C.) on 2026-09-13 in *DSCC v. Trump*** granted a preliminary injunction holding the **Postal
+(D.D.C.) on 2026-09-13 in *DSCC v. Trump***, No. 1:26-cv-01114, granted a preliminary injunction holding the **Postal
 Reorganization Act does not give USPS this authority at all** — the statutory-authority question
 SCOTUS expressly did not reach. Nichols is the same judge who denied relief on ripeness grounds in
 May. That reversal is not yet recorded in this corpus and should be its own entry.

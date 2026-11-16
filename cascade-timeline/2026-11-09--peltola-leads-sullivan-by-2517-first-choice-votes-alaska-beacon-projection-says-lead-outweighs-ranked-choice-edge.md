@@ -1,6 +1,7 @@
 ---
 type: timeline_event
-id: 2026-11-09--peltola-overtakes-sullivan-in-alaska-ranked-choice-projection-leads-by-2517-votes-as-count-continues
+id: 2026-11-09--peltola-leads-sullivan-by-2517-first-choice-votes-alaska-beacon-projection-says-lead-outweighs-ranked-choice-edge
+previous_ids: ['2026-11-09--peltola-overtakes-sullivan-in-alaska-ranked-choice-projection-leads-by-2517-votes-as-count-continues']
 date: '2026-11-09'
 date_kind: update date
 source_published_date: '2026-11-09'
@@ -112,3 +113,7 @@ In an updated vote total published Monday by the Alaska Division of Elections, D
 The count was still moving. According to the Beacon, tens of thousands of absentee and early ballots were expected to be added on Tuesday, after officials cross-checked Election Day poll registers. The runoff projection is the Beacon's own calculation, not an official result.
 
 Related: [[2026-10-22--doj-sues-alaska-to-bar-senate-certification-if-sullivan-loses-nvra]], [[2026-11-06--alaskans-for-mary-sues-alaska-division-of-elections-rejected-absentee-ballot-names-anchorage-superior-court]].
+
+## Correction (2026-11-16)
+
+Renamed. The earlier filename said Peltola "overtakes" Sullivan; the entry reports the Alaska Beacon's projection, not an official result.

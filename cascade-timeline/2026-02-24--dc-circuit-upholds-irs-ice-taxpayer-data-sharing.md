@@ -2,9 +2,11 @@
 type: timeline_event
 id: 2026-02-24--dc-circuit-upholds-irs-ice-taxpayer-data-sharing
 date: 2026-02-24
-title: 'D.C. Circuit Upholds IRS-ICE Taxpayer Data Sharing, Weaponizing Tax Compliance Against Immigrants'
+title: 'D.C. Circuit Affirms Denial of a Preliminary Injunction Against IRS-ICE Address Sharing, Finding the Plaintiffs Unlikely to Succeed'
 importance: 9
 status: confirmed
+event_date_claim: u1
+verification: source-verified
 actors:
 - Harry T. Edwards
 - Scott Bessent
@@ -79,6 +81,42 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-11-01'
+- type: date
+  value: 'April 7'
+  span: 'On April 7, while Appellants’ motion for a preliminary injunction was pending, IRS and DHS executed a Memorandum of Understanding (“MOU”) outlining procedures that will govern requests under § 6103(i)(2) for “addresses of persons subject to criminal investigation.”'
+  url: https://media.cadc.uscourts.gov/opinions/docs/2026/02/25-5181-2160705.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-16'
+- type: posture
+  value: 'the MOU is not a final agency action subject to APA review'
+  span: 'First, the MOU is not a final agency action subject to APA review.'
+  url: https://media.cadc.uscourts.gov/opinions/docs/2026/02/25-5181-2160705.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: '25-5181'
+  span: 'Argued October 3, 2025 Decided February 24, 2026 No. 25-5181'
+  url: https://media.cadc.uscourts.gov/opinions/docs/2026/02/25-5181-2160705.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: '1:25-cv-00677'
+  span: 'Appeal from the United States District Court for the District of Columbia (No. 1:25-cv-00677)'
+  url: https://media.cadc.uscourts.gov/opinions/docs/2026/02/25-5181-2160705.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-16'
 updates:
 - date: '2026-02-24'
   date_kind: decision date
@@ -93,12 +131,14 @@ updates:
   captured_by: capture-watch
   cluster: irs-ice-data-sharing
 ---
-A three-judge panel of the D.C. Circuit Court of Appeals rejected a preliminary injunction that would have blocked the IRS from sharing taxpayer data with ICE on February 24, 2026. The panel ruled that immigrant-rights nonprofits challenging the arrangement were "unlikely to succeed on the merits" of their claims under Internal Revenue Code Section 6103, the longstanding statute that governs the confidentiality of taxpayer information. The ruling effectively greenlit the continued operation of a data-sharing memorandum of understanding signed by Treasury Secretary Scott Bessent and DHS Secretary Kristi Noem in April 2025.
+A panel of the D.C. Circuit affirmed the denial of a preliminary injunction in Centro de Trabajadores Unidos v. Bessent, No. 25-5181, an appeal from No. 1:25-cv-00677 in the district court. The panel agreed with the district court that, while Somos likely has standing, the appellants are unlikely to succeed on the merits of their claims. The panel held that the memorandum of understanding between IRS and DHS, executed on April 7, is not a final agency action subject to APA review.
 
-The MOU allows ICE to submit names and addresses of undocumented immigrants for cross-referencing against IRS tax records. The arrangement creates what critics described as a perverse trap: millions of undocumented immigrants who had voluntarily paid federal taxes using Individual Taxpayer Identification Numbers—doing so specifically to comply with the law and demonstrate good faith—now found that their compliance records were being weaponized against them. The very act of following the law became the mechanism for their identification and potential deportation.
-
-The implications extended far beyond the individuals directly affected. Tax policy experts warned that the ruling would devastate voluntary tax compliance among undocumented immigrants, who collectively pay billions in federal taxes annually. If paying taxes becomes a pathway to deportation rather than a demonstration of civic participation, the rational response is to stop filing—a result that would reduce federal revenue and push more economic activity into untraceable cash transactions. The ruling thus illustrated how the weaponization of government institutions for immigration enforcement could undermine the functioning of entirely separate government systems that depend on public trust.
+The decision is on a preliminary-injunction record. It does not decide the case on final merits, and it is a different case from the other courts' rulings against the IRS-ICE channel recorded in [[2026-06-08--ice-awards-thundercat-9-9m-itin-data-subscription-after-courts-blocked-irs-channel]].
 
 ## Update (2026-02-24, decision date): Opinion text read: the panel held the plaintiffs unlikely to succeed and affirmed the denial of a preliminary injunction
 
 The panel's opinion, read in full, affirms the denial of a preliminary injunction. It does not decide the case on final merits. The panel rejected the government's standing challenge and ruled on likelihood of success only.
+
+## Correction (2026-11-16)
+
+The earlier title and text said the court upheld the data sharing; the opinion affirms the denial of a preliminary injunction only.

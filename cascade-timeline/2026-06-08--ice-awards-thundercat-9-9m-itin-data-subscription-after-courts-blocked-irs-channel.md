@@ -245,8 +245,12 @@ corrections:
 verification: source-verified
 ---
 
-ICE placed an order with Thundercat Technology, LLC. The USAspending record gives the award as 70CMSD26FR0000045, with $9,968,353.56 obligated; the record carries a signing date and a separate performance start date. Its description reads: "THIS ORDER PROVIDES ITIN DATA SUBSCRIPTION SERVICE AND ANALYTICS FOR HSI AGENTS IN FRAUD INVESTIGATIONS." The record names the vendor and the consumer but not who holds or sells the data.
+ICE placed an order with Thundercat Technology, LLC. The USAspending record gives the award as 70CMSD26FR0000045, with $9,968,353.56 obligated; the order's signing date is earlier than the performance start date, which is the date this entry carries. Its description reads: "THIS ORDER PROVIDES ITIN DATA SUBSCRIPTION SERVICE AND ANALYTICS FOR HSI AGENTS IN FRAUD INVESTIGATIONS." The record names the vendor and the consumer but not who holds or sells the data.
 
 Courts had ruled against the IRS-ICE data channel. FedScoop reported that Judge Colleen Kollar-Kotelly (D.D.C.), in a 94-page decision, found that the IRS's agreement to provide ICE with requested taxpayer addresses violated the Administrative Procedure Act. On February 5, 2026, Judge Indira Talwani (D. Mass.), in Civil Action No. 1:25-cv-12822-IT, granted a preliminary injunction as to the ICE defendants, finding that relief was warranted to "preliminarily enjoin ICE’s use of taxpayer addresses provided by IRS pursuant to the IRS-ICE MOU." Its operative paragraphs bar DHS, ICE and their agents from "inspecting, viewing, using, copying, distributing, relying on, or otherwise acting upon any return information that had been obtained from or disclosed by the IRS Defendants pursuant to the information sharing arrangements." The order does not mention purchases from vendors or brokers.
 
 Senator Ron Wyden told 404 Media: "A contract to buy that same information from private data brokers is a clear end-around both taxpayer privacy laws and a court order." That is a Senator's characterisation, not a court finding.
+
+## Correction (2026-11-16)
+
+The entry date is the performance start; the order's own signing date is in the claims. The entry does not say the order covers the entire program.

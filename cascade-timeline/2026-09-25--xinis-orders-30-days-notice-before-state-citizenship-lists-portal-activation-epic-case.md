@@ -70,7 +70,7 @@ sources:
     publisher: CourtListener
     date: '2026-09-25'
     tier: 1
-  - title: "Federal Defendants' Opposition, ECF 195, DSCC v. Trump (D.D.C.)"
+  - title: "Federal Defendants' Opposition, ECF 195, DSCC v. Trump, No. 1:26-cv-01114 (D.D.C.)"
     url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.195.0.pdf
     publisher: U.S. District Court, D.D.C. (via CourtListener RECAP)
     date: '2026-09-16'

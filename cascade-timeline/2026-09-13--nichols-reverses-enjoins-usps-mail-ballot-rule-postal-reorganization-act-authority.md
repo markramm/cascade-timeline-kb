@@ -2,10 +2,68 @@
 type: timeline_event
 id: 2026-09-13--nichols-reverses-enjoins-usps-mail-ballot-rule-postal-reorganization-act-authority
 date: '2026-09-13'
-title: "Judge Nichols Reverses Himself and Enjoins the USPS Mail-Ballot Rule, Holding the Postal Reorganization Act Gives USPS No Such Authority"
+title: "Judge Nichols Enjoins the USPS Mail-Ballot Rule After Denying Earlier Motions on Standing and Ripeness, Holding the Postal Reorganization Act Gives USPS No Such Authority"
 importance: 8
-status: reported
+status: confirmed
+event_date_claim: c6
 lane: election-capture
+claims:
+- id: c1
+  type: attribution
+  value: 'preliminarily enjoined from implementing and enforcing the Final Rule'
+  span: 'ORDERED that the United States Postal Service is preliminarily enjoined from implementing and enforcing the Final Rule it published on August 21, see Ballot Mail for Federal Elections, 91 Fed. Reg. 54,966 (Aug. 26, 2026).'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.193.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: posture
+  value: 'likely to succeed on their claim that the issuance of the Rule was ultra vires'
+  span: 'Plaintiffs have therefore demonstrated that they are likely to succeed on their claim that the issuance of the Rule was ultra vires, and the record otherwise weighs in favor of preliminary injunctive relief.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: posture
+  value: 'no statute grants the Postal Service the power to issue key parts of the Rule'
+  span: 'As the Government concedes, the Postal Service could issue (and enforce) the Rule only if Congress gave it the authority to do so, but here no statute grants the Postal Service the power to issue key parts of the Rule.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c4
+  type: posture
+  value: 'not established a likelihood of Article III standing'
+  span: 'Following briefing and argument, the Court denied those motions, holding that Plaintiffs had at that time “not established a likelihood of Article III standing or that their claims . . . [were] ripe.”'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c5
+  type: attribution
+  value: 'GRANTS IN PART AND DENIES IN PART the DSCC Plaintiffs'
+  span: 'For the foregoing reasons, the Court GRANTS IN PART AND DENIES IN PART the DSCC Plaintiffs’ Renewed Motion for a Preliminary Injunction, ECF No. 163; GRANTS the LULAC Plaintiffs’ Renewed Motion for a Preliminary Injunction, ECF No. 171; and GRANTS the NACCP Plaintiffs’ Renewed Motion for a Preliminary Injunction, ECF No. 172.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c6
+  type: date
+  value: 'September 13, 2026'
+  span: 'DATE: September 13, 2026 CARL J. NICHOLS United States District Judge'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.193.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c7
+  type: figure
+  value: '1:26-cv-01114'
+  span: 'Case 1:26-cv-01114-CJN Document 192 Filed 09/13/26 Page 1 of 24'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c8
+  type: attribution
+  value: 'Section 3 of the Executive Order'
+  span: 'The Court denies only the portion of the Motion that seeks to preliminarily enjoin Section 3 of the Executive Order.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.193.0.pdf
+  read: fetched
+  source_kind: primary
 tags:
   - election-capture
   - mail-voting
@@ -24,6 +82,17 @@ sources:
     publisher: SCOTUSblog
     date: '2026-09-13'
     tier: 2
+  - title: "Memorandum Opinion, DSCC v. Trump, No. 1:26-cv-01114 (D.D.C.), ECF 192"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.192.0.pdf
+    publisher: CourtListener RECAP
+    date: '2026-09-13'
+    tier: 1
+  - title: "Order, DSCC v. Trump, No. 1:26-cv-01114 (D.D.C.), ECF 193"
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291053/gov.uscourts.dcd.291053.193.0.pdf
+    publisher: CourtListener RECAP
+    date: '2026-09-13'
+    tier: 1
+verification: source-verified
 related_events:
   - 2026-09-14--scotus-blocks-trump-mail-ballot-eo-7-2-kavanaugh-timing-midterms
   - 2026-09-04--talwani-preliminary-injunction-usps-mail-ballot-rule-seventy-days-before-election
@@ -34,34 +103,12 @@ On **2026-09-13**, **Judge Carl Nichols** (D.D.C.) granted a preliminary injunct
 mail-ballot rule in ***DSCC v. Trump***, holding that the **Postal Reorganization Act does not give
 the Postal Service authority to do this at all.**
 
-Two things make this more than another injunction in a crowded docket.
+Nichols had denied the plaintiffs' earlier motions in May 2026, holding that they had not shown standing or ripeness while no final rule existed. The opinion records that the court left room for a different result once the Postal Service issued a final rule. The rule was then issued, and the court enjoined it. The refusal and the injunction are in the same docket, before the same judge.
 
-**First, Nichols reversed himself.** In **May 2026** the same judge declined to enjoin the same
-mechanism on **ripeness** grounds — there was no final rule yet, so there was nothing to review. The
-rule became final in late August. What had been unreviewable because it was too early became
-unlawful once it existed. That sequence is the corpus's rule-operative-before-review pattern
-running its full course inside a single docket, and it is the cleanest illustration of the pattern
-yet recorded: the same judge, the same mechanism, opposite outcomes, with nothing changing but
-finality.
+The injunction reaches the merits. The Supreme Court's action in the separate emergency application turned on timing, not on whether the Postal Service holds the authority; see [[2026-09-14--scotus-blocks-trump-mail-ballot-eo-7-2-kavanaugh-timing-midterms]]. This opinion rests on the statute.
 
-**Second, it reaches the question the Supreme Court expressly did not.** One day later the Court
-denied the administration's emergency application in *USPS v. California*, No. 26A305, on
-**timing** grounds — Kavanaugh's concurrence allowed there was "at least a fair prospect" USPS
-holds the authority, while finding that applying the rule to an election already underway was
-arbitrary and capricious ([[2026-09-14--scotus-blocks-trump-mail-ballot-eo-7-2-kavanaugh-timing-midterms]]).
-**Nichols answered the merits question SCOTUS left open, and answered it the other way.** So the
-2026 election is protected on a timing rationale that expires with the election, while the only
-ruling on whether USPS may ever do this sits in a district court and is presumptively headed up.
+**Status and sourcing.** The opinion and the order have been read. The case is DSCC v. Trump, No. 1:26-cv-01114 (D.D.C.), consolidated with the LULAC and NAACP suits; it is not the separate DSCC v. Trump over voter-roll demands. The holding rests on ultra vires review, not on the APA. The DSCC motion was granted in part; the court denied only the part aimed at Section 3 of the Executive Order.
 
-**Status and sourcing caution.** This entry is `status: reported`. It was established during a
-draft fact-check pass on 2026-09-20 from secondary reporting; **the opinion has not been read by
-this corpus**, and the case number is not established. The characterization of the holding — that
-it rests on the Postal Reorganization Act rather than on the APA — is the reporting's and needs the
-order itself. The May ripeness denial is recorded in this corpus's own prior coverage and in the
-EPA/USPS comparison drafting, but its date should be confirmed against the docket.
+## Correction (2026-11-16)
 
-**Why it was missing until now.** The corpus captured the September 4 Talwani injunction and the
-September 14 Supreme Court denial but not this ruling in between, because the capture routine
-followed the Supreme Court thread and this was a separate suit in a different district. A
-fact-checker working an unrelated draft surfaced it. Two district courts moving on the same rule
-nine days apart in different districts is exactly the shape a single-thread sweep misses.
+Corrected entry: the opinion is read and the docket is named above.

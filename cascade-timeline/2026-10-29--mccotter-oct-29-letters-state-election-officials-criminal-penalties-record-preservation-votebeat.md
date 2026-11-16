@@ -109,6 +109,15 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-10-31'
+- type: figure
+  value: 1:26-cv-03674
+  span: Case 1:26-cv-03674-JEB Document 29 Filed 10/30/26 Page 1 of 2
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-16'
 tags:
 - election-capture
 - midterms-2026
@@ -127,6 +136,11 @@ sources:
   publisher: Democracy Docket
   date: '2026-10-30'
   tier: 2
+- title: Defendants' Notice of Compliance, DSCC v. Trump, No. 1:26-cv-03674 (D.D.C.), Doc. 29
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297829/gov.uscourts.dcd.297829.29.0.pdf
+  publisher: CourtListener RECAP
+  date: '2026-10-30'
+  tier: 1
 related_events:
 - 2026-07-07--doj-threatens-criminal-prosecution-election-officials-50-states
 updates:
@@ -151,4 +165,4 @@ Votebeat reported on October 30 that state election offices received identical l
 
 ## Update (2026-10-30, disclosure date, as reported): DOJ's own filing says the letters went to all states, Democracy Docket reports
 
-Democracy Docket reports that in its Friday response in DSCC v. Trump, DOJ "said it separately sent all states letters Thursday" about preserving voting records for 22 months. The report notes that the firm representing the plaintiffs in that case is chaired by the founder of Democracy Docket.
+Democracy Docket reports that in its Friday response in DSCC v. Trump, No. 1:26-cv-03674 (D.D.C.), the case over voter-roll demands and threats to election officials, DOJ "said it separately sent all states letters Thursday" about preserving voting records for 22 months. The report notes that the firm representing the plaintiffs in that case is chaired by the founder of Democracy Docket.
