@@ -1,23 +1,14 @@
 ---
 type: timeline_event
-id: 2026-11-10--ap-us-attorney-western-washington-floyd-letter-office-will-not-defend-many-ice-habeas-petitions
-date: '2026-11-10'
+id: 2026-10-26--ap-us-attorney-western-washington-floyd-letter-office-will-not-defend-many-ice-habeas-petitions
+previous_ids: ["2026-11-10--ap-us-attorney-western-washington-floyd-letter-office-will-not-defend-many-ice-habeas-petitions"]
+date: '2026-10-26'
 title: Western Washington Acting U.S. Attorney Floyd Tells Chief Judge Estudillo His Office Will No Longer Defend Many ICE Habeas Cases; Judges Begin Granting Petitions as Unopposed
 importance: 8
 status: confirmed
-event_date_claim: c1
-date_is_publication_date: true
+event_date_claim: c7
 verification: source-verified
 claims:
-- id: c1
-  type: date
-  value: '2026-11-10'
-  span: 'Published: 2026-11-10 (jsonld:datePublished)'
-  url: https://www.opb.org/article/2026/11/10/faced-with-influx-prosecutor-in-washington-says-he-lacks-resources-to-defend-immigration-cases/
-  read: fetched
-  source_kind: secondary
-  outcome: verified
-  checked: '2026-11-13'
 - id: c2
   type: attribution
   value: Acting U.S. Attorney Charles Floyd said in a letter to U.S. District Judge David Estudillo
@@ -26,7 +17,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c3
   type: quote
   value: there will be many habeas cases in which the USAO will no longer assume responsibility for providing a defense on behalf of the respondents
@@ -35,7 +26,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c4
   type: posture
   value: He didn't specify how many cases could be affected
@@ -44,7 +35,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c5
   type: date
   value: October 26, 2026
@@ -53,7 +44,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c6
   type: figure
   value: seven court days
@@ -62,7 +53,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c7
   type: date
   value: October 26
@@ -71,7 +62,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c8
   type: quote
   value: the Court may assume that the USAO will not be filing a response to the Petition and the Court may proceed to rule on the merits of the petition based on the papers filed by the petitioner
@@ -80,7 +71,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c9
   type: quote
   value: the USAO will take no responsibility for facilitating the processing of the case through the District Court
@@ -89,7 +80,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c10
   type: quote
   value: dozens of § 2241 Immigration Petitions filed each week
@@ -98,7 +89,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c12
   type: date
   value: 7th day of November, 2026
@@ -107,7 +98,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c13
   type: quote
   value: the Court construes the habeas petition as intentionally unopposed
@@ -116,7 +107,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c14
   type: quote
   value: the Court is not aware of any precedent for the Department of Justice exercising its discretion by
@@ -125,7 +116,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c15
   type: date
   value: 7th day of November, 2026
@@ -134,7 +125,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c16
   type: quote
   value: offered no factual or legal basis to rebut his petition
@@ -143,7 +134,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c17
   type: date
   value: 11/10/26
@@ -152,7 +143,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c18
   type: quote
   value: appears to be inconsistent with the federal statute setting out the duties of the USAO
@@ -161,7 +152,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c19
   type: date
   value: 11/12/26
@@ -170,7 +161,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c20
   type: date
   value: 11/13/26
@@ -179,7 +170,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c21
   type: quote
   value: Respondents have not filed a return, nor has any attorney appeared on behalf of any Respondent
@@ -188,7 +179,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 tags:
 - civil-rights-suppression
 - general-order-08-26
@@ -245,3 +236,7 @@ sources:
 ---
 
 Acting U.S. Attorney Charles Floyd said in a letter to U.S. District Judge David Estudillo that "there will be many habeas cases in which the USAO will no longer assume responsibility for providing a defense on behalf of the respondents." The letter is dated October 26 and is on the public docket as an exhibit to a court order. It tells the court that the "Court may assume that the USAO will not be filing a response to the Petition and the Court may proceed to rule on the merits of the petition based on the papers filed by the petitioner." Since then judges in the district have begun granting petitions the government did not answer: one wrote that "the Court construes the habeas petition as intentionally unopposed," another that the government "offered no factual or legal basis to rebut his petition." A later order calls the position one that "appears to be inconsistent with the federal statute setting out the duties of the USAO." The letter does not say how many cases are affected. Related entries on Tacoma and the Northwest ICE Processing Center: [[2026-07-10--tacoma-geo-group-federal-judge-orders-state-health-inspection]], [[2026-10-28--ice-awards-geo-group-1-5-billion-10-year-contract-tacoma-northwest-ice-processing-center-single-offer]].
+
+## Correction (2026-11-16)
+
+This entry was dated to the day AP's story ran on OPB. The event is Acting U.S. Attorney Floyd's letter to Chief Judge Estudillo, which the court's own order says it received on October 26. The entry is re-dated to the letter; the orders granting petitions as unopposed came after it.

@@ -16,7 +16,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c2
   type: quote
   value: can't be described as anything other than weaponization
@@ -25,16 +25,16 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c3
   type: attribution
-  value: behest of FBI Director Kash Patel just one day after President Donald Trump gave a televised speech
-  span: the behest of FBI Director Kash Patel just one day after President Donald Trump gave a televised speech in July where he accused intelligence officials of engaging in a coverup to hide China's interference in the 2020 election and ordered the Justice Department to pursue prosecutions.
+  value: opened at the behest of FBI Director Kash Patel just one day after President Donald Trump gave a televised speech
+  span: He testified that it was opened at the behest of FBI Director Kash Patel just one day after President Donald Trump gave a televised speech in July where he accused intelligence officials of engaging in a coverup to hide China's interference in the 2020 election and ordered the Justice Department to pursue prosecutions.
   url: https://www.cbsnews.com/news/judge-dismisses-ex-fbi-officials-hunter-biden-case/
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c4
   type: quote
   value: no other event on the calendar, except for the midterm elections
@@ -43,7 +43,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c5
   type: attribution
   value: Floris was a former top intelligence analyst in charge at the bureau's Washington Field Office
@@ -52,7 +52,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c6
   type: date
   value: November 2, 2026
@@ -61,7 +61,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c7
   type: attribution
   value: dismissed a criminal complaint
@@ -70,7 +70,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c8
   type: posture
   value: could still appeal
@@ -79,7 +79,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c9
   type: quote
   value: disagrees with the Magistrate's decision
@@ -88,7 +88,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c10
   type: attribution
   value: unsigned and unsworn superseding complaint
@@ -97,7 +97,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c11
   type: quote
   value: This case is dismissed
@@ -106,7 +106,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 - id: c12
   type: attribution
   value: three days of testimony
@@ -115,7 +115,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-11-13'
+  checked: '2026-11-16'
 tags:
 - doj-weaponization
 - democratic-erosion
@@ -126,6 +126,7 @@ actors:
 - Zia Faruqui
 - Nikki Floris
 - Bradley Benavides
+- Bryan Witt
 - Kash Patel
 - Department of Justice
 sources:
@@ -142,6 +143,10 @@ lane: Democratic Erosion
 captured_by: daily-capture
 ---
 
-A federal magistrate judge on Monday, Nov. 2, dismissed a criminal complaint charging two former senior FBI counterintelligence officials, Nikki Floris and Bradley Benavides, with lying to Congress about their roles in the Hunter Biden investigation, CBS News reported. Magistrate Judge Zia Faruqui said the case lacked probable cause and appeared timed to the midterms: "no other event on the calendar, except for the midterm elections." He said what had transpired "can't be described as anything other than weaponization," and said the case was brought at the behest of FBI Director Kash Patel one day after Trump's televised speech in July ordering prosecutions. The ruling followed a hearing of three days of testimony on the original complaint; Faruqui struck an unsigned and unsworn superseding complaint that prosecutors had filed after midnight to add obstruction charges. The Justice Department said it disagrees with the decision. The dismissal is of the complaint: the department could still appeal to the chief judge or seek a grand jury indictment.
+A federal magistrate judge on Monday, Nov. 2, dismissed a criminal complaint charging two former senior FBI counterintelligence officials, Nikki Floris and Bradley Benavides, with lying to Congress about their roles in the Hunter Biden investigation, CBS News reported. Magistrate Judge Zia Faruqui said the case lacked probable cause and appeared timed to the midterms: "no other event on the calendar, except for the midterm elections." He said what had transpired "can't be described as anything other than weaponization." The Patel link comes from testimony, not the bench: FBI Special Agent Bryan Witt, assigned to help investigate, testified that the case was opened at the behest of FBI Director Kash Patel one day after Trump's televised speech in July ordering prosecutions. The ruling followed a hearing of three days of testimony on the original complaint; Faruqui struck an unsigned and unsworn superseding complaint that prosecutors had filed after midnight to add obstruction charges. The Justice Department said it disagrees with the decision. The dismissal is of the complaint: the department could still appeal to the chief judge or seek a grand jury indictment.
 
-The weaponization finding is the magistrate's, from the bench, on a charging document and a preliminary hearing record, not a merits verdict on any charge. The case belongs with the prosecutions of the administration's named adversaries recorded in [[2025-09-25--james-comey-indictment-political-prosecution]], [[2025-08-22--fbi-raids-bolton-home-patel-directed]] and [[2025-08-26--doj-weaponization-russia-investigators]].
+The weaponization remark is the magistrate's, from the bench; the Patel account is the agent's testimony, not a finding by the judge. The ruling rests on a charging document and a preliminary hearing record, not a merits verdict on any charge. The case belongs with the prosecutions of the administration's named adversaries recorded in [[2025-09-25--james-comey-indictment-political-prosecution]], [[2025-08-22--fbi-raids-bolton-home-patel-directed]] and [[2025-08-26--doj-weaponization-russia-investigators]].
+
+## Correction (2026-11-16)
+
+An earlier version said Judge Faruqui said the case was brought at the behest of FBI Director Kash Patel. CBS attributes that account to the testimony of FBI Special Agent Bryan Witt, who said the case was opened at Patel's behest the day after Trump's July speech. The judge's own words, as CBS quotes them, are the "slapdash" case lacking probable cause, "can't be described as anything other than weaponization," and the midterm-timing remark. The written order was not in RECAP at the time of this correction.
