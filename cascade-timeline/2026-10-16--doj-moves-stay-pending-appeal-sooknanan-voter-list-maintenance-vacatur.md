@@ -48,6 +48,11 @@ sources:
     publisher: CourtListener
     date: '2026-11-05'
     tier: 1
+  - title: Memorandum Opinion on motion for stay pending appeal, Common Cause v. DOJ
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+    publisher: US District Court, D.D.C., ECF 61 (13 pp.)
+    date: '2026-11-02'
+    tier: 1
 related_events:
   - 2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy
 claims:
@@ -242,6 +247,81 @@ claims:
   id: u15
   outcome: verified
   checked: '2026-11-06'
+- type: date
+  value: November 2, 2026
+  span: 'SO ORDERED.
+
+
+    SPARKLE L. SOOKNANAN
+
+    United States District Judge
+
+
+    Date: November 2, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.62.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u16
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: DENIES the Defendants’ Motion for Stay Pending Appeal
+  span: the Court DENIES the Defendants’ Motion for Stay Pending Appeal, ECF No. 57.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.62.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-16'
+- type: figure
+  value: four
+  qualifier: stay factors
+  span: Courts must consider four factors in connection with a stay motion
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: The Court is unpersuaded that they are likely to succeed on the merits, that they will be irreparably injured absent a stay, or that the balance of equities and public interest tip in their favor.
+  span: 'The Court is unpersuaded that
+
+
+    they are likely to succeed on the merits, that they will be irreparably injured absent a stay, or that the balance of equities and public interest tip in their favor.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: have forfeited that argument
+  span: So the Defendants have forfeited that argument, and the Court declines to address it in the context of an expedited stay motion.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: will not use its equitable discretion to reinstate an unlawful policy that threatens to disenfranchise American citizens on the eve of an election
+  span: the Court will not use its equitable discretion to reinstate an unlawful policy that threatens to disenfranchise American citizens on the eve of an election.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-16'
+- type: quote
+  value: Section 1373 overrides the Privacy Act
+  span: But these two statements do not advance the argument that the Defendants now press—i.e., that Section 1373 overrides the Privacy Act.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.291580/gov.uscourts.dcd.291580.61.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u22
+  outcome: verified
+  checked: '2026-11-16'
 event_date_claim: c1
 verification: source-verified
 coverage:
@@ -281,6 +361,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ca-voter-list
+- date: '2026-11-02'
+  date_kind: order
+  heading: Judge Sooknanan denies DOJ's motion for a stay pending appeal
+  claims:
+  - u16
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  - u22
+  event_date_claim: u16
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-voter-list-maintenance-policy
 ---
 
 On **10/16/26** (filing date), the Justice Department asked Judge Sooknanan to stay her **October 9, 2026** order (order date) vacating the Voter List Maintenance Policy; see [[2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy]]. The motion opens: "There is no such policy." It asks the court to "stay its order entering judgment for Plaintiffs, ECF No. 52, pending the resolution of Defendants' appeal of that order to the D.C. Circuit."
@@ -298,3 +393,7 @@ On November 2, 2026, Judge Sooknanan denied the stay in Common Cause v. DOJ, No.
 ## Update (2026-11-04, filing date): DOJ asks the D.C. Circuit for a stay pending appeal (No. 26-5362)
 
 On November 4 the Justice Department asked the D.C. Circuit (No. 26-5362) to stay Judge Sooknanan's October 9 order granting partial summary judgment to plaintiffs. DOJ argues there is "no DOJ rule or order adopting any such policy" and that the order "has already affected pending litigation." The motion recounts that DOJ requested unredacted statewide voter lists from 49 States and the District of Columbia, that at least 18 States provided them, and that DOJ shared the lists with DHS, which compared them against the SAVE database. It says plaintiffs suggest the order reaches United States v. California (No. 2:26-cv-12025, C.D. Cal.), which DOJ disputes.
+
+## Update (2026-11-02, order): Judge Sooknanan denies DOJ's motion for a stay pending appeal
+
+Judge Sooknanan denied the Defendants' Motion for Stay Pending Appeal in a one-page order that rests on a memorandum opinion. The opinion works through four stay factors and finds against DOJ on the merits, irreparable harm, the public interest and the equities. On the Privacy Act, it says the Defendants "have forfeited that argument" that Section 1373 overrides the Privacy Act. On the equities, the court wrote that it "will not use its equitable discretion to reinstate an unlawful policy that threatens to disenfranchise American citizens on the eve of an election."
