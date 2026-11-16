@@ -47,6 +47,13 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-03'
+- id: u1
+  type: date
+  value: October 16, 2026
+  span: The October 16, 2026, Attorney General’s opinion confirms the supremacy established in the U.S. Constitution that state law controls elections unless expressly preempted by federal law.
+  url: https://wyofile.com/wp-content/uploads/2026-10-27-DOJ-election-monitors-to-return-to-Laramie-County-WY-for-General-Election.pdf
+  read: fetched
+  source_kind: primary
 tags:
 - election-2026
 - doj-election-monitors
@@ -67,3 +74,9 @@ verification: source-verified
 ---
 
 Wyoming Attorney General Keith Kautz, in an opinion released publicly Tuesday, concluded that "The DOJ’s general interest in monitoring compliance with federal law does not give it authority to enter a polling place where Wyoming law excludes the general public," Cowboy State Daily reported. According to Laramie County Clerk Debra Lee, DOJ agreed to comply and "stay 100 yards away from the polling places," and her office said DOJ monitors would be back for the Nov. 3 general election, "where the DOJ monitors say they'll visit again." The opinion text itself was not read for this entry. The August incident is at [[2026-08-26--wyoming-gov-gordon-and-laramie-county-clerk-say-doj-primary-monitors-were-aggressive]].
+
+## Update 2026-11-16
+
+The opinion text has since been read. It is a letter opinion dated October 16, 2026, addressed to Laramie County Attorney Mark T. Voss; the clerk's office released it, on the date of this entry, with a press release saying her office requested it (primary: the release PDF hosted by WyoFile). The 100-yard figure comes from that release, not the opinion.
+
+What happened on Election Day is not established. A Justice Department release dated the day of the election lists Wyoming and, under it, Laramie County as a monitored jurisdiction; the page has no sentence about where monitors stood. Cap City News's election stories after the vote, including its report that the Laramie County Canvassing Board certified the results, do not mention monitors. As of this update no outlet checked (Cowboy State Daily, WyoFile, Cap City News) or the county's press-release page reported whether monitors appeared, where they stayed, or any incident, and no on-record DOJ reply to the opinion beyond DOJ's account as relayed in the clerk's release has been found.
