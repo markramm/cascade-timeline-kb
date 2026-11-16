@@ -1,6 +1,6 @@
 ---
 type: timeline_event
-title: Trump Launches Massive NFT Collection Generating .4 Million in Initial Sales
+title: Trump Launches NFT Trading Card Collection Priced at $99 Each That Sells Out
 date: 2022-12-15
 key_actors:
 - Donald Trump
@@ -46,4 +46,8 @@ importance: 4
 actors:
 - Donald Trump
 ---
-Donald Trump launched his "Trump Digital Trading Cards" NFT collection on December 15, 2022, featuring 45,000 digital trading cards priced at 9 each that sold out within 12 hours, generating .4 million in immediate revenue and demonstrating how political figures can exploit supporter loyalty for cryptocurrency market manipulation. The collection featured fantasy artwork by Clark Mitchell depicting Trump in various scenarios including as a cowboy, astronaut, and businessman, creating artificial collectible value through political celebrity association rather than genuine artistic merit. Within days of the launch, the NFTs were trading on secondary markets like OpenSea with floor prices doubling to 00, while one NFT originally purchased for 9 was resold for 4,900, representing a 44,200% profit that exemplifies pump-and-dump market dynamics. The collection utilized the Polygon blockchain and generated over 6,000 ETH in trading volume within the first week, with total trading volume eventually exceeding 5 million as Trump supporters treated the NFTs as both political merchandise and speculative investments. This massive success established Trump as a major player in NFT markets and created a template for using political influence to drive artificial demand in volatile cryptocurrency assets, setting up a systematic approach to monetizing political celebrity through digital asset speculation.
+Donald Trump launched his "Trump Digital Trading Cards" NFT collection on December 15, 2022, featuring 45,000 digital trading cards priced at $99 each that sold out within 12 hours, demonstrating how political figures can exploit supporter loyalty for cryptocurrency market manipulation. The collection featured fantasy artwork by Clark Mitchell depicting Trump in various scenarios including as a cowboy, astronaut, and businessman, creating artificial collectible value through political celebrity association rather than genuine artistic merit. Within days of the launch, the NFTs were trading on secondary markets like OpenSea with floor prices more than doubling to about $200, while one NFT originally purchased for $99 was resold for $44,900, representing a profit of over 44,200% that exemplifies pump-and-dump market dynamics. The collection utilized the Polygon blockchain and recorded about 900 ETH (about $1.08 million) in OpenSea trading volume by December 16, per CoinDesk, as Trump supporters treated the NFTs as both political merchandise and speculative investments. This massive success established Trump as a major player in NFT markets and created a template for using political influence to drive artificial demand in volatile cryptocurrency assets, setting up a systematic approach to monetizing political celebrity through digital asset speculation.
+
+## Correction
+
+*Corrected 2026-11-16.* Dollar figures had lost their leading digits in publication. Restored from NFT Price Floor and CoinDesk: $99 each, a floor near $200, a $99 card resold for $44,900, and about 900 ETH ($1.08 million) in volume by December 16. The revenue total and later volume figures could not be recovered and were cut.

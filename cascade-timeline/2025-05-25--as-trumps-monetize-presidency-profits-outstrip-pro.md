@@ -25,10 +25,10 @@ sources:
   outlet: The Irish Times
   date: '2025-05-27'
   tier: 1
-- title: New Analysis Finds Trump Family Has Raked in .4 Billion Off the Presidency
+- title: New Analysis Finds Trump Family Has Raked in $3.4 Billion Off the Presidency
   url: https://www.rollingstone.com/politics/politics-news/trump-family-billions-presidency-1235405843/
   outlet: Rolling Stone
-  date: '2025-11-05'
+  date: '2025-08-12'
   tier: 2
 - title: Inside the Trump family's 100 days of presidential profit
   url: https://www.axios.com/2025/05/02/trump-crypto-world-liberty-business-profit
@@ -49,3 +49,7 @@ capture_lanes:
 ---
 
 Trump and his family have monetized the presidency to the tune of hundreds of millions of dollars without significant public outcry and institutional pushback after his early purge of federal ethics watchdogs
+
+## Correction
+
+*Corrected 2026-11-16.* The Rolling Stone headline in the sources list had lost its leading digit; the article reads $3.4 Billion. Its date is corrected to August 12, 2025, as the page shows.

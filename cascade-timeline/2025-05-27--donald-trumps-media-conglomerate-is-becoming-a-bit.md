@@ -22,22 +22,22 @@ sources:
   outlet: The New York Times
   date: '2025-05-27'
   tier: 1
-- title: Trump Media Announces Approximately .5 Billion Bitcoin Treasury Deal
+- title: Trump Media Announces Approximately $2.5 Billion Bitcoin Treasury Deal
   url: https://www.globenewswire.com/news-release/2025/05/27/3088703/0/en/Trump-Media-Announces-Approximately-2-5-Billion-Bitcoin-Treasury-Deal.html
   outlet: GlobeNewswire
   date: '2025-05-27'
   tier: 3
-- title: DJT shares fall 10% as Trump Media says it's raising .5 billion to buy bitcoin
+- title: DJT shares fall 10% as Trump Media says it's raising $2.5 billion to buy bitcoin
   url: https://www.cnbc.com/2025/05/27/djt-trump-media-bitcoin.html
   outlet: CNBC
   date: '2025-05-27'
   tier: 2
-- title: Trump Media group announces plan to establish .5 billion Bitcoin treasury
+- title: Trump Media group announces plan to establish $2.5 billion Bitcoin treasury
   url: https://fortune.com/crypto/2025/05/27/trump-media-group-raise-money-bitcoin-treasury/
   outlet: Fortune
   date: '2025-05-27'
   tier: 2
-- title: Trump Media builds  billion bitcoin hoard, as cryptocurrency swells president's net worth
+- title: Trump Media builds $2 billion bitcoin hoard, as cryptocurrency swells president's net worth
   url: https://www.cnbc.com/2025/07/21/trump-djt-bitcoin-net-worth.html
   outlet: CNBC
   date: '2025-07-21'
@@ -53,3 +53,7 @@ capture_lanes:
 ---
 
 Trump Media planned to raise $2.5 billion in equity and debt to build a massive bitcoin reserve, as the president continued to cash in on cryptocurrency while in control of the industry's regulatory landscape
+
+## Correction
+
+*Corrected 2026-11-16.* Four source headlines had lost the leading dollar digit. Restored to $2.5 billion (Fortune headline; the Globe Newswire URL and the CNBC article's $1.5 billion equity plus $1 billion convertible notes agree) and $2 billion for the July CNBC piece (roughly $2 billion in bitcoin and related assets).
