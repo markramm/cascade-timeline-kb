@@ -34,6 +34,19 @@ sources:
     publisher: U.S. News & World Report
     date: '2026-06-29'
     tier: 1
+verification: captured
+claims:
+- id: s1
+  type: date
+  value: June 29, 2026
+  qualifier: Decided
+  span: Argued December 8, 2025—Decided June 29, 2026
+  url: https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+event_date_claim: s1
 ---
 
 In a **6-3 ruling on June 29, 2026**, the Supreme Court overturned *Humphrey's Executor v. United States* (1935), holding that President Trump's firing of FTC Commissioner **Rebecca Kelly Slaughter** without cause was lawful. The decision grants the president sweeping at-will removal authority over roughly two dozen independent agencies Congress designed to insulate from direct presidential control — the FTC, CFPB, NLRB, and others — vindicating the unitary-executive theory and removing a structural check that stood for 91 years. Chief Justice Roberts wrote for the majority; Justice Sotomayor dissented that the ruling converts the duty to faithfully execute the laws into a license to defy them.
@@ -53,3 +66,7 @@ So the unitary-executive holding is broad but not total: it reaches roughly two 
 **The structurally important finding is the mechanism, not the roster.** Where agencies have been disabled, it is by **quorum loss** rather than capture: the EAC now has zero commissioners and cannot certify voting equipment, update the national mail-in registration form, or distribute HAVA grants. The FEC has been below quorum since before the ruling. Agencies that were captured-but-staffed — FTC, CPSC, NRC — keep operating under new direction. **A quorum-blocked agency is a quieter outcome than a captured one, and on this evidence the more consequential one.**
 
 No lawsuit has been filed over the EAC firings as of 2026-08-27.
+
+## Correction (2026-11-16)
+
+The decision date is June 29, 2026, and this entry is the canonical record of *Trump v. Slaughter*, No. 25-332. The slip opinion on supremecourt.gov reads "Argued December 8, 2025—Decided June 29, 2026" [s1]. The entry [[2026-07-14--scotus-trump-v-slaughter-overturns-humphreys-executor]] gave July 14-15 for the same decision; it is the same event, is marked superseded, and points here. This entry's date was right and is now bound to the opinion itself.

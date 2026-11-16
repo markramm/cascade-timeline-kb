@@ -4,7 +4,7 @@ id: 2026-07-14--scotus-trump-v-slaughter-overturns-humphreys-executor
 date: '2026-07-14'
 title: "Supreme Court Rules for Trump in Slaughter, Erasing 90-Year Humphrey's Executor Precedent on Agency Removal"
 importance: 9
-status: disputed
+status: superseded
 corrected: '2026-10-20'
 tags:
   - judicial-capture
@@ -44,6 +44,20 @@ sources:
     publisher: Votebeat
     date: '2026-07-09'
     tier: 1
+verification: captured
+claims:
+- id: s1
+  type: date
+  value: June 29, 2026
+  qualifier: Decided
+  span: Argued December 8, 2025—Decided June 29, 2026
+  url: https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+superseded_by: 2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power
+event_date_claim: s1
 ---
 
 > **Correction (2026-10-20):** this entry's date and posture are wrong. Per the slip opinion (supremecourt.gov), *Trump v. Slaughter*, No. 25-332, was decided on the merits on **June 29, 2026** (6-3, Roberts), not July 14-15, and it was not a follow-on to a shadow-docket order. The canonical record of the decision is [[2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power]]; this entry is retained only so existing links resolve. See also [[2026-06-29--scotus-trump-v-cook-denies-stay-fed-governor-stays-in-office]].
@@ -53,3 +67,7 @@ The Supreme Court decided *Trump v. Slaughter* on July 14-15, 2026, ruling 6-3 t
 **Sourcing note**: no tier-1 wire or newspaper in this capture pass directly confirmed the case name or exact holding language — coverage here is drawn from tier-2 legal-academic and specialist-press term recaps (Stanford Law, UPI, The Regulatory Review) rather than a primary opinion read or AP/Reuters/WaPo report. The core fact (Trump prevailed, Humphrey's Executor no longer protects independent-agency removal) is corroborated across all three sources; the precise scope of the holding — full overruling versus a narrower agency-specific carve-out — should be verified against the opinion text before being treated as settled for downstream reporting. Notably, the Court allowed Fed Governor Lisa Cook to remain in her post the same term, suggesting an institution-specific carve-out rather than a categorical rule — see [[2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power]] for the companion ruling.
 
 This directly enabled the EAC commissioner firings ten days after the June 29 ruling ([[2026-07-10--trump-fires-eac-commissioners-hicks-hovland-after-humphreys-executor]]) and effectively subjugates FTC, SEC, and CFPB leadership to White House removal-at-will while ongoing crypto self-dealing scrutiny of the administration continues.
+
+## Correction (2026-11-16)
+
+This entry describes the same event as [[2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power]] and is superseded by it. Old text: "The Supreme Court decided *Trump v. Slaughter* on July 14-15, 2026." The slip opinion on supremecourt.gov reads "Argued December 8, 2025—Decided June 29, 2026" [s1]. There was no separate July 14 decision. The July 14 date came from term-recap articles published after the decision, and the entry's first sentence and sourcing note should not be cited. The entry stays at its id so existing links resolve; `status` changes from `disputed` to `superseded`, and `superseded_by` names the canonical entry.

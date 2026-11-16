@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-06-05--doj-response-mehta-oath-keepers-deadline-described-insufficient
 date: '2026-06-05'
-title: "DOJ Files Supplemental Response to Mehta's Oath Keepers Order; Response Described by Critics as Insufficient"
+title: "DOJ Asks Mehta for Two More Weeks to Supplement Its Oath Keepers Dismissal Motion; Supplement Follows June 18"
 importance: 8
 status: confirmed
 tags:
@@ -52,15 +52,126 @@ related_entries:
   - 2026-05-29--judge-mehta-blocks-oath-keepers-dismissal-orders-doj-explain-prejudice-by-june-5
   - 2025-01-20--trump-2-j6-pardons-proud-boys-oath-keepers
   - forgiveness-over-accountability-ratchet-1974-2026-executive-and-regulatory-tracks
+verification: captured
+claims:
+- id: c1
+  type: date
+  value: April 14, 2026
+  qualifier: moved
+  span: On April 14, 2026, on the eve of the last filing deadline, the government moved to vacate Defendants’ convictions under 28 U.S.C. § 2106
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.981.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: date
+  value: May 21, 2026
+  qualifier: granted
+  span: the D.C. Circuit granted the motion on May 21, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.981.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: date
+  value: May 22, 2026
+  qualifier: moved
+  span: On May 22, 2026, the government moved under Federal Rule of Criminal Procedure 48(a) to dismiss the indictment with prejudice
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.976.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: date
+  value: June 5, 2026
+  qualifier: supplement
+  span: the government shall supplement its motion to dismiss by June 5, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.976.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: date
+  value: June 18, 2026
+  qualifier: requests
+  span: The government requests an additional two weeks, until June 18, 2026, to provide a more fulsome response to the Court’s request.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.978.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: date
+  value: June 18, 2026
+  qualifier: supplemented
+  span: The government supplemented its motion on June 18, 2026.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.981.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: quote
+  value: is hereby dismissed with prejudice
+  qualifier: dismissed
+  span: 'The Superseding Indictment, ECF No. 167, is hereby dismissed with prejudice. Dated: August 4, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.981.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: quote
+  value: A jury convicted all defendants, except one (Thomas Caldwell), of at least one conspiracy offense.
+  qualifier: except
+  span: A jury convicted all defendants, except one (Thomas Caldwell), of at least one conspiracy offense.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.981.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: quote
+  value: only one in addition to Rhodes, Kelly Meggs, was found guilty
+  qualifier: acquitted
+  span: All five defendants on trial in this case were charged with seditious conspiracy but only one in addition to Rhodes, Kelly Meggs, was found guilty. The three other defendants — Jessica Watkins, Kenneth Harrelson and Thomas Caldwell — were acquitted on that central charge.
+  url: https://www.npr.org/2022/11/29/1139454126/oath-keepers-stewart-rhodes-seditious-conspiracy-verdict-trial
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: quote
+  value: convicted four members of the extremist group the Oath Keepers of seditious conspiracy
+  qualifier: convicted
+  span: A jury on Monday convicted four members of the extremist group the Oath Keepers of seditious conspiracy. The jury started deliberations Thursday morning after a five-week trial. Prosecutors said the four defendants — Roberto Minuta, Joseph Hackett, David Moerschel and Edward Vallejo
+  url: https://www.cnbc.com/2023/01/23/four-oath-keepers-convicted-of-seditious-conspiracy-in-jan-6-attack.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c11
+  type: date
+  value: 06/05/26
+  qualifier: Filed
+  span: Document 978 Filed 06/05/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.239207/gov.uscourts.dcd.239207.978.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+event_date_claim: c11
 ---
 
-On June 5, 2026 — the deadline set by Judge Amit Mehta's May 29 order — the Department of Justice filed a supplemental response intended to satisfy Mehta's demand for "reasons and underlying factual basis" explaining why dismissal with prejudice of the Oath Keepers seditious-conspiracy convictions serves the public interest. As of the June 9, 2026 news-headlines digest compile date, Mehta had not granted the dismissal motion.
+On June 5, 2026 — the deadline set by Judge Amit Mehta's May 29 order — the Department of Justice filed an unopposed motion for two more weeks, until June 18, 2026, to provide the supplement Mehta demanded for "reasons and underlying factual basis" explaining why dismissal with prejudice of the Oath Keepers seditious-conspiracy convictions serves the public interest. The court granted the extension. DOJ supplemented on June 18, and Mehta granted the dismissal motion on August 4, 2026.
 
-## The DOJ supplemental filing
+## The June 5 filing
 
-DOJ filed its supplemental response by the June 5 deadline. The substance of that filing as documented in the record: the response was characterized by legal analysts and critics — including coverage tracked in Lawfare, PBS NewsHour, and associated legal-domain commentary — as insufficient to satisfy Mehta's order. Specifically, critics described the filing as continuing to rely on conclusory assertions of public interest rather than supplying the specific factual documentation Mehta had ordered.
-
-**Discipline on framing**: The characterization of the filing as "insufficient" or as evidence that "DOJ defied" the court is critics' characterization — documented in Lawfare and associated legal-domain commentary — and is preserved as such. As of the June 9 digest compile date, Mehta had issued no finding of contempt, no order denying the dismissal motion on the merits, and no further order compelling DOJ compliance. The motion remains pending. The "DOJ defies court" frame is the critics' read of DOJ's response posture; it is not a judicial finding.
+DOJ filed by the June 5 deadline, but what it filed was a request for time, not the supplement: an unopposed motion for an extension to June 18, 2026. Commentary calling a June 5 supplemental response "insufficient" (as this entry first reported, citing PBS and Lawfare) has no June 5 supplement to attach to; see the correction below. As of June 18 the supplement was in, and Mehta ruled on August 4.
 
 ## Context: what Mehta had ordered
 
@@ -69,7 +180,7 @@ Mehta's May 29, 2026 order required DOJ to provide:
 2. The underlying factual basis for those reasons
 3. Sufficient detail for the court to evaluate the motion on its merits
 
-The DOJ's original motion had offered only a conclusory statement on the public-interest question, which Mehta found "insufficiently detailed." The June 5 supplemental was DOJ's attempt to cure that deficiency.
+The DOJ's original motion had offered only a conclusory statement on the public-interest question, which Mehta found "insufficiently detailed." DOJ's June 18 supplement was its attempt to cure that deficiency.
 
 ## Blanche as the presiding official
 
@@ -81,19 +192,35 @@ The same June 2026 window produced the Lawfare documentation that at least 97 Ja
 
 ## Position in the forgiveness-over-accountability ratchet
 
-This event is the current terminus of the J6 ratchet sequence documented in cascade-timeline:
+This event is a step in the J6 ratchet sequence documented in cascade-timeline (the sequence ended with the August 4 dismissal):
 
 | Date | Event | Ratchet click |
 |------|-------|---------------|
 | January 20, 2025 | Mass pardons + commutations (Proclamation 10887) | Click 6b |
-| April 14, 2026 | DOJ moves to vacate seditious-conspiracy convictions | Post-Click extension |
+| April 14, 2026 | DOJ moves in the D.C. Circuit to vacate the convictions and remand (D.C. Circuit grants May 21; DOJ moves to dismiss in district court May 22) | Post-Click extension |
 | May 29, 2026 | Mehta orders DOJ to justify public-interest basis | Judicial resistance point |
-| June 5, 2026 | DOJ supplemental response filed; critics describe as insufficient | Resistance holding |
+| June 5, 2026 | DOJ moves for an extension to June 18 to supplement (unopposed) | Resistance holding |
+| June 18, 2026 | DOJ files the supplement | |
+| August 4, 2026 | Mehta grants dismissal with prejudice | |
 
-The ratchet mechanism: each click removes a layer of accountability consequence. The pardons removed custody. The conviction-erasure motion seeks to remove the jury-verdict record. Mehta's procedural resistance pauses the vacatur at the May 29 order. The outcome of the motion — whether Mehta ultimately grants dismissal, denies it, or orders further process — is an open gap as of June 9, 2026.
+The ratchet mechanism: each click removes a layer of accountability consequence. The pardons removed custody. The dismissal removed the pending indictment. Mehta's order required reasons first, and he granted dismissal with prejudice on August 4, 2026.
 
-**No prediction on contempt or ultimate disposition.** The motion remains pending before Mehta. Whether subsequent procedural steps (contempt, alternative dismissal procedure, court-ordered evidentiary hearing, or motion denial) follow is not forecasted here.
+**Outcome.** Mehta granted the motion on August 4, 2026; no contempt finding was made on this docket.
 
 ## Public Integrity Section structural context
 
 The DOJ career prosecutors who brought the original Oath Keepers seditious-conspiracy cases were among the first removed in the 2025 DOJ purge. The Public Integrity Section — the internal check that would normally evaluate politically-motivated filings — was reduced from 36 lawyers to 2 and stripped of new-case authority by March 9, 2026 ([[2026-03-09--doj-abuse-power-public-integrity-section-gutted]]). The institutional capacity to resist or independently evaluate the Oath Keepers dismissal motion inside DOJ was structurally removed before the motion was filed.
+
+## Correction (2026-11-16)
+
+The June 5 filing was not a supplemental response. The docket (D.D.C. 22-cr-15, read through CourtListener/RECAP) shows:
+
+1. **June 5.** DOJ filed an unopposed motion for an extension of time, ECF 978, asking for "an additional two weeks, until June 18, 2026, to provide a more fulsome response to the Court's request" [c5]. The court granted it by minute order. The only other June 5 filing was defendant Minuta's response to the May 29 order (ECF 977).
+2. **June 18.** DOJ filed the supplement, ECF 979 [c6].
+3. **August 4.** Mehta granted the motion and dismissed the superseding indictment with prejudice [c7].
+
+Old text: "the Department of Justice filed a supplemental response ... The substance of that filing ... was characterized by legal analysts and critics ... as insufficient." No supplemental response was filed on June 5, so the "insufficient" characterisation cannot attach to a June 5 filing. The entry's source pages are listed below only for their April 14 and context reporting; none was re-read for a June 5 supplement, and the paragraph about critics' characterisation is withdrawn. The "DOJ defies court" frame has no filing under it.
+
+Also corrected: the entry gave April 14 as the date of the DOJ dismissal motion. April 14 is the D.C. Circuit motion to vacate [c1]; the D.C. Circuit granted it May 21 [c2]; the Rule 48(a) motion to dismiss was filed May 22 [c3]. See [[2026-05-29--judge-mehta-blocks-oath-keepers-dismissal-orders-doj-explain-prejudice-by-june-5]].
+
+Sources: ECF 976, 978, 981 in United States v. Rhodes, 22-cr-15-APM (D.D.C.).
