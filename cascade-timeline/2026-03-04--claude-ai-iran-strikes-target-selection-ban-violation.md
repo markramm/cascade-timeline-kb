@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-03-04--claude-ai-iran-strikes-target-selection-ban-violation
 date: '2026-03-04'
-title: Pentagon Uses Banned Anthropic Claude to Select 1,000+ Iran Strike Targets While Simultaneously Blacklisting the Company
+title: Reports Say Pentagon Used Anthropic's Claude in Iran Campaign Days After Ban Order; How It Was Used Is Not Established
 importance: 9
 actors:
 - Anthropic
@@ -24,7 +24,7 @@ sources:
   outlet: Washington Post
   date: '2026-03-04'
   tier: 1
-- title: "Anthropic's Claude AI being used in Iran war by U.S. military, sources say"
+- title: Anthropic's Claude AI being used in Iran war by U.S. military, sources say
   url: https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/
   outlet: CBS News
   date: '2026-03-04'
@@ -50,50 +50,67 @@ sources:
   date: '2026-03-05'
   tier: 2
 status: disputed
+claims:
+- id: c1
+  type: quote
+  value: the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran
+  qualifier: over weekend
+  span: the U.S. used Anthropic's Claude AI model over weekend for the attack on Iran
+  url: https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/
+  read: fetched
+  source_kind: secondary
+- id: c2
+  type: quote
+  value: The Pentagon has not said exactly how the AI tool is being deployed
+  qualifier: not said exactly
+  span: The Pentagon has not said exactly how the AI tool is being deployed
+  url: https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/
+  read: fetched
+  source_kind: secondary
+- id: c3
+  type: quote
+  value: for synthesizing documents and making logistics and supply chains more efficient
+  qualifier: synthesizing
+  span: for synthesizing documents and making logistics and supply chains more efficient
+  url: https://www.cbsnews.com/news/anthropic-claude-ai-iran-war-u-s/
+  read: fetched
+  source_kind: secondary
+- id: c4
+  type: quote
+  value: the DOD has used Anthropic's models to support the U.S. military's operations in the ongoing conflict in Iran
+  qualifier: support
+  span: the DOD has used Anthropic's models to support the U.S. military's operations in the ongoing conflict in Iran
+  url: https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: quote
+  value: designated a supply chain risk, effective immediately
+  qualifier: effective immediately
+  span: designated a supply chain risk, effective immediately
+  url: https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html
+  read: fetched
+  source_kind: secondary
 capture_lanes:
 - Executive Power Expansion
 - Institutional Capture
 - Surveillance State
 coverage:
-  - url: https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national
-    title: "The Pentagon Banned Claude as a National Security Threat. Then It Used Claude to Bomb Iran."
+- url: https://theramm.substack.com/p/the-pentagon-banned-claude-as-a-national
+  title: The Pentagon Banned Claude as a National Security Threat. Then It Used Claude to Bomb Iran.
 ---
+Reporting on March 3-5, 2026 said the U.S. military used Anthropic's Claude AI model in the U.S.-Israeli campaign against Iran that began on February 28, 2026. CBS News, citing two unnamed sources familiar with the military's AI use, reported that the U.S. "used Anthropic's Claude AI model over weekend for the attack on Iran" and that it was still in use; the Wall Street Journal reported it first. CBS also wrote that "The Pentagon has not said exactly how the AI tool is being deployed." Pentagon CTO Emil Michael described the department's use of Claude generally as being "for synthesizing documents and making logistics and supply chains more efficient." CNBC reported that the Department of Defense "has used Anthropic's models to support the U.S. military's operations in the ongoing conflict in Iran."
 
-Reporting published on March 4-5, 2026 revealed that the U.S. military had been using Anthropic's Claude AI — embedded in Palantir's Maven Smart System on classified networks — to generate and prioritize strike targets in the U.S.-Israeli military campaign against Iran that began on February 28, 2026. Claude generated approximately 1,000 prioritized targets in the first day of operations alone, synthesizing satellite imagery, signals intelligence, and surveillance feeds in real time to produce target lists with precise GPS coordinates, weapons recommendations, and automated legal justifications for individual strikes.
+The use came as the administration moved against the company. Defense Secretary Pete Hegseth posted a directive to label Anthropic a "Supply-Chain Risk to National Security"; CNBC reported that a senior department official said the company was "designated a supply chain risk, effective immediately," on March 5, 2026, and that the post alone was not the official designation. Democracy Now's March 3 headline put the Iran use "just hours after Trump's ban on Anthropic."
 
-The revelation created a profound institutional contradiction: the Trump administration had signed an executive order directing federal agencies to phase out Claude just hours before the Iran campaign began, and the Department of Defense formally designated Anthropic a national security supply-chain threat on March 4. Yet U.S. military commanders told reporters they would continue relying on Anthropic's technology throughout the Iran campaign regardless of the president's order, because no viable replacement had yet been fielded.
-
-The use of Claude for target selection in active combat operations did not technically violate the specific safety conditions Anthropic had sought to protect in its contract negotiations — those conditions concerned domestic mass surveillance of Americans and fully autonomous lethal weapons without human authorization, not AI-assisted target identification with human commanders nominally in the decision loop. However, the episode demonstrated that the threshold between "AI-assisted" and "AI-determined" warfare had effectively collapsed in operational practice, with AI systems generating target lists at a pace and scale that made meaningful human review of individual strike decisions a largely procedural formality.
-
-The disclosure that Claude selected more than 1,000 targets in a single day illuminated the practical gap between the policy debates occurring in Washington — framed around contractual red lines and supply-chain designations — and the actual operational deployment of AI in kinetic military action. Military sources confirmed that the Pentagon's dependence on Anthropic's technology had grown sufficiently deep during prior integrations that a six-month phase-out window was optimistic, and that operational commanders were not prepared to degrade their targeting capabilities in the midst of an active air campaign.
-
-The episode marked the first publicly confirmed large-scale use of commercial large language model AI in active target selection during combat operations, and raised fundamental questions about accountability, legal authorization, and the feasibility of any meaningful corporate or contractual guardrail on AI deployed within classified military systems.
+What the record read for this entry does not establish: that Claude selected, generated or prioritized strike targets, how many, or that it ran inside Palantir's Maven Smart System. Some outlets' headlines say so (Futurism: "US Military Using Claude to Select Targets in Iran Strikes"); CBS and CNBC, read for this correction, state no such role and no count. The Washington Post article, the likely origin of the targeting account, could not be fetched (HTTP 403) and remains unread. Whether the use contradicts the ban order is the point the reporting raises; Anthropic's stated red lines were mass domestic surveillance and fully autonomous weapons.
 
 ---
 
 ## SOURCE-VERIFICATION FLAG (2026-08-28, corpus audit `audit-high-importance-confirmed-canon-for-source-claim-mismatch`)
 
-**Flagged clause — the headline number:** title *"Select 1,000+ Iran Strike Targets"*; body *"Claude
-generated approximately 1,000 prioritized targets in the first day of operations alone"*; closing *"Claude
-selected more than 1,000 targets in a single day."*
+The audit read six sources and found no 1,000-target figure in any of them (CBS, both Futurism pieces, CNBC, Democracy Now, The RAMM). The Washington Post piece failed to fetch. Status was downgraded `confirmed` to `disputed`; the instruction was to retitle without a number if the Post did not carry one.
 
-**Finding: claim-not-in-source.** Six sources were read successfully and **none** contains any 1,000-target
-figure. Grep `1,000|1000 |thousand target|targets in the first`:
-- CBS News (~157,836 tok) — no match. Broader grep `1,000|thousand|target` returns only IDF/Lavender
-  targeting-system context, no count.
-- Futurism, *claude-anthropic-military-iran* (~36,638 tok) — no match.
-- CNBC (~212,930 tok) — no match.
-- Futurism, *ban-anthropic-military-pentagon-relying-iran* (~37,264 tok) — no match.
-- Democracy Now (~30,441 tok) — no match.
-- The RAMM, *The Pentagon Banned Claude* (~57,292 tok) — no match. **Our own published piece does not carry
-  the number either**, which locates the figure's entry point at this timeline entry, not upstream.
-- Washington Post (the likely originating report) — fetch failed, **unchecked, not a negative**.
+## Correction (2026-11-16)
 
-**What IS supported** across the readable sources: Claude's embedding in Palantir's Maven Smart System on
-classified networks, its use in the Iran campaign, and the simultaneous Anthropic blacklisting — the
-entry's actual structural finding.
-
-**Disposition:** `status` downgraded `confirmed` → `disputed`, because the count is in the title and is the
-figure a drafter would lift verbatim. **Do not delete** — the ban-while-using contradiction is real and
-well-sourced. Restore to `confirmed` only after the Washington Post piece is read directly and either
-carries the ~1,000 figure or supplies the correct one; if it does not, retitle without a number.
+The original title and text said Claude was used "to select 1,000+ Iran strike targets," that it "generated approximately 1,000 prioritized targets in the first day," and that it ran inside Palantir's Maven Smart System with GPS coordinates, weapons recommendations and automated legal justifications. No source read states those figures or details; CBS and CNBC (read directly on 2026-11-16) say only that Claude was used in the operation and that the Pentagon has not said how. The Washington Post article is still unread (403). The text above is restated to what the sources say and attributes the rest. Also removed: the claims that this was the "first publicly confirmed large-scale use" of a commercial model in targeting, that the use "did not technically violate" Anthropic's conditions, that human review had become "a largely procedural formality," and that commanders said a phase-out was impossible; none is carried by a source read. The designation is dated March 5 per CNBC, not March 4. The page id keeps its original slug so existing links hold; the title no longer carries the number.
