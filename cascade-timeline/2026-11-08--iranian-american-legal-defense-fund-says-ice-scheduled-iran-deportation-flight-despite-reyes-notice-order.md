@@ -171,6 +171,27 @@ claims:
   url: https://abcnews.com/US/planned-deportation-flight-iran-aborted-2nd-time-group/story?id=138046916
   read: fetched
   source_kind: secondary
+- id: c23
+  type: quote
+  value: 'The Iranians were deplaned before the flight departed'
+  span: 'The Iranians were deplaned before the flight departed.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.294220/gov.uscourts.dcd.294220.59.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c24
+  type: quote
+  value: 'Defendants filed responses under seal, which IALDF has not seen'
+  span: 'Defendants filed responses under seal, which IALDF has not seen.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.294220/gov.uscourts.dcd.294220.59.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c25
+  type: quote
+  value: 'The Court should deny Defendants’ motion to dissolve'
+  span: 'The Court should deny Defendants’ motion to dissolve.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.294220/gov.uscourts.dcd.294220.59.0.pdf
+  read: fetched
+  source_kind: primary
 tags:
 - ice
 - deportation
@@ -207,3 +228,7 @@ In a court hearing on Oct. 15, U.S. District Judge Ana Reyes said deporting Iran
 **Who filed what.** The sealed notice of Nov. 3 that MS NOW attributed to "a party" was the government's: the plaintiff's later filing calls it "Defendants' ex parte notice filed Tuesday, November 3, 2026," and the government asked the court to keep it sealed. IALDF's own filing came on Nov. 8, a "Notice of Apparent Violation" that says a removal beginning at 4:00 a.m. on Sunday, November 8 "would follow only three business days' notice." IALDF said it had not seen the government's notice and asked the court to compare the two in camera. It asked for no relief and reserved its rights.
 
 **What happened to the flight.** ABC News reported that the Sunday attempt was canceled while the plane sat on the tarmac in Arizona, and that a second flight left Mesa on Tuesday and turned back, with Pakistan declining to receive the group "according to two sources familiar with the situation." ABC also reported "There has been no public notice to the federal judge about the last two deportation attempts." Neither flight is shown to have removed anyone.
+
+## Update (2026-11-17)
+
+In its response opposing the government's motion to dissolve the notice order, IALDF says: "The Iranians were deplaned before the flight departed." It also says "Defendants filed responses under seal, which IALDF has not seen" and closes: "The Court should deny Defendants’ motion to dissolve." That is the plaintiff's account.
