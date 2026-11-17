@@ -2,7 +2,7 @@
 type: timeline_event
 id: 1979-06-06--moral-majority-founded-corporate-religious-alliance
 date: '1979-06-06'
-title: Moral Majority Founded - Corporate Agenda Masked by Religious Cultural Warfare
+title: Moral Majority Founded on June 6, 1979 (Liberty University Archives)
 importance: 8
 tags:
 - religious-right
@@ -20,21 +20,31 @@ actors:
 - Robert Billings
 - Joseph Coors
 sources:
+- title: Moral Majority records, finding aid
+  url: https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf
+  outlet: Liberty University Archives
+  date: ''
+  tier: 1
+- title: 'Book Excerpt: Thy Kingdom Come (Randall Balmer)'
+  url: https://www.vpm.org/npr-news/2006-06-23/book-excerpt-thy-kingdom-come/
+  outlet: NPR via VPM
+  date: '2006-06-23'
+  tier: 2
+- title: Making Up Evangelical History (Paul Edwards)
+  url: https://townhall.com/columnists/pauledwards/2010/02/10/making-up-evangelical-history-n976636
+  outlet: Townhall
+  date: '2010-02-10'
+  tier: 3
 - title: Moral Majority
   url: https://en.wikipedia.org/wiki/Moral_Majority
   outlet: Wikipedia
-  date: '2024-11-10'
-  tier: 2
-- title: Paul Weyrich
-  url: https://en.wikipedia.org/wiki/Paul_Weyrich
-  outlet: Wikipedia
-  date: '2024-11-08'
-  tier: 2
+  date: ''
+  tier: 3
 - title: Moral Majority Is Founded
   url: https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded
   outlet: EBSCO Research Starters
-  date: '2024-09-15'
-  tier: 2
+  date: ''
+  tier: 3
 status: confirmed
 capture_lanes:
 - Electoral Manipulation
@@ -43,22 +53,122 @@ capture_lanes:
 date_kind: founding date as given by the Liberty University Archives finding aid for the Moral Majority records; an incorporation filing was not checked
 previous_ids:
 - 1979-06-01--moral-majority-founded-corporate-religious-alliance
+source_limits: the founding date and founders rest on the archive finding aid; no incorporation filing was read; the Dobson remark is read in Balmer 2006 as NPR published it, not in a record of the 1990 conference
+event_date_claim: c1
+claims:
+- id: c1
+  type: date
+  value: June 6, 1979
+  qualifier: founded
+  span: The Moral Majority was founded on June 6, 1979 by Dr. Jerry Falwell, Dr. Tim LaHaye, Dr. Charles Stanley, Dr. D. James Kennedy, and Dr. Greg Dixon.
+  url: https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: The Moral Majority was founded on June 6, 1979 by Dr. Jerry Falwell, Dr. Tim LaHaye, Dr. Charles Stanley, Dr. D. James Kennedy, and Dr. Greg Dixon
+  qualifier: founded
+  span: The Moral Majority was founded on June 6, 1979 by Dr. Jerry Falwell, Dr. Tim LaHaye, Dr. Charles Stanley, Dr. D. James Kennedy, and Dr. Greg Dixon.
+  url: https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: quote
+  value: It was founded on four principles; being pro-life, pro-family, pro-morals, and pro-American
+  qualifier: four principles
+  span: It was founded on four principles; being pro-life, pro-family, pro-morals, and pro-American.
+  url: https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: quote
+  value: a phrase coined by Weyrich
+  qualifier: coined
+  span: During a 1979 meeting, they urged televangelist Jerry Falwell Sr. to found the Moral Majority (a phrase coined by Weyrich
+  url: https://en.wikipedia.org/wiki/Moral_Majority
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: quote
+  value: Startup cash was provided by the Coors family, while Viguerie, their direct-mail guru, used the old Goldwater mailing list to launch a massive fund-raising effort
+  qualifier: Startup cash
+  span: Startup cash was provided by the Coors family, while Viguerie, their direct-mail guru, used the old Goldwater mailing list to launch a massive fund-raising effort.
+  url: https://www.ebsco.com/research-starters/social-sciences-and-humanities/moral-majority-founded
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: date
+  value: November 1990
+  qualifier: conference
+  span: In November 1990, for reasons that I still don’t entirely understand, I was invited to attend a conference in Washington sponsored by the Ethics and Public Policy Center
+  url: https://www.vpm.org/npr-news/2006-06-23/book-excerpt-thy-kingdom-come/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: quote
+  value: The Religious New Right did not start because of a concern about abortion
+  qualifier: Dobson said
+  span: “The Religious New Right did not start because of a concern about abortion,” Dobson said.
+  url: https://www.vpm.org/npr-news/2006-06-23/book-excerpt-thy-kingdom-come/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: quote
+  value: I sat in the non-smoke-filled back room with the Moral Majority, and I frankly do not remember abortion ever being mentioned as a reason why we ought to do something
+  qualifier: Dobson said
+  span: “The Religious New Right did not start because of a concern about abortion,” Dobson said. “I sat in the non-smoke-filled back room with the Moral Majority, and I frankly do not remember abortion ever being mentioned as a reason why we ought to do something.”
+  url: https://www.vpm.org/npr-news/2006-06-23/book-excerpt-thy-kingdom-come/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: quote
+  value: I have always argued that while abortion was not the major issue in the formation of the Moral Majority, it was certainly one of the issues
+  qualifier: Dr. Dobson told me
+  span: Dr. Dobson told me, “I have always argued that while abortion was not the major issue in the formation of the Moral Majority, it was certainly one of the issues.”
+  url: https://townhall.com/columnists/pauledwards/2010/02/10/making-up-evangelical-history-n976636
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: quote
+  value: he may have made such a statement
+  qualifier: no doubt
+  span: When I asked if he recalled making such a statement he replied that while he has no doubt that he may have made such a statement, the way in which Dr. Balmer was using it seemed to be out of context.
+  url: https://townhall.com/columnists/pauledwards/2010/02/10/making-up-evangelical-history-n976636
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+verification: source-verified
 ---
-In June 1979, Paul Weyrich and Jerry Falwell founded the Moral Majority during a meeting at a Holiday Inn in Lynchburg, Virginia, with Weyrich coining the term "moral majority." The organization represented a strategic alliance between corporate interests and religious conservatives, using cultural issues to mobilize voters for an economic agenda that primarily benefited wealthy elites.
+The Liberty University Archives finding aid for the Moral Majority's records gives its founding date and founders: "The Moral Majority was founded on June 6, 1979 by Dr. Jerry Falwell, Dr. Tim LaHaye, Dr. Charles Stanley, Dr. D. James Kennedy, and Dr. Greg Dixon". The same note gives its principles: "It was founded on four principles; being pro-life, pro-family, pro-morals, and pro-American".
 
-The founding involved an elite group of strategists: Richard Viguerie (direct mail fundraising), Howard Phillips (political strategy), Paul Weyrich (Heritage Foundation co-founder), Robert Billings (former White House liaison), and Ed McAteer (Religious Roundtable founder and Colgate-Palmolive sales executive). Startup funding came from the Coors family, while Viguerie used old Goldwater campaign mailing lists to launch massive fundraising operations.
+Wikipedia credits Paul Weyrich with coining the name: "a phrase coined by Weyrich". EBSCO's research starter, quoting a commentator, gives the money and the mailing list: "Startup cash was provided by the Coors family, while Viguerie, their direct-mail guru, used the old Goldwater mailing list to launch a massive fund-raising effort". The archive's and Wikipedia's accounts of who founded it are recorded unreconciled; see [[1979-06-06--falwell-weyrich-found-moral-majority-religious-corporate-alliance]].
 
-The Moral Majority activated Christians around issues like abortion, prayer in schools, sex education, and "traditional family values" - but notably, these cultural issues were not the original motivation. Ed Dobson, Jerry Falwell's former lieutenant, later stated: "The Religious New Right did not start because of a concern about abortion. I sat in the non-smoke-filled back room with the Moral Majority, and I frankly do not remember abortion being mentioned as a reason why we ought to do something."
+**Ed Dobson's remark.** Historian Randall Balmer reports that, at a conference in Washington in November 1990, Ed Dobson, Falwell's former associate at the Moral Majority, spoke during the discussion after Paul Weyrich's remarks: "The Religious New Right did not start because of a concern about abortion," and "I sat in the non-smoke-filled back room with the Moral Majority, and I frankly do not remember abortion ever being mentioned as a reason why we ought to do something". Dobson later told Paul Edwards of Townhall (2010) that "I have always argued that while abortion was not the major issue in the formation of the Moral Majority, it was certainly one of the issues", and that "he may have made such a statement" but that Balmer's use of it seemed to be out of context.
 
-**What the organization converted** — inputs to outputs, which is the claim the record supports:
-religious-constituency mobilization went in, and electoral support for corporate tax cuts,
-deregulation, and anti-labor policy came out, carried in cultural and moral language. The observable
-result was a durable voting bloc whose electoral weight backed policies benefiting corporate donors.
+## Correction (2026-11-17)
 
-A second entry on the same event, [[1979-06-06--falwell-weyrich-found-moral-majority-religious-corporate-alliance]], carries the **Liberty University archival finding-aid account** (June 6, 1979; Washington, D.C.; five founding ministers), which **conflicts with the Weyrich-centered account** here. The two accounts are recorded unreconciled.
+The title put a causal thesis in our voice (a corporate agenda masked by cultural warfare) and is restated as the dated founding. Checked against the Liberty University Archives finding aid and Balmer's 2006 text as NPR published it.
 
-The Moral Majority demonstrated how corporate-funded political infrastructure could use cultural warfare to obscure economic class interests, turning working-class religious voters into supporters of wealthy elites' economic agenda. This model would be replicated and expanded for decades, with cultural issues serving as cover for systematic wealth transfer from poor and middle-class Americans to corporate interests.
-
-## Correction (2026-11-16)
-
-This entry was dated June 1, 1979, a placeholder. The Liberty University Archives finding aid for the Moral Majority's records (https://pimcore.liberty.edu/imports/coldfusion/1420/documents/archivefindingaids/MOR_RG-01.pdf) gives June 6, 1979 as the date it "was founded"; the date is moved to June 6 and the file renamed. The Holiday Inn meeting in Lynchburg and the founders named above come from secondary summaries; the finding aid names five ministers (Falwell, LaHaye, Stanley, Kennedy and Dixon) and a Washington, D.C. headquarters. The accounts are not reconciled; see [[1979-06-06--falwell-weyrich-found-moral-majority-religious-corporate-alliance]].
+- The Dobson quotation had no "ever" here; Balmer's text has it, and the second half is now given in Balmer's words. Its setting is Balmer's: a November 1990 conference in Washington, not a later interview. A 2010 Townhall column quotes a version without "ever" and dates the remark to 1999 from a different Balmer text; that text was not read. Dobson's own later response is added here.
+- Cut for lack of a source: a Holiday Inn meeting in Lynchburg; the list of Viguerie, Phillips, Billings and McAteer as an elite group of strategists; that the cultural issues were not the original motivation as a flat statement (it is now Dobson's remark through Balmer); the line that the organization's real purpose was to mobilize religious voters for corporate tax cuts; the account of working-class voters turned into supporters of wealthy elites and a model replicated for decades; the conversion paragraph (religious mobilization in, corporate policy out). They are interpretation; a source would have to be a named history of the Moral Majority's funding and its policy results.
+- Where the founding took place stays open: the archive gives Washington, D.C. as its headquarters; Wikipedia gives Lynchburg.
+- The tags and lanes naming corporate capture and electoral manipulation are the earlier entry's framing and are left for Mark's decision.
