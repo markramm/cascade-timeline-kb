@@ -106,9 +106,33 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+- id: c6
+  type: figure
+  value: more than $20 million
+  qualifier: already spent
+  span: Musk and groups he funds have already spent more than $20 million in an effort to elect Schimel
+  url: https://www.pbs.org/newshour/politics/wisconsin-attorney-general-sues-musk-to-block-his-1-million-payment-offers-to-voters
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: date
+  value: Mar 28, 2025
+  qualifier: ''
+  span: Mar 28, 2025 6:03 PM EST
+  url: https://www.pbs.org/newshour/politics/wisconsin-attorney-general-sues-musk-to-block-his-1-million-payment-offers-to-voters
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 By March 25, 2025, a week before the April 1 Wisconsin Supreme Court election, the pro-Schimel groups America PAC and Building America's Future, which ProPublica links to Musk, had disclosed spending about $17 million, according to ProPublica. The Brennan Center, counting on March 24, had the same groups at over $14.3 million, in a race where the campaigns and their supportive outside spenders had already spent more than $73 million by its count. The figures differ in date and in what each counts; they are not additive and neither is a state filing read here.
 
 ## Correction (2026-11-16)
 
 The earlier text gave a much larger figure for one PAC and ranked the race against every other judicial election. No source fetched for this correction gives a figure of that size for one PAC on or before March 25; the nearest, an unattributed post-election Newsweek sentence about Musk's spending in support of the Republican-backed candidate, covers Musk, not the PAC, and a later date. A ranking is a tracker's, with its date, so it is not repeated here. The sentence on Tesla's lawsuit over the state's dealership law was removed: the Fortune page it came from was not read for this correction. The Washington Post source is paywalled and was not read. The race's result and the open seat are on [[2025-03-31--musk-funded-political-group-spends-big-and-goes-do]].
+
+## Note (2026-11-16)
+
+A later source gives a figure of the size the earlier text had: the Associated Press story of Mar 28, 2025, on PBS, says Musk and groups he funds had already spent more than $20 million in an effort to elect candidate Brad Schimel. That is AP's figure for Musk and the groups he funds, as of that story and later than the March 25 figures above, with no tallier named; it is not one PAC's total and is not added to the others. See [[2025-03-27--musk-announces-1-million-for-wisconsin-voter-in-supreme-cour]].

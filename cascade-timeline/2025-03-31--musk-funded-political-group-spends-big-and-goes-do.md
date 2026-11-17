@@ -148,6 +148,26 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+- id: c11
+  type: figure
+  value: more than $20 million
+  qualifier: already spent
+  span: Musk and groups he funds have already spent more than $20 million in an effort to elect Schimel
+  url: https://www.pbs.org/newshour/politics/wisconsin-attorney-general-sues-musk-to-block-his-1-million-payment-offers-to-voters
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c12
+  type: date
+  value: Mar 28, 2025
+  qualifier: ''
+  span: Mar 28, 2025 6:03 PM EST
+  url: https://www.pbs.org/newshour/politics/wisconsin-attorney-general-sues-musk-to-block-his-1-million-payment-offers-to-voters
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 Elon Musk's America PAC had spent $4.3 million on canvassing alone as of a week before the April 1 Wisconsin Supreme Court election, according to figures compiled by the Wisconsin Democracy Campaign and reported by the Associated Press. That is one line of America PAC spending, not a total for Musk: AP separately reported that groups linked to Musk had spent more than $17 million to support Brad Schimel, without naming who tallied it, and ProPublica put the pro-Schimel groups it named, America PAC and Building America's Future, at about $17 million disclosed as of March 25.
 
@@ -156,3 +176,7 @@ The seat was open. AP wrote that Schimel and Susan Crawford were running for an 
 ## Correction (2026-11-16)
 
 The earlier text called Crawford the "liberal incumbent"; she was a Dane County circuit judge running for the seat of a retiring justice, so the seat was open. It also gave a spending total for Musk and affiliated groups, and attributed a "wasted" quotation to Newsweek, that the Newsweek page fetched for this correction does not contain; that page gives other Musk figures on other bases (one attributed there to CNN, one unattributed, one Newsweek's own tally including petition payments), so no single total is given here and the figures are not additive. "Liberal" and "conservative" are the press's labels for who backed whom; the ballot is non-partisan. Sentences on the Attorney General's challenge to the giveaways, on Musk's framing of the race, and on his earlier campaigns were removed because no fetched source holds them. Spending figures on other bases are on [[2025-03-25--musk-and-trump-ratchet-up-involvement-in-wisconsin-supreme-c]]. The location field (Washington, D.C.) is not corrected here.
+
+## Note (2026-11-16)
+
+A later source gives a figure of the size the earlier text had: the Associated Press story of Mar 28, 2025, on PBS, says Musk and groups he funds had already spent more than $20 million in an effort to elect candidate Brad Schimel. That is AP's figure for Musk and the groups he funds, as of that story and later than the March 25 figures above, with no tallier named; it is not one PAC's total and is not added to the others. See [[2025-03-27--musk-announces-1-million-for-wisconsin-voter-in-supreme-cour]].
