@@ -99,7 +99,7 @@ The Electronic Frontier Foundation reads the decision more broadly: that even sh
 
 The holding concerns data the police obtained from Google under a warrant that compelled production. Purchases of location data from data brokers are not the question the Court decided. The word "purchase" turns up in the opinion set only in Justice Alito's dissent, in a question about a person's Amazon purchase history, not about data brokers. Whether *Chatrie*'s reasoning reaches purchased data is open.
 
-Related: [[2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data]], [[2026-06-16--vermont-data-privacy-online-surveillance-act-broker-deletion-rights]], and, in the Fourth Amendment lineage, [[1972-06-19--keith-case-fourth-amendment-domestic-surveillance-warrant]] and [[1976-06-23--united-states-v-miller-bank-records-third-party-doctrine]].
+Related: [[2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data]], [[2026-06-16--vermont-data-privacy-online-surveillance-act-broker-deletion-rights]], and, in the Fourth Amendment lineage, [[1972-06-19--keith-case-fourth-amendment-domestic-surveillance-warrant]] and [[1976-04-21--united-states-v-miller-bank-records-third-party-doctrine]].
 
 For ICE's legal theory on purchased location data, see [[purchase-versus-search-doctrine-ice-legal-theory-cabining-carpenter-chatrie]].
 

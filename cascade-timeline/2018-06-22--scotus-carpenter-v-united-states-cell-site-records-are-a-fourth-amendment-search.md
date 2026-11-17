@@ -29,10 +29,10 @@ sources:
     date: '2018-06-22'
     tier: 1
 related_events:
-  - 1976-06-23--united-states-v-miller-bank-records-third-party-doctrine
+  - 1976-04-21--united-states-v-miller-bank-records-third-party-doctrine
   - 1991-06-15--first-mass-cellular-surveillance-pattern-established
   - 2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant
-  - 2026-03-12--wyden-lee-introduce-government-surveillance-reform-act-warrant-for-data-broker-purchases
+  - 2026-03-12--wyden-lee-introduce-government-surveillance-reform-act-bars-federal-law-enforcement-data-broker-purchases
 previous_ids:
   - 2018-06-22--carpenter-cellular-location-warrant-requirement
 verification: source-verified
@@ -275,4 +275,4 @@ On the Government's route to the records, the Court wrote that "the Government m
 
 **The dissents,** each in the dissenting Justice's own words. Kennedy: "This case should be resolved by interpreting accepted property principles as the baseline for reasonable expectations of privacy." Thomas: "Because the Katz test is a failed experiment, this Court is dutybound to reconsider it." Alito: "the Court allows a defendant to object to the search of a third party’s property". Gorsuch: "I cannot help but conclude—reluctantly—that Mr. Carpenter forfeited perhaps his most promising line of argument."
 
-**Reading across.** The opinion's own reservations mark the boundary for any later claim that *Carpenter* requires a warrant for some other kind of data: what it decided was historical cell-site records compelled from carriers. The 2026 decision in *Chatrie* applied the reasonable-expectation reasoning to location data held by Google; see [[2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant]]. Where *Carpenter* sits in the third-party line: [[1976-06-23--united-states-v-miller-bank-records-third-party-doctrine]]. The carrier-records pattern it addressed: [[1991-06-15--first-mass-cellular-surveillance-pattern-established]]. The slip opinion text, with the page for each line, is saved in cascade-research/documents.
+**Reading across.** The opinion's own reservations mark the boundary for any later claim that *Carpenter* requires a warrant for some other kind of data: what it decided was historical cell-site records compelled from carriers. The 2026 decision in *Chatrie* applied the reasonable-expectation reasoning to location data held by Google; see [[2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant]]. Where *Carpenter* sits in the third-party line: [[1976-04-21--united-states-v-miller-bank-records-third-party-doctrine]]. The carrier-records pattern it addressed: [[1991-06-15--first-mass-cellular-surveillance-pattern-established]]. The slip opinion text, with the page for each line, is saved in cascade-research/documents.
