@@ -81,7 +81,7 @@ The War Powers Resolution is the single most consequential statutory attempt to 
 
 1. **Every president since Ford has asserted the Resolution is unconstitutional** and has complied only with the notification provisions (and those only selectively). Reagan (Lebanon 1982-83, Grenada 1983, Libya 1986), Bush I (Panama 1989, Persian Gulf 1990-91 after authorization), Clinton (Somalia 1992-93, Haiti 1994, Bosnia 1995, Kosovo 1999), Bush II (Afghanistan 2001, Iraq 2003 after authorization), Obama (Libya 2011), Trump I (Syria strikes 2017-18), Biden (Somalia strikes 2021-present), and Trump II (Iran strikes 2025, ongoing 2026 operations) have all declined to concede the 60-day clock as binding.
 
-2. **The Resolution's enforcement mechanism depends on congressional will.** Congress has never successfully invoked §5(b) to terminate a deployment. The 2026 Senate vote on Iran deployment [[2026-03-03--congress-war-powers-vote-iran-fails]] is the latest failed attempt.
+2. **The Resolution's enforcement mechanism depends on congressional will.** Congress has never successfully invoked §5(b) to terminate a deployment. The 2026 Senate vote on Iran deployment [[2026-03-04--senate-war-powers-iran-vote-defeated]] is the latest failed attempt.
 
 3. **The 2001 AUMF has swallowed the Resolution.** The post-9/11 Authorization for Use of Military Force has been invoked by three administrations to justify operations against enemies unforeseen in 2001, from Yemen to Somalia to Niger, effectively converting the Resolution from a constraint into an authorization superstructure.
 
@@ -107,5 +107,5 @@ The Resolution's invalidated §5(c) — the concurrent-resolution termination pr
 - [[1983-06-23--ins-v-chadha-legislative-veto-unconstitutional]] — *needs entry*
 - [[1974-12-30--hughes-ryan-amendment-presidential-finding-covert-action]] — *needs entry*
 - [[1974-07-12--impoundment-control-act-nixon-budget-reform]] — *needs entry*
-- [[2026-03-03--congress-war-powers-vote-iran-fails]]
+- [[2026-03-04--senate-war-powers-iran-vote-defeated]]
 - [[investigation-map-april-2026]]

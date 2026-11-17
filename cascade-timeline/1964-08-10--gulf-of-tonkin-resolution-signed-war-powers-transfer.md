@@ -117,7 +117,7 @@ The Gulf of Tonkin Resolution's structural significance is three-fold:
 
 3. **War Powers Resolution's partial response.** The Gulf of Tonkin experience was the principal motivation for the War Powers Resolution of 1973 [[1973-11-07--war-powers-resolution-override-nixon-veto]]. The Resolution's 60-day clock, notification requirements, and consultation mandates were designed specifically to prevent future Gulf of Tonkin-style surprise authorizations. But as the War Powers Resolution's 52-year history demonstrates, executive branches have substantially nullified these constraints through interpretation, non-compliance, and political pressure.
 
-Critically for the 2025-26 Trump II moment: the administration's March 2026 Senate War Powers Resolution votes on Iran operations [[2026-03-03--congress-war-powers-vote-iran-fails]] failed to pass. The political dynamic — administration asserts authority; Congress fails to assert countervailing power — tracks the Gulf of Tonkin precedent. The difference is that there is no current AUMF specifically authorizing Iran operations; the administration relies on Commander-in-Chief authority, the 2001 AUMF's expansive reading, and (in some arguments) congressional appropriations acquiescence. The Iran operations thus represent an even more attenuated authorization chain than Gulf of Tonkin, but the constitutional dynamic is the same.
+Critically for the 2025-26 Trump II moment: the administration's March 2026 Senate War Powers Resolution votes on Iran operations [[2026-03-04--senate-war-powers-iran-vote-defeated]] failed to pass. The political dynamic — administration asserts authority; Congress fails to assert countervailing power — tracks the Gulf of Tonkin precedent. The difference is that there is no current AUMF specifically authorizing Iran operations; the administration relies on Commander-in-Chief authority, the 2001 AUMF's expansive reading, and (in some arguments) congressional appropriations acquiescence. The Iran operations thus represent an even more attenuated authorization chain than Gulf of Tonkin, but the constitutional dynamic is the same.
 
 ## Broader Context
 
@@ -137,5 +137,5 @@ J. William Fulbright (D-AR), Chairman of Senate Foreign Relations, shepherded th
 - [[1964-08-07--gulf-of-tonkin-resolution-false-attack-war-authorization]]
 - [[1971-06-13--pentagon-papers-published-reveals-government-deception-vietnam]]
 - [[1973-11-07--war-powers-resolution-override-nixon-veto]]
-- [[2026-03-03--congress-war-powers-vote-iran-fails]]
+- [[2026-03-04--senate-war-powers-iran-vote-defeated]]
 - [[investigation-map-april-2026]]

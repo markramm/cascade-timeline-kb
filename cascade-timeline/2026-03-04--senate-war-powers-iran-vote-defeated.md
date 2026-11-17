@@ -71,36 +71,6 @@ sources:
   outlet: Sen. Tim Kaine press release
   date: '2026-03-03'
   tier: 1
-- title: U.S. Senate Roll Call Vote 119th Congress, 2nd Session, vote 46
-  url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00046.htm
-  outlet: U.S. Senate
-  date: '2026-03-04'
-  tier: 1
-- title: 'Kaine, Schumer, and Schiff: Senate to Vote on Iran War Powers Resolution Tomorrow'
-  url: https://www.kaine.senate.gov/press-releases/kaine-schumer-and-schiff-senate-to-vote-on-iran-war-powers-resolution-tomorrow
-  outlet: Sen. Tim Kaine press release
-  date: '2026-03-03'
-  tier: 1
-- title: U.S. Senate Roll Call Vote 119th Congress, 2nd Session, vote 46
-  url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00046.htm
-  outlet: U.S. Senate
-  date: '2026-03-04'
-  tier: 1
-- title: 'Kaine, Schumer, and Schiff: Senate to Vote on Iran War Powers Resolution Tomorrow'
-  url: https://www.kaine.senate.gov/press-releases/kaine-schumer-and-schiff-senate-to-vote-on-iran-war-powers-resolution-tomorrow
-  outlet: Sen. Tim Kaine press release
-  date: '2026-03-03'
-  tier: 1
-- title: U.S. Senate Roll Call Vote 119th Congress, 2nd Session, vote 46
-  url: https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00046.htm
-  outlet: U.S. Senate
-  date: '2026-03-04'
-  tier: 1
-- title: 'Kaine, Schumer, and Schiff: Senate to Vote on Iran War Powers Resolution Tomorrow'
-  url: https://www.kaine.senate.gov/press-releases/kaine-schumer-and-schiff-senate-to-vote-on-iran-war-powers-resolution-tomorrow
-  outlet: Sen. Tim Kaine press release
-  date: '2026-03-03'
-  tier: 1
 status: reported
 capture_lanes:
 - Legislative Capture
@@ -229,4 +199,4 @@ Kaine, Schumer and Schiff put out a release on March 03 2026 saying the Senate w
 
 ## Correction (2026-11-17)
 
-The earlier title overstated the result as a defeat of the resolution itself; the title now names the motion. The earlier text also carried details about cosponsors, a floor speech, a vote held open and the House, which no source we read carries, and they are cut. The entry dated March 3 covers this same vote and is folded into this one, its id kept in previous_ids. Votes 58 and 69, on March 18, 2026 and March 24, 2026, are separate votes.
+The earlier title overstated the result as a defeat of the resolution itself; the title now names the motion. The earlier text also carried details about cosponsors, a floor speech, a vote held open and the House, which no source we read carries, and they are cut. The entry dated March 3 is folded into this one: its file is removed and its id is kept in previous_ids. Votes 58 and 69, on March 18, 2026 and March 24, 2026, are separate votes.
