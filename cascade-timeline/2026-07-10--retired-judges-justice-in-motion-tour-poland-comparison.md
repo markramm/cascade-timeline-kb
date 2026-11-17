@@ -2,28 +2,85 @@
 type: timeline_event
 id: 2026-07-10--retired-judges-justice-in-motion-tour-poland-comparison
 date: '2026-07-10'
-title: "Retired Federal Judges Launch 'Justice in Motion' Bus Tour, Drawing Comparison to Post-PiS Poland"
+title: Retired Judges End a Three-Day "Justice in Motion" Bus Tour in Michigan, Inspired by a 2021 Campaign by Polish Judges
 importance: 7
 status: reported
 tags:
-  - judicial-capture
-  - institutional-accountability
-  - authoritarian-comparison
+- judicial-capture
+- institutional-accountability
+- authoritarian-comparison
 actors:
-  - retired federal judges
+- retired federal judges
 sources:
-  - title: "As the country turns 250, retired judges hit the road to defend judicial independence"
-    url: https://www.qcnews.com/news/politics/election/ap-as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
-    publisher: Associated Press / Queen City News
-    date: '2026-07-10'
-    tier: 1
-  - title: "As the country turns 250, retired judges hit the road to defend judicial independence"
-    url: https://www.texomashomepage.com/news/political-news/ap-as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
-    publisher: Associated Press / Texoma Homepage
-    date: '2026-07-10'
-    tier: 1
+- title: As the country turns 250, retired judges hit the road to defend judicial independence
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  publisher: Associated Press
+  date: '2026-07-10'
+  tier: 1
+source_published_date: '2026-07-10'
+claims:
+- id: c1
+  type: date
+  value: Friday
+  qualifier: Friday
+  span: On Friday, a group of retired judges stepped off a tour bus in a ritzy Michigan suburb after three days of barnstorming through corn fields, cities and coal towns in Ohio and Pennsylvania.
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c2
+  type: quote
+  value: stepped off a tour bus in a ritzy Michigan suburb after three days of barnstorming through corn fields, cities and coal towns in Ohio and Pennsylvania
+  qualifier: stepped
+  span: On Friday, a group of retired judges stepped off a tour bus in a ritzy Michigan suburb after three days of barnstorming through corn fields, cities and coal towns in Ohio and Pennsylvania.
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c3
+  type: quote
+  value: say they were inspired by a similar campaign in Poland in 2021 after that country’s governing party took control of key judicial institutions
+  qualifier: inspired
+  span: The two groups that planned the tour — dubbed “Justice in Motion” — say they were inspired by a similar campaign in Poland in 2021 after that country’s governing party took control of key judicial institutions.
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c4
+  type: quote
+  value: Independent Polish judges visited scores of towns to promote the rule of law and teach voters about the country’s constitution
+  qualifier: Independent
+  span: Independent Polish judges visited scores of towns to promote the rule of law and teach voters about the country’s constitution.
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c5
+  type: quote
+  value: put together by the Democracy Rising Collaborative and Keep Our Republic, nonpartisan advocacy groups
+  qualifier: together
+  span: The event was put together by the Democracy Rising Collaborative and Keep Our Republic, nonpartisan advocacy groups.
+  url: https://www.ap.org/news-highlights/elections/2026/as-the-country-turns-250-retired-judges-hit-the-road-to-defend-judicial-independence/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+event_date_claim: c1
+verification: source-verified
 ---
 
-A coalition of retired federal judges launched a "Justice in Motion" bus tour through Ohio and Pennsylvania on July 10, speaking in courthouses and public squares in explicit defense of judicial independence. The tour is modeled on a 2021 Polish judicial-independence campaign organized in response to the PiS government's court-packing and judicial-capture program — the direct comparison by sitting and retired US federal judges marks a notable rhetorical threshold in how the legal establishment is characterizing the administration's pattern of defying district court orders.
+The Associated Press reported that a group of retired judges "stepped off a tour bus in a ritzy Michigan suburb after three days of barnstorming through corn fields, cities and coal towns in Ohio and Pennsylvania." On the organisers: "put together by the Democracy Rising Collaborative and Keep Our Republic, nonpartisan advocacy groups"
 
-This is the judiciary's own public-facing organizing response to the same defiance pattern documented in Rep. Raskin's letter four days later ([[2026-07-14--raskin-letter-blanche-doj-systematic-court-defiance]]) — retired judges taking their defense of the institution directly to the public, rather than through litigation or internal statements, is itself a measure of how seriously the legal establishment now regards the threat.
+On the Polish model, the AP wrote that the tour's planners "say they were inspired by a similar campaign in Poland in 2021 after that country’s governing party took control of key judicial institutions." It describes the Polish campaign: "Independent Polish judges visited scores of towns to promote the rule of law and teach voters about the country’s constitution."
+
+Related: [[2026-07-14--raskin-letter-blanche-doj-systematic-court-defiance]]
+
+## Correction (2026-11-17)
+
+- Title: wording that set the Polish campaign after the end of the governing party's rule is replaced; the AP places it after that party took control of key judicial institutions, and the quoted sentence is the passage read.
+- Launch-day sentence (tour launched on the date of this entry, in Ohio and Pennsylvania only): replaced with the end of the tour in Michigan after three days.
+- Modeled-on and rhetorical-threshold sentences, and the sentence on the legal establishment's view: removed.
