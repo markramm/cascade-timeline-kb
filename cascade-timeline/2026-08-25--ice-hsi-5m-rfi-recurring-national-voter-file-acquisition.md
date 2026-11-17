@@ -37,7 +37,7 @@ sources:
     tier: 2
 previous_ids: ["2026-09-02--ice-hsi-5m-presolicitation-recurring-national-voter-file-acquisition"]
 related_events:
-  - 2026-02-17--doj-secret-voter-file-agreements-37-million-voters
+  - 2026-02-05--brennan-center-confidential-mou-ten-states-37-million-registered-voters
   - 2026-05-04--dhs-save-voter-roll-purge-blitz-ohio-texas-idaho-2026-midterms
   - 2026-01-24--bondi-voter-rolls-request-minnesota-ice-enforcement
   - 2026-06-24--steiner-usps-withhold-mail-ballots-from-states-refusing-voter-rolls

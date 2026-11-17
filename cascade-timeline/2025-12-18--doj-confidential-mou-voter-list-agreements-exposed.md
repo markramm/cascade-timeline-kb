@@ -54,7 +54,7 @@ notes: >
   Stateline reported the confidential MOUs on December 18, 2025. Colorado, which refused
   to turn over its full voter file, first made the proposed agreement public (Brennan
   Center). Which states had signed, and when, comes from later records: see the
-  Correction section. The February 2026 Brennan Center entry (2026-02-17) covers the
+  Correction section. The February 2026 Brennan Center entry (2026-02-05) covers the
   later comprehensive analysis; this entry documents the initial reporting.
 
 ---
