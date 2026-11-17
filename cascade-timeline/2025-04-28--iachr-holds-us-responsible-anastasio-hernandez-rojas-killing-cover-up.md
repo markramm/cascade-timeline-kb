@@ -82,15 +82,15 @@ The Commission's findings in the April 28, 2025 decision, per Alliance San Diego
 - 15 years of proceedings produced no accountability; the Commission held the United States responsible for the denial of justice
 
 **Connection to Scott's confirmation**:
-The IACHR decision was announced May 7, 2025. The Senate confirmed Rodney Scott as CBP Commissioner on June 18, 2025 — seven weeks later. Senator Ron Wyden publicly opposed the nomination citing both the IACHR ruling and documentary evidence of Scott's supervisory role in the cover-up the Commission found violated international law.
+The IACHR decision was announced May 7, 2025. The Senate confirmed Rodney Scott as CBP Commissioner on June 18, 2025 — seven weeks later. Senator Ron Wyden publicly opposed the nomination citing both the IACHR ruling and what he described as documentary evidence of Scott's role in the San Diego investigation (see the linked entry for what each source says).
 
 ## Why This Event Matters
 
 The IACHR ruling is the first international human rights body finding specifically holding the United States responsible for both the killing and the cover-up in a named Border Patrol use-of-force case. It provides independent primary-source corroboration for the structural argument that CBP's Critical Incident Teams operated as cover-up units rather than neutral investigators — not from advocates or whistleblowers but from an international judicial body reviewing the full evidentiary record over 15 years.
 
-The ruling arrived during the Trump-2 CBP confirmation process, making it a directly usable public-record finding against the nominee who supervised the cover-up. The Senate confirmed Scott anyway, making the post-ruling confirmation itself a data point: the accountability architecture did not interrupt the personnel-rotation pipeline.
+The ruling arrived during the Trump-2 CBP confirmation process, arriving while the nominee's 2010 role was being questioned in Senate hearings. The Commission's findings are against the United States; the question of Scott's own role rests on the documents and statements collected in the linked entry. The Senate confirmed Scott on June 18, 2025.
 
-For the CIT-to-OPR rotation investigation, the IACHR ruling closes a significant evidentiary gap: the "biased and incomplete investigation" finding applies specifically to the CIIT's conduct in a case where specific CIIT members (Rodney Scott as supervisor; Joe Vaiasuso as named agent; others unnamed in the ruling) are documented participants. The ruling creates an international legal record that names the institutional actors, which is the strongest available primary-source anchor for the "cover-up by design" framing.
+For the CIT-to-OPR rotation investigation, the IACHR ruling closes a significant evidentiary gap: the "biased and incomplete investigation" finding applies specifically to the CIIT's conduct in a case where specific CIIT members (per Capital & Main, a team Scott oversaw; this entry did not establish who else the ruling names). The ruling creates an international legal record that names the institutional actors, which is the strongest available primary-source anchor for the "cover-up by design" framing.
 
 ## Broader Context
 
@@ -104,10 +104,14 @@ The HBO documentary *Critical Incident* (December 2025) brought the case to gene
 - [ ] Whether the IACHR ruling names specific CIIT members beyond Rodney Scott
 - [ ] Whether the IACHR ruling triggered any U.S. government response beyond the Senate confirmation vote proceeding
 
+## Correction (2026-11-17)
+
+Three passages stated in this entry's voice that Scott "supervised the cover-up" or was a documented participant in it. The Commission's findings are against the United States. What the record shows about Scott (he oversaw the investigative team and, per the family's attorneys and Senator Wyden, signed a subpoena) and who characterizes it as a cover-up are set out, with sources, in [[2025-06-18--rodney-scott-confirmed-cbp-commissioner-after-iachr-hernandez-rojas-ruling]]. The sentence that the decision "was announced May 7, 2025" is not established here (KJZZ reported the ruling the week of Scott's April 30 hearing) and should be read as unverified. This entry has no claim records and is still unchecked against sources.
+
 ## Related Entries
 
 - [[cbp-critical-incident-teams-history-and-may-2022-termination]]
 - [[cit-to-opr-named-individual-personnel-rotation-tracking]]
 - [[budd-jenn]]
-- [[2025-06-18--rodney-scott-confirmed-cbp-commissioner-despite-cit-cover-up-role]]
+- [[2025-06-18--rodney-scott-confirmed-cbp-commissioner-after-iachr-hernandez-rojas-ruling]]
 - [[2026-01-24--border-patrol-kills-alex-pretti-legal-observer-minneapolis]]
