@@ -68,6 +68,7 @@ claims:
   source_kind: primary
   outcome: unreachable
   checked: '2026-11-17'
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -134,4 +135,3 @@ No attendee other than Cameron Kennedy is identified, and none is independently 
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

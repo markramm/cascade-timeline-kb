@@ -133,6 +133,7 @@ related_events:
   - 2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
   - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
+editorial_note: 'Edited 2026-11-17: the name of a private person removed at the editor''s decision; it appears in the cited filings.'
 ---
 
 A federal judge in Saint Paul dismissed the assault complaint against **Julio Cesar Sosa-Celis** and his housemate with prejudice on its own motion. The motion gave a one-line reason. The same day, DHS said two officers' sworn testimony "appears to have made untruthful statements."
@@ -147,4 +148,3 @@ A federal judge in Saint Paul dismissed the assault complaint against **Julio Ce
 
 **Sourcing note.** The motion and order were read in full from RECAP's copies. The DHS statement is quoted as NPR and Fox News report it; the quoted words are McLaughlin's, and Fox, citing the Associated Press, attributes the finding to Lyons.
 
-*Edited 2026-11-17: the name of a private person removed at the editor's decision; it appears in the cited filings.*

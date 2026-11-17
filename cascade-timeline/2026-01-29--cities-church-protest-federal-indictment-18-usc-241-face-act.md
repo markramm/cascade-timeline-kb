@@ -133,6 +133,7 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+editorial_note: 'Edited 2026-11-17: this entry listed all 39 defendants by name. Most are private people; the list is now a count. The names are in the indictment.'
 ---
 
 A federal grand jury in the District of Minnesota returned an indictment on January 29, 2026 against nine participants in the January 18 protest at Cities Church in St. Paul, charging them under two federal statutes: 18 U.S.C. § 241 (Conspiracy Against Rights, a Reconstruction-era statute enacted as part of the Enforcement Act of 1870) and 18 U.S.C. § 248(a)(2) (the FACE Act's religious-worship provision). On February 26, 2026, a superseding indictment expanded the defendant pool to 39 people. The case is *United States v. Levy-Armstrong et al.*, Docket No. 0:26-cr-00025 (D. Minn.), assigned to District Judge Laura M. Provinzino with Magistrate Judge Douglas L. Micko.
@@ -157,7 +158,6 @@ A federal grand jury in the District of Minnesota returned an indictment on Janu
 
 **Additional 30 (added in superseding indictment, February 26, 2026).** Charges against one of the 30 were dismissed with prejudice on March 23, 2026, as a case of mistaken identity.
 
-*Edited 2026-11-17: this entry listed all 39 defendants by name. Most are private people; the list is now a count. The names are in the indictment.*
 
 ### Key Procedural Dates
 

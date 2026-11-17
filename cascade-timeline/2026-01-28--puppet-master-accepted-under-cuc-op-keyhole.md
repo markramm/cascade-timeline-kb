@@ -84,6 +84,7 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -265,4 +266,3 @@ Full detail: [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-ve
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 - [[keyhole-certification-handbook-and-docket-watch-2026-08-31]]
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

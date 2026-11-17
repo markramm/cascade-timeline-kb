@@ -39,6 +39,7 @@ capture_lanes:
 coverage:
   - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -118,4 +119,3 @@ check it against. See [[2026-04-08--hsi-undercover-operation-zion-lutheran-churc
 - [[litigation-surface-search-strategy-and-the-wider-pattern]]
 - [[criminalizing-dissent-the-descending-gradient]]
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

@@ -230,6 +230,7 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-minnesota-15-surveillance
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -307,4 +308,3 @@ Two statements in this entry were wrong or unsupported and have been changed abo
 
 The case-opening report, approved 3/10/2026, says that "In accordance with National Security Presidential Memorandum-7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation". Its synopsis adds that the investigation "will prioritize the identification of funding sources, organizational structures, and predicate actions". WIRED reported that both Project Whipple Shield and Operation Puppet Master were "authorized by the controversial National Security Presidential Memorandum 7".
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

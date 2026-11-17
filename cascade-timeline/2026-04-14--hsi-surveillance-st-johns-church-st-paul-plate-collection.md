@@ -35,6 +35,7 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
 coverage: []
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -87,4 +88,3 @@ The ROI names no attendee, records no in-meeting content, and offers no evidence
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

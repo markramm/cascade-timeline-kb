@@ -154,6 +154,7 @@ claims:
 coverage:
   - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 On 8/27/2026 (upload date), an HSI special agent uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). 8/27/2026 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives "Time: 3:30 P.M. / 5:00 P.M." for the hearing, and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.
@@ -164,4 +165,3 @@ Sant's counsel later filed both reports as exhibits. The record in hand gives no
 
 Context: [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]], [[2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony]], [[2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity]], [[2026-09-25--sant-defense-exhibits-out-of-state-hsi-agents-ran-minnesota-protest-investigations]].
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

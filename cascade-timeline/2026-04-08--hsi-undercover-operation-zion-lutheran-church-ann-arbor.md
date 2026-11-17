@@ -142,6 +142,7 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
 ---
 
 ## Opening
@@ -307,4 +308,3 @@ Verified by OCR of the primary exhibits, 2026-09-16:
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 
-*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*
