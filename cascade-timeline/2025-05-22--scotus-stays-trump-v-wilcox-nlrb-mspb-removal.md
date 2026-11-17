@@ -71,7 +71,7 @@ The Wilcox stay is the load-bearing shadow-docket order in the Trump-2 dismantli
 ## Related Entries
 
 - [[2025-07-23--trump-v-boyle-scotus-ruling]]
-- [[2025-09-02--supreme-court-allows-trump-to-fire-ftc-commissioner-slaughter]]
+- [[2025-09-22--supreme-court-ftc-commissioner-removal]]
 - [[2025-09-22--scotus-agrees-reconsider-humphreys-executor-agency-firings]]
 - [[2026-04-18--kantor-liptak-nyt-shadow-docket-leak-clean-power-plan-memos]]
 - [[investigation-map-april-2026]]

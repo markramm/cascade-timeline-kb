@@ -27,7 +27,7 @@ sources:
 related_events:
   - 1937-02-05--fdr-announces-court-packing-plan
   - 1937-07-22--senate-defeats-court-packing-plan
-  - 2026-06-30--scotus-eliminates-nationwide-injunctions-judicial-check-removed
+  - 2025-06-27--supreme-court-restricts-nationwide-injunctions-trump-v-casa
   - 2026-08-22--ap-analysis-97-percent-doj-emergency-scotus-filings-claim-judicial-interference
 coverage:
   - daily-capture-reports/headline/2026-09-07--federal-judicial-vacancies-court-expansion-debate-sept2026.md

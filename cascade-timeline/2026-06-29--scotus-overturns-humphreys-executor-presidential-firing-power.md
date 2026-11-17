@@ -4,7 +4,7 @@ id: 2026-06-29--scotus-overturns-humphreys-executor-presidential-firing-power
 date: '2026-06-29'
 title: "Supreme Court Overturns Humphrey's Executor, Grants President At-Will Firing Power Over Independent Agencies"
 importance: 10
-status: confirmed
+status: reported
 tags:
   - judicial-capture
   - unitary-executive
@@ -34,6 +34,7 @@ sources:
     publisher: U.S. News & World Report
     date: '2026-06-29'
     tier: 1
+event_date_claim: s1
 verification: captured
 claims:
 - id: s1
@@ -46,12 +47,21 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
-event_date_claim: s1
+- id: s2
+  type: quote
+  value: ROBERTS, C. J., delivered the opinion of the Court, in which ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined, and in which THOMAS, J., joined as to all but Part III–B
+  qualifier: delivered
+  span: Reversed and remanded. ROBERTS, C. J., delivered the opinion of the Court, in which ALITO, GORSUCH, KAVANAUGH, and BARRETT, JJ., joined, and in which THOMAS, J., joined as to all but Part III–B. GORSUCH, J., filed a concurring opinion. SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN and JACKSON, JJ., joined.
+  url: https://www.supremecourt.gov/opinions/25pdf/25-332_qn12.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 In a **6-3 ruling on June 29, 2026**, the Supreme Court overturned *Humphrey's Executor v. United States* (1935), holding that President Trump's firing of FTC Commissioner **Rebecca Kelly Slaughter** without cause was lawful. The decision grants the president sweeping at-will removal authority over roughly two dozen independent agencies Congress designed to insulate from direct presidential control — the FTC, CFPB, NLRB, and others — vindicating the unitary-executive theory and removing a structural check that stood for 91 years. Chief Justice Roberts wrote for the majority; Justice Sotomayor dissented that the ruling converts the duty to faithfully execute the laws into a license to defy them.
 
-This is the merits ruling that the timeline anticipated through the cert grant ([[2025-12-08--supreme-court-independent-agency-firing-humphreys-executor]]) and the shadow-docket stay in [[2025-05-22--scotus-stays-trump-v-wilcox-nlrb-mspb-removal]]. It completes a doctrinal arc running from [[1926-10-25--myers-v-united-states-taft-presidential-removal-power]] through Scalia's *Morrison v. Olson* dissent ([[1988-06-29--morrison-v-olson-independent-counsel-scalia-dissent]]). Decided the same week as the nationwide-injunctions ruling, it forms a structural pair: independent agencies can now be captured by removal, and courts lose the broad tool to halt the resulting cascade — the Court-rigging and accountability-elimination categories operating in tandem.
+This is the merits ruling in the case the Court took up by certiorari before judgment on September 22, 2025 ([[2025-09-22--supreme-court-ftc-commissioner-removal]]) and heard on December 8, 2025 ([[2025-12-08--supreme-court-independent-agency-firing-humphreys-executor]]); the shadow-docket stay in [[2025-05-22--scotus-stays-trump-v-wilcox-nlrb-mspb-removal]] came earlier. It completes a doctrinal arc running from [[1926-10-25--myers-v-united-states-taft-presidential-removal-power]] through Scalia's *Morrison v. Olson* dissent ([[1988-06-29--morrison-v-olson-independent-counsel-scalia-dissent]]). The next day the Court decided the birthright-citizenship merits case, *Trump v. Barbara* ([[2026-06-30--scotus-strikes-down-trump-birthright-citizenship-executive-order]]); the nationwide-injunctions decision, *Trump v. CASA*, belongs to the previous term ([[2025-06-27--supreme-court-restricts-nationwide-injunctions-trump-v-casa]]) and is not paired with this one.
 
 ## The same-day Fed carve-out, and what the ruling has actually produced (added 2026-08-27)
 
@@ -70,3 +80,7 @@ No lawsuit has been filed over the EAC firings as of 2026-08-27.
 ## Correction (2026-11-16)
 
 The decision date is June 29, 2026, and this entry is the canonical record of *Trump v. Slaughter*, No. 25-332. The slip opinion on supremecourt.gov reads "Argued December 8, 2025—Decided June 29, 2026" [s1]. The entry [[2026-07-14--scotus-trump-v-slaughter-overturns-humphreys-executor]] gave July 14-15 for the same decision; it is the same event, is marked superseded, and points here. This entry's date was right and is now bound to the opinion itself.
+
+## Correction (2026-11-16, second)
+
+Two statements here were wrong. First, the entry called the December 2025 entry "the cert grant"; that entry records the oral argument (the slip opinion reads "Argued December 8, 2025—Decided June 29, 2026"), and review was granted September 22, 2025 (see the linked entry for that order). Second, it said the ruling was decided the same week as a nationwide-injunctions ruling and formed a structural pair with it; no such ruling was issued in June 2026 (the entry that said so was merged into the 2025 *CASA* entry), and the pairing is removed. The slip opinion prints the lineup: the Chief Justice delivered the opinion of the Court, joined by Justices Alito, Gorsuch, Kavanaugh and Barrett, and by Justice Thomas as to all but Part III–B; Justice Gorsuch concurred; Justice Sotomayor dissented, joined by Justices Kagan and Jackson.

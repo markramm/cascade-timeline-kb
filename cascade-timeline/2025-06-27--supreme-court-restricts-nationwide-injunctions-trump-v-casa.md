@@ -1,9 +1,10 @@
 ---
 type: timeline_event
 id: 2025-06-27--supreme-court-restricts-nationwide-injunctions-trump-v-casa
-date: 2025-06-27
-title: Supreme Court Restricts Nationwide Injunctions in Trump v. CASA, Expanding Executive Power
+date: '2025-06-27'
+title: "Supreme Court Holds Universal Injunctions Likely Exceed Federal Courts' Equitable Authority in Trump v. CASA"
 importance: 9
+status: confirmed
 actors:
 - U.S. Supreme Court
 - Trump Administration
@@ -54,23 +55,90 @@ sources:
   url: https://www.scotusblog.com/2025/06/supreme-court-sides-with-trump-administration-on-nationwide-injunctions-in-birthright-citizenship-case/
   outlet: SCOTUSblog
   tier: 1
-status: confirmed
 capture_lanes:
 - Judicial Capture
 - Executive Power Expansion
+previous_ids:
+- 2026-06-30--scotus-eliminates-nationwide-injunctions-judicial-check-removed
+event_date_claim: c1
+verification: source-verified
+claims:
+- id: c1
+  type: date
+  value: June 27, 2025
+  qualifier: Decided
+  span: Argued May 15, 2025—Decided June 27, 2025
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: Universal injunctions likely exceed the equitable authority that Congress has given to federal courts
+  qualifier: Held
+  span: 'Held: Universal injunctions likely exceed the equitable authority that Congress has given to federal courts.'
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: quote
+  value: but only to the extent that the injunctions are broader than necessary to provide complete relief to each plaintiff with standing to sue
+  qualifier: partial stay
+  span: The Court grants the Government’s applications for a partial stay of the injunctions entered below, but only to the extent that the injunctions are broader than necessary to provide complete relief to each plaintiff with standing to sue.
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: quote
+  value: BARRETT, J., delivered the opinion of the Court, in which ROBERTS, C. J., and THOMAS, ALITO, GORSUCH, and KAVANAUGH, JJ., joined
+  qualifier: delivered
+  span: BARRETT, J., delivered the opinion of the Court, in which ROBERTS, C. J., and THOMAS, ALITO, GORSUCH, and KAVANAUGH, JJ., joined.
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: quote
+  value: SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN and JACKSON, JJ., joined
+  qualifier: dissent
+  span: SOTOMAYOR, J., filed a dissenting opinion, in which KAGAN and JACKSON, JJ., joined. JACKSON, J., filed a dissenting opinion.
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: quote
+  value: the Court does not address—the question whether the Executive Order violates the Citizenship Clause or Nationality Act
+  qualifier: address
+  span: The applications do not raise—and thus the Court does not address—the question whether the Executive Order violates the Citizenship Clause or Nationality Act.
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: figure
+  value: 24A884
+  qualifier: PARTIAL
+  span: ON APPLICATION FOR PARTIAL STAY. No. 24A884.
+  url: https://www.supremecourt.gov/opinions/24pdf/24a884_8n59.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
-
-In Trump v. CASA de Maryland, the Supreme Court ruled 6-3 to significantly restrict the ability of federal district courts to issue nationwide injunctions blocking executive branch policies. The decision represents a major expansion of presidential power and reduction in judicial checks on executive overreach.
-
-The ruling holds that district courts may generally only provide relief to the specific plaintiffs before them, rather than blocking policies nationwide. This means the administration can continue implementing contested policies in most of the country even when courts find them unlawful in specific cases.
-
-The practical effect is to require challengers to file lawsuits in every jurisdiction to block illegal policies—an enormous resource burden that advantages the federal government. A single favorable ruling in one circuit can now allow policy implementation across most of the country.
-
-Critics argued the ruling fundamentally undermines the rule of law by allowing the executive branch to enforce policies that courts have found illegal, simply by continuing enforcement against non-parties. The decision particularly benefits administrations pursuing aggressive, legally questionable policies—providing time for implementation before nationwide legal challenges can succeed.
-
-The ruling explicitly overturned the approach that allowed single district courts to halt Trump policies during his first term, a result the conservative majority had long sought.
+In *Trump v. CASA, Inc.* (No. 24A884), decided June 27, 2025, the Supreme Court granted the government's applications for a partial stay of universal injunctions against the birthright-citizenship executive order. Justice Barrett wrote the opinion of the Court, joined by the Chief Justice and Justices Thomas, Alito, Gorsuch and Kavanaugh. Justice Sotomayor dissented, joined by Justices Kagan and Jackson, and Justice Jackson filed a separate dissent. The syllabus states the holding: universal injunctions likely exceed the equitable authority that Congress has given to federal courts. The Court did not decide whether the executive order is lawful.
 
 ## Coverage updates
 
+## Correction (2026-11-16)
 
+This entry now carries the record of an entry that placed a nationwide-injunctions ruling at the end of the June 2026 term (its id is in `previous_ids`). The Court's list of opinions for that term has no decision on universal injunctions; the end-of-term birthright case, *Trump v. Barbara*, is a class-action vehicle and has its own entry ([[2026-06-30--scotus-strikes-down-trump-birthright-citizenship-executive-order]]). The removed entry's pages were re-read against this decision, and its count of universal injunctions is not carried here. Earlier sentences here on the ruling's practical effect and on overturning an earlier approach were commentary and were removed. The decision was on an application for a partial stay, not a merits judgment on the executive order.
