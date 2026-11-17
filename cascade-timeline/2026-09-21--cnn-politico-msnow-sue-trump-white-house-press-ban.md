@@ -43,7 +43,7 @@ sources:
     date: '2026-09-22'
     tier: 3
 related_events:
-  - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
+  - 2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated
   - 2026-09-22--doj-cites-national-security-cnn-politico-msnow-ban
   - 2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro
   - 2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes
@@ -62,7 +62,7 @@ That same day, Judge Kelly issued a standing order and a **minute order** direct
 
 ## Related Entries
 
-- [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]
+- [[2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated]]
 - [[2026-09-22--doj-cites-national-security-cnn-politico-msnow-ban]]
 - [[2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro]]
 - [[2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes]]

@@ -24,7 +24,7 @@ actors:
 - Fannie Mae
 - Freddie Mac
 capture_lane: political
-status: confirmed
+status: reported
 sources:
 - outlet: Credit Slips
   date: '2025-08-20'
@@ -57,3 +57,7 @@ capture_lanes:
 - Intelligence Penetration
 ---
 William Pulte uses FHFA access to mortgage databases to accuse Senator Adam Schiff and NY AG Letitia James of mortgage fraud, establishing pattern of weaponizing financial surveillance against Trump opponents.
+
+## Correction
+
+Status moved from confirmed to reported on 2026-11-17. This entry has no claim records and no verification. Of its three sources, two could not be fetched on retry (Credit Slips returned 404, The Hill returned 403), and the third, the Waters letter, is dated April 7, 2025, not August 22, 2025, and does not mention Schiff or James in the part we read. The characterisations "campaign against Democrats" and "enemies list", and the quotation "incredibly dangerous abuse of office", are not traced to a source here. Title and slug rename is pending a dated, fetched source for what happened on this date; see the GAO and Cook referral entries for the sourced record: [[2025-12-04--gao-accepts-senate-democrats-request-to-review-fhfa-director-pulte-mortgage-fraud-referrals]], [[2025-08-15--pulte-sends-doj-criminal-referral-of-fed-governor-cook-over-2021-mortgage-documents]].

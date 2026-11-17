@@ -46,7 +46,7 @@ sources:
     date: '2026-09-24'
     tier: 1
 related_events:
-  - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
+  - 2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated
   - 2026-09-22--doj-cites-national-security-cnn-politico-msnow-ban
   - 2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro
   - 2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott
@@ -81,7 +81,7 @@ By the same day's minute order, Kelly set an expedited briefing schedule: plaint
 
 ## Related Entries
 
-- [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]
+- [[2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated]]
 - [[2026-09-21--cnn-politico-msnow-sue-trump-white-house-press-ban]]
 - [[2026-09-22--doj-cites-national-security-cnn-politico-msnow-ban]]
 - [[2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro]]

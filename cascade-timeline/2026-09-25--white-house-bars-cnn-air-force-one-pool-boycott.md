@@ -172,7 +172,7 @@ claims:
 source_published_date: '2026-09-25'
 related_events:
   - 2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes
-  - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
+  - 2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated
 coverage:
   - daily-capture-reports/feed/2026-09-26--trump-cnn-af1-pool-ban-press-freedom-sept26.md
   - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
@@ -196,5 +196,5 @@ The White House barred **CNN** from the television-pool seat on Air Force One fo
 
 ## Related Entries
 
-- [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]
+- [[2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated]]
 - [[2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes]]

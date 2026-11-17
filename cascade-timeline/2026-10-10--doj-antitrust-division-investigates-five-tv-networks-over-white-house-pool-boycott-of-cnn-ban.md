@@ -41,7 +41,7 @@ sources:
     tier: 2
 related_events:
   - 2026-09-25--white-house-bars-cnn-air-force-one-pool-boycott
-  - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
+  - 2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated
   - 2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes
 verification: source-verified
 claims:
@@ -178,7 +178,7 @@ The pool networks had declined to field a replacement after the White House stop
 
 **Contested.** Bruce D. Brown of the Reporters Committee for Freedom of the Press said the investigation "appears to be a pretext for seeking records from the networks about how they are covering daily White House events during a media ban the president himself put in place." Former Biden antitrust chief Jonathan Kanter told CNN: "It's literally freedom of speech." Reporting differs on the wording of the statement: NPR's quotation adds "proudly" before "boycotted" and omits "simply"; the NBC and CNN texts agree with each other and are used above. Representatives for the five networks either declined to comment or did not respond to requests on Saturday night, and ABC News said it has not received any notification from the Justice Department but expects to. The entry records an opened investigation and demands for documents; there is no finding and no charge.
 
-**Pattern context.** The access fight has moved from credentials (see [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]) to pool travel to a federal antitrust inquiry into the news organizations' response. The Justice Department is at once defending the ban in court (see [[2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes]]) and investigating the outlets that would not cover around it. The inquiry opened in the final month before the midterms.
+**Pattern context.** The access fight has moved from credentials (see [[2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated]]) to pool travel to a federal antitrust inquiry into the news organizations' response. The Justice Department is at once defending the ban in court (see [[2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes]]) and investigating the outlets that would not cover around it. The inquiry opened in the final month before the midterms.
 
 ## Not Found
 

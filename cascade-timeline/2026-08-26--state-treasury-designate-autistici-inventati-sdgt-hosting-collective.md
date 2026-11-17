@@ -29,32 +29,170 @@ sources:
     publisher: U.S. Department of the Treasury
     date: '2026-08-26'
     tier: 1
-  - title: "Press Release – August 28, 2026"
-    url: https://www.inventati.org/campaign/press
-    publisher: Autistici/Inventati
-    date: '2026-08-28'
-    tier: 1
-  - title: "US Government Designates Host of NoBlogs.org a 'Global Terrorist'"
-    url: https://crimethinc.com/2026/08/27/us-government-designates-host-of-noblogsorg-a-global-terrorist
-    publisher: CrimethInc.
-    date: '2026-08-27'
-    tier: 3
+  - title: "Autistici/Inventati shuts down after US terrorist designation"
+    url: https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation
+    publisher: The Record
+    date: '2026-09-08'
+    tier: 2
+  - title: "Italian hosting collective Autistici/Inventati is shutting down after a US terrorist designation"
+    url: https://thenextweb.com/news/autistici-inventati-shutdown-us-terrorist-designation
+    publisher: The Next Web
+    date: '2026-09-07'
+    tier: 2
 related_events:
   - 2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts
   - 2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists
   - 2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs
 coverage:
   - daily-capture-reports/feed/2026-08-26--state-dept-sdgt-autistici-inventati-italian-hosting-collective.md
+event_date_claim: c1
+corrected: '2026-11-17'
+verification: source-verified
+claims:
+- id: c1
+  type: date
+  value: August 26, 2026
+  qualifier: ''
+  span: Treasury Takes Action Against Violent Far-Left Terrorist Networks August 26, 2026 WASHINGTON
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: Today’s action is being taken pursuant to the counterterrorism authority, Executive Order (E.O.) 13224, as amended.
+  qualifier: ''
+  span: Today’s action is being taken pursuant to the counterterrorism authority, Executive Order (E.O.) 13224, as amended.
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: quote
+  value: 'Far-left extremists, their fronts, and their enablers should be on notice: We will bring the full weight of our economic tools to bear,'
+  qualifier: ''
+  span: '“Far-left extremists, their fronts, and their enablers should be on notice: We will bring the full weight of our economic tools to bear,” said Secretary of the Treasury Scott Bessent .'
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: quote
+  value: exclusively provides its services to vetted individuals, collectives, and groups it perceives to be aligned with its ideology
+  qualifier: ''
+  span: Autistici Inventati identifies itself as an “anti-fascist” and “anti-militarist” organization opposed to capitalism and exclusively provides its services to vetted individuals, collectives, and groups it perceives to be aligned with its ideology, including to sanctioned terrorist organizations such as the Kurdistan Workers’ Party (PKK)
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: quote
+  value: Palestine Action
+  qualifier: ''
+  span: OFAC sanctioned Autistici Inventati , an Italy-based entity that supplies specialized digital architecture, tools, and services for Antifa cells and other violent far-left extremists, including a foreign terrorist organization; Palestine Action , a United Kingdom (UK)-based organization proscribed as a terrorist group by the UK government in July 2025; and the transnational group Masar Badil
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: quote
+  value: Germany-based Zaid Abdulnasser and Brazil-based Rawa Alsagheer
+  qualifier: ''
+  span: as well as Germany-based Zaid Abdulnasser and Brazil-based Rawa Alsagheer.
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: quote
+  value: are blocked and must be reported to OFAC
+  qualifier: ''
+  span: all property and interests in property of the designated or blocked person described above that are in the United States or in the possession or control of U.S. persons are blocked and must be reported to OFAC.
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: quote
+  value: OFAC may impose civil penalties for sanctions violations on a strict liability basis.
+  qualifier: ''
+  span: OFAC may impose civil penalties for sanctions violations on a strict liability basis.
+  url: https://home.treasury.gov/news/press-releases/sb0616
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: quote
+  value: announced Sunday it will shut down operations
+  qualifier: ''
+  span: announced Sunday it will shut down operations
+  url: https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: quote
+  value: On August 26, the State Department labeled A/I an “extremist group”
+  qualifier: ''
+  span: On August 26, the State Department labeled A/I an “extremist group”
+  url: https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c11
+  type: quote
+  value: had grown to host about 16,000 email addresses, 1,500 websites, 5,500 mailing lists
+  qualifier: ''
+  span: had grown to host about 16,000 email addresses, 1,500 websites, 5,500 mailing lists
+  url: https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c12
+  type: quote
+  value: The State Department did not accuse the collective itself of organizing any such activity.
+  qualifier: ''
+  span: The State Department did not accuse the collective itself of organizing any such activity.
+  url: https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c13
+  type: quote
+  value: The collective said it will discontinue all services and help users retrieve their data
+  qualifier: ''
+  span: The collective said it will discontinue all services and help users retrieve their data
+  url: https://thenextweb.com/news/autistici-inventati-shutdown-us-terrorist-designation
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
-On August 26, 2026 the State and Treasury Departments designated **Autistici/Inventati** — an Italian volunteer collective operating since 2001 — as a **Specially Designated Global Terrorist** under Executive Order 13224. The same action designated Palestine Action (UK), Masar Badil, and two individuals based in Germany and Brazil.
+On August 26, 2026 Treasury's Office of Foreign Assets Control sanctioned **Autistici/Inventati**, an Italian collective, under Executive Order 13224, in the same action as Palestine Action (UK) and Masar Badil, plus Masar Badil's leaders Zaid Abdulnasser (Germany-based) and Rawa Alsagheer (Brazil-based). The Treasury release says the action "is being taken pursuant to the counterterrorism authority, Executive Order (E.O.) 13224, as amended." The State Department's designation is described by The Record as of the same date; the State release itself refused our fetch and is not quoted here.
 
-Autistici/Inventati provides privacy-oriented email, mailing lists, web hosting and the blogging platform **noblogs.org**. Treasury's stated basis is that it supplies technological infrastructure "exclusively to vetted left-wing extremist groups," including designated organizations. Secretary Scott Bessent: *"Far-left extremists, their fronts, and their enablers should be on notice: We will bring the full weight of our economic tools to bear."*
+Secretary Scott Bessent: "Far-left extremists, their fronts, and their enablers should be on notice: We will bring the full weight of our economic tools to bear."
 
-**What SDGT designation does, mechanically.** All property and interests in U.S. jurisdiction are blocked and must be reported to OFAC. U.S. persons are prohibited from transacting with the designated entity absent an OFAC license. Violations carry **strict-liability civil penalties** or criminal sanctions — meaning a U.S. person can incur liability without knowing the counterparty was designated.
+**Treasury's stated basis.** The release says Autistici Inventati "exclusively provides its services to vetted individuals, collectives, and groups it perceives to be aligned with its ideology," and names the Kurdistan Workers' Party (PKK) among them. The entry holds no independent check of that description. The Record reports that "The State Department did not accuse the collective itself of organizing any such activity," meaning acts of violence.
 
-That last feature is what makes this an infrastructure action rather than a sanctions action. The target is not an armed group but a hosting provider, and the sanction runs against everyone who transacts with it. Any U.S. person who pays for hosting, donates, or maintains a service relationship with a platform that hosts *thousands* of unrelated sites now faces strict liability. Book fairs, radio programs and cultural projects use noblogs.org; none of them were designated, and all of them are now hosted by a designated entity. The predictable effect is not that extremists lose a server — it is that everyone else leaves, and the collective said in its August 28 statement that it faces shutdown.
+**What the designation does.** Per Treasury, property and interests of the designated person in U.S. jurisdiction "are blocked and must be reported to OFAC," and "OFAC may impose civil penalties for sanctions violations on a strict liability basis."
 
-This is the same structural move this timeline tracks domestically, exported. The SPLC indictment in April, Bondi's secret domestic-terrorist list admitted in February, and the tax-law action against "antifa" in December 2025 all operate by attaching a terrorism label to an intermediary rather than prosecuting conduct. Here the intermediary is a foreign volunteer collective with no U.S. presence, reached through the sanctions power rather than the criminal law — which requires no indictment, no charge, and no forum in which to contest the designation before it takes effect.
+**What followed.** The Record reports the collective "announced Sunday it will shut down operations" and that it "had grown to host about 16,000 email addresses, 1,500 websites, 5,500 mailing lists." The Next Web says it "will discontinue all services and help users retrieve their data." No criminal charge against the collective is reported in either article, as of the date of those reports.
 
-**Sourcing note.** The designation date, the co-designated entities, the EO 13224 authority, Bessent's quote and the strict-liability consequence are taken from the State and Treasury releases directly. The characterization of Autistici/Inventati's services and its shutdown risk comes from the collective's own press statement and from movement coverage; **no independent verification of Treasury's "exclusively to vetted left-wing extremist groups" allegation has been attempted here**, and it is recorded as the government's assertion. The Intercept URL carried in the capture ledger points to a different story (a hack of noblogs) and was not used.
+Related: [[2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts]], [[2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists]], [[2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs]].
+
+## Correction
+
+Earlier text removed and rebuilt from the sources listed. Not fetched: the State Department release and the collective's own press page.

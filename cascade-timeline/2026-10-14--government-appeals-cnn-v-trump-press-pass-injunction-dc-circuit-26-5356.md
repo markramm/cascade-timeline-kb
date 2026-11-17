@@ -36,7 +36,7 @@ sources:
     tier: 1
 related_events:
   - 2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes
-  - 2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow
+  - 2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated
   - 2026-10-05--white-house-bars-politico-print-pool-air-force-one-nebraska-campaign-stop
 verification: captured
 claims:
@@ -98,7 +98,7 @@ On **October 14, 2026**, the government appealed Judge Timothy J. Kelly's prelim
 
 The district docket then shows a transmission entry sending the notice, order and docket sheet to the court of appeals, and no stay motion in the district court. The D.C. Circuit's own docket is not in RECAP, so a stay motion filed there would not appear here. Judge Kelly had already refused a brief stay request in a footnote to the opinion (see [[2026-10-13--judge-kelly-grants-preliminary-injunction-cnn-politico-ms-now-hard-passes]]), so the stay question, if the government pursues one, now belongs to the appeals court.
 
-**Pattern context.** The injunction protects the hard passes of CNN, Politico and MS NOW against the earlier revocation (see [[2026-09-19--white-house-confiscates-press-badges-cnn-politico-msnow]]). An appeal without an immediate stay motion leaves the injunction in force while the D.C. Circuit takes the case. The administration separates access to the White House complex from access to closed spaces such as Air Force One (see [[2026-10-05--white-house-bars-politico-print-pool-air-force-one-nebraska-campaign-stop]]).
+**Pattern context.** The injunction protects the hard passes of CNN, Politico and MS NOW against the earlier revocation (see [[2026-09-19--white-house-bars-cnn-politico-ms-now-reporters-credentials-deactivated-or-confiscated]]). An appeal without an immediate stay motion leaves the injunction in force while the D.C. Circuit takes the case. The administration separates access to the White House complex from access to closed spaces such as Air Force One (see [[2026-10-05--white-house-bars-politico-print-pool-air-force-one-nebraska-campaign-stop]]).
 
 ## Not Found
 
