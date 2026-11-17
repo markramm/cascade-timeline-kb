@@ -111,7 +111,7 @@ The David Feith-led NSC technology team, which was tracking exactly this kind of
 ## Related Entries
 
 - [[2025-01-16--tahnoon-uae-buys-49-percent-wlfi-500m]]
-- [[2026-05-13--trump-gulf-tour-22-trillion-ai-chip-deals-nvidia-blackwell-uae-saudi]]
+- [[2025-05-13--trump-gulf-tour-ai-chip-deals-saudi-arabia-qatar-uae]]
 - [[mgx-fund-management]]
 - [[foreign-enrichment-as-foreign-policy-presidential-crypto-chip-loop]]
 - [[twin-shell-sovereign-capital-routing]]

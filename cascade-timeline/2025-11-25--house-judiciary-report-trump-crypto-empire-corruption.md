@@ -1,92 +1,19 @@
 ---
 type: timeline_event
 id: 2025-11-25--house-judiciary-report-trump-crypto-empire-corruption
-date: 2025-11-25
-title: House Judiciary Democrats Release Report Exposing Trump Family's $800 Million Cryptocurrency Empire Built on Foreign Influence and Self-Dealing
-summary: 'Rep. Jamie Raskin, Ranking Member of the House Judiciary Committee, released a comprehensive staff report revealing that President Donald Trump and his family earned more than $800 million from cryptocurrency ventures in the first half of 2025 alone, with total crypto holdings valued at up to $11.6 billion. The report, titled "Turning the White House Into a Crypto Cash Machine," documented how the Trump Administration systematically transformed federal cryptocurrency regulation into a pay-to-play operation designed to enrich the President''s family while advancing the financial interests of foreign nationals and corporations that invested in Trump family crypto schemes.
-
-
-  The 147-page investigation found that foreign nationals and state-linked entities invested substantially in Trump family cryptocurrency ventures including World Liberty Financial and the $TRUMP memecoin, creating what the report characterized as "unprecedented constitutional violations and national security risks." A review of the 50 largest wallets holding World Liberty tokens revealed that 36 wallets, valued at $804 million, were likely connected to overseas buyers seeking to curry favor with the administration through financial payments disguised as cryptocurrency investments.
-
-
-  The report presented extensive evidence that the Trump Administration intervened to halt federal investigations into major cryptocurrency firms that had either donated to the President or invested in his companies, including Coinbase, Gemini, Robinhood, Ripple, Crypto.com, Uniswap, Yuga Labs, and Kraken. The Administration dissolved the Department of Justice''s National Cryptocurrency Enforcement Team, repealed investor protection regulations established under previous administrations, and directed federal agencies to cease enforcement actions against crypto firms that paid tribute to Trump family ventures. These actions created a systematic quid pro quo arrangement where cryptocurrency companies purchased regulatory immunity through investments in Trump family assets.
-
-
-  According to the Judiciary Committee investigation, the Trump family''s cryptocurrency empire began with the January 2025 launch of the $TRUMP memecoin, which generated more than $300 million in immediate sales while Trump retained 800 million of the 1 billion total coins for personal enrichment. The family subsequently launched World Liberty Financial, a crypto platform that sold governance tokens to investors while promising "to make America the crypto capital of the planet." The family later introduced a USD1 stablecoin that generated additional revenue streams. The report detailed how these ventures were marketed using the President''s official position, with Trump frequently promoting his family''s crypto assets at White House events, in official communications, and through presidential social media accounts.
-
-
-  The investigation documented specific instances of regulatory capture and corruption. When the Securities and Exchange Commission under Chair Paul Atkins prepared to investigate whether World Liberty Financial tokens constituted unregistered securities, White House Chief of Staff Susie Wiles personally intervened to halt the inquiry. The report revealed internal communications showing that Attorney General Pam Bondi''s office overruled career prosecutors who sought to investigate potential money laundering through Trump family crypto wallets. The Federal Trade Commission dropped consumer protection investigations into Trump''s memecoin after the President threatened to fire commissioners who refused to close the cases.
-
-
-  Foreign investment in Trump family cryptocurrency ventures raised particular national security concerns. The report identified substantial investments from entities in Russia, China, Saudi Arabia, and the United Arab Emirates, noting that these investments provided foreign governments with direct financial leverage over a sitting U.S. President. Intelligence community assessments cited in the report warned that adversarial nations could manipulate cryptocurrency markets to either enrich or financially damage the President, creating unprecedented opportunities for coercion. The report noted that traditional foreign gift disclosure requirements and emoluments clause protections do not effectively cover cryptocurrency transactions, creating a regulatory blind spot that the Trump family deliberately exploited.
-
-
-  The Judiciary Committee investigation also examined the Administration''s broader cryptocurrency regulatory agenda. In March 2025, President Trump signed an executive order establishing a U.S. cryptocurrency strategic reserve using taxpayer funds to purchase Bitcoin and other digital assets, a decision the report suggested was designed to inflate the value of Trump family crypto holdings. The Administration pressured the Federal Reserve to approve cryptocurrency custody services by traditional banks, removed capital requirements for crypto-related banking activities, and directed the Treasury Department to halt enforcement of Bank Secrecy Act requirements for cryptocurrency exchanges. Each of these policy changes directly benefited companies that had invested in Trump family ventures.
-
-
-  The report detailed the Administration''s systematic dismantling of cryptocurrency law enforcement infrastructure. The Department of Justice dissolved its National Cryptocurrency Enforcement Team in February 2025, terminated investigations into multiple crypto exchanges for facilitating money laundering, and reassigned prosecutors who specialized in digital asset cases. The Treasury Department''s Financial Crimes Enforcement Network (FinCEN) halted suspicious activity reporting requirements for cryptocurrency transactions exceeding $10,000. The Internal Revenue Service ended audits of cryptocurrency income reporting. These actions created what the report described as a "regulatory dead zone" where cryptocurrency transactions effectively operated outside the legal framework applicable to traditional financial activities.
-
-
-  Career prosecutors and regulatory officials who resisted pressure to drop cryptocurrency investigations faced systematic retaliation. The report documented at least 27 federal employees who were reassigned, demoted, or terminated after refusing to close investigations into Trump family crypto interests or companies that invested in those interests. Securities and Exchange Commission officials who advocated for applying securities laws to crypto tokens were removed from leadership positions. Department of Justice attorneys who sought to investigate potential tax evasion through cryptocurrency transactions were transferred to field offices in remote locations. Federal Trade Commission staff who recommended consumer protection enforcement actions against Trump''s memecoin were placed on administrative leave pending loyalty investigations.
-
-
-  The Judiciary Committee investigation traced the flow of cryptocurrency funds through Trump family entities using blockchain analysis. While the Trump Organization claimed that the President maintained arms-length distance from World Liberty Financial and other crypto ventures, blockchain records showed repeated transactions between wallets controlled by the Trump Organization and wallets associated with World Liberty Financial. The report identified at least $127 million in cryptocurrency transfers between entities that the Trump family claimed were independent, revealing that the supposed separation between the President''s business interests and his official duties was fictional.
-
-
-  The report also examined connections between Trump family cryptocurrency ventures and his Administration''s foreign policy decisions. Shortly after Saudi Arabian entities invested $240 million in World Liberty Financial tokens, the Administration approved advanced weapons sales to Saudi Arabia that previous administrations had blocked due to human rights concerns. Following substantial Chinese investment in Trump crypto assets, the Administration softened its position on Taiwan and reduced tariffs on Chinese imports. After entities linked to the Russian government purchased significant quantities of $TRUMP memecoins, the White House delayed implementation of Russian sanctions required by Congressional legislation. The report presented these policy shifts as evidence of a systematic pattern where foreign cryptocurrency investments purchased favorable U.S. foreign policy outcomes.
-
-
-  Representative Raskin''s statement accompanying the report warned that "President Trump has converted the Presidency into a personal cryptocurrency ATM, with foreign governments and corporate interests making deposits in exchange for regulatory favors and policy outcomes. This represents the most significant corruption of federal office in American history, dwarfing even the most notorious financial scandals of previous eras." The report called for Congressional action to prohibit federal officials from holding cryptocurrency assets, require real-time disclosure of digital asset transactions by government employees and their families, restore enforcement capabilities to regulatory agencies, and investigate specific instances of quid pro quo corruption detailed in the report.
-
-
-  The timing of the report''s release proved significant. It was published just days before Congress would consider Department of Justice and Securities and Exchange Commission appropriations bills, creating an opportunity for lawmakers to impose conditions on funding that would restore regulatory oversight of cryptocurrency markets. The report also preceded a scheduled House Judiciary Committee hearing on December 16, 2025, where former Trump Administration officials would testify about corruption in federal antitrust enforcement and regulatory decision-making.
-
-
-  Republican members of the House Judiciary Committee dismissed the report as a partisan attack designed to undermine the cryptocurrency industry. Representative Jim Jordan, Committee Chairman, issued a statement claiming that "Democrats want to kill American innovation in blockchain technology because they can''t control it like they control traditional banking." Industry representatives echoed this framing, with the Blockchain Association describing the report as "a deliberate mischaracterization of legitimate business activities designed to advance an anti-innovation agenda."
-
-
-  However, the report found support from unexpected sources. Several Republican former federal prosecutors and regulatory officials who served in previous Republican administrations told reporters that the evidence of corruption documented in the Judiciary Committee investigation warranted immediate Congressional action. Former SEC Chairman Jay Clayton, who served in the first Trump Administration, stated that "while I support sensible cryptocurrency regulation, the pattern of conduct described in this report crosses clear ethical and potentially legal lines." These statements from traditionally conservative figures suggested that the corruption documented in the report transcended partisan political considerations.
-
-
-  The cryptocurrency industry''s response to the report revealed internal divisions. Major exchanges including Coinbase and Kraken issued statements denying that their investments in Trump family ventures were connected to regulatory outcomes, claiming that business decisions were made independently of political considerations. However, leaked internal communications from several firms showed executives explicitly discussing how investments in World Liberty Financial would provide "regulatory insurance" and "access to decision-makers." One memorandum from a major cryptocurrency exchange''s government relations team recommended purchasing at least $50 million in World Liberty tokens as "the most cost-effective approach to ensuring favorable regulatory treatment."
-
-
-  The report''s documentation of foreign cryptocurrency investments in Trump family ventures sparked particular concern in the intelligence community. Former CIA Director and retired General David Petraeus stated that "allowing foreign governments to make substantial financial payments to a sitting President through cryptocurrency mechanisms creates profound counterintelligence risks that our existing legal framework was not designed to address." The report noted that traditional foreign intelligence surveillance and financial monitoring tools were largely ineffective for tracking cryptocurrency transactions, particularly those conducted through privacy-focused digital assets or decentralized exchanges.
-
-
-  Campaign finance implications also emerged from the Judiciary Committee investigation. The report revealed that several major Trump campaign donors had made their contributions using cryptocurrency specifically to avoid federal disclosure requirements and contribution limits. By first purchasing Trump family crypto assets that subsequently increased in value, donors effectively provided the President with financial benefits far exceeding legal contribution limits while remaining technically compliant with campaign finance laws. The Federal Election Commission, which had been effectively neutered by Trump appointees, declined to investigate these arrangements despite referrals from the Judiciary Committee.
-
-
-  Legal scholars interviewed for the report concluded that Trump family cryptocurrency activities likely violated the Constitution''s Emoluments Clauses, which prohibit federal officials from receiving gifts or financial benefits from foreign governments or domestic sources beyond their official compensation. However, the report noted that existing emoluments clause jurisprudence developed in an era before cryptocurrency and did not clearly address whether foreign purchases of digital tokens constituted prohibited "emoluments." The Supreme Court, dominated by Trump appointees, had thus far declined to hear emoluments cases, leaving constitutional questions unresolved.
-
-
-  The Judiciary Committee investigation also examined tax implications of Trump family cryptocurrency activities. While the Trump Organization claimed to have properly reported cryptocurrency income, the report noted significant discrepancies between blockchain-verified transaction volumes and amounts reported on financial disclosure forms. The IRS, whose commissioner had been replaced with a Trump loyalist, declined to audit Trump family cryptocurrency transactions despite evidence suggesting substantial unreported income. The report estimated that the Trump family may have evaded between $180 million and $340 million in federal income taxes through various cryptocurrency accounting strategies.
-
-
-  Consumer protection concerns featured prominently in the report''s findings. The investigation documented at least $2.3 billion in losses suffered by retail investors who purchased $TRUMP memecoins based on the President''s promotional statements. Many of these investors were Trump political supporters who trusted the President''s representations about the token''s value and utility. The report included testimony from individuals who lost their life savings after Trump promoted the memecoin at a January 2025 rally, telling supporters that "this beautiful coin, the $TRUMP coin, it''s going to make you rich, believe me." Within weeks, the token''s value had declined by more than 90% from its peak, while Trump and his family had already extracted hundreds of millions in proceeds.
-
-
-  The report concluded with 47 specific recommendations for Congressional action, regulatory reform, and criminal investigation. Key recommendations included: (1) legislation prohibiting federal officials and their immediate family members from holding or trading cryptocurrency assets; (2) real-time blockchain monitoring and disclosure requirements for all government employees; (3) restoration of the Department of Justice''s cryptocurrency enforcement capabilities; (4) Securities and Exchange Commission rulemaking to classify most crypto tokens as securities subject to existing disclosure and fraud provisions; (5) special counsel investigation into potential bribery, honest services fraud, and tax evasion by Trump family members; (6) Congressional hearings examining specific quid pro quo arrangements between crypto investors and policy outcomes; and (7) constitutional amendments clarifying that the Emoluments Clauses apply to cryptocurrency transactions.
-
-
-  The House Judiciary Democrats'' report represented the most comprehensive documentation to date of corruption allegations against the Trump Administration. By focusing specifically on cryptocurrency activities where blockchain technology provided a transparent and permanent record of financial transactions, the investigation created an evidence trail that would be difficult for the Administration to dispute or obscure. The report''s release marked a significant escalation in Congressional oversight efforts and set the stage for what Democratic lawmakers hoped would be sustained public attention to Trump Administration corruption as the 2026 midterm elections approached.
-
-
-  The $800 million in cryptocurrency income documented in the report represented only the first six months of 2025, suggesting that annual totals could exceed $1.5 billion if the pattern continued. Combined with the report''s documentation of Trump''s $11.6 billion in total crypto holdings, the investigation revealed a scale of presidential self-enrichment unprecedented in American history. The report''s detailed evidence, extensive documentation, and specific recommendations created a foundation for accountability efforts that would extend well beyond the report''s initial release, shaping debates about political corruption, cryptocurrency regulation, and presidential ethics for years to come.
-
-  '
-importance: 10
+date: '2025-11-25'
+title: House Judiciary Democrats Release Staff Report Alleging Trump Family Used Crypto Ventures for Self-Enrichment
+summary: Ranking Member Jamie Raskin released a House Judiciary Committee Democrats staff report on President Trump, his family and cryptocurrency.
+importance: 7
 actors:
 - Jamie Raskin
 - Donald Trump
-- Trump Organization
-- Trump Family
-- Paul Atkins
-- Susie Wiles
-- Pam Bondi
-- Jim Jordan
 - House Judiciary Committee
 - World Liberty Financial
+- Binance
+- MGX
+- Securities and Exchange Commission
+- Department of Justice
 - Coinbase
 - Gemini
 - Robinhood
@@ -95,63 +22,190 @@ actors:
 - Uniswap
 - Yuga Labs
 - Kraken
-- Securities and Exchange Commission
-- Department of Justice
-- U.S. Treasury Department
-- Federal Trade Commission
-- Internal Revenue Service
-- FinCEN
-- Jay Clayton
-- David Petraeus
 tags:
 - cryptocurrency
-- corruption
 - self-dealing
 - foreign-influence
 - emoluments
-- regulatory-capture
-- bribery
-- pay-to-play
-- conflicts-of-interest
 - congressional-oversight
 - memecoin
-- blockchain
-- money-laundering
-- tax-evasion
-- consumer-protection
-- national-security
-- counterintelligence
-- campaign-finance
+- conflicts-of-interest
 sources:
 - url: https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests
   title: New Report Exposes the Trump Family's Multi-Billion-Dollar Crypto Empire, Fueled by Self-Dealing and Corrupt Foreign Interests
-  date: 2025-11-25
+  date: '2025-11-25'
   tier: 1
   outlet: House Judiciary Committee Democrats
-- url: https://www.wbur.org/hereandnow/2025/11/05/trump-crypto
-  title: The Trump family made $800 million on crypto in 2025 so far, and the family's empire is still rising
-  date: 2025-11-05
+- url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  title: Trump, Crypto, and a New Age of Corruption (staff report)
+  date: '2025-11-24'
   tier: 1
-  outlet: NPR/WBUR
-- url: https://www.npr.org/2025/09/03/nx-s1-5527047/trump-crypto-family-world-liberty-financial
-  title: How Trump's latest crypto launch enriches his family
-  date: 2025-09-03
-  tier: 1
-  outlet: NPR
-- url: https://www.democracynow.org/2025/10/29/headlines/reuters_trump_organization_earned_more_than_800_million_from_crypto_assets
-  title: 'Reuters: Trump Organization Earned More Than $800 Million from Crypto Assets'
-  date: 2025-10-29
-  tier: 2
-  outlet: Democracy Now
+  outlet: House Judiciary Committee Democrats
 capture_lanes:
 - Regulatory Capture
 - Financial Capture
 - Digital and Tech Capture
+event_date_claim: c1
 status: reported
+verification: source-verified
+claims:
+- id: c1
+  type: date
+  value: November 25, 2025
+  qualifier: released
+  span: Washington, D.C. (November 25, 2025)—Rep. Jamie Raskin, Ranking Member of the House Judiciary Committee, released a new staff report
+  url: https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c2
+  type: quote
+  value: Donald Trump has turned the Oval Office into the world’s most corrupt crypto startup operation
+  qualifier: Oval Office
+  span: “Donald Trump has turned the Oval Office into the world’s most corrupt crypto startup operation
+  url: https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c3
+  type: quote
+  value: We don’t know where all the money is coming from yet
+  qualifier: yet
+  span: We don’t know where all the money is coming from yet
+  url: https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c4
+  type: quote
+  value: Trump, Crypto, and a New Age of Corruption
+  qualifier: report
+  span: The report , “Trump, Crypto, and a New Age of Corruption,”
+  url: https://democrats-judiciary.house.gov/media-center/press-releases/new-report-exposes-the-trump-family-s-multi-billion-dollar-crypto-empire-fueled-by-self-dealing-and-corrupt-foreign-interests
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c5
+  type: figure
+  value: more than $800 million
+  qualifier: According to Reuters
+  span: According to Reuters, the Trump family raked in more than $800 million in income from sales of crypto assets in the first half of 2025 alone.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c6
+  type: figure
+  value: as high as $11.6 billion
+  qualifier: some estimates
+  span: public reports make clear the number is in the billions with some estimates putting the value of the holdings as high as $11.6 billion.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c7
+  type: figure
+  value: $550 million
+  qualifier: gross proceeds
+  span: WLF announced that it had sold approximately 25 billion tokens to more than 85,000 investors through two concurrent U.S. and international offerings, generating $550 million in gross proceeds.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c8
+  type: figure
+  value: $463 million
+  qualifier: According to Reuters
+  span: According to Reuters, the Trump family earned an astounding $463 million in the first half of 2025 from the sale of $WLFI tokens.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c9
+  type: figure
+  value: $2 billion
+  qualifier: investment
+  span: USD1 got its first big break when Binance requested that a $2 billion investment from state-backed Emirati investment firm MGX be made using the World Liberty stablecoin.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c10
+  type: figure
+  value: six
+  qualifier: fired
+  span: In early April, President Trump fired six key staff members at the National Security Council, including several high ranking officials who had opposed the deal involving Sheikh Tahnoon’s G42 and expressed concern that sensitive technology could be diverted to China.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c11
+  type: date
+  value: April 2025
+  qualifier: disbanded
+  span: In April 2025, DOJ directed its Market Integrity and Major Frauds Unit to cease cryptocurrency enforcement and disbanded the National Cryptocurrency Enforcement Team (NCET),
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c12
+  type: quote
+  value: Coinbase, Gemini, Robinhood, Ripple, Crypto.com, Uniswap, Yuga Labs, and Kraken
+  qualifier: dismissed
+  span: President Trump’s SEC and DOJ, in turn, have dismissed a number of lawsuits and investigations brought by the federal government against cryptocurrency companies that have supported President Trump politically and financially, including Coinbase, Gemini, Robinhood, Ripple, Crypto.com, Uniswap, Yuga Labs, and Kraken.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c13
+  type: figure
+  value: approximately $350 million
+  qualifier: According to Forbes
+  span: According to Forbes, President Trump and his partners earned approximately $350 million in trading fees and own a stash of the $TRUMP coin that is valued at approximately $427 million.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c14
+  type: quote
+  value: clearly demonstrates that foreign actors and corporate interests are buying access to and favors from the President and members of his Administration
+  qualifier: demonstrates
+  span: the information we do have clearly demonstrates that foreign actors and corporate interests are buying access to and favors from the President and members of his Administration by investing in his family’s cryptocurrency ventures and making large, and plainly politically motivated donations.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c15
+  type: quote
+  value: The pardon came after Mr. Zhao and Binance spent months boosting World Liberty Financial
+  qualifier: pardon
+  span: The pardon came after Mr. Zhao and Binance spent months boosting World Liberty Financial, which has enriched President Trump to the tune of hundreds of millions of dollars in the past year.
+  url: https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2025-11-24.hjc-dem-staff-report-trump-crypto-corruption-small_0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
 ---
+On November 25, 2025, Rep. Jamie Raskin, Ranking Member of the House Judiciary Committee, released a new staff report titled “Trump, Crypto, and a New Age of Corruption.” It is a House Judiciary Committee Democrats staff document; what follows is that staff's account, not a finding by the committee or a court. Raskin said in the release: “Donald Trump has turned the Oval Office into the world’s most corrupt crypto startup operation.” He also said: “We don’t know where all the money is coming from yet.”
 
-On November 25, 2025, Representative Jamie Raskin, Ranking Member of the House Judiciary Committee, released a 147-page staff report titled "Trump, Crypto, and a New Age of Corruption," documenting how President Donald Trump and his family earned more than $800 million from cryptocurrency ventures in the first half of 2025 alone, with total crypto holdings valued at up to $11.6 billion. The report found that the Trump family's cryptocurrency empire began with the January 2025 launch of the $TRUMP memecoin — which generated more than $300 million in initial sales while Trump retained 800 million of the 1 billion total coins — and expanded through World Liberty Financial (WLFI), which raised $550 million in token sales between September 2024 and June 2025, and a USD1 stablecoin that generated additional revenue streams. A blockchain analysis of the 50 largest WLFI token wallets found that 36 wallets valued at $804 million were likely connected to overseas buyers, including entities linked to Russia, China, Saudi Arabia, and the United Arab Emirates.
+The report cites Reuters for income of more than $800 million from sales of crypto assets in the first half of 2025, and says some estimates put the value of the Trump family's holdings as high as $11.6 billion. On World Liberty Financial, it says the company announced gross proceeds of $550 million from token sales and cites Reuters for $463 million that the Trump family earned from $WLFI token sales in the first half of 2025. It says Binance requested that a $2 billion investment from the Emirati firm MGX be made using World Liberty's stablecoin, and that President Trump fired six National Security Council staff members in early April 2025, several of whom had opposed a related chip deal. On the $TRUMP memecoin it cites Forbes for approximately $350 million in trading fees to Trump and his partners.
 
-The report documented a systematic pay-to-play pattern in federal cryptocurrency regulation. The Trump administration dissolved the Department of Justice's National Cryptocurrency Enforcement Team in February 2025, halted enforcement actions against Coinbase, Gemini, Robinhood, Ripple, Crypto.com, Uniswap, Yuga Labs, and Kraken, and directed the Treasury Department's Financial Crimes Enforcement Network to halt suspicious activity reporting requirements for cryptocurrency transactions. Internal communications cited in the report showed that companies explicitly discussed investing in WLFI tokens as "regulatory insurance" providing "access to decision-makers." White House Chief of Staff Susie Wiles personally intervened to halt a Securities and Exchange Commission inquiry into whether WLFI tokens constituted unregistered securities. At least 27 federal employees who resisted pressure to close investigations into Trump family crypto interests were reassigned, demoted, or terminated.
+On enforcement, the report says the SEC and DOJ dismissed lawsuits and investigations involving crypto companies that had supported Trump, naming Coinbase, Gemini, Robinhood, Ripple, Crypto.com, Uniswap, Yuga Labs, and Kraken, and that DOJ disbanded its National Cryptocurrency Enforcement Team in April 2025. Of the pardon of Binance's founder Changpeng Zhao, it says: “The pardon came after Mr. Zhao and Binance spent months boosting World Liberty Financial.” The staff's conclusion is that the information they have “clearly demonstrates that foreign actors and corporate interests are buying access to and favors from the President and members of his Administration.” The report says Congress is largely unaware of who has invested in the ventures.
 
-The report also documented policy decisions that appeared to directly benefit the Trump family's cryptocurrency holdings. In March 2025, Trump signed an executive order establishing a U.S. cryptocurrency strategic reserve using taxpayer funds to purchase Bitcoin and other digital assets — a move that inflated the value of Trump family crypto positions. Shortly after Saudi entities invested $240 million in WLFI tokens, the administration approved advanced weapons sales to Saudi Arabia previously blocked on human rights grounds. The report estimated retail investors lost at least $2.3 billion on the $TRUMP memecoin, with many Trump supporters among those who suffered losses after the token's value declined more than 90% from its peak. Representative Raskin called for a special counsel investigation and announced plans for additional hearings, describing the findings as "the most significant corruption of federal office in American history."
+## Correction (2026-11-17)
+
+Earlier text of this entry is replaced. Items in the earlier text that are not in the report: the White House chief of staff stopping an SEC inquiry; an Attorney General's office overruling career prosecutors; the FTC dropping memecoin cases after a threat to fire commissioners; a count of federal employees reassigned, demoted or fired for resisting; the FinCEN, IRS or CFTC actions the entry listed; a Saudi investment followed by weapons sales; Taiwan, tariff or Russian-sanctions links; transfers between Trump Organization and World Liberty wallets; a tax-evasion estimate; a wallet analysis of WLFI holders; a memecoin loss total of the size stated; any numbered list of recommendations or a call for a special counsel; or the statements the entry gave to Raskin ("personal cryptocurrency ATM"), Jim Jordan, Jay Clayton and David Petraeus, or its quoted "regulatory insurance" memo.

@@ -62,7 +62,7 @@ connections:
   relationship: "SEC paused case in Feb 2025 after Sun's WLFI investment; this settlement closes the arc"
 - id: 2025-02-27--sec-justin-sun-fraud-case-paused
   relationship: "SEC-Sun resolution signaled Feb 2025; March 2026 settlement finalizes"
-- id: 2026-05-02--wlfi-token-may-2026-collapse-bloomberg-investigation-5-9b-secret-sale
+- id: 2026-05-04--wlfi-token-new-all-time-lows-bloomberg-reports-undisclosed-private-sale
   relationship: "Sun named in WLFI ecosystem; later sued WLFI April 2026 over $45M investment dispute"
 notes: |
   Case number: 1:23-cv-02433 (SDNY). Original complaint filed March 22, 2023 by SEC under then-Chair Gary
@@ -83,4 +83,4 @@ The SEC filed a proposed settlement on March 5, 2026, ending its three-year civi
 
 **Post-settlement note:** Sun subsequently sued World Liberty Financial in April 2026, alleging his $45 million investment was mishandled — suggesting the WLFI relationship deteriorated even as the regulatory benefit was delivered (see the WLFI collapse entry below).
 
-**Related entries (the investment-for-influence arc):** [[2025-01-20--justin-sun-75-million-investment]] · [[2025-02-27--sec-justin-sun-fraud-case-paused]] · [[2025-02-28--justin-sun-sec-investigation-paused]] · [[2026-05-02--wlfi-token-may-2026-collapse-bloomberg-investigation-5-9b-secret-sale]]
+**Related entries (the investment-for-influence arc):** [[2025-01-20--justin-sun-75-million-investment]] · [[2025-02-27--sec-justin-sun-fraud-case-paused]] · [[2025-02-28--justin-sun-sec-investigation-paused]] · [[2026-05-04--wlfi-token-new-all-time-lows-bloomberg-reports-undisclosed-private-sale]]
