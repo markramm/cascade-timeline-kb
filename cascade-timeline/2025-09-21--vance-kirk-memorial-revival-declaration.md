@@ -114,7 +114,7 @@ The "revival" characterization was not marginal: it was Vance's interpretive fra
 
 ## Broader Context
 
-Note that the existing cascade-timeline entry [[2025-09-21--kirk-memorial-trump-musk-reconciliation]] covers the same event from the angle of MAGA factional warfare (Trump-Musk reconciliation). This entry covers the distinct NAR-track theological significance of Vance's remarks. The two entries are complementary, not duplicative.
+Note that the existing cascade-timeline entry [[2025-09-21--kirk-memorial-trump-sits-next-to-musk]] covers the same event from the angle of MAGA factional warfare (Trump-Musk reconciliation). This entry covers the distinct NAR-track theological significance of Vance's remarks. The two entries are complementary, not duplicative.
 
 TPUSA Faith's charismatic pastoral network — including Faith Forward Pastors Summit speakers Jentezen Franklin and John Bevere (prophetic ministry), plus the presence of NAR-adjacent figures in the TPUSA ecosystem — was embedded in the AmericaFest December programming. Vance's September "revival" framing set the theological key for that December gathering.
 
@@ -127,7 +127,7 @@ TPUSA Faith's charismatic pastoral network — including Faith Forward Pastors S
 ## Related Entries
 
 - [[2025-2026--vance-erika-kirk-tpusa-post-shooting-friendship-cluster]]
-- [[2025-09-21--kirk-memorial-trump-musk-reconciliation]]
+- [[2025-09-21--kirk-memorial-trump-sits-next-to-musk]]
 - [[2025-12-21--vance-americafest-christian-nation-nar-track]]
 - [[2024-09-28--vance-wallnau-courage-tour]]
 - [[christian-nationalism-coalition-treaty-vance-as-integrating-bridge]]
