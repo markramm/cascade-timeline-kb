@@ -19,6 +19,20 @@ actors:
   - Josh Schottenfeld
   - Homeland Security Investigations
   - Sunrise Movement
+corrections:
+- date: '2026-11-17'
+  was: "The motion to compel set for hearing on 10/20/2026 concerns an ICE memorandum about a different defendant."
+  now: "Sentence removed. The motion (ECF No. 276, filed 2026-10-01) is a motion by a non-party, not a motion about a different defendant's memorandum; per its title it asks for return or destruction of an ICE memorandum and a correction of the record. The non-party's name is held for approval and is not in this entry."
+  why: "ECF No. 276 read in full at the RECAP PDF (2 pages), caption 'NON-PARTY ... NOTICE OF MOTION AND MOTION FOR RETURN OR DESTRUCTION OF ICE MEMORANDUM AND TO COMPEL A CORRECTION OF THE RECORD'. The other sentences were checked against ECF Nos. 297-2 and 297-3 (read in full through CourtListener's text; the claims gate cannot extract text from those two PDFs, so their claims stay unreachable to it) and the docket entries for ECF Nos. 252 and 297 (cl). Not updated: the docket shows orders on ECF No. 276 dated 2026-11-12 and 2026-11-13 (ECF Nos. 318 and 319, 'granting in part and denying in part'); those orders were not read."
+  found_by: "canon-validate run 2026-11-17; rechecked by cascade-research task reader-tier-b-recheck-five-low-scoring-canon-entries-courts-doj-and-deaths-in"
+coverage:
+  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
+    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
+editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
+approved_names:
+  - Isaac Sant
+  - Michael Hyland
+  - Isaac Auman Sant
 verification: captured
 claims:
 - id: c1
@@ -30,7 +44,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c2
   type: attribution
   value: subsequently uploaded it
@@ -40,37 +54,37 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c3
   type: date
   value: 8/27/2026
   qualifier: proceedings
   span: 'MINUTE ENTRY for proceedings held before Magistrate Judge David T. Schultz on 8/27/2026: Motion Hearing Oral Arguments'
-  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/
+  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/?order_by=desc
   read: fetched
   source_kind: primary
-  outcome: unreachable
-  checked: '2026-10-17'
+  outcome: verified
+  checked: '2026-11-17'
 - id: c4
   type: quote
   value: The motion was moved, argued and taken under advisement. Order to follow.
   qualifier: argued
   span: 'Hearing on: 212 MOTION for Discovery filed by Isaac Auman Sant. The motion was moved, argued and taken under advisement. Order to follow.'
-  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/
+  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/?order_by=desc
   read: fetched
   source_kind: primary
-  outcome: unreachable
-  checked: '2026-10-17'
+  outcome: verified
+  checked: '2026-11-17'
 - id: c5
   type: quote
-  value: 'Time: 3:30 P.M. / 5:00 P.M.'
+  value: 3:30 P.M. / 5:00 P.M.
   qualifier: Time
-  span: 'Time: 3:30 P.M. / 5:00 P.M. Total Time: 1 hour 30 minutes'
-  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/
+  span: 'Courtroom 15ETime: 3:30 P.M. / 5:00 P.M. Total Time: 1 hour 30 minutes'
+  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/?order_by=desc
   read: fetched
   source_kind: primary
-  outcome: unreachable
-  checked: '2026-10-17'
+  outcome: verified
+  checked: '2026-11-17'
 - id: c6
   type: date
   value: 8/31/2026
@@ -80,7 +94,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c7
   type: quote
   value: SUPERVISORY SPECIAL AGENT
@@ -90,7 +104,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c8
   type: quote
   value: HSI UCA 9843 volunteered to assist with planning and preparation for those who were planning to be arrested.
@@ -100,7 +114,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c9
   type: quote
   value: No mention of property damage to a federal building, vehicles, or agents was discussed.
@@ -110,7 +124,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c10
   type: date
   value: March 23, 2026
@@ -120,7 +134,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c11
   type: date
   value: March 31, 2026
@@ -130,7 +144,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c12
   type: date
   value: May 1, 2026
@@ -140,32 +154,24 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c13
   type: date
   value: 10/20/2026
   qualifier: Hearing
   span: Motion Hearing re 276 Motion to Compel a Correction of the Record and for Return or Destruction of ICE Memorandum set for 10/20/2026 at 02:00 PM in Courtroom 12W (MPLS)
-  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/
+  url: https://www.courtlistener.com/docket/73489661/united-states-v-sant/?order_by=desc
   read: fetched
   source_kind: primary
-  outcome: unreachable
-  checked: '2026-10-17'
-coverage:
-  - url: https://theramm.transparencycascade.org/p/hsi-watched-a-church-meeting-in-march
-    title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
-editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
-approved_names:
-  - Isaac Sant
-  - Michael Hyland
-  - Isaac Auman Sant
+  outcome: verified
+  checked: '2026-11-17'
 ---
 
-On 8/27/2026 (upload date), an HSI special agent uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). 8/27/2026 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives "Time: 3:30 P.M. / 5:00 P.M." for the hearing, and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.
+On 8/27/2026 (upload date), an HSI special agent uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). 8/27/2026 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives its time as "3:30 P.M. / 5:00 P.M.", and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.
 
 In the Sunrise report, UCA 9843 "volunteered to assist with planning and preparation for those who were planning to be arrested," and the report ends: "No mention of property damage to a federal building, vehicles, or agents was discussed."
 
-Sant's counsel later filed both reports as exhibits. The record in hand gives no reason for the timing of the upload. The motion to compel set for hearing on 10/20/2026 concerns an ICE memorandum about a different defendant.
+Sant's counsel later filed both reports as exhibits. The record in hand gives no reason for the timing of the upload.
 
 Context: [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]], [[2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony]], [[2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity]], [[2026-09-25--sant-defense-exhibits-out-of-state-hsi-agents-ran-minnesota-protest-investigations]].
 
