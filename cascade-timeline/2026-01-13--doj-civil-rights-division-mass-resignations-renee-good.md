@@ -134,6 +134,16 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+- id: c27
+  type: attribution
+  value: Paige Fitzgerald
+  qualifier: deputy
+  span: The departures wipe the office of its most experienced prosecutors, including the section’s longtime section chief and deputy - Jim Felte and Paige Fitzgerald - career attorneys who served in their positions during President Donald Trump’s first administration and through President Joe Biden’s administration.
+  url: https://eu.detroitnews.com/story/news/politics/2026/01/13/dojs-top-civil-rights-prosecutors-depart-as-office-is-cut-out-of-key-probes/88163320007/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c9
   type: attribution
   value: Harmeet Dhillon
@@ -318,7 +328,7 @@ claims:
 
 Senior prosecutors left the Justice Department's Civil Rights Division and its Minnesota U.S. Attorney's Office in the days after an ICE officer shot and killed Renee Good in Minneapolis, and the accounts of why differ.
 
-**The Civil Rights Division.** The Washington Post reported that at least five senior prosecutors in the Civil Rights Division's criminal section announced their resignations this week, according to four people familiar with the moves, including the section's chief, Jim Felte; the Post counted three other supervisors and senior litigators among those leaving. MS NOW, as reported by Raw Story, counted at least four senior officials: three sources told MS NOW that the criminal section's top leaders left to show their frustration that Harmeet Dhillon, the assistant attorney general for civil rights, decided not to investigate the ICE officer's killing of Renee Good. Raw Story called the departures "the most significant mass resignation at the Justice Department since February." One source told MS NOW that "the handling of the ICE shooting was not the only concern for the unit leaders." The Post reported that the lawyers who were leaving did not attribute their decisions to the Minnesota investigation and that some qualified for early retirement packages. A Justice Department official said the section's leadership had "gave notice to depart the Civil Rights Division and requested to participate in the Department of Justice's Early Retirement Program well before the events in Minnesota."
+**The Civil Rights Division.** The Washington Post reported that at least five senior prosecutors in the Civil Rights Division's criminal section announced their resignations this week, according to four people familiar with the moves, including the section's chief, Jim Felte; the Post counted three other supervisors and senior litigators among those leaving. The Post named the section's longtime deputy among them as Paige Fitzgerald. MS NOW, as reported by Raw Story, counted at least four senior officials: three sources told MS NOW that the criminal section's top leaders left to show their frustration that Harmeet Dhillon, the assistant attorney general for civil rights, decided not to investigate the ICE officer's killing of Renee Good. Raw Story called the departures "the most significant mass resignation at the Justice Department since February." One source told MS NOW that "the handling of the ICE shooting was not the only concern for the unit leaders." The Post reported that the lawyers who were leaving did not attribute their decisions to the Minnesota investigation and that some qualified for early retirement packages. A Justice Department official said the section's leadership had "gave notice to depart the Civil Rights Division and requested to participate in the Department of Justice's Early Retirement Program well before the events in Minnesota."
 
 **The Minnesota U.S. Attorney's Office.** CNN reported that at least half a dozen federal prosecutors in Minnesota resigned, according to a source. Among them was Joseph Thompson, the office's second-in-charge, according to two sources. The Post reported that at least three veteran prosecutors in the office resigned on Tuesday, and that at least two did not say why. NPR's source said one of the prosecutors' key concerns was pressure from the Justice Department to investigate the widow of a woman killed by an ICE agent.
 

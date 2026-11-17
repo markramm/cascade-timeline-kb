@@ -113,6 +113,26 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+- id: c33
+  type: attribution
+  value: Cameron Arnold
+  qualifier: charged
+  span: Cameron Arnold of Dallas and Zachary Evetts of Waxahachie, Texas, were charged on Wednesday with providing support to terrorists for their alleged role in the non-fatal shooting of a police officer at an immigration detention facility.
+  url: https://www.yahoo.com/news/articles/us-prosecutors-bring-first-antifa-220233615.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c34
+  type: attribution
+  value: Zachary Evetts
+  qualifier: charged
+  span: Cameron Arnold of Dallas and Zachary Evetts of Waxahachie, Texas, were charged on Wednesday with providing support to terrorists for their alleged role in the non-fatal shooting of a police officer at an immigration detention facility.
+  url: https://www.yahoo.com/news/articles/us-prosecutors-bring-first-antifa-220233615.html
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c5
   type: figure
   value: '15'
@@ -395,7 +415,7 @@ claims:
   checked: '2026-11-17'
 ---
 
-On October 16, 2025, FBI Director Kash Patel announced that federal prosecutors in Texas had, for the first time, filed terrorism charges targeting antifa. The Epoch Times reported that two alleged members of a Texas cell had been charged with providing material support to terrorists, a charge that carries up to 15 years in prison. Reuters reported that both men had been arrested in July, with eight others, and charged with attempted murder and weapons offenses.
+On October 16, 2025, FBI Director Kash Patel announced that federal prosecutors in Texas had, for the first time, filed terrorism charges targeting antifa. The Epoch Times reported that two alleged members of a Texas cell had been charged with providing material support to terrorists, a charge that carries up to 15 years in prison. Reuters reported that both men had been arrested in July, with eight others, and charged with attempted murder and weapons offenses. Reuters named the two men as Cameron Arnold and Zachary Evetts.
 
 Patel wrote on social media: "First time ever: the FBI arrested Antifa-aligned anarchist violent extremists and terrorism charges have been brought for the July 4 Prairieland ICE attack in Texas." Attorney General Pam Bondi said in a statement that "Antifa is a left-wing terrorist organization" and "They will be prosecuted as such." Reuters noted that there had been "no mention of antifa" in the original charging documents or the prosecutors' announcement in July. It also reported that some national security law experts called the September executive order designating antifa a terrorist organization legally questionable, because antifa has no official leadership or organizational structure.
 
