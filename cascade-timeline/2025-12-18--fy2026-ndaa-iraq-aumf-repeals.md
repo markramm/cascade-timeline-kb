@@ -93,7 +93,7 @@ This entry is included in the NDAA-bundling capture-template documentation not b
 - [[2025-12--caesar-act-repeal-fy2026-ndaa]]
 - [[2025-12-17--senate-passes-ndaa-hegseth-boat-strike-oversight]]
 - [[2025-12-18--fy2026-ndaa-section-8366-nuclear-export-working-group]]
-- [[2025-12-18--fy2026-ndaa-sections-1651-1652-golden-dome-codification]]
+- [[2025-12-18--fy2026-ndaa-sections-1651-1652-missile-defense-policy-and-golden-dome-reports]]
 - [[2025-12-18--fy2026-ndaa-section-1085-aukus-export-control-streamlining]]
 - [[ndaa-bundling-as-capture-template]]
 - [[2025-12-15--southern-spear-strike-on-three-boats-kills-eight]]
