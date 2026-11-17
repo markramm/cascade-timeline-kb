@@ -133,5 +133,5 @@ The Truth Social platform context is relevant: Trump's post is on a platform own
 - [[thiel-network-iran-war-exposure-thiel-thread-prospecting]] — Iran-war recon note establishing Palantir/Maven as the documented Thiel-thread operational node; this event is the principal-level verbal confirmation of Palantir's war role
 - [[2026-03-04--claude-ai-iran-strikes-target-selection-ban-violation]] — Maven Smart System operational context: Anthropic Claude embedded in Palantir's Maven generated ~1,000 prioritized Iran targets day one
 - [[2026-03-18--democracy-now-ai-kill-chain-palantir-iran]] — Maven kill-chain compression; tied to Minab misidentification
-- [[2026-03-11--iran-minab-school-strike-us-tomahawk-war-crime-investigation]] — the accountability hinge Trump's praise elides
+- [[2026-02-28--minab-girls-school-struck-iran-dead-counted-150-to-175]] — the accountability hinge Trump's praise elides
 - [[wartime-procurement-acceleration-mechanism-thiel-defense-ai-stack]] — theme entry; this post is the exemplary political-durability conversion event
