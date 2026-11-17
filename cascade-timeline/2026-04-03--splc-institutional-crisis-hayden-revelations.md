@@ -48,7 +48,7 @@ The organization purged approximately a quarter of its staff in 2024, with the c
 
 The internal crisis coincided with escalating external attacks:
 
-- [[2025-12-04--bondi-fbi-domestic-terrorism-memo|Bondi's December 2025 FBI domestic terrorism memo]] and [[2025-09-25--nspm-7-domestic-terrorism-targets-anti-capitalist-beliefs|NSPM-7]] targeted groups that SPLC had designated as hate organizations, effectively reversing the relationship: organizations the SPLC monitored became the administration's allies, while organizations the SPLC defended became targets
+- [[2025-12-04--klippenstein-publishes-bondi-dec-4-memo-implementing-nspm-7-fbi-told-to-list-groups-engaged-in-acts-that-may-constitute-domestic-terrorism|Bondi's December 2025 FBI domestic terrorism memo]] and [[2025-09-25--nspm-7-domestic-terrorism-targets-anti-capitalist-beliefs|NSPM-7]] targeted groups that SPLC had designated as hate organizations, effectively reversing the relationship: organizations the SPLC monitored became the administration's allies, while organizations the SPLC defended became targets
 - FBI Director [[patel-kash|Kash Patel]] formally severed the FBI's ties with the SPLC, stating: "The Southern Poverty Law Center long ago abandoned civil rights work and turned into a partisan smear machine"
 - The Heritage Foundation published analyses framing the SPLC's decline as vindication of conservative complaints about ideological bias in civil rights monitoring
 

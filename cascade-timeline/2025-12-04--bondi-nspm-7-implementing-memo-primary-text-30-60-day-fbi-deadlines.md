@@ -20,7 +20,7 @@ actors:
 - Federal Bureau of Investigation
 - Joint Terrorism Task Forces
 related_events:
-- 2025-12-04--bondi-fbi-domestic-terrorism-memo
+- 2025-12-04--klippenstein-publishes-bondi-dec-4-memo-implementing-nspm-7-fbi-told-to-list-groups-engaged-in-acts-that-may-constitute-domestic-terrorism
 - 2025-09-25--nspm-7-countering-domestic-terrorism-and-organized-political-violence-signed
 - 2025-09-29--bondi-memo-ending-political-violence-against-ice-charging-priorities
 - ag-bondi-issues-domestic-terrorism-memo-expanding-definition-to-include-immigration-protest-and-anti-capitalism
@@ -125,7 +125,7 @@ claims:
   source_kind: secondary
 ---
 
-This entry records the text of the memorandum dated December 4, 2025 and subject-lined "Implementing National Security Presidential Memorandum-7: Countering Domestic Terrorism and Organized Political Violence." It is addressed to all federal prosecutors, law enforcement agencies and DOJ grant-making components. Existing entry [[2025-12-04--bondi-fbi-domestic-terrorism-memo]] covers the same document through press reporting.
+This entry records the text of the memorandum dated December 4, 2025 and subject-lined "Implementing National Security Presidential Memorandum-7: Countering Domestic Terrorism and Organized Political Violence." It is addressed to all federal prosecutors, law enforcement agencies and DOJ grant-making components. Existing entry [[2025-12-04--klippenstein-publishes-bondi-dec-4-memo-implementing-nspm-7-fbi-told-to-list-groups-engaged-in-acts-that-may-constitute-domestic-terrorism]] covers the same document through press reporting.
 
 Its list of motivations reads: "adherence to radical gender ideology, anti-Americanism, anti-capitalism, or anti-Christianity." Its footnote adds: "No investigation may be opened based solely on activities protected by the First Amendment or the lawful exercise of rights secured by the Constitution or laws of the United States."
 
