@@ -145,8 +145,8 @@ The prior ICE annual detention budget ($3.8B–$4B) funded approximately 35,000�
 
 ## Related Entries
 
-- [[2026-02-13-ice-detention-reengineering-initiative-memo]] — *DRI memo (see [[2026-03-12--ice-detention-expansion-38-billion-mega-centers]])*
-- [[2026-03-12--ice-detention-expansion-38-billion-mega-centers]] — *cascade-timeline DRI reveal*
+- [[2026-02-13-ice-detention-reengineering-initiative-memo]] — *DRI memo (see [[2026-02-13--ice-detention-expansion-38-billion-mega-centers]])*
+- [[2026-02-13--ice-detention-expansion-38-billion-mega-centers]] — *cascade-timeline DRI reveal*
 - [[detention-expansion-math-38-billion-135k-beds-obbba-funding-mechanism]] — *research note with full figures*
 - [[detention-operator-financial-spine-corecivic-geo-bullish-outlook]] — *who-profits mechanism; OBBBA tailwind*
 - [[2025-07-01--vance-tiebreaker-obbba]] — *the Senate passage vote*

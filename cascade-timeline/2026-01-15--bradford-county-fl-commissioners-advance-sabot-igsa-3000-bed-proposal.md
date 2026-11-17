@@ -100,7 +100,7 @@ The IGSA model has a documented historical footprint: the Glades County IGSA was
 
 - [[bradford-county-ice-detention-campus-proposal-sabot-consulting]] — *source document*
 - [[sabot-consulting]] — *consulting firm*
-- [[2026-03-12--ice-detention-expansion-38-billion-mega-centers]] — *the DRI memo reveal*
+- [[2026-02-13--ice-detention-expansion-38-billion-mega-centers]] — *the DRI memo reveal*
 - [[detention-expansion-math-38-billion-135k-beds-obbba-funding-mechanism]] — *expansion-math research note*
 - [[detention-operator-financial-spine-corecivic-geo-bullish-outlook]] — *who-profits mechanism*
 - [[2026-04-07--the-blueprint-for-americas-detention]] — *published RAMM piece*
