@@ -1,6 +1,8 @@
 ---
 type: timeline_event
-id: 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
+id: 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
+previous_ids:
+  - 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
 date: '2026-08-27'
 title: "ICE Agent Christian Castro Released From Texas Jail at the 90-Day Limit With No Governor's Decision on Minnesota's Extradition Request"
 importance: 8

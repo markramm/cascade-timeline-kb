@@ -136,7 +136,7 @@ related_events:
   - 2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful
   - 2026-05-29--ice-agent-castro-arrested-by-texas-rangers-harlingen-hennepin-warrant
   - 2026-04-16--moriarty-charges-ice-agent-morgan-assault-minnesota
-  - 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
+  - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
 ---
 
@@ -146,6 +146,6 @@ The county's allegation, in its own words: Castro "discharged his weapon through
 
 The county frames this as the "second federal agent to be criminally charged" for Operation Metro Surge conduct, after [[2026-04-16--moriarty-charges-ice-agent-morgan-assault-minnesota]]. On removal, the county says "should a judge grant removal, it will still be prosecuted by HCAO attorneys, under Minnesota Statute," and that a conviction would be "ineligible for presidential pardon."
 
-Context: the shooting ([[2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed]]), the dismissal of the federal charges against Sosa-Celis ([[2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful]]), the arrest ([[2026-05-29--ice-agent-castro-arrested-by-texas-rangers-harlingen-hennepin-warrant]]), and the later extradition stall ([[2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition]]) and federal indictment ([[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]).
+Context: the shooting ([[2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed]]), the dismissal of the federal charges against Sosa-Celis ([[2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful]]), the arrest ([[2026-05-29--ice-agent-castro-arrested-by-texas-rangers-harlingen-hennepin-warrant]]), and the later extradition stall ([[2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition]]) and federal indictment ([[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]).
 
 **Sourcing note.** Charges, case number and quotes are from the county release (fetched). Complaint contents appear only as relayed by Fox Twin Cities. Sosa-Celis is a named harm-subject approved under Mark's Amnesty ruling.

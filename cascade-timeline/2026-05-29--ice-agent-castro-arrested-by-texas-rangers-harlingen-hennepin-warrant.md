@@ -130,7 +130,7 @@ sources:
 related_events:
   - 2026-05-18--hennepin-county-charges-ice-agent-castro-second-degree-assault-false-report-sosa-celis-shooting
   - 2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed
-  - 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
+  - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
 ---
 
@@ -140,6 +140,6 @@ The county's release: "He was arrested by Texas Rangers with the BCA investigato
 
 CNN reports the Minnesota Bureau of Criminal Apprehension told it Castro was "arrested Friday morning in Harlingen, Texas, 'without incident,'" and that he was "booked into Texas' Cameron County Jail on his Minnesota arrest warrant."
 
-DHS's response, as CNN relays it, was to call the arrest "unlawful" and a "political stunt," and to say "The U.S. Attorney's Office is actively investigating these statements." Hennepin County Attorney Mary Moriarty called the arrest "a critical step forward." BCA Superintendent Drew Evans said "we will now begin the work necessary to bring Mr. Castro back to Minnesota to face these charges." What followed is in [[2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition]] and [[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]. The charges are allegations; Castro has not been convicted.
+DHS's response, as CNN relays it, was to call the arrest "unlawful" and a "political stunt," and to say "The U.S. Attorney's Office is actively investigating these statements." Hennepin County Attorney Mary Moriarty called the arrest "a critical step forward." BCA Superintendent Drew Evans said "we will now begin the work necessary to bring Mr. Castro back to Minnesota to face these charges." What followed is in [[2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition]] and [[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]. The charges are allegations; Castro has not been convicted.
 
 **Sourcing note.** Both sources were fetched. Other outlets differ on where in Texas the arrest took place; the BCA statement to CNN is used. Sosa-Celis is a named harm-subject approved under Mark's Amnesty ruling.

@@ -48,7 +48,7 @@ sources:
   date: '2026-09-04'
   tier: 2
 related_events:
-- 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
+- 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
 - 2026-01-07--ice-agent-kills-legal-observer-minneapolis-operation-metro-surge
 - 2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis
 - 2026-04-08--ice-data-reveals-1300-collateral-arrests-operation-metro-surge

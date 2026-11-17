@@ -133,7 +133,7 @@ sources:
 related_events:
   - 2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
-  - 2026-08-27--ice-agent-castro-released-texas-abbott-refuses-minnesota-extradition
+  - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
 ---
 
 A federal judge in Saint Paul dismissed the assault complaint against **Julio Cesar Sosa-Celis** and **Alfredo Aljorna** with prejudice on its own motion. The motion gave a one-line reason. The same day, DHS said two officers' sworn testimony "appears to have made untruthful statements."
