@@ -235,11 +235,11 @@ The March 17-18 purge is the **structural preconditioner** for every subsequent 
 
 2. **Crypto-as-mortgage-asset directive (June 25, 2025).** Pulte, as both FHFA Director and Chair of both GSE boards, ordered Fannie and Freddie to develop proposals counting cryptocurrency as an asset for mortgage qualification — a policy move with no independent board resistance available.
 
-3. **Mortgage-fraud referral campaign (August 2025-December 2025).** Pulte's access to GSE loan databases, facilitated by his Chairman role, enabled the criminal referrals against Fed Governor Lisa Cook, NY AG Letitia James, Sen. Adam Schiff, and Rep. Eric Swalwell. See [[2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor]] and [[2025-08-20--pulte-mortgage-fraud-campaign-against-democrats]].
+3. **Mortgage-fraud referral campaign (August 2025-December 2025).** Pulte's access to GSE loan databases, facilitated by his Chairman role, enabled the criminal referrals against Fed Governor Lisa Cook, NY AG Letitia James, Sen. Adam Schiff, and Rep. Eric Swalwell. See [[2025-08-15--pulte-sends-doj-criminal-referral-of-fed-governor-cook-over-2021-mortgage-documents]] and [[2025-08-20--pulte-mortgage-fraud-campaign-against-democrats]].
 
 4. **Planned GSE IPO.** An independent Board of Directors, with Nobel-laureate economists and credentialed risk-management professionals, would have constituted a structural check on the timing, structure, and allocation of any public offering. The March 17-18 purge removed that check.
 
-5. **GAO investigation (December 4, 2025).** The Government Accountability Office opened a formal investigation into Pulte's weaponized criminal referrals, responding to a Senate Democrats' letter. See [[2025-12-04--gao-investigates-pulte-weaponized-criminal-referrals]]. The investigation's existence is downstream of the governance arrangement established March 17-18.
+5. **GAO investigation (December 4, 2025).** The Government Accountability Office opened a formal investigation into Pulte's weaponized criminal referrals, responding to a Senate Democrats' letter. See [[2025-12-04--gao-accepts-senate-democrats-request-to-review-fhfa-director-pulte-mortgage-fraud-referrals]]. The investigation's existence is downstream of the governance arrangement established March 17-18.
 
 Fannie Mae's Q1 2025 10-Q reported that the board had not yet considered Malik's independence or committee assignments.
 
@@ -261,10 +261,10 @@ The 14 director names are confirmed via the Washington Post's March 18, 2025 rep
 - [[trump-donald-jr]]
 - [[world-liberty-financial]]
 - [[2025-04-14--malik-appointed-fannie-mae-board]]
-- [[2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor]]
+- [[2025-08-15--pulte-sends-doj-criminal-referral-of-fed-governor-cook-over-2021-mortgage-documents]]
 - [[2025-08-18--doj-escalates-schiff-investigation-political-retaliation]]
 - [[2025-08-20--pulte-mortgage-fraud-campaign-against-democrats]]
-- [[2025-12-04--gao-investigates-pulte-weaponized-criminal-referrals]]
+- [[2025-12-04--gao-accepts-senate-democrats-request-to-review-fhfa-director-pulte-mortgage-fraud-referrals]]
 - [[2025-12-08--trump-mortgage-fraud-florida]]
 - [[2026-01-10--doj-serves-powell-grand-jury-subpoena-criminal-investigation]]
 - [[epic-inv4-trump-family-gulf-capital]]

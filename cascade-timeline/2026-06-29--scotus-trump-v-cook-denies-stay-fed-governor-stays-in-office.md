@@ -121,7 +121,7 @@ claims:
     source_kind: primary
 ---
 
-On **June 29, 2026 (decision date)** the Supreme Court decided *Trump v. Cook* (No. 25A312) and denied the Government's application for a stay. The Government had asked the Court to stay a district-court preliminary injunction that blocked President Trump's August 2025 attempt to fire Federal Reserve Governor Lisa Cook. Argument date: January 21, 2026 ([[2026-01-21--scotus-oral-argument-trump-v-cook]]). Cook stays in office while the litigation continues, and the merits go back to the lower courts.
+On **June 29, 2026 (decision date)** the Supreme Court decided *Trump v. Cook* (No. 25A312) and denied the Government's application for a stay. The Government had asked the Court to stay a district-court preliminary injunction that blocked President Trump's August 2025 attempt to fire Federal Reserve Governor Lisa Cook. Argument date: January 21, 2026 ([[2026-01-21--scotus-hears-trump-v-cook-fed-independence-case]]). Cook stays in office while the litigation continues, and the merits go back to the lower courts.
 
 **This is an emergency-docket order, not a merits ruling.** The Court says so itself: "Although this extraordinary case arises on the Court's interim docket", the Court had amici and oral argument. Chief Justice Roberts wrote the opinion of the Court, and Sotomayor, Kagan, Kavanaugh and Jackson joined him. Thomas, Alito (joined by Gorsuch) and Barrett each dissented.
 

@@ -42,7 +42,7 @@ sources:
 related_events:
   - 2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts
   - 2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists
-  - 2025-12-04--bondi-weaponizes-tax-law-against-antifa
+  - 2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs
 coverage:
   - daily-capture-reports/feed/2026-08-26--state-dept-sdgt-autistici-inventati-italian-hosting-collective.md
 ---

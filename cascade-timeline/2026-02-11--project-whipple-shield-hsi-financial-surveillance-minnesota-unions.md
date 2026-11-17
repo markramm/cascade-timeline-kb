@@ -294,7 +294,7 @@ This entry's harm is **class-level, not individually nameable** — see [[whippl
 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
-- [[2025-12-04--bondi-weaponizes-tax-law-against-antifa]]
+- [[2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs]]
 - [[2026-01-12--mn-ag-ellison-sues-dhs-over-operation-metro-surge]]
 - [[whipple-shield-class-level-harm-deploy-disposition]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]

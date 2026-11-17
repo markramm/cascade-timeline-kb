@@ -268,9 +268,9 @@ Four overlapping dimensions:
 - [[1789-capital]]
 - [[trump-donald-jr]]
 - [[2025-03-17--pulte-purges-fannie-freddie-boards-installs-self-chairman]] — *needs entry*
-- [[2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor]]
+- [[2025-08-15--pulte-sends-doj-criminal-referral-of-fed-governor-cook-over-2021-mortgage-documents]]
 - [[2025-08-20--pulte-mortgage-fraud-campaign-against-democrats]]
-- [[2025-12-04--gao-investigates-pulte-weaponized-criminal-referrals]]
+- [[2025-12-04--gao-accepts-senate-democrats-request-to-review-fhfa-director-pulte-mortgage-fraud-referrals]]
 - [[2024-12-20--kushner-affinity-gets-1-5b-qia-lunate]]
 - [[2025-09-03--american-bitcoin-nasdaq-hut8-trump-sons]]
 - [[2026-01-11--trump-organization-dar-global-10b-saudi-slate]]

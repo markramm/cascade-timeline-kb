@@ -42,7 +42,7 @@ sources:
   title: Ranking Member Waters Demands Answers from Director Pulte
   tier: 1
 connections:
-- 2025-08-15--pulte-weaponizes-mortgage-data-against-fed-governor
+- 2025-08-15--pulte-sends-doj-criminal-referral-of-fed-governor-cook-over-2021-mortgage-documents
 - 2025-03-14--william-pulte-sworn-fhfa
 - 2025-08-25--trump-fires-lisa-cook-fed
 patterns:
