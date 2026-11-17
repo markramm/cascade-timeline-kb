@@ -157,6 +157,11 @@ claims:
   outcome: verified
   checked: '2026-11-16'
 verification: source-verified
+approved_names:
+- Paul Edwards
+- Charles Stanley
+- Greg Dixon
+- Ed Dobson
 ---
 The Liberty University Archives finding aid for the Moral Majority's records gives its founding date and founders: "The Moral Majority was founded on June 6, 1979 by Dr. Jerry Falwell, Dr. Tim LaHaye, Dr. Charles Stanley, Dr. D. James Kennedy, and Dr. Greg Dixon". The same note gives its principles: "It was founded on four principles; being pro-life, pro-family, pro-morals, and pro-American".
 

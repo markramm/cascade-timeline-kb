@@ -55,6 +55,8 @@ actors:
 sources:
   - title: "A Manufactured Conspiracy (Workday Magazine, Aug 20, 2026)"
     url: "https://workdaymagazine.org/a-manufactured-conspiracy-minnesotas-labor-movement-denounces-federal-surveillance-operation/"
+approved_names:
+  - Marcia Howard
 ---
 
 A coalition of labor, community and faith organizations in Minnesota denounced Operation Puppet Master at a press conference outside Target's downtown Minneapolis headquarters, held on the Tuesday before Workday Magazine's August 20 report.

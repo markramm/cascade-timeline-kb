@@ -168,6 +168,15 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+  - Alex Stein
+  - Brian Sauve
+  - Buckley Carlson
+  - Calvin Robinson
+  - Dale Partridge
+  - Eric Conn
+  - Harrison Smith
+  - James Fishback
 ---
 
 NXR Studios, the media company led by Joel Webbon, held the Christ Is King: America After Trump conference at the Irving Convention Center in Irving, Texas, after the 2026 midterms; it closed on Saturday, November 14, 2026, and ran from 12 to 14 November. The organizer's own schedule opened it with Webbon's "Manifesto" and an Alex Jones keynote, and its lineup page named Webbon, Jones, James Fishback, Buckley Carlson, Calvin Robinson, Dale Partridge, JP Sears, Alex Stein, Harrison Smith, Brian Sauve and Eric Conn. Nick Fuentes was not on the published program; he spoke at the close.

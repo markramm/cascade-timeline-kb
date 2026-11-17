@@ -227,6 +227,8 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-hsi-dhs-detention
+approved_names:
+  - Kevin Riach
 ---
 
 Federal court filings in the District of Minnesota — unsealed August 13, 2026 on a discovery motion by defense attorney Kevin Riach in *United States v. Sant et al.*, Case 0:26-cr-00115 (D. Minn.), and reported the same day across KSTP, the Minnesota Reformer, AP, and CBS — revealed "Operation Puppet Master" — a Homeland Security Investigations case opened four days after federal immigration agents shot and killed Alex Pretti, a nurse and protester, in Minneapolis, and covering undercover work that began earlier: its own report summarizes undercover-agent activity from December 3, 2025, "before the formal opening of Operation Puppet Master" (Doc. 212-12). Undercover HSI agents posing as protesters and activists surveilled community meetings at churches, parks, libraries, union halls, schools, and restaurants. Agents secretly recorded political discussions, entered encrypted Signal chats, collected license plate numbers, and compiled dossiers containing names, photographs, home addresses, and employment and family information. Targets included labor unions, community groups, the Sunrise Movement, and a bicycle repair collective. The Intercept reported that at least one undercover agent attempted to entice Minneapolis activists toward more confrontational tactics.

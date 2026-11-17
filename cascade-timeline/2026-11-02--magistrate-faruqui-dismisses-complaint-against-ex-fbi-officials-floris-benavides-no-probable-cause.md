@@ -141,6 +141,9 @@ related_events:
 - 2025-08-26--doj-weaponization-russia-investigators
 lane: Democratic Erosion
 captured_by: daily-capture
+approved_names:
+- Bradley Benavides
+- Nikki Floris
 ---
 
 A federal magistrate judge on Monday, Nov. 2, dismissed a criminal complaint charging two former senior FBI counterintelligence officials, Nikki Floris and Bradley Benavides, with lying to Congress about their roles in the Hunter Biden investigation, CBS News reported. Magistrate Judge Zia Faruqui said the case lacked probable cause and appeared timed to the midterms: "no other event on the calendar, except for the midterm elections." He said what had transpired "can't be described as anything other than weaponization." The Patel link comes from testimony, not the bench: FBI Special Agent Bryan Witt, assigned to help investigate, testified that the case was opened at the behest of FBI Director Kash Patel one day after Trump's televised speech in July ordering prosecutions. The ruling followed a hearing of three days of testimony on the original complaint; Faruqui struck an unsigned and unsworn superseding complaint that prosecutors had filed after midnight to add obstruction charges. The Justice Department said it disagrees with the decision. The dismissal is of the complaint: the department could still appeal to the chief judge or seek a grand jury indictment.

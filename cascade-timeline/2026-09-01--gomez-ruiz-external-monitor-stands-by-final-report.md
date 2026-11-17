@@ -23,6 +23,8 @@ sources:
     tier: 1
 related_events: []
 coverage: []
+approved_names:
+  - Muthusamy Anandkumar
 ---
 
 The court-appointed monitor overseeing conditions at the California City ICE detention facility **told the parties on August 31, 2026** that he was standing by the findings in his Final Report after reviewing objections filed by the federal government and CoreCivic, the facility's operator. The notice memorializing that response was jointly filed on the district docket on **September 1, 2026** — three days ahead of the deadline the court had set.

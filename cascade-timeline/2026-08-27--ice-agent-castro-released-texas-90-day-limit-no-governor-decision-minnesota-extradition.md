@@ -121,6 +121,8 @@ sources:
     tier: 1
 event_date_claim: c2
 source_published_date: '2026-08-27'
+approved_names:
+  - Christian Castro
 ---
 
 A Texas jail released ICE agent Christian Castro on Thursday morning from the Cameron County detention center near Brownsville, and Minnesota's extradition request for him had not been granted or refused. Al Jazeera reported that under Texas law the state cannot hold the subject of an extradition order for more than 90 days. Castro is charged in Hennepin County, Minnesota, with four counts of second-degree assault and one count of falsely reporting a crime, CBS News Minnesota reported.

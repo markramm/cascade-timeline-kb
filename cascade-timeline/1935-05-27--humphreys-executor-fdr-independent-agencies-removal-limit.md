@@ -38,6 +38,8 @@ capture_lanes:
   - Executive Power Expansion
   - Judicial Capture
 coverage: []
+approved_names:
+  - Cathy Harris
 ---
 
 ## Opening

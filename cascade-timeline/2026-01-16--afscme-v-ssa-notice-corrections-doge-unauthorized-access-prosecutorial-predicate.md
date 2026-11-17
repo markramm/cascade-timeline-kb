@@ -215,6 +215,8 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-21'
+approved_names:
+  - Christopher Armitage
 ---
 
 # DOJ Files Notice of Corrections in AFSCME v. SSA — DOGE Team Actions Outside SSA Policy

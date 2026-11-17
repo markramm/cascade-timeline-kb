@@ -31,6 +31,8 @@ sources:
     publisher: "Austin Kocher"
     date: '2026-08-09'
     tier: 2
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 DHS added 58 new immigration AI use cases in the six-month window from July 2025 to January 2026, a 36% expansion, with ICE alone adding 28 new systems and CBP adding 23. Analysis by Austin Kocher and the American Immigration Council found ICE operates 42 AI tools internally but disclosed only 23 in the federal AI inventory — a 44% shadow gap. Surveillance tools originally justified as tracking noncitizens now target US citizens through facial recognition, social-media monitoring, and biometric scanning; recent purchases include $4.6 million for iris-scanning smartphones and a $3.75 million Clearview facial-recognition contract, ICE's largest ever.

@@ -38,6 +38,9 @@ sources:
     publisher: NPR
     date: '2026-05-30'
     tier: 1
+approved_names:
+  - Gerald Lunas Campos
+  - Carlitos Ricardo Parias
 ---
 
 U.S. District Judge Sunshine Suzanne Sykes issued a preliminary injunction on July 16, 2026 ordering ICE to correct conditions at the Adelanto ICE Processing Center in San Bernardino County, California, after finding detainees likely to succeed on their Fifth Amendment claims. The order requires 24-hour access to clean drinking water, nutritious meals, free hygiene products, blankets and temperature-appropriate clothing, daily cleaning with mold removal, at least four hours of recreational yard time a day, unrestricted family visitation with physical contact during business hours, and two daily headcounts confirming each detainee's presence and condition. The government was given 14 days to produce a comprehensive medical-care and disability-accommodation plan. Most consequentially, Sykes appointed **two independent monitors for the duration of the lawsuit**, with detainees able to submit grievances in English or Spanish through a lockbox only the monitors can open — a compliance architecture that does not depend on the agency or its contractor self-reporting.

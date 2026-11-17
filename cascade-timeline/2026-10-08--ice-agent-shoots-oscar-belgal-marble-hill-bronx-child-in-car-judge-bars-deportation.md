@@ -167,6 +167,10 @@ sources:
   publisher: CNN
   date: '2026-10-08'
   tier: 2
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 Plainclothes ICE agents shot Oscar Belgal in the neck on Oct. 8 in the Marble Hill neighborhood of the Bronx while his 5-year-old child was in the back seat of his car. ICE's account, given by executive associate director Marcos Charles, is that Belgal "weaponized his vehicle" and drove at officers; officials described the wound as superficial. NYPD video shows agents approaching with guns drawn, which ICE's account did not mention. His attorneys say in a habeas petition that at least seven shots were fired, that a bullet remains lodged in his neck, and that ICE did not prepare a Notice to Appear until Oct. 9, the day after the shooting. DHS alleges gang ties and a criminal history; his attorneys say he vehemently denies involvement with any gang or organized criminal organization. CNN reports it was the first shooting involving ICE agents in New York City during the current crackdown, and the Bronx District Attorney, Darcel Clark, is investigating.

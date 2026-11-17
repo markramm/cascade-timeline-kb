@@ -31,5 +31,8 @@ actors:
 - Yorlenys Betzabeth Zambrano-Contreras
 capture_lanes:
 - Civil Rights Suppression
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 A Border Patrol agent shot two people in Portland, Oregon—approximately 272-374 miles from the Canadian border—during a federal immigration enforcement operation. DHS identified the victims as Venezuelan nationals Luis David Nico Moncada and Yorlenys Betzabeth Zambrano-Contreras. The shooting occurred one day after ICE agent killed US citizen Renee Nicole Good in Minneapolis. The Portland incident highlighted the expansion of Border Patrol operations deep into the interior of the country, far from traditional border areas. Portland is within the 100-mile 'border zone' only if measuring from the Pacific Ocean coast, not from any land border. The shooting added to mounting concerns about federal immigration enforcement tactics, with multiple shootings by Border Patrol and ICE agents occurring within days of each other across the country.

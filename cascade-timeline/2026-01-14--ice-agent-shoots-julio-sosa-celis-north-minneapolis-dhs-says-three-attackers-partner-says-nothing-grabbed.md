@@ -119,6 +119,8 @@ related_events:
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
   - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
   - 2026-01-06--dhs-announces-operation-metro-surge-2000-agents-minneapolis
+approved_names:
+  - Christian Castro
 ---
 
 On the evening of January 14, 2026, an ICE officer shot **Julio Cesar Sosa-Celis** in the leg during an Operation Metro Surge enforcement stop in north Minneapolis. DHS published its account the next day. A witness has contradicted it, and federal prosecutors later dropped the charges that rested on it.

@@ -62,6 +62,9 @@ sources:
   outlet: TIME
   date: '2026-01-26'
   tier: 1
+approved_names:
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 In the final week of January 2026 — after ICE agent Jonathan Ross killed Renee Nicole Good on January 7 and CBP officers killed Alex Pretti on January 24, both in Minneapolis — a bloc of Senate Republicans publicly broke with the Trump administration over the killings, marking the first significant congressional GOP fracture over Operation Metro Surge.

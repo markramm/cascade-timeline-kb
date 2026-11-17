@@ -112,6 +112,8 @@ sources:
     publisher: "US District Court, D. Mass."
     date: '2026-08-28'
     tier: 1
+approved_names:
+  - John Zappone
 ---
 
 An HSI Assistant Special Agent in Charge whose post covers "the Tucson, Arizona field" office signed a declaration on August 27, 2026 for the church-injunction case, New England Synod v. DHS. On the surveillance of University Baptist Church he states: "I approved the investigative activity at the Church." On the injunction's list of protected churches, he states that HSI did not investigate other listed locations under Project Whipple Shield, and: "I cannot confirm or deny that there are additional investigations at other locations on the protected locations list."

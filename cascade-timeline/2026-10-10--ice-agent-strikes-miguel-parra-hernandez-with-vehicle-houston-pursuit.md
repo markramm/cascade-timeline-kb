@@ -133,6 +133,10 @@ sources:
   publisher: Texas Public Radio
   date: '2026-10-11'
   tier: 1
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 On Saturday a man was struck by a vehicle driven by an ICE agent who was allegedly pursuing him and another man, Texas law enforcement officials and ICE said (ABC News). Harris County Sheriff's Office Major Anthony McConnell said the man was 48 years old and was in ICE custody, and that the agent was "trying to box him in to the backside of the building at the corner and struck the passenger." ICE alleged in a statement that "Parra-Hernandez ran in front of an ICE vehicle and was struck." Surveillance video reviewed by ABC News appears to show the agent maneuvering his vehicle in the direction of the man running and striking him with the vehicle.

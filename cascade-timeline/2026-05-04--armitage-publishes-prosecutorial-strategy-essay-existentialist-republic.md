@@ -323,6 +323,11 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Gregory Donnell Morgan
+- Gregory Donnell
+- Morgan Jr
+- Christopher Armitage
 ---
 
 # Armitage's Essay on State Prosecution of Federal Officials

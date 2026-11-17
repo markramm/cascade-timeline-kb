@@ -64,6 +64,10 @@ sources:
   publisher: Telemundo 51
   date: '2026-10-15'
   tier: 2
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 The Houston Fox station's Wednesday report says DHS confirmed that an ICE operation targeted Jose Mendoza Cervantes rather than Miguel Parra Hernandez, who was injured in the resulting vehicle crash. That is DHS conceding the injured man was not the intended target. The station gives no verbatim DHS text, so the wording is the station's paraphrase.

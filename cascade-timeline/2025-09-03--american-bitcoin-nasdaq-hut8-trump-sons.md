@@ -95,6 +95,8 @@ capture_lanes:
 - Bitcoin Mining and Infrastructure
 - Abu Dhabi Sovereign-Adjacent Partnership
 - Nasdaq-Listed Trump Family Entity
+approved_names:
+- Mike Ho
 ---
 
 On **September 3, 2025**, **American Bitcoin (NASDAQ: ABTC)** began trading on the Nasdaq Global Select Market following an all-stock merger with **Gryphon Digital Mining**. The company was founded in **March 2025** by **Eric Trump** and **Donald Trump Jr.** as a bitcoin mining and digital-asset treasury operation. **Hut 8 Mining Corp. owns 80%** of the entity; the Trump brothers and legacy American Data Centers shareholders own the remaining **20%**. Subsequently, CEO **Mike Ho confirmed in October 2025 that American Bitcoin has held discussions with Abu Dhabi sovereign wealth fund ADQ and Abu Dhabi-based global energy company Taqa** regarding UAE expansion.

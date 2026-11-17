@@ -39,6 +39,8 @@ sources:
   publisher: CourtListener (RECAP docket mirror)
   date: '2026-10-23'
   tier: 2
+approved_names:
+- Isaac Auman Sant
 ---
 
 A superseding indictment in United States v. Sant (D. Minn., 0:26-cr-00115) was filed October 22, 2026 as Doc. 308 (docket text by AUSA Tory Sailer; entered on the docket October 23). It replaces the 94-page indictment filed June 11 (Doc. 1, marked "TO BE FILED UNDER SEAL"; unsealed June 16). Both are image-only scans; the comparison below was read from page images and OCR of both documents.

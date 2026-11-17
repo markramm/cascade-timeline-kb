@@ -59,6 +59,8 @@ sources:
 capture_lanes:
   - Constitutional Crisis
   - Democratic Erosion
+approved_names:
+  - Drew Evans
 ---
 
 Minnesota Attorney General Keith Ellison, Hennepin County Attorney Mary Moriarty, and BCA Superintendent Drew Evans filed suit in U.S. District Court for the District of Columbia against the U.S. Department of Justice, U.S. Department of Homeland Security, Attorney General Pam Bondi, and DHS Secretary Kristi Noem.

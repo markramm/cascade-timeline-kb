@@ -33,6 +33,8 @@ sources:
     publisher: New Jersey Globe
     date: '2026-08-12'
     tier: 2
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 ICE confirmed on August 12, 2026 that Jose Chajon-Raxon, a Guatemalan man arrested July 18, died weeks after being released from Delaney Hall in Newark following a medical emergency on July 19. He was the third Delaney Hall death of 2026. ICE disclosed the death only after advocacy pressure, and explained the delay by citing an internal policy that no longer requires death reporting for individuals who die after leaving ICE custody. Newsweek independently confirmed the non-reporting policy; NBC News confirmed the death and the medical-emergency timeline.

@@ -105,6 +105,9 @@ summary: Republican Pat Proctor, about 8,000 votes ahead in the Kansas secretary
 verification_note: The radio interview's date is not stated in the article, so the entry is dated to publication. The race was not final; the count was still under audit.
 related_events: []
 verification: source-verified
+approved_names:
+- Jennifer Day
+- Dan Hawkins
 ---
 
 The Kansas Reflector reported on November 10, 2026 that Republican Pat Proctor, about 8,000 votes ahead of Democrat Jennifer Day in the race for secretary of state, suggested without evidence that foreign donors contributed to the money that helped Democrats win. On the Woodward and Whit radio show on KNSS, Proctor said dark-money nonprofits, "a lot of them foreign funded," got money into the election. He didn't provide examples of nonprofits receiving foreign funds and donating to a candidate, the Reflector reports.

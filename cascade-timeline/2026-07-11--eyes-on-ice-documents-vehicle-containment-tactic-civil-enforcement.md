@@ -23,6 +23,9 @@ sources:
     publisher: Eyes on ICE (Substack)
     date: '2026-07-11'
     tier: 3
+approved_names:
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 Eyes on ICE, a Substack-based OSINT investigation, published a tactical breakdown on July 11, 2026 documenting ICE's use of a coordinated vehicle-ramming and pinning maneuver — which the outlet terms the "Vehicle Containment Technique" (VCT), originally engineered for stopping violent felons — applied in routine civil immigration enforcement stops. The piece cites two documented incidents: the January 2026 killing of Renee Nicole Good, already reconstructed frame-by-frame by NYT and ABC News ([[2026-01-09--video-analyses-nyt-abc-reconstruct-renee-good-shooting-frame-by-frame]]), and an April 2026 incident on I-5 in Patterson, CA, where a trapped driver was critically wounded after agents opened fire.

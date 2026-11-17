@@ -19,6 +19,10 @@ sources:
     publisher: "Fox 9"
     date: '2026-08-06'
     tier: 1
+approved_names:
+  - Gregory Donnell Morgan
+  - Gregory Donnell
+  - Morgan Jr
 ---
 
 Hennepin County Sheriff Dawanna Witt disclosed that federal authorities have issued subpoenas and threatened her with criminal prosecution over the county jail's policy of declining to hold people on civil ICE detainers absent a judicial warrant — a policy Hennepin County has maintained under state court precedent. This is an escalation of the federal campaign against sanctuary jurisdictions in Minnesota's most populous county.

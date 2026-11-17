@@ -72,6 +72,10 @@ sources:
 related_events:
 - 2026-10-10--ice-agent-strikes-miguel-parra-hernandez-with-vehicle-houston-pursuit
 - 2026-09-30--ice-ero-memo-vehicle-stops-training-pursuit-ban-body-cameras-text-not-public
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 The Intercept published an investigation on November 2, 2026 reporting that it reviewed more than two dozen incidents of ICE using its army of unmarked cars to attack immigrants and American activists alike. A partially redacted 2025 CBP directive gives officers broader discretion to use offensive driving techniques and ignore traffic laws. The article reports that ICE is instituting additional training including crowd control measures, additional training for high-risk vehicle stops, a live-fire cover course for officer safety, and medical training.

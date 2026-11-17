@@ -248,6 +248,8 @@ sources:
     publisher: CalMatters
     date: '2026-07-01'
     tier: 1
+approved_names:
+  - Carlitos Ricardo Parias
 ---
 
 A three-judge Ninth Circuit panel of Circuit Judges McKeown, Friedland and Miller denied the government's emergency motion for a stay pending appeal of a preliminary injunction in *L.T. v. ICE*, No. 26-4902. The order bears the clerk's filing stamp of August 20, 2026, and appears on the district docket as Doc. 122 with the same filing date, 08/20/26. Migrant Insider's report says the judges ruled Thursday. The panel wrote: "we deny the Government’s emergency motion for a stay pending appeal" and lifted its earlier administrative stay. It also reset the merits briefing, with the appellants' opening brief due September 17, 2026. The class action, brought by Public Counsel, CHIRLA and the Immigrant Defenders Law Center, challenges conditions at the Adelanto ICE Processing Center in San Bernardino County, California. The panel's order points to the district court's memorandum of decision of August 12, 2026 for the reasons the injunction issued. The injunction the government sought to stay was entered by the district court in July 2026 and requires ICE to provide detainees with clean drinking water around the clock, nutritious meals, outdoor recreation, clean clothing, mattresses and hygiene products at no cost.

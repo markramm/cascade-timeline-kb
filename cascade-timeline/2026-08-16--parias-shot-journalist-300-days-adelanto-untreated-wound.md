@@ -27,6 +27,8 @@ sources:
     publisher: NPR
     date: '2026-06-20'
     tier: 1
+approved_names:
+  - Carlitos Ricardo Parias
 ---
 
 Carlitos Ricardo Parias, a journalist who covered immigration enforcement in Los Angeles under the name "Richard Noticias LA," was approaching 300 days in ICE detention as of August 16, 2026, with an untreated gunshot wound sustained when federal agents shot him during an arrest attempt near downtown Los Angeles in October 2025. The Intercept reported that his elbow wound had left his arm turning purple and that Adelanto ICE Processing Center staff were treating him with vitamin D and Bengay rather than the ibuprofen he had been prescribed. The criminal charges arising from the shooting were dismissed with prejudice by a judge who found the government had violated Parias's constitutional rights. Deportation proceedings continued regardless, and he remained detained.

@@ -865,6 +865,8 @@ coverage:
     title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
   - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
     title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
+approved_names:
+- Pedro Trujillo
 ---
 
 The docket randomly reassigned Trujillo v. DHS (Civil Action No. 1:26-cv-03072) to Chief Judge Boasberg: "Case randomly reassigned to Chief Judge James E. Boasberg as the case is not related." After a scheduling conference, his minute order of October 21, 2026 set the sequence: a superseding TRO motion from plaintiffs, the government's opposition by October 26, 2026, a plaintiffs' reply, and a Zoom hearing on October 30, 2026, at 10:30 a.m.

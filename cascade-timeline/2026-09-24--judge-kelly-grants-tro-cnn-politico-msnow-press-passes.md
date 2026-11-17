@@ -53,6 +53,8 @@ related_events:
 coverage:
   - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
     title: "DOJ Defended the CNN Ban in Court, Then Called the Networks' Refusal to Replace CNN a Boycott"
+approved_names:
+  - Micah Stopperich
 ---
 
 In the early hours of **September 24, 2026**, Judge Timothy J. Kelly signed a **Temporary Restraining Order** (docket entry 24) in *Cable News Network, Inc. v. Trump*, 1:26-cv-03287 (D.D.C.), ordering defendants — "except for President Trump" — and their agents to restore White House hard-pass credentials "held by employees of CNN, MS NOW, and POLITICO that were revoked on or about September 18, 2026, until further Order of the Court or the expiration of this Temporary Restraining Order." Kelly stated the TRO would remain in effect for **14 days** (i.e., through on or about October 8, 2026).

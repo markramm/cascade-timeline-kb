@@ -45,6 +45,8 @@ capture_lanes:
 importance: 4
 actors:
 - Donald Trump
+approved_names:
+- Clark Mitchell
 ---
 Donald Trump launched his "Trump Digital Trading Cards" NFT collection on December 15, 2022, featuring 45,000 digital trading cards priced at $99 each that sold out within 12 hours, demonstrating how political figures can exploit supporter loyalty for cryptocurrency market manipulation. The collection featured fantasy artwork by Clark Mitchell depicting Trump in various scenarios including as a cowboy, astronaut, and businessman, creating artificial collectible value through political celebrity association rather than genuine artistic merit. Within days of the launch, the NFTs were trading on secondary markets like OpenSea with floor prices more than doubling to about $200, while one NFT originally purchased for $99 was resold for $44,900, representing a profit of over 44,200% that exemplifies pump-and-dump market dynamics. The collection utilized the Polygon blockchain and recorded about 900 ETH (about $1.08 million) in OpenSea trading volume by December 16, per CoinDesk, as Trump supporters treated the NFTs as both political merchandise and speculative investments. This massive success established Trump as a major player in NFT markets and created a template for using political influence to drive artificial demand in volatile cryptocurrency assets, setting up a systematic approach to monetizing political celebrity through digital asset speculation.
 

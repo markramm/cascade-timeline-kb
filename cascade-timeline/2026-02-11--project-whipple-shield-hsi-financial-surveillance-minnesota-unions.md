@@ -231,6 +231,10 @@ updates:
   captured_by: capture-watch
   cluster: hsi-minnesota-15-surveillance
 editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
+approved_names:
+  - Kevin Riach
+  - Marcia Howard
+  - Steven Schrank
 ---
 
 ## Opening

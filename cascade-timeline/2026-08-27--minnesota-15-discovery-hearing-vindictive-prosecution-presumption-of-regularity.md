@@ -25,6 +25,9 @@ sources:
     date: '2026-08-28'
     tier: 1
     note: "Jon Collins reporting from Minneapolis; Matt Sepic contributed. Court-hearing account."
+approved_names:
+  - Isaac Sant
+  - Kevin Riach
 ---
 
 ## Opening

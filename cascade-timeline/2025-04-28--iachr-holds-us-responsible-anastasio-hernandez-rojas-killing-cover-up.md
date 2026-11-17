@@ -59,6 +59,10 @@ coverage:
     title: "Three Jesuses, One Building — How the Christian Nationalist Coalition Holds Together"
     date: '2026-05-19'
     publication: theramm
+approved_names:
+  - Anastasio Hernández Rojas
+  - Hernández Rojas
+  - Andrea Guerrero
 ---
 
 ## Opening Paragraph

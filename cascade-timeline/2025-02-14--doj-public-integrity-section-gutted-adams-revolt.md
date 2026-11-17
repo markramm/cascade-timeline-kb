@@ -346,6 +346,8 @@ claims:
 capture_lanes:
 - Regulatory Capture
 - Systematic Corruption
+approved_names:
+- John Keller
 ---
 
 The Department of Justice's Public Integrity Section, created after Watergate to prosecute public corruption, was cut to a fraction of its staff in 2025 after the Adams corruption case. NBC News reported on March 11, 2025, citing anonymous sources, that the section would keep roughly a half-dozen employees and would "no longer directly handle investigations or prosecutions." NOTUS reported on September 22, 2025 that the 36 experienced attorneys assigned full-time when Trump took office had become two (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]).

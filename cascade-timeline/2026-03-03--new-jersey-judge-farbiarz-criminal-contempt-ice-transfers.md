@@ -226,6 +226,8 @@ claims:
   checked: '2026-11-16'
 event_date_claim: c18
 verification: source-verified
+approved_names:
+- Baljinder Kumar
 ---
 
 In an opinion filed on 03/02/26 in *Kumar v. Soto* (D.N.J.), Judge Michael E. Farbiarz wrote that no-transfer injunctions issued by New Jersey district judges had been violated 17 times by the Respondents, "around three every two weeks," and ordered that his future no-transfer injunctions in immigration-habeas cases carry two declarations, one from the U.S. Attorney's Office and one from ICE.

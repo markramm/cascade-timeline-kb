@@ -81,6 +81,8 @@ sources:
   publisher: Stars and Stripes
   date: '2026-11-08'
   tier: 2
+approved_names:
+- Brad Cooper
 ---
 
 On November 7, CENTCOM commander Adm. Brad Cooper ordered the establishment of Task Force Iron Gate, a staff of about 20 military and civilian personnel in Tampa that will work with other US agencies to stop advanced weapons, dual-use technology, sanctioned materials and revenue from crossing Iran's land borders and the Caspian Sea. Stars and Stripes reported that CENTCOM did not specify how the task force would go about disrupting shipments through alternative routes or if it would coordinate directly with governments along Iran's borders.

@@ -132,6 +132,9 @@ related_events:
   - 2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed
   - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
+approved_names:
+  - Christian Castro
+  - Drew Evans
 ---
 
 ICE agent **Christian Castro** was "arrested in Texas Friday morning," the county said in a release dated **5/29/2026**, on the Hennepin County warrant that followed the state's charges ([[2026-05-18--hennepin-county-charges-ice-agent-castro-second-degree-assault-false-report-sosa-celis-shooting]]) for the **Jan. 14, 2026** shooting of Julio Sosa-Celis ([[2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed]]).

@@ -54,6 +54,9 @@ capture_lanes:
   - Detention Industrial Complex
   - Democratic Erosion
 coverage: []
+approved_names:
+  - Anastasio Hernández Rojas
+  - Hernández Rojas
 ---
 
 ## Opening

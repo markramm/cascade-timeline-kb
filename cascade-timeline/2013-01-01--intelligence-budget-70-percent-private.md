@@ -47,5 +47,7 @@ status: confirmed
 capture_lanes:
 - Regulatory Capture
 - Intelligence Penetration
+approved_names:
+- Ronald Sanders
 ---
 Snowden revelations in 2013 exposed that 70% of the $52.6 billion "black budget" went to private contractors. One in four intelligence workers was a contractor, with firms like Booz Allen Hamilton among 1,900 companies supplying tens of thousands of analysts. Post-9/11, intelligence budget grew 250% by 2010. Government officials confirmed in 2008 that 70% of intelligence spending went to private sector.

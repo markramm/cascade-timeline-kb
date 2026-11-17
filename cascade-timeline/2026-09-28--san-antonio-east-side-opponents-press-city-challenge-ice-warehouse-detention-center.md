@@ -112,6 +112,8 @@ sources:
   publisher: Texas Public Radio
   date: '2026-09-28'
   tier: 2
+approved_names:
+- Jimmy Drennan
 ---
 
 ICE bought a warehouse on the city's East Side for $66.1 million in January. The agency has said it expects to hold between 1,000 and 1,500 people there each day during immigration proceedings, with an opening planned for next winter. Bexar County Commissioner Tommy Calvert and Father Jimmy Drennan are pressing San Antonio to take legal action. "I think it's very important that we at least slow this down and make sure that the processes happen," Calvert said. Drennan said: "It has created a horrific sense of fear in the entire east and southeast side of San Antonio."

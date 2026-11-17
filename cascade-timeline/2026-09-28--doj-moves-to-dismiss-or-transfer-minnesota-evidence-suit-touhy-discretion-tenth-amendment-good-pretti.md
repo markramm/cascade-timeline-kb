@@ -98,6 +98,8 @@ claims:
 capture_lanes:
   - Constitutional Crisis
   - Democratic Erosion
+approved_names:
+  - Drew Evans
 ---
 
 On September 28, 2026, the Justice Department asked Judge Emmet G. Sullivan to dismiss or, alternatively, transfer to the District of Minnesota the suit by the State of Minnesota, Hennepin County Attorney Mary Moriarty and BCA Superintendent Drew Evans over federal withholding of evidence in the Renee Good, Alex Pretti and Julio Sosa-Celis shootings. The grounds below are the government's, not findings.

@@ -34,6 +34,8 @@ id: 2025-01-20--bondi-rescinds-journalist-protection-safeguards
 capture_lanes:
 - Media Capture and Control
 - Intelligence Penetration
+approved_names:
+- Bruce D. Brown
 ---
 
 Attorney General Pam Bondi eliminates journalist protection guidelines established by Merrick Garland, reverting to a pre-2021 'balancing test' that allows the Department of Justice to more aggressively pursue journalist records in leak investigations. The policy change removes key safeguards against subpoenaing journalists' communications, potentially enabling broader investigations into government information leaks and undermining press freedom protections.

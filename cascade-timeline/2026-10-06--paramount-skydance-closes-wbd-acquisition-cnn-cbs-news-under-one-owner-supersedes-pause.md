@@ -63,6 +63,8 @@ related:
   - 2026-07-16--paramount-wbd-antitrust-hearing-faust-subscriber-suit-bonta-ag-coalition-pending
   - 2025-12-08--paramount-skydance-hostile-takeover-warner-bros-discovery
   - 2026-06-08--cnn-investigation-bari-weiss-cbs-paramount-wbd-merger-link-bonta-active
+approved_names:
+  - Mark Thompson
 ---
 
 **The WBD acquisition closed on October 6, 2026 (transaction date).** The SEC filing by the acquirer, now Skydance Corporation (NYSE: SKYD, formerly Paramount Skydance, PSKY), says Warner Bros. Discovery became a wholly owned subsidiary at the effective time. WBD holders received $31.00 cash per share plus a per-day ticking amount accruing after September 30, 2026 (8-K); the company's release states the result as $31.01666668 per share. The 8-K puts the ticking amount at $41,886,975.78 in total. The release states a per-share price and does not state an enterprise value. It says the transaction included $47 billion of new equity investment in Class B stock, priced at $12.00 per share, led by the Ellison family, RedBird, PIF, L'IMAD, QIA and LionTree. Our spokes carry $45.7 billion (April 2026) and $40.7 billion (December 2025) as equity commitments; the closing release gives a different figure and does not reconcile the three, so the figures should not be mixed. The company's own release lists CBS News and CNN among the combined assets and targets at least $6 billion in run-rate synergies within three years.

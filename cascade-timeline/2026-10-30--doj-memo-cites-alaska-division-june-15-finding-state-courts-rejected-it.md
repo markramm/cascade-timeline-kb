@@ -243,6 +243,8 @@ sources:
     publisher: Alaska Public Media (Liz Ruskin)
     date: '2026-06-26'
     tier: 2
+approved_names:
+  - Daniel Sullivan
 ---
 
 

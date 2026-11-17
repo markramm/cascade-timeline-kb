@@ -45,6 +45,8 @@ sources:
 coverage:
 - url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
   title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
+approved_names:
+  - Ashley St
 ---
 
 On March 13, 2026 — four days before the IL-09 Democratic primary — MS NOW reporter Brandy Zadrozny published the **complete coordination-chain documentation** of a dark-money paid-influence operation targeting progressive candidate Kat Abughazaleh. The article documents the funder-marketing-agency-creator chain with the email brief, talking points, named per-post payment amount, and on-record statements from a creator who declined the offer and a creator who took it and removed the content when scrutinized.

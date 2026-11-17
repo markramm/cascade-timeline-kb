@@ -82,6 +82,8 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Kareem Serageldin
 ---
 
 Judge Jed S. Rakoff of the Southern District of New York wrote in The New York Review of Books: "not a single high-level executive has been successfully prosecuted in connection with the recent financial crisis". The count is his, as of the article, and it is limited to high-level executives and to successful prosecutions.

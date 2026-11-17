@@ -44,6 +44,9 @@ date_precision: month
 date_kind: month the Council was formed, per a White House event briefing in the Reagan Library's Blackwell files
 previous_ids:
 - 1981-05-01--council-national-policy-founded-conservative-coordination
+approved_names:
+- William Herbert
+- William Cies
 ---
 In May 1981, during the Reagan administration, Tim LaHaye (then head of the Moral Majority), Paul Weyrich, Nelson Bunker Hunt, T. Cullen Davis, Howard Phillips, and William Cies founded the Council for National Policy (CNP) as an umbrella organization and networking group for conservative and Republican Party initiatives.
 

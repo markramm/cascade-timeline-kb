@@ -260,6 +260,8 @@ claims:
   outcome: verified
   checked: '2026-11-16'
 verification: source-verified
+approved_names:
+- Jonathan Whitehead
 ---
 On August 22, 1978, the Internal Revenue Service published a proposed revenue procedure on private tax-exempt schools (43 F.R. 37296 through 37298). The Supreme Court wrote that "the IRS reviewed its challenged policies and proposed new Revenue Procedures to tighten requirements for eligibility for tax-exempt status for private schools". A contemporaneous news report put it this way: private schools in areas that were integrating "may be presumed to be discriminatory if their minority enrollment is not at least 20 percent of the local school age minority population". A second proposed revenue procedure on private tax-exempt schools is dated February 13, 1979 (44 F.R. 9451 through 9455).
 

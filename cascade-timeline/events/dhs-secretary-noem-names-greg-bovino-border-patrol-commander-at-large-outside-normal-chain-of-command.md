@@ -47,6 +47,9 @@ sources:
   outlet: AOL News
   date: '2026-01-01'
   tier: 1
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 
 DHS Secretary Kristi Noem names Greg Bovino as commander-at-large of the Border Patrol in an op-ed announcement, creating a rank with no statutory basis that allows Bovino to operate outside the Border Patrol's normal chain of command and report directly to Noem. Bovino, who had served as Chief Patrol Agent of the El Centro Sector since April 2020, brings a documented record of overseeing units with disproportionate use of force — a 3.6:1 ratio of force incidents to assaults faced, compared to 2:1 for Border Patrol overall, according to a Project on Government Oversight investigation.

@@ -80,6 +80,8 @@ summary: Bloomberg Law reported, citing unnamed people familiar with the matter,
 related:
 - 2026-11-05--reports-doj-civil-rights-head-harmeet-dhillon-plans-to-resign-after-midterms
 - 2026-11-10--blanche-names-craig-trainor-acting-civil-rights-chief-klukas-reported-acting-sdfla-nsd-civil-division-heads-unnamed
+approved_names:
+- Patrick D. Davis
 ---
 Bloomberg Law reported on October 21, in words AlterNet quoted, that Patrick Davis would resign at the end of October, one year after he was sworn in to lead the Justice Department's Office of Legislative Affairs, according to people familiar with the matter. The sources were unnamed.
 

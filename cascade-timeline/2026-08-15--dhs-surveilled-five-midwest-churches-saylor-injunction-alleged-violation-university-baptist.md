@@ -79,6 +79,10 @@ coverage:
     title: "DHS Surveilled at Least Five Midwest Churches; Plaintiffs Allege One Surveillance Violated a Federal Injunction, DHS Says It Did Not Apply, and No Court Has Ruled"
   - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
     title: "DHS Surveilled at Least Five Midwest Churches; Plaintiffs Allege One Surveillance Violated a Federal Injunction, DHS Says It Did Not Apply, and No Court Has Ruled"
+approved_names:
+- Kevin Riach
+- Cody Sanders
+- Steve Sylvester
 ---
 
 Court filings unsealed in the prosecution of anti-ICE activists in Minnesota show that the Department of Homeland Security surveilled at least five Midwest churches, four in the Twin Cities area and one in Michigan. Plaintiffs in a federal religious-freedom suit say the surveillance at one of them, University Baptist Church in Minneapolis, violated a preliminary injunction. DHS says the injunction did not cover its criminal investigation. No court has found a violation.

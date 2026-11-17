@@ -39,6 +39,8 @@ sources:
 coverage:
 - url: https://theramm.substack.com/p/meet-kat-abughazaleh-she-ran-on-a
   title: "Meet Kat Abughazaleh: She ran on a similar Platform to El-Sayed, but in Illinois, Outside Money and a Federal Case Shaped Her Race."
+approved_names:
+  - Ashley St
 ---
 
 On Monday, March 2, 2026, an opaque super-PAC named **Chicago Progressive Partnership (CPP)** — organized in January 2026 with **zero disclosed spending to the Federal Election Commission before this ad buy** — released a digital attack advertisement targeting Kat Abughazaleh, a progressive content creator and Democratic congressional candidate in IL-09 (the Evanston-area district). Primary date: March 17, 2026.

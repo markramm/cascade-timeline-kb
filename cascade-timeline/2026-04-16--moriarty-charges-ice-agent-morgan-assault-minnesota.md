@@ -172,6 +172,11 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Gregory Donnell Morgan
+- Gregory Morgan
+- Gregory Donnell
+- Morgan Jr
 ---
 
 # Hennepin County Attorney Mary Moriarty Charges ICE Agent Gregory Donnell Morgan Jr. with Two Counts of Second-Degree Assault

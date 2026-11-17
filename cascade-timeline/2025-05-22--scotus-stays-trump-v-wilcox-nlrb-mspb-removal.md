@@ -50,6 +50,8 @@ capture_lanes:
   - Executive Power Expansion
   - Regulatory Capture
 coverage: []
+approved_names:
+  - Cathy Harris
 ---
 
 ## Opening paragraph

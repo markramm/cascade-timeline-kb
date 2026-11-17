@@ -60,6 +60,9 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+  - Gerardo Lunas Campos
+  - Owen Ramsingh
 ---
 
 An 84-page Human Rights Watch and ACLU report released July 15, 2026 documents systematic abuse at Fort Bliss's Camp East Montana, the largest US immigration detention facility. Guards in unmarked black tactical uniforms entered pods in groups of 15-20 to beat detainees; The facility has logged 49 regulatory violations, flooded cells, detainees held indoors for weeks, and a complete lack of hygiene supplies — even as ICE extended contractor Amentum's no-bid contract through 2027 for $1.2 billion.

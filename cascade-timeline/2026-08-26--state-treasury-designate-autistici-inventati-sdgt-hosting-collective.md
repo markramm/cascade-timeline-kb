@@ -179,6 +179,9 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+  - Rawa Alsagheer
+  - Zaid Abdulnasser
 ---
 
 On August 26, 2026 Treasury's Office of Foreign Assets Control sanctioned **Autistici/Inventati**, an Italian collective, under Executive Order 13224, in the same action as Palestine Action (UK) and Masar Badil, plus Masar Badil's leaders Zaid Abdulnasser (Germany-based) and Rawa Alsagheer (Brazil-based). The Treasury release says the action "is being taken pursuant to the counterterrorism authority, Executive Order (E.O.) 13224, as amended." The State Department's designation is described by The Record as of the same date; the State release itself refused our fetch and is not quoted here.

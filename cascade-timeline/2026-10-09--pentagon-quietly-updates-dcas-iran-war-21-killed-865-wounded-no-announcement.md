@@ -263,6 +263,8 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: iran-war-us-casualties
+approved_names:
+- Sorffly Davius
 ---
 
 The Defense Department edited its Defense Casualty Analysis System (DCAS) website on a Friday (database change date; reporting followed over the next days) and did not announce it. Democracy Now reports: "The Defense Casualty Analysis System website now lists 21 service members killed, up from 18, and 865 wounded, 98 more than in August." These outlets are secondary; DCAS itself blocks scripts and I did not reach a department release.

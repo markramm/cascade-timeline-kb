@@ -262,6 +262,10 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Anastasio Hernández Rojas
+- Hernández Rojas
+- Andrea Guerrero
 ---
 
 # Senate Confirms Rodney Scott as CBP Commissioner After the IACHR Held the United States Responsible in the Hernández Rojas Case

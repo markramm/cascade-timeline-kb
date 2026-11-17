@@ -44,6 +44,9 @@ sources:
     tier: 1
 capture_lanes:
   - Democratic Erosion
+approved_names:
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 

@@ -48,6 +48,10 @@ related_events:
   - 2026-09-23--judge-kelly-hears-arguments-cnn-politico-msnow-tro
   - 2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes
 coverage: []
+approved_names:
+  - J. Marsh
+  - Boyd Townsend
+  - Bruce D. Brown
 ---
 
 On **September 21, 2026**, three days after President Trump announced he was "banning" **CNN**, **Politico**, and **MS NOW** from the White House complex, the three outlets — together with reporters **Betsy Klein** (CNN), **Akayla Gardner** (Politico), and **Cheyenne Haslett** (Politico) — filed suit in the **U.S. District Court for the District of Columbia**. The case is **Cable News Network, Inc. v. Trump**, No. **1:26-cv-03287**, assigned to **Judge Timothy J. Kelly** (a 2017 Trump appointee). Named defendants are Trump, White House Communications Director **Steven Cheung**, and Chief of Staff **Susan Wiles**; Trump himself was later excused from the operative TRO. Lead counsel is **Theodore J. Boutrous Jr.** of Gibson Dunn, with the Reporters Committee for Freedom of the Press's **Bruce D. Brown** and **KatieLynn Boyd Townsend** also appearing for plaintiffs.

@@ -40,6 +40,9 @@ coverage:
     title: "What I Watched Tonight in North Minneapolis"
   - url: https://theramm.substack.com/p/renee-goods-last-words-im-not-mad
     title: "Renee Good's Last Words: \"I'm Not Mad at You\""
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 
 A DHS whistleblower leaked the personal data of approximately 4,500 ICE and Border Patrol agents to ICE List, a volunteer-run accountability website, in what was described as the largest-ever breach of DHS staff data. The dataset included names, work emails, telephone numbers, roles, and resumé data including previous employment for approximately 2,000 frontline agents and 150 supervisors. About 80% of those identified remained employed by DHS.

@@ -21,6 +21,9 @@ participants:
 - ICE
 - DHS
 - Kristi Noem
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 
 The Department of Homeland Security announces on January 3, 2026, that ICE has more than doubled its workforce from approximately 10,000 to 22,000 officers and agents, completing a 120% manpower increase in under a year. The agency sorted through more than 220,000 applicants to onboard 12,000 new hires, using $50,000 signing bonuses, expanded student loan repayment, and removal of age caps as recruitment incentives. The hiring surge was funded by $8 billion allocated through the One Big Beautiful Bill Act passed by Congress in July 2025.

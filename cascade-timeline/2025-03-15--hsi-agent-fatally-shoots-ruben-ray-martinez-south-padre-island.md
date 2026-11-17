@@ -64,6 +64,9 @@ sources:
 capture_lanes:
   - Civil Rights Suppression
 coverage: []
+approved_names:
+  - Anastasio Hernández Rojas
+  - Hernández Rojas
 ---
 
 ## Opening

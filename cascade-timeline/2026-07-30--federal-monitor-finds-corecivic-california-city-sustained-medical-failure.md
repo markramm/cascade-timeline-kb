@@ -33,6 +33,8 @@ sources:
     publisher: CalMatters
     date: '2026-07-30'
     tier: 1
+approved_names:
+  - Muthusamy Anandkumar
 ---
 
 Dr. Muthusamy Anandkumar, a court-appointed monitor, released findings on July 30, 2026 from a three-day inspection of the California City Immigration Processing Center — the state's largest ICE detention facility, operated by CoreCivic — concluding that ICE violated an existing court order by failing to provide constitutionally adequate medical care and that the facility constitutes an unsafe environment. Anandkumar built the finding on interviews with 40 patients and a review of 141 medical records. He documented intake screenings missing for chronic illness and communicable disease, months-long delays in cancer treatment, and undertrained staff supervising newer staff. The ACLU characterized the report as the first time a court-appointed neutral has examined full-scope medical care delivery at an ICE detention center.

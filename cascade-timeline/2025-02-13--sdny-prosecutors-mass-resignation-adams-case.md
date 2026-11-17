@@ -62,6 +62,8 @@ sources:
 notes: "This entry focuses on the prosecutor resignations. The broader destruction of the Public Integrity Section is covered in 2025-02-14--doj-public-integrity-section-gutted-adams-revolt."
 related_events:
 - 2025-02-14--doj-public-integrity-section-gutted-adams-revolt
+approved_names:
+- John Keller
 ---
 
 In the span of 36 hours beginning February 13, 2025, at least seven federal prosecutors resigned rather than comply with orders to drop corruption charges against New York City Mayor Eric Adams -- the largest mass resignation of federal prosecutors in American history, immediately dubbed the "Thursday Afternoon Massacre."

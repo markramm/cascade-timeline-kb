@@ -67,6 +67,10 @@ claims:
     read: fetched
     source_kind: primary
 event_date_claim: c2
+approved_names:
+  - Gregory Donnell Morgan
+  - Gregory Donnell
+  - Morgan Jr
 ---
 
 # Morgan's State Assault Case Is in Federal Court

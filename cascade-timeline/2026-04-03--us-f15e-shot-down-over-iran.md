@@ -51,6 +51,8 @@ status: confirmed
 capture_lanes:
 - Military Capture
 - Executive Power Expansion
+approved_names:
+- Brad Cooper
 ---
 
 On April 3, 2026, an F-15E Strike Eagle was shot down over central Iran — the first manned U.S. combat aircraft lost in the five-week-old war. The Islamic Revolutionary Guard Corps claimed responsibility for downing the jet, which carried a two-member crew. American forces rescued one crew member; a search and rescue mission continued for the second.

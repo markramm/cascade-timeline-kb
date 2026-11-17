@@ -257,6 +257,8 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-17'
+approved_names:
+  - Timothy Carpenter
 ---
 
 On June 22, 2018, the Supreme Court decided *Carpenter v. United States*. Chief Justice Roberts wrote the opinion of the Court, in which Justices Ginsburg, Breyer, Sotomayor and Kagan joined. Justice Kennedy dissented, joined by Justices Thomas and Alito; Justices Thomas, Alito and Gorsuch each wrote a separate dissent. The case came from the Sixth Circuit; the Court reversed and remanded.

@@ -37,6 +37,8 @@ sources:
   tier: 2
 capture_lanes:
 - Intelligence Privatization
+approved_names:
+- Mike McConnell
 ---
 
 Simon & Schuster published Tim Shorrock's "Spies for Hire: The Secret World of Intelligence Outsourcing," the first comprehensive investigation of the intelligence contracting industry. The book drew on years of reporting, interviews with key players in what Shorrock termed the "Intelligence-Industrial Complex," analysis of contractors' annual reports and public filings, and on-the-ground reporting from intelligence industry conferences and investor briefings.

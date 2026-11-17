@@ -139,6 +139,9 @@ claims:
   url: https://www.supremecourt.gov/opinions/17pdf/16-402_h315.pdf
   read: fetched
   source_kind: primary
+approved_names:
+  - Mitch Miller
+  - Held Miller
 ---
 
 ## Opening

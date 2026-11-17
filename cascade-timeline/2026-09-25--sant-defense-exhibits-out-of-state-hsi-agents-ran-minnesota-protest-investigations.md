@@ -166,6 +166,9 @@ coverage:
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
   - url: https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/
     title: "ICE Is Running One of the Largest Anti-Left Surveillance Operations in US History (WIRED, Oct 28, 2026)"
+approved_names:
+  - John Zappone
+  - Kevin Riach
 ---
 
 In the Sant prosecution, the defense response to the government's supplemental brief on CUC Keyhole is dated September 25, 2026. The government's brief had described Keyhole as a certified undercover operation "administered exclusively by the Special Agent in Charge (SAC) for Homeland Security Investigations (HSI) St. Paul." The response: "Nearly all the HSI agents who worked on Operation Puppet Master and Project Whipple Shield were detailed here from other jurisdictions."

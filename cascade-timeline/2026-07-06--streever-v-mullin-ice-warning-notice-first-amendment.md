@@ -135,6 +135,8 @@ claims:
   url: https://www.pbs.org/newshour/nation/new-york-man-suing-after-ice-sent-officers-to-his-home-over-an-email
   read: fetched
   source_kind: secondary
+approved_names:
+  - Renee Nicole
 ---
 
 ## Opening paragraph

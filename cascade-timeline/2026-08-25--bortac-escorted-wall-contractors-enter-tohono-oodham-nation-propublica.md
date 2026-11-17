@@ -309,6 +309,9 @@ corrections:
   now: 'Attributed to ProPublica, and followed by what the court record shows: a government declarant said the contractor was instructed to confine the footprint to the 60-foot Roosevelt Reservation. No court filing read alleges a breach.'
   why: D.D.C. ECF 45, citing Enriquez Decl. para. 13.
   found_by: "editorial verification, 2026-10-13"
+approved_names:
+- Enriquez Deel
+- Henry N. Laxdal
 ---
 
 At 4:59 a.m. on Aug. 25, Tohono O'odham Nation Chairman Verlon Jose received an email from the head of the U.S. Border Patrol's Tucson Sector; Border Patrol wrote that government contractors were en route to conduct soil tests for construction of a 62-mile wall along the Nation's southern boundary (ProPublica). KJZZ reports Jose said armed Border Patrol agents, U.S. Bureau of Indian Affairs officers and other federal entities were in the tribal nation, some wearing tactical gear and masks, and that Border Patrol told his office the pre-construction work will go on for seven to 10 days. ProPublica reports that a trio of Border Patrol supervisors approached, including one representing BORTAC, the agency's special operations wing, and that Jose's statement revealed the Department of Homeland Security had deployed a surveillance blimp and enlisted Mexican security forces to help protect the work crews. ProPublica writes that the contractors' heavy vehicles were all beyond the 60-foot zone that government attorneys assured the judge they would not leave. The court's opinion records a government declarant's statement that the contractor has been instructed to confine the project footprint to the 60-foot federal Roosevelt Reservation.

@@ -38,6 +38,10 @@ sources:
 related_events:
   - 2026-09-20--ice-agent-shoots-venezuelan-delivery-driver-austin-hsi-fbi-investigate
 coverage: []
+approved_names:
+  - Christian Castro
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 ## Opening

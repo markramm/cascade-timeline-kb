@@ -85,6 +85,9 @@ claims:
   outcome: verified
   checked: '2026-11-17'
 editorial_note: 'Edited 2026-11-17: names of line-level agents removed at the editor''s decision; they appear in the cited filings.'
+approved_names:
+  - Kristian Weir
+  - Kevin Riach
 ---
 
 ## Opening

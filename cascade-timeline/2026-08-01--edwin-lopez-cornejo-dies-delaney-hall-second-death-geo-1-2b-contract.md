@@ -43,6 +43,8 @@ sources:
     publisher: "Eyes on ICE"
     date: '2026-08-04'
     tier: 2
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 Edwin Giovanni Lopez-Cornejo, a 41-year-old man from El Salvador, died on August 1, 2026, in ICE custody at the Delaney Hall Detention Facility in Newark, New Jersey, after being denied his epilepsy and diabetes medication. He is the 23rd person to die in ICE custody in 2026 and the second detainee to die at Delaney Hall this year. The 1,000-bed facility operates under a 15-year, $1.2 billion contract between GEO Group and ICE. The death has triggered calls from advocates and elected officials for a federal investigation, and comes days after a House Judiciary Committee oversight hearing examined conditions at the facility. Tier-1 reporting from Documented NY and CNN confirms the death date, the medication-denial allegation, and the contract figure.

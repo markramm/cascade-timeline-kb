@@ -39,6 +39,9 @@ capture_lanes:
 - Intelligence Privatization
 - Regulatory Capture
 - Intelligence Penetration
+approved_names:
+- Mike McConnell
+- Ronald Sanders
 ---
 
 By 2008, the Bush administration had privatized 70% of the intelligence budget to private contractors, creating a 'shadow intelligence community' with unprecedented corporate access to classified information. Associate DNI Ronald Sanders confirmed that 37,000 'core' intelligence contractors represented 27% of the intelligence community workforce, with companies like Booz Allen Hamilton, SAIC, and CACI gaining dominant positions. Intelligence spending grew dramatically post-9/11. Half of Booz Allen's 25,000 employees held top secret clearances, while SAIC ran major NSA programs including the failed Trailblazer project. The privatization created security vulnerabilities exposed when Edward Snowden, a Booz Allen contractor, leaked classified NSA documents in 2013. A revolving door emerged between government and contractors, with figures like Mike McConnell moving from NSA Director to Booz Allen to DNI and back to Booz Allen. This transformation moved U.S. intelligence from primarily government-operated to majority contractor-operated within a single decade, undermining democratic accountability of core national security functions.

@@ -85,6 +85,9 @@ claims:
   url: https://www.fetterman.senate.gov/wp-content/uploads/2026/09/2026.09.01_Fetterman-Letter-to-ICE-Delayed-Payments-to-Medical-Service-Providers.pdf
   read: fetched
   source_kind: primary
+approved_names:
+  - Francisco Gaspar Andres
+  - Francisco Gaspar-Andres
 ---
 
 ## Opening paragraph

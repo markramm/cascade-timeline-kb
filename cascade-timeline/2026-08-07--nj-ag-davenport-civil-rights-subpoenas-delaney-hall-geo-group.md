@@ -31,6 +31,8 @@ sources:
     publisher: NJBIZ
     date: '2026-06-02'
     tier: 2
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 New Jersey Attorney General Jennifer Davenport announced on August 7, 2026 that the state's Division on Civil Rights had issued investigative subpoenas concerning Delaney Hall, the roughly 1,000-bed ICE detention facility in Newark operated by GEO Group under a 15-year, $1 billion contract. The subpoenas mark an escalation in kind, not merely degree: the state moved from litigating a specific access dispute — the June 2 civil suit filed after GEO barred health inspectors from sleeping areas and medical units during a May 28 visit — to a standing civil rights investigation of the facility's practices as such, with compulsory process attached.

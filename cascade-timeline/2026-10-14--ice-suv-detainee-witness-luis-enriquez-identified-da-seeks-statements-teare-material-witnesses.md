@@ -73,6 +73,10 @@ sources:
   publisher: ABC News (via Yahoo)
   date: '2026-10-14'
   tier: 2
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 At a FIEL Houston news conference on Wednesday, October 14, 2026 (event date), attorney Kim Bruno, who represents both Miguel Parra-Hernandez and Luis Enriquez, identified Enriquez as one of the two men handcuffed in the back of the ICE SUV when it struck Parra-Hernandez, and said the Harris County District Attorney's Office is working to obtain his statement. FIEL's director said both men are held at a Montgomery County detention facility. Separately, DA Sean Teare told ABC News he had told federal authorities the two men are material witnesses, and had said the day before that his office would sponsor their U-visa petitions. Their firsthand accounts had not been made public as of this reporting, and no source reviewed shows either has been removed. Whether federal custody lets the DA reach them before any removal is the open question; the detainee's immigration details come from his sister and were not independently verified by KPRC.

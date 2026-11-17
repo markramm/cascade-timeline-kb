@@ -37,6 +37,8 @@ sources:
     publisher: UCLA School of Law
     date: '2026-08-13'
     tier: 1
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 At least 24 people had died in ICE custody in 2026 as of mid-August, with counts including post-release deaths reaching 26 through the first seven months — a pace roughly 25 percent above 2025, which itself recorded 33 deaths, the highest total in more than two decades. Edwin Lopez-Cornejo, a 41-year-old Salvadoran citizen, died August 1, 2026 at University Hospital in Newark after detention at Delaney Hall. The surge tracks the detention population, which exceeded 60,000 by early April 2026. Independent trackers have proliferated in response to the gap in official reporting: NIPNLG's named-deaths list, the San Francisco Chronicle's database, and UCLA Law's Behind Bars Data Project, which compiled the first full dataset on deaths in ICE custody.

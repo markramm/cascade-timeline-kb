@@ -21,6 +21,9 @@ importance: 10
 participants:
 - Pam Bondi
 - FBI
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 
 Attorney General Pam Bondi issues a memorandum to all U.S. law enforcement agencies on December 4, 2025, instructing the DOJ to compile a list of groups or entities engaged in acts that may constitute domestic terrorism — with a dramatically expanded definition that encompasses political dissent, protest activity, and ideological positions previously protected by the First Amendment. The memo, leaked to journalist Ken Klippenstein, identifies as potential domestic terrorism: opposition to law and immigration enforcement, extreme views in favor of mass migration and open borders, adherence to radical gender ideology, anti-Americanism, anti-capitalism, anti-Christianity, and hostility towards traditional views on family, religion and morality.

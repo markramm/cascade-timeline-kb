@@ -127,6 +127,10 @@ related:
 - 2026-07-07--ice-kills-lorenzo-salgado-araujo-houston-narrative-collapse
 - 2026-10-10--ice-agent-strikes-miguel-parra-hernandez-with-vehicle-houston-pursuit
 summary: Houston Mayor John Whitmire signed an executive order Friday limiting police contact with ICE to people being arrested on a jailable offense, days after Gov. Greg Abbott lost reelection; HPD will no longer contact ICE on an administrative warrant when no arrest is made.
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 Houston Mayor John Whitmire signed an executive order Friday limiting police cooperation with ICE, days after Gov. Greg Abbott lost reelection, Axios Houston reported. Under the directive, Houston police will contact ICE only when someone is being arrested on a jailable offense. "HPD will no longer contact ICE if they have an administrative warrant and they are not arrested," Police Chief Noe Diaz said. Under the previous policy, officers were instructed to wait a "reasonable amount of time" for federal agents to respond. Whitmire said he did it to "reduce fear and anxiety across our community," and told reporters: "Elections matter." Abbott's office did not respond to a request for comment.

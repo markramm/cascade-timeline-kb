@@ -33,6 +33,8 @@ sources:
     tier: 1
 capture_lanes:
   - Democratic Erosion
+approved_names:
+  - Renee Nicole
 ---
 
 On January 31, 2026, 154 bishops of The Episcopal Church released a joint letter — and an accompanying video, with bishops reading the text aloud on camera — titled "Whose Dignity Matters? A Letter to Our Fellow Americans." The letter mourned Renée Good and Alex Pretti, two US citizens killed by federal agents during Operation Metro Surge in Minneapolis, naming them by name as "two precious lives lost to state-sanctioned violence." Renée Nicole Macklin Good, a mother of three, was shot three times after an encounter with ICE agents on January 7; Alex Pretti, a 37-year-old ICU nurse at a Minneapolis VA hospital, was pinned to the ground and shot in the back during a confrontation with federal immigration officers, his killing captured on video.

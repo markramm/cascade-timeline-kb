@@ -268,6 +268,9 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Ryan Doxsey
+- Margaret Wood
 ---
 On September 18, 2026 (order date), Judge Katherine M. Menendez of the District of Minnesota granted the government's motion to dismiss the amended complaint in Tincher v. Mullin (formerly Tincher v. Noem; the RECAP docket is captioned Doxsey v. Mullin), the suit brought by people who observed, recorded and protested immigration enforcement during Operation Metro Surge. All named plaintiffs were dismissed without prejudice for lack of jurisdiction, and the motion for jurisdictional discovery was denied.
 

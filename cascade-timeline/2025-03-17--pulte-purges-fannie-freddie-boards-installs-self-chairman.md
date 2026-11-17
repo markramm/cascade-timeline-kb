@@ -153,6 +153,19 @@ claims:
   url: https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors
   read: fetched
   source_kind: secondary
+approved_names:
+  - Amy Alving
+  - Brandon Hamara
+  - Chetlur Ragavan
+  - Christopher Brummer
+  - Christopher Stanley
+  - Diane Lye
+  - Diane Nordin
+  - Jane Prokop
+  - Luke Hayden
+  - Michael Heid
+  - Michael Seelig
+  - Simon Johnson
 ---
 
 # Pulte Purges Fannie Mae and Freddie Mac Boards, Installs Himself as Chairman of Both GSEs

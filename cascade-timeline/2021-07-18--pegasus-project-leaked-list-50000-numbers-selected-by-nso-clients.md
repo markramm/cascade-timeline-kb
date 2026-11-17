@@ -226,6 +226,8 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+- Hatice Cengiz
 ---
 
 The Pegasus Project, a collaboration by more than 80 journalists from 17 media organizations in 10 countries coordinated by Forbidden Stories, with technical support from Amnesty International's Security Lab, published reporting built on a leaked list of more than 50,000 phone numbers. Forbidden Stories describes them as numbers selected for surveillance by NSO Group's customers. NSO Group contends that the reporting rested on "wrong assumptions" and a "misleading interpretation of leaked data", and says the list does not show who its clients targeted. A number on the list is a selection, not an infection.

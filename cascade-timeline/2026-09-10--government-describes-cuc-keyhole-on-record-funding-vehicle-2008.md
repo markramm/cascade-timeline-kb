@@ -521,6 +521,8 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-17'
+approved_names:
+  - Isaac Sant
 ---
 
 The government's supplemental brief (Doc. 263, filed 09/10/26) describes CUC Operation Keyhole. In its words, after the August 27, 2026 discovery hearing "it became clear how important" Keyhole is to the defendants' motion for discovery. The government moved for leave on September 1, 2026; Magistrate Judge David Schultz granted it on September 2, 2026 and set a deadline of September 11, 2026.

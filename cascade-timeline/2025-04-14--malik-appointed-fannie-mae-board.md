@@ -172,6 +172,22 @@ claims:
   url: https://www.npr.org/2026/02/03/nx-s1-5615175/fannie-freddie-housing-pulte-trump-donors
   read: fetched
   source_kind: secondary
+approved_names:
+  - Sánchez Rodríguez
+  - Amy Alving
+  - Barry Habib
+  - Brandon Hamara
+  - Chetlur Ragavan
+  - Christopher Brummer
+  - Christopher Stanley
+  - Diane Lye
+  - Diane Nordin
+  - Karin J. Kimbrough
+  - Michael Heid
+  - Michael Seelig
+  - Renée L. Glover
+  - Scott D. Stowell
+  - Simon Johnson
 ---
 
 # Pulte Appoints 1789 Capital's Omeed Malik to Fannie Mae Board

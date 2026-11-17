@@ -50,6 +50,9 @@ sources:
   outlet: Global News
   date: '2026-01-08'
   tier: 1
+approved_names:
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 On January 8, 2026 — the day after ICE agent Jonathan Ross shot and killed Renee Nicole Good on a residential Minneapolis street — Vice President JD Vance appeared at a White House briefing and declared her death "a tragedy of her own making." Vance posted on social media: "You can accept that this woman's death is a tragedy while acknowledging it's a tragedy of her own making. Don't illegally interfere in federal law enforcement operations and try to run over our officers with your car." Vance also said that Americans should "thank" the ICE agent who fired the shots, portraying Ross — not Good — as the victim.

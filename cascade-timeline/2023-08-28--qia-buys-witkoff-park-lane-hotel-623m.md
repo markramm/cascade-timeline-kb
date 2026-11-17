@@ -33,6 +33,8 @@ capture_lanes:
 - Foreign State Capital Flow
 - Pre-Appointment Capital Predicate
 - Family-Loyalty Capture Pipeline
+approved_names:
+- Patel Trishul
 ---
 
 On August 28, 2023, the Qatar Investment Authority (QIA) — Qatar's $475B sovereign wealth fund controlled by the Al Thani ruling family — purchased the Park Lane Hotel on Manhattan's Central Park South from a partnership controlled by Steve Witkoff's Witkoff Group for **$623 million**. The purchase resolved a multi-year financing crisis at Park Lane and materially restored Witkoff Group's balance sheet.

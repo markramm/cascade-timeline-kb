@@ -144,6 +144,10 @@ sources:
   publisher: Eyes on ICE
   date: '2026-10-16'
   tier: 3
+approved_names:
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 At a news conference on Friday, the Houston immigrant-rights group FIEL said the man ICE released a photo of as the target of the pursuit in which an ICE vehicle struck Miguel Parra Hernandez is actually Jose Hector Jimenez, who died years ago while being pursued by federal immigration authorities as he was trying to reenter the U.S., according to FIEL. A Harris County District Attorney's Office spokesperson told the Associated Press that the man ICE had named as its target was not in the vehicle, and FIEL's executive director said the dead man's daughter provided his Mexican death certificate, which has been turned over to the district attorney. Eyes on ICE, a Substack, reports the certificate gives his death as October 2017 and that the New York Times cross-referenced family photographs against the DHS bulletin and found they appeared to show the same man; we did not read the Times piece or the certificate. ICE did not respond to requests for comment on Friday.

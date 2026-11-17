@@ -56,6 +56,7 @@ coverage:
 - daily-capture-reports/feed/2026-09-04--ice-agent-christian-castro-pleads-not-guilty-minneapolis-shooting-false-statements.md
 approved_names:
 - Julio Cesar Sosa-Celis
+- Christian Castro
 name_approval: 'Mark 2026-10-27: name the shooting victim'
 ---
 

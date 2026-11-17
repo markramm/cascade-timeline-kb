@@ -179,6 +179,8 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: minnesota-v-doj-evidence-sharing
+approved_names:
+  - Drew Evans
 ---
 
 On October 13, 2026, Minnesota filed its opposition to the federal motion to dismiss, plus a cross-motion for summary judgment, in *State of Minnesota v. U.S. Department of Justice*, No. 1:26-cv-01007-EGS (D.D.C., Judge Emmet G. Sullivan). The filings, with sworn declarations from BCA Superintendent Drew Evans and Hennepin County Attorney Mary Moriarty, are the first sworn account of how a short-lived evidence-sharing deal collapsed. CNN reported them on October 15.

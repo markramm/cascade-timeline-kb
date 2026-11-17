@@ -81,6 +81,9 @@ coverage:
     title: "The ICE Transformation: Four Thresholds America Has Already Crossed"
   - url: "https://theramm.transparencycascade.org/p/the-architect-stephen-miller-now"
     title: "The Architect: Stephen Miller Now Decides Who Reaches Trump"
+approved_names:
+- Renee Nicole
+- Renee Nicole Good
 ---
 
 ICE agent Jonathan Ross shoots and kills Renee Nicole Good, 37, during an Operation Metro Surge immigration enforcement action in Minneapolis. Good was a poet and a mother of three who graduated from Old Dominion University in 2020; family and friends told ABC News she was a stay-at-home mom. She and her wife, Becca Good, had dropped her six-year-old son at school that morning. Becca Good said they "stopped to support our neighbors."

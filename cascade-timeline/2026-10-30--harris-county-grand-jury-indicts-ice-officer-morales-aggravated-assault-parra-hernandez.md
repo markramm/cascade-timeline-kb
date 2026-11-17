@@ -95,6 +95,11 @@ tags:
 - ice-recruitment
 - indictment
 summary: A Harris County grand jury indicted ICE officer Mario Alberto Morales, 33, on a Friday on a charge of aggravated assault with a deadly weapon, alleging he drove into Miguel Parra Hernandez, who was on foot, in Houston on Oct. 10. His attorney says ICE hired him in August 2025 (no agency confirmation in the reporting read); Texas prison officials say he resigned in 2018 while on probation for falsification of records. ICE calls the allegation the strike was intentional "RECKLESS and FALSE."
+approved_names:
+- Mario Alberto Morales
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 A Texas grand jury indicted ICE officer Mario Alberto Morales on a charge of aggravated assault with a deadly weapon, alleging he drove his vehicle into Miguel Parra Hernandez, who was on foot, earlier in October in Houston. The indictment was returned by a Harris County grand jury Friday morning, District Attorney Sean Teare said ([NBC News](https://www.nbcnews.com/news/us-news/ice-agent-indicted-striking-injuring-immigrant-vehicle-houston-rcna606370)). An indictment is an accusation.

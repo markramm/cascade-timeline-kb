@@ -82,6 +82,8 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-16'
+approved_names:
+  - Ashley St
 ---
 
 On May 7, 2026, Ashley St. Clair — a 27-year-old former Turning Point USA brand ambassador who had built an X following exceeding one million, authored an anti-transgender children's book, appeared on Fox News, and visited Mar-a-Lago for photos — published documentation through TikTok monologues and shared direct-message screenshots that confirms an institutional pattern long suspected by researchers studying right-wing online networks: that prominent MAGA online advocates presented as grassroots activists are coordinated through synchronized talking-point distribution from administration officials and congressional Republicans, and compensated through influencer-marketing platforms with thousands of dollars per post.

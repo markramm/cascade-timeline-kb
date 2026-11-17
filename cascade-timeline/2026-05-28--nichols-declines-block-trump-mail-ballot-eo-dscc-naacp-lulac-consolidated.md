@@ -96,6 +96,9 @@ claims:
   url: https://www.pbs.org/newshour/politics/federal-judge-refuses-to-block-trump-order-to-create-federal-voter-list-and-limit-mail-voting
   read: fetched
   source_kind: secondary
+approved_names:
+- Danielle Lang
+- Stephen M. Pezzi
 ---
 
 ## What happened

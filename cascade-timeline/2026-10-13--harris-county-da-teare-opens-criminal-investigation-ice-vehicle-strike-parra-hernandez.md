@@ -427,6 +427,11 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
+approved_names:
+- Mario Alberto Morales
+- Miguel Parra Hernandez
+- Miguel Parra-Hernandez
+- Miguel Parra
 ---
 
 Harris County District Attorney Sean Teare said on Tuesday that his office has opened a criminal investigation of the Saturday incident in which an ICE vehicle struck Miguel Parra-Hernandez, and that prosecutors are looking at the possibility of aggravated assault with a deadly weapon. Teare said "that individual was intentionally struck and run over," and told KTRK-TV that "a charging decision is going to come in a relatively short order in this case." He also said that when investigators tried to tow the ICE vehicle for a search warrant, an officer allegedly left the scene in it. ICE called the allegation that the strike was intentional "reckless and false," and a DHS official told NBC News that ICE is reviewing video of the scene as part of an internal investigation. No charge has been filed in the sources reviewed, and the intent finding is the district attorney's position, not a ruling.

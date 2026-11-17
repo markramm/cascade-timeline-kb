@@ -96,6 +96,8 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-arrest-surge
+approved_names:
+  - Edwin Lopez-Cornejo
 ---
 
 ICE detained more than 46,000 people in July 2026 — the highest single-month total of the Trump second term — as Enforcement and Removal Operations widened its target set across visa overstays and illegal entry. ICE in-custody deaths reached at least 24 for 2026, including 41-year-old Salvadoran national Edwin Lopez-Cornejo, who died at GEO Group's Delaney Hall facility in Newark, NJ on August 1. The 2026 pace is tracking to exceed 2025, already the deadliest year on record for ICE custody.

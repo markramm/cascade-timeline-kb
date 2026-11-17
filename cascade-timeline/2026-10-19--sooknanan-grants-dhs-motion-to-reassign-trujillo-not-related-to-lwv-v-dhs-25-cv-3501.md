@@ -75,6 +75,8 @@ related_events:
 - 2026-10-15--doj-sues-california-weber-la-county-logan-cd-cal-2-26-cv-12025-block-tabulating-ballots-of-20000-flagged-voters
 capture_lanes:
 - Civil Rights Suppression
+approved_names:
+- Pedro Trujillo
 ---
 
 Trujillo v. DHS was brought by the Coalition for Humane Immigrant Rights and Pedro Trujillo. Their emergency TRO and preliminary-injunction application targets what they call the Alleged Non-Citizen Removal Policy: a letter to California officials, which the plaintiffs say demands removal of flagged voters, with a "segregate not cancel" instruction for mail ballots.

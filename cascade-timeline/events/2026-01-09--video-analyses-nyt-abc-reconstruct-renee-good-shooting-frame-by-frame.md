@@ -58,6 +58,9 @@ sources:
   outlet: Wikipedia
   date: '2026-01-20'
   tier: 1
+approved_names:
+  - Renee Nicole
+  - Renee Nicole Good
 ---
 
 On January 9, 2026 — two days after ICE agent Jonathan Ross shot and killed Renee Nicole Good, a 37-year-old poet and mother of three, on a residential Minneapolis street — ABC News and The Washington Post published concurrent forensic reconstructions of the killing using video metadata and witness footage. ABC News established through frame-by-frame analysis that 399 milliseconds elapsed between the first and second shots, and 299 milliseconds between the second and third shots, for a total active firing window of approximately 698 milliseconds. Both outlets found that Ross fired the first shot through the windshield — a non-fatal wound — then repositioned to the driver's-side window to fire the two subsequent, fatal shots. Good's steering wheel was visibly turning to the right, away from Ross, more than one second before the first shot was fired.

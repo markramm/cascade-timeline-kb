@@ -67,6 +67,8 @@ capture_lanes:
 - Mediterranean Luxury Development and Displacement-Adjacent Real Estate
 - Foreign-State-Entity Project Structured as Private
 - Qatar-Kushner Sustained Partnership
+approved_names:
+- Patel Trishul
 ---
 
 On **April 19, 2026**, the **New York Times** published an investigation revealing that **"Sazan Operations"** — the Albanian corporate entity behind Jared Kushner and Ivanka Trump's **€1.4 billion luxury resort project** on Sazan Island — is **100% owned by Qatari billionaires Ramez and Mohamad Al-Khayyat**. **Ramez Al-Khayyat confirmed the Kushner partnership** directly to the NYT. The revelation closes a significant information gap: the Sazan Island project had been publicly framed as a Kushner/Affinity Partners venture without disclosure of the specific Qatari capital source behind its operating entity.

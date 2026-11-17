@@ -138,6 +138,8 @@ related_events:
   - 2026-04-16--moriarty-charges-ice-agent-morgan-assault-minnesota
   - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
   - 2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting
+approved_names:
+  - Christian Castro
 ---
 
 Hennepin County Attorney Mary Moriarty's office announced state charges against ICE agent **Christian Castro** on **5/18/2026** (release date) over the **Jan. 14** shooting of **Julio Sosa-Celis** in north Minneapolis: **four counts of second-degree assault and one count of falsely reporting a crime**, case number **27-CR-26-12537**. This is the state charge, a different occurrence from the federal false-statement indictment unsealed in September.
