@@ -21,7 +21,6 @@ actors:
   - Alliance of Baptists
   - Department of Homeland Security
   - Homeland Security Investigations
-  - Katherine Wespetal
   - Hakan Catalan
   - F. Dennis Saylor IV
 sources:
@@ -51,7 +50,7 @@ Operation Puppet Master — the church plaintiffs in *New England Synod, ELCA v.
 
 Attached as **Exhibit 1**: an HSI Report of Investigation from **Project Whipple Shield**, case
 number `MS02PR26MS0004`, ROI `MS02PR26MS0004-193`, approved **June 4, 2026** — reported by
-**SA Katherine Wespetal**, approved by **SSA Hakan Catalan**, the same pair who appear across the
+**a special agent**, approved by **SSA Hakan Catalan**, the same supervisor who appears across the
 Minnesota exhibit set.
 
 **This is a second, independent litigation surface for the same surveillance program.** Until now
@@ -118,3 +117,5 @@ check it against. See [[2026-04-08--hsi-undercover-operation-zion-lutheran-churc
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
 - [[litigation-surface-search-strategy-and-the-wider-pattern]]
 - [[criminalizing-dissent-the-descending-gradient]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

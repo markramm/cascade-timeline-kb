@@ -105,28 +105,34 @@ verification: captured
 claims:
 - id: c0
   type: figure
-  value: "10 years"
-  qualifier: "bodily injury"
-  span: "Under the FACE Act, violators who cause such bodily injury may be imprisoned for up to 10 years."
+  value: 10 years
+  qualifier: bodily injury
+  span: Under the FACE Act, violators who cause such bodily injury may be imprisoned for up to 10 years.
   url: https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c1
   type: date
-  value: "Enforcement Act of 1870"
-  qualifier: "origins"
-  span: "The statute traces its origins to the Enforcement Act of 1870"
+  value: Enforcement Act of 1870
+  qualifier: origins
+  span: The statute traces its origins to the Enforcement Act of 1870
   url: https://www.lawfaremedia.org/article/minnesota-face-off--a-deep-dive-into-the-st.-paul-church-protest-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c2
   type: date
-  value: "Jan. 29"
-  qualifier: "Lemon arrested"
-  span: "Lemon was arrested on Jan. 29 in a hotel lobby in Beverly Hills"
+  value: Jan. 29
+  qualifier: Lemon arrested
+  span: Lemon was arrested on Jan. 29 in a hotel lobby in Beverly Hills
   url: https://minnesotareformer.com/2026/02/13/don-lemon-cities-church-protestors-plead-not-guilty-in-federal-court-in-minnesota/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 ---
 
 A federal grand jury in the District of Minnesota returned an indictment on January 29, 2026 against nine participants in the January 18 protest at Cities Church in St. Paul, charging them under two federal statutes: 18 U.S.C. § 241 (Conspiracy Against Rights, a Reconstruction-era statute enacted as part of the Enforcement Act of 1870) and 18 U.S.C. § 248(a)(2) (the FACE Act's religious-worship provision). On February 26, 2026, a superseding indictment expanded the defendant pool to 39 people. The case is *United States v. Levy-Armstrong et al.*, Docket No. 0:26-cr-00025 (D. Minn.), assigned to District Judge Laura M. Provinzino with Magistrate Judge Douglas L. Micko.
@@ -168,7 +174,7 @@ A federal grand jury in the District of Minnesota returned an indictment on Janu
 | Arraignment — Lemon, Levy-Armstrong, and five others (not guilty pleas) | February 13, 2026 |
 | Superseding indictment filed | February 26, 2026 |
 | Superseding indictment unsealed / Bondi announcement | February 27, 2026 |
-| Heather Danielle Lewis charges dismissed with prejudice (mistaken identity) | March 23, 2026 |
+| One defendant's charges dismissed with prejudice (mistaken identity) | March 23, 2026 |
 | Additional arraignments (March 19, 23, 24, 25 — Courtroom 6B) | March 2026 |
 | Magistrate Micko orders unredacted discovery production | May 14, 2026 |
 | Discovery compliance deadline | May 22, 2026 |
@@ -224,3 +230,5 @@ Separately, at least four states enacted laws in 2026 criminalizing disruption o
 ## Correction, 2026-11-16
 
 Changed the wording from *zero federal charges for the ICE killing of Renee Good (January 7) and Alex Pretti (January 24)* to *zero federal charges for the killing of Renee Good by an ICE officer (January 7) or of Alex Pretti by Border Patrol (January 24)*. Alex Pretti was killed by Border Patrol, not ICE (CBS News, the judge's preservation order coverage; the entry on his killing carries the full record). The sentence named ICE for both deaths. It now names the agency for each.
+
+*Edited 2026-11-17: the name of a private person removed at the editor's decision; it appears in the cited filings.*

@@ -17,7 +17,6 @@ tags:
 actors:
   - Homeland Security Investigations
   - Immigration and Customs Enforcement
-  - Jacob Marquis
   - Hakan Catalan
   - Kristian Weir
   - Kevin Riach
@@ -67,20 +66,24 @@ verification: captured
 claims:
 - id: c0
   type: attribution
-  value: "Operation Keyhole"
-  qualifier: ""
-  span: "Through initiatives dubbed 'Operation Keyhole,' 'Operation Puppet Master,' and 'Project Whipple Shield,' undercover agents infiltrated"
+  value: Operation Keyhole
+  qualifier: ''
+  span: Through initiatives dubbed 'Operation Keyhole,' 'Operation Puppet Master,' and 'Project Whipple Shield,' undercover agents infiltrated
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.234.1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c1
   type: attribution
-  value: "details of Operation Keyhole and Operation Puppet Master"
-  qualifier: ""
-  span: "details of Operation Keyhole and Operation Puppet Master"
+  value: details of Operation Keyhole and Operation Puppet Master
+  qualifier: ''
+  span: details of Operation Keyhole and Operation Puppet Master
   url: https://www.mprnews.org/story/2026/08/28/lawyer-for-anti-ice-activists-makes-case-for-release-of-details-federal-surveillance
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 ---
 
 ## Opening
@@ -261,3 +264,5 @@ Full detail: [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-ve
 - [[criminalizing-dissent-the-descending-gradient]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 - [[keyhole-certification-handbook-and-docket-watch-2026-08-31]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

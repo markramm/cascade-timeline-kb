@@ -104,36 +104,44 @@ verification: captured
 claims:
 - id: c0
   type: quote
-  value: "includes information on Michigan church members who were not part of the targeted Minnesota activist group"
-  qualifier: ""
-  span: "The agent's report includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE."
+  value: includes information on Michigan church members who were not part of the targeted Minnesota activist group
+  qualifier: ''
+  span: The agent's report includes information on Michigan church members who were not part of the targeted Minnesota activist group but who attended the event because they opposed ICE.
   url: https://wordandway.org/2026/08/14/department-of-homeland-security-spied-on-churches-in-the-twin-cities/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c1
   type: attribution
-  value: "five times DHS agents entered a church building"
-  qualifier: "Zion Lutheran Church in Ann Arbor, Michigan, on April 8"
-  span: "five times DHS agents entered a church building: at First Universalist Church in Minneapolis on Dec. 13, at Prince of Peace Lutheran Church in Roseville on Feb. 1, at Zion Lutheran Church in Ann Arbor, Michigan, on April 8"
+  value: five times DHS agents entered a church building
+  qualifier: Zion Lutheran Church in Ann Arbor, Michigan, on April 8
+  span: 'five times DHS agents entered a church building: at First Universalist Church in Minneapolis on Dec. 13, at Prince of Peace Lutheran Church in Roseville on Feb. 1, at Zion Lutheran Church in Ann Arbor, Michigan, on April 8'
   url: https://wordandway.org/2026/08/17/in-worship-and-in-court-churches-respond-to-dhs-spying-in-their-buildings/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c2
   type: figure
-  value: "75 to 100"
-  qualifier: "approximately"
-  span: "The report says that the undercover agent attended the event, which brought approximately 75 to 100 attendees."
+  value: 75 to 100
+  qualifier: approximately
+  span: The report says that the undercover agent attended the event, which brought approximately 75 to 100 attendees.
   url: https://michiganadvance.com/2026/08/18/documents-show-undercover-dhs-presence-at-ann-arbor-ice-resistance-event-in-april/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 - id: c3
   type: figure
-  value: "two dozen events"
-  qualifier: "total"
-  span: "a total of two dozen events"
+  value: two dozen events
+  qualifier: total
+  span: a total of two dozen events
   url: https://crimethinc.com/2026/03/23/breaking-the-ice-lessons-from-the-resistance-in-minnesota-a-countrywide-speaking-tour
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 ---
 
 ## Opening
@@ -232,7 +240,7 @@ ever contested.
 
 - ~~The identity of the HSI Special Agent in Charge, Saint Paul who originated the collateral request~~ **PARTLY RESOLVED**: Steven Schrank signed two financial summonses as SAC Saint Paul on March 7 and March 9, 2026 (Docs. 212-6, 212-8); no document places him in post on April 6, 2026, when the collateral request originated, and Sant's defence filing (Doc. 271 pp.13-14) says Schrank and Mark Zito were detailed to St. Paul as acting SACs from Atlanta and Kansas City (a defence assertion, not government-confirmed). See [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - Whether the other "Breaking the ICE" tour stops drew comparable collateral tasking — still open; the retrieved 31-document set contains no other collateral-case ROIs.
-- ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SAs Jacob Marquis, Katherine Wespetal, Timothy Gorman, and Terri Botterbusch as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
+- ~~Whether Herrgott or Pugh appear in other ROIs in this discovery set~~ **RESOLVED 2026-08-20**: Neither appears elsewhere in Doc. 212's 31 attachments. Herrgott and Pugh's roles were specific to the single Ann Arbor collateral case (DDO2PR26MS0003); the Minnesota-based Puppet Master/Whipple Shield ROIs are approved throughout by SSA Hakan Catalan instead, with SA Timothy Gorman and three other special agents as reporting agents. Full roster in [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]].
 - ~~Whether UCA 9759 is the same undercover agent reported by The Intercept as having offered to "build items" for direct action to a Sunrise organizer after a January 31 training~~ **RESOLVED 2026-08-20, negative**: ROI 212-11 (the Jan 31 Sunrise Movement training) shows the "build items" offer was made by **UCA 9833**, not UCA 9759. UCA 9759's only other confirmed appearance is alongside UCA 5022 at a Feb 2 50501 Minnesota meeting. They are distinct operatives.
 - Whether Zion Lutheran or the Southeast Michigan Synod has taken or is considering legal action — still open.
 - ~~Whether this operation ran on CUC Op Keyhole's authorization~~ **RESOLVED 2026-09-14 — almost certainly NOT.** See the case-number section below. **Reopened in part 2026-09-16**: the operative was a Puppet Master UCA; see "Who UCA 9759 was."
@@ -298,3 +306,5 @@ Verified by OCR of the primary exhibits, 2026-09-16:
 - [[2026-09-10--government-describes-cuc-keyhole-on-record-funding-vehicle-2008]]
 - [[2026-01-28--puppet-master-accepted-under-cuc-op-keyhole]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

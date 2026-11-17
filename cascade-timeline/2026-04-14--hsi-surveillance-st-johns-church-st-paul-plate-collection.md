@@ -18,15 +18,8 @@ tags:
   - dhs
 actors:
   - Homeland Security Investigations
-  - Katherine Wespetal
   - Josh Schottenfeld
   - Hakan Catalan
-  - Bradley Grant
-  - Daniel Malik
-  - Michael Leung
-  - Marco Saltarelli
-  - Jason Prasnikar
-  - Richard Greene
   - Direct Action Minnesota
 sources:
   - title: "HSI Report of Investigation, Case MS02PR26MS0004, ROI MS02PR26MS0004-147, 'Surveillance of UCA meeting on April 14, 2026'"
@@ -53,25 +46,25 @@ On April 14, 2026, at approximately 1715 hours, a Homeland Security Investigatio
 The Report of Investigation is unredacted on its accountability block:
 
 - **Composed by**: Acting Group Supervisor Josh Schottenfeld
-- **Uploaded by**: Special Agent Katherine Wespetal
+- **Uploaded by**: an HSI special agent
 - **Approved by**: Hakan Catalan, Supervisory Special Agent
 - **Date approved**: April 23, 2026 — nine days after the operation
 
 ## What Happened
 
-**The tasking.** SOG 2207 agents positioned themselves around the church starting at 1715 hours, ahead of the meeting's 1800 start. At 1802 hours, SA Bradley Grant confirmed the undercover agent had been dropped off near the church and was approaching on foot.
+**The tasking.** SOG 2207 agents positioned themselves around the church starting at 1715 hours, ahead of the meeting's 1800 start. At 1802 hours, an HSI special agent (SA) confirmed the undercover agent had been dropped off near the church and was approaching on foot.
 
-**The plate collection.** At approximately 1830 hours, SA Daniel Malik (driving) and SA Michael Leung (passenger) drove into a parking lot on the southwest corner of an address redacted in the filed document, in St. Paul, to collect license plates of vehicles parked there. The ROI states plainly why that lot: "Information obtained from past meetings indicated individuals attending the meeting were instructed to park in this lot." SA Leung recorded two videos of the lot, logged in the report as Exhibit 1 and Exhibit 2, and ran registration checks on the vehicles present. A note appended to the ROI states the results of those checks were compiled into a separate document, also produced to the defense, titled "Registration_checks_from_4.14.26_surveillance.docx" — meaning a full roster of vehicle owners who parked at a church for a community meeting was assembled as a distinct federal work product.
+**The plate collection.** At approximately 1830 hours, two special agents, one driving and one a passenger, drove into a parking lot on the southwest corner of an address redacted in the filed document, in St. Paul, to collect license plates of vehicles parked there. The ROI states plainly why that lot: "Information obtained from past meetings indicated individuals attending the meeting were instructed to park in this lot." The passenger recorded two videos of the lot, logged in the report as Exhibit 1 and Exhibit 2, and ran registration checks on the vehicles present. A note appended to the ROI states the results of those checks were compiled into a separate document, also produced to the defense, titled "Registration_checks_from_4.14.26_surveillance.docx" — meaning a full roster of vehicle owners who parked at a church for a community meeting was assembled as a distinct federal work product.
 
-**An attendee confronted the agents, and was noted for it.** At approximately 1840, SA Marco Saltarelli and SA Jason Prasnikar, seated in Saltarelli's government vehicle, were approached by an unidentified man who asked if they were ICE. Saltarelli pointed to a safety vest and hard hat in the vehicle and told him they were not. The man said okay, but that he would "make sure their license plate was cleared" — bystander counter-surveillance, itself now preserved in a federal investigative file.
+**An attendee confronted the agents, and was noted for it.** At approximately 1840, two other special agents, seated in one agent's government vehicle, were approached by an unidentified man who asked if they were ICE. That agent pointed to a safety vest and hard hat in the vehicle and told him they were not. The man said okay, but that he would "make sure their license plate was cleared" — bystander counter-surveillance, itself now preserved in a federal investigative file.
 
-**Close of surveillance.** At 1948 hours, SA Richard Greene confirmed the undercover agent was clear of the area. Surveillance was terminated at 1950. The report closes: "This investigation continues."
+**Close of surveillance.** At 1948 hours, a special agent confirmed the undercover agent was clear of the area. Surveillance was terminated at 1950. The report closes: "This investigation continues."
 
 ## Why It Matters
 
-**This is a perimeter operation, not an infiltration narrative — and that is the point.** Unlike the Ann Arbor ROI (see [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]), which recorded what was said and by whom inside a sanctuary, this report documents a different apparatus layer: six named agents deployed to watch a church's parking lot, log video of vehicles, and run plates — pure movement- and identity-mapping, assembled into a database of who showed up to a community meeting at a church, deliverable as a stand-alone spreadsheet-equivalent document.
+**This is a perimeter operation, not an infiltration narrative — and that is the point.** Unlike the Ann Arbor ROI (see [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]), which recorded what was said and by whom inside a sanctuary, this report documents a different apparatus layer: six agents deployed to watch a church's parking lot, log video of vehicles, and run plates — pure movement- and identity-mapping, assembled into a database of who showed up to a community meeting at a church, deliverable as a stand-alone spreadsheet-equivalent document.
 
-**Six agents, one operation, one meeting.** Grant, Malik, Leung, Saltarelli, Prasnikar, and Greene are all named for actions taken in service of a single evening's surveillance of a single meeting. None has a public profile independent of this filing. Their names are public because a defense attorney moved to unseal this discovery, not because any of them made a public statement.
+**Six agents, one operation, one meeting.** Six special agents are each recorded for actions taken in service of a single evening's surveillance of a single meeting. None has a public profile independent of this filing. The filing names them (Doc. 212-17); it is public because a defense attorney moved to unseal this discovery, not because any of them made a public statement.
 
 **Timing relative to the injunction.** Per the five-church accounting, this operation falls after Judge F. Dennis Saylor IV's February 13, 2026 preliminary injunction in *New England Synod, ELCA v. DHS* barring warrantless HSI investigative activity inside, at the entrance to, or on property adjacent to plaintiff churches. Whether St. John the Evangelist Episcopal falls within a plaintiff synod's coverage has not been independently confirmed in this entry — Zion Lutheran in Ann Arbor did not, because it sits in a non-plaintiff synod; the Episcopal Church was not a plaintiff denomination in that case at all, which would place St. John's operation outside the injunction's protection on different grounds than Ann Arbor's. This distinction is flagged as an open question, not resolved here.
 
@@ -93,3 +86,5 @@ The ROI names no attendee, records no in-meeting content, and offers no evidence
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

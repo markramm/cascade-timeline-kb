@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful
 date: '2026-02-13'
-title: "Court Dismisses Charges Against Sosa-Celis and Aljorna With Prejudice; DHS Says Two Officers' Sworn Testimony Appears Untruthful"
+title: "Court Dismisses Charges Against Sosa-Celis and His Housemate With Prejudice; DHS Says Two Officers' Sworn Testimony Appears Untruthful"
 importance: 8
 status: confirmed
 location: Saint Paul, Minnesota
@@ -103,7 +103,6 @@ tags:
   - dhs-narrative
 actors:
   - Julio Cesar Sosa-Celis
-  - Alfredo Aljorna
   - Paul A. Magnuson
   - Tricia McLaughlin
   - Todd Lyons
@@ -136,7 +135,7 @@ related_events:
   - 2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition
 ---
 
-A federal judge in Saint Paul dismissed the assault complaint against **Julio Cesar Sosa-Celis** and **Alfredo Aljorna** with prejudice on its own motion. The motion gave a one-line reason. The same day, DHS said two officers' sworn testimony "appears to have made untruthful statements."
+A federal judge in Saint Paul dismissed the assault complaint against **Julio Cesar Sosa-Celis** and his housemate with prejudice on its own motion. The motion gave a one-line reason. The same day, DHS said two officers' sworn testimony "appears to have made untruthful statements."
 
 **The court record.** The government's motion to dismiss, dated February 11, says "Newly discovered evidence in this matter is materially inconsistent with the allegations in the Complaint Affidavit," and with the preliminary-hearing testimony based on information given to the affiant. It does not say what the evidence was. Judge Paul Magnuson's order, dated February 13, grants the motion and dismisses the complaint with prejudice, with no written reasoning.
 
@@ -147,3 +146,5 @@ A federal judge in Saint Paul dismissed the assault complaint against **Julio Ce
 **The shooting itself** is at [[2026-01-14--ice-agent-shoots-julio-sosa-celis-north-minneapolis-dhs-says-three-attackers-partner-says-nothing-grabbed]].
 
 **Sourcing note.** The motion and order were read in full from RECAP's copies. The DHS statement is quoted as NPR and Fox News report it; the quoted words are McLaughlin's, and Fox, citing the Associated Press, attributes the finding to Lyons.
+
+*Edited 2026-11-17: the name of a private person removed at the editor's decision; it appears in the cited filings.*

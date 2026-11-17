@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony
 date: '2026-08-13'
-title: "The Motion Behind the Exhibits: HSI Agent Desmond Garcia Told the Grand Jury No One Is Investigated for First Amendment Activity"
+title: "The Motion Behind the Exhibits: An HSI Agent Told the Grand Jury No One Is Investigated for First Amendment Activity"
 importance: 10
 status: reported
 tags:
@@ -14,7 +14,6 @@ tags:
   - protest-criminalization
   - primary-source
 actors:
-  - Desmond Garcia
   - Isaac Sant
   - Kevin Riach
   - Homeland Security Investigations
@@ -31,20 +30,22 @@ capture_lanes:
 coverage: []
 corrections:
 - date: '2026-10-08'
-  was: "### 2. Garcia told the grand jury the opposite of what the record shows"
-  now: "Garcia told the grand jury no one is investigated for First Amendment activity; the defense calls that 'simply not true' (counsel's argument)"
+  was: "### 2. The agent told the grand jury the opposite of what the record shows"
+  now: "The agent told the grand jury no one is investigated for First Amendment activity; the defense calls that untrue (counsel's argument)"
   why: "https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf — Doc. 212 at 12, quoting Ex. 4 at 214:23-215:8; the claim of contradiction is the defense's characterization"
   found_by: "timeline fact-check slice 1 2026-10-08"
 verification: captured
 claims:
 - id: c0
   type: quote
-  value: "Agent Garcia's statement is simply not true."
-  qualifier: ""
-  span: "Agent Garcia's statement is simply not true."
+  value: captured dozens of First Amendment protected conversations
+  qualifier: ''
+  span: captured dozens of First Amendment protected conversations on surreptitious recordings, many of which did not involve any of the defendants or unindicted co-conspirators in this case.
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.0_2.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-17'
 ---
 
 ## Opening
@@ -58,7 +59,7 @@ the defense's actual argument, and it contains grand jury testimony the exhibits
 ### 1. The "Conspiracy" chart was Grand Jury Exhibit 1A, page 5 — and an agent testified about it
 
 The motion states the diagram was "prepared by HSI and presented to the grand jury." It identifies
-the testifying agent: **HSI Agent Desmond Garcia**. Quoted at Ex. 4, 27:4-11:
+the testifying agent, whom the motion names (Doc. 212, Ex. 4): **an HSI agent**. Quoted at Ex. 4, 27:4-11:
 
 > **Q.** And can you tell us what you see on page 5 of Grand Jury Exhibit 1A?
 >
@@ -75,7 +76,7 @@ considers the entities to be conspiring."
 reported-but-not-documented and cautioned against asserting it. It is now documented in a filing,
 with the exhibit number, the page, and the testifying agent named.
 
-### 2. Garcia told the grand jury no one is investigated for First Amendment activity; the defense calls that "simply not true"
+### 2. The agent told the grand jury no one is investigated for First Amendment activity; the defense calls that untrue
 
 Quoted at Ex. 4, 214:23-215:8:
 
@@ -85,7 +86,7 @@ Quoted at Ex. 4, 214:23-215:8:
 > criminal predicate to why we're investigating them, either statements that they have made that
 > are criminal to their actual participation in overt criminal acts."
 
-The defense's response, in the motion (counsel's argument, not a court finding): "Agent Garcia's statement is simply not true."
+The defense's response, in the motion (counsel's argument, not a court finding): the agent's statement is untrue, because UCAs "captured dozens of First Amendment protected conversations on surreptitious recordings, many of which did not involve any of the defendants or unindicted co-conspirators in this case."
 
 Set that against the record already in the corpus:
 
@@ -134,11 +135,11 @@ defense's characterization, never adopt it.
 
 - Exhibits 4 (grand jury transcript excerpts), 21, 24 and 25 are cited in the motion; we hold the
   31 attachments but should confirm which correspond to these exhibit numbers
-- Whether the full Garcia transcript is obtainable — the motion quotes 27:4-11 and 214:23-215:8,
+- Whether the full transcript is obtainable — the motion quotes 27:4-11 and 214:23-215:8,
   implying a transcript of at least 215 pages
-- Whether the government has responded to this motion, and how it addresses the Garcia testimony
-- Desmond Garcia does not yet appear in the accountability roster built from the ROIs — his role
-  relative to Marquis, Wespetal, Catalan and Schrank is unestablished
+- Whether the government has responded to this motion, and how it addresses the testimony
+- The testifying agent does not yet appear in the accountability roster built from the ROIs — his role
+  relative to the reporting agents, Catalan and Schrank is unestablished
 
 ## Cross-References
 
@@ -147,3 +148,5 @@ defense's characterization, never adopt it.
 - [[2026-04-08--hsi-undercover-operation-zion-lutheran-church-ann-arbor]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
 - [[criminalizing-dissent-the-descending-gradient]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

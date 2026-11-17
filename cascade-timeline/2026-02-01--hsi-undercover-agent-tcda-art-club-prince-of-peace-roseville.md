@@ -30,9 +30,6 @@ status: reported
 coverage: []
 actors:
 - Homeland Security Investigations
-- Jacob Marquis
-- James Cutbirth
-- Katherine Wespetal
 - Hakan Catalan
 - Twin Cities Direct Action
 - Prince of Peace Lutheran Church (Roseville)
@@ -53,20 +50,24 @@ verification: captured
 claims:
 - id: c0
   type: date
-  value: "5:39 p.m."
-  qualifier: "debrief"
-  span: "On February 1, 2026, at approximately 5:39 p.m., Special Agents (SA) James Cutbirth and Jacob Marquis conducted a debrief of UCA 9843."
+  value: 5:39 p.m.
+  qualifier: approximately
+  span: On February 1, 2026, at approximately 5:39 p.m., Special Agents (SA)
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-17'
 - id: c1
   type: attribution
-  value: "vehicles in attendance for the meeting"
-  qualifier: "intel workup"
-  span: "The intel workup of vehicles in attendance for the meeting and the photo sheets A through E have been added"
+  value: vehicles in attendance for the meeting
+  qualifier: intel workup
+  span: The intel workup of vehicles in attendance for the meeting and the photo sheets A through E have been added
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.21_1.pdf
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-17'
 ---
 
 ## Opening
@@ -75,8 +76,8 @@ On February 1, 2026, an HSI undercover agent — designated UCA 9843 — attende
 
 The Report of Investigation's accountability block:
 
-- **Composed by**: HSI Special Agent Jacob Marquis
-- **Uploaded by**: Special Agent Katherine Wespetal
+- **Composed by**: an HSI special agent (Doc. 212-21)
+- **Uploaded by**: a second special agent
 - **Approved by**: Hakan Catalan, Supervisory Special Agent
 - **Date approved**: March 18, 2026
 
@@ -95,7 +96,7 @@ Doc. 227 also records Kennedy speaking at an April 18, 2026 event and discussing
 
 **Tradecraft at the meeting itself.** UCA 9843 entered through a side door, followed a hallway, and reached a meeting room that was the last door on the left. Attendees were required to turn off phone Bluetooth and switch devices to airplane mode; some placed phones in Faraday bags. UCA 9843 recalled roughly ten people present.
 
-**The debrief and its verbatim caveat.** SAs James Cutbirth and Jacob Marquis debriefed UCA 9843 at approximately 5:39 p.m., 39 minutes after the 3:00-5:00 p.m. meeting ended. The ROI states explicitly: "The summary is not intended to be a verbatim account of the interview and does not memorialize all statements made during the interview." Everything below is filtered through that caveat.
+**The debrief and its verbatim caveat.** Two special agents debriefed UCA 9843 at approximately 5:39 p.m., 39 minutes after the 3:00-5:00 p.m. meeting ended. The ROI states explicitly: "The summary is not intended to be a verbatim account of the interview and does not memorialize all statements made during the interview." Everything below is filtered through that caveat.
 
 **Individuals described.** Every other attendee UCA 9843 described to the debriefing agents is redacted in the filed document — physical description, pronouns, hair color, vehicle, and any inferred identity are blacked out line by line. The exception is "Cam Kennedy" — per the correction above, defendant Cameron Kennedy. The ROI describes him as a white male, roughly 160 pounds, brown hair, a self-proclaimed anarchist known to attend "Left Jab" — described in the ROI as "a leftist martial arts group that teaches classes on how to 'unarrest' and 'swarm' law enforcement in order to free individuals that have been taken into custody." He discussed TCDA finances: approximately $5,000 raised for a January 23 blockade from about 100 donors, with the bulk of the money coming from 20-30 people; he is recorded as "the main person pushing for funds" and wanting "to stockpile materials to assist with other organizations." He is also recorded describing the situation as "on the precipice of a revolution," calling conservatives "the regime," and saying his neighborhood street has an informal blockade that slows any vehicle attempting to pass, including ICE vehicles.
 
@@ -132,3 +133,5 @@ No attendee other than Cameron Kennedy is identified, and none is independently 
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

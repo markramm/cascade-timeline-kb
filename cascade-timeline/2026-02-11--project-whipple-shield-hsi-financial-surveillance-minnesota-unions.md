@@ -107,7 +107,7 @@ corrections:
   why: "https://www.washingtonexaminer.com/news/investigations/4688414/homeland-security-investigated-minnesota-labor-unions/ — the conspiracy phrasing is the Examiner's paraphrase ('what prosecutors say'); 'domestic terrorist financing' is HSI's label, not prosecutors'"
   found_by: "timeline fact-check slice 1 2026-10-08"
 - date: '2026-10-17'
-  was: "HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury ... HSI Agent Desmond Garcia testified about it directly; ... [Sunrise] was not presented to the grand jury as a node; ... rendered them to a grand jury as nodes in a terrorism conspiracy chart."
+  was: "HSI agents prepared a conspiracy diagram (Doc. 212-3, Grand Jury Exhibit 1A page 5) and presented it to the grand jury ... an HSI agent testified about it directly; ... [Sunrise] was not presented to the grand jury as a node; ... rendered them to a grand jury as nodes in a terrorism conspiracy chart."
   now: "The defense's motion says the diagram was prepared by HSI and presented to the grand jury (Doc. 212 p.5); the transcript excerpt it files shows an HSI agent asked about page 5 of Grand Jury Exhibit 1A (Ex. 4, 27:4-11). That Doc. 212-3 is that page is the defense's identification. Sunrise does not appear on the chart."
   why: "The entry stated the defense's account as fact in some sentences and, in another, said Sunrise was 'not presented to the grand jury', which read as denying the first. Primary: Doc. 212 (motion) p.5 and Ex. 4 p.27, read 2026-10-17. HSI case-file audit 2026-10-17, item 10."
   found_by: "editorial verification"
@@ -127,7 +127,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c1
   type: figure
   value: at least eight
@@ -137,7 +137,7 @@ claims:
   read: fetched
   source_kind: secondary
   outcome: verified
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c2
   type: date
   value: 2/11/2026
@@ -147,7 +147,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c3
   type: quote
   value: prepared by HSI and presented to the grand jury
@@ -157,7 +157,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c4
   type: quote
   value: page 5 of Grand Jury Exhibit 1A
@@ -167,7 +167,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - id: c5
   type: quote
   value: current Project Whipple Shield investigation
@@ -177,7 +177,7 @@ claims:
   read: fetched
   source_kind: primary
   outcome: unreachable
-  checked: '2026-10-17'
+  checked: '2026-11-17'
 - type: date
   value: 3/10/2026
   span: Project Whipple Shield MS02PR26MS0004-001 3/10/2026
@@ -186,7 +186,7 @@ claims:
   source_kind: primary
   id: u1
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-17'
 - type: quote
   value: In accordance with National Security Presidential Memorandum-7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation
   qualifier: In accordance with
@@ -196,7 +196,7 @@ claims:
   source_kind: primary
   id: u2
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-17'
 - type: quote
   value: will prioritize the identification of funding sources, organizational structures, and predicate actions
   qualifier: will prioritize
@@ -206,7 +206,7 @@ claims:
   source_kind: primary
   id: u3
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-17'
 - type: quote
   value: authorized by the controversial National Security Presidential Memorandum 7
   qualifier: authorized
@@ -216,7 +216,7 @@ claims:
   source_kind: secondary
   id: u4
   outcome: verified
-  checked: '2026-10-28'
+  checked: '2026-11-17'
 updates:
 - date: '2026-03-10'
   date_kind: report approval date
@@ -244,17 +244,17 @@ It obtained years of financial records from labor unions and nonprofits using **
 
 **The escalation is the structure.** Puppet Master, opened January 28 four days after a federal officer killed Alex Pretti, sought to "unmask the agitators conspiring to exploit the civil unrest to riot, destroy federal property, and assault personnel protecting these facilities." Whipple Shield, opened Feb. 11, two weeks later, extended to "sophisticated, organized campaigns" *supporting* those accused. Charge a handful publicly, then use the resulting investigative authorities to map everyone connected to defending them.
 
-**The mechanism, precisely.** HSI's own summons forms (HSI Form 3115, "Department of Homeland Security Summons — To Appear and/or Produce Records"), served on FedWire and the Clearing House Interbank Payment System, state their authority in plain text on the face of the document: **"Issued under authority of section 509, Tariff Act of 1930, as amended by Pub. L. No. 95-410 (19 U.S.C. § 1509); 44 F.R. 2217; Homeland Security Act of 2002."** That is a **customs-summons authority**, not 8 U.S.C. § 1225(d)(4) (an immigration-specific tool), not an IRS-style summons, and not a grand jury subpoena — no judicial officer approves it, and each form doubles as a nondisclosure order: "You are requested not to disclose the existence of this summons for an indefinite period of time." The PayPal/Venmo instrument used against Voices for Racial Justice is described in HSI's own ROI narrative as an "administrative subpoena" rather than a "summons" — the government's internal terminology is not fully consistent between the two instruments, though the underlying authority (agency-issued, no warrant) is the same. Both instruments were signed by **Steven Schrank, Special Agent in Charge, HSI Saint Paul** (the bank summonses) or served by named case agents (the PayPal/Venmo subpoena, SA Terri Botterbusch). Source: Doc. 212-6, 212-7, 212-8, 212-9, 212-10 (US v. Sant, 0:26-cr-00115, D. Minn.), read directly from the archived page images at 300dpi.
+**The mechanism, precisely.** HSI's own summons forms (HSI Form 3115, "Department of Homeland Security Summons — To Appear and/or Produce Records"), served on FedWire and the Clearing House Interbank Payment System, state their authority in plain text on the face of the document: **"Issued under authority of section 509, Tariff Act of 1930, as amended by Pub. L. No. 95-410 (19 U.S.C. § 1509); 44 F.R. 2217; Homeland Security Act of 2002."** That is a **customs-summons authority**, not 8 U.S.C. § 1225(d)(4) (an immigration-specific tool), not an IRS-style summons, and not a grand jury subpoena — no judicial officer approves it, and each form doubles as a nondisclosure order: "You are requested not to disclose the existence of this summons for an indefinite period of time." The PayPal/Venmo instrument used against Voices for Racial Justice is described in HSI's own ROI narrative as an "administrative subpoena" rather than a "summons" — the government's internal terminology is not fully consistent between the two instruments, though the underlying authority (agency-issued, no warrant) is the same. Both instruments were signed by **Steven Schrank, Special Agent in Charge, HSI Saint Paul** (the bank summonses) or served by case agents (the PayPal/Venmo subpoena, an HSI special agent). Source: Doc. 212-6, 212-7, 212-8, 212-9, 212-10 (US v. Sant, 0:26-cr-00115, D. Minn.), read directly from the archived page images at 300dpi.
 
 **Requested vs. produced — both are documented, not merely alleged.** These were not summonses issued and left unanswered. HSI's own ROIs record service and return:
 
 - **SEIU** — Summons HSI-MS-2026-037088, served on FedWire March 20, 2026, requesting "FEDWIRE Funds Service transfers" for four named SEIU entities (South St. Paul, two Minneapolis addresses, St. Paul) "from January 1, 2023, until present." FedWire's return was received April 8, 2026, and HSI's own ROI reports a "preliminary analysis" finding "numerous wire transactions... for various types of debits and credits to include annuity payments, strike payments, strike supplies, investments, union member dues, retiree dues, medical expenses, and pension fund expenses." The category is broader than the entry previously stated ("wire transfers from various financial institutions") — it is essentially the union's full FedWire transaction history for the period, not a targeted subset.
-- **CWA, IFPTE, and Sunrise Movement/Sunrise Movement Education Fund** — a **single summons** (HSI-MS-2026-037704, issued 3/9/2026, served on the Clearing House Interbank Payment System per its cover sheet — Doc. 212-8) requested records for all four together: CWA (national headquarters and multiple named bank accounts — Northwest Savings Bank, United Business Bank, a Business DDA account, Truist), the **International Federation of Professional and Technical Engineers**, explicitly labeled on the summons as "(CWA)" — i.e., named as a CWA affiliate, not a separate target — and, **as two separate line items with their own address blocks**, "**Sunrise Movement Education Fund**" and "**Sunrise Movement**" (Doc. 212-8 p.3, read at 300dpi). The distinction matters: these are legally separate entities (the Education Fund a 501(c)(3), Sunrise Movement itself a 501(c)(4), with different permitted activities), and the summons names both individually rather than treating them as one target. The same summons number also drew a **second response from Fedwire** (Doc. 212-9, Federal Reserve Bank of New York letter to SA Amber Tallas, dated 4/17/2026, responding to "a Department of Homeland Security Summons dated March 9, 2026") — i.e., the identical instrument reached two separate payment-clearing systems, not CHIPS alone as this entry previously stated. Fedwire's own search-term log confirms **positive hits** on both `*SUNRISEMOVEMENTEDUCATIONFUND*` and `*SUNRISEMOVEMENT* AND (WASHINGTON* OR DC* OR WDC*)` — meaning wire-transfer records for both entities were located and produced, not merely requested. The summons's own language requests **"any and all records"** on these entities from January 1, 2023 through March 9, 2026 — not a request narrowed to "donations and PAC spending." No PAC-specific or donation-specific framing appears on the face of the document; that characterization does not trace to the primary summons and has been removed.
-- **Voices for Racial Justice** — a Minneapolis racial-justice training organization; HSI's ROI (approved 4/2/2026, SA Terri Botterbusch) documents an administrative subpoena to PayPal/Venmo (HSI-MS-2026-037346 and -037348), served March 7, 2026, with results returned March 20, 2026. PayPal/Venmo's response is confirmed in the ROI as producing account holder details, a linked phone number, transaction records, and account summaries for at least two separate PayPal accounts tied to the organization — not merely a request pending response.
+- **CWA, IFPTE, and Sunrise Movement/Sunrise Movement Education Fund** — a **single summons** (HSI-MS-2026-037704, issued 3/9/2026, served on the Clearing House Interbank Payment System per its cover sheet — Doc. 212-8) requested records for all four together: CWA (national headquarters and multiple named bank accounts — Northwest Savings Bank, United Business Bank, a Business DDA account, Truist), the **International Federation of Professional and Technical Engineers**, explicitly labeled on the summons as "(CWA)" — i.e., named as a CWA affiliate, not a separate target — and, **as two separate line items with their own address blocks**, "**Sunrise Movement Education Fund**" and "**Sunrise Movement**" (Doc. 212-8 p.3, read at 300dpi). The distinction matters: these are legally separate entities (the Education Fund a 501(c)(3), Sunrise Movement itself a 501(c)(4), with different permitted activities), and the summons names both individually rather than treating them as one target. The same summons number also drew a **second response from Fedwire** (Doc. 212-9, Federal Reserve Bank of New York letter to an HSI special agent, dated 4/17/2026, responding to "a Department of Homeland Security Summons dated March 9, 2026") — i.e., the identical instrument reached two separate payment-clearing systems, not CHIPS alone as this entry previously stated. Fedwire's own search-term log confirms **positive hits** on both `*SUNRISEMOVEMENTEDUCATIONFUND*` and `*SUNRISEMOVEMENT* AND (WASHINGTON* OR DC* OR WDC*)` — meaning wire-transfer records for both entities were located and produced, not merely requested. The summons's own language requests **"any and all records"** on these entities from January 1, 2023 through March 9, 2026 — not a request narrowed to "donations and PAC spending." No PAC-specific or donation-specific framing appears on the face of the document; that characterization does not trace to the primary summons and has been removed.
+- **Voices for Racial Justice** — a Minneapolis racial-justice training organization; HSI's ROI (approved 4/2/2026, reporting special agent) documents an administrative subpoena to PayPal/Venmo (HSI-MS-2026-037346 and -037348), served March 7, 2026, with results returned March 20, 2026. PayPal/Venmo's response is confirmed in the ROI as producing account holder details, a linked phone number, transaction records, and account summaries for at least two separate PayPal accounts tied to the organization — not merely a request pending response.
 
 A union's political action committee spending is among the most protected categories of associational activity in American law; what the record actually shows HSI took is broader still — a national union's full multi-year FedWire transaction ledger, taken by agency summons under a terrorism-financing theory, with no judicial officer in the loop.
 
-**"The Conspiracy" slide.** The defense's motion says the diagram (Doc. 212-3) was "prepared by HSI and presented to the grand jury" that returned the **94-page indictment** (Doc. 212 p.5). The transcript excerpt the defense files shows HSI Agent Desmond Garcia asked what he sees "on page 5 of Grand Jury Exhibit 1A" (Ex. 4, 27:4-11). That the chart in Doc. 212-3 is that page is the defense's identification, not something the chart itself states. The diagram depicted 18 unions, political organizations and community groups radiating from a Direct Action Minnesota (DAMN) hub. **Correction**: the slide's own edge label on each of the 18 spokes reads only "Council Member" — asserting each organization's membership status relative to the DAMN hub, not overlapping membership between the 18 organizations themselves. That broader reading, which earlier reporting and earlier passes through this corpus both carried, is not what the exhibit itself depicts or asserts; see [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]] for the full corrected organization list. The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 are among the 18 "Council Member" spokes.
+**"The Conspiracy" slide.** The defense's motion says the diagram (Doc. 212-3) was "prepared by HSI and presented to the grand jury" that returned the **94-page indictment** (Doc. 212 p.5). The transcript excerpt the defense files shows an HSI agent (the grand-jury witness) asked what he sees "on page 5 of Grand Jury Exhibit 1A" (Ex. 4, 27:4-11). That the chart in Doc. 212-3 is that page is the defense's identification, not something the chart itself states. The diagram depicted 18 unions, political organizations and community groups radiating from a Direct Action Minnesota (DAMN) hub. **Correction**: the slide's own edge label on each of the 18 spokes reads only "Council Member" — asserting each organization's membership status relative to the DAMN hub, not overlapping membership between the 18 organizations themselves. That broader reading, which earlier reporting and earlier passes through this corpus both carried, is not what the exhibit itself depicts or asserts; see [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]] for the full corrected organization list. The AFL-CIO, the Minneapolis Federation of Educators, the Minnesota Association of Professional Employees, and SEIU Local 26 are among the 18 "Council Member" spokes.
 
 Eighteen distinct organizations — a labor federation, a teachers' local, a veterans' group, a racial-justice group, a bicycle repair collective — rendered as spokes in a chart titled "The Conspiracy," under a government seal, shown to the body that decides whether to indict. **Sunrise Movement is not among the 18** — a direct visual read of Doc. 212-3 at 300dpi (2026-08-13 pass) found neither Sunrise Movement nor Sunrise Movement Education Fund on the chart. Sunrise's presence in this record is confined to the financial-summons instrument and to the surveillance narrative below; it does not appear on the chart, so on the defense's account it was not one of the nodes the grand jury was shown.
 
@@ -306,3 +306,5 @@ Two statements in this entry were wrong or unsupported and have been changed abo
 ## Update (2026-03-10, report approval date): Report approved 3/10/2026 reads "In accordance with National Security Presidential Memorandum-7"
 
 The case-opening report, approved 3/10/2026, says that "In accordance with National Security Presidential Memorandum-7 (NSPM-7), Homeland Security Investigations (HSI) St. Paul has opened an investigation". Its synopsis adds that the investigation "will prioritize the identification of funding sources, organizational structures, and predicate actions". WIRED reported that both Project Whipple Shield and Operation Puppet Master were "authorized by the controversial National Security Presidential Memorandum 7".
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

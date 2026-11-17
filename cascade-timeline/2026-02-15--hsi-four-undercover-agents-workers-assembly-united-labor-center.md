@@ -18,9 +18,6 @@ tags:
   - nspm-7
 actors:
   - Homeland Security Investigations
-  - James Cutbirth
-  - Jacob Marquis
-  - Katherine Wespetal
   - Hakan Catalan
   - Black Cat Workers Collective
   - Twin Cities Direct Action
@@ -62,28 +59,34 @@ verification: captured
 claims:
 - id: c0
   type: figure
-  value: "four (4) UCAs"
-  qualifier: "attended an in-person meeting"
-  span: "four (4) UCAs attended an in-person meeting sponsored by over twenty-five (25) organizations"
+  value: four (4) UCAs
+  qualifier: attended an in-person meeting
+  span: four (4) UCAs attended an in-person meeting sponsored by over twenty-five (25) organizations
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.14_1.pdf
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-17'
 - id: c1
   type: attribution
-  value: "Council Member"
-  qualifier: "every node on The Conspiracy slide"
-  span: "Council Member"
+  value: Council Member
+  qualifier: every node on The Conspiracy slide
+  span: Council Member
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.3_1.pdf
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-17'
 - id: c2
   type: quote
-  value: "Attendees appeared to have a negative opinion of Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey"
-  qualifier: "ROI"
-  span: "Attendees appeared to have a negative opinion of Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey."
+  value: Attendees appeared to have a negative opinion of Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey
+  qualifier: ROI
+  span: Attendees appeared to have a negative opinion of Minnesota Governor Tim Walz and Minneapolis Mayor Jacob Frey.
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.212.14_1.pdf
   read: fetched
   source_kind: primary
+  outcome: unreachable
+  checked: '2026-11-17'
 ---
 
 ## Opening
@@ -94,8 +97,8 @@ The ROI records four UCAs at this one meeting, which drew about 200 people. Othe
 
 The Report of Investigation's accountability block:
 
-- **Composed by**: HSI Special Agent James Cutbirth
-- **Uploaded by**: Special Agent Katherine Wespetal
+- **Composed by**: an HSI special agent (Doc. 212-14)
+- **Uploaded by**: a second special agent
 - **Approved by**: Hakan Catalan, Supervisory Special Agent
 - **Date approved**: March 27, 2026
 
@@ -109,7 +112,7 @@ The Report of Investigation's accountability block:
 
 **Attendees' stated posture toward elected officials.** The ROI records that attendees "appeared to have a negative opinion of" Governor Tim Walz and Minneapolis Mayor Jacob Frey — i.e., this is a federal surveillance report noting that protest organizers were critical of a Democratic governor and a Democratic mayor, though the ROI gives no reason for HSI's choice of this meeting.
 
-**Debrief and recordings.** SAs James Cutbirth and Jacob Marquis debriefed UCA 142 at approximately 8:34 p.m. — the debrief itself states it "is not intended to be a verbatim account... and does not memorialize all statements made." The debrief concluded around 9:00 p.m. Four audio recordings made by UCA 142, timestamped roughly hourly through the afternoon and evening (16:46, 17:46, 18:46, 19:46), were appended to the ROI as separate files.
+**Debrief and recordings.** Two special agents debriefed UCA 142 at approximately 8:34 p.m. — the debrief itself states it "is not intended to be a verbatim account... and does not memorialize all statements made." The debrief concluded around 9:00 p.m. Four audio recordings made by UCA 142, timestamped roughly hourly through the afternoon and evening (16:46, 17:46, 18:46, 19:46), were appended to the ROI as separate files.
 
 ## Why It Matters
 
@@ -138,3 +141,5 @@ No individual attendee is named in the unsealed copy of this ROI apart from "DJ,
 - [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]]
 - [[2026-02-11--project-whipple-shield-hsi-financial-surveillance-minnesota-unions]]
 - [[us-v-sant-0-26-cr-00115-doc-212-full-roi-set]]
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*

@@ -15,7 +15,6 @@ tags:
   - icm
   - discovery
 actors:
-  - Katherine Wespetal
   - Michael Hyland
   - Josh Schottenfeld
   - Homeland Security Investigations
@@ -24,19 +23,19 @@ verification: captured
 claims:
 - id: c1
   type: date
-  value: August 27, 2026
+  value: 8/27/2026
   qualifier: uploaded
-  span: On August 27, 2026, HSI Special Agent (SA) Katherine Wespetal became aware this report had not been uploaded into the Investigative Case Management system. SA Wespetal subsequently uploaded the report on 8/27/2026.
+  span: subsequently uploaded the report on 8/27/2026.
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.297.2.pdf
   read: fetched
   source_kind: primary
   outcome: unreachable
   checked: '2026-10-17'
 - id: c2
-  type: date
-  value: August 27, 2026
+  type: attribution
+  value: subsequently uploaded it
   qualifier: uploaded
-  span: On August 27, 2026, HSI SA Katherine Wespetal determined this report had not been previously uploaded into the Investigative Case Management system and subsequently uploaded it.
+  span: this report had not been previously uploaded into the Investigative Case Management system and subsequently uploaded it.
   url: https://storage.courtlistener.com/recap/gov.uscourts.mnd.234416/gov.uscourts.mnd.234416.297.3.pdf
   read: fetched
   source_kind: primary
@@ -157,10 +156,12 @@ coverage:
     title: "HSI Watched a Church Meeting in March. Its Report Was Entered in August."
 ---
 
-On August 27, 2026 (upload date), HSI Special Agent Katherine Wespetal uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). August 27 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives "Time: 3:30 P.M. / 5:00 P.M." for the hearing, and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.
+On 8/27/2026 (upload date), an HSI special agent uploaded reports of investigation about March 2026 events to the Investigative Case Management system (ICM). 8/27/2026 is also the date of the oral argument on Isaac Sant's discovery motion (hearing date); the minute entry gives "Time: 3:30 P.M. / 5:00 P.M." for the hearing, and the reports state no time of upload. One report, in the Project Whipple Shield case, covers surveillance by Special Operations Groups at St. John's Church in St. Paul on March 31, 2026 (event date). The other, in the Operation Puppet Master case, is undercover agent UCA 9843's report of the Sunrise Movement Twin Cities weekly meeting of March 23, 2026 (event date). Both carry the approval date 8/31/2026, with Michael Hyland as approver; the approval line on the Whipple Shield report prints "SUPERVISORY SPECIAL AGENT" under his name.
 
 In the Sunrise report, UCA 9843 "volunteered to assist with planning and preparation for those who were planning to be arrested," and the report ends: "No mention of property damage to a federal building, vehicles, or agents was discussed."
 
 Sant's counsel later filed both reports as exhibits. The record in hand gives no reason for the timing of the upload. The motion to compel set for hearing on 10/20/2026 concerns an ICE memorandum about a different defendant.
 
 Context: [[2026-08-13--operation-puppet-master-hsi-infiltrates-minnesota-anti-ice-community]], [[2026-08-13--sant-discovery-motion-garcia-grand-jury-testimony]], [[2026-08-27--minnesota-15-discovery-hearing-vindictive-prosecution-presumption-of-regularity]], [[2026-09-25--sant-defense-exhibits-out-of-state-hsi-agents-ran-minnesota-protest-investigations]].
+
+*Edited 2026-11-17: names of line-level agents removed at the editor's decision; they appear in the cited filings.*
