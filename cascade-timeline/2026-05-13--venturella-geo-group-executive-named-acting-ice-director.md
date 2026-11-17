@@ -66,6 +66,11 @@ corrections:
   now: "NPR reports a DHS spokesperson confirmed on Tuesday, May 12, 2026 that he would be the next acting director; Al Jazeera and the Washington Post pieces are dated May 13. The entry date stays May 13 (the date of the coverage cited here); the announcement itself was May 12."
   why: "https://www.npr.org/2026/05/12/g-s1-121766/ice-acting-director-venturella ; https://www.aljazeera.com/news/2026/5/13/trump-taps-david-venturella-former-private-prison-executive-to-lead-ice"
   found_by: recheck-canon-venturella-acting-director-entry-and-obadal-vested-stock-and-two-theme-carryovers (2026-11-16)
+- date: '2026-11-17'
+  was: "GEO's 2022 filing names Albence as successor in the title with employment starting September 1, 2022 (read through a sec.gov copy the gate cannot fetch)"
+  now: "Bound to the 8-K as posted on GEO's own investor site (read through the Wayback copy): retirement effective February 1, 2023; Albence 'will succeed' Venturella as SVP, Client Relations; his employment commences September 1, 2022; he works with Venturella until the retirement. Dates confirmed. The 8-K does not date Albence's taking of the title, so the overlap of the title itself is our inference; the overlap of employment is stated. No other person is named in the title."
+  why: "https://investors.geogroup.com/node/16481/html (Wayback: https://web.archive.org/web/2023/https://investors.geogroup.com/node/16481/html)"
+  found_by: follow-up-obadal-entry-unbound-claims-and-geo-8k-spans (2026-11-17)
 verification: captured
 date_is_publication_date: true
 event_date_claim: c13
@@ -162,8 +167,24 @@ claims:
   type: attribution
   value: "September 1, 2022"
   qualifier: ""
-  span: "Mr. Albence's employment with GEO will commence on September 1, 2022."
-  url: https://www.sec.gov/Archives/edgar/data/923796/000119312522200110/d362438d8k.htm
+  span: "Mr. Albence’s employment with GEO will commence on September 1, 2022."
+  url: https://web.archive.org/web/2023/https://investors.geogroup.com/node/16481/html
+  read: fetched
+  source_kind: primary
+- id: c16
+  type: date
+  value: "February 1, 2023"
+  qualifier: "retire effective"
+  span: "David Venturella, Senior Vice President, Client Relations of The GEO Group, Inc. (“GEO” or the “Company”), announced his intention to retire effective February 1, 2023."
+  url: https://web.archive.org/web/2023/https://investors.geogroup.com/node/16481/html
+  read: fetched
+  source_kind: primary
+- id: c17
+  type: attribution
+  value: "will succeed Mr. Venturella as Senior Vice President, Client Relations"
+  qualifier: ""
+  span: "will succeed Mr. Venturella as Senior Vice President, Client Relations."
+  url: https://web.archive.org/web/2023/https://investors.geogroup.com/node/16481/html
   read: fetched
   source_kind: primary
 - id: c13
@@ -197,7 +218,7 @@ Acting ICE Director David Venturella was named in an announcement that a Departm
 ## What the record shows
 
 - **At ICE before 2012.** Warren's letter, citing ExecAtlas, says he served as Director for the Office of Enforcement and Removal Operations for ICE from February 2011 to June 2012. The Cascade actor profile gives a longer career and other titles; this entry relies on Warren's account only.
-- **At GEO.** Warren dates his GEO years 2012 through 2023. GEO's 2023 filing gives his title and end date as above. GEO's 2022 filing names former Acting ICE Director Matthew Albence as Venturella's successor in that title, with employment starting September 1, 2022, before Venturella's last day, so their tenures overlapped. The filing does not say whether both held the title in those months.
+- **At GEO.** Warren dates his GEO years 2012 through 2023. GEO's 2023 filing gives his title and end date as above. GEO's July 2022 filing, as posted on GEO's own investor site, says Venturella announced he would retire effective February 1, 2023, that Albence "will succeed" him as Senior Vice President, Client Relations, that Albence's employment with GEO would commence on September 1, 2022, and that Albence would work with Venturella until the retirement. So their employment overlapped from September 1, 2022 to February 1, 2023. That both held the title in those months is our reading, not something the filing dates.
 - **Back at DHS.** Warren, citing public reporting, says he was hired as a senior ICE adviser in February 2025. NPR says he most recently worked for the department overseeing contracts between ICE and various detention facilities.
 - **The waiver.** Warren writes that he "reportedly received a waiver" to work on matters involving GEO. The waiver text, issuer and legal basis are not public. A DHS statement to NPR says "The Acting ICE Director abides by all ethics requirements."
 - **GEO's footprint.** NPR reports that about a third of people in immigration detention are held in GEO-run facilities.
