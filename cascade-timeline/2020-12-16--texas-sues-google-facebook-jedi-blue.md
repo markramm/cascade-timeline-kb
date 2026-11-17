@@ -2,8 +2,8 @@
 type: timeline_event
 id: 2020-12-16--texas-sues-google-facebook-jedi-blue
 date: 2020-12-16
-title: 'Texas and Nine States Sue Google, Alleging an Ad-Auction Deal With Facebook'
-description: On December 16, 2020, Texas and nine other states sued Google in the Eastern District of Texas, alleging that it monopolized online display advertising, including through an agreement with Facebook that the redacted complaint did not name and that later filings call "Jedi Blue". Google denied wrongdoing. The case was sent to a multidistrict proceeding in 2021 and returned to Texas in 2023. A trial set for August 2025 was cancelled and the case is stayed pending final judgment in the federal government's separate Virginia case. No court has ruled on the Facebook agreement.
+title: 'Texas and Nine States File Suit Against Google, Alleging an Ad-Auction Deal With Facebook'
+description: On December 16, 2020, Texas and nine other states sued Google in the Eastern District of Texas, alleging that it monopolized online display advertising, including through an agreement with Facebook that the redacted complaint did not name and that later filings call "Jedi Blue". Google denied wrongdoing. The case was sent to a multidistrict proceeding in 2021. In September 2022 the judge there dismissed the states' claim about the Facebook agreement as not plausible and let other claims go forward. The case returned to Texas in 2023; a trial set for August 2025 was cancelled and the case is stayed pending final judgment in the federal government's separate Virginia case. No court has found the Facebook agreement unlawful.
 actors:
 - Texas Attorney General Ken Paxton
 - Google
@@ -27,7 +27,7 @@ connections:
 - Google ad tech monopoly
 - Facebook advertising dominance
 - Header bidding competition
-notes: 'Corrected 2026-11-16: the earlier text stated the complaint''s allegations as findings; see Correction. The complaint is an allegation; no court has found the Facebook agreement unlawful.'
+notes: 'Corrected 2026-11-16: the earlier text stated the complaint''s allegations as findings; see Correction. The complaint is an allegation; the Facebook-agreement claim was dismissed in September 2022 (second Correction 2026-11-16) and no court has found the agreement unlawful.'
 verification: captured
 claims:
 - id: c1
@@ -230,8 +230,21 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+- id: c21
+  type: quote
+  value: The states' allegations are not plausible because they fail to adequately account for Facebook's motivation to use its economic clout as an advertiser to drive the hardest bargain it could with Google
+  qualifier: Castel said
+  span: “The states’ allegations are not plausible because they fail to adequately account for Facebook’s motivation to use its economic clout as an advertiser to drive the hardest bargain it could with Google,” Castel said.
+  url: https://siliconangle.com/2022/09/13/antitrust-case-google-will-go-ahead-without-facebook-collusion-claim/
+  read: fetched
+  source_kind: secondary
 event_date_claim: c1
 sources:
+- title: Antitrust case against Google will go ahead without Facebook collusion claim
+  url: https://siliconangle.com/2022/09/13/antitrust-case-google-will-go-ahead-without-facebook-collusion-claim/
+  outlet: SiliconANGLE
+  date: '2022-09-13'
+  tier: 2
 - title: Third Amended Complaint (redacted public version), In re Google Digital Advertising Antitrust Litigation, S.D.N.Y. 1:21-md-03010, Dkt. 176
   url: https://www.texasattorneygeneral.gov/sites/default/files/global/images/TAC%20-%20Redacted%20Version%20(public).pdf
   outlet: Texas Attorney General (court filing)
@@ -259,7 +272,7 @@ sources:
   tier: 1
 ---
 
-On December 16, 2020, Texas Attorney General Ken Paxton and nine other states sued Google in federal court in the Eastern District of Texas. The complaint alleges that Google monopolized digital advertising, including through an agreement with Facebook. The Facebook paragraphs below set out the complaint's text, not findings. Google denies wrongdoing, and no court has ruled on the Facebook agreement.
+On December 16, 2020, Texas Attorney General Ken Paxton and nine other states sued Google in federal court in the Eastern District of Texas. The complaint alleges that Google monopolized digital advertising, including through an agreement with Facebook. The Facebook paragraphs below set out the complaint's text, not findings. Google denies wrongdoing. In September 2022 the S.D.N.Y. court dismissed the states' claim about the Facebook agreement as not plausible, and no court has found the agreement unlawful.
 
 ## What the states allege
 
@@ -280,15 +293,19 @@ Google called the claims "meritless" and said it would "strongly defend ourselve
 ## What courts have done
 
 - **Transfer.** In 2021 the Judicial Panel on Multidistrict Litigation sent the case to the Southern District of New York for pretrial proceedings in MDL 3010.
-- **Motion to dismiss.** In September 2022 the S.D.N.Y. court rejected Google's motion to dismiss. The Texas Attorney General quotes the court:  "the States have plausibly alleged that Google has monopoly power in and willfully engaged in anticompetitive conduct." That is a ruling on what is pleaded, not a finding that it happened.
+- **Motion to dismiss.** In September 2022 Judge P. Kevin Castel of the S.D.N.Y. ruled on Google's motion to dismiss. He dismissed the states' claim about the Facebook agreement. SiliconANGLE quotes him: "The states' allegations are not plausible because they fail to adequately account for Facebook's motivation to use its economic clout as an advertiser to drive the hardest bargain it could with Google." He let the states' other claims go forward. The Texas Attorney General quotes the court on those: "the States have plausibly alleged that Google has monopoly power in and willfully engaged in anticompetitive conduct." That is a ruling on what is pleaded, not a finding that it happened.
 - **Return to Texas.** The Judicial Panel ordered the case remanded on June 5, 2023, and it returned to Judge Sean Jordan in November 2023 after the Second Circuit denied Google's mandamus petition.
 - **Jury.** In June 2025 Judge Jordan struck the jury demand on the states' federal antitrust claims and on civil penalties, and otherwise denied Google's motion.
 - **Trial cancelled, case stayed.** In July 2025 Judge Jordan cancelled the August 11, 2025 trial and stayed all deadlines "pending the entry of final judgment in the EDVA Action", the Justice Department's separate case against Google in the Eastern District of Virginia. In that case, Judge Brinkema's April 2025 liability opinion held that Google had violated Section 2 of the Sherman Act.
 - **Where it stands.** Google's summary-judgment motions were outstanding when the case was stayed. The last docket entries, through July 24, 2026, are attorney withdrawals, with no new trial date set. CourtListener's copy comes from RECAP and may lag the court's own docket.
 
+## Second Correction (2026-11-16)
+
+The text of this entry and the Correction below misstated the 2022 ruling on the Facebook agreement. The Motion to dismiss bullet above now gives the ruling.
+
 ## Correction (2026-11-16)
 
-The earlier text of this entry gave the complaint's text as fact. It gave the Facebook deal, its motive and its terms as fact, labelled the deal illegal market allocation, and treated internal documents as proof. No court has ruled on the Facebook agreement. The earlier text also framed the coming trial as a test only of whether courts enforce the law, but the case has not been tried.
+The earlier text of this entry gave the complaint's text as fact. It gave the Facebook deal, its motive and its terms as fact, labelled the deal illegal market allocation, and treated internal documents as proof. No court has found the Facebook agreement unlawful. The earlier text also framed the coming trial as a test only of whether courts enforce the law, but the case has not been tried.
 
 Removed because the sources read do not carry them:
 
