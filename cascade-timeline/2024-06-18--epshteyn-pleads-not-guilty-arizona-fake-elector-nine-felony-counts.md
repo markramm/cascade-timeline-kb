@@ -4,8 +4,8 @@ id: 2024-06-18--epshteyn-pleads-not-guilty-arizona-fake-elector-nine-felony-coun
 date: '2024-06-18'
 title: Boris Epshteyn Pleads Not Guilty to Nine Felony Counts in Arizona Fake Elector Case; the Arizona AG Dismissed the Case in June 2026 and Says She Will Seek a New Indictment
 importance: 9
-status: reported
-verification: captured
+status: confirmed
+verification: source-verified
 event_date_claim: c1
 location: Maricopa County Superior Court, Arizona
 tags:
@@ -47,6 +47,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/boris-epshteyn-trumps-adviser-pleads-not-guilty-to-9-felony-charges-in-arizonas-fake-elector-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: figure
   value: nine felony charges
@@ -55,6 +57,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/boris-epshteyn-trumps-adviser-pleads-not-guilty-to-9-felony-charges-in-arizonas-fake-elector-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: figure
   value: 18 arraignments
@@ -63,6 +67,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/boris-epshteyn-trumps-adviser-pleads-not-guilty-to-9-felony-charges-in-arizonas-fake-elector-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: quote
   value: is accused of assisting Giuliani
@@ -71,6 +77,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/boris-epshteyn-trumps-adviser-pleads-not-guilty-to-9-felony-charges-in-arizonas-fake-elector-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: date
   value: April
@@ -79,6 +87,8 @@ claims:
   url: https://www.nbcnews.com/politics/donald-trump/trump-pac-paid-law-firm-representing-boris-epshteyn-fake-electors-case-rcna160073
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: figure
   value: two payments of $40,000 and $10,000
@@ -87,6 +97,8 @@ claims:
   url: https://www.nbcnews.com/politics/donald-trump/trump-pac-paid-law-firm-representing-boris-epshteyn-fake-electors-case-rcna160073
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c7
   type: date
   value: Jun 18, 2026
@@ -95,6 +107,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c8
   type: quote
   value: the Democratic attorney general is vowing to bring it back to a grand jury in hopes of securing another indictment
@@ -103,6 +117,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c9
   type: quote
   value: The legal maneuver is aimed at getting around a Friday deadline for starting new grand jury proceedings
@@ -111,6 +127,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c10
   type: quote
   value: has repeatedly said she plans to bring the case back to a grand jury to seek new indictments
@@ -119,6 +137,8 @@ claims:
   url: https://kjzz.org/politics/2026-11-16/arizona-court-of-appeals-to-hear-arguments-in-states-fake-electors-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c11
   type: quote
   value: failed to provide relevant evidence to the grand jurors who indicted the defendants
@@ -127,6 +147,8 @@ claims:
   url: https://kjzz.org/politics/2026-11-16/arizona-court-of-appeals-to-hear-arguments-in-states-fake-electors-case
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c12
   type: figure
   value: '18'
@@ -135,6 +157,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c13
   type: quote
   value: marks the third such fake elector case filed by states to be dismissed
@@ -143,6 +167,8 @@ claims:
   url: https://www.pbs.org/newshour/politics/arizona-prosecutors-dismissing-fake-elector-case-but-vow-to-seek-new-indictment
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 # Boris Epshteyn Pleads Not Guilty to Nine Felony Counts in the Arizona Fake Elector Case; the Case Was Dismissed in June 2026
