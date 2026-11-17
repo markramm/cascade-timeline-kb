@@ -147,48 +147,11 @@ A federal grand jury in the District of Minnesota returned an indictment on Janu
 
 ### Named Defendants (39 total in superseding indictment)
 
-**Original nine (indictment dated January 29, 2026):**
-1. Nekima Valdez Levy-Armstrong
-2. Chauntyll Louisa Allen
-3. William Scott Kelly
-4. Don Renaldo Lemon
-5. Jerome Deangelo Richardson
-6. Jamael Lydell Lundy
-7. Trahern Jeen Crews
-8. Georgia Ellyse Fort
-9. Ian Davis Austin
+**Original nine (indictment dated January 29, 2026):** Nekima Valdez Levy-Armstrong, Don Renaldo Lemon and seven others.
 
-**Additional 30 (added in superseding indictment, February 26, 2026):**
-10. Aziza Mohammed Aboud
-11. Max Richard Adamson
-12. Michael Walker Beute
-13. Ezra Chaim Pye Blumenfeld
-14. Shane Ryan Bollman
-15. Kelly Ann Carey
-16. Monique Cassandra Cullars-Doty
-17. Tiffany Lynn Dunlap
-18. Andrew Jared Edwards
-19. Rachel Rose Goligoski
-20. Amelia Cristin Hansa
-21. Ariel Hauptman
-22. Krista Erin Hogan
-23. Heather Danielle Lewis *(charges dismissed with prejudice March 23, 2026 — mistaken identity)*
-24. Danielle Andrea Matthias
-25. Catie Anne Michaelson
-26. Eric Ryan Michaelson
-27. David Anthony Okar
-28. Jarmel James Perry
-29. Cheryl Ann Persigehl
-30. Emmar Monike Pineda-Moreno
-31. Spencer Michael Rodriguez-Bocanegra
-32. Katherine Elizabeth Shaw
-33. Satara Diann Strong-Allen
-34. Charles Lee Swenson
-35. Robyn Elise Swenson
-36. Thomas Matthew Tier
-37. Lee Elizabeth Wiedeman Tuggle
-38. John Donald Vergin
-39. Mark David Weinfurter
+**Additional 30 (added in superseding indictment, February 26, 2026).** Charges against one of the 30 were dismissed with prejudice on March 23, 2026, as a case of mistaken identity.
+
+*Edited 2026-11-17: this entry listed all 39 defendants by name. Most are private people; the list is now a count. The names are in the indictment.*
 
 ### Key Procedural Dates
 

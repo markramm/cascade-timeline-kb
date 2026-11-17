@@ -93,7 +93,6 @@ tags:
   - dhs-narrative
 actors:
   - Julio Cesar Sosa-Celis
-  - Alfredo Aljorna
   - Indriany Mendoza Camacho
   - Christian Castro
   - Kristi Noem
@@ -130,6 +129,6 @@ On the evening of January 14, 2026, an ICE officer shot **Julio Cesar Sosa-Celis
 
 **The City's footage.** The City of Minneapolis released a 9-minute video from City-owned cameras on April 6 with no commentary. The footage was not viewed for this entry.
 
-**What followed.** The federal complaint against Sosa-Celis and his housemate Alfredo Aljorna was dismissed on the government's own motion ([[2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful]]). The officer, Christian Castro, was later indicted federally for false statements about the shooting ([[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]), and Minnesota's prosecution is covered in [[2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition]].
+**What followed.** The federal complaint against Sosa-Celis and his housemate was dismissed on the government's own motion ([[2026-02-13--prosecutors-drop-charges-against-sosa-celis-and-aljorna-materially-inconsistent-dhs-says-two-agents-untruthful]]). The officer, Christian Castro, was later indicted federally for false statements about the shooting ([[2026-09-04--ice-officer-castro-pleads-not-guilty-six-false-statement-counts-minneapolis-shooting]]), and Minnesota's prosecution is covered in [[2026-08-27--ice-agent-castro-released-texas-90-day-limit-no-governor-decision-minnesota-extradition]].
 
 **Sourcing note.** DHS's account is taken from its own release; the witness quote from NPR.

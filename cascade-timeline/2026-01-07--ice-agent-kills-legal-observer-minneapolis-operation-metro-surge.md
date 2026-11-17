@@ -97,7 +97,7 @@ The shooting occurred under the national ICE operations command of Greg Bovino, 
 
 The White House claimed the officer was "defending himself" because Good had "weaponized" her SUV. Homeland Security Secretary Kristi Noem called it "an act of domestic terrorism." Minneapolis Mayor Jacob Frey called this narrative "garbage." Video evidence contradicted the administration's claims—showing Good turning away from the agent.
 
-Her wife Becca Good described Renee as "made of sunshine." Her mother Donna Ganger called her "an amazing human being." Becca Good's statement: "Renee leaves behind three extraordinary children; the youngest is just six years old and already lost his father."
+Her wife Becca Good described Renee as "made of sunshine." Her mother called her "an amazing human being." Becca Good's statement: "Renee leaves behind three extraordinary children; the youngest is just six years old and already lost his father."
 
 Hennepin County Attorney Mary Moriarty stated: "I can say that the ICE officer does not have complete immunity here."
 
