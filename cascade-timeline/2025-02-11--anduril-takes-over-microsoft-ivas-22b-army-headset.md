@@ -188,4 +188,4 @@ The February 2025 novation thus transfers a legacy contract for a failed product
 - [[thiel-surveillance-empire-2003-2026-twenty-three-year-vertical-integration]] — 23-year structural context
 - [[trump-2-surveillance-procurement-chronology-2025-2026]] — full procurement chronology; Feb 2025 entry
 - [[tech-stack-of-surveillance-inc-engineering-substrate-2010-2026]] — hyperscaler roles (Azure as cloud backend)
-- [[2026-03-14--anduril-20-billion-army-enterprise-contract]] — separate Lattice OS enterprise vehicle; not the same as IVAS
+- [[2026-03-13--anduril-20-billion-army-enterprise-contract]] — separate Lattice OS enterprise vehicle; not the same as IVAS
