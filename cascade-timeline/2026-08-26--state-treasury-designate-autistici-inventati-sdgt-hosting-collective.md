@@ -41,7 +41,7 @@ sources:
     tier: 2
 related_events:
   - 2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts
-  - 2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists
+  - 2026-02-11--bondi-answers-scanlon-on-whether-doj-prepared-nspm-7-list-i-know-antifa-is-part-of-that-intercept-reports-it-as-an-acknowledgment
   - 2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs
 coverage:
   - daily-capture-reports/feed/2026-08-26--state-dept-sdgt-autistici-inventati-italian-hosting-collective.md
@@ -191,7 +191,7 @@ Secretary Scott Bessent: "Far-left extremists, their fronts, and their enablers 
 
 **What followed.** The Record reports the collective "announced Sunday it will shut down operations" and that it "had grown to host about 16,000 email addresses, 1,500 websites, 5,500 mailing lists." The Next Web says it "will discontinue all services and help users retrieve their data." No criminal charge against the collective is reported in either article, as of the date of those reports.
 
-Related: [[2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts]], [[2026-02-12--bondi-admits-secret-domestic-terrorist-list-exists]], [[2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs]].
+Related: [[2026-04-21--doj-fbi-indict-southern-poverty-law-center-eleven-counts]], [[2026-02-11--bondi-answers-scanlon-on-whether-doj-prepared-nspm-7-list-i-know-antifa-is-part-of-that-intercept-reports-it-as-an-acknowledgment]], [[2025-12-04--bondi-december-memo-tells-prosecutors-to-consider-tax-crimes-by-groups-suspected-of-defrauding-irs]].
 
 ## Correction
 
