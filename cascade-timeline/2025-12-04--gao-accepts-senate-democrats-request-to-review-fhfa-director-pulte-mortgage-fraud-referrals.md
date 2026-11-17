@@ -36,66 +36,81 @@ sources:
 capture_lanes:
 - "Democratic Erosion"
 - "Regulatory Capture"
-status: reported
+status: confirmed
 corrected: '2026-11-17'
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
-  value: "December 4, 2025"
-  qualifier: ""
-  span: "Updated on: December 4, 2025 / 2:41 PM EST"
+  value: December 4, 2025
+  qualifier: ''
+  span: 'Updated on: December 4, 2025 / 2:41 PM EST'
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: quote
-  value: "I can confirm that GAO has accepted this request following our standard process"
-  qualifier: ""
-  span: "\u201cI can confirm that GAO has accepted this request following our standard process,\u201d a GAO spokesperson told CBS News."
+  value: I can confirm that GAO has accepted this request following our standard process
+  qualifier: ''
+  span: “I can confirm that GAO has accepted this request following our standard process,” a GAO spokesperson told CBS News.
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: quote
-  value: "determine whether the agency and its employees misused federal authority and resources"
-  qualifier: ""
-  span: "The senators said they want GAO to \u201cdetermine whether the agency and its employees misused federal authority and resources.\u201d"
+  value: determine whether the agency and its employees misused federal authority and resources
+  qualifier: ''
+  span: The senators said they want GAO to “determine whether the agency and its employees misused federal authority and resources.”
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: quote
-  value: "The first thing GAO does as any work begins is to determine the full scope of what we will cover and the methodology to be used."
-  qualifier: ""
-  span: "\u201cThe first thing GAO does as any work begins is to determine the full scope of what we will cover and the methodology to be used.\u201d"
+  value: The first thing GAO does as any work begins is to determine the full scope of what we will cover and the methodology to be used.
+  qualifier: ''
+  span: “The first thing GAO does as any work begins is to determine the full scope of what we will cover and the methodology to be used.”
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: quote
-  value: "referrals of New York Attorney General Letitia James, U.S. Senator Adam Schiff, Federal Reserve Governor Lisa Cook, and Congressman Eric Swalwell to the U.S. Department of Justice for mortgage fraud"
-  qualifier: ""
-  span: "They asked the congressional investigative arm to look into \u201creferrals of New York Attorney General Letitia James, U.S. Senator Adam Schiff, Federal Reserve Governor Lisa Cook, and Congressman Eric Swalwell to the U.S. Department of Justice for mortgage fraud.\u201d"
+  value: referrals of New York Attorney General Letitia James, U.S. Senator Adam Schiff, Federal Reserve Governor Lisa Cook, and Congressman Eric Swalwell to the U.S. Department of Justice for mortgage fraud
+  qualifier: ''
+  span: They asked the congressional investigative arm to look into “referrals of New York Attorney General Letitia James, U.S. Senator Adam Schiff, Federal Reserve Governor Lisa Cook, and Congressman Eric Swalwell to the U.S. Department of Justice for mortgage fraud.”
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: quote
-  value: "Some Trump administration critics say Pulte is using his authority to target political opponents."
-  qualifier: ""
-  span: "Some Trump administration critics say Pulte is using his authority to target political opponents."
+  value: Some Trump administration critics say Pulte is using his authority to target political opponents.
+  qualifier: ''
+  span: Some Trump administration critics say Pulte is using his authority to target political opponents.
   url: https://www.cbsnews.com/news/congressional-watchdog-probe-bill-pulte-fhfa-head/
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c7
   type: quote
-  value: "All the officials Pulte has referred to the Justice Department have repeatedly denied wrongdoing."
-  qualifier: ""
-  span: "All the officials Pulte has referred to the Justice Department have repeatedly denied wrongdoing."
+  value: All the officials Pulte has referred to the Justice Department have repeatedly denied wrongdoing.
+  qualifier: ''
+  span: All the officials Pulte has referred to the Justice Department have repeatedly denied wrongdoing.
   url: https://www.nbcnews.com/business/real-estate/trump-gao-probe-bill-pulte-rcna247412
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 A GAO spokesperson told CBS News on the date of this entry: "I can confirm that GAO has accepted this request following our standard process."

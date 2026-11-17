@@ -53,82 +53,101 @@ sources:
 capture_lanes:
 - Regulatory Capture
 - Surveillance Infrastructure
-status: reported
+status: confirmed
 corrected: '2026-11-17'
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
-  value: "December 4, 2025"
-  qualifier: ""
-  span: "Office of the Attorney General Washington, D.C. 20530 December 4, 2025"
+  value: December 4, 2025
+  qualifier: ''
+  span: Office of the Attorney General Washington, D.C. 20530 December 4, 2025
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: quote
-  value: "consider any applicable tax crimes"
-  qualifier: ""
-  span: "In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service."
+  value: consider any applicable tax crimes
+  qualifier: ''
+  span: In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: figure
-  value: "14 days"
-  qualifier: "within"
-  span: "To fully implement NSPM-7, within 14 days of the issuance of this guidance, all federal law enforcement agencies are directed to review their files and holdings for Antifa and Antifa-related intelligence and information and coordinate delivery of such material to the Federal Bureau of Investigation (FBI) for review within the JTTFs."
+  value: 14 days
+  qualifier: within
+  span: To fully implement NSPM-7, within 14 days of the issuance of this guidance, all federal law enforcement agencies are directed to review their files and holdings for Antifa and Antifa-related intelligence and information and coordinate delivery of such material to the Federal Bureau of Investigation (FBI) for review within the JTTFs.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: figure
-  value: "past five years"
-  qualifier: "shall investigate"
-  span: "Additionally, in coordination with other members of the JTTFs, the FBI, with the assistance of the Counterterrorism Division, Cyber Division, Criminal Investigative Division, and the Criminal Justice Information Service's National Threat Operations Center, shall investigate matters from the past five years that involved potential acts of domestic terrorism"
+  value: past five years
+  qualifier: shall investigate
+  span: Additionally, in coordination with other members of the JTTFs, the FBI, with the assistance of the Counterterrorism Division, Cyber Division, Criminal Investigative Division, and the Criminal Justice Information Service's National Threat Operations Center, shall investigate matters from the past five years that involved potential acts of domestic terrorism
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: quote
-  value: "No investigation may be opened based solely on activities protected by the First Amendment"
-  qualifier: ""
-  span: "No investigation may be opened based solely on activities protected by the First Amendment or the lawful exercise of rights secured by the Constitution or laws of the United States."
+  value: No investigation may be opened based solely on activities protected by the First Amendment
+  qualifier: ''
+  span: No investigation may be opened based solely on activities protected by the First Amendment or the lawful exercise of rights secured by the Constitution or laws of the United States.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c7
   type: quote
-  value: "Antifa and Antifa-related intelligence"
-  qualifier: ""
-  span: "To fully implement NSPM-7, within 14 days of the issuance of this guidance, all federal law enforcement agencies are directed to review their files and holdings for Antifa and Antifa-related intelligence and information and coordinate delivery of such material to the Federal Bureau of Investigation (FBI) for review within the JTTFs."
+  value: Antifa and Antifa-related intelligence
+  qualifier: ''
+  span: To fully implement NSPM-7, within 14 days of the issuance of this guidance, all federal law enforcement agencies are directed to review their files and holdings for Antifa and Antifa-related intelligence and information and coordinate delivery of such material to the Federal Bureau of Investigation (FBI) for review within the JTTFs.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c8
   type: quote
-  value: "In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service."
-  qualifier: ""
-  span: "In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service."
+  value: In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service.
+  qualifier: ''
+  span: In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c9
   type: quote
-  value: "should investigate and, where appropriate, prosecute those responsible."
-  qualifier: ""
-  span: "As it receives referrals for violations of tax obligations, the DOJ should investigate and, where appropriate, prosecute those responsible."
+  value: should investigate and, where appropriate, prosecute those responsible.
+  qualifier: ''
+  span: As it receives referrals for violations of tax obligations, the DOJ should investigate and, where appropriate, prosecute those responsible.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: figure
-  value: "60 days"
-  qualifier: "Within"
-  span: "Within 60 days of the issuance of this guidance, the FBI, in coordination with its partners on the JTTFs, shall disseminate an intelligence bulletin on Antifa and Antifa-aligned anarchist violent extremist groups."
+  value: 60 days
+  qualifier: Within
+  span: Within 60 days of the issuance of this guidance, the FBI, in coordination with its partners on the JTTFs, shall disseminate an intelligence bulletin on Antifa and Antifa-aligned anarchist violent extremist groups.
   url: https://charityandsecurity.org/wp-content/uploads/2025/12/Bondi_Memo_On_Countering_Domestic_Terrorism_And_Organized_Political_Violence-1.pdf
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 On December 4, 2025, Attorney General Pam Bondi issued a memorandum implementing the President's national security memorandum on domestic terrorism. Its tax sentence reads: "In addition, federal law enforcement and federal prosecutors should consider any applicable tax crimes in cases in which extremist groups are suspected of defrauding the Internal Revenue Service." The next sentence says the Justice Department, as it receives referrals for violations of tax obligations, "should investigate and, where appropriate, prosecute those responsible." The memo is the Justice Department's. It does not revoke a tax exemption, and the sentence does not mention donors.
 

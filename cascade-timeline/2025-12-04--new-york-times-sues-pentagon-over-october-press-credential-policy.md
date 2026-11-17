@@ -36,98 +36,121 @@ sources:
 capture_lanes:
 - "Media Capture and Control"
 - "Democratic Erosion"
-status: reported
+status: confirmed
 corrected: '2026-11-17'
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
-  value: "12/04/25"
-  qualifier: ""
-  span: "Case 1:25-cv-04218 Document 1 Filed 12/04/25"
+  value: 12/04/25
+  qualifier: ''
+  span: Case 1:25-cv-04218 Document 1 Filed 12/04/25
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: date
-  value: "October 6, 2025"
-  qualifier: ""
-  span: "On October 6, 2025, the Department issued its final Policy, a true and correct copy of which is attached hereto as Exhibit A."
+  value: October 6, 2025
+  qualifier: ''
+  span: On October 6, 2025, the Department issued its final Policy, a true and correct copy of which is attached hereto as Exhibit A.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: quote
-  value: "even if I do not necessarily agree with such policies and procedures"
-  qualifier: ""
-  span: "My signature represents my acknowledgement and understanding of such [Department] policies and procedures, even if I do not necessarily agree with such policies and procedures."
+  value: even if I do not necessarily agree with such policies and procedures
+  qualifier: ''
+  span: My signature represents my acknowledgement and understanding of such [Department] policies and procedures, even if I do not necessarily agree with such policies and procedures.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: quote
-  value: "security or safety risk"
-  qualifier: ""
-  span: "if a journalist \u201csolicit[s] the disclosure of such information or otherwise encourages [Department] personnel to violate laws and policies concerning the disclosure of such information,\u201d the Department may deem the journalist a \u201csecurity or safety risk.\u201d"
+  value: security or safety risk
+  qualifier: ''
+  span: if a journalist “solicit[s] the disclosure of such information or otherwise encourages [Department] personnel to violate laws and policies concerning the disclosure of such information,” the Department may deem the journalist a “security or safety risk.”
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: quote
-  value: "does not impose restrictions on journalistic activities, such as investigating, reporting, or publishing stories"
-  qualifier: ""
-  span: "Parnell wrote to \u201cclarif[y]\u201d that the restriction against disclosure in the Policy is one that Pentagon personnel must follow, and \u201cdoes not impose restrictions on journalistic activities, such as investigating, reporting, or publishing stories.\u201d"
+  value: does not impose restrictions on journalistic activities, such as investigating, reporting, or publishing stories
+  qualifier: ''
+  span: Parnell wrote to “clarif[y]” that the restriction against disclosure in the Policy is one that Pentagon personnel must follow, and “does not impose restrictions on journalistic activities, such as investigating, reporting, or publishing stories.”
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: date
-  value: "September 24"
-  qualifier: ""
-  span: "In a response letter dated September 24, Parnell wrote to \u201cclarif[y]\u201d that the restriction against disclosure in the Policy is one that Pentagon personnel must follow"
+  value: September 24
+  qualifier: ''
+  span: In a response letter dated September 24, Parnell wrote to “clarif[y]” that the restriction against disclosure in the Policy is one that Pentagon personnel must follow
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c7
   type: date
-  value: "October 14"
-  qualifier: ""
-  span: "Following its issuance of the Policy on October 6, the Department gave PFAC holders until October 14 to review and sign the Acknowledgment."
+  value: October 14
+  qualifier: ''
+  span: Following its issuance of the Policy on October 6, the Department gave PFAC holders until October 14 to review and sign the Acknowledgment.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c8
   type: figure
-  value: "56"
-  qualifier: "news outlets"
-  span: "On information and belief, of the 56 news outlets represented in the Pentagon Press Association (PPA), only one agreed to sign the Acknowledgement."
+  value: '56'
+  qualifier: news outlets
+  span: On information and belief, of the 56 news outlets represented in the Pentagon Press Association (PPA), only one agreed to sign the Acknowledgement.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c9
   type: quote
-  value: "virtually every other major news organization"
-  qualifier: ""
-  span: "journalists with PFACs at The Times and virtually every other major news organization covering the Pentagon uniformly declined to sign the Acknowledgment."
+  value: virtually every other major news organization
+  qualifier: ''
+  span: journalists with PFACs at The Times and virtually every other major news organization covering the Pentagon uniformly declined to sign the Acknowledgment.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.287334/gov.uscourts.dcd.287334.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c10
   type: quote
-  value: "violated the First and Fifth Amendments"
-  qualifier: ""
-  span: "Judge Paul L. Friedman concluded that the Pentagon\u2019s press credentialing policy violated the First and Fifth Amendments, vacated its unconstitutional provisions, and enjoined their enforcement against The Times and Barnes."
+  value: violated the First and Fifth Amendments
+  qualifier: ''
+  span: Judge Paul L. Friedman concluded that the Pentagon’s press credentialing policy violated the First and Fifth Amendments, vacated its unconstitutional provisions, and enjoined their enforcement against The Times and Barnes.
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.292479/gov.uscourts.dcd.292479.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c11
   type: quote
-  value: "limited stay pending appeal"
-  qualifier: ""
-  span: "Defendants appealed both rulings and obtained a limited stay pending appeal from the D.C. Circuit allowing the Interim Policy\u2019s ban on unescorted access to"
+  value: limited stay pending appeal
+  qualifier: ''
+  span: Defendants appealed both rulings and obtained a limited stay pending appeal from the D.C. Circuit allowing the Interim Policy’s ban on unescorted access to
   url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.292479/gov.uscourts.dcd.292479.1.0.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 The New York Times Company and its reporter Julian E. Barnes sued the Department of Defense and Secretary Pete Hegseth in the District of Columbia on the date of this entry, challenging the Pentagon's press-credential policy of October 6, 2025. The Times's complaint is the source for what follows, and where it quotes the policy or the Department, the quotation is the complaint's.

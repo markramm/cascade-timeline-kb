@@ -36,58 +36,71 @@ sources:
 capture_lanes:
 - "Democratic Erosion"
 - "Judicial Capture"
-status: reported
+status: confirmed
 corrected: '2026-11-17'
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
-  value: "January 21, 2026"
-  qualifier: ""
-  span: "Supreme Court arguments on Trump's effort to fire Fed Governor Lisa Cook on January 21, 2026."
+  value: January 21, 2026
+  qualifier: ''
+  span: Supreme Court arguments on Trump's effort to fire Fed Governor Lisa Cook on January 21, 2026.
   url: https://www.cnn.com/2026/01/21/politics/takeaways-supreme-court-federal-reserve-lisa-cook-trump-power
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: quote
-  value: "Your position that there\u2019s no judicial review, no process required, no remedy available, very low bar for \u2018cause\u2019 \u2013 that the president alone determines \u2013 I mean that would weaken, if not shatter, the independence of the Federal Reserve"
-  qualifier: ""
-  span: "\u201cYour position that there\u2019s no judicial review, no process required, no remedy available, very low bar for \u2018cause\u2019 \u2013 that the president alone determines \u2013 I mean that would weaken, if not shatter, the independence of the Federal Reserve,\u201d Kavanaugh told Sauer."
+  value: Your position that there’s no judicial review, no process required, no remedy available, very low bar for ‘cause’ – that the president alone determines – I mean that would weaken, if not shatter, the independence of the Federal Reserve
+  qualifier: ''
+  span: “Your position that there’s no judicial review, no process required, no remedy available, very low bar for ‘cause’ – that the president alone determines – I mean that would weaken, if not shatter, the independence of the Federal Reserve,” Kavanaugh told Sauer.
   url: https://www.cnn.com/2026/01/21/politics/takeaways-supreme-court-federal-reserve-lisa-cook-trump-power
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: quote
-  value: "If you\u2019re correct that courts do not have authority to reinstate a removed officer, why are we wasting our time wondering if there\u2019s cause or not?"
-  qualifier: ""
-  span: "\u201cIf you\u2019re correct that courts do not have authority to reinstate a removed officer, why are we wasting our time wondering if there\u2019s cause or not?\u201d Roberts asked."
+  value: If you’re correct that courts do not have authority to reinstate a removed officer, why are we wasting our time wondering if there’s cause or not?
+  qualifier: ''
+  span: “If you’re correct that courts do not have authority to reinstate a removed officer, why are we wasting our time wondering if there’s cause or not?” Roberts asked.
   url: https://www.cnn.com/2026/01/21/politics/takeaways-supreme-court-federal-reserve-lisa-cook-trump-power
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: quote
-  value: "No court has ever explored those facts,"
-  qualifier: ""
-  span: "\"No court has ever explored those facts,\" Justice Samuel Alito noted."
+  value: No court has ever explored those facts,
+  qualifier: ''
+  span: '"No court has ever explored those facts," Justice Samuel Alito noted.'
   url: https://abcnews.go.com/Politics/trump-pressures-fed-supreme-court-weighs-bid-fire/story?id=129293559
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: quote
-  value: "It's our position that adequate process was already provided,"
-  qualifier: ""
-  span: "\"It's our position that adequate process was already provided,\" Sauer replied."
+  value: It's our position that adequate process was already provided,
+  qualifier: ''
+  span: '"It''s our position that adequate process was already provided," Sauer replied.'
   url: https://abcnews.go.com/Politics/trump-pressures-fed-supreme-court-weighs-bid-fire/story?id=129293559
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: quote
-  value: "The case was being examined by the court in a very preliminary posture, focusing primarily on Trump's request to stay a lower court order that Cook be allowed to remain on the job."
-  qualifier: ""
-  span: "The case was being examined by the court in a very preliminary posture, focusing primarily on Trump's request to stay a lower court order that Cook be allowed to remain on the job."
+  value: The case was being examined by the court in a very preliminary posture, focusing primarily on Trump's request to stay a lower court order that Cook be allowed to remain on the job.
+  qualifier: ''
+  span: The case was being examined by the court in a very preliminary posture, focusing primarily on Trump's request to stay a lower court order that Cook be allowed to remain on the job.
   url: https://abcnews.go.com/Politics/trump-pressures-fed-supreme-court-weighs-bid-fire/story?id=129293559
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 The Supreme Court heard argument in Trump v. Cook on the date of this entry. ABC News described the case as "in a very preliminary posture", focused on Trump's request to stay a lower court order that Cook remain on the job.

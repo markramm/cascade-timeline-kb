@@ -35,58 +35,71 @@ sources:
 capture_lanes:
 - "Regulatory Capture"
 - "Financial Capture"
-status: reported
+status: confirmed
 corrected: '2026-11-17'
 event_date_claim: c1
+verification: source-verified
 claims:
 - id: c1
   type: date
-  value: "August 15, 2025"
-  qualifier: ""
-  span: "August 15, 2025 The Honorable Pamela J. Bondi Edward R. Martin, Jr. Department of Justice"
+  value: August 15, 2025
+  qualifier: ''
+  span: August 15, 2025 The Honorable Pamela J. Bondi Edward R. Martin, Jr. Department of Justice
   url: https://clearinghouse-umich-production.s3.amazonaws.com/media/resource/putle-criminal-referral-letter-1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c2
   type: quote
-  value: "it appears an individual, Ms. Lisa DeNell Cook, has falsified bank documents and property records to acquire more favorable loan terms, potentially committing mortgage fraud under the criminal statute"
-  qualifier: ""
-  span: "According to mortgage documents obtained by U.S. Federal Housing, it appears an individual, Ms. Lisa DeNell Cook, has falsified bank documents and property records to acquire more favorable loan terms, potentially committing mortgage fraud under the criminal statute."
+  value: it appears an individual, Ms. Lisa DeNell Cook, has falsified bank documents and property records to acquire more favorable loan terms, potentially committing mortgage fraud under the criminal statute
+  qualifier: ''
+  span: According to mortgage documents obtained by U.S. Federal Housing, it appears an individual, Ms. Lisa DeNell Cook, has falsified bank documents and property records to acquire more favorable loan terms, potentially committing mortgage fraud under the criminal statute.
   url: https://clearinghouse-umich-production.s3.amazonaws.com/media/resource/putle-criminal-referral-letter-1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c3
   type: date
-  value: "June 18, 2021"
-  qualifier: ""
-  span: "On June 18, 2021, Ms. Cook acquired a loan on the property at"
+  value: June 18, 2021
+  qualifier: ''
+  span: On June 18, 2021, Ms. Cook acquired a loan on the property at
   url: https://clearinghouse-umich-production.s3.amazonaws.com/media/resource/putle-criminal-referral-letter-1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c4
   type: date
-  value: "July 2, 2021"
-  qualifier: ""
-  span: "On July 2, 2021, just two weeks later, Ms. Cook also purchased a condominium in Atlanta\u2019s"
+  value: July 2, 2021
+  qualifier: ''
+  span: On July 2, 2021, just two weeks later, Ms. Cook also purchased a condominium in Atlanta’s
   url: https://clearinghouse-umich-production.s3.amazonaws.com/media/resource/putle-criminal-referral-letter-1.pdf
   read: fetched
   source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c5
   type: date
-  value: "Oct 14, 2026"
-  qualifier: ""
-  span: "Politics Oct 14, 2026 5:46 PM EST WASHINGTON (AP)"
+  value: Oct 14, 2026
+  qualifier: ''
+  span: Politics Oct 14, 2026 5:46 PM EST WASHINGTON (AP)
   url: https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 - id: c6
   type: quote
-  value: "Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board, a claim she has denied. No criminal charges have been filed."
-  qualifier: ""
-  span: "Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board, a claim she has denied. No criminal charges have been filed."
+  value: Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board, a claim she has denied. No criminal charges have been filed.
+  qualifier: ''
+  span: Trump has accused Cook of committing mortgage fraud in 2021, before she joined the board, a claim she has denied. No criminal charges have been filed.
   url: https://www.pbs.org/newshour/politics/lawyers-for-federal-reserves-lisa-cook-say-white-house-hearing-set-up-by-trump-is-biased
   read: fetched
   source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
 FHFA Director William Pulte's referral letter to Attorney General Pamela Bondi and Special Attorney Edward Martin is dated August 15, 2025.
