@@ -54,10 +54,16 @@ sources:
   publisher: NBC 7 San Diego
   date: '2026-11-06'
   tier: 2
+- title: ICE Detainee Death Reporting page (Wayback 2026-11-15)
+  url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+  publisher: U.S. Immigration and Customs Enforcement
+  date: '2026-09-23'
+  tier: 1
 related_events:
 - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 - 2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026
 - 2026-08-13--ice-custody-deaths-reach-24-2026-on-pace-to-break-2025-record
+verification: disputed
 claims:
 - id: c1
   type: date
@@ -448,6 +454,15 @@ claims:
   id: u37
   outcome: verified
   checked: '2026-11-09'
+- type: date
+  value: August 23, 2026
+  span: FY 2026 Date of Death Name August 23, 2026 Wei, Lianyong
+  url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+  read: fetched
+  source_kind: primary
+  id: u38
+  outcome: verified
+  checked: '2026-11-17'
 verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
@@ -527,6 +542,15 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
+- date: '2026-08-23'
+  date_kind: date of death of the newest person ICE's page lists
+  heading: ICE's death page lists no death after August 23, 2026
+  claims:
+  - u38
+  event_date_claim: u38
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 approved_names:
 - Roberto Jimenez Gutierrez
 - Guillermo Pascual Verganza
@@ -574,3 +598,7 @@ The San Diego County Medical Examiner's office identified the man as Guillermo P
 Members of San Diego's congressional delegation and California's senators on Friday demanded answers from the Trump administration in the death, City News Service reported, in a story run by NBC San Diego. Rep. Juan Vargas, Rep. Scott Peters, Rep. Sara Jacobs, Rep. Mike Levin, Sen. Alex Padilla and Sen. Adam Schiff wrote a letter to demand an investigation, addressed to Secretary of Homeland Security Markwayne Mullin and Acting ICE Director David Venturella. The letter cites "previously documented concerns regarding delayed access to medical care, subpar detention conditions and compliance with public health reporting requirements," and asks that the department "regularly update members of Congress as the investigation progresses."
 
 ICE did not respond to the outlet's request for comment about the death.
+
+## Update (2026-08-23, date of death of the newest person ICE's page lists): ICE's death page lists no death after August 23, 2026
+
+ICE's Detainee Death Reporting page lists no death after August 23, 2026. Counts for this death come from ICE's separate death notifications and from press and advocacy tallies, not from that page.

@@ -37,10 +37,40 @@ sources:
     publisher: UCLA School of Law
     date: '2026-08-13'
     tier: 1
+  - title: ICE Detainee Death Reporting page (Wayback 2026-11-15)
+    url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+    publisher: U.S. Immigration and Customs Enforcement
+    date: '2026-09-23'
+    tier: 1
 approved_names:
   - Edwin Lopez-Cornejo
+verification: captured
+claims:
+- type: date
+  value: August 23, 2026
+  span: FY 2026 Date of Death Name August 23, 2026 Wei, Lianyong
+  url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-17'
+updates:
+- date: '2026-08-23'
+  date_kind: date of death of the newest person ICE's page lists
+  heading: ICE's death page, which lists deaths by date, has no death after August 23, 2026
+  claims:
+  - u1
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 ---
 
 At least 24 people had died in ICE custody in 2026 as of mid-August, with counts including post-release deaths reaching 26 through the first seven months — a pace roughly 25 percent above 2025, which itself recorded 33 deaths, the highest total in more than two decades. Edwin Lopez-Cornejo, a 41-year-old Salvadoran citizen, died August 1, 2026 at University Hospital in Newark after detention at Delaney Hall. The surge tracks the detention population, which exceeded 60,000 by early April 2026. Independent trackers have proliferated in response to the gap in official reporting: NIPNLG's named-deaths list, the San Francisco Chronicle's database, and UCLA Law's Behind Bars Data Project, which compiled the first full dataset on deaths in ICE custody.
 
 That four separate outside institutions are maintaining parallel death counts is itself the structural finding. The official number is not a neutral tally — ICE stopped reporting deaths of people who die after release from custody (2026-08-12--chajon-raxon-third-delaney-hall-death-post-release-non-reporting-policy), a change formalized in the Venturella memo (2026-06-04--venturella-memo-eliminates-post-release-death-reporting-ice-accountability-erasure), and Mother Jones documented specific undercounted deaths at Stewart (2026-08-05--mother-jones-ice-death-undercount-stewart-detention-trejo-ricano). Reuters found the detention death rate had doubled amid overcrowding and medical failure (2026-06-17--reuters-ice-detention-death-rate-doubles-50-deaths-overcrowding-medical-failure); HRW documented 52 deaths and a UN demand for investigation (2026-06-25--hrw-documents-52-ice-custody-deaths-un-demands-investigation). The denominator keeps growing under the 96,600-bed warehouse expansion (2026-06-24--aclu-17-ice-custody-deaths-warehouse-expansion-96600-beds) while per-facility oversight thins. Deaths rise with capacity; the reported count is managed downward by redefinition. The two curves are diverging by design.
+
+## Update (2026-08-23, date of death of the newest person ICE's page lists): ICE's death page, which lists deaths by date, has no death after August 23, 2026
+
+ICE's Detainee Death Reporting page lists no death after August 23, 2026. The page gives no total; the headline's count is a tracker count that the page does not state.

@@ -33,9 +33,15 @@ sources:
     publisher: NBC News
     date: '2026-09-11'
     tier: 2
+  - title: ICE Detainee Death Reporting page (Wayback 2026-11-15)
+    url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+    publisher: U.S. Immigration and Customs Enforcement
+    date: '2026-09-23'
+    tier: 1
 coverage:
   - path: daily-capture-reports/headline/2026-07-31--ice-july-2026-record-arrests-49571.md
     note: "NPR (Aug 26) reports 49,571 July arrests from Deportation Data Project data (c1), against June 43,021 (c3), a third July arrest count beside the 46,000 and 51,000 recorded here; unresolved. Dropped as duplicate 2026-10-01."
+verification: captured
 claims:
 - type: date
   value: Sept. 11, 2026
@@ -82,6 +88,15 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: August 23, 2026
+  span: FY 2026 Date of Death Name August 23, 2026 Wei, Lianyong
+  url: http://web.archive.org/web/20261115135154/https://www.ice.gov/detain/detainee-death-reporting
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-17'
 updates:
 - date: '2026-09-11'
   date_kind: publication date (NBC News report)
@@ -96,6 +111,15 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-arrest-surge
+- date: '2026-08-23'
+  date_kind: date of death of the newest person ICE's page lists
+  heading: ICE's death page, which lists deaths by date, has no death after August 23, 2026
+  claims:
+  - u6
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 approved_names:
   - Edwin Lopez-Cornejo
 ---
@@ -113,3 +137,7 @@ The arrest count itself is contested. Austin Kocher's analysis of Deportation Da
 ## Update (2026-09-11, publication date (NBC News report)): DHS monthly arrest figures for June, July and August 2026
 
 NBC News reported, citing DHS, that ICE officers and agents arrested a record-breaking 50,925 people in August alone. That followed 50,208 arrests in July, according to DHS. Officers made nearly 44,000 arrests in June. ICE in August averaged around 1,600 arrests per day. The July figure here differs from the one above.
+
+## Update (2026-08-23, date of death of the newest person ICE's page lists): ICE's death page, which lists deaths by date, has no death after August 23, 2026
+
+ICE's Detainee Death Reporting page lists no death after August 23, 2026. The page gives no total; the headline's count is a tracker count that the page does not state.
