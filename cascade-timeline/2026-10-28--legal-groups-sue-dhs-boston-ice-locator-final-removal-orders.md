@@ -101,6 +101,35 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-31'
+- id: c11
+  type: figure
+  value: Nearly 16,000
+  qualifier: more than a third of the overall bookings
+  span: Nearly 16,000 people who were arrested and booked into ICE detention in July were subject to final removal orders, more than a third of the overall bookings, according to ICE data obtained by the Deportation Data Project based at U.C. Berkeley and UCLA.
+  url: https://elpasomatters.org/2026/09/22/immigration-ice-finding-detainees-associated-press/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c13
+  type: quote
+  value: more than 16,000 of the nearly 69,000 detainees who were in ICE custody
+  qualifier: As of last month
+  span: As of last month, the move affected more than 16,000 of the nearly 69,000 detainees who were in ICE custody.
+  url: https://www.wbur.org/news/2026/10/29/boston-lawsuit-ice-online-detainee-locator-system-hidden-detainees
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c12
+  type: attribution
+  value: have not publicly confirmed the change
+  span: ICE and its parent agency, the Department of Homeland Security, have not publicly confirmed the change but have said they are prioritizing people with final removal orders for deportation.
+  url: https://www.wbur.org/news/2026/10/29/boston-lawsuit-ice-online-detainee-locator-system-hidden-detainees
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
 tags:
 - ice
 - dhs
@@ -123,3 +152,7 @@ related_events:
 ---
 
 Immigration legal services organizations sued DHS in federal court in Boston on Wednesday over a mid-September change that removed people with final removal orders from ICE's public locator. More than 20,000 people, by the Boston Globe's account of the complaint, or more than 16,000, by WBUR/AP. DHS said: "removal, plain and simple." The suit raises the Administrative Procedure Act.
+
+## Correction (2026-11-17)
+
+The sentence above gives "more than 16,000" as a second count of the people removed from the locator, next to the complaint's more than 20,000. Read at the source, AP's first story, in September, the earlier use of that figure, says "Nearly 16,000" people booked into ICE detention in July had final removal orders, more than a third of the overall bookings. That counts July book-ins, not names removed from the locator, and not a share of everyone detained. AP's story on the suit restates it as "more than 16,000 of the nearly 69,000 detainees who were in ICE custody", a framing the earlier data does not support. The same story says ICE and DHS have not publicly confirmed the change, and neither agency has given a count of names removed. The earlier text is kept above.
