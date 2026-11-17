@@ -62,7 +62,12 @@ sources:
   date: '2013-12-01'
   verified: true
   tier: 2
-status: confirmed
+- title: SENATE COMMITTEE CLEARS GLENN OF IMPROPRIETY IN KEATING CASE
+  url: https://michaeljesse.net/work/dayton/intranet/library/factfiles/people/glenn.john/clips/910228.html
+  outlet: Dayton Daily News (Knight-Ridder)
+  date: '1991-02-28'
+  tier: 2
+status: reported
 validation_metadata:
   last_corrected: '2025-10-15T16:55:16.551845'
   corrected_by: qa-v2-612
@@ -72,4 +77,8 @@ validation_metadata:
   - Enhanced summary with additional context about systemic fraud
 ---
 
-Charles Keating, through American Continental Corporation, purchases Lincoln Savings and Loan for $51 million. Exploiting the deregulated environment created by Garn-St Germain, Keating rapidly expands Lincoln's assets from $1.1 billion to $5.5 billion over four years through high-risk real estate speculation and fraudulent bond sales. Keating coordinates a systematic influence network, providing $1.5 million in campaign contributions to five U.S. Senators (the "Keating Five") who later pressure regulators to overlook Lincoln's suspicious activities, demonstrating coordinated regulatory capture across legislative and executive branches. The event reveals how financial deregulation, weak oversight, and strategic political contributions enabled widespread institutional fraud.
+Charles Keating, through American Continental Corporation, purchases Lincoln Savings and Loan for $51 million. Exploiting the deregulated environment created by Garn-St Germain, Keating rapidly expands Lincoln's assets from $1.1 billion to $5.5 billion over four years through high-risk real estate speculation and fraudulent bond sales. Five U.S. senators (the "Keating Five") later met with regulators while Lincoln was under investigation; Keating contributed $1.3 million overall to their campaigns, per a Knight-Ridder report of the Senate Ethics Committee's findings (see the 1987 Keating Five entry for the committee's findings by senator). The event reveals how financial deregulation, weak oversight, and strategic political contributions enabled widespread institutional fraud.
+
+## Correction (2026-11-16)
+
+The earlier sentence on the senators gave a larger contribution total and described the senators as pressuring regulators to overlook Lincoln. The cited reports give the total in the sentence above; the committee's findings differed by senator and are given in the 1987 entry. The other figures in this entry (the purchase price and asset growth) were not re-read at source in this pass.
