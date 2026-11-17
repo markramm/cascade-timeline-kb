@@ -121,7 +121,7 @@ sources:
     date: '2026-03-03'
     tier: 2
 related_events:
-  - 2026-04-29--dhs-penlink-plx-no-bid-contract-warrantless-realtime-interception
+  - 2026-04-29--ice-task-force-penlink-plx-sole-source-8a-chenega-award
   - 2026-08-20--maryland-ag-complaint-penlink-thomson-reuters-geolocation-ice
   - 2026-06-29--scotus-chatrie-location-data-fourth-amendment-geofence-warrant
   - 2026-03-18--patel-fbi-confirms-warrantless-purchase-commercial-data
