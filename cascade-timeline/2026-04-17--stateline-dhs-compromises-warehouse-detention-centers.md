@@ -114,6 +114,10 @@ Three structural implications:
 - Target: approximately 100,000 beds by November 2026
 - Other states continuing pushback: multiple state AGs, city councils in the affected sites
 
+## Correction, 2026-11-17
+
+The title's "Beds Each" and the "542 detainees" lines above are kept as first written. Stateline's word is "detainees": its sentence, read 2026-11-17 in the NC Newsline republication (https://ncnewsline.com/2026/04/17/repub/pushback-leads-homeland-security-to-compromise-on-some-warehouse-detention-centers-for-immigrants/), is "A plan to house up to 1,500 immigrants in Surprise, Arizona, starting as soon as May was scaled back to 542 detainees starting in October at the earliest, and DHS agreed to pay the city $300,000 a year for lost property taxes." It reports the same cut at Williamsport as "a scale-back from 1,500 detainees to 542". The 542 and the $300,000 a year are Stateline's report of DHS's revised plan; no DHS or city record of either was read. For Surprise, the plan was overtaken: Arizona's Attorney General sued in April, and on July 1, 2026 a stipulated deal with DHS paused conversion of the building (see [[2026-07-01--arizona-ag-stipulation-pauses-surprise-warehouse-ice-conversion]]). The October start date is moot while that pause stands, so "542 each" is a plan reported on April 17, not a standing fact. The "64 percent" is this entry's arithmetic (1 minus 542/1,500), not a Stateline figure.
+
 ## Research Gaps
 
 - [ ] The specific legal theory of Maryland AG Anthony Brown's lawsuit beyond the "environmental, economic, public health and safety" framing — what statutory hooks
