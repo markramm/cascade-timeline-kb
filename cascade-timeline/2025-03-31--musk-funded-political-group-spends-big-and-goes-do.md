@@ -3,8 +3,9 @@ type: timeline_event
 id: 2025-03-31--musk-funded-political-group-spends-big-and-goes-do
 date: 2025-03-31
 title: Musk-funded political group spends big and goes door to door in the Wisconsin Supreme Court race
-description: Musk’s America PAC has spent over $4.3 million on door-to-door canvassing to boost conservative Brad Schimel in the Wisconsin Supreme Court race
+description: AP, citing Wisconsin Democracy Campaign figures, reported America PAC had spent $4.3 million on canvassing alone as of a week before the April 1 Wisconsin Supreme Court election, for an open seat
 status: confirmed
+event_date_claim: c7
 importance: 7
 location: Washington, D.C.
 actors:
@@ -45,9 +46,113 @@ patterns:
 notes: Event from comprehensive kleptocracy timeline tracking.
 capture_lanes:
 - Judicial Capture
+verification: source-verified
+claims:
+- id: c1
+  type: figure
+  value: $4.3 million
+  qualifier: canvassing alone
+  span: As of one week before the election, America PAC had spent $4.3 million on canvassing alone, according to figures compiled by the Wisconsin Democracy Campaign, a nonprofit, nonpartisan organization that advocates for transparency in campaign spending.
+  url: https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: figure
+  value: more than $17 million
+  qualifier: Groups linked to Musk
+  span: Groups linked to Musk have spent more than $17 million to support Schimel in what's become the most expensive judicial race in American history.
+  url: https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: posture
+  value: an open seat on the state's highest court
+  qualifier: open seat
+  span: Musk's America PAC has sent paid canvassers across Wisconsin since early February, before conservative Brad Schimel advanced in a nonpartisan primary to face liberal Susan Crawford for an open seat on the state's highest court, where liberal justices hold a 4-3 majority and retirement this year of a liberal justice puts majority control of the court in play.
+  url: https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: figure
+  value: about $17 million
+  qualifier: disclosed
+  span: Two pro-Schimel groups linked to Musk — America PAC and Building America’s Future — had disclosed spending about $17 million, as of March 25.
+  url: https://www.propublica.org/article/wisconsin-supreme-court-race-most-expensive-us-history-elon-musk
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: figure
+  value: 2,364,887
+  qualifier: Total Votes
+  span: 'JUSTICE OF THE SUPREME COURT 1,062,330 44.92% Total Votes: Brad Schimel 2,364,887'
+  url: https://elections.wi.gov/sites/default/files/documents/April%201%202025%20Spring%20Election_Summary%20Results.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: figure
+  value: 1,062,330
+  qualifier: Total Votes
+  span: 'JUSTICE OF THE SUPREME COURT 1,062,330 44.92% Total Votes: Brad Schimel 2,364,887'
+  url: https://elections.wi.gov/sites/default/files/documents/April%201%202025%20Spring%20Election_Summary%20Results.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: date
+  value: Mar 31, 2025
+  qualifier: ''
+  span: Musk PAC spends big and goes door to door in Wisconsin Supreme Court race Politics Mar 31, 2025 2:18 PM EST GREEN BAY, Wis. (AP)
+  url: https://www.pbs.org/newshour/politics/musk-pac-spends-big-and-goes-door-to-door-in-wisconsin-supreme-court-race
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: date
+  value: April 1
+  qualifier: election
+  span: Susan Crawford has been elected to a 10-year term on the Wisconsin Supreme Court, defeating Waukesha County Circuit Court Judge Brad Schimel in the April 1 election.
+  url: https://www.wicourts.gov/news/thirdbranch/apr25/crawford.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: posture
+  value: most expensive state Supreme Court race in U.S. history
+  qualifier: ''
+  span: The race attracted substantial national attention and was the most expensive state Supreme Court race in U.S. history.
+  url: https://www.wicourts.gov/news/thirdbranch/apr25/crawford.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: posture
+  value: seat of retiring Justice Ann Walsh Bradley
+  qualifier: retiring
+  span: She will take the seat of retiring Justice Ann Walsh Bradley, who is set to leave the bench on July 31 after nearly three decades of service.
+  url: https://www.wicourts.gov/news/thirdbranch/apr25/crawford.htm
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-16'
 ---
-Elon Musk's America PAC spent over $4.3 million on door-to-door canvassing and political outreach in the April 1, 2025, Wisconsin Supreme Court race, backing conservative candidate Brad Schimel against liberal incumbent Susan Crawford. The Wisconsin Supreme Court race was one of the highest-profile state judicial elections in American history, driven by its implications for abortion rights, redistricting cases, and the court's ideological balance. Musk personally traveled to Wisconsin, attended events, and used his X platform to amplify the effort, framing the race as a battle between "common sense" and "radical liberal judges."
+Elon Musk's America PAC had spent $4.3 million on canvassing alone as of a week before the April 1 Wisconsin Supreme Court election, according to figures compiled by the Wisconsin Democracy Campaign and reported by the Associated Press. That is one line of America PAC spending, not a total for Musk: AP separately reported that groups linked to Musk had spent more than $17 million to support Brad Schimel, without naming who tallied it, and ProPublica put the pro-Schimel groups it named, America PAC and Building America's Future, at about $17 million disclosed as of March 25.
 
-Wisconsin Attorney General Josh Kaul sought to block Musk's plans to distribute million-dollar cash payments to registered voters in the state as part of America PAC's canvassing operation, arguing the payments constituted illegal vote buying. Despite the legal challenge and Musk's massive financial commitment — total spending associated with him and affiliated groups reached approximately $21 million — liberal candidate Susan Crawford won the April 1 election by a comfortable margin. Newsweek reported that Musk had "wasted $21M on Wisconsin Supreme Court election failure," with Crawford's win maintaining the liberal majority on the court.
+The seat was open. AP wrote that Schimel and Susan Crawford were running for an open seat on the state's highest court, and the court's own news page says Crawford took the seat of retiring Justice Ann Walsh Bradley. The Wisconsin Elections Commission's canvass counts 2,364,887 votes in the contest, 1,062,330 of them for Schimel; the court's news page says Crawford was elected. The court's news page calls it the most expensive state Supreme Court race in U.S. history.
 
-The Wisconsin loss represented a significant setback for Musk's attempts to use his personal fortune to reshape state courts, following his success in the 2024 Pennsylvania and other swing-state campaigns. The defeat prompted analysis of why Musk's spending had not produced the expected result, with observers noting that the explicit involvement of a billionaire with government power in a judicial race had itself become a motivating issue for voters who opposed Crawford's challenger. Musk's intervention in a state supreme court race — while simultaneously wielding influence over federal regulatory agencies as DOGE's leader — illustrated the unprecedented overlap between private political spending and governmental power in the Trump era.
+## Correction (2026-11-16)
+
+The earlier text called Crawford the "liberal incumbent"; she was a Dane County circuit judge running for the seat of a retiring justice, so the seat was open. It also gave a spending total for Musk and affiliated groups, and attributed a "wasted" quotation to Newsweek, that the Newsweek page fetched for this correction does not contain; that page gives other Musk figures on other bases (one attributed there to CNN, one unattributed, one Newsweek's own tally including petition payments), so no single total is given here and the figures are not additive. "Liberal" and "conservative" are the press's labels for who backed whom; the ballot is non-partisan. Sentences on the Attorney General's challenge to the giveaways, on Musk's framing of the race, and on his earlier campaigns were removed because no fetched source holds them. Spending figures on other bases are on [[2025-03-25--musk-and-trump-ratchet-up-involvement-in-wisconsin-supreme-c]]. The location field (Washington, D.C.) is not corrected here.
