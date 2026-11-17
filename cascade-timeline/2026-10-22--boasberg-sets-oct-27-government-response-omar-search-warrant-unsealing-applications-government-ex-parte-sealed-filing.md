@@ -166,6 +166,60 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-13'
+- type: date
+  value: November 17, 2026
+  span: So ORDERED by Chief Judge James E. Boasberg on November 17, 2026.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-17'
+- type: date
+  value: Motion Hearing held on November 17, 2026
+  span: Motion Hearing held on November 17, 2026. Oral arguments submitted, and a minute order is forthcoming.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-17'
+- type: quote
+  value: By November 20, 2026
+  span: By November 20, 2026, the Government shall submit to the Court ex parte all documents on the SW docket (excluding the search-warrant affidavit, but including the docket sheet) in redboxed and redacted forms
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-17'
+- type: quote
+  value: no earlier than 5:00 p.m. on November 23, 2026
+  span: Absent a stay, the Court will publish the documents in redacted form on its website no earlier than 5:00 p.m. on November 23, 2026
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u10
+  outcome: verified
+  checked: '2026-11-17'
+- type: date
+  value: November 30, 2026
+  span: Applicants shall file any response to the redactions by November 30, 2026
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u11
+  outcome: verified
+  checked: '2026-11-17'
+- type: quote
+  value: The Court will not publish any redacted material without speaking to the Government first.
+  span: The Court will not publish any redacted material without speaking to the Government first.
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/
+  read: fetched
+  source_kind: primary
+  id: u12
+  outcome: verified
+  checked: '2026-11-17'
 tags:
 - omar
 - hsi
@@ -233,6 +287,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-17'
+  date_kind: order date (minute order)
+  heading: After the Nov. 17 hearing, Boasberg sets a schedule to publish redacted warrant-docket documents
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 The government did not respond to the Omar search-warrant unsealing applications by the deadline the court had set. It asked for more time, and on October 22 Chief Judge James E. Boasberg granted that motion in part and denied it in part.
@@ -254,3 +322,9 @@ The government's Oct. 27 opposition is on the public docket in redacted form (ab
 ## Update (2026-11-12, order date (minute order)): Boasberg sets a Nov. 17 hearing and asks the government why more than the affidavit cannot be unsealed
 
 On November 12, 2026, Chief Judge James E. Boasberg ordered the parties to appear for a hearing on November 17, 2026, at 11:00 a.m. on the applications to unseal. His minute order adds: "The Government shall be prepared to address why materials beyond the Affidavit itself cannot be unsealed." The docket shows no order unsealing any of the warrant materials as of this pass.
+
+## Update (2026-11-17, order date (minute order)): After the Nov. 17 hearing, Boasberg sets a schedule to publish redacted warrant-docket documents
+
+On November 17, 2026, after the motion hearing, Chief Judge James E. Boasberg ordered that by November 20, 2026 the government submit to the court ex parte all documents on the search-warrant docket, excluding the affidavit but including the docket sheet, in redboxed and redacted forms. Absent a stay, the court will publish the documents in redacted form on its website no earlier than 5:00 p.m. on November 23, 2026.
+
+Applicants may file a response to the redactions by November 30, 2026. The court will not publish any redacted material without speaking to the government first.

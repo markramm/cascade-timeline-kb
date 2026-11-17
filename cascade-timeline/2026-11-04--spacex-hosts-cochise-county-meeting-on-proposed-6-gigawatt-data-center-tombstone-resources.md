@@ -88,6 +88,60 @@ claims:
   url: https://www.cochise.az.gov/DocumentCenter/View/29062
   read: fetched
   source_kind: primary
+- type: date
+  value: Nov. 16
+  span: 'Published: Nov. 16, 2026 at 5:55 PM MST'
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-17'
+- type: figure
+  value: $50 billion
+  span: SpaceX has announced plans to build a $50 billion data center campus in Cochise County, and several community groups are organizing to stop it.
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-17'
+- type: figure
+  value: nearly 750 acres
+  span: The data center would sit on nearly 750 acres near Willcox Playa and would be the largest in the state.
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-17'
+- type: figure
+  value: $3 billion
+  span: According to the company’s application, SpaceX would invest more than $3 billion in power grid upgrades.
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-17'
+- type: attribution
+  value: Kris Mayes
+  span: Arizona Attorney General Kris Mayes said in an interview with On Your Side’s Christine Stanwood that she has concerns and that her office is taking a closer look.
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-17'
+- type: date
+  value: Dec. 9
+  span: The project still must go before the county’s Planning and Zoning Board, which will hold a hearing Dec. 9.
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-17'
 sources:
 - title: '13 News (azfamily): SpaceX hosts community meeting about proposed massive data center in Cochise County'
   url: https://www.azfamily.com/2026/11/05/spacex-behind-proposed-data-center-cochise-county/
@@ -99,6 +153,11 @@ sources:
   publisher: Cochise County
   date: '2026-11-04'
   tier: 1
+- title: SpaceX plans $50B data center campus in Cochise County
+  url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
+  publisher: AZFamily
+  date: '2026-11-16'
+  tier: 2
 captured_by: capture-watch
 cluster: ai-industry-policy
 source_published_date: '2026-11-05'
@@ -110,8 +169,29 @@ tags:
 - energy
 summary: SpaceX hosted a meeting on a proposed Cochise County AI data center whose application, filed by Tombstone Resources LLC, calls for up to six gigawatts.
 verification: source-verified
+updates:
+- date: '2026-11-16'
+  date_kind: publication date
+  heading: AZFamily reports SpaceX plan at $50 billion; Arizona attorney general is taking a closer look; county hearing set Dec. 9
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 SpaceX hosted a community meeting on Wednesday evening about a proposed data center in rural Cochise County, Arizona, Arizona's Family reported. The project, near the Apache Generating Station along U.S. Highway 191, would cover approximately 747 acres and include nine data center buildings for artificial intelligence. A special use application filed with the county under Tombstone Resources LLC says the facility would require up to 6,000 megawatts of electricity at full build-out. The application names Tombstone Resources LLC as the applicant, and the station reports that the relationship between it and SpaceX is unclear. The Cochise County Planning and Zoning Commission is scheduled to hold a formal public hearing on Dec. 9.
 
 The applicant's own notice of the meeting, on Tombstone Resources letterhead and posted by the county, says SpaceX will host the town hall. See [[tombstone-resources-llc]] for what the application and the record show about the applicant.
+
+## Update (2026-11-16, publication date): AZFamily reports SpaceX plan at $50 billion; Arizona attorney general is taking a closer look; county hearing set Dec. 9
+
+AZFamily reported on Nov. 16 that SpaceX has announced plans to build a $50 billion data center campus in Cochise County, and that several community groups are organizing to stop it. The outlet says the campus would sit on nearly 750 acres near Willcox Playa. According to the company's application, SpaceX would invest more than $3 billion in power grid upgrades.
+
+Arizona Attorney General Kris Mayes told AZFamily that she has concerns and that her office is taking a closer look. The project still must go before the county's Planning and Zoning Board, which will hold a hearing Dec. 9. The $50 billion figure is AZFamily's report of SpaceX's announcement; the company's application was not read for this update.
