@@ -283,7 +283,7 @@ The Palantir and facial-recognition material comes from the PWS, not from the no
 
 Earlier versions of this entry tied the item to Palantir's ELITE system. That link is inference: the PWS "does not identify the receiving Palantir application."
 
-This sits in the Palantir-ICE buildout the timeline has tracked: [[2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone]], [[2025-10-31--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy]] and [[2026-04-01--immigrationos-palantir-tracking-us-citizens-medicaid-irs-dmv]].
+This sits in the Palantir-ICE buildout the timeline has tracked: [[2026-06-24--mijente-jfl-srl-report-ice-cbp-awards-513m-to-11-surveillance-firms-jan-apr-2026]], [[2025-10-31--ice-largest-clearview-ai-contract-dhs-deletes-oversight-policy]] and [[2026-04-01--immigrationos-palantir-tracking-us-citizens-medicaid-irs-dmv]].
 
 ## Update (2026-08-31, award signature date): Nearest award on USAspending: $2,935,308 to LexisNexis Risk Solutions
 

@@ -1,10 +1,11 @@
 ---
 type: timeline_event
-id: 2026-06-18--dhs-mobile-fortify-facial-recognition-1300-local-police
+id: 2026-06-18--npr-ice-task-force-module-face-scan-app-pta-287g-police
+previous_ids: ["2026-06-18--dhs-mobile-fortify-facial-recognition-1300-local-police"]
 date: '2026-06-18'
 importance: 8
 status: reported
-title: "NPR: A DHS privacy analysis documents ICE's Task Force Module face-scan app for 287(g) local police; NPR says the analysis suggests police are already using it"
+title: "NPR: A DHS privacy analysis documents ICE's Task Force Module face-scan app for Task Force Model local police; NPR says the analysis suggests police are already using it"
 actors:
   - Department of Homeland Security
   - Immigration and Customs Enforcement
@@ -108,6 +109,11 @@ claims:
   read: fetched
   source_kind: secondary
 corrections:
+- date: '2026-11-17'
+  was: "Id slug 'dhs-mobile-fortify-facial-recognition-1300-local-police'"
+  now: "The slug named the wrong app (the document is the ICE Task Force Module PTA, not Mobile Fortify) and carried '1300 local police' as if it were the app's rollout; about 1,300 is NPR's count of police agencies participating in the Task Force Model, not devices or officers and not a target. Renamed to name the app, the document type and the 287(g) setting. Where posted: the PTA file is served from ice.gov (read 2026-10-28; server Last-Modified 2025-11-06, a header and not a publication notice); first press was 404 Media on 2026-06-05, which says it reported primarily from public records requests; how 404 Media came by its copy is not established. The PTA describes a design and a listed launch date with project status 'Development'; it is not a record of field use."
+  why: "research-notes/2026-10-28-dl5-mobile-fortify-and-tfm-paper-trail (PTA pp. 2-3, 8-10); NPR 2026-06-19"
+  found_by: recheck-canon-mobile-fortify-tfm-entry-and-513m-surveillance-awards-entry
 - date: '2026-10-28'
   was: 'already in use by ICE-deputized local police'
   now: "NPR's inference ('suggests police are already using it'); the PTA lists a Sept 24, 2025 launch date but its project status reads 'Development'. No agency record confirms field use."

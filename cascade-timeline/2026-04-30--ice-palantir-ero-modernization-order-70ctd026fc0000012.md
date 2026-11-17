@@ -94,7 +94,7 @@ sources:
   tier: 1
 related_events:
 - 2026-05-13--dhs-zero-privacy-impact-assessments-palantir-1-billion-no-bid
-- 2026-07-14--ice-cbp-surveillance-spending-513m-palantir-backbone
+- 2026-06-24--mijente-jfl-srl-report-ice-cbp-awards-513m-to-11-surveillance-firms-jan-apr-2026
 - 2026-06-24--ice-palantir-hsi-case-management-order-70ctd026fc0000018
 coverage:
 - url: https://theramm.transparencycascade.org/p/ices-leaked-tools-list-is-a-before
