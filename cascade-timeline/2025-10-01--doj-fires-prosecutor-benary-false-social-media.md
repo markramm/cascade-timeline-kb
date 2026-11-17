@@ -2,21 +2,25 @@
 type: timeline_event
 id: 2025-10-01--doj-fires-prosecutor-benary-false-social-media
 date: 2025-10-01
-title: DOJ Fires Top National Security Prosecutor Michael Ben'Ary Based on False Social Media Post
+title: Justice Department fires EDVA national security chief Michael Ben'Ary hours after an activist's post
 importance: 8
+status: reported
+source_published_date: '2025-10-01'
 actors:
 - Michael Ben'Ary
 - Department of Justice
 - Julie Kelly
 - U.S. Attorney's Office Eastern District of Virginia
-- Trump Administration
 tags:
 - doj
 - prosecutor-firing
-- political-prosecution
-- institutional-capture
 - national-security
-- misinformation
+- eastern-district-of-virginia
+capture_lanes:
+- Executive Power Expansion
+- Regulatory Capture
+related_events:
+- 2025-10-04--two-virginia-prosecutors-fired-after-comey-indictment
 sources:
 - url: https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case
   title: Justice Department fires prosecutor falsely tied to Comey case in social media post
@@ -25,7 +29,7 @@ sources:
   outlet: CNN
 - url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
   title: DOJ fires top national security prosecutor after he's questionably linked to Comey pushback
-  date: '2025-10-01'
+  date: '2025-10-02'
   tier: 2
   outlet: NBC News
 - url: https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806
@@ -33,15 +37,97 @@ sources:
   date: '2025-10-03'
   tier: 2
   outlet: ABC News
-capture_lanes:
-- Executive Power Expansion
-- Regulatory Capture
-- Media Capture and Control
-status: reported
+verification: source-verified
+claims:
+- id: c1
+  type: date
+  value: Oct. 2, 2025
+  qualifier: EDT
+  span: Oct. 2, 2025, 4:30 PM EDT
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c2
+  type: date
+  value: Wednesday
+  qualifier: Wednesday
+  span: Michael Ben’Ary, a veteran prosecutor who was serving as chief of the national security unit for the U.S. Attorney’s Office for the Eastern District of Virginia, was fired on Wednesday, three sources familiar with the situation told NBC News.
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c3
+  type: quote
+  value: One can only assume he was a big part of the internal resistance to the Comey indictment
+  qualifier: assume
+  span: He was fired Wednesday, the two sources said, after Julie Kelly, a pro-Trump activist and writer, posted on X about Ben’Ary, saying, “One can only assume he was a big part of the internal resistance to the Comey indictment.”
+  url: https://www.cnn.com/2025/10/01/politics/justice-department-prosecutor-fired-comey-case
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c4
+  type: attribution
+  value: did not work on the Comey case
+  qualifier: Contrary
+  span: Contrary to Kelly’s assertion on Twitter, the three sources say Ben’Ary did not work on the Comey case.
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c5
+  type: attribution
+  value: declined to comment on the reason for the firing
+  qualifier: declined
+  span: A Justice Department spokesperson declined to comment on the reason for the firing; the department does not comment on personnel matters.
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c6
+  type: attribution
+  value: not clear if the Trump administration saw Kelly’s tweet
+  qualifier: clear
+  span: It’s not clear if the Trump administration saw Kelly’s tweet.
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c7
+  type: quote
+  value: the leadership is more concerned with punishing the President's perceived enemies than they are with protecting our national security
+  qualifier: concerned
+  span: '"This example highlights the most troubling aspect of the current operations of the Department of Justice: the leadership is more concerned with punishing the President''s perceived enemies than they are with protecting our national security."'
+  url: https://abcnews.go.com/US/top-prosecutor-fired-embattled-us-attorneys-office-slams/story?id=126188806
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+- id: c8
+  type: attribution
+  value: firing last week of Maya Song
+  qualifier: followed
+  span: Ben’Ary’s dismissal followed the firing last week of Maya Song, another DOJ prosecutor who worked in the Eastern District of Virginia.
+  url: https://www.nbcnews.com/politics/justice-department/doj-fires-top-national-security-prosecutor-comey-indictment-rcna235161
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-17'
+event_date_claim: c3
 ---
 
-On October 1, 2025, the Department of Justice fired Michael Ben'Ary, the chief of the national security section in the U.S. Attorney's Office for the Eastern District of Virginia, after pro-Trump activist and writer Julie Kelly posted on social media falsely linking him to internal resistance against the James Comey indictment. Ben'Ary, who had served with the DOJ for 20 years and led critical national security prosecutions, was not involved in the Comey case and had no connection to the allegations made in Kelly's post.
+Michael Ben’Ary, chief of the national security unit of the U.S. Attorney's Office for the Eastern District of Virginia, was fired on Wednesday, sources familiar with the situation told NBC News in a story dated Oct. 2, 2025. CNN's two sources gave the same day.
 
-In response to his firing, Ben'Ary taped a typed letter to his office door on Friday, October 3, 2025, denouncing his termination as "without cause" and "based on little more than a single social media post containing false information." The letter accused top Justice Department officials of being "more concerned" with going after President Trump's perceived enemies than protecting national security, stating: "In recent months, the political leadership of the Department have violated these principles, jeopardizing our national security and making American citizens less safe."
+**What triggered it, by whose account.** CNN reported that he was fired after the writer Julie Kelly posted on X: "One can only assume he was a big part of the internal resistance to the Comey indictment". NBC's sources said Ben’Ary did not work on the Comey case, and NBC wrote that it was not clear if the Trump administration saw Kelly’s tweet. **Reason given by the government:** none. A Justice Department spokesperson declined to comment on the reason for the firing, per NBC.
 
-The firing of Ben'Ary, an accomplished national security prosecutor with two decades of experience, based solely on an unverified social media post by a partisan activist, represents a shocking erosion of due process and merit-based employment at the Department of Justice. Legal experts and former DOJ officials expressed alarm at the use of social media misinformation as grounds for terminating senior career prosecutors, particularly those handling sensitive national security matters. The incident is part of a broader purge of career prosecutors in the Eastern District of Virginia office following the Comey indictment and the forced resignation of U.S. Attorney Erik Siebert.
+**Ben’Ary's own account.** In a departure letter circulated to colleagues, he wrote that "the leadership is more concerned with punishing the President's perceived enemies than they are with protecting our national security", per ABC. NBC reported that his dismissal followed the firing the week before of Maya Song; see [[2025-10-04--two-virginia-prosecutors-fired-after-comey-indictment]], which is about the two firings together and does not describe a second firing of Ben’Ary.
+
+## Correction (2026-11-17)
+
+Earlier text: a headline and body giving a false social media post as the basis, a letter taped to an office door, and the phrase without cause. Those items are removed.
