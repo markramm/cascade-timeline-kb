@@ -101,7 +101,7 @@ Each of the four operational pivots is held by an appointee with a Palantir- or 
 - [[stuart-michael]]
 - [[hhs-palantir-cluster]]
 - [[2025-02-13--clark-minor-appointed-hhs-cto-from-palantir]]
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]]
+- [[2026-03-05--propublica-palantir-search-141-results]]
 - [[minor-clark]]
 - [[cuthbert-west]]
 - [[palantir]]

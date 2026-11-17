@@ -353,7 +353,7 @@ Dates for the other placements, and for Founders Fund's investment in Anduril's 
 - [[2025-03-12--anduril-642m-marine-corps-counter-drone-contract]]
 - [[2025-06-05--anduril-30-billion-valuation-autonomous-weapons-at-scale]]
 - [[2026-03-13--anduril-20-billion-army-enterprise-contract]]
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]]
+- [[2026-03-05--propublica-palantir-search-141-results]]
 
 ## Correction (2026-11-16)
 

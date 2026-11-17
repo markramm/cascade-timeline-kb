@@ -1,8 +1,9 @@
 ---
 type: timeline_event
-id: 2026-04-23--144-trump-appointees-palantir-disclosures
-date: '2026-04-23'
-title: ProPublica Disclosure Database Shows 144 Trump Administration Appointees with Palantir Holdings, Compensation, or Employment Ties
+id: 2026-03-05--propublica-palantir-search-141-results
+previous_ids: ['2026-04-23--144-trump-appointees-palantir-disclosures']
+date: '2026-03-05'
+title: ProPublica Trump Team Financial Disclosures Search for "Palantir" Returns 141 Results (Filings Mentioning Palantir Holdings, Compensation, or Employment Ties)
 importance: 10
 actors:
 - Donald Trump
@@ -31,10 +32,10 @@ tags:
 - ethics-ogE
 - distributed-capture
 sources:
-- title: "Trump Team Financial Disclosures — Search: Palantir"
-  url: https://projects.propublica.org/trump-team-financial-disclosures/search/?q=palantir
+- title: "Trump Team Financial Disclosures — Search: Palantir (Wayback capture of 2026-03-05)"
+  url: http://web.archive.org/web/20260305100654/https://projects.propublica.org/trump-team-financial-disclosures/search/?q=Palantir
   outlet: ProPublica
-  date: '2026-04-23'
+  date: '2026-03-05'
   tier: 1
 - title: Documents Reveal a Web of Financial Ties Between Trump Officials and the Industries They Help Regulate
   url: https://www.propublica.org/article/trump-administration-financial-disclosures-steve-feinberg
@@ -67,13 +68,19 @@ sources:
   date: '2025'
   tier: 1
 status: confirmed
+corrections:
+- date: '2026-11-17'
+  was: "Dated 2026-04-23 and titled as 144 appointees with Palantir ties (id 2026-04-23--144-trump-appointees-palantir-disclosures)."
+  now: "Dated 2026-03-05, the earliest fetchable capture of the ProPublica search for \"Palantir\", which states \"141 results\" for \"Palantir\". The figure is a search-result count (filings that match), not a count of appointees."
+  why: "No fetchable page states 144 on April 23; the live search now returns 213. Wayback capture http://web.archive.org/web/20260305100654/https://projects.propublica.org/trump-team-financial-disclosures/search/?q=Palantir reads \"141 result\" \"for \u201cPalantir\u201d\" (read with span_check, 2026-11-17); a capture of 2026-03-08 reads the same."
+  found_by: "reader check, tier C, 2026-11-17"
 capture_lanes:
 - Distributed Personnel Capture
 - Surveillance Contractor Capture
 - Conflicts of Interest
 ---
 
-As of April 23, 2026, a search of ProPublica's Trump Team Financial Disclosures database for "Palantir" returns **144 appointees** with disclosed Palantir Technologies exposure — direct equity holdings, spouse holdings, children's brokerage accounts, prior or current employment, consulting relationships, vested options, or transaction activity. The aggregate is the single largest single-company concentration of conflicts in the database and represents a population-level capture pattern that no individual filing reveals.
+As of March 5, 2026 (the earliest fetchable capture, via the Wayback Machine), a search of ProPublica's Trump Team Financial Disclosures database for "Palantir" returns **141 results**: filings that mention Palantir, not a count of appointees, and covering disclosed Palantir Technologies exposure — direct equity holdings, spouse holdings, children's brokerage accounts, prior or current employment, consulting relationships, vested options, or transaction activity. The aggregate is the single largest single-company concentration of conflicts in the database and represents a population-level capture pattern that no individual filing reveals.
 
 ## The Distributed-Capture Pattern
 

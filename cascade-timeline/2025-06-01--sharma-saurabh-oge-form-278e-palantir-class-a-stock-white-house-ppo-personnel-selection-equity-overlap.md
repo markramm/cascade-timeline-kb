@@ -64,7 +64,7 @@ Sharma's OGE Form 278e is the primary tier-1 source for three structural facts:
 
 ## The Captured-X Structural Pattern
 
-This disclosure is one instance of a broader **captured-X structural pattern** documented across Investigation 2: individuals who hold equity in Palantir — the Thiel-network's flagship federal surveillance-defense contractor — are simultaneously positioned at the command points of the federal machinery that Palantir's contracts depend on. The 144-appointee population in the ProPublica disclosure database (see [[2026-04-23--144-trump-appointees-palantir-disclosures]]) is the aggregate; Sharma is the single case where the equity-holder's function is **personnel selection itself** — not policy, not procurement, not enforcement, but the gatekeeping of who fills all those roles.
+This disclosure is one instance of a broader **captured-X structural pattern** documented across Investigation 2: individuals who hold equity in Palantir — the Thiel-network's flagship federal surveillance-defense contractor — are simultaneously positioned at the command points of the federal machinery that Palantir's contracts depend on. The 144-appointee population in the ProPublica disclosure database (see [[2026-03-05--propublica-palantir-search-141-results]]) is the aggregate; Sharma is the single case where the equity-holder's function is **personnel selection itself** — not policy, not procurement, not enforcement, but the gatekeeping of who fills all those roles.
 
 The pattern has three distinguishable structural layers:
 - **Policy-over-program conflicts** (Stephen Miller: immigration policy architect holds PLTR while PLTR operates ImmigrationOS)
@@ -103,7 +103,7 @@ Three structural consequences follow:
 
 - [[sharma-saurabh]] — Full actor profile with career chronology, network position, and OGE Form 278e analysis
 - [[american-moment]] — American Moment organization profile; Thiel-network-adjacent personnel pipeline Sharma co-founded and used as PPO supply side
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — 144-appointee population-level Palantir conflict pattern; Sharma appears in the White House cluster
+- [[2026-03-05--propublica-palantir-search-141-results]] — 144-appointee population-level Palantir conflict pattern; Sharma appears in the White House cluster
 - [[vance-jd]] — American Moment founding board advisor; political principal whose personnel priorities PPO operationalizes
 - [[lonsdale-joe]] — Palantir co-founder; structural equity-overlap with Sharma's disclosed PLTR; Lonsdale-Vance-Sacks operational coordination triangle
 - [[sacks-david]] — American Moment seed funder; White House AI-Crypto Czar peer inside executive branch simultaneously

@@ -95,11 +95,11 @@ The detention buildout is not adjacent to the AI bet. It is the asymmetric-payof
 
 Warren's speech is the highest-profile mainstream articulation to date that the AI build-out is a systemic financial risk rather than a sector story. It provides the rhetorical frame and Senate-committee source material for subsequent reporting that names the firms, the transactions, and the hedge structure — connecting the financial-systemic analysis to the physical-infrastructure documentation ([[2026-04-21--blue-owl-system-ramm-published]] and related detention-facility entries).
 
-The speech's limitation is jurisdictional: the Banking Committee cannot follow the money into ICE procurement. The joint reading — Warren's financial thesis plus the detention-facility documentation plus the Palantir manifesto ([[2026-04-18--palantir-22-point-manifesto-published]]) plus the 144 appointees with Palantir exposure ([[2026-04-23--144-trump-appointees-palantir-disclosures]]) — is the capture-cascade frame.
+The speech's limitation is jurisdictional: the Banking Committee cannot follow the money into ICE procurement. The joint reading — Warren's financial thesis plus the detention-facility documentation plus the Palantir manifesto ([[2026-04-18--palantir-22-point-manifesto-published]]) plus the 144 appointees with Palantir exposure ([[2026-03-05--propublica-palantir-search-141-results]]) — is the capture-cascade frame.
 
 ## Related Entries
 
 - [[warehouse-fungibility-and-the-detention-hedge]] — the unified thesis
 - [[2026-04-18--palantir-22-point-manifesto-published]] — ideological layer
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — personnel-capture layer
+- [[2026-03-05--propublica-palantir-search-141-results]] — personnel-capture layer
 - [[2026-04-21--blue-owl-system-ramm-published]] — documented specific-firm pattern *(needs entry or link to existing)*

@@ -124,7 +124,7 @@ Bondi sold her DJT stock and DJTWW warrants on **April 2, 2025** — the day Tru
 
 **The warrants matter.** Common-stock holdings give linear exposure; warrants give convex (asymmetric upside) exposure. A DJT price appreciation would have benefited warrant holders disproportionately. That Bondi accepted the warrants as compensation — rather than cash equivalent — indicates either (a) Renatus could not pay cash, or (b) Bondi affirmatively preferred the leveraged upside. Either reading is material to assessing her ex ante economic alignment with TMTG at the moment she took over the Justice Department.
 
-**Pre-IPO allocation pattern.** Bondi is one of at least 19 Trump 2 administration appointees whose pre-IPO DWAC/TMTG allocations have been surfaced in OGE and ProPublica disclosures — a pattern that runs through [[2026-04-23--144-trump-appointees-palantir-disclosures]] and the parallel Palantir / defense-contractor holdings concentration. FBI Director Kash Patel's TMTG board tenure (March 2022 – entry into government) is the adjacent-lane parallel; both Patel and Bondi were insiders to the Trump-family public-company architecture before becoming the two most operationally consequential federal law-enforcement officials in Trump 2.
+**Pre-IPO allocation pattern.** Bondi is one of at least 19 Trump 2 administration appointees whose pre-IPO DWAC/TMTG allocations have been surfaced in OGE and ProPublica disclosures — a pattern that runs through [[2026-03-05--propublica-palantir-search-141-results]] and the parallel Palantir / defense-contractor holdings concentration. FBI Director Kash Patel's TMTG board tenure (March 2022 – entry into government) is the adjacent-lane parallel; both Patel and Bondi were insiders to the Trump-family public-company architecture before becoming the two most operationally consequential federal law-enforcement officials in Trump 2.
 
 **The Warner Bros. recusal controversy (December 2025) sits downstream of this disclosure.** Senators Warren and Blumenthal later demanded Bondi's recusal from the DOJ antitrust review of Warner Bros.–Netflix / Paramount deals citing her broader corporate-lobbying conflicts — a demand made plausible because Bondi's January 2025 ethics agreement had already documented the conflict surface.
 
@@ -146,6 +146,6 @@ Bondi sold her DJT stock and DJTWW warrants on **April 2, 2025** — the day Tru
 - [[2023-06-29--trust-social-insider-trading-arrests-shvartsman-garelick]] — DWAC pre-merger insider-trading parallel
 - [[2023-07-18--sec-charges-dwac-material-misrepresentations-18-million-penalty]] — SEC action against DWAC
 - [[2026-04-02--trump-fires-bondi-attorney-general]] — Bondi's firing as AG
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — parallel 144-appointee Palantir pattern
+- [[2026-03-05--propublica-palantir-search-141-results]] — parallel 144-appointee Palantir pattern
 - [[trump-2-personnel-pipelines]] — Pipeline 2 personal-loyalty track
 - [[epic-inv4-trump-family-gulf-capital]] — parent investigation

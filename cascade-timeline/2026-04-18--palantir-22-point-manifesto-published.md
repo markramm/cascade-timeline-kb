@@ -112,13 +112,13 @@ Bellingcat founder Eliot Higgins gave the most compressed critique: Palantir sel
 
 ## Significance
 
-The manifesto is a **loyalty flag** to the Trump administration from its largest federal software contractor. It is also the **ideological superstructure** of the broader capture architecture documented across the `surveillance-industrial-complex` KB and the Palantir-personnel-capture pattern documented at [[2026-04-23--144-trump-appointees-palantir-disclosures]].
+The manifesto is a **loyalty flag** to the Trump administration from its largest federal software contractor. It is also the **ideological superstructure** of the broader capture architecture documented across the `surveillance-industrial-complex` KB and the Palantir-personnel-capture pattern documented at [[2026-03-05--propublica-palantir-search-141-results]].
 
 The document inverts its own "moral debt" argument. The manifesto claims Silicon Valley owes the country. The ProPublica personnel-capture data shows that 144 senior appointees of the country's current administration hold Palantir equity, consulting relationships, or compensation ties. The moral debt runs the opposite direction from the direction the manifesto claims — Palantir's shareholders include the President, the architect of immigration policy, the FBI Director, the U.S. Attorney for D.C., the Solicitor General, the Secretary of the Navy, the DOD CIO, multiple Assistant Secretaries of Defense, and ambassadors to 13+ countries where Palantir is expanding.
 
 ## Related Entries
 
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — ProPublica database confirms 144 appointees with Palantir exposure
+- [[2026-03-05--propublica-palantir-search-141-results]] — ProPublica database confirms 144 appointees with Palantir exposure
 - [[2026-04-10--trump-truthsocial-palantir-promotion]] — *(needs entry)* Trump Truth Social PLTR promotion two weeks before manifesto
 - [[cn-wn-cabinet-faction]] — ideological adjacency to the CN faction without being identical to it
 - [[prosecutorial-revenge-faction]] — Patel is cross-member with the faction that prosecutes the manifesto's named enemies

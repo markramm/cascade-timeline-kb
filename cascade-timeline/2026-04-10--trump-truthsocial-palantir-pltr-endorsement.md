@@ -101,7 +101,7 @@ Per the investigation-2 Thiel-thread reconnaissance ([[thiel-network-iran-war-ex
 
 This post sits at a specific point in a sequenced capture pattern documented across other KB entries:
 
-- **Two weeks earlier:** Multiple Trump administration officials (144 total per [[2026-04-23--144-trump-appointees-palantir-disclosures]]) already held Palantir equity, spouse holdings, or compensation relationships
+- **Two weeks earlier:** Multiple Trump administration officials (144 total per [[2026-03-05--propublica-palantir-search-141-results]]) already held Palantir equity, spouse holdings, or compensation relationships
 - **On this date (April 10, 2026):** Trump directly names PLTR by ticker on his Truth Social account, reversing a 16% freefall for minutes
 - **Eight days later (April 18, 2026):** Palantir publishes its 22-point manifesto calling for Silicon Valley defense-sector alignment with the administration ([[2026-04-18--palantir-22-point-manifesto-published]])
 - **Subsequent weeks:** Palantir wins additional federal contracts including a $300M USDA food-supply contract (April 22, 2026) and the ongoing ImmigrationOS deployment
@@ -114,7 +114,7 @@ The Trump Organization's own holdings include direct Palantir Class A stock per 
 
 No prior sitting U.S. president has endorsed a publicly traded stock by ticker symbol. This is a break from longstanding presidential norms around avoiding both the appearance and reality of market manipulation. The SEC has no explicit rule against a president doing this, but every prior administration since securities regulation was established has treated ticker-level stock endorsement as conduct to avoid.
 
-The Truth Social platform context is relevant: Trump's post is on a platform owned by Trump Media and Technology Group (DJT), in which Trump holds substantial equity. FBI Director Kash Patel sat on TMTG's board from March 2022 until entering government (per [[2026-04-23--144-trump-appointees-palantir-disclosures]]).
+The Truth Social platform context is relevant: Trump's post is on a platform owned by Trump Media and Technology Group (DJT), in which Trump holds substantial equity. FBI Director Kash Patel sat on TMTG's board from March 2022 until entering government (per [[2026-03-05--propublica-palantir-search-141-results]]).
 
 ## Research Gaps
 
@@ -127,7 +127,7 @@ The Truth Social platform context is relevant: Trump's post is on a platform own
 ## Related Entries
 
 - [[2026-04-18--palantir-22-point-manifesto-published]] — sequenced 8 days later
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — personnel-capture layer
+- [[2026-03-05--propublica-palantir-search-141-results]] — personnel-capture layer
 - [[warehouse-fungibility-and-the-detention-hedge]] — structural context
 - [[prosecutorial-revenge-faction]] — Patel as TMTG alumnus + PLTR holder
 - [[thiel-network-iran-war-exposure-thiel-thread-prospecting]] — Iran-war recon note establishing Palantir/Maven as the documented Thiel-thread operational node; this event is the principal-level verbal confirmation of Palantir's war role

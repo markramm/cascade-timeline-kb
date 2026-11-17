@@ -118,7 +118,7 @@ Minor was in a position to shape the technical implementation and data-flow arch
 
 ## Significance
 
-Clark Minor's appointment is the **highest-dollar individual direct Palantir revolving-door case** in the 144-appointee Palantir disclosure cluster ([[2026-04-23--144-trump-appointees-palantir-disclosures]]). It is also structurally the most consequential: not the largest equity position (Thomas M. Williams's spouse holds more), but the one placed at the specific agency pivot point where HHS protected data meets Palantir's platform infrastructure.
+Clark Minor's appointment is the **highest-dollar individual direct Palantir revolving-door case** in the 144-appointee Palantir disclosure cluster ([[2026-03-05--propublica-palantir-search-141-results]]). It is also structurally the most consequential: not the largest equity position (Thomas M. Williams's spouse holds more), but the one placed at the specific agency pivot point where HHS protected data meets Palantir's platform infrastructure.
 
 The Revolving Door Project, which tracks revolving-door appointments across administrations, has categorized Minor as a "DOGE Agent" — one of several DOGE-adjacent tech appointees whose federal roles connect to their pre-government corporate employers' federal-contract revenue.
 
@@ -135,7 +135,7 @@ The Revolving Door Project, which tracks revolving-door appointments across admi
 
 - [[2025-07-18--cms-gives-ice-access-to-medicaid-enrollee-data]] — the data-sharing agreement executed during Minor's tenure
 - [[2026-02-19--ice-covert-suburban-tactics-palantir-elite-surveillance]] — ELITE tool deployment using HHS data
-- [[2026-04-23--144-trump-appointees-palantir-disclosures]] — the broader personnel-capture pattern
+- [[2026-03-05--propublica-palantir-search-141-results]] — the broader personnel-capture pattern
 - [[2026-04-18--palantir-22-point-manifesto-published]] — ideological production layer
 - [[2026-04-10--trump-truthsocial-palantir-pltr-endorsement]] — stock-price intervention
 - [[warehouse-fungibility-and-the-detention-hedge]] — the broader capture-cascade framework
