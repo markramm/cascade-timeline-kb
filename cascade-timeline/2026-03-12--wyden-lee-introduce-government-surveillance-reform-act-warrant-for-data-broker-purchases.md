@@ -49,6 +49,11 @@ related_events:
   - 2026-06-08--ice-awards-thundercat-9-9m-itin-data-subscription-after-courts-blocked-irs-channel
 coverage:
   - daily-capture-reports/headline/2026-03-01--gsra-fisa-702-data-broker-loophole-wyden-lee.md
+corrections:
+- date: '2026-11-17'
+  was: '''A bill is needed because the conduct is currently lawful. Agencies barred from collecting this data directly may buy the same data on the open market, and no court order is required, because a purchase is not a search.'''
+  now: 'No court order is required for the purchase, but the opinion in Carpenter (2018) did not hold that a purchase is not a search: it said it did not address other business records that might incidentally reveal location information, which leaves the question open. The sentence stated the open question as decided, and stated the bill''s necessity as a fact; the sponsors'' release is not read here as saying either.'
+  found_by: task put-the-carpenter-v-united-states-opinion-in-documents-and-bind-the-carpenter (2026-11-17); read against the Carpenter slip opinion
 claims:
 - type: date
   value: March 12, 2026
@@ -86,6 +91,14 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-11-02'
+- id: w1
+  type: quote
+  value: Nor do we address other business records that might incidentally reveal location information.
+  qualifier: ''
+  span: Nor do we address other business records that might incidentally reveal location information.
+  url: https://www.supremecourt.gov/opinions/17pdf/16-402_h315.pdf
+  read: fetched
+  source_kind: primary
 updates:
 - date: '2026-03-12'
   date_kind: bill introduction date
@@ -105,7 +118,7 @@ Senators **Ron Wyden** (D-OR) and **Mike Lee** (R-UT), with Representatives **Wa
 
 The bill **bans federal purchases of Americans' data from data brokers without a warrant**, and separately reforms **FISA Section 702** — requiring warrants for federal access to Americans' communications collected under it (with emergency exceptions), prohibiting reverse targeting, repealing the "make everyone a spy" provision, and strengthening oversight.
 
-**The legislative fact is less interesting than what it concedes.** A bill is needed because the conduct is currently **lawful**. Agencies barred from collecting this data directly may buy the same data on the open market, and no court order is required, because a purchase is not a search. Wyden's own framing: "**Advances in technology, from AI to the explosion of Americans' data available for purchase, have far outpaced the laws protecting Americans' privacy and civil liberties.**" Lee: "**It is imperative that Congress enact real reforms to protect our civil liberties, including warrant requirements and statutory penalties for privacy violations.**"
+**The legislative fact is less interesting than what it concedes.** Agencies barred from collecting this data directly may buy the same data on the open market, and no court order is required for the purchase. Whether a purchase is a search is not something the Supreme Court has decided: in *Carpenter* (2018) it held that acquiring historical cell-site records compelled from carriers was a search, and wrote "Nor do we address other business records that might incidentally reveal location information." See [[2018-06-22--scotus-carpenter-v-united-states-cell-site-records-are-a-fourth-amendment-search]]. Wyden's own framing: "**Advances in technology, from AI to the explosion of Americans' data available for purchase, have far outpaced the laws protecting Americans' privacy and civil liberties.**" Lee: "**It is imperative that Congress enact real reforms to protect our civil liberties, including warrant requirements and statutory penalties for privacy violations.**"
 
 That is the gap this corpus documents from the other direction all year, and the sequence is worth reading against this bill's date. Six days after introduction, **FBI Director Patel confirmed warrantless purchase of commercial data** (March 18). Two weeks after that, NPR documented purchase-instead-of-warrant as standing practice and **72 lawmakers demanded a DHS OIG probe** (March 25). In June the Supreme Court held in **Chatrie** that geofence location data implicates the Fourth Amendment — and **FISA Section 702 lapsed for the first time since 2008**. In June ICE placed a **$9.97M order for an ITIN data subscription** four months after courts blocked the IRS channel.
 
@@ -114,6 +127,10 @@ So the loophole the bill would close was, across the same year, confirmed by the
 The coalition is the other notable feature: **ACLU, Americans for Prosperity, Brennan Center, Center for Democracy & Technology, Consumer Choice Center, Demand Progress, Due Process Institute, EPIC, Fight for the Future, Muslim Advocates, NACDL, Restore the Fourth, Free Press Action, POGO** and others endorsed it — left and right civil-liberties organizations on the same bill, matching the Wyden-Lee, Lofgren-Davidson sponsor pairing. Warrantless data purchasing is one of the few surveillance questions where that coalition still forms.
 
 **Sourcing note.** The March 12 date, all sponsors and cosponsors, the data-broker and § 702 provisions, both quotes, and the endorsing organizations are from **Wyden's own Senate press release**, read directly — a primary source for the bill's introduction and contents, though naturally a sponsor's characterization of its own bill. The capture ledger dated this to **March 1** and gave a bill number of **S.4082**; the March 1 date is corrected to March 12 per the release, and **the bill number is not carried** — the press release does not state it, and it was not verified against Congress.gov. The ledger's claim that the bill's "best chance" runs through the FISA reauthorization debate is **FedScoop's analysis, not confirmed congressional scheduling**, as the ledger's own fact-check noted; it is not carried as fact. **No markup, floor vote, or committee action is established here**, and given that § 702 lapsed in June the reauthorization vehicle the analysis assumed may no longer exist in the form described.
+
+## Correction (2026-11-17)
+
+See the corrections field above.
 
 ## Update (2026-03-12, bill introduction date): The bill text: S. 4082 carries the Fourth Amendment Is Not For Sale Act as Title II
 

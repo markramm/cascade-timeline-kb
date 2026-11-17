@@ -95,4 +95,4 @@ The 2024-2026 cellular-surveillance policy environment remains substantially sha
 
 - [[1986-10-21--electronic-communications-privacy-act-ecpa]]
 - [[1994-10-25--calea-signed-digital-telephony-surveillance-mandate]]
-- [[2018-06-22--carpenter-cellular-location-warrant-requirement]]
+- [[2018-06-22--scotus-carpenter-v-united-states-cell-site-records-are-a-fourth-amendment-search]]
