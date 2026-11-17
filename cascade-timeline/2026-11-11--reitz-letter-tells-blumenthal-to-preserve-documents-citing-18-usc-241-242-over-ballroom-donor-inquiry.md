@@ -124,6 +124,9 @@ related:
 - 2026-11-07--trump-orders-doj-to-investigate-democrats-who-pledged-oversight-blanche-wont-rule-out-prosecuting-lawmakers
 - 2026-11-12--reitz-letter-tells-slotkin-to-preserve-documents-over-go-hard-on-accountability-comments
 - 2026-11-15--reitz-letter-accuses-warren-of-wielding-gavel-like-tomahawk-demands-preservation-by-nov-23
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-letters-came-first
+    title: "A U.S. Attorney Sent Three Senators Letters Citing Criminal Statutes. The First Deadline Is Tomorrow."
 ---
 
 Aaron Reitz, the federal attorney for the Southern District of Texas, sent Sen. Richard Blumenthal, D-Conn., a letter on Wednesday and posted it on X. Read from the image of the letter, it gives Blumenthal formal "notice of your obligation to preserve all documents, communications, and other electronically stored information relevant to your intent to deprive citizens of their core constitutional rights in violation of 18 U.S.C. §§ 241 and 242," and says he must preserve evidence related to his "efforts to suppress associational activities for philanthropic projects throughout the nation’s capital." It asks him to confirm in writing by 6:00 p.m. Eastern Time on Nov. 18, 2026 that he has received the letter and taken steps to preserve the materials. Blumenthal answered on social media that "the implied threat of an investigation is baseless."

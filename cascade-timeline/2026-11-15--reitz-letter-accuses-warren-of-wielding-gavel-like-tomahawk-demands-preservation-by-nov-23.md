@@ -218,6 +218,9 @@ related:
 - 2026-10-19--us-attorney-reitz-posts-video-on-first-day-of-texas-early-voting-warning-he-will-hunt-down-and-prosecute-federal-election-law-violators
 - 2025-01-28--warren-probes-lutnick-tether-ties-cantor-reported-5-percent-stake
 - 2025-09-23--warren-slotkin-state-dept-oig-probe-request-witkoff-sacks-uae-chips
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-letters-came-first
+    title: "A U.S. Attorney Sent Three Senators Letters Citing Criminal Statutes. The First Deadline Is Tomorrow."
 ---
 
 Aaron Reitz, the United States attorney for the Southern District of Texas, posted a preservation letter to Sen. Elizabeth Warren, D-Mass., on X on Sunday, Nov. 15. His post said Warren "is on the warpath to wield her committee gavel like a tomahawk, seeking the scalps of those who associate 'too closely' with President Trump." The letter, read from its page images, says "In sum, you appear eager to wield your future gavel like a tomahawk, hunting for the scalps of President Trump’s private associates." It gives formal notice of an obligation to preserve documents relevant to Warren's alleged intent to "weaponize congressional investigations and deprive citizens of their core constitutional rights in violation of 18 U.S.C. §§ 241 and 242," and asks her to confirm in writing by 6:00 p.m. Eastern Time on Nov. 23, 2026 that she received the letter and has taken steps to preserve the materials. Fox News reports the letter does not establish that Warren violated federal law.

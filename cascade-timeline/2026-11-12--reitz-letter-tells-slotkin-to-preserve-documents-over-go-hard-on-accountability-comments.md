@@ -163,6 +163,9 @@ related:
 - 2026-11-12--blanche-says-no-criminal-investigation-of-slotkin-remarks-not-a-crime-a-week-after-trump-order
 - 2026-11-07--trump-orders-doj-to-investigate-democrats-who-pledged-oversight-blanche-wont-rule-out-prosecuting-lawmakers
 - 2026-10-19--us-attorney-reitz-posts-video-on-first-day-of-texas-early-voting-warning-he-will-hunt-down-and-prosecute-federal-election-law-violators
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-letters-came-first
+    title: "A U.S. Attorney Sent Three Senators Letters Citing Criminal Statutes. The First Deadline Is Tomorrow."
 ---
 
 Aaron Reitz, the United States attorney for the Southern District of Texas, posted on X on Thursday, Nov. 12, that Sen. Elissa Slotkin, D-Mich., "fantasized about weaponizing Congress to push her 'deterrence message'," adding that it sounds "potentially illegal to me." The letter attached to the post, read from its page images, is dated Nov. 12. It block-quotes Slotkin's remarks on CNN's "The Lead" (the letter's footnote dates the segment Oct. 19, 2026): "You need to pick those signature cases and go hard on accountability, not just Trump." The letter says her comments reflect "soon-to-be-realized fantasies about weaponizing congressional investigations" and that her "oversight" plans "seem to have no legitimate legislative purpose and may therefore be unlawful." It gives notice of an obligation to preserve documents relevant to her alleged intent to weaponize congressional investigations in violation of 18 U.S.C. §§ 241 and 242, and asks her to confirm in writing by 6:00 p.m. Eastern Time on Nov. 19, 2026 that she received the letter and has taken steps to preserve the materials. Slotkin's office told Democracy Docket the letter went online before she received it. Democracy Docket reports that legal experts say Reitz's letters make specious legal arguments.
