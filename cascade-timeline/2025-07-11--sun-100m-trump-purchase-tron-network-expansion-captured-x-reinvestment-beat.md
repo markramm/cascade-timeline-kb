@@ -132,7 +132,7 @@ The July 2025 pledge is load-bearing for the arc because it marks the **last mom
 ## Related Entries
 
 - [[sun-justin]] — actor profile; full $195M+ investment arc into Trump family vehicles
-- [[2025-01-20--justin-sun-75-million-investment]] — WLF $75M stake (the prior beat); regulatory-capture investment arc
+- [[2025-01-19--justin-sun-75-million-investment]] — WLF $75M stake (the prior beat); regulatory-capture investment arc
 - [[2025-02-27--sec-justin-sun-fraud-case-paused]] — SEC case pause (the regulatory benefit that ran in parallel with escalating investment)
 - [[2025-05-22--trump-coin-holders-exclusive-dinner]] — May 22 presidential dinner; Sun as #1 $TRUMP holder, peak of access phase
 - [[2025-09-04--wlfi-blacklists-justin-sun-595m-tokens-107m-rupture-begins]] — WLFI freezes $107M; rupture beat eight weeks after this entry

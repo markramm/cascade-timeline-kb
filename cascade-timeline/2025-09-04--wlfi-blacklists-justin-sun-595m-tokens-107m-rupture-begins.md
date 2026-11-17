@@ -303,7 +303,7 @@ The 40–42% decline cited in the September 5 CoinDesk/Fortune reporting is meas
 
 - [[sun-justin]] — Sun actor profile; full bribery-receipt arc ($175–190M total payments to Trump-family vehicles)
 - [[kompromat-as-operational-coordination-mechanism-captured-x-personal-leverage-variant]] — theme documenting the personal-leverage tier of the Sun-WLFI dispute; Witkoff arrest footage context
-- [[2025-01-20--justin-sun-75-million-investment]] — Sun's stake expansion to $75M and WLFI adviser appointment (January 2025); the investment that created the position frozen here
+- [[2025-01-19--justin-sun-75-million-investment]] — Sun's stake expansion to $75M and WLFI adviser appointment (January 2025); the investment that created the position frozen here
 - [[2025-02-27--sec-justin-sun-fraud-case-paused]] — SEC fraud case stay (February 2025); the alignment incentive that kept Sun publicly committed to WLFI despite the freeze
 - [[2025-05-23--trump-s-crypto-dinner-guests-admit-they-re-trying-to-buy-him]] — Sun's presidential dinner attendance as #1 $TRUMP holder (May 22, 2025); peak of Sun-Trump alignment, four months before rupture
 - [[2025-09-03--american-bitcoin-nasdaq-hut8-trump-sons]] — concurrent Trump-family crypto activity (American Bitcoin Nasdaq listing) September 3, 2025

@@ -1,7 +1,9 @@
 ---
 type: timeline_event
-id: 2025-01-20--justin-sun-75-million-investment
-date: 2025-01-20
+id: 2025-01-19--justin-sun-75-million-investment
+previous_ids:
+- 2025-01-20--justin-sun-75-million-investment
+date: '2025-01-19'
 importance: 10
 title: Justin Sun's $75 Million Crypto Investment Signals Complex Trump Financial Network
 description: 'Justin Sun, founder of blockchain platform TRON, made a strategic $75 million investment in Trump''s World Liberty Financial cryptocurrency platform. The investment occurred in two major stages: $30 million in November 2024 and an additional $45 million in January 2025. Simultaneously, Sun was under SEC investigation for market manipulation, which was mysteriously paused in February 2025, shortly after his substantial investment.'
@@ -55,6 +57,56 @@ patterns:
 - cross-border-financial-manipulation
 notes: Complex financial arrangement involving potential political leverage. SEC investigation pause raises significant conflict of interest questions. Demonstrates intricate financial networks surrounding Trump's cryptocurrency initiatives.
 status: confirmed
+claims:
+- id: c1
+  type: figure
+  value: $45 million
+  qualifier: investments totaling
+  span: three billion from Blue Anthem’s investments totaling $45 million
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.468319/gov.uscourts.cand.468319.1.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c2
+  type: figure
+  value: $30 million
+  qualifier: two billion
+  span: two billion $WLFI tokens from World Liberty for $30 million.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.468319/gov.uscourts.cand.468319.1.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c3
+  type: figure
+  value: $15 million
+  qualifier: one billion tokens
+  span: purchased an additional one billion tokens for $15 million more in
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.468319/gov.uscourts.cand.468319.1.0.pdf
+  read: fetched
+  source_kind: primary
+- id: c4
+  type: figure
+  value: $75 million
+  qualifier: total investment
+  span: brings his total investment in the platform to $75 million
+  url: https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/
+  read: fetched
+  source_kind: secondary
+- id: c5
+  type: quote
+  value: We trondao are continuing to increase our investment in World Liberty Financial, with an additional $45 million.
+  qualifier: We trondao
+  span: We trondao are continuing to increase our investment in World Liberty Financial, with an additional $45 million.
+  url: https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/
+  read: fetched
+  source_kind: secondary
+- id: c6
+  type: date
+  value: January 19
+  qualifier: announcement
+  span: The announcement was made on January 19 via an X post
+  url: https://cryptopotato.com/justin-sun-raises-stake-in-world-liberty-financial-to-75m/
+  read: fetched
+  source_kind: secondary
+event_date_claim: c6
 financial_details:
   total_investment: $75 million
   investment_stages:
@@ -71,3 +123,15 @@ legal_context:
 ---
 
 Chinese-born crypto billionaire Justin Sun invested $75 million in World Liberty Financial (WLF) through staged investments, simultaneously facing SEC fraud investigations. The investment coincided with the SEC pausing legal proceedings against Sun, raising questions about potential political influence and quid pro quo arrangements.
+
+## Correction (2026-11-17)
+
+The $75 million total above is Sun's own announced figure.
+
+Sun posted: "We trondao are continuing to increase our investment in World Liberty Financial, with an additional $45 million."
+
+CryptoPotato reported that this brought his total investment in the platform to $75 million.
+
+Sun's complaint against World Liberty gives different figures for what he paid. The complaint lists Blue Anthem's investments totaling $45 million. The complaint lists a purchase price of $30 million. The complaint lists a purchase price of $15 million more.
+
+This entry has not checked either set of figures against World Liberty's records or on-chain transfers. See [[reconciliation-justin-sun-wlfi-figures-2026-11-17]].
