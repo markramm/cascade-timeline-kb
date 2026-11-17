@@ -5,7 +5,6 @@ date: '2025-07-29'
 title: Senate Confirms Emil Bove to the Third Circuit 50-49 as Republicans Set Aside Whistleblower Allegations About His Justice Department Conduct
 importance: 9
 status: confirmed
-verification: source-verified
 event_date_claim: c1
 location: U.S. Senate; U.S. Court of Appeals for the Third Circuit
 tags:
@@ -37,6 +36,7 @@ sources:
 - url: https://www.cnn.com/2025/07/29/politics/emil-bove-trump-attorney-confirmed-federal-appellate-judge
   label: 'CNN: Republican senators confirm former Trump lawyer to lifetime judgeship, July 29 2025'
   tier: 1
+verification: source-verified
 claims:
 - id: c1
   type: date
@@ -168,15 +168,19 @@ On **July 29, 2025**, the Senate voted to confirm Emil Bove, a former personal l
 
 - **Whistleblower complaints.** NBC reported the vote came as Republicans set aside "allegations from three whistleblowers about the conduct of Bove." One Justice Department whistleblower told Congress through lawyers that Bove told subordinates they might have to ignore court orders blocking deportations under the Alien Enemies Act; NBC calls this an allegation. Senator Grassley said Bove denied the allegations under oath, per NBC.
 - **The Adams case.** NPR reported that prosecutors who had handled the Eric Adams matter "resigned rather than agree to dispense with the case," and quoted a transcript of a February call in which Bove said the interim Manhattan U.S. Attorney, Danielle Sassoon, "resigned about ten minutes before we were going to put her on leave pending an investigation." A resignation letter from Sassoon is the document that would give her account; it was not read for this entry.
-- **Ethics and Public Integrity Section.** Bove's role in these matters is covered in [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]], [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]] and [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]]; each carries its own sources and dates.
+- **Ethics and Public Integrity Section.** Bove's role in these matters is covered in [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]], [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]] and [[2025-01-27--bove-delegates-doj-ethics-authority-political-aides]]; each carries its own sources and dates.
 
 ## Correction (2026-11-17)
 
-A paragraph headed Prosecutorial-Predicate Significance was removed; it carried no source, and it put an essay's labels and an unsourced charge about ethics delegation in this entry's own voice. Also removed for lack of a source read in this pass, to be re-sourced from the Sassoon letter, the Senate Judiciary record and court filings: the opposition counts of former judges and former Justice Department attorneys, the swearing-in date, and a Public Integrity Section staffing count. The date of the ethics directive in the linked entry sits oddly with Bove's service as Acting Deputy Attorney General and is flagged for that entry's own check.
+A paragraph headed Prosecutorial-Predicate Significance was removed; it carried no source, and it put an essay's labels and an unsourced charge about ethics delegation in this entry's own voice. Also removed for lack of a source read in this pass, to be re-sourced from the Sassoon letter, the Senate Judiciary record and court filings: the opposition counts of former judges and former Justice Department attorneys, the swearing-in date, and a Public Integrity Section staffing count. 
+
+## Correction (2026-11-17, second)
+
+The link to the ethics-delegation entry is repointed to that entry's corrected id.
 
 ## Related Entries
 
 - [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]]
-- [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]]
+- [[2025-01-27--bove-delegates-doj-ethics-authority-political-aides]]
 - [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]
 - [[2025-11-24--halligan-indictments-dismissed-appointment-unconstitutional]]
