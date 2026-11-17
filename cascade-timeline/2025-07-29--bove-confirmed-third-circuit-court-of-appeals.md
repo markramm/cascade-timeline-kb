@@ -1,73 +1,182 @@
 ---
 type: timeline_event
-date: "2025-07-29"
-title: "Senate Confirms Emil Bove to Third Circuit Court of Appeals 50-49 Despite DOJ Mass-Resignation Record and Whistleblower Allegations"
+id: 2025-07-29--bove-confirmed-third-circuit-court-of-appeals
+date: '2025-07-29'
+title: Senate Confirms Emil Bove to the Third Circuit 50-49 as Republicans Set Aside Whistleblower Allegations About His Justice Department Conduct
 importance: 9
 status: confirmed
-location: "U.S. Senate; U.S. Court of Appeals for the Third Circuit"
+verification: source-verified
+event_date_claim: c1
+location: U.S. Senate; U.S. Court of Appeals for the Third Circuit
 tags:
-  - bove-emil
-  - third-circuit
-  - judicial-confirmation
-  - judicial-capture
-  - doj-weaponization
-  - prosecutorial-predicate
-  - consiglieres
+- bove-emil
+- third-circuit
+- judicial-confirmation
+- judicial-capture
+- doj-weaponization
 capture_lanes:
-  - Judicial Capture
-  - Executive Power Expansion
-  - Executive Power Consolidation
+- Judicial Capture
+- Executive Power Expansion
+- Executive Power Consolidation
 actors:
-  - Emil Bove
-  - U.S. Senate
-  - Department of Justice
-  - Danielle Sassoon
-  - Eric Adams
+- Emil Bove
+- U.S. Senate
+- Department of Justice
+- Danielle Sassoon
+- Eric Adams
 sources:
-  - url: "https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court"
-    label: "NPR: Senate confirms Trump lawyer Emil Bove for appeals court, July 30 2025"
-    tier: 1
-  - url: "https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781"
-    label: "NBC News: Republicans confirm former Trump lawyer Emil Bove to lifetime appeals court perch, July 2025"
-    tier: 1
-  - url: "https://whyy.org/articles/emil-bove-third-circuit-court/"
-    label: "WHYY: Concerns abound over controversial 3rd Circuit Court pick"
-    tier: 2
-  - url: "https://www.cnn.com/2025/07/29/politics/emil-bove-trump-attorney-confirmed-federal-appellate-judge"
-    label: "CNN: Republican senators confirm former Trump lawyer to lifetime judgeship, July 29 2025"
-    tier: 1
+- url: https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court
+  label: 'NPR: Senate confirms Trump lawyer Emil Bove for appeals court, July 30 2025'
+  tier: 1
+- url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  label: 'NBC News: Republicans confirm former Trump lawyer Emil Bove to lifetime appeals court perch, July 2025'
+  tier: 1
+- url: https://whyy.org/articles/emil-bove-third-circuit-court/
+  label: 'WHYY: Concerns abound over controversial 3rd Circuit Court pick'
+  tier: 2
+- url: https://www.cnn.com/2025/07/29/politics/emil-bove-trump-attorney-confirmed-federal-appellate-judge
+  label: 'CNN: Republican senators confirm former Trump lawyer to lifetime judgeship, July 29 2025'
+  tier: 1
+claims:
+- id: c1
+  type: date
+  value: July 29, 2025
+  qualifier: Senate
+  span: July 29, 2025, 9:04 PM EDT By Sahil Kapur and Frank Thorp V WASHINGTON — The Republican-led Senate voted Tuesday to confirm Emil Bove as a judge on the 3rd U.S. Circuit Court of Appeals, granting a lifetime appointment to President Donald Trump 's former personal lawyer.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c2
+  type: quote
+  value: was confirmed 50-49, with only Republican votes
+  qualifier: confirmed
+  span: He was confirmed 50-49, with only Republican votes, as they set aside allegations from three whistleblowers about the conduct of Bove, a Justice Department official, which include accusations that he flouted laws and Justice Department procedures.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c3
+  type: figure
+  value: 50-49
+  qualifier: confirmed
+  span: He was confirmed 50-49, with only Republican votes, as they set aside allegations from three whistleblowers about the conduct of Bove, a Justice Department official, which include accusations that he flouted laws and Justice Department procedures.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c4
+  type: quote
+  value: allegations from three whistleblowers about the conduct of Bove
+  qualifier: allegations
+  span: He was confirmed 50-49, with only Republican votes, as they set aside allegations from three whistleblowers about the conduct of Bove, a Justice Department official, which include accusations that he flouted laws and Justice Department procedures.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c5
+  type: figure
+  value: three
+  qualifier: whistleblowers
+  span: He was confirmed 50-49, with only Republican votes, as they set aside allegations from three whistleblowers about the conduct of Bove, a Justice Department official, which include accusations that he flouted laws and Justice Department procedures.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c6
+  type: quote
+  value: Just two Republicans voted with Democrats against the nomination
+  qualifier: Republicans
+  span: 'Just two Republicans voted with Democrats against the nomination: Lisa Murkowski, of Alaska, and Susan Collins, of Maine.'
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c7
+  type: figure
+  value: two
+  qualifier: Republicans
+  span: 'Just two Republicans voted with Democrats against the nomination: Lisa Murkowski, of Alaska, and Susan Collins, of Maine.'
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c8
+  type: quote
+  value: hears cases from Delaware, New Jersey and Pennsylvania
+  qualifier: hears
+  span: He will serve on the 3rd U.S. Circuit Court of Appeals, which hears cases from Delaware, New Jersey and Pennsylvania.
+  url: https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c9
+  type: quote
+  value: resigned rather than agree to dispense with the case
+  qualifier: resigned
+  span: The call was convened amid significant upheaval in the department as prosecutors in New York who'd handled the matter, as well as some in Washington, resigned rather than agree to dispense with the case.
+  url: https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c10
+  type: quote
+  value: resigned about ten minutes before we were going to put her on leave pending an investigation
+  qualifier: remarked
+  span: According to the transcript of the February call, Bove remarked near the outset that interim Manhattan U.S. Attorney Danielle Sassoon "resigned about ten minutes before we were going to put her on leave pending an investigation."
+  url: https://www.npr.org/2025/07/30/nx-s1-5484808/emil-bove-confirm-appeals-court
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c11
+  type: quote
+  value: told Congress via his lawyers that Bove told subordinates that they might have to ignore court orders blocking Trump's deportation efforts
+  qualifier: whistleblower
+  span: An initial Justice Department whistleblower, Erez Reuveni , told Congress via his lawyers that Bove told subordinates that they might have to ignore court orders blocking Trump's deportation efforts, comments that concerned Reuveni.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
+- id: c12
+  type: quote
+  value: saying Bove denied the allegations under oath
+  qualifier: Grassley
+  span: Hours before the vote, Senate Judiciary Committee Chairman Chuck Grassley, R-Iowa, dismissed the complaints raised by the third whistleblower as “another breathless accusation,” saying Bove denied the allegations under oath.
+  url: https://www.nbcnews.com/politics/congress/senate-confirms-trump-nominee-emil-bove-appeals-court-whistleblowers-rcna221781
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-16'
 ---
 
-# Senate Confirms Emil Bove to Third Circuit — 50-49 Vote Installs DOJ Mass-Resignation Architect to Lifetime Appellate Bench
+# Senate Confirms Emil Bove to the Third Circuit, 50-49
 
-On **July 29, 2025**, the U.S. Senate confirmed **Emil Bove** to the **U.S. Court of Appeals for the Third Circuit** by a **50–49 vote**, along strict party lines with the exception of Susan Collins and Lisa Murkowski (who voted against). Bove was sworn in on **September 2, 2025**.
+On **July 29, 2025**, the Senate voted to confirm Emil Bove, a former personal lawyer to Donald Trump and then a top Justice Department official, as a judge on the 3rd U.S. Circuit Court of Appeals, per NBC News. The court hears cases from Delaware, New Jersey and Pennsylvania, per NPR. NBC reported he "was confirmed 50-49, with only Republican votes." Two Republicans, Lisa Murkowski and Susan Collins, voted with Democrats against the nomination.
 
-## Who Is Bove
+## The record the Senate had before it
 
-Emil Bove served as **Acting Deputy Attorney General** in the early Trump-2025 DOJ. His tenure was defined by:
+- **Whistleblower complaints.** NBC reported the vote came as Republicans set aside "allegations from three whistleblowers about the conduct of Bove." One Justice Department whistleblower told Congress through lawyers that Bove told subordinates they might have to ignore court orders blocking deportations under the Alien Enemies Act; NBC calls this an allegation. Senator Grassley said Bove denied the allegations under oath, per NBC.
+- **The Adams case.** NPR reported that prosecutors who had handled the Eric Adams matter "resigned rather than agree to dispense with the case," and quoted a transcript of a February call in which Bove said the interim Manhattan U.S. Attorney, Danielle Sassoon, "resigned about ten minutes before we were going to put her on leave pending an investigation." A resignation letter from Sassoon is the document that would give her account; it was not read for this entry.
+- **Ethics and Public Integrity Section.** Bove's role in these matters is covered in [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]], [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]] and [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]]; each carries its own sources and dates.
 
-- **Eric Adams case**: Ordered the dismissal of the criminal corruption case against New York Mayor Eric Adams in February 2025, triggering mass resignations from the DOJ Public Integrity Section, which NBC News reported in March 2025 would shrink to roughly a half-dozen employees (see [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]]); NOTUS later counted two attorneys against 36 at the start of the term (see [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]])
-- **Sassoon resignation letter**: Danielle Sassoon, SDNY acting U.S. Attorney, resigned rather than drop the Adams case and documented in her resignation letter Bove's alleged instruction to ignore the court's concerns
-- **Venezuelan deportation case**: Whistleblowers alleged Bove suggested ignoring a federal court order in cases involving deportations to El Salvador
-- **Ethics authority delegated to political aides**: Bove issued a January 27, 2026 directive delegating DOJ ethics oversight to political appointees, sidelining career officials (see [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]])
+## Correction (2026-11-17)
 
-## Opposition
-
-- **75+ former federal and state judges** opposed his nomination
-- **900+ former DOJ attorneys** signed a letter opposing confirmation
-- Every Democratic senator voted against
-
-## Prosecutorial-Predicate Significance
-
-In Armitage's framework, Bove is categorized as a **consigliere** — a legal enabler who structured institutional cover for enterprise operations while serving as Acting DAG. His elevation to a lifetime Third Circuit seat provides structural insulation from future accountability while his documented conduct (the Sassoon letter, the Adams dismissal, the Hatch Act/data-access coverups via delegated ethics authority) constitutes evidence for the enterprise's documented pattern. The Third Circuit seat also positions Bove to rule on future challenges to Trump administration conduct in Pennsylvania, New Jersey, and Delaware.
+A paragraph headed Prosecutorial-Predicate Significance was removed; it carried no source, and it put an essay's labels and an unsourced charge about ethics delegation in this entry's own voice. Also removed for lack of a source read in this pass, to be re-sourced from the Sassoon letter, the Senate Judiciary record and court filings: the opposition counts of former judges and former Justice Department attorneys, the swearing-in date, and a Public Integrity Section staffing count. The date of the ethics directive in the linked entry sits oddly with Bove's service as Acting Deputy Attorney General and is flagged for that entry's own check.
 
 ## Related Entries
 
 - [[2025-02-14--doj-public-integrity-section-gutted-adams-revolt]]
 - [[2026-01-27--bove-delegates-doj-ethics-authority-political-aides]]
-- [[2025-09-22--lindsey-halligan-appointed-us-attorney]]
+- [[2025-09-22--doj-public-integrity-section-two-lawyers-anti-corruption-collapse]]
 - [[2025-11-24--halligan-indictments-dismissed-appointment-unconstitutional]]
-
-## Correction (2026-11-16)
-
-- The Public Integrity Section line had Bove cutting the section from 36 to about 2 career lawyers. The 36-to-two count is NOTUS's, published after this confirmation, and no source on the entry has Bove making that cut. The line now gives the NBC and NOTUS reports instead.
