@@ -50,6 +50,41 @@ sources:
     publisher: Hunton Andrews Kurth
     date: '2026-08-13'
     tier: 2
+  - title: 'Notice of Proposed Rulemaking: Data Broker Updates and DROP Audits'
+    url: https://cppa.ca.gov/regulations/pdf/data_broker_updates_and_drop_audits_nopr.pdf
+    publisher: California Privacy Protection Agency
+    date: '2026-11-13'
+    tier: 1
+claims:
+- type: date
+  value: November 13, 2026
+  span: 'Notice published November 13, 2026 Title 11. Law Division 6. California Privacy Protection Agency Chapter 3. Data Broker Registration and Accessible Deletion Mechanism Sections Affected: California Code of Regulations, title 11, sections 7601, 7602, 7603, 7604, 7610, 7612, 7613, 7614, 7615, 7616, 7620, 7621, 7630, 7631, 7632, and 7633. The California Privacy Protection Agency (Agency) proposes to adopt and amend the regulations described below after considering all comments, objections, and recommendations regarding the proposed action.'
+  url: https://cppa.ca.gov/regulations/pdf/data_broker_updates_and_drop_audits_nopr.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: The written comment period closes at 5:00 p.m. Pacific Time on Wednesday, January 6, 2027.
+  span: The written comment period closes at 5:00 p.m. Pacific Time on Wednesday, January 6, 2027.
+  url: https://cppa.ca.gov/regulations/pdf/data_broker_updates_and_drop_audits_nopr.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-18'
+updates:
+- date: '2026-11-13'
+  date_kind: notice publication date
+  heading: CPPA notice of proposed rulemaking on data broker updates and DROP audits
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-drop-rulemaking
 ---
 
 California's Data Removal Platform (DROP), the centralized deletion mechanism created by the Delete Act, became operational on August 1, 2026. Registered data brokers must check DROP at least every 45 days and process consumer deletion requests within 90 days, with per-request civil penalties for non-compliance that accrue independently and can exceed the liability for failing to register at all. A single consumer request now propagates to hundreds of registered brokers at once. It is the first centralized opt-out enforcement mechanism in the United States, arriving alongside a wave of state privacy laws — Connecticut, Arkansas, and Utah effective July 1; Indiana, Kentucky, and Rhode Island effective January 1.
@@ -86,3 +121,7 @@ This is the same mechanism the Maryland AG complaint names ([[2026-08-20--maryla
 - **"260,000 queued requests"** — **did not survive.** No source corroborates it. The corpus's existing **345,000+** figure is better sourced; drop the 260,000.
 
 **No FOIA was needed.** The registry publishes exactly what a records request would have asked for — a reminder that checking what is already public is the cheapest step in a records strategy.
+
+## Update (2026-11-13, notice publication date): CPPA notice of proposed rulemaking on data broker updates and DROP audits
+
+The California Privacy Protection Agency published its notice of proposed rulemaking on Data Broker Updates and DROP Audits on November 13, 2026. The Agency proposes to adopt and amend its data broker regulations. The notice says: "The written comment period closes at 5:00 p.m. Pacific Time on Wednesday, January 6, 2027."
