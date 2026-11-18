@@ -33,6 +33,11 @@ sources:
   publisher: Local News Matters
   date: '2026-10-08'
   tier: 2
+- title: Oakland extends data center moratorium until 2027
+  url: https://oaklandside.org/2026/11/10/oakland-data-center-moratorium-extension/
+  publisher: The Oaklandside
+  date: '2026-11-10'
+  tier: 2
 related_events:
 - 2026-10-06--volusia-county-council-votes-6-1-first-reading-ban-large-data-centers
 claims:
@@ -60,6 +65,45 @@ claims:
   read: fetched
   source_kind: secondary
 
+- type: figure
+  value: 10 months and 15 days
+  span: The council voted unanimously to extend the existing temporary moratorium for an additional 10 months and 15 days, effective until Oct. 5, 2027.
+  url: https://oaklandside.org/2026/11/10/oakland-data-center-moratorium-extension/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-18'
+- type: date
+  value: Oct. 5, 2027
+  span: The council voted unanimously to extend the existing temporary moratorium for an additional 10 months and 15 days, effective until Oct. 5, 2027.
+  url: https://oaklandside.org/2026/11/10/oakland-data-center-moratorium-extension/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-18'
+- type: date
+  value: Nov. 10, 2026
+  span: District 3 Councilmember Carroll Fife speaks at a press conference outside City Hall about extending the existing moratorium on data centers in Oakland on Tuesday, Nov. 10, 2026.
+  url: https://oaklandside.org/2026/11/10/oakland-data-center-moratorium-extension/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-18'
+updates:
+- date: '2026-11-10'
+  date_kind: council vote
+  heading: Oakland council unanimously extends the data-center moratorium to October 5, 2027
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-moratoria
 ---
 
 The Oakland City Council on Tuesday unanimously approved a 45-day moratorium on approvals for new data centers (Oaklandside). With a 7-0 vote, the council approved Councilmember Carroll Fife's proposal to enact a pause on all approvals related to data center development (Local News Matters).
@@ -67,3 +111,7 @@ The Oakland City Council on Tuesday unanimously approved a 45-day moratorium on 
 Council vote on the moratorium; the city's own agenda and ordinance text were not retrieved, so the ordinance number, effective date and expiry are unverified.
 
 Context: compare [[2026-10-06--volusia-county-council-votes-6-1-first-reading-ban-large-data-centers]].
+
+## Update (2026-11-10, council vote): Oakland council unanimously extends the data-center moratorium to October 5, 2027
+
+The council voted unanimously to extend the existing temporary moratorium for an additional 10 months and 15 days, effective until Oct. 5, 2027, according to The Oaklandside. The vote was on Tuesday, Nov. 10, 2026.
