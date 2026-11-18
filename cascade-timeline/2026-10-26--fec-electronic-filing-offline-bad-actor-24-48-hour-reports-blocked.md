@@ -81,6 +81,33 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: November 16, 2026
+  span: Resetting e-filing passwords November 16, 2026
+  url: https://www.fec.gov/updates/resetting-e-filing-passwords/
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: Before filing their next report, all electronic filers must create a new password using the FEC’s Electronic Filing Password Assignment System.
+  span: Before filing their next report, all electronic filers must create a new password using the FEC’s Electronic Filing Password Assignment System.
+  url: https://www.fec.gov/updates/resetting-e-filing-passwords/
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: on or after 10/28
+  span: Filers that have already changed their password on or after 10/28 need not do so again.
+  url: https://www.fec.gov/updates/resetting-e-filing-passwords/
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - fec
 - campaign-finance
@@ -104,6 +131,11 @@ sources:
   publisher: Reuters via bdnews24
   date: '2026-10-29'
   tier: 2
+- title: Resetting e-filing passwords
+  url: https://www.fec.gov/updates/resetting-e-filing-passwords/
+  publisher: Federal Election Commission
+  date: '2026-11-16'
+  tier: 1
 related_events: []
 updates:
 - date: '2026-10-28'
@@ -117,6 +149,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: outside-money-tx-mi-senate
+- date: '2026-11-16'
+  date_kind: FEC notice date
+  heading: FEC posts notice that all electronic filers must reset passwords
+  claims:
+  - u4
+  - u5
+  - u6
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: outside-money-tx-mi-senate
 ---
 
 A status message posted by the FEC said its filing system had been down since around 10 p.m. ET Monday, NBC News reports. "We have a bad actor attempting to breach FEC systems," an FEC filings officer wrote to compliance firms. The outage prevented filing 24-hour and 48-hour spending reports. CNBC reports the FEC said Tuesday night it had identified the issue, and that the system "remained offline early Wednesday."
@@ -124,3 +167,7 @@ A status message posted by the FEC said its filing system had been down since ar
 ## Update (2026-10-28, restoration date, as reported): Reuters: filing restored after nearly 41 hours; managers had to reset passwords
 
 Reuters reported that the FEC restored filing "Wednesday night after taking it offline for nearly 41 hours." It reported: "Campaign finance managers had to reset their passwords before logging in to the system, according to an email reviewed by Reuters." It gave no reason for the reset. It also reported: "The FEC did not return requests for comment Wednesday and did not announce any details on the cause of the outage."
+
+## Update (2026-11-16, FEC notice date): FEC posts notice that all electronic filers must reset passwords
+
+The FEC posted a notice on its website dated November 16, 2026. It said: "Before filing their next report, all electronic filers must create a new password using the FEC’s Electronic Filing Password Assignment System." It said filers that had already changed their password on or after 10/28 need not do so again.
