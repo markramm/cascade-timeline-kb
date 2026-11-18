@@ -118,6 +118,42 @@ claims:
   id: u4
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: November 16, 2026
+  span: 'ORDER NO. PSC-2026-0406-FOF-EI ISSUED: November 16, 2026'
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07894-2026/07894-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-18'
+- type: posture
+  value: denied as filed
+  span: For the reasons set forth above, DEF’s petition and associated tariffs are denied as filed.
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07894-2026/07894-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: must file tariff provisions for our approval covering all customers who meet the statutory definition of a large load customer, and a proposed large load rate schedule with adequate cost support.
+  span: DEF must file tariff provisions for our approval covering all customers who meet the statutory definition of a large load customer, and a proposed large load rate schedule with adequate cost support.
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07894-2026/07894-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: upon the expiration of the time for filing an appeal
+  span: ORDERED this docket shall be closed upon the expiration of the time for filing an appeal.
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07894-2026/07894-2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - data-centers
 - utilities
@@ -143,6 +179,11 @@ sources:
   publisher: Florida Public Service Commission
   date: '2026-10-29'
   tier: 1
+- title: Final Order PSC-2026-0406-FOF-EI, Doc. 07894-2026
+  url: https://www.floridapsc.com/pscfiles/library/filings/2026/07894-2026/07894-2026.pdf
+  publisher: Florida Public Service Commission
+  date: '2026-11-16'
+  tier: 1
 related_events:
 - 2025-06-20--texas-sb-6-large-load-interconnection-signed
 - 2026-03-13--ppl-electric-pa-puc-275m-rate-hike-large-load-data-center-tariff
@@ -162,6 +203,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: data-center-buildout
+- date: '2026-11-16'
+  date_kind: order issue date
+  heading: The commission issues its final order denying Duke's large-load tariff
+  claims:
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u5
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 The Florida Public Service Commission on Tuesday rejected Duke Energy Florida's proposed large data center tariff 5-0, Florida Phoenix reported. The commission found the proposal did not demonstrate compliance with legislation passed earlier this year, SB 484, which requires utilities to reasonably ensure that large-load customers such as hyperscale data centers bear the full cost of their service. Duke's petition was the first test of whether the law protects ratepayers; PSC staff recommended late last month that the panel deny it, and in September hearings Duke declined to make public the full costs for residential and small business ratepayers.
@@ -171,3 +224,7 @@ A Duke spokesperson said the company remains focused on "ensuring that data cent
 ## Update (2026-11-03, vote date): The commission's vote sheet carries the staff recommendation to deny Duke's tariff with leave to refile
 
 The Florida Public Service Commission rejected Duke Energy Florida's proposal on Tuesday. Its vote sheet carries the staff recommendation to "deny DEF’s proposed tariff as filed, with leave to" refile. The vote sheet says an "Oral Modification, assigned Document No. 07601-2026, is" attached, and that document contains the wording "must file tariff provisions for Commission" approval.
+
+## Update (2026-11-16, order issue date): The commission issues its final order denying Duke's large-load tariff
+
+The Florida Public Service Commission issued its final order on November 16, 2026. The order denies Duke Energy Florida's petition and associated tariffs as filed. Duke "must file tariff provisions for our approval covering all customers who meet the statutory definition of a large load customer, and a proposed large load rate schedule with adequate cost support." The order closes the docket "upon the expiration of the time for filing an appeal."
