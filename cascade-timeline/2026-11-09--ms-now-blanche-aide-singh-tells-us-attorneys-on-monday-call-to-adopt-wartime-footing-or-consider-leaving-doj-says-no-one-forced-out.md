@@ -122,10 +122,6 @@ tags:
 - departures
 - removals
 summary: MS NOW reported that a Blanche aide told U.S. attorneys on a conference call to get on a wartime footing or consider leaving, and DOJ says he never said anyone would be forced out.
-approved_names:
-- Aakash Singh
-- Leah Foley
-- Jason Reding Quiñones
 verification: captured
 ---
 
