@@ -184,6 +184,9 @@ actors:
   - Hewlett Packard Enterprise
   - Juniper Networks
   - Donald Trump
+coverage:
+  - url: https://theramm.transparencycascade.org/p/eight-outages-in-six-days-and-what
+    title: "Eight Outages in Six Days, and What Each Operator Has Said"
 sources:
   - title: "Nationwide Ground Stop: Questions and Answers"
     url: https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers
