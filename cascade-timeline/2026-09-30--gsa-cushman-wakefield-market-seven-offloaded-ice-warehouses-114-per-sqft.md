@@ -115,10 +115,26 @@ claims:
   outcome: verified
   checked: '2026-10-17'
 
+- id: c10
+  type: posture
+  value: Ritner Logistics Center at 3501 Mountain Road in Upper Bern, Pa.
+  span: One of the properties listed by Green Street was the Ritner Logistics Center at 3501 Mountain Road in Upper Bern, Pa., which U.S. Immigration and Customs Enforcement (ICE) bought from commercial real estate lender PCCP in February for $87.4 million, or $169 per square foot.
+  url: https://commercialobserver.com/2026/09/cushman-wakefield-selling-dhs-warehouses-ice-trump/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-18'
+corrections:
+- date: '2026-11-18'
+  was: The portfolio includes 7525 Cogswell Street in Romulus, Mich., the Eastwind Logistics Center in Socorro, Texas, and sites in Tremont, Pa., Salt Lake City, Social Circle and Flowery Branch.
+  now: The portfolio includes the Ritner Logistics Center at 3501 Mountain Road in Upper Bern, Pa., 7525 Cogswell Street in Romulus, Mich., the Eastwind Logistics Center in Socorro, Texas, and sites in Tremont, Pa., Salt Lake City, Social Circle and Flowery Branch. That is seven.
+  why: Commercial Observer, Sept. 30, 2026 (fetched 2026-11-18; the Upper Bern site is named in a separate paragraph from the six-site list, which is why the entry named six)
+  found_by: "recheck task, 2026-11-18"
+
 ---
 
 On **September 30, 2026** (press report date), Commercial Observer reported that the Trump administration is working with Cushman & Wakefield to offload seven industrial sites it had planned to convert to immigrant detention centers. The federal government is taking bids starting at $114 per square foot, or $600 million, for the seven sites, representing a roughly 15 percent discount to the average of $134 per square foot originally paid for the 5.3 million-square-foot portfolio. The paid total, per Green Street News as relayed by Commercial Observer, is $706.8 million.
 
-The portfolio includes 7525 Cogswell Street in Romulus, Mich., the Eastwind Logistics Center in Socorro, Texas, and sites in Tremont, Pa., Salt Lake City, Social Circle and Flowery Branch.
+The portfolio includes the Ritner Logistics Center at 3501 Mountain Road in Upper Bern, Pa., 7525 Cogswell Street in Romulus, Mich., the Eastwind Logistics Center in Socorro, Texas, and sites in Tremont, Pa., Salt Lake City, Social Circle and Flowery Branch.
 
 **What this is and is not.** No sale has closed. The asking terms come from a trade outlet citing another trade outlet, not from a published GSA listing, and the $706.8 million total has not been reconciled here to other counts of warehouse purchases.

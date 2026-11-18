@@ -168,19 +168,19 @@ claims:
   checked: '2026-10-13'
 - id: u1
   type: figure
-  value: '61829037.54'
+  value: '17333698.5'
   qualifier: total_obligation
-  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  span: '"total_obligation": 17333698.5, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 17333698.5, "base_and_all_options": 1008135768.12'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
   read: fetched
   source_kind: primary
   outcome: verified
-  checked: '2026-10-13'
+  checked: '2026-11-18'
 - id: u2
   type: figure
   value: '1008135768.12'
   qualifier: base_and_all_options
-  span: '"total_obligation": 61829037.54, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 61829037.54, "base_and_all_options": 1008135768.12'
+  span: '"total_obligation": 17333698.5, "subaward_count": 0, "total_subaward_amount": null, "date_signed": "2026-08-27", "base_exercised_options": 17333698.5, "base_and_all_options": 1008135768.12'
   url: https://api.usaspending.gov/api/v2/awards/CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700/
   read: fetched
   source_kind: primary
@@ -244,11 +244,16 @@ corrections:
   now: TPR's 'roughly $17 million' was the first-day obligation; USAspending now lists award 70CDCR26FR0000103 at $61,829,037.54 obligated (a Sept. 29, 2026 modification added $44.5M) and $1,008,135,768.12 potential.
   why: 'Deed of record: General Warranty Deed dated 2026-02-03, CRP OIG SAN ANTONIO 410 OWNER LP to the United States, instrument 20260020383 (county deed index as shown on the BCAD portal, Property ID 1371100, read 2026-09-14; not fetchable by the gate, so the date is in this note only); KSAT/San Antonio Business Journal, Sept. 1, 2026 (''in February''); USAspending award 70CDCR26FR0000103 (api.usaspending.gov, retrieved 2026-10-13)'
   found_by: "editorial verification, 2026-10-13"
+- date: '2026-11-18'
+  was: USAspending now lists award 70CDCR26FR0000103 at $61,829,037.54 obligated (a Sept. 29, 2026 modification added $44.5M) and $1,008,135,768.12 potential.
+  now: USAspending lists award 70CDCR26FR0000103 at $17,333,698.50 obligated and $1,008,135,768.12 potential, as of the 2026-11-18 read. The transactions endpoint shows two actions, the Aug. 27 order ($17,333,698.50) and modification P00001 on Sept. 30 ($0, administrative updates to the contracting officer's representative and the facility address).
+  why: USAspending award CONT_AWD_70CDCR26FR0000103_7012_N0002325D0032_9700 (api.usaspending.gov v2 awards and transactions endpoints, fetched 2026-11-18; last_modified_date 2026-11-03)
+  found_by: "recheck task, 2026-11-18"
 ---
 
 The Oct. 2 statement by San Antonio Mayor Gina Ortiz Jones signals an escalation in her opposition to the ICE warehouse project. She said: "I support legal action to halt all activities related to renovating the Eastside facility into a 1,500-person ICE processing center". She said a Sept. 30 deadline for the latest inquiry passed without a response.
 
-Texas Public Radio reports that ICE purchased the warehouse for $66 million in January. KSAT, citing the San Antonio Business Journal, reports that ICE acquired it in February for $66.1 million, and reported: "According to the Bexar County Appraisal District, the property was appraised at $37.6 million and sold for $66.1 million." The price is the outlets' figure; no deed or federal record read states it. TPR reported that ICE subsequently awarded GardaWorld a roughly $17 million contract to renovate the warehouse and provide services; USAspending now lists award 70CDCR26FR0000103 at $61,829,037.54 obligated, with a potential value of $1,008,135,768.12. KSAT reports the planned detention center is scheduled to open in spring 2027.
+Texas Public Radio reports that ICE purchased the warehouse for $66 million in January. KSAT, citing the San Antonio Business Journal, reports that ICE acquired it in February for $66.1 million, and reported: "According to the Bexar County Appraisal District, the property was appraised at $37.6 million and sold for $66.1 million." The price is the outlets' figure; no deed or federal record read states it. TPR reported that ICE subsequently awarded GardaWorld a roughly $17 million contract to renovate the warehouse and provide services; USAspending lists award 70CDCR26FR0000103 at $17,333,698.5 obligated, with a potential value of $1,008,135,768.12. KSAT reports the planned detention center is scheduled to open in spring 2027.
 
 Five San Antonio City Council members called for an urgent special session on utility impacts. Hundreds of people gathered on San Antonio's East Side on Saturday to protest. Tommy Calvert said San Antonio is "the last city and county to sue in the nation and the only city with an ICE facility moving forward".
 

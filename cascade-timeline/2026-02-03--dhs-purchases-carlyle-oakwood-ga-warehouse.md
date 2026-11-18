@@ -44,6 +44,12 @@ sources:
   outlet: CoStar
   date: '2026'
   tier: 1
+corrections:
+- date: '2026-11-18'
+  was: On or about February 3, 2026, a Delaware entity called CRP/AI Oakwood Owner LLC sold a warehouse in Oakwood, Hall County, Georgia to the U.S. Department of Homeland Security for $68.2 million. 
+  now: The sale is dated Feb. 18, 2026 (the entry's date field, id and filename still read 2026-02-03 because eight files link the id; a rename to 2026-02-18 is left for a pass that can update them). Atlanta News First reports the warranty deed shows the federal government agreed to buy the land for $68,162,500 on Feb. 18; FOX 5 Atlanta reports the sale was finalized on Feb. 18 for $68,162,500, according to Hall County property records.
+  why: Atlanta News First, Feb. 24, 2026 (fetched 2026-11-18); FOX 5 Atlanta (fetched 2026-11-18). Both are press accounts of the deed and county record; the Hall County deed itself is behind GSCCCA login and was not read.
+  found_by: "recheck task, 2026-11-18"
 status: confirmed
 capture_lanes:
 - Detention Industrial Complex
@@ -51,7 +57,7 @@ capture_lanes:
 - Distributed Personnel Conflict
 ---
 
-On or about February 3, 2026, a Delaware entity called **CRP/AI Oakwood Owner LLC** — a joint venture of **The Carlyle Group** (the Washington, DC-based private equity firm, NASDAQ: CG) and **Alliance Industrial** — sold a warehouse in Oakwood, Hall County, Georgia to the U.S. Department of Homeland Security for **$68.2 million**. The property is projected to become an approximately 1,500-bed ICE detention facility under the WEXMAC-TITUS procurement vehicle. It is the second of two Georgia detention warehouse acquisitions that closed in early 2026 (the other being PNK/Sharkov's $128.5M Social Circle transaction — see [[2026-01-09--pnk-social-circle-dhs-detention-sale]]). Together, the two Georgia transactions total approximately $200 million.
+On February 18, 2026, a Delaware entity called **CRP/AI Oakwood Owner LLC** — a joint venture of **The Carlyle Group** (the Washington, DC-based private equity firm, NASDAQ: CG) and **Alliance Industrial** — sold a warehouse in Oakwood, Hall County, Georgia to the U.S. Department of Homeland Security for **$68.2 million**. The property is projected to become an approximately 1,500-bed ICE detention facility under the WEXMAC-TITUS procurement vehicle. It is the second of two Georgia detention warehouse acquisitions that closed in early 2026 (the other being PNK/Sharkov's $128.5M Social Circle transaction — see [[2026-01-09--pnk-social-circle-dhs-detention-sale]]). Together, the two Georgia transactions total approximately $200 million.
 
 ## Transaction Details
 
