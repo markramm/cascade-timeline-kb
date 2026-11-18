@@ -162,6 +162,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-17'
+- type: date
+  value: Tuesday
+  span: President Donald Trump, during an interview earlier Tuesday on Fox News' "Fox and Friends," blasted Elias.
+  url: https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-18'
+- type: attribution
+  value: Fox and Friends
+  span: President Donald Trump, during an interview earlier Tuesday on Fox News' "Fox and Friends," blasted Elias.
+  url: https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: should go to jail, in my opinion
+  span: '"You had the Democrat Party headed up by Elias, their lawyer, who was a bad guy, very bad guy — should go to jail, in my opinion, " Trump said.'
+  url: https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - election-2026
 - alaska-senate
@@ -191,7 +218,24 @@ sources:
   publisher: Alaska Public Media
   date: '2026-10-30'
   tier: 2
+- title: 'Trump DOJ sends target letters to Democrats in Alaska Senate criminal probe: Reports'
+  url: https://www.cnbc.com/2026/11/03/trump-doj-election-lawsuits-monitors-2026-midterms.html
+  publisher: CNBC
+  date: '2026-11-03'
+  tier: 2
 verification: source-verified
+updates:
+- date: '2026-11-03'
+  date_kind: interview date
+  heading: Trump says on Fox and Friends that Elias should go to jail
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: election-2026-alaska-senate-probe
 ---
 
 On Nov. 3, 2026, CBS News reported that attorney Marc Elias is a target in the Justice Department's criminal investigation into whether Democrats sought to confuse voters in Alaska. CBS attributed that to a law enforcement official and a second source. The AP reported the same day, citing two people familiar with the matter, that the Justice Department had sent a target letter to Elias and others. CBS reported that approximately 20 target and preservation letters had been issued, and that the Democratic Senatorial Campaign Committee separately received a grand jury subpoena. One person briefed on the probe told the AP that more than 100 subpoenas had been issued. Elias said, "We will not be intimidated by a sham investigation." The AP noted that getting a target letter does not necessarily mean that a person will be indicted. CBS reported that Peltola's campaign and the DSCC have denied any connection to the effort to put Daniel J. Sullivan on the ballot. The Justice Department had not commented on the record; the reporting rests on anonymous sources.
@@ -199,3 +243,7 @@ On Nov. 3, 2026, CBS News reported that attorney Marc Elias is a target in the J
 The U.S. Attorney's own words came earlier. At a news conference on Friday, Alaska U.S. Attorney Michael Heyman said, "I'm not making any assumptions on whether a crime has been committed or not," Alaska Public Media reported. CBS describes Heyman as the court-appointed U.S. Attorney in Alaska. CBS reported that federal prosecutors have not articulated what crimes they are investigating. It also reported that Stephen Miller suggested on Fox News that they could investigate violations of 18 USC 241. CBS reported that Trump said of Schumer and Elias, "I think they should be held criminally responsible for it". Heyman told reporters, per CBS, "We're not escalating anything except to the extent that a new article came out." CBS reported that the timing of the letters and subpoenas appears to run afoul of the Justice Department's own internal guidelines limiting investigative steps ahead of a national election.
 
 Related: [[2026-10-22--doj-sues-alaska-to-bar-senate-certification-if-sullivan-loses-nvra]].
+
+## Update (2026-11-03, interview date): Trump says on Fox and Friends that Elias should go to jail
+
+CNBC reported that President Donald Trump, during an interview on Tuesday on Fox News, blasted Elias. In that interview Trump said Elias "should go to jail, in my opinion".
