@@ -73,6 +73,69 @@ claims:
   read: fetched
   source_kind: primary
   id: d1
+- type: date
+  value: 11/16/26
+  span: 'Document 182
+
+    #:2531
+
+    Filed 11/16/26
+
+    Page 1 of 1 Page ID'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-18'
+- type: attribution
+  value: BENNETT, BUMATAY, and SANCHEZ
+  span: 'Before: BENNETT, BUMATAY, and SANCHEZ, Circuit Judges.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: voluntarily dismissed its action
+  span: 'Appellant United States of America voluntarily dismissed its action before the
+
+    district court, and the district court has closed the case.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-18'
+- type: figure
+  value: ten (10) days
+  span: 'Within ten (10) days from
+
+    the date of this order, the United States shall notify this court of what it intends to do
+
+    with this appeal.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-18'
+- type: figure
+  value: 26-7231
+  span: 'UNITED STATES OF AMERICA,
+
+    No. 26-7231
+
+    D.C. No.
+
+    2:26-cv-12025-DOC-ADS'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - election-capture
 - midterms-2026
@@ -94,12 +157,35 @@ sources:
   publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
   date: '2026-10-30'
   tier: 1
+- title: Ninth Circuit order of Nov. 2026 in United States v. California (RECAP copy)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.182.0.pdf
+  publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
+  date: '2026-11-16'
+  tier: 1
 related_events:
 - 2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149
 - 2026-10-26--ninth-circuit-dismisses-doj-emergency-appeal-california-noncitizen-ballot-segregation-2-1-self-constructed-emergency
 coverage:
 - url: https://theramm.transparencycascade.org/p/four-election-rulings-against-the
   title: "Four Election Rulings Against the Government in Three Days"
+updates:
+- date: '2026-11-16'
+  date_kind: filing date (order entered on the district docket)
+  heading: Ninth Circuit gives DOJ ten days to say what it will do with its appeal after dismissing the suit
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 In a published per curiam order filed October 30 in No. 26-7231, a Ninth Circuit panel denied the United States' emergency motion, in United States v. California, asking it to make the state sequester mail ballots of voters on the federal list. The panel held the district court "did not abuse its discretion" and wrote that "there is no feasible way to identify and segregate the ballots of specific individuals without potentially catastrophic effects on the entire system." It did not decide the threshold questions, writing that it would "assume without deciding" that the United States has standing and a cause of action. Judge Bumatay dissented.  A later order set any rehearing petition for 3:00 p.m. Pacific the same day.
+
+## Update (2026-11-16, filing date (order entered on the district docket)): Ninth Circuit gives DOJ ten days to say what it will do with its appeal after dismissing the suit
+
+A Ninth Circuit panel (BENNETT, BUMATAY, and SANCHEZ, Circuit Judges) noted that the United States "voluntarily dismissed its action" in the district court and that the district court has closed the case. It ordered the United States, within ten (10) days, to notify the court of what it intends to do with appeal No. 26-7231. The order was filed on the district docket on 11/16/26.
