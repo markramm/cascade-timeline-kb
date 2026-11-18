@@ -116,6 +116,24 @@ claims:
   id: u2
   outcome: verified
   checked: '2026-11-04'
+- type: date
+  value: 11/06/26
+  span: 'Case: 3:26-cv-00074-DMB-JMV Doc #: 141 Filed: 11/06/26 1 of 4 PageID #: 3357'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.msnd.52261/gov.uscourts.msnd.52261.141.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-18'
+- type: attribution
+  value: X.AI Corp. and MZX Tech LLC
+  span: Defendants X.AI Corp. and MZX Tech LLC move this Court to certify for
+  url: https://storage.courtlistener.com/recap/gov.uscourts.msnd.52261/gov.uscourts.msnd.52261.141.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - data-centers
 - xai
@@ -138,6 +156,11 @@ sources:
   publisher: CourtListener RECAP
   date: '2026-10-30'
   tier: 1
+- title: Defendants' motion for certification of interlocutory appeal, Doc 141
+  url: https://storage.courtlistener.com/recap/gov.uscourts.msnd.52261/gov.uscourts.msnd.52261.141.0_1.pdf
+  publisher: N.D. Miss. via CourtListener RECAP
+  date: '2026-11-06'
+  tier: 1
 captured_by: capture-watch
 cluster: platform-power-2026
 updates:
@@ -151,6 +174,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: platform-power-2026
+- date: '2026-11-06'
+  date_kind: filing date
+  heading: X.AI and MZX Tech ask Judge Brown to certify her order for interlocutory appeal
+  claims:
+  - u3
+  - u4
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: naacp-v-xai
 ---
 
 On 10/30/26, U.S. District Judge Debra M. Brown denied the motion to dismiss filed by X.AI Corp. and MZX Tech LLC in the NAACP's Clean Air Act suit over the Colossus Gas Plant in Southaven, DeSoto County, Mississippi. The defendants had moved to dismiss on June 15, 2026, arguing the plant is exempted from permitting requirements under the mobile source exception in Mississippi's State Implementation Plan and that the citizen suit provision is unconstitutional. The opinion holds that the combustion turbines are not "mobile sources," that the citizen suit provision "does not violate Article II of the Constitution," and that "the plaintiffs' claims will not be dismissed" on that ground. The complaint seeks a civil penalty of up to $124,426 per day per violation.
@@ -158,3 +191,7 @@ On 10/30/26, U.S. District Judge Debra M. Brown denied the motion to dismiss fil
 ## Update (2026-10-30, filing date): United States and NAACP stipulate to dismiss the Fifth Circuit appeal
 
 A Fifth Circuit filing dated 10/30/2026 in the United States' appeal reads: "stipulate to dismiss this appeal".
+
+## Update (2026-11-06, filing date): X.AI and MZX Tech ask Judge Brown to certify her order for interlocutory appeal
+
+The motion for certification was filed 11/06/26. X.AI Corp. and MZX Tech LLC move this Court to certify for immediate appeal the court's earlier order denying the motion to dismiss.
