@@ -21,6 +21,21 @@ sources:
     publisher: Arizona Corporation Commission eDocket (State of Arizona filing)
     date: '2026-10-19'
     tier: 1
+  - title: AriSEIA's Motion to Recuse Chairman Myers, APS rate case docket
+    url: https://docket.images.azcc.gov/E000055603.pdf
+    publisher: Arizona Corporation Commission eDocket
+    date: '2026-11-10'
+    tier: 1
+  - title: Chairman Myers letter, Response to motion for recusal, Nov. 12, 2026
+    url: https://docket.images.azcc.gov/E000055670.pdf
+    publisher: Arizona Corporation Commission eDocket
+    date: '2026-11-12'
+    tier: 1
+  - title: Chairman Myers letter, Response to motion for recusal, Oct. 21, 2026
+    url: https://docket.images.azcc.gov/E000055122.pdf
+    publisher: Arizona Corporation Commission eDocket
+    date: '2026-10-21'
+    tier: 1
 event_date_claim: c1
 claims:
   - id: c1
@@ -143,6 +158,103 @@ claims:
     url: https://docket.images.azcc.gov/E000055070.pdf
     read: fetched
     source_kind: primary
+  - type: date
+    value: 11/10/2026
+    qualifier: Docketed
+    span: 'ACC - Docket Control Docketed: 11/10/2026 8:01'
+    url: https://docket.images.azcc.gov/E000055603.pdf
+    read: fetched
+    source_kind: primary
+    id: u1
+    outcome: verified
+    checked: '2026-11-18'
+  - type: quote
+    value: MOTION TO RECUSE CHAIRMAN MYERS
+    qualifier: MOTION TO RECUSE
+    span: ARISEIA'S MOTION TO RECUSE CHAIRMAN MYERS - 1
+    url: https://docket.images.azcc.gov/E000055603.pdf
+    read: fetched
+    source_kind: primary
+    id: u2
+    outcome: verified
+    checked: '2026-11-18'
+  - type: date
+    value: 11/12/2026
+    qualifier: Docketed
+    span: 'ACC - Docket Control - Docketed: 11/12/2026 1 :11'
+    url: https://docket.images.azcc.gov/E000055670.pdf
+    read: fetched
+    source_kind: primary
+    id: u3
+    outcome: verified
+    checked: '2026-11-18'
+  - type: quote
+    value: I file this response denying the motion for my recusal filed on November 10, 2026.
+    qualifier: denying the motion
+    span: I file this response denying the motion for my recusal filed on November 10, 2026.
+    url: https://docket.images.azcc.gov/E000055670.pdf
+    read: fetched
+    source_kind: primary
+    id: u4
+    outcome: verified
+    checked: '2026-11-18'
+  - type: quote
+    value: I've found no basis to recuse myself
+    qualifier: no basis
+    span: and I've found no basis to recuse myself. My general support for formula rates as a ratemaking
+    url: https://docket.images.azcc.gov/E000055670.pdf
+    read: fetched
+    source_kind: primary
+    id: u5
+    outcome: verified
+    checked: '2026-11-18'
+  - type: quote
+    value: decide this case based solely on the record before the Commission
+    qualifier: solely
+    span: decide this case based solely on the record before the Commission.
+    url: https://docket.images.azcc.gov/E000055670.pdf
+    read: fetched
+    source_kind: primary
+    id: u6
+    outcome: verified
+    checked: '2026-11-18'
+  - type: date
+    value: 10/21/2026
+    qualifier: Docketed
+    span: 'ACC - Docket Control - Docketed: 10/21/2026 8:35'
+    url: https://docket.images.azcc.gov/E000055122.pdf
+    read: fetched
+    source_kind: primary
+    id: u7
+    outcome: verified
+    checked: '2026-11-18'
+  - type: quote
+    value: I file this response denying the motion for my recusal in the APS rate case
+    qualifier: denying the motion
+    span: I file this response denying the motion for my recusal in the APS rate case (E-01345A-25-0105).
+    url: https://docket.images.azcc.gov/E000055122.pdf
+    read: fetched
+    source_kind: primary
+    id: u8
+    outcome: verified
+    checked: '2026-11-18'
+updates:
+- date: '2026-11-12'
+  date_kind: filing date
+  heading: Chairman Myers files a response denying a second recusal motion
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ai-industry-data-colonialism
 ---
 
 The State of Arizona, represented by Attorney General Kristin Mayes's office, filed a motion in the Arizona Corporation Commission's Arizona Public Service rate case, signed on the 19th day of October, 2026 and docketed 10/19/2026, asking that Commission Chairman Nick Myers recuse himself from the final decision.
@@ -150,3 +262,9 @@ The State of Arizona, represented by Attorney General Kristin Mayes's office, fi
 The State asks that Myers "immediately recuse" himself, and, in the alternative, that he stay out of deliberations on APS's proposed formula rate mechanism. It says the Commission "will soon begin deliberating on a final order" and that recusal would still leave the Commission with a "quorum to deliberate and decide" on the application. It also asks the administrative law judge to add exhibits documenting Myers's statements to the record or to take "official notice" of them.
 
 The State bases the motion on public statements it attributes to Myers. It says Myers has made three public statements since April. It says that on April 6, 2026 he published an op-ed that the State characterizes as calling the State's participation "beyond traditional legal participation," and as urging an ethics investigation of the Attorney General; that in an April interview he said he was "disgusted" with her actions; that in a September 3, 2026 Commission release he said the Commission would continue to "utilize this mechanism and defend it in court" in reference to formula rate plans, after the hearings had ended; and that on October 12 he referred to her "twisted mind." The State cites the Commission's Code of Ethics, which says a commissioner should step aside when he or she "cannot be impartial."
+
+## Update (2026-11-12, filing date): Chairman Myers files a response denying a second recusal motion
+
+The Arizona Solar Energy Industries Association (AriSEIA) filed its own motion to recuse Chairman Myers, docketed 11/10/2026. On 11/12/2026, Myers filed a letter in the docket that says: "I file this response denying the motion for my recusal filed on November 10, 2026." The letter says "I've found no basis to recuse myself" and says he intends to "decide this case based solely on the record before the Commission".
+
+Myers's earlier letter on the State's motion, docketed 10/21/2026, closes with the sentence: "I file this response denying the motion for my recusal in the APS rate case."
