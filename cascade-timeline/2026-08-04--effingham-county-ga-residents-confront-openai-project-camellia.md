@@ -242,6 +242,12 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-05'
+corrections:
+- date: '2026-11-18'
+  was: "Nearly 1,000 residents confronted OpenAI officials at a packed open house the next day and again at the August 5 Board of Commissioners meeting, where commissioners nonetheless voted to approve a zoning ordinance establishing a unified industrial district for the project's Savannah Gateway Industrial Hub site."
+  now: "Commissioners gave final approval to Ordinance 2026-352 on Aug. 4, a Tuesday-night meeting before a packed crowd; Project Camellia was not on the agenda or open for public comment, and WTOC described the vote as brief. The July 23 open house drew more than 500 people inside by the Effingham Herald's count; Tech Times reported nearly 1,000. The county's Aug. 4 agenda lists 2026-352 as the second reading of a Permitted Use Table amendment and limits public comment to agenda items."
+  why: "https://www.wtoc.com/2026/08/05/effingham-county-commissioners-address-data-center-plans/ ; https://www.effinghamherald.net/data-centers/effingham-county-residents-sue-over-data-center-zoning-change-openai-lawsuit/ ; https://meetings.municode.com/adaHtmlDocument/index?cc=EFFINGHAM&me=95b12bc6a0e54052bf95f6a9d51a9f65&ip=true (tentative agenda; Aug. 4 minutes not read)"
+  found_by: "task correct-effingham-project-camellia-entry-vote-and-crowd-claims-pull-ecida, entry text corrected 2026-10-28 (d84b0f7c)"
 updates:
 - date: '2026-11-03'
   date_kind: meeting date (board vote)
