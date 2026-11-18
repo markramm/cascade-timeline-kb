@@ -112,6 +112,16 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-15'
+- id: c13
+  type: quote
+  value: Relating to the repeal of laws requiring agreements between certain sheriffs and the United States Immigration and Customs Enforcement to enforce federal immigration law and providing a grant program to cover the costs of implementing those agreements.
+  speaker: Texas Legislature Online
+  span: Relating to the repeal of laws requiring agreements between certain sheriffs and the United States Immigration and Customs Enforcement to enforce federal immigration law and providing a grant program to cover the costs of implementing those agreements.
+  url: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB123
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - immigration-enforcement
 - texas
@@ -134,8 +144,15 @@ sources:
   publisher: Eyes on ICE
   date: '2026-11-14'
   tier: 3
+- title: 90(R) History for HB 123
+  url: https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB123
+  publisher: Texas Legislature Online
+  date: '2026-11-18'
+  tier: 1
 ---
 
 A coalition of 16 federal, state, and local officials sent an open letter on November 13, 2026 to Austin parking lot and garage operators, asking them to keep ICE from using their properties as staging areas for enforcement operations. According to Casar's office, ICE used at least two private Austin parking lots as staging areas during the previous month to carry out arrests and transport immigrants to detention facilities, including one site where the property owner never authorized federal agents to be there. A DHS spokesperson responded that "no terminated parking will stop ICE from deporting criminal illegal aliens to make Austin safe again."
 
 The letter is a property-owner lever rather than a legal order: it asks lot operators to commit to a prohibition and make it clear to ICE. Related entries: [[2026-10-13--dhs-confirms-ice-processed-14-detainees-roxbury-nj-warehouse-parking-lot]] and [[2026-11-02--mamdani-warns-ice-stop-using-nyc-parking-lots-or-face-lawsuit-unlawful-commandeering-city-property]]. Eyes on ICE reports the letter came after Gina Hinojosa's November 3, 2026 win in the Texas governor's race, which it describes as making her the first Democrat elected governor of Texas in 36 years and the state's first Latina governor-elect, and that on November 9, 2026, the first day of bill filing for the 90th Texas Legislature, Trey Martinez Fischer and José Menéndez filed House Bill 123 and companion Senate Bill 99 to repeal Texas Government Code Chapter 753, the law that forced county sheriffs who operate or contract for jails to enter federal immigration enforcement agreements with ICE.
+
+The Texas Legislature Online record for HB 123 lists the bill as filed on November 9, 2026. Its caption reads: "Relating to the repeal of laws requiring agreements between certain sheriffs and the United States Immigration and Customs Enforcement to enforce federal immigration law and providing a grant program to cover the costs of implementing those agreements."
