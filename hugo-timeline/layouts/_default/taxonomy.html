@@ -200,7 +200,7 @@
           <td class="date">{{ dateFormat "2006-01-02" .Params.date }}</td>
           <td class="title">
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-            {{ with .Params.sources }}<span class="src-badge" title="{{ len . }} cited source{{ if ne (len .) 1 }}s{{ end }}" style="font-family:var(--sans-meta);font-size:11px;color:var(--ink-3);margin-left:8px;white-space:nowrap;">{{ len . }} src</span>{{ end }}
+            {{ with .Params.sources }}<span class="src-badge" title="{{ len . }} cited source{{ if ne (len .) 1 }}s{{ end }}" style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-left:8px;white-space:nowrap;">{{ len . }} src</span>{{ end }}
             {{ with .Params.actors }}
             <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;font-weight:400;">
               {{ delimit (first 4 .) " · " }}{{ if gt (len .) 4 }} · +{{ sub (len .) 4 }}{{ end }}
@@ -219,7 +219,7 @@
             {{ end }}
           </td>
           <td>
-            {{/* "confirmed" shows only when every claim was re-checked (verification: source-verified), as on the event page. */}}{{ $ver := .Params.verification | default "none" }}{{ with .Params.status }}{{ $s := . }}{{ if and (eq $s "confirmed") (ne $ver "source-verified") }}{{ $s = "not re-checked" }}{{ end }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ $s }}</span>{{ end }}
+            {{/* "confirmed" shows only when every claim was re-checked (verification: source-verified), as on the event page. */}}{{ $ver := .Params.verification | default "none" }}{{ with .Params.status }}{{ $s := . }}{{ if and (eq $s "confirmed") (ne $ver "source-verified") }}{{ $s = "not re-checked" }}{{ end }}<span class="mono" style="font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">{{ $s }}</span>{{ end }}
           </td>
         </tr>
         {{ end }}
@@ -240,7 +240,7 @@
           {{ $tl := index (where site.Data.timeline_membership.timelines "slug" $slug) 0 }}
           {{ if $tl }}
           <a href="/timelines/{{ $slug }}/" style="display:block;padding:14px 18px;background:var(--paper);border:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);transition:border-color .12s;" onmouseover="this.style.borderColor='var(--ox)'" onmouseout="this.style.borderColor='var(--paper-edge)'">
-            <span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ox);">{{ $tl.fromYear }}–{{ $tl.toYear }}</span>
+            <span class="mono" style="font-size:13px;letter-spacing:0.01em;color:var(--ox);">{{ $tl.fromYear }}–{{ $tl.toYear }}</span>
             <div style="font-family:var(--serif-display);font-size:1.1rem;line-height:1.2;margin-top:4px;font-weight:500;">{{ $tl.title }}</div>
             {{ with $tl.subtitle }}<div style="font-size:13px;color:var(--ink-3);margin-top:4px;line-height:1.4;">{{ . }}</div>{{ end }}
           </a>
@@ -269,7 +269,7 @@
         {{ end }}
       </div>
       {{ if gt $coData.total 24 }}
-      <div style="margin-top:18px;font-family:var(--mono);font-size:11px;letter-spacing:0.1em;color:var(--ink-3);">
+      <div style="margin-top:18px;font-family:var(--mono);font-size:13px;letter-spacing:0.02em;color:var(--ink-3);">
         Full co-occurrence is available in the dataset · <a href="{{ site.Params.datasetURL }}" style="color:var(--ox);">JSON →</a>
       </div>
       {{ end }}
@@ -320,7 +320,7 @@
     {{/* Lazy-loaded catalog: top 200 above the fold, then alphabet buckets. */}}
     <div style="margin:24px 0 18px;">
       <input type="search" id="tax-search" placeholder="Search all {{ $kind }}…" data-catalog="{{ $catalog }}" style="width:100%;padding:14px 18px;font-family:var(--mono);font-size:14px;background:transparent;border:1px solid var(--rule);color:var(--ink);" autocomplete="off">
-      <div style="margin-top:6px;font-family:var(--mono);font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">Press / to focus · type 2+ characters to search the full catalog</div>
+      <div style="margin-top:6px;font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">Press / to focus · type 2+ characters to search the full catalog</div>
     </div>
 
     {{/* Live search results (JS fills) */}}
@@ -337,7 +337,7 @@
         {{ range $sorted }}
         <a href="{{ .RelPermalink }}" class="tax-item" data-name="{{ .Title | lower }}" style="display:flex;justify-content:space-between;align-items:baseline;padding:12px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:15.5px;background:var(--paper);transition:background .12s;">
           <span>{{ if eq $kind "tags" }}#{{ end }}{{ .Title }}</span>
-          <span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">{{ len .Pages }}</span>
+          <span class="mono dim" style="font-size:13px;letter-spacing:0.02em;">{{ len .Pages }}</span>
         </a>
         {{ end }}
       </div>
@@ -350,7 +350,7 @@
         <h2 style="font-size:1.1rem;">Alphabetical · all {{ len $terms }}</h2>
         <span class="meta">click any letter to load that bucket</span>
       </div>
-      <div id="tax-alpha-bar" style="display:flex;flex-wrap:wrap;gap:6px;padding:12px 0;font-family:var(--mono);font-size:13px;letter-spacing:0.06em;">
+      <div id="tax-alpha-bar" style="display:flex;flex-wrap:wrap;gap:6px;padding:12px 0;font-family:var(--mono);font-size:13px;letter-spacing:0.02em;">
         {{ range (slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "#") }}
         <button type="button" data-letter="{{ . }}" class="alpha-btn" style="display:inline-block;min-width:36px;text-align:center;padding:6px 8px;border:1px solid var(--rule-mute);background:var(--paper);font-family:var(--mono);font-size:13px;color:var(--ink-2);cursor:pointer;">{{ . }}</button>
         {{ end }}
@@ -385,7 +385,7 @@
             + matches.map(function(e){
                 return '<a href="/{{ $kind }}/'+encodeURIComponent(e.slug)+'/" style="display:flex;justify-content:space-between;align-items:baseline;padding:12px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:15.5px;">'
                   + '<span>{{ if eq $kind "tags" }}#{{ end }}'+esc(e.name)+'</span>'
-                  + '<span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">'+e.count+'</span>'
+                  + '<span class="mono dim" style="font-size:13px;letter-spacing:0.02em;">'+e.count+'</span>'
                   + '</a>';
               }).join('')
             + '</div>';
@@ -436,12 +436,12 @@
               ar.innerHTML = '<div style="padding:18px;color:var(--ink-3);font-style:italic;">No entries under '+letter+'.</div>';
               return;
             }
-            ar.innerHTML = '<div style="margin:8px 0;font-family:var(--mono);font-size:11px;letter-spacing:0.1em;color:var(--ink-3);text-transform:uppercase;">'+items.length+' entries · letter '+letter+'</div>'
+            ar.innerHTML = '<div style="margin:8px 0;font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">'+items.length+' entries · letter '+letter+'</div>'
               + '<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:0;border-left:1px solid var(--paper-edge);">'
               + items.map(function(e){
                   return '<a href="/{{ $kind }}/'+encodeURIComponent(e.slug)+'/" style="display:flex;justify-content:space-between;align-items:baseline;padding:8px 14px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink-2);font-family:var(--serif-body);font-size:14.5px;">'
                     + '<span>{{ if eq $kind "tags" }}#{{ end }}'+esc(e.name)+'</span>'
-                    + '<span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">'+e.count+'</span>'
+                    + '<span class="mono dim" style="font-size:13px;letter-spacing:0.02em;">'+e.count+'</span>'
                     + '</a>';
                 }).join('')
               + '</div>';
@@ -458,7 +458,7 @@
       {{ range $sorted }}
       <a href="{{ .RelPermalink }}" style="display:flex;justify-content:space-between;align-items:baseline;padding:14px 18px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);font-family:var(--serif-body);font-size:16px;background:var(--paper);">
         <span>{{ .Title }}</span>
-        <span class="mono dim" style="font-size:11px;letter-spacing:0.06em;">{{ len .Pages }}</span>
+        <span class="mono dim" style="font-size:13px;letter-spacing:0.02em;">{{ len .Pages }}</span>
       </a>
       {{ end }}
     </div>

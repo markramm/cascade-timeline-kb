@@ -15,7 +15,7 @@
     <span class="sep">›</span>
     <a href="/year/{{ $year }}/">{{ $year }}</a>
     <span class="sep">›</span>
-    <span aria-current="page">{{ .Params.date }}</span>
+    <span aria-current="page">{{ dateFormat "January 2" .Params.date }}</span>
   </nav>
 
   <div class="spine-layout">
@@ -55,7 +55,7 @@
         {{ end }}
       </ul>
       <div style="margin-top:24px;padding-top:14px;border-top:1px solid var(--paper-edge);">
-        <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:11px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
+        <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
       </div>
 
       {{/* On this day in history — uses pre-computed data/resonance.json.
@@ -102,7 +102,7 @@
         <div class="eyebrow" style="margin-bottom:10px;">On this day</div>
         {{ range $resonance }}
         <a href="/event/{{ .slug }}/" style="display:block;text-decoration:none;color:var(--ink-2);padding:8px 0;border-bottom:1px dashed var(--paper-edge);">
-          <span class="mono" style="color:var(--ox);font-size:10.5px;letter-spacing:0.08em;">
+          <span class="mono" style="color:var(--ox);font-size:13px;letter-spacing:0.02em;">
             {{- $diffN := int .diff -}}
             {{- if eq $diffN 0 -}}same day · {{ .year }}
             {{- else -}}{{ $diffN }} year{{ if ne $diffN 1 }}s{{ end }} ago · {{ .year }}
@@ -146,23 +146,13 @@
             <span>{{ $vlabel }}</span>
           </a>
           {{ if .Params.importance }}
-          <a href="/about/methodology/#importance" class="importance-bar" title="Editorial importance, 1–10. See methodology." style="text-decoration:none;color:inherit;">
-            <span style="margin-right:6px;">Importance</span>
-            {{ range (seq 1 10) }}
-              <span class="pip {{ if le . $importance }}on{{ end }}"></span>
-            {{ end }}
-            <span style="margin-left:6px;color:var(--ink-3);">{{ $importance }}/10</span>
-          </a>
-          {{ end }}
-          {{/* Reading time */}}
-          {{ if gt .ReadingTime 0 }}
-          <span class="mono" style="font-size:11px;letter-spacing:0.1em;color:var(--ink-3);text-transform:uppercase;">~{{ .ReadingTime }} min read</span>
+          <a href="/about/methodology/#importance" title="Editorial importance, 1–10. See methodology." style="text-decoration:none;color:inherit;">Importance {{ $importance }} of 10</a>
           {{ end }}
           {{ with .Params.sources }}
-          <span><strong>{{ len . }}</strong> source{{ if ne (len .) 1 }}s{{ end }}</span>
+          <span>{{ len . }} source{{ if ne (len .) 1 }}s{{ end }}</span>
           {{ end }}
           {{ with .Params.actors }}
-          <span><strong>{{ len . }}</strong> actor{{ if ne (len .) 1 }}s{{ end }}</span>
+          <span>{{ len . }} actor{{ if ne (len .) 1 }}s{{ end }}</span>
           {{ end }}
         </div>
         {{ with .Params.capture_lanes }}
@@ -201,7 +191,7 @@
 
         {{/* Tier legend */}}
         <div style="margin-top:18px;padding:14px 18px;background:var(--paper-deep);border-left:3px solid var(--rule-mute);font-size:13px;color:var(--ink-3);line-height:1.6;">
-          <strong style="color:var(--ink-2);font-weight:500;font-family:var(--mono);font-size:11px;letter-spacing:0.12em;text-transform:uppercase;">Tiers</strong>
+          <strong style="color:var(--ink-2);font-weight:500;font-family:var(--mono);font-size:13px;letter-spacing:0.01em;">Tiers</strong>
           <span style="display:block;margin-top:4px;">
             <a href="/about/sources/#tier-1" style="color:var(--moss);">Tier 1</a> court records &amp; gov docs ·
             <a href="/about/sources/#tier-2" style="color:var(--gilt);">Tier 2</a> established outlets ·
@@ -293,14 +283,14 @@
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;">
           <div class="eyebrow" style="margin-bottom:6px;">← Earlier in record</div>
           <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
-          <div class="mono dim" style="font-size:11px;letter-spacing:0.1em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+          <div class="mono dim" style="font-size:13px;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
         {{ else }}<span></span>{{ end }}
         {{ with .NextInSection }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;text-align:right;">
           <div class="eyebrow" style="margin-bottom:6px;">Later in record →</div>
           <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
-          <div class="mono dim" style="font-size:11px;letter-spacing:0.1em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+          <div class="mono dim" style="font-size:13px;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
         {{ else }}<span></span>{{ end }}
       </nav>
@@ -329,7 +319,7 @@
       {{/* ── Share / Cite ── */}}
       <div style="margin-top:48px;padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
         <div class="eyebrow" style="margin-bottom:10px;">Cite this entry</div>
-        <code class="mono" style="font-size:12px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
+        <code class="mono" style="font-size:13px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
           The Cascade Ledger. “{{ .Title }}.” The Capture Cascade Timeline, {{ dateFormat "January 2, 2006" .Params.date }}. {{ .Permalink }}
         </code>
       </div>

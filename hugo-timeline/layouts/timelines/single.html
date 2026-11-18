@@ -88,13 +88,13 @@
               </div>
             {{ end }}
           </td>
-          <td>{{ with .Params.actors }}<span class="dim mono" style="font-size:11px;">{{ len . }}</span>{{ end }}</td>
-          <td>{{/* "confirmed" shows only when every claim was re-checked (verification: source-verified), as on the event page. */}}{{ $ver := .Params.verification | default "none" }}{{ with .Params.status }}{{ $s := . }}{{ if and (eq $s "confirmed") (ne $ver "source-verified") }}{{ $s = "not re-checked" }}{{ end }}<span class="mono" style="font-size:10.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--ink-3);">{{ $s }}</span>{{ end }}</td>
+          <td>{{ with .Params.actors }}<span class="dim mono" style="font-size:13px;">{{ len . }}</span>{{ end }}</td>
+          <td>{{/* "confirmed" shows only when every claim was re-checked (verification: source-verified), as on the event page. */}}{{ $ver := .Params.verification | default "none" }}{{ with .Params.status }}{{ $s := . }}{{ if and (eq $s "confirmed") (ne $ver "source-verified") }}{{ $s = "not re-checked" }}{{ end }}<span class="mono" style="font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">{{ $s }}</span>{{ end }}</td>
         </tr>
       {{ end }}
       </tbody>
     </table>
-    <div style="text-align:center;font-family:var(--mono);font-size:11px;letter-spacing:0.08em;color:var(--ink-3);padding:14px 0;">
+    <div style="text-align:center;font-family:var(--mono);font-size:13px;letter-spacing:0.02em;color:var(--ink-3);padding:14px 0;">
       {{ len $sorted }} event{{ if ne (len $sorted) 1 }}s{{ end }} on this timeline
     </div>
   </section>
@@ -108,10 +108,10 @@
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0;border-left:1px solid var(--paper-edge);">
     {{ range (sort $siblings "Params.weight" "asc") }}
       <a href="{{ .RelPermalink }}" style="display:block;padding:24px 28px;border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);text-decoration:none;color:var(--ink);background:var(--paper);transition:background .12s;" onmouseover="this.style.background='var(--paper-deep)'" onmouseout="this.style.background='var(--paper)'">
-        {{ with .Params.subtitle }}<span class="eyebrow" style="font-size:10px;display:block;margin-bottom:6px;">{{ . }}</span>{{ end }}
+        {{ with .Params.subtitle }}<span class="eyebrow" style="font-size:13px;display:block;margin-bottom:6px;">{{ . }}</span>{{ end }}
         <div style="font-family:var(--serif-display);font-size:1.2rem;font-weight:500;line-height:1.2;margin-bottom:6px;">{{ .Title }}</div>
         {{ with .Params.summary }}<p style="font-size:13.5px;color:var(--ink-3);line-height:1.5;margin:0;text-indent:0;">{{ . | truncate 130 }}</p>{{ end }}
-        <div class="mono" style="font-size:10.5px;letter-spacing:0.06em;color:var(--ink-4);margin-top:10px;padding-top:8px;border-top:1px dashed var(--paper-edge);">
+        <div class="mono" style="font-size:13px;letter-spacing:0.02em;color:var(--ink-4);margin-top:10px;padding-top:8px;border-top:1px dashed var(--paper-edge);">
           {{ len (.Params.entities | default slice) }} actors · {{ .Params.fromYear }}–{{ .Params.toYear }}
         </div>
       </a>
@@ -124,13 +124,13 @@
   <div style="margin-top:48px;display:grid;grid-template-columns:repeat(auto-fit,minmax(360px,1fr));gap:18px;">
     <div style="padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
       <div class="eyebrow" style="margin-bottom:10px;">Cite this view</div>
-      <code class="mono" style="font-size:12px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
+      <code class="mono" style="font-size:13px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
         The Cascade Ledger. “{{ .Title }}.” Curated timeline view, capturecascade.org, {{ now.Format "January 2, 2006" }}. {{ .Permalink }}
       </code>
     </div>
     <div style="padding:24px;background:var(--paper-deep);border-left:3px solid var(--gilt);">
       <div class="eyebrow" style="margin-bottom:10px;color:var(--gilt);">Embed in your site</div>
-      <code class="mono" style="font-size:11.5px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;white-space:pre-wrap;">&lt;iframe src="{{ site.BaseURL }}embed/timelines/{{ .File.ContentBaseName }}/" width="100%" height="780" style="border:1px solid #d9d2bf;"&gt;&lt;/iframe&gt;</code>
+      <code class="mono" style="font-size:13px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;white-space:pre-wrap;">&lt;iframe src="{{ site.BaseURL }}embed/timelines/{{ .File.ContentBaseName }}/" width="100%" height="780" style="border:1px solid #d9d2bf;"&gt;&lt;/iframe&gt;</code>
       <p style="margin:8px 0 0;font-size:13px;color:var(--ink-3);">Strips site chrome, attribution links back. <a href="/embed/timelines/" style="color:var(--ox);">More embed options →</a></p>
     </div>
   </div>

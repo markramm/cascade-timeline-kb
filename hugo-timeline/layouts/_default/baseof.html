@@ -198,18 +198,24 @@
   <div class="masthead-inner">
     <a href="/" class="brand">
       <span class="brand-title">The Cascade Ledger</span>
-      <span class="brand-tag">Capture Cascade Timeline · 1142–{{ now.Year }}</span>
+      <span class="brand-tag">Capture Cascade timeline, 1142 to {{ now.Year }}</span>
     </a>
     <nav class="nav" id="nav" aria-label="Main">
       <input type="search" class="nav-search nav-search-mobile" id="nav-search-mobile" placeholder="Search events…" aria-label="Search events" autocomplete="off">
+      <a href="/year/{{ now.Year }}/" class="{{ if hasPrefix .RelPermalink "/year/" }}is-active{{ end }}">Latest</a>
       <a href="/timelines/" class="{{ if hasPrefix .RelPermalink "/timelines" }}is-active{{ end }}">Timelines</a>
       <a href="/explorer/" class="{{ if hasPrefix .RelPermalink "/explorer" }}is-active{{ end }}">Explorer</a>
-      <a href="/year/{{ now.Year }}/" class="{{ if hasPrefix .RelPermalink "/year/" }}is-active{{ end }}">By Year</a>
-      <a href="/decade/" class="{{ if hasPrefix .RelPermalink "/decade/" }}is-active{{ end }}">By Decade</a>
-      <a href="/lanes/" class="{{ if hasPrefix .RelPermalink "/lanes/" }}is-active{{ end }}">Lanes</a>
-      <a href="/actors/" class="{{ if hasPrefix .RelPermalink "/actors/" }}is-active{{ end }}">Actors</a>
-      <a href="/tags/" class="{{ if hasPrefix .RelPermalink "/tags/" }}is-active{{ end }}">Tags</a>
-      <a href="/q/" class="{{ if eq .RelPermalink "/q/" }}is-active{{ end }}">Filter</a>
+      {{ $inBrowse := or (hasPrefix .RelPermalink "/decade/") (hasPrefix .RelPermalink "/lanes/") (hasPrefix .RelPermalink "/actors/") (hasPrefix .RelPermalink "/tags/") (eq .RelPermalink "/q/") }}
+      <details class="nav-more{{ if $inBrowse }} is-active{{ end }}" id="nav-more">
+        <summary>Browse</summary>
+        <div class="nav-more-menu">
+          <a href="/decade/" class="{{ if hasPrefix .RelPermalink "/decade/" }}is-active{{ end }}">By decade</a>
+          <a href="/lanes/" class="{{ if hasPrefix .RelPermalink "/lanes/" }}is-active{{ end }}">By capture lane</a>
+          <a href="/actors/" class="{{ if hasPrefix .RelPermalink "/actors/" }}is-active{{ end }}">By actor</a>
+          <a href="/tags/" class="{{ if hasPrefix .RelPermalink "/tags/" }}is-active{{ end }}">By tag</a>
+          <a href="/q/" class="{{ if eq .RelPermalink "/q/" }}is-active{{ end }}">Filter events</a>
+        </div>
+      </details>
       <a href="/about/" class="{{ if hasPrefix .RelPermalink "/about" }}is-active{{ end }}">About</a>
       <input type="search" class="nav-search nav-search-desktop" id="nav-search" placeholder="Search events…" aria-label="Search events" autocomplete="off">
     </nav>
@@ -281,6 +287,14 @@
     var open = n.classList.toggle('open');
     h.setAttribute('aria-expanded', open);
   });
+  // Browse menu: always expanded inside the mobile sheet; closes on outside click or Escape on desktop.
+  var m = document.getElementById('nav-more');
+  if (!m) return;
+  var mq = window.matchMedia('(max-width: 880px)');
+  function sync(){ m.open = mq.matches; }
+  sync(); mq.addEventListener('change', sync);
+  document.addEventListener('click', function(e){ if (!mq.matches && m.open && !m.contains(e.target)) m.open = false; });
+  document.addEventListener('keydown', function(e){ if (e.key === 'Escape' && !mq.matches) m.open = false; });
 })();
 (function(){
   var inputs = document.querySelectorAll('.nav-search');
