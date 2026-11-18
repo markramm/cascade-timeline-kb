@@ -13,13 +13,23 @@ tags:
 actors:
   - Indira Talwani
   - Ketanji Brown Jackson
+  - Sonia Sotomayor
+  - Elena Kagan
   - U.S. Postal Service
   - North Carolina State Board of Elections
+corrections:
+- date: '2026-11-18'
+  note: 'Corrected to the Court''s Aug. 24, 2026 order in 26A124 (Trump v. California). Replaced text: "Justice Ketanji Brown Jackson dissented, warning of the \"chaos\" the move would unleash." The order shows two dissenting opinions from three Justices: Sotomayor, joined by Kagan, and Jackson separately; the word "chaos" is in Jackson''s opinion. The stay is of the 1:26-cv-11581 (California) injunction, not the 11549 case. The "Not established" line that the SCOTUS order has no docket number is answered: 26A124 (with 26A139 denied as moot).'
 sources:
   - title: "This week at Democracy Docket: All the news on the fight over Trump's mail voting order. Plus — we revealed another election denial activist at DHS"
     url: https://www.democracydocket.com/news-alerts/this-week-at-democracy-docket-all-the-news-on-the-fight-over-trumps-mail-voting-order-plus-we-revealed-another-election-denial-activist-at-dhs/
     publisher: "Democracy Docket (Zachary Roth)"
     date: '2026-08-30'
+    tier: 1
+  - title: "Trump v. California, No. 26A124 (U.S. Aug. 24, 2026) (per curiam; Sotomayor, J., dissenting; Jackson, J., dissenting)"
+    url: https://www.supremecourt.gov/opinions/25pdf/26a124_hgci.pdf
+    publisher: "Supreme Court of the United States"
+    date: '2026-08-24'
     tier: 1
 ---
 
@@ -31,8 +41,7 @@ and it happened faster than the litigation calendar was built to handle.
 
 - **Monday.** The Supreme Court's conservative majority **lifted U.S. District Judge Indira
   Talwani's block** on the order, ruling the block **premature because no harm had yet occurred when
-  it was requested.** Justice **Ketanji Brown Jackson** dissented, warning of the "chaos" the move
-  would unleash.
+  it was requested.** Justices **Sonia Sotomayor and Elena Kagan** dissented in one opinion, and Justice **Ketanji Brown Jackson** dissented separately, writing that the ruling "needlessly injects chaos and uncertainty into the upcoming midterm elections." The order stays the injunction in *California v. Trump*, No. 1:26-cv-11581.
 - **Wednesday.** A **USPS rule** implementing part of the order — **requiring states to submit their
   mail-ballot designs for approval** — took effect. That mooted the timing argument and opened the
   door to merits challenges, which opponents filed immediately, arguing the rule violates federal
