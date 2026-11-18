@@ -512,6 +512,51 @@ claims:
   id: u16
   outcome: verified
   checked: '2026-11-15'
+- type: date
+  value: Nov 09 2026
+  span: Nov 09 2026 Application (26A560) for stay presented to Justice Alito and by him referred to the Court is granted.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26A560.html
+  read: fetched
+  source_kind: primary
+  id: u17
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: no such thing as a
+  span: There is no such thing as a “constitutional” major-questions claim.
+  url: https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf
+  read: fetched
+  source_kind: primary
+  id: u18
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: exceedingly likely to prevail
+  span: We grant the requested stay. The Government is exceedingly likely to prevail on its argument that the District Court lacked jurisdiction to adjudicate respondents’
+  url: https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf
+  read: fetched
+  source_kind: primary
+  id: u19
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: nearly half a million dollars in costs per day
+  span: who attests that—because of the injunction—the Government is incurring nearly half a million dollars in costs per day,
+  url: https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf
+  read: fetched
+  source_kind: primary
+  id: u20
+  outcome: verified
+  checked: '2026-11-18'
+- type: quote
+  value: JUSTICE JACKSON would deny the application for stay.
+  span: JUSTICE JACKSON would deny the application for stay.
+  url: https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf
+  read: fetched
+  source_kind: primary
+  id: u21
+  outcome: verified
+  checked: '2026-11-18'
 tags:
 - border-wall
 - litigation
@@ -557,6 +602,11 @@ sources:
   publisher: Supreme Court of the United States
   date: '2026-10-30'
   tier: 1
+- title: Mullin v. Friends of the Ruidosa Church, No. 26A560, per curiam opinion on application for stay
+  url: https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf
+  publisher: Supreme Court of the United States
+  date: '2026-11-09'
+  tier: 1
 updates:
 - date: '2026-10-30'
   date_kind: filing date
@@ -598,6 +648,19 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: big-bend-injunction
+- date: '2026-11-09'
+  date_kind: order date
+  heading: 'Per curiam opinion: the Court says a major-questions claim is statutory, not constitutional'
+  claims:
+  - u17
+  - u18
+  - u19
+  - u20
+  - u21
+  event_date_claim: u17
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: big-bend-border-wall-litigation
 ---
 
 The written reasons for the Big Bend injunction are now on the record. In a memorandum opinion (Document 75) signed on the 14th day of October, 2026, in Friends of the Ruidosa Church et al. v. Mullin et al., No. 3:26-cv-01099-KC (W.D. Tex., El Paso Division), Judge Kathleen Cardone explained the preliminary injunction she granted on October 2 "with a memorandum opinion to follow." The earlier [order](2026-10-02--judge-cardone-enjoins-big-bend-border-wall-construction-waivers-stayed) named no legal ground. This opinion names one: the Court "rules that the major questions doctrine is a constitutional clear statement rule." On that basis it finds jurisdiction "because it alleges a Constitutional violation," which matters because the waiver statute lets challengers sue only on constitutional grounds.
@@ -625,3 +688,7 @@ This is a stay pending certiorari, not a ruling on the merits. The government's 
 ## Update (2026-11-09, order date): Supreme Court grants stay of the Big Bend injunction
 
 The docket records that on Nov 09 2026 the application for a stay was referred to the Court and granted. The injunction is stayed pending the filing and disposition of the Government's petition for a writ of certiorari. The stay terminates automatically if certiorari is denied. Justice Jackson would deny the application for stay. The docket notes an opinion per curiam. This is a stay pending certiorari, not a ruling on the merits.
+
+## Update (2026-11-09, order date): Per curiam opinion: the Court says a major-questions claim is statutory, not constitutional
+
+The Supreme Court's per curiam opinion on the Big Bend stay application is dated November 9, 2026. The opinion says there is "no such thing as a" constitutional major-questions claim. The Court reasons that the statute lets district courts hear only constitutional claims, so Judge Cardone's court lacked jurisdiction over the claim. According to the opinion, the Government is "exceedingly likely to prevail" on that jurisdiction argument. The opinion cites a Customs and Border Protection declaration that the Government is incurring "nearly half a million dollars in costs per day" because of the injunction. The opinion ends with the line "JUSTICE JACKSON would deny the application for stay." The Court grants the stay and does not summarily reverse.
