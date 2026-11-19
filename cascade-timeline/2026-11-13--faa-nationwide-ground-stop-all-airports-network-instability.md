@@ -187,6 +187,8 @@ actors:
 coverage:
   - url: https://theramm.transparencycascade.org/p/eight-outages-in-six-days-and-what
     title: "Eight Outages in Six Days, and What Each Operator Has Said"
+  - url: https://theramm.transparencycascade.org/p/not-a-cyberattack-is-not-an-explanation
+    title: "\"Not a Cyberattack\" Is Not an Explanation"
 sources:
   - title: "Nationwide Ground Stop: Questions and Answers"
     url: https://www.faa.gov/newsroom/nationwide-ground-stop-questions-and-answers

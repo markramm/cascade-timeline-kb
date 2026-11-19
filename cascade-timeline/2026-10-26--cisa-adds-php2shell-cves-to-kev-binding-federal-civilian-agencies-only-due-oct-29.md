@@ -148,6 +148,9 @@ sources:
   date: '2026-10-29'
   tier: 2
 lane: Electoral Manipulation
+coverage:
+  - url: https://theramm.transparencycascade.org/p/not-a-cyberattack-is-not-an-explanation
+    title: "\"Not a Cyberattack\" Is Not an Explanation"
 updates:
 - date: '2026-10-29'
   date_kind: vendor page update
