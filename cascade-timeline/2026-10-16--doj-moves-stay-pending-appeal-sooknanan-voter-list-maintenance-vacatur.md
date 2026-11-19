@@ -53,6 +53,11 @@ sources:
     publisher: US District Court, D.D.C., ECF 61 (13 pp.)
     date: '2026-11-02'
     tier: 1
+  - title: Docket, Common Cause v. DOJ, No. 26-5362 (D.C. Cir.), CourtListener/RECAP
+    url: https://www.courtlistener.com/docket/74980940/common-cause-v-department-of-justice/
+    publisher: CourtListener (RECAP)
+    date: '2026-11-17'
+    tier: 1
 related_events:
   - 2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy
 claims:
@@ -322,6 +327,48 @@ claims:
   id: u22
   outcome: verified
   checked: '2026-11-16'
+- type: date
+  value: Nov 16, 2026
+  span: 'Nov 16, 2026
+
+    RESPONSE IN OPPOSITION [2203428] to motion for stay pending appeal'
+  url: https://www.courtlistener.com/docket/74980940/common-cause-v-department-of-justice/
+  read: fetched
+  source_kind: primary
+  id: u23
+  outcome: verified
+  checked: '2026-11-19'
+- type: posture
+  value: RESPONSE IN OPPOSITION
+  span: 'Nov 16, 2026
+
+    RESPONSE IN OPPOSITION [2203428] to motion for stay pending appeal'
+  url: https://www.courtlistener.com/docket/74980940/common-cause-v-department-of-justice/
+  read: fetched
+  source_kind: primary
+  id: u24
+  outcome: verified
+  checked: '2026-11-19'
+- type: figure
+  value: 5,194 words
+  span: '[Service Date: 11/16/2026 by CM/ECF NDA] Length Certification: 5,194 words. [26-5362]'
+  url: https://www.courtlistener.com/docket/74980940/common-cause-v-department-of-justice/
+  read: fetched
+  source_kind: primary
+  id: u25
+  outcome: verified
+  checked: '2026-11-19'
+- type: figure
+  value: 26-5362
+  span: 'Common Cause v. DOJ
+
+    (26-5362)'
+  url: https://www.courtlistener.com/docket/74980940/common-cause-v-department-of-justice/
+  read: fetched
+  source_kind: primary
+  id: u26
+  outcome: verified
+  checked: '2026-11-19'
 event_date_claim: c1
 verification: source-verified
 coverage:
@@ -376,6 +423,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: doj-voter-list-maintenance-policy
+- date: '2026-11-16'
+  date_kind: filing date
+  heading: Plaintiffs oppose DOJ's motion for a stay pending appeal in the D.C. Circuit
+  claims:
+  - u23
+  - u24
+  - u25
+  - u26
+  event_date_claim: u23
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-voter-list-maintenance-policy
 ---
 
 On **10/16/26** (filing date), the Justice Department asked Judge Sooknanan to stay her **October 9, 2026** order (order date) vacating the Voter List Maintenance Policy; see [[2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy]]. The motion opens: "There is no such policy." It asks the court to "stay its order entering judgment for Plaintiffs, ECF No. 52, pending the resolution of Defendants' appeal of that order to the D.C. Circuit."
@@ -397,3 +456,9 @@ On November 4 the Justice Department asked the D.C. Circuit (No. 26-5362) to sta
 ## Update (2026-11-02, order): Judge Sooknanan denies DOJ's motion for a stay pending appeal
 
 Judge Sooknanan denied the Defendants' Motion for Stay Pending Appeal in a one-page order that rests on a memorandum opinion. The opinion works through four stay factors and finds against DOJ on the merits, irreparable harm, the public interest and the equities. On the Privacy Act, it says the Defendants "have forfeited that argument" that Section 1373 overrides the Privacy Act. On the equities, the court wrote that it "will not use its equitable discretion to reinstate an unlawful policy that threatens to disenfranchise American citizens on the eve of an election."
+
+## Update (2026-11-16, filing date): Plaintiffs oppose DOJ's motion for a stay pending appeal in the D.C. Circuit
+
+On November 16, 2026 the plaintiffs filed a response in opposition to DOJ's motion for a stay pending appeal in No. 26-5362, Common Cause v. DOJ. The docket lists the response with a length certification of 5,194 words.
+
+**Not read:** the response itself; it is not on RECAP, so this update rests on the docket entry.
