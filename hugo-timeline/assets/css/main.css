@@ -1792,3 +1792,6 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
 .actor-rows .n { font-family: var(--sans-meta); font-size: 14px; color: var(--ink-3); font-variant-numeric: tabular-nums; }
 .actor-cols { columns: 3 240px; column-gap: 48px; border-top: 0; }
 .actor-cols li { break-inside: avoid; }
+.density-frame .density-title a { color: inherit; }
+.density-frame .density-title a:hover { color: var(--ox); }
+.density-grid { stroke: var(--rule-mute); stroke-width: 0.5; stroke-dasharray: 2 4; opacity: 0.6; }
