@@ -63,19 +63,19 @@
     <button class="copy-link" id="f-cite" type="button" title="Generate a citation for this view" style="background:transparent;color:var(--ox);border:1px solid var(--ox);">Cite</button>
   </div>
 
-  <div id="f-status-msg" style="font-family:var(--mono);font-size:13px;color:var(--ink-3);letter-spacing:0.01em;padding:14px 0;text-align:center;display:none;">Loading dataset…</div>
+  <div id="f-status-msg" style="font-family:var(--mono);font-size:0.875rem;color:var(--ink-3);letter-spacing:0.01em;padding:14px 0;text-align:center;display:none;">Loading dataset…</div>
 
   {{/* Citation block — toggled open by JS */}}
   <div id="f-cite-box" style="display:none;margin:14px 0;padding:18px 22px;background:var(--paper-deep);border-left:3px solid var(--ox);">
     <div class="eyebrow" style="margin-bottom:8px;">Cite this filtered view</div>
-    <code class="mono" id="f-cite-text" style="font-size:13px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;background:transparent;"></code>
-    <button type="button" id="f-cite-copy" style="margin-top:10px;font-family:var(--mono);font-size:13px;letter-spacing:0.01em;padding:5px 11px;background:var(--ox);color:var(--paper);border:0;cursor:pointer;">Copy citation</button>
+    <code class="mono" id="f-cite-text" style="font-size:0.875rem;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;background:transparent;"></code>
+    <button type="button" id="f-cite-copy" style="margin-top:10px;font-family:var(--mono);font-size:0.875rem;letter-spacing:0.01em;padding:5px 11px;background:var(--ox);color:var(--paper);border:0;cursor:pointer;">Copy citation</button>
   </div>
 
   {{/* Server-rendered starter set — 50 most recent. Crawlers see real content
        even before JS runs. JS replaces this when filters are applied. */}}
   <div id="f-default" style="margin-top:18px;">
-    <div style="font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ink-3);padding:8px 0;">
+    <div style="font-family:var(--mono);font-size:0.875rem;letter-spacing:0.01em;color:var(--ink-3);padding:8px 0;">
       Default view · 50 most-recent events · pick filters above to narrow
     </div>
     <table class="ledger" aria-label="Most recent events">
@@ -89,12 +89,12 @@
           <td class="title">
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ with .Params.actors }}
-            <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">
+            <div style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-top:4px;">
               {{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}
             </div>
             {{ end }}
           </td>
-          <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--mono);font-size:13px;">{{ len . }}</span>{{ end }}</td>
+          <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--mono);font-size:0.875rem;">{{ len . }}</span>{{ end }}</td>
           <td class="lanes">
             {{ range (.Params.capture_lanes | default slice) }}
               {{ $key := "other" }}
@@ -106,12 +106,12 @@
               <span class="dot" style="background:var(--lane-{{ $key }});display:inline-block;width:8px;height:8px;margin-right:3px;" title="{{ . }}"></span>
             {{ end }}
           </td>
-          <td><span class="mono" style="font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">{{ .Params.status }}</span></td>
+          <td><span class="mono" style="font-size:0.875rem;letter-spacing:0.01em;color:var(--ink-3);">{{ .Params.status }}</span></td>
         </tr>
         {{ end }}
       </tbody>
     </table>
-    <div style="text-align:center;padding:18px 0;font-family:var(--mono);font-size:13px;color:var(--ink-3);letter-spacing:0.02em;">
+    <div style="text-align:center;padding:18px 0;font-family:var(--mono);font-size:0.875rem;color:var(--ink-3);letter-spacing:0.02em;">
       Showing 50 of {{ len (where site.RegularPages "Type" "event") }} events.
       <a href="/year/{{ now.Year }}/" style="color:var(--ox);">Browse by year →</a>
     </div>
@@ -141,15 +141,15 @@
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:32px;">
       <div>
         <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Every filter is a URL.</h3>
-        <p style="font-size:15px;color:var(--ink-2);">When you change a filter, the URL updates. Copy it, paste it in an article, share it on social media — the page reproduces exactly when someone follows the link.</p>
+        <p style="font-size:0.9375rem;color:var(--ink-2);">When you change a filter, the URL updates. Copy it, paste it in an article, share it on social media — the page reproduces exactly when someone follows the link.</p>
       </div>
       <div>
         <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Combine fields.</h3>
-        <p style="font-size:15px;color:var(--ink-2);">Filter by <code class="mono">actor</code>, <code class="mono">tag</code>, <code class="mono">lane</code>, year range, status, or full-text search — all at once. Results update live.</p>
+        <p style="font-size:0.9375rem;color:var(--ink-2);">Filter by <code class="mono">actor</code>, <code class="mono">tag</code>, <code class="mono">lane</code>, year range, status, or full-text search — all at once. Results update live.</p>
       </div>
       <div>
         <h3 class="serif" style="font-size:1.1rem;margin-bottom:8px;">Cite the dataset.</h3>
-        <p style="font-size:15px;color:var(--ink-2);">The full corpus is available at <a href="{{ site.Params.datasetURL }}"><code class="mono">timeline.json</code></a> under CC BY-SA 4.0. Every event has a stable ID.</p>
+        <p style="font-size:0.9375rem;color:var(--ink-2);">The full corpus is available at <a href="{{ site.Params.datasetURL }}"><code class="mono">timeline.json</code></a> under CC BY-SA 4.0. Every event has a stable ID.</p>
       </div>
     </div>
   </section>
@@ -317,11 +317,11 @@
       return '<tr>'
         + '<td class="date">'+esc(e.date||'')+'</td>'
         + '<td class="title"><a href="/event/'+esc(e.id||slug(e.title))+'/">'+esc(e.title)+'</a>'
-        + (actors ? '<div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">'+actors+more+'</div>' : '')
+        + (actors ? '<div style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-top:4px;">'+actors+more+'</div>' : '')
         + '</td>'
         + '<td>'+(actors||'<span class="dim">—</span>')+'</td>'
         + '<td class="lanes">'+laneDots+'</td>'
-        + '<td><span class="mono" style="font-size:13px;letter-spacing:0.01em;color:var(--ink-3);">'+esc(e.status==='unchecked'?'not re-checked':(e.status||''))+'</span></td>'
+        + '<td><span class="mono" style="font-size:0.875rem;letter-spacing:0.01em;color:var(--ink-3);">'+esc(e.status==='unchecked'?'not re-checked':(e.status||''))+'</span></td>'
         + '</tr>';
     }).join('');
     els.tbody.insertAdjacentHTML('beforeend', html);

@@ -16,33 +16,38 @@
     {{ $names := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" }}
     <div class="density-frame" aria-labelledby="density-title">
       <div class="density-title" id="density-title">
-        <span><strong>Events per month, {{ $first.year }} to {{ site.Params.endYear }}.</strong> Select a bar to open that year.</span>
+        <span><strong>Events per month, {{ $first.year }} to {{ site.Params.endYear }}.</strong> Choose a year below to open it.</span>
         <span class="dim"><a href="/decade/">Earlier record, back to {{ site.Params.startYear }}</a></span>
       </div>
-      <svg class="density" viewBox="0 0 1200 220" preserveAspectRatio="none" role="img" aria-label="Events per month from {{ $first.year }} to {{ site.Params.endYear }}">
-        {{ $maxCount := 1 }}
-        {{ range $months }}{{ if gt .count $maxCount }}{{ $maxCount = .count }}{{ end }}{{ end }}
-        {{ $w := div 1200.0 (float (len $months)) }}
-        {{/* Horizontal gridlines at round counts */}}
-        {{ range (slice 100 200 300 400 500) }}
-          {{ if lt . $maxCount }}
+      {{ $maxCount := 1 }}{{ $peak := $first }}
+      {{ range $months }}{{ if gt .count $maxCount }}{{ $maxCount = .count }}{{ $peak = . }}{{ end }}{{ end }}
+      {{ $n := len $months }}
+      {{ $w := div 1200.0 (float $n) }}
+      <div class="density-plot">
+        <svg class="density" viewBox="0 0 1200 200" preserveAspectRatio="none" role="img" aria-label="Bar chart of events recorded per month, {{ $first.year }} to {{ site.Params.endYear }}. The highest month is {{ index $names (int (sub $peak.month 1)) }} {{ $peak.year }} with {{ $peak.count }} events.">
+          {{ range (slice 100 200 300 400 500) }}{{ if lt . $maxCount }}
           {{ $gy := sub 200 (mul 190 (div (float .) (float $maxCount))) }}
           <line x1="0" y1="{{ $gy }}" x2="1200" y2="{{ $gy }}" class="density-grid"/>
-          <text x="4" y="{{ sub $gy 4 }}" class="density-axis">{{ . }}</text>
+          {{ end }}{{ end }}
+          {{ range $i, $row := $months }}
+            {{ $x := mul (float $i) $w }}
+            {{ $h := 0 }}
+            {{/* Linear scale; a 1.5-unit floor keeps low months visible. */}}
+            {{ if gt .count 0 }}{{ $h = math.Max 1.5 (mul 190 (div (float .count) (float $maxCount))) }}{{ end }}
+            <rect class="bar-recent{{ if eq (add $i 1) $n }} bar-partial{{ end }}" x="{{ add $x 0.75 }}" y="{{ sub 200 $h }}" width="{{ sub $w 1.5 }}" height="{{ $h }}" data-year="{{ .year }}" data-label="{{ index $names (int (sub .month 1)) }} {{ .year }}" data-count="{{ .count }}"></rect>
           {{ end }}
-        {{ end }}
-        {{ range $i, $row := $months }}
-          {{ $x := mul (float $i) $w }}
-          {{ $h := 0 }}
-          {{/* Linear scale; a 1.5-unit floor keeps low months visible. */}}
-          {{ if gt .count 0 }}{{ $h = math.Max 1.5 (mul 190 (div (float .count) (float $maxCount))) }}{{ end }}
-          {{ if eq .month 1 }}
-          <line x1="{{ $x }}" y1="200" x2="{{ $x }}" y2="220" class="density-tick"/>
-          <text x="{{ add $x (mul $w 6) }}" y="215" class="density-axis" text-anchor="middle">{{ .year }}</text>
-          {{ end }}
-          <rect class="bar-recent{{ if eq (add $i 1) (len $months) }} bar-partial{{ end }}" x="{{ add $x 0.75 }}" y="{{ sub 200 $h }}" width="{{ sub $w 1.5 }}" height="{{ $h }}" data-year="{{ .year }}" data-label="{{ index $names (int (sub .month 1)) }} {{ .year }}" data-count="{{ .count }}"></rect>
-        {{ end }}
-      </svg>
+        </svg>
+        {{ range (slice 100 200 300 400 500) }}{{ if lt . $maxCount }}
+        <span class="density-ylabel" aria-hidden="true" style="bottom:{{ mul 95 (div (float .) (float $maxCount)) }}%;">{{ . }}</span>
+        {{ end }}{{ end }}
+      </div>
+      {{/* Year axis: real links, so the chart works from the keyboard and labels scale with text */}}
+      <nav class="density-years" aria-label="Open a year of the record">
+        {{ range $i, $row := $months }}{{ if or (eq .month 1) (eq $i 0) }}
+        {{ $span := len (where $months "year" .year) }}
+        <a href="/year/{{ .year }}/" data-short="’{{ substr (string .year) 2 2 }}" style="left:{{ mul 100 (div (float $i) (float $n)) }}%;width:{{ mul 100 (div (float $span) (float $n)) }}%;"><span>{{ .year }}</span><span class="visually-hidden"> ({{ index (where site.Data.density "year" .year) 0 | default dict | partial "count.html" }} events)</span></a>
+        {{ end }}{{ end }}
+      </nav>
       <p class="hero-lede">
         {{ site.Params.totalEvents | lang.FormatNumber 0 }} sourced events from {{ site.Params.startYear }} to today, in order:
         court records, government filings and investigative reporting.

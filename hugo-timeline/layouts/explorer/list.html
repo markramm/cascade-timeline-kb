@@ -85,7 +85,7 @@
     </div>
     <div class="ex-foot-card ex-foot-card-gilt">
       <div class="eyebrow" style="margin-bottom:8px;color:var(--gilt);">Save as a curated preset</div>
-      <p style="margin:0 0 10px;font-size:13.5px;color:var(--ink-3);">If this view is worth keeping, propose it via GitHub. The frontmatter is generated from your selection.</p>
+      <p style="margin:0 0 10px;font-size:0.875rem;color:var(--ink-3);">If this view is worth keeping, propose it via GitHub. The frontmatter is generated from your selection.</p>
       <button type="button" class="ex-foot-copy" id="ex-yaml-copy">Copy preset YAML</button>
       <a href="https://github.com/markramm/cascade-kb/issues/new?template=new-timeline.yml" target="_blank" rel="noopener" class="ex-foot-link" id="ex-pr-link">Open issue →</a>
     </div>
@@ -93,8 +93,8 @@
 
   {{/* Methodology footer */}}
   <details class="ex-method" style="margin-top:48px;">
-    <summary style="font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ox);cursor:pointer;padding:8px 0;">How this works</summary>
-    <div style="padding:14px 0;font-family:var(--serif-body);font-size:15px;color:var(--ink-2);line-height:1.6;max-width:64ch;">
+    <summary style="font-family:var(--mono);font-size:0.875rem;letter-spacing:0.01em;color:var(--ox);cursor:pointer;padding:8px 0;">How this works</summary>
+    <div style="padding:14px 0;font-family:var(--serif-body);font-size:0.9375rem;color:var(--ink-2);line-height:1.6;max-width:64ch;">
       <p>Every actor in the corpus has a pre-computed event index that loads once when the page opens (~1.3 MB gzipped). Filter changes redraw the chart locally — no server round-trips, no telemetry.</p>
       <p>Markers are sized by editorial importance (1–10 scale) and colored by the first capture lane on each event. Dense rows scale down marker size proportionally so 1,000+ events still render legibly. Click any marker to open its full record.</p>
       <p>The URL state is canonical — copying the address bar gives anyone the exact same view. Use it as a citation in articles, footnotes, or social posts.</p>
@@ -546,8 +546,8 @@
       <tr>
         <td class="date">${esc(ev.date)}</td>
         <td class="title"><a href="/event/${esc(ev.slug)}/">${esc(ev.title)}</a></td>
-        <td><span class="dim mono" style="font-size:13px;">${esc(ev.entity)}</span></td>
-        <td><span class="mono" style="font-size:13px;letter-spacing:0.02em;color:var(--ink-3);">${esc(LANE_LABEL[ev.lane] || ev.lane)}</span></td>
+        <td><span class="dim mono" style="font-size:0.875rem;">${esc(ev.entity)}</span></td>
+        <td><span class="mono" style="font-size:0.875rem;letter-spacing:0.02em;color:var(--ink-3);">${esc(LANE_LABEL[ev.lane] || ev.lane)}</span></td>
       </tr>`).join("");
     if (flat.length > 200) {
       els.ledger.innerHTML += `<tr><td colspan="4" style="text-align:center;font-style:italic;color:var(--ink-3);padding:14px 0;">Showing first 200 of ${flat.length} events. Narrow the year range or lane to see fewer.</td></tr>`;

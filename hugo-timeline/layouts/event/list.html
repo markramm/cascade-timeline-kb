@@ -21,12 +21,12 @@
         <td class="title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
           {{ with .Params.actors }}
-          <div style="font-family:var(--sans-meta);font-size:13px;color:var(--ink-3);margin-top:4px;">
+          <div style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-top:4px;">
             {{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}
           </div>
           {{ end }}
         </td>
-        <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--sans-meta);font-size:13px;">{{ len . }}</span>{{ end }}</td>
+        <td>{{ with .Params.actors }}<span class="dim" style="font-family:var(--sans-meta);font-size:0.875rem;">{{ len . }}</span>{{ end }}</td>
         <td class="lanes">
           {{ range (.Params.capture_lanes | default slice) }}
             {{ $key := "other" }}

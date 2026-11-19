@@ -18,7 +18,7 @@
     {{ range .Pages }}
     <li style="border-right:1px solid var(--paper-edge);border-bottom:1px solid var(--paper-edge);padding:18px 22px;">
       <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);font-family:var(--serif-display);font-size:1.15rem;">{{ .Title }}</a>
-      {{ with .Params.summary }}<div style="font-size:14px;color:var(--ink-3);margin-top:4px;">{{ . }}</div>{{ end }}
+      {{ with .Params.summary }}<div style="font-size:0.875rem;color:var(--ink-3);margin-top:4px;">{{ . }}</div>{{ end }}
     </li>
     {{ end }}
   </ul>

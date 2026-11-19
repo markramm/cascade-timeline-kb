@@ -55,7 +55,7 @@
         {{ end }}
       </ul>
       <div style="margin-top:24px;padding-top:14px;border-top:1px solid var(--paper-edge);">
-        <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:13px;letter-spacing:0.01em;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
+        <a href="/year/{{ $year }}/" style="font-family:var(--mono);font-size:0.875rem;letter-spacing:0.01em;color:var(--ox);text-decoration:none;">All of {{ $year }} →</a>
       </div>
 
       {{/* On this day in history — uses pre-computed data/resonance.json.
@@ -102,13 +102,13 @@
         <div class="eyebrow" style="margin-bottom:10px;">On this day</div>
         {{ range $resonance }}
         <a href="/event/{{ .slug }}/" style="display:block;text-decoration:none;color:var(--ink-2);padding:8px 0;border-bottom:1px dashed var(--paper-edge);">
-          <span class="mono" style="color:var(--ox);font-size:13px;letter-spacing:0.02em;">
+          <span class="mono" style="color:var(--ox);font-size:0.875rem;letter-spacing:0.02em;">
             {{- $diffN := int .diff -}}
             {{- if eq $diffN 0 -}}same day · {{ .year }}
             {{- else -}}{{ $diffN }} year{{ if ne $diffN 1 }}s{{ end }} ago · {{ .year }}
             {{- end -}}
           </span><br>
-          <span style="font-family:var(--serif-display);font-size:13.5px;line-height:1.25;">{{ .title | truncate 70 }}</span>
+          <span style="font-family:var(--serif-display);font-size:0.875rem;line-height:1.25;">{{ .title | truncate 70 }}</span>
         </a>
         {{ end }}
       </div>
@@ -190,8 +190,8 @@
         {{ end }}
 
         {{/* Tier legend */}}
-        <div style="margin-top:18px;padding:14px 18px;background:var(--paper-deep);border-left:3px solid var(--rule-mute);font-size:13px;color:var(--ink-3);line-height:1.6;">
-          <strong style="color:var(--ink-2);font-weight:500;font-family:var(--mono);font-size:13px;letter-spacing:0.01em;">Tiers</strong>
+        <div style="margin-top:18px;padding:14px 18px;background:var(--paper-deep);border-left:3px solid var(--rule-mute);font-size:0.875rem;color:var(--ink-3);line-height:1.6;">
+          <strong style="color:var(--ink-2);font-weight:500;font-family:var(--mono);font-size:0.875rem;letter-spacing:0.01em;">Tiers</strong>
           <span style="display:block;margin-top:4px;">
             <a href="/about/sources/#tier-1" style="color:var(--moss);">Tier 1</a> court records &amp; gov docs ·
             <a href="/about/sources/#tier-2" style="color:var(--gilt);">Tier 2</a> established outlets ·
@@ -282,15 +282,15 @@
         {{ with .PrevInSection }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;">
           <div class="eyebrow" style="margin-bottom:6px;">← Earlier in record</div>
-          <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
-          <div class="mono dim" style="font-size:13px;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+          <div class="serif" style="font-size:1.125rem;line-height:1.25;">{{ .Title | truncate 80 }}</div>
+          <div class="mono dim" style="font-size:0.875rem;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
         {{ else }}<span></span>{{ end }}
         {{ with .NextInSection }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;text-align:right;">
           <div class="eyebrow" style="margin-bottom:6px;">Later in record →</div>
-          <div class="serif" style="font-size:18px;line-height:1.25;">{{ .Title | truncate 80 }}</div>
-          <div class="mono dim" style="font-size:13px;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
+          <div class="serif" style="font-size:1.125rem;line-height:1.25;">{{ .Title | truncate 80 }}</div>
+          <div class="mono dim" style="font-size:0.875rem;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
         {{ else }}<span></span>{{ end }}
       </nav>
@@ -301,7 +301,7 @@
       <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:18px;padding-top:18px;border-top:1px dashed var(--paper-edge);" aria-label="Capture lane navigation">
         <a href="/lanes/{{ $laneSlug }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
           <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">In the {{ . }} lane</div>
-          <div class="serif" style="font-size:15px;line-height:1.25;">View all events in this capture lane →</div>
+          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events in this capture lane →</div>
         </a>
       </nav>
       {{ end }}
@@ -311,7 +311,7 @@
       <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:14px;" aria-label="Actor thread navigation">
         <a href="/actors/{{ . | urlize }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
           <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">{{ . }}'s timeline thread</div>
-          <div class="serif" style="font-size:15px;line-height:1.25;">View all events naming {{ . }} →</div>
+          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events naming {{ . }} →</div>
         </a>
       </nav>
       {{ end }}
@@ -319,7 +319,7 @@
       {{/* ── Share / Cite ── */}}
       <div style="margin-top:48px;padding:24px;background:var(--paper-deep);border-left:3px solid var(--ox);">
         <div class="eyebrow" style="margin-bottom:10px;">Cite this entry</div>
-        <code class="mono" style="font-size:13px;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
+        <code class="mono" style="font-size:0.875rem;color:var(--ink-2);display:block;line-height:1.5;word-break:break-all;">
           The Cascade Ledger. “{{ .Title }}.” The Capture Cascade Timeline, {{ dateFormat "January 2, 2006" .Params.date }}. {{ .Permalink }}
         </code>
       </div>
