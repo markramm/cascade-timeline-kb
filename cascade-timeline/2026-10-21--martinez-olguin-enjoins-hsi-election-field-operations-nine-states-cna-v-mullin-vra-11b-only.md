@@ -860,6 +860,69 @@ claims:
   id: u61
   outcome: verified
   checked: '2026-11-18'
+- type: date
+  value: November 18, 2026
+  span: FILED NOV 18 2026 MOLLY C. DWYER, CLERK U.S. COURT OF APPEALS
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u62
+  outcome: verified
+  checked: '2026-11-19'
+- type: attribution
+  value: S.R. Thomas, Wardlaw and Johnstone
+  span: 'Before: S.R. THOMAS, WARDLAW, and JOHNSTONE, Circuit Judges.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u63
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: The Joint Stipulation of Dismissal is approved
+  span: The Joint Stipulation of Dismissal is approved (Dkt. 67).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u64
+  outcome: verified
+  checked: '2026-11-19'
+- type: figure
+  value: No. 26-7139
+  span: Plaintiffs - Appellees, v. No. 26-7139 D.C. No. 4:26-cv-10680-AMO
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u65
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: DISMISSED pursuant to Federal Rule of Appellate Procedure 42(b)(1)
+  span: DISMISSED pursuant to Federal Rule of Appellate Procedure 42(b)(1).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u66
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: bear their own attorneys’ fees and costs on appeal
+  span: shall bear their own attorneys’ fees and costs on appeal.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u67
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: This order serves as the mandate of the court.
+  span: This order serves as the mandate of the court.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u68
+  outcome: verified
+  checked: '2026-11-19'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -938,6 +1001,11 @@ sources:
   - title: Plaintiffs' Notice of Voluntary Dismissal, California Nurses Association v. Mullin, No. 4:26-cv-10680 (N.D. Cal.), Dkt. 107
     url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
     publisher: U.S. District Court, N.D. Cal. (via RECAP)
+    date: '2026-11-18'
+    tier: 1
+  - title: California Nurses Association v. Mullin, No. 26-7139 (9th Cir.), Order (Dkt. 108 in 4:26-cv-10680-AMO)
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.108.0.pdf
+    publisher: U.S. Court of Appeals for the Ninth Circuit via CourtListener RECAP
     date: '2026-11-18'
     tier: 1
 coverage:
@@ -1087,6 +1155,21 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-18'
+  date_kind: order date
+  heading: Ninth Circuit dismisses the government's appeal on a joint stipulation
+  claims:
+  - u62
+  - u63
+  - u64
+  - u65
+  - u66
+  - u67
+  - u68
+  event_date_claim: u62
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -1132,3 +1215,7 @@ On 11/02/26 (docket entry date) the Ninth Circuit's order was entered on the dis
 ## Update (2026-11-18, filing date): Plaintiffs file a notice of voluntary dismissal without prejudice, Dkt. 107
 
 The plaintiffs filed a notice of dismissal without prejudice at Document 107, filed 11/18/26, under Federal Rule of Civil Procedure 41(a)(1)(A)(i). The notice is filed before any defendant has served either an answer or a motion for summary judgment.
+
+## Update (2026-11-18, order date): Ninth Circuit dismisses the government's appeal on a joint stipulation
+
+On November 18, 2026, a Ninth Circuit panel (Circuit Judges S.R. Thomas, Wardlaw and Johnstone) approved the parties' joint stipulation of dismissal and dismissed the defendants' appeal, No. 26-7139, under Federal Rule of Appellate Procedure 42(b)(1). Each side bears its own attorneys' fees and costs on appeal, and the order serves as the court's mandate.
