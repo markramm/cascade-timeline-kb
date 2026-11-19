@@ -1858,3 +1858,22 @@ h1, h2, h3, h4 { font-family: var(--serif-display); font-weight: 600; letter-spa
 .btn { font-weight: 700; }
 .hero h1 { max-width: 24ch; }
 .event-body .dropcap::first-letter, p.dropcap::first-letter { color: var(--stamp); }
+
+/* Trial pass 2: "polished samizdat" — the typescript carries the voice.
+   Typed headline with a carbon double strike and a two-colour ribbon;
+   Archivo Narrow kept only for entry titles. */
+.hero { padding-top: 56px; }
+.hero h1 {
+  font-family: var(--mono); font-weight: 700; font-size: clamp(2rem, 4.6vw, 3.6rem);
+  letter-spacing: -0.02em; line-height: 1.12; max-width: none;
+  text-align: left; margin: 0 0 32px;
+  text-shadow: 0.045em 0.03em 0 rgba(35,48,107,0.22);
+}
+.hero h1 em { text-shadow: 0.045em 0.03em 0 rgba(168,35,28,0.22); }
+.brand-title { font-family: var(--mono); font-weight: 700; font-size: 19px; }
+.section-head { border-bottom-width: 1px; }
+.section-head h2, h2 { font-family: var(--mono); font-weight: 700; font-size: 1.125rem; letter-spacing: 0; }
+.masthead { border-bottom: 1px solid var(--rule); }
+.density { border-top-width: 1px; border-bottom-width: 1px; }
+.row-title, .ledger td.title, .recent-item h3 { font-weight: 500; }
+.event-title { font-weight: 600; }
