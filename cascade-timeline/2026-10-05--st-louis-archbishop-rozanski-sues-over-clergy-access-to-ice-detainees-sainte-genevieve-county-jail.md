@@ -190,6 +190,69 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-27'
+- type: date
+  value: 11/09/26
+  span: 'Case: 1:26-cv-00224-MTS Doc. #: 48 Filed: 11/09/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-19'
+- type: figure
+  value: '48'
+  span: 'Case: 1:26-cv-00224-MTS Doc. #: 48 Filed: 11/09/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: will postpone the hearing set in this matter and the associated disclosure deadline pending further order of the Court.
+  span: The Court agrees with the federal Defendants and will postpone the hearing set in this matter and the associated disclosure deadline pending further order of the Court.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-19'
+- type: date
+  value: November 23
+  span: The Archbishop brings several arguments as to why he should be excused from attending the mediation the parties have scheduled for November 23.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-19'
+- type: posture
+  value: in person or by video conference
+  span: Since there is no sufficiently compelling reason to excuse attendance, this Court will require the Archbishop to attend the mediation, either in person or by video conference.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-19'
+- type: figure
+  value: '49'
+  span: 'Case: 1:26-cv-00224-MTS Doc. #: 49 Filed: 11/09/26'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-19'
+- type: quote
+  value: This case is referred to Mediation.
+  span: '(a) Referral to ADR: This case is referred to Mediation.'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.49.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-19'
 tags:
 - ice-detention
 - clergy-access
@@ -224,6 +287,16 @@ sources:
   publisher: U.S. District Court for the Eastern District of Missouri
   date: '2026-10-05'
   tier: 1
+- title: Memorandum and Order, Archbishop Rozanski v. Stolzer, No. 1:26-cv-00224 (E.D. Mo.), Doc. 48
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.48.0.pdf
+  publisher: U.S. District Court, E.D. Mo. (via RECAP)
+  date: '2026-11-09'
+  tier: 1
+- title: Order Referring Case to Alternative Dispute Resolution, Doc. 49
+  url: https://storage.courtlistener.com/recap/gov.uscourts.moed.231740/gov.uscourts.moed.231740.49.0.pdf
+  publisher: U.S. District Court, E.D. Mo. (via RECAP)
+  date: '2026-11-09'
+  tier: 1
 related_events:
 - 2025-11-19--clergy-plaintiffs-constitutional-lawsuit-trump-administration-broadview
 - 2025-11-04--pope-leo-xiv-ice-clergy-access
@@ -240,6 +313,22 @@ corrections:
   now: Fr. Christopher Schroeder, a priest of the Archdiocese who visits detainees at the jail, is also a named plaintiff; the visitation and contract facts are the complaint's allegations and are labelled so.
   why: Complaint, ECF 1, caption and para. 14.
   found_by: "editorial verification, 2026-10-13"
+updates:
+- date: '2026-11-09'
+  date_kind: order date
+  heading: The court postpones the preliminary-injunction hearing and refers the case to mediation
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: detention-expansion
 ---
 
 Archbishop Mitchell Thomas Rozanski of St. Louis, Fr. Christopher Schroeder and the Archdiocese filed a complaint on Monday (Oct. 5) in the U.S. District Court for the Eastern District of Missouri, *Rozanski, Schroeder and Archdiocese of St. Louis v. Stolzer et al.*, No. 1:26-cv-00224-MTS. The defendants are Sheriff Gary Stolzer, Major Jason Schott and Lt. Andrew Johnson of the Sainte Genevieve County jail, and DHS Secretary Markwayne Mullin, ICE Acting Director David J. Venturella and Jennifer M. Fenton, Associate Director of ICE's Office of Professional Responsibility, each sued in an official capacity. The complaint alleges that the government has instituted a 'no contact' policy at the Sainte Genevieve County Detention Center, where immigrants detained by Immigration and Customs Enforcement officials are being held, that forces clergy to speak to detainees through a glass partition and 'prevents priests from administering the sacraments of confession and Communion', limiting clergy to one four-hour visit a week. The Catholic leaders also allege lawyers visiting clients at the facility are not bound by the same rules or are 'readily' granted exemptions.
@@ -249,3 +338,9 @@ DHS denied the claims in a statement to Religion News Service, which reads: 'The
 Prior: [[2025-11-19--clergy-plaintiffs-constitutional-lawsuit-trump-administration-broadview]].
 
 By order, Judge Matthew T. Schelp granted a joint motion adopting the parties' proposed briefing schedule and set an in-person hearing on the preliminary-injunction motion for Wednesday, November 18, 2026, at 2:00 p.m. in Cape Girardeau. Defendants' opposition is due October 27, 2026 and plaintiffs may reply afterward. No ruling on the motion appears on the docket.
+
+## Update (2026-11-09, order date): The court postpones the preliminary-injunction hearing and refers the case to mediation
+
+In a memorandum and order dated 11/09/26 (Doc. 48), the court wrote that it "will postpone the hearing set in this matter and the associated disclosure deadline pending further order of the Court." It noted that the parties had scheduled a mediation for November 23, and required the Archbishop to attend it, in person or by video conference.
+
+A separate order the same day (Doc. 49) states: "This case is referred to Mediation."
