@@ -16,8 +16,8 @@
       Start with <a href="/year/{{ now.Year }}/">{{ now.Year }}</a>, <a href="/q/">filter the record</a>, or read <a href="/about/">how it is built</a>.
     </p>
 
-    {{/* ─── DENSITY CHART — the last 100 years; older record is reached by decade ─ */}}
-    {{ $from := sub site.Params.endYear 100 }}
+    {{/* ─── DENSITY CHART — the last 50 years; older record is reached by decade ─ */}}
+    {{ $from := sub site.Params.endYear 50 }}
     {{ $recent := where $density "year" "ge" $from }}
     <div class="density-frame" aria-labelledby="density-title">
       <div class="density-title" id="density-title">
