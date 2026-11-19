@@ -48,7 +48,7 @@
         <span>From <strong>{{ dateFormat "Jan 2, 2006" $first.Params.date }}</strong></span>
         <span>To <strong>{{ dateFormat "Jan 2, 2006" $last.Params.date }}</strong></span>
         {{ end }}
-        <span><a href="/q/?{{ if eq $kind "actors" }}actor{{ else if eq $kind "tags" }}tag{{ else if eq $kind "lanes" }}lane{{ else }}{{ $kind }}{{ end }}={{ .Title | urlize }}" style="color:var(--ox);text-decoration:none;">Open in filter view →</a></span>
+        <span><a href="/q/?{{ if eq $kind "actors" }}actor{{ else if eq $kind "tags" }}tag{{ else if eq $kind "lanes" }}lane{{ else }}{{ $kind }}{{ end }}={{ .Title | urlize }}" style="color:var(--ox);text-decoration:none;">Open in filter view</a></span>
       </div>
     </header>
 
@@ -203,7 +203,7 @@
             {{ with .Params.sources }}<span class="src-badge" title="{{ len . }} cited source{{ if ne (len .) 1 }}s{{ end }}" style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-left:8px;white-space:nowrap;">{{ len . }} src</span>{{ end }}
             {{ with .Params.actors }}
             <div style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-top:4px;font-weight:400;">
-              {{ delimit (first 4 .) " · " }}{{ if gt (len .) 4 }} · +{{ sub (len .) 4 }}{{ end }}
+              {{ delimit (first 4 .) ", " }}{{ if gt (len .) 4 }} and {{ sub (len .) 4 }} more{{ end }}
             </div>
             {{ end }}
           </td>
@@ -270,7 +270,7 @@
       </div>
       {{ if gt $coData.total 24 }}
       <div style="margin-top:18px;font-family:var(--mono);font-size:0.875rem;letter-spacing:0.02em;color:var(--ink-3);">
-        Full co-occurrence is available in the dataset · <a href="{{ site.Params.datasetURL }}" style="color:var(--ox);">JSON →</a>
+        Full co-occurrence is available in the dataset: <a href="{{ site.Params.datasetURL }}" style="color:var(--ox);">JSON</a>
       </div>
       {{ end }}
     </section>
@@ -303,7 +303,7 @@
         {{ else if eq $kind "tags" }}
           The full taxonomy of indexed tags. Tags are the fastest way to follow a single mechanism — say <em>regulatory-capture</em> or <em>kleptocracy</em> — across decades.
         {{ else if eq $kind "lanes" }}
-          Five capture lanes structure the entire timeline. Each lane is a mechanism of institutional capture; events typically fall in two or three.
+          Each capture lane is a mechanism of institutional capture. Most events fall in two or three.
         {{ else if eq $kind "decade" }}
           Walk the timeline by decade. Each page lists every verified event in chronological order.
         {{ else if eq $kind "year" }}
@@ -312,7 +312,7 @@
       </p>
       <div class="taxonomy-stats">
         <span><strong>{{ len $terms }}</strong> entries</span>
-        <span><a href="/q/" style="color:var(--ox);text-decoration:none;">Build a filter →</a></span>
+        <span><a href="/q/" style="color:var(--ox);text-decoration:none;">Build a filter</a></span>
       </div>
     </header>
 

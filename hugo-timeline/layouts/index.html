@@ -1,6 +1,6 @@
 {{ define "main" }}
 {{ $density := site.Data.density }}
-{{ $totalEvents := site.Params.totalEvents }}
+{{ $stats := partialCached "stats.html" . }}
 
 <div class="page">
 
@@ -45,11 +45,11 @@
       <nav class="density-years" aria-label="Open a year of the record">
         {{ range $i, $row := $months }}{{ if or (eq .month 1) (eq $i 0) }}
         {{ $span := len (where $months "year" .year) }}
-        <a href="/year/{{ .year }}/" data-short="’{{ substr (string .year) 2 2 }}" style="left:{{ mul 100 (div (float $i) (float $n)) }}%;width:{{ mul 100 (div (float $span) (float $n)) }}%;"><span>{{ .year }}</span><span class="visually-hidden"> ({{ index (where site.Data.density "year" .year) 0 | default dict | partial "count.html" }} events)</span></a>
+        <a href="/year/{{ .year }}/" data-short="’{{ substr (string .year) 2 2 }}" style="left:{{ mul 100 (div (float $i) (float $n)) }}%;width:{{ mul 100 (div (float $span) (float $n)) }}%;"><span>{{ .year }}</span>{{ with index (where site.Data.density "year" .year) 0 }}<span class="visually-hidden"> ({{ .count | lang.FormatNumber 0 }} events)</span>{{ end }}</a>
         {{ end }}{{ end }}
       </nav>
       <p class="hero-lede">
-        {{ site.Params.totalEvents | lang.FormatNumber 0 }} sourced events from {{ site.Params.startYear }} to today, in order:
+        {{ $stats.events | lang.FormatNumber 0 }} sourced events from {{ site.Params.startYear }} to today, in order:
         court records, government filings and investigative reporting.
         Start with <a href="/year/{{ now.Year }}/">{{ now.Year }}</a>, <a href="/q/">filter the record</a>, or read <a href="/about/">how it is built</a>.
       </p>
@@ -123,7 +123,7 @@
   <section aria-labelledby="actors-head">
     <div class="section-head">
       <h2 id="actors-head">Most-documented actors</h2>
-      <span class="meta"><a href="/actors/">All {{ site.Params.totalActors | lang.FormatNumber 0 }}</a></span>
+      <span class="meta"><a href="/actors/">All {{ $stats.actors | lang.FormatNumber 0 }}</a></span>
     </div>
     <ul class="rows actor-rows actor-cols">
       {{ range (site.Taxonomies.actors.ByCount | first 12) }}

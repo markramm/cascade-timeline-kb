@@ -1,0 +1,1 @@
+{{- $s := partialCached "stats.html" .Page -}}{{- index $s (.Get 0) | lang.FormatNumber 0 -}}

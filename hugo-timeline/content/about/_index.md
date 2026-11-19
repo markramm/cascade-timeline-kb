@@ -1,6 +1,6 @@
 ---
 title: "About the archive"
-summary: "The Capture Cascade Ledger is a documentary archive of 4,288 verified events tracing the systematic capture of American democratic institutions. Methodology, sources, license, and how to contribute."
+summary: "The Capture Cascade Ledger is a documentary archive of sourced events tracing the systematic capture of American democratic institutions. Methodology, sources, license, and how to contribute."
 ---
 
 The Cascade Ledger is a structured, source-cited chronology of verified events tracing the systematic capture of American democratic institutions. It spans 1142 to the present and is maintained as a living research infrastructure — every entry is dated, cited, classified, and connected to the actors and capture lanes it touches.
@@ -9,8 +9,8 @@ The archive exists because patterns of institutional capture are easier to obscu
 
 <div style="margin-top:32px;padding:18px 22px;border:1px solid var(--paper-edge);background:rgba(217,210,191,0.18);">
   <div class="eyebrow">By the numbers</div>
-  <p style="margin:6px 0 0;font-family:var(--serif-display);font-size:1.05rem;line-height:1.5;">
-    4,288 verified events &middot; 7,682 actors &middot; 6,239 tags &middot; 1142&ndash;2026.
+  <p style="margin:6px 0 0;font-size:1.05rem;line-height:1.5;">
+    {{< stat events >}} events, {{< stat actors >}} actors and {{< stat tags >}} tags, from 1142 to today.
     Court records, government filings, and reporting from established outlets.
   </p>
 </div>

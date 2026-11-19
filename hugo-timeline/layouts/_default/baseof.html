@@ -6,7 +6,8 @@
 <title>{{ block "title" . }}{{ if ne .Title site.Title }}{{ .Title }} · {{ end }}{{ site.Title }}{{ end }}</title>
 
 {{- /* ── SEO description ── */ -}}
-{{- $desc := site.Params.description -}}
+{{- $siteDesc := replace site.Params.description "{events}" ((partialCached "stats.html" .).events | lang.FormatNumber 0) -}}
+{{- $desc := $siteDesc -}}
 {{- if .Params.summary -}}{{- $desc = .Params.summary -}}
 {{- else if and .IsPage (eq .Type "event") -}}
   {{- $actors := delimit (first 3 (.Params.actors | default slice)) ", " -}}
@@ -14,6 +15,7 @@
 {{- else if .Description -}}
   {{- $desc = .Description -}}
 {{- end -}}
+{{- $desc = replace $desc "{events}" ((partialCached "stats.html" .).events | lang.FormatNumber 0) -}}
 <meta name="description" content="{{ $desc }}">
 
 <link rel="canonical" href="{{ .Permalink }}">
@@ -108,7 +110,7 @@
   "name": "{{ site.Title }}",
   "alternateName": "{{ site.Params.shortName }}",
   "url": "{{ site.BaseURL }}",
-  "description": "{{ site.Params.description }}",
+  "description": "{{ $siteDesc }}",
   "inLanguage": "en-US",
   "publisher": {
     "@type": "Organization",
@@ -132,7 +134,7 @@
   "@id": "{{ site.BaseURL }}#dataset",
   "name": "The Capture Cascade Timeline",
   "alternateName": "Capture Cascade Events Dataset",
-  "description": "{{ site.Params.description }}",
+  "description": "{{ $siteDesc }}",
   "url": "{{ site.BaseURL }}",
   "sameAs": "https://github.com/markramm/cascade-kb",
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
@@ -234,7 +236,7 @@
     <div>
       <h4>The Cascade Ledger</h4>
       <p style="font-size:0.9375rem;color:var(--ink-2);max-width:36ch;line-height:1.55;">
-        A documentary archive of <strong>{{ site.Params.totalEvents }}</strong> verified events
+        A documentary archive of <strong>{{ (partialCached "stats.html" .).events | lang.FormatNumber 0 }}</strong> verified events
         tracing the systematic capture of American democratic institutions
         from <strong>{{ site.Params.startYear }}</strong> to <strong>{{ site.Params.endYear }}</strong>.
       </p>

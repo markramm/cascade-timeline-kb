@@ -1,7 +1,7 @@
 {{- $events := where site.RegularPages "Type" "event" -}}
 {
   "name": {{ site.Title | jsonify }},
-  "description": {{ site.Params.description | jsonify }},
+  "description": {{ replace site.Params.description "{events}" ((partialCached "stats.html" .).events | lang.FormatNumber 0) | jsonify }},
   "url": {{ site.BaseURL | jsonify }},
   "license": "https://creativecommons.org/licenses/by-sa/4.0/",
   "totals": {

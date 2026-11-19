@@ -149,7 +149,7 @@
 
   {{/* ─── Masthead of the missing page ──────────────────────── */}}
   <section class="notfound" aria-labelledby="nf-title">
-    <span class="eyebrow">Not in the record &middot; 404</span>
+    <span class="eyebrow">Not in the record (404)</span>
     <h1 id="nf-title">This page <em>isn&rsquo;t catalogued.</em></h1>
     <p class="lede">
       Either the entry hasn&rsquo;t been written yet, or the URL is mistaken.
@@ -173,7 +173,7 @@
         autofocus>
       <button type="submit">Search</button>
     </form>
-    <div class="nf-search-hint">Searches all {{ site.Params.totalEvents }} events &middot; actors, tags, capture lanes</div>
+    <div class="nf-search-hint">Searches all {{ (partialCached "stats.html" .).events | lang.FormatNumber 0 }} events, actors, tags and capture lanes</div>
   </section>
 
   {{/* ─── Or browse ─────────────────────────────────────────── */}}
@@ -191,7 +191,7 @@
   <section aria-labelledby="nf-recent-head">
     <div class="section-head">
       <h2 id="nf-recent-head">Recent additions to the record</h2>
-      <span class="meta"><a href="/year/{{ now.Year }}/">All of {{ now.Year }} &rarr;</a></span>
+      <span class="meta"><a href="/year/{{ now.Year }}/">All of {{ now.Year }}</a></span>
     </div>
     <div class="recent-grid">
       {{ range first 6 (where (where site.RegularPages "Type" "event") "Date" "ne" nil) }}
@@ -199,7 +199,7 @@
         <span class="date">{{ dateFormat "January 2, 2006" .Params.date }}</span>
         <h3>{{ .Title }}</h3>
         {{ with .Params.actors }}
-        <div class="actors">{{ delimit (first 3 .) " &middot; " }}{{ if gt (len .) 3 }} &middot; +{{ sub (len .) 3 }}{{ end }}</div>
+        <div class="actors">{{ delimit (first 3 .) ", " }}{{ if gt (len .) 3 }} and {{ sub (len .) 3 }} more{{ end }}</div>
         {{ end }}
         <div class="lane-row">
           {{ range (.Params.capture_lanes | default slice) }}
@@ -227,7 +227,7 @@
     </p>
     <div>
       <a class="btn" href="https://github.com/markramm/cascade-kb/issues/new?template=missing-entry.yml&amp;title=Missing+entry">
-        Open a tip issue &rarr;
+        Open a tip issue
       </a>
     </div>
   </aside>

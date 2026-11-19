@@ -6,15 +6,12 @@ enableRobotsTXT = false   # we ship our own from static/robots.txt (richer AI-cr
 enableEmoji = false
 
 [params]
-  description = "A documentary archive of 4,288 verified events tracing the systematic capture of American democratic institutions from 1142 to today. Court records, government filings, investigative reporting — sourced and indexed."
+  description = "A documentary archive of {events} verified events tracing the systematic capture of American democratic institutions from 1142 to today. Court records, government filings, investigative reporting — sourced and indexed."
   shortName = "The Cascade Ledger"
   tagline = "An archive of evidence."
   repoURL = "https://github.com/markramm/cascade-kb"
   datasetURL = "https://capturecascade.org/data/timeline.json"
   rammURL = "https://theramm.substack.com"
-  totalEvents = 4288
-  totalActors = 7682
-  totalTags = 6239
   startYear = 1142
   endYear = 2026
 

@@ -119,7 +119,7 @@
     <article>
       <header class="event-head">
         <div class="event-date-block">
-          <a href="/year/{{ $year }}/" style="text-decoration:none;color:inherit;">{{ dateFormat "Monday · January 2, 2006" .Params.date }}</a>
+          <a href="/year/{{ $year }}/" style="text-decoration:none;color:inherit;">{{ dateFormat "Monday, January 2, 2006" .Params.date }}</a>
         </div>
         <h1 class="event-title">{{ .Title }}</h1>
         <div class="event-meta">
@@ -197,7 +197,7 @@
             <a href="/about/sources/#tier-2" style="color:var(--gilt);">Tier 2</a> established outlets ·
             <a href="/about/sources/#tier-3" style="color:var(--ink-3);">Tier 3</a> regional &amp; specialty press ·
             <a href="/about/sources/#tier-4" style="color:var(--ink-4);">Tier 4</a> opinion or single-source.
-            <a href="/about/sources/" style="color:var(--ox);">Methodology →</a>
+            <a href="/about/sources/" style="color:var(--ox);">Methodology</a>
           </span>
         </div>
       </section>
@@ -281,14 +281,14 @@
       <nav style="display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:64px;border-top:1px solid var(--rule);padding-top:24px;" aria-label="Chronological navigation">
         {{ with .PrevInSection }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;">
-          <div class="eyebrow" style="margin-bottom:6px;">← Earlier in record</div>
+          <div class="eyebrow" style="margin-bottom:6px;">Earlier in record</div>
           <div class="serif" style="font-size:1.125rem;line-height:1.25;">{{ .Title | truncate 80 }}</div>
           <div class="mono dim" style="font-size:0.875rem;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
         {{ else }}<span></span>{{ end }}
         {{ with .NextInSection }}
         <a href="{{ .RelPermalink }}" style="text-decoration:none;color:var(--ink);padding:14px 0;text-align:right;">
-          <div class="eyebrow" style="margin-bottom:6px;">Later in record →</div>
+          <div class="eyebrow" style="margin-bottom:6px;">Later in record</div>
           <div class="serif" style="font-size:1.125rem;line-height:1.25;">{{ .Title | truncate 80 }}</div>
           <div class="mono dim" style="font-size:0.875rem;letter-spacing:0.02em;margin-top:4px;">{{ dateFormat "Jan 2, 2006" .Params.date }}</div>
         </a>
@@ -301,7 +301,7 @@
       <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:18px;padding-top:18px;border-top:1px dashed var(--paper-edge);" aria-label="Capture lane navigation">
         <a href="/lanes/{{ $laneSlug }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
           <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">In the {{ . }} lane</div>
-          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events in this capture lane →</div>
+          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events in this capture lane</div>
         </a>
       </nav>
       {{ end }}
@@ -311,7 +311,7 @@
       <nav style="display:grid;grid-template-columns:1fr;gap:18px;margin-top:14px;" aria-label="Actor thread navigation">
         <a href="/actors/{{ . | urlize }}/" style="text-decoration:none;color:var(--ink-2);padding:10px 0;text-align:center;">
           <div class="eyebrow" style="margin-bottom:4px;color:var(--ink-3);">{{ . }}'s timeline thread</div>
-          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events naming {{ . }} →</div>
+          <div class="serif" style="font-size:0.9375rem;line-height:1.25;">View all events naming {{ . }}</div>
         </a>
       </nav>
       {{ end }}

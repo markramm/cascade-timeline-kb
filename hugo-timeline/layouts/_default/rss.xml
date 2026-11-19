@@ -8,7 +8,7 @@
   <channel>
     <title>{{ $title }}</title>
     <link>{{ site.BaseURL }}</link>
-    <description>{{ site.Params.description }}</description>
+    <description>{{ replace site.Params.description "{events}" ((partialCached "stats.html" .).events | lang.FormatNumber 0) }}</description>
     <language>en-US</language>
     <copyright>© {{ now.Year }} Transparency Cascade Press · CC BY-SA 4.0</copyright>
     <lastBuildDate>{{ (index $events 0).Params.date | default now | dateFormat "Mon, 02 Jan 2006 15:04:05 -0700" }}</lastBuildDate>
@@ -35,7 +35,7 @@
         {{- with .Params.summary }}<p>{{ . }}</p>{{- end -}}
         {{- with .Params.actors }}<p><strong>Actors:</strong> {{ delimit . ", " }}</p>{{- end -}}
         {{- with .Params.capture_lanes }}<p><strong>Capture lanes:</strong> {{ delimit . ", " }}</p>{{- end -}}
-        <p><a href="{{ .Permalink }}">Read full entry →</a></p>
+        <p><a href="{{ .Permalink }}">Read the full entry</a></p>
       ]]></content:encoded>
     </item>
     {{ end }}

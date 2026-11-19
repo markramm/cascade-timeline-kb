@@ -1,0 +1,5 @@
+{{/* Site totals, counted at build time. Call with partialCached. */}}
+{{ return (dict
+  "events" (len (where site.RegularPages "Type" "event"))
+  "actors" (len site.Taxonomies.actors)
+  "tags"   (len site.Taxonomies.tags)) }}

@@ -9,7 +9,7 @@
   <header class="explorer-head">
     <span class="eyebrow">Build your own swimlane</span>
     <h1>Compose a timeline</h1>
-    <p class="lede">Pick actors, set a year range, filter by lane. The URL is the citation. <a href="/timelines/">Curated presets &rarr;</a></p>
+    <p class="lede">Pick actors, set a year range, filter by lane. The URL is the citation. <a href="/timelines/">Curated presets</a></p>
   </header>
 
   {{/* Filter bar — sticky below the masthead */}}
@@ -562,7 +562,7 @@
       return;
     }
     const labelBits = [];
-    if (state.actors.length) labelBits.push(state.actors.join(" · "));
+    if (state.actors.length) labelBits.push(state.actors.join(", "));
     if (state.lane) labelBits.push(state.lane + " lane");
     if (state.fromYear || state.toYear) labelBits.push(`${state.fromYear}–${state.toYear}`);
     const today = new Date().toISOString().slice(0,10);
@@ -570,7 +570,7 @@
     els.cite.textContent = cite;
 
     // YAML for "save as preset" — pre-filled with hints from current selection
-    const firstThree = state.actors.slice(0,3).join(" · ");
+    const firstThree = state.actors.slice(0,3).join(", ");
     const guessSlug = firstThree.toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/-+/g,"-").replace(/^-|-$/g,"").slice(0,60) || "untitled-timeline";
     const yaml = [
       "# File: content/timelines/" + guessSlug + ".md",

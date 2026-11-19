@@ -90,7 +90,7 @@
             <a href="{{ .RelPermalink }}">{{ .Title }}</a>
             {{ with .Params.actors }}
             <div style="font-family:var(--sans-meta);font-size:0.875rem;color:var(--ink-3);margin-top:4px;">
-              {{ delimit (first 3 .) " · " }}{{ if gt (len .) 3 }} · +{{ sub (len .) 3 }}{{ end }}
+              {{ delimit (first 3 .) ", " }}{{ if gt (len .) 3 }} and {{ sub (len .) 3 }} more{{ end }}
             </div>
             {{ end }}
           </td>
@@ -113,7 +113,7 @@
     </table>
     <div style="text-align:center;padding:18px 0;font-family:var(--mono);font-size:0.875rem;color:var(--ink-3);letter-spacing:0.02em;">
       Showing 50 of {{ len (where site.RegularPages "Type" "event") }} events.
-      <a href="/year/{{ now.Year }}/" style="color:var(--ox);">Browse by year →</a>
+      <a href="/year/{{ now.Year }}/" style="color:var(--ox);">Browse by year</a>
     </div>
   </div>
 
@@ -247,8 +247,8 @@
     if (els.from.value || els.to.value) {
       bits.push((els.from.value||'…')+'–'+(els.to.value||'…'));
     }
-    els.title.textContent = bits.length ? bits.join(' · ') : 'All events';
-    document.title = (bits.length ? bits.join(' · ')+' · ' : '') + 'Filter · The Cascade Ledger';
+    els.title.textContent = bits.length ? bits.join(', ') : 'All events';
+    document.title = (bits.length ? bits.join(', ')+' | ' : '') + 'Filter | The Cascade Ledger';
     els.lede.textContent = bits.length
       ? 'A reproducible view. Copy the URL to share — anyone who follows the link sees exactly this.'
       : 'Every URL is a citation. Pick filters, copy the link — the view is reproducible.';
@@ -312,8 +312,8 @@
       var laneDots = (e.capture_lanes||[]).map(function(l){
         return '<span class="dot" title="'+esc(l)+'" style="background:var(--lane-'+laneKey(l)+');"></span>';
       }).join('');
-      var actors = (e.actors||[]).slice(0,3).map(esc).join(' · ');
-      var more   = (e.actors||[]).length > 3 ? ' · +'+((e.actors||[]).length-3) : '';
+      var actors = (e.actors||[]).slice(0,3).map(esc).join(', ');
+      var more   = (e.actors||[]).length > 3 ? ' and '+((e.actors||[]).length-3)+' more' : '';
       return '<tr>'
         + '<td class="date">'+esc(e.date||'')+'</td>'
         + '<td class="title"><a href="/event/'+esc(e.id||slug(e.title))+'/">'+esc(e.title)+'</a>'
@@ -358,7 +358,7 @@
     if (els.from.value || els.to.value) {
       bits.push((els.from.value||'…')+'–'+(els.to.value||'…'));
     }
-    var label = bits.length ? bits.join(' · ') : 'all events';
+    var label = bits.length ? bits.join(', ') : 'all events';
     var today = new Date().toISOString().slice(0,10);
     var n = filtered.length || 0;
     return 'The Cascade Ledger. Filtered view: '+label+' ('+n.toLocaleString()+' event'+(n===1?'':'s')+'). Capture Cascade Timeline. Retrieved '+today+'. '+location.href;
