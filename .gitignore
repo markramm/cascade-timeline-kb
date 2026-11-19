@@ -7,6 +7,7 @@ hugo-timeline/content/event/
 hugo-timeline/content/year/
 hugo-timeline/content/decade/
 hugo-timeline/data/density.json
+hugo-timeline/data/density_monthly.json
 hugo-timeline/data/resonance.json
 hugo-timeline/data/co_actors.json
 hugo-timeline/data/lane_stream.json

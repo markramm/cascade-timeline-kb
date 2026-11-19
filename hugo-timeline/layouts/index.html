@@ -16,42 +16,37 @@
       Start with <a href="/year/{{ now.Year }}/">{{ now.Year }}</a>, <a href="/q/">filter the record</a>, or read <a href="/about/">how it is built</a>.
     </p>
 
-    {{/* ─── DENSITY CHART — the last 50 years; older record is reached by decade ─ */}}
-    {{ $from := sub site.Params.endYear 50 }}
-    {{ $recent := where $density "year" "ge" $from }}
+    {{/* ─── DENSITY CHART — events per month since 2016; older record is reached by decade ─ */}}
+    {{ $months := site.Data.density_monthly }}
+    {{ $first := index $months 0 }}
+    {{ $names := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" }}
     <div class="density-frame" aria-labelledby="density-title">
       <div class="density-title" id="density-title">
-        <span><strong>Events per year, {{ $from }} to {{ site.Params.endYear }}.</strong> Select a bar to open that year.</span>
+        <span><strong>Events per month, {{ $first.year }} to {{ site.Params.endYear }}.</strong> Select a bar to open that year.</span>
         <span class="dim"><a href="/decade/">Earlier record, back to {{ site.Params.startYear }}</a></span>
       </div>
-      <svg class="density" viewBox="0 0 1200 220" preserveAspectRatio="none" role="img" aria-label="Events per year from {{ $from }} to {{ site.Params.endYear }}; bars get markedly taller after 2016">
+      <svg class="density" viewBox="0 0 1200 220" preserveAspectRatio="none" role="img" aria-label="Events per month from {{ $first.year }} to {{ site.Params.endYear }}">
         {{ $maxCount := 1 }}
-        {{ range $recent }}{{ if gt .count $maxCount }}{{ $maxCount = .count }}{{ end }}{{ end }}
-        {{ $w := div 1200.0 (float (add (sub site.Params.endYear $from) 1)) }}
-        {{ range $recent }}
-          {{ $x := mul (float (sub .year $from)) $w }}
-          {{ $logH := 0 }}
-          {{/* Linear scale; a 2-unit floor keeps single-digit years visible. */}}
-          {{ if gt .count 0 }}{{ $logH = math.Max 2.0 (mul 190 (div (float .count) (float $maxCount))) }}{{ end }}
-          {{ $y := sub 200 $logH }}
-          {{ $cls := "bar-old" }}
-          {{ if ge .year 2017 }}{{ $cls = "bar-recent" }}{{ else if ge .year 2001 }}{{ $cls = "bar-mid" }}{{ end }}
-          <rect class="{{ $cls }}" x="{{ add $x 1 }}" y="{{ $y }}" width="{{ sub $w 2 }}" height="{{ $logH }}" data-year="{{ .year }}" data-count="{{ .count }}"></rect>
-        {{ end }}
+        {{ range $months }}{{ if gt .count $maxCount }}{{ $maxCount = .count }}{{ end }}{{ end }}
+        {{ $w := div 1200.0 (float (len $months)) }}
         {{/* Horizontal gridlines at round counts */}}
-        {{ range (slice 500 1000 1500 2000) }}
+        {{ range (slice 100 200 300 400 500) }}
           {{ if lt . $maxCount }}
           {{ $gy := sub 200 (mul 190 (div (float .) (float $maxCount))) }}
           <line x1="0" y1="{{ $gy }}" x2="1200" y2="{{ $gy }}" class="density-grid"/>
-          <text x="4" y="{{ sub $gy 4 }}" class="density-axis">{{ . | lang.FormatNumber 0 }}</text>
+          <text x="4" y="{{ sub $gy 4 }}" class="density-axis">{{ . }}</text>
           {{ end }}
         {{ end }}
-        {{/* Decade labels, centred under the first bar of each decade */}}
-        {{ range (seq 1930 10 site.Params.endYear) }}
-          {{ if ge . $from }}
-          {{ $tx := add (mul (float (sub . $from)) $w) (div $w 2) }}
-          <text x="{{ $tx }}" y="215" class="density-axis" text-anchor="middle">{{ . }}</text>
+        {{ range $i, $row := $months }}
+          {{ $x := mul (float $i) $w }}
+          {{ $h := 0 }}
+          {{/* Linear scale; a 1.5-unit floor keeps low months visible. */}}
+          {{ if gt .count 0 }}{{ $h = math.Max 1.5 (mul 190 (div (float .count) (float $maxCount))) }}{{ end }}
+          {{ if eq .month 1 }}
+          <line x1="{{ $x }}" y1="200" x2="{{ $x }}" y2="220" class="density-tick"/>
+          <text x="{{ add $x (mul $w 6) }}" y="215" class="density-axis" text-anchor="middle">{{ .year }}</text>
           {{ end }}
+          <rect class="bar-recent{{ if eq (add $i 1) (len $months) }} bar-partial{{ end }}" x="{{ add $x 0.75 }}" y="{{ sub 200 $h }}" width="{{ sub $w 1.5 }}" height="{{ $h }}" data-year="{{ .year }}" data-label="{{ index $names (int (sub .month 1)) }} {{ .year }}" data-count="{{ .count }}"></rect>
         {{ end }}
       </svg>
       <div class="density-tooltip" id="dtt"></div>
@@ -157,9 +152,8 @@
   var rects = svg.querySelectorAll('rect');
   rects.forEach(function(r){
     r.addEventListener('mouseenter', function(e){
-      var y = r.getAttribute('data-year');
       var c = r.getAttribute('data-count');
-      tt.textContent = y + ' · ' + c + ' event' + (c==='1'?'':'s');
+      tt.textContent = r.getAttribute('data-label') + ': ' + c + ' event' + (c==='1'?'':'s');
       tt.classList.add('on');
     });
     r.addEventListener('mousemove', function(e){

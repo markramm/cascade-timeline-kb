@@ -266,6 +266,8 @@ def write_term_pages(events: list[dict]) -> None:
         "---\ntitle: \"Decades of record\"\nsummary: \"Walk the timeline by decade. Each page lists every verified event in chronological order.\"\n---\n", encoding="utf-8"
     )
 
+MONTHLY_START_YEAR = 2016
+
 def write_density(events: list[dict]) -> None:
     counts: dict[int, int] = defaultdict(int)
     for ev in events:
@@ -280,6 +282,26 @@ def write_density(events: list[dict]) -> None:
     DATA.mkdir(parents=True, exist_ok=True)
     (DATA / "density.json").write_text(json.dumps(rows), encoding="utf-8")
     print(f"  density.json: {len(rows)} years, peak {max(counts.values()) if counts else 0}")
+
+    # Monthly counts for the homepage chart: January 2016 through the latest month on record.
+    monthly: dict[tuple[int, int], int] = defaultdict(int)
+    for ev in events:
+        d = str(ev.get("date") or "")
+        try:
+            y, m = int(d[:4]), int(d[5:7])
+        except ValueError:
+            continue
+        if y >= MONTHLY_START_YEAR and 1 <= m <= 12:
+            monthly[(y, m)] += 1
+    mrows = []
+    if monthly:
+        last = max(monthly)
+        y, m = MONTHLY_START_YEAR, 1
+        while (y, m) <= last:
+            mrows.append({"year": y, "month": m, "count": monthly.get((y, m), 0)})
+            y, m = (y + 1, 1) if m == 12 else (y, m + 1)
+    (DATA / "density_monthly.json").write_text(json.dumps(mrows), encoding="utf-8")
+    print(f"  density_monthly.json: {len(mrows)} months, peak {max(monthly.values()) if monthly else 0}")
 
 def write_filter_dataset(events: list[dict]) -> None:
     STATIC.mkdir(parents=True, exist_ok=True)

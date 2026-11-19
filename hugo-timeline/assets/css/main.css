@@ -1795,3 +1795,5 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
 .density-frame .density-title a { color: inherit; }
 .density-frame .density-title a:hover { color: var(--ox); }
 .density-grid { stroke: var(--rule-mute); stroke-width: 0.5; stroke-dasharray: 2 4; opacity: 0.6; }
+.density-tick { stroke: var(--rule-mute); stroke-width: 0.5; }
+.density .bar-partial { fill-opacity: 0.45; } /* latest month, still filling */
