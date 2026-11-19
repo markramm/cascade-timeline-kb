@@ -1797,3 +1797,22 @@ a:hover { color: var(--ox); text-decoration-color: var(--ox); }
 .density-grid { stroke: var(--rule-mute); stroke-width: 0.5; stroke-dasharray: 2 4; opacity: 0.6; }
 .density-tick { stroke: var(--rule-mute); stroke-width: 0.5; }
 .density .bar-partial { fill-opacity: 0.45; } /* latest month, still filling */
+
+/* Lede sits in the chart's empty upper-left on wide screens; above the bars' reach. */
+.hero h1 { margin-bottom: 28px; }
+@media (min-width: 900px) {
+  .density { height: 260px; }
+  .density-frame .hero-lede {
+    position: absolute; left: 64px; top: 74px; margin: 0;
+    max-width: 30em; text-align: left;
+    font-size: 1.1875rem; line-height: 1.5; color: var(--ink);
+    pointer-events: none;
+    background: var(--paper-deep); padding: 2px 12px 6px; margin-left: -12px; /* masks the gridlines behind the text */
+  }
+  .density-frame .hero-lede a { pointer-events: auto; }
+}
+@media (min-width: 900px) and (prefers-color-scheme: dark) { .density-frame .hero-lede { background: #0a0907; } }
+@media (max-width: 899px) {
+  .density-frame { display: flex; flex-direction: column; }
+  .density-frame .hero-lede { order: -1; margin: 0 auto 28px; }
+}

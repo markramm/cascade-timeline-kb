@@ -10,12 +10,6 @@
       Democracy doesn’t fall.<br>
       It <em>cascades</em>.
     </h1>
-    <p class="hero-lede">
-      {{ site.Params.totalEvents | lang.FormatNumber 0 }} sourced events from {{ site.Params.startYear }} to today, in order:
-      court records, government filings and investigative reporting.
-      Start with <a href="/year/{{ now.Year }}/">{{ now.Year }}</a>, <a href="/q/">filter the record</a>, or read <a href="/about/">how it is built</a>.
-    </p>
-
     {{/* ─── DENSITY CHART — events per month since 2016; older record is reached by decade ─ */}}
     {{ $months := site.Data.density_monthly }}
     {{ $first := index $months 0 }}
@@ -49,6 +43,11 @@
           <rect class="bar-recent{{ if eq (add $i 1) (len $months) }} bar-partial{{ end }}" x="{{ add $x 0.75 }}" y="{{ sub 200 $h }}" width="{{ sub $w 1.5 }}" height="{{ $h }}" data-year="{{ .year }}" data-label="{{ index $names (int (sub .month 1)) }} {{ .year }}" data-count="{{ .count }}"></rect>
         {{ end }}
       </svg>
+      <p class="hero-lede">
+        {{ site.Params.totalEvents | lang.FormatNumber 0 }} sourced events from {{ site.Params.startYear }} to today, in order:
+        court records, government filings and investigative reporting.
+        Start with <a href="/year/{{ now.Year }}/">{{ now.Year }}</a>, <a href="/q/">filter the record</a>, or read <a href="/about/">how it is built</a>.
+      </p>
       <div class="density-tooltip" id="dtt"></div>
     </div>
   </section>
