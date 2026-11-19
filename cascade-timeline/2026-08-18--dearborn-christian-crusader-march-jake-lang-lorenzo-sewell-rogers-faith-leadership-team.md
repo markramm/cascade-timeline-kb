@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-08-18--dearborn-christian-crusader-march-jake-lang-lorenzo-sewell-rogers-faith-leadership-team
 date: '2026-08-18'
-title: "Jake Lang and Pastor Lorenzo Sewell, a Member of Mike Rogers's Senate Campaign Faith Leadership Team, Lead 'Christian Crusader March' on Dearborn City Council; 22 Arrested"
+title: "Jake Lang Leads 'Christian Crusader March' on Dearborn City Council, Organized With Pastor Lorenzo Sewell, a Member of Mike Rogers's Senate Campaign Faith Leadership Team; 22 Arrested"
 importance: 6
 status: confirmed
 verification: source-verified
@@ -195,6 +195,12 @@ claims:
   outcome: verified
   checked: '2026-10-16'
 event_date_claim: c1
+corrections:
+- date: '2026-11-19'
+  was: "Jake Lang and Pastor Lorenzo Sewell ... Lead 'Christian Crusader March'"
+  now: "Jake Lang Leads 'Christian Crusader March' ..., Organized With Pastor Lorenzo Sewell"
+  why: "Michigan Advance, Aug 19, 2026: \"Lang organized the protest with the help of Detroit Pastor Lorenzo Sewell\"; no source found that Sewell led, spoke or attended. Sewell's faith-team membership verified on the Rogers campaign release of Nov 13, 2025 (https://rogersforsenate.com/news/rogers-announces-faith-coalition-leadership-team)."
+  found_by: "conductor verification 2026-11-19 (cascade-research 2026-11-19-dearborn-lang-sewell-rogers-link-verified)"
 ---
 
 On Tuesday, Aug. 18, 2026 (event date), pardoned Jan. 6 defendant Jake Lang and Detroit pastor Lorenzo Sewell staged a "Christian Crusader March on Dearborn City Council Meeting" at the council's meeting, which the city had moved to the Henry Ford Centennial Library. Both men posted the announcing poster on their own social media pages (CBS Detroit), and both Michigan Advance and the Fox station describe them as co-organizers. Michigan Advance counted approximately 2,000 protesters and counterprotesters. Dearborn police made 22 arrests, and Lang told the council that Muslims "are looking to destroy us."
