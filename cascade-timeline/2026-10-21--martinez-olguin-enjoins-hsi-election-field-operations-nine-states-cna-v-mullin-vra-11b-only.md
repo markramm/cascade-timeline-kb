@@ -823,6 +823,43 @@ claims:
   id: u57
   outcome: verified
   checked: '2026-11-09'
+- type: date
+  value: 11/18/26
+  span: Document 107 Filed 11/18/26 2444 Page 2 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u58
+  outcome: verified
+  checked: '2026-11-18'
+- type: figure
+  value: '107'
+  qualifier: Document
+  span: Document 107 Filed 11/18/26 2444 Page 2 of 4
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u59
+  outcome: verified
+  checked: '2026-11-18'
+- type: posture
+  value: 41(a)(1)(A)(i)
+  span: PLEASE TAKE NOTICE that, pursuant to Federal Rule of Civil Procedure 41(a)(1)(A)(i)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u60
+  outcome: verified
+  checked: '2026-11-18'
+- type: posture
+  value: answer or a motion for summary judgment
+  span: either an answer or a motion for summary judgment.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u61
+  outcome: verified
+  checked: '2026-11-18'
 tags:
   - election-capture
   - civil-rights-suppression
@@ -897,6 +934,11 @@ sources:
     url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.103.0.pdf
     publisher: U.S. Court of Appeals for the Ninth Circuit (via RECAP)
     date: '2026-11-02'
+    tier: 1
+  - title: Plaintiffs' Notice of Voluntary Dismissal, California Nurses Association v. Mullin, No. 4:26-cv-10680 (N.D. Cal.), Dkt. 107
+    url: https://storage.courtlistener.com/recap/gov.uscourts.cand.479338/gov.uscourts.cand.479338.107.0.pdf
+    publisher: U.S. District Court, N.D. Cal. (via RECAP)
+    date: '2026-11-18'
     tier: 1
 coverage:
 - url: https://theramm.substack.com/p/at-the-door-in-court-and-over-the
@@ -1033,6 +1075,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: cna-v-mullin
+- date: '2026-11-18'
+  date_kind: filing date
+  heading: Plaintiffs file a notice of voluntary dismissal without prejudice, Dkt. 107
+  claims:
+  - u58
+  - u59
+  - u60
+  - u61
+  event_date_claim: u58
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On October 21, Judge Araceli Martinez-Olguin (N.D. Cal.) granted a preliminary injunction in *California Nurses Association v. Mullin* (Dkt. 87). It bars DHS and those acting with it from conducting elections-related field operations and field interviews in California, Connecticut, Georgia, Missouri, Nevada, New York, Pennsylvania, Washington and Wisconsin that involve or are likely to involve people the officers know, suspect or should reasonably know or suspect are U.S. citizens, and from conducting such field operations based wholly on the TECS records the "Voter Eligibility Matching Policy" generated against those same people. By its terms it runs to November 3 at 8:00 p.m., or when polling places close on Election Day, or as the court otherwise directs, and is stayed until 5:00 p.m. on Friday, October 23, which CBS reports gives the government a chance to seek appeal. The order also sets a $100 bond for the plaintiffs, due by 5:00 p.m. Thursday, October 22.
@@ -1074,3 +1128,7 @@ The Ninth Circuit order denying rehearing en banc, with Judge Tung's dissent, wa
 ## Update (2026-11-02, docket entry date): Ninth Circuit denies the government's stay pending appeal
 
 On 11/02/26 (docket entry date) the Ninth Circuit's order was entered on the district docket; the order itself carries a clerk's stamp of October 30, 2026. A Ninth Circuit panel denied the Federal Defendants' request for a stay pending appeal, concluding that the district court properly found that the nurses' groups have associational standing to pursue an intimidation claim under Section 11(b) of the Voting Rights Act, and that the government had not shown it would be irreparably harmed by a four-and-a-half-day limitation on its operations.
+
+## Update (2026-11-18, filing date): Plaintiffs file a notice of voluntary dismissal without prejudice, Dkt. 107
+
+The plaintiffs filed a notice of dismissal without prejudice at Document 107, filed 11/18/26, under Federal Rule of Civil Procedure 41(a)(1)(A)(i). The notice is filed before any defendant has served either an answer or a motion for summary judgment.
