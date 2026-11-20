@@ -47,4 +47,4 @@ claims:
   source_kind: primary
 ---
 
-OFAC issued General License 131L, according to its FAQ 1224 updated November 19, 2026. The authorization for negotiations and entry into contingent contracts expires December 19, 2026. It does not authorize the actual sale, disposition or transfer of any Lukoil International GmbH entity or asset. OFAC may revoke it at any time, including if Lukoil and LIG do not appear to be engaging in good faith negotiations. No OFAC sale authorization had been found as of November 20, 2026. The licence text itself was not fetched; this rests on the FAQ.
+OFAC issued General License 131L, according to its FAQ 1224 updated November 19, 2026. The authorization for negotiations and entry into contingent contracts expires December 19, 2026. It does not authorize the actual sale, disposition or transfer of any Lukoil International GmbH entity or asset.
