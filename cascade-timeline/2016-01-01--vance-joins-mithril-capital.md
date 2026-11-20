@@ -44,7 +44,7 @@ sources:
 connections:
 - 2011-01-01--thiel-meets-vance-yale
 - 2019-01-01--thiel-funds-narya-capital
-- 2022-04-01--thiel-funds-vance-senate
+- 2022-04-25--thiel-gives-protect-ohio-values-pac-15-million-in-three-contributions
 patterns:
 - revolving-door
 - billionaire-patronage

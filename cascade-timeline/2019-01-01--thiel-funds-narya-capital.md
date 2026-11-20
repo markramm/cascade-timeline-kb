@@ -44,7 +44,7 @@ sources:
   tier: 3
 connections:
 - 2016-01-01--vance-joins-mithril-capital
-- 2022-04-01--thiel-funds-vance-senate
+- 2022-04-25--thiel-gives-protect-ohio-values-pac-15-million-in-three-contributions
 - 2024-07-15--vance-vp-nomination
 patterns:
 - oligarch-networks

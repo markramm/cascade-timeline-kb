@@ -10,7 +10,7 @@ capture_lanes:
 connections:
 - 2016-01-01--vance-joins-mithril-capital
 - 2019-01-01--thiel-funds-narya-capital
-- 2022-04-01--thiel-funds-vance-senate
+- 2022-04-25--thiel-gives-protect-ohio-values-pac-15-million-in-three-contributions
 date: 2011-01-01
 description: 'J.D. Vance first meets Peter Thiel during Thiel''s talk at Yale Law School, initiating a transformative relationship that would propel Vance from law student to venture capitalist to U.S. Senator and Vice Presidential candidate. Thiel''s talk challenged the traditional career paths of Yale Law students, arguing that technological stagnation was rooted in elite institutional thinking.'
 id: 2011-01-01--thiel-meets-vance-yale
