@@ -134,6 +134,60 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-15'
+- type: date
+  value: November 20, 2026
+  span: November 20, 2026, 9:04 PM
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-21'
+- type: attribution
+  value: declined to release from custody
+  span: NEW YORK -- A federal judge on Friday declined to release from custody a man who was shot and wounded by immigration officers as they arrested him in New York last month.
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-21'
+- type: quote
+  value: merely a technical error
+  span: However, he wrote, that was merely a technical error that does not require Belgal to be released from federal custody pending deportation proceedings.
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-21'
+- type: posture
+  value: may have made a procedural error in serving an arrest warrant
+  span: U.S. District Court Judge Hector Gonzalez said in a written ruling that agents may have made a procedural error in serving an arrest warrant on Oscar Belgal before he was given a notice to appear in immigration court.
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-21'
+- type: posture
+  value: disagreed that the agents did not have a valid warrant
+  span: The judge disagreed that the agents did not have a valid warrant. And the petition Belgal filed for release from custody was not an appropriate venue for arguing that the agents used excessive force, he said.
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-21'
+- type: posture
+  value: can still ask the immigration court to release him on bond
+  span: Gonzalez noted that Belgal can still ask the immigration court to release him on bond.
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-21'
 tags:
 - immigration-enforcement-violence
 - ice-shooting
@@ -167,12 +221,36 @@ sources:
   publisher: CNN
   date: '2026-10-08'
   tier: 2
+- title: Federal judge denies a request to release man shot by immigration agents in New York
+  url: https://abcnews.com/US/wireStory/federal-judge-denies-request-release-man-shot-immigration-138336454
+  publisher: Associated Press (via ABC News)
+  date: '2026-11-20'
+  tier: 2
 approved_names:
 - Miguel Parra Hernandez
 - Miguel Parra-Hernandez
 - Miguel Parra
+updates:
+- date: '2026-11-20'
+  date_kind: order date
+  heading: Judge Gonzalez denies Belgal's petition for release
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
 ---
 
 Plainclothes ICE agents shot Oscar Belgal in the neck on Oct. 8 in the Marble Hill neighborhood of the Bronx while his 5-year-old child was in the back seat of his car. ICE's account, given by executive associate director Marcos Charles, is that Belgal "weaponized his vehicle" and drove at officers; officials described the wound as superficial. NYPD video shows agents approaching with guns drawn, which ICE's account did not mention. His attorneys say in a habeas petition that at least seven shots were fired, that a bullet remains lodged in his neck, and that ICE did not prepare a Notice to Appear until Oct. 9, the day after the shooting. DHS alleges gang ties and a criminal history; his attorneys say he vehemently denies involvement with any gang or organized criminal organization. CNN reports it was the first shooting involving ICE agents in New York City during the current crackdown, and the Bronx District Attorney, Darcel Clark, is investigating.
 
 On the Wednesday after the shooting, a federal judge ordered the government to explain why Belgal should not be released, barred his deportation or transfer outside New York City's federal judicial districts, and gave prosecutors until Oct. 19 to respond. The custody and shooting are an instance of the vehicle-stop tactic documented in [[2026-07-11--eyes-on-ice-documents-vehicle-containment-tactic-civil-enforcement]] and [[2026-07-13--ice-fatal-shooting-biddeford-maine-weaponize-vehicle]], and was followed by the Houston incident in [[2026-10-10--ice-agent-strikes-miguel-parra-hernandez-with-vehicle-houston-pursuit]].
+
+## Update (2026-11-20, order date): Judge Gonzalez denies Belgal's petition for release
+
+U.S. District Judge Hector Gonzalez declined on Friday to release Belgal from custody. In a written ruling he said agents may have made a procedural error in serving the arrest warrant before Belgal received a notice to appear, but called it "merely a technical error" that does not require release pending deportation proceedings. He rejected the argument that the agents lacked a valid warrant, held that the release petition was not the venue for the excessive-force claim, and noted Belgal can still seek bond from the immigration court.
