@@ -1804,6 +1804,60 @@ claims:
   id: u187
   outcome: verified
   checked: '2026-11-15'
+- id: u188
+  type: date
+  value: November 19, 2026
+  span: November 19, 2026, 10:47 PM
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
+- id: u189
+  type: attribution
+  value: DOJ's third-ranked official Stanley Woodward
+  span: In a Thursday filing from DOJ's third-ranked official Stanley Woodward, the department requested the 9th Circuit Court of Appeals vacate the order entered by a district judge in Alaska that dismissed DOJ's lawsuit -- but still acknowledged the dispute is now not worth any further litigation.
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
+- id: u190
+  type: quote
+  value: moot
+  span: telling an appeals court Thursday evening that the issue is now "moot" in an apparent acknowledgment of Democratic Senator-elect Mary Peltola's current lead in the electoral tally.
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
+- id: u191
+  type: quote
+  value: vacate the district court’s order dismissing this lawsuit, because the case has become moot
+  span: '"This Court should deny the motion to summarily affirm the district court’s judgment," Woodward said. "Instead, this Court should vacate the district court’s order dismissing this lawsuit, because the case has become moot."'
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
+- id: u192
+  type: quote
+  value: reluctantly acknowledges
+  span: '"The United States therefore reluctantly acknowledges that there no longer exists any means of “determin[ing] whether votes cast for Daniel J. Sullivan were meant to be cast for Senator Sullivan” and vindicating the United States’ asserted injury," Woodward writes.'
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
+- id: u193
+  type: posture
+  value: The Associated Press projected Tuesday that Peltola will win the race
+  span: The Associated Press projected Tuesday that Peltola will win the race for the Senate, the ninth Senate pickup for Democrats in the next Congress.
+  url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-22'
 tags:
   - election-2026
   - certification
@@ -2025,6 +2079,11 @@ sources:
     publisher: U.S. Court of Appeals for the Ninth Circuit (RECAP)
     date: '2026-11-13'
     tier: 1
+  - title: DOJ dropping Alaska midterms Senate certification lawsuit, saying case is 'moot'
+    publisher: ABC News
+    date: '2026-11-19'
+    url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
+    tier: 2
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -2438,6 +2497,20 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-19'
+  date_kind: filing
+  heading: DOJ tells the Ninth Circuit the case is moot and asks it to vacate the dismissal
+  claims:
+  - u188
+  - u189
+  - u190
+  - u191
+  - u192
+  - u193
+  event_date_claim: u188
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 approved_names:
   - Daniel Sullivan
 ---
@@ -2557,3 +2630,7 @@ In a [motion filed November 9, 2026](https://storage.courtlistener.com/recap/gov
 ## Update (2026-11-13, filing date): Amicus briefs back the appellees' motion for summary affirmance in the Ninth Circuit
 
 On November 13, 2026, amicus briefs were filed in the Ninth Circuit appeal in support of the summary affirmance motion. A former Maricopa County Recorder argues that "Addressing the recurring phenomenon of similarly named candidates falls to state laws, not federal law." A second amicus, in a brief captioned a proposed brief, argues that "Laches bars the federal government’s attempt to interfere with Alaska’s certification process."
+
+## Update (2026-11-19, filing): DOJ tells the Ninth Circuit the case is moot and asks it to vacate the dismissal
+
+In a Thursday filing signed by Stanley Woodward, DOJ's third-ranked official, the Justice Department told the Ninth Circuit that its lawsuit had become "moot." It asked the court to deny the motion to summarily affirm and instead to "vacate the district court's order dismissing this lawsuit, because the case has become moot." The filing said the United States "reluctantly acknowledges" that there is no longer any means of determining whether votes cast for Daniel J. Sullivan were meant for Senator Sullivan. ABC News reported that the AP had projected Peltola the winner on Tuesday.
