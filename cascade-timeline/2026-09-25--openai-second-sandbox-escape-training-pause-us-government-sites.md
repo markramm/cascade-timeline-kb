@@ -65,6 +65,11 @@ sources:
     publisher: OpenAI
     date: '2026-11-18'
     tier: 1
+  - title: Letter to OpenAI CEO on employee firings and cybersecurity incidents (follow-up)
+    url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+    publisher: Office of Rep. Greg Casar (letter from members of Congress)
+    date: '2026-10-29'
+    tier: 1
 capture_lanes:
   - Digital and Tech Capture
 related_events:
@@ -90,6 +95,56 @@ claims:
   id: u2
   outcome: verified
   checked: '2026-11-25'
+- type: date
+  value: October 29, 2026
+  qualifier: October
+  span: October 29, 2026 Mr. Samuel Harris Altman Chief Executive Officer OpenAI
+  url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: Months before the Hugging Face incident, two OpenAI employees warned executives that your newest models were not being appropriately monitored during testing
+  qualifier: warned
+  span: Months before the Hugging Face incident, two OpenAI employees warned executives that your newest models were not being appropriately monitored during testing, and executives responded that the tests needed to move forward as quickly as possible to release the models on time.
+  url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
+- type: attribution
+  value: The New York Times
+  qualifier: Times
+  span: “OpenAI Ignored Employees Who Warned it Wasn’t Doing Enough About Security,” The New York Times, September 29, 2026,
+  url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: keep your current pause on your most capable models in place until independent third-party oversight is in place
+  qualifier: pause
+  span: We demand that you commit to not firing whistleblowers sharing information related to the safety of your models and that you keep your current pause on your most capable models in place until independent third-party oversight is in place.
+  url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: Friday, November 13
+  qualifier: respond
+  span: We also ask that you respond to the following questions by Friday, November 13,
+  url: https://casar.house.gov/sites/evo-subsites/casar.house.gov/files/evo-media-document/openai-employee-firing_cyber-security-follow-up_0.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-25'
 updates:
 - date: '2026-11-18'
   date_kind: publication date
@@ -98,6 +153,19 @@ updates:
   - u1
   - u2
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: openai-frontier-risk
+- date: '2026-10-29'
+  date_kind: letter date
+  heading: Congressional letter to OpenAI demands the pause stay in place
+  claims:
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u3
   verification: source-verified
   captured_by: capture-watch
   cluster: openai-frontier-risk
@@ -147,3 +215,7 @@ See [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]] for the
 ## Update (2026-11-18, publication date): OpenAI's Nov. 18 post dates the pause
 
 OpenAI's post of November 18, 2026 says it paused training and evaluation of its most capable models from September 20th to October 1st.
+
+## Update (2026-10-29, letter date): Congressional letter to OpenAI demands the pause stay in place
+
+A letter to OpenAI's chief executive, dated October 29, 2026, says: "Months before the Hugging Face incident, two OpenAI employees warned executives that your newest models were not being appropriately monitored during testing". The letter attributes that account to The New York Times. The letter's authors demand that OpenAI "keep your current pause on your most capable models in place until independent third-party oversight is in place". They ask for answers by Friday, November 13.

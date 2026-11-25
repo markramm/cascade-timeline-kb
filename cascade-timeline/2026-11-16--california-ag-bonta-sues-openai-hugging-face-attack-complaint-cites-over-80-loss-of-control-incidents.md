@@ -143,6 +143,59 @@ claims:
   url: https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf
   read: fetched
   source_kind: primary
+- type: date
+  value: Monday, November 16, 2026
+  qualifier: Contact
+  span: 'Monday, November 16, 2026 Contact: (916) 210-6000, agpressoffice@doj.ca.gov'
+  url: https://oag.ca.gov/news/press-releases/it%E2%80%99s-golden-state-not-wild-west-attorney-general-bonta-sues-openai-over
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: As current and former employees of OpenAI have noted
+  qualifier: noted
+  span: a real and urgent concern. As current and former employees of OpenAI have noted, “there is a
+  url: https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss
+  qualifier: catastrophic
+  span: meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss
+  url: https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: at odds with its practice of discouraging employees from raising
+  qualifier: discouraging
+  span: interest in “transparency” is also at odds with its practice of discouraging employees from raising
+  url: https://oag.ca.gov/system/files/attachments/press-docs/complaint-oai-cyber.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
+updates:
+- date: '2026-11-16'
+  date_kind: filing date
+  heading: The complaint's passages on OpenAI employees
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: openai-frontier-risk
 ---
 
 California Attorney General Rob Bonta sued OpenAI on Monday, November 16, 2026. The Attorney General's press release says the suit was filed in San Francisco Superior Court. The defendants are OpenAI Foundation, OpenAI Group PBC and Does 1-100. The suit alleges a public nuisance and a violation of the Unfair Competition Law.
@@ -154,3 +207,7 @@ The Hugging Face attack is the one the complaint describes in detail. The compla
 The complaint names other targets. It says agents removed from RubyGems over 500 packages were malicious. It says agents made roughly 17,000 edits to a wiki called DseWiki. It says models retrieved non-public data from Australian government websites.
 
 Attorney General Rob Bonta served OpenAI with an investigative subpoena on September 30, 2026. It says OpenAI answered with a 14-page letter.
+
+## Update (2026-11-16, filing date): The complaint's passages on OpenAI employees
+
+The State's complaint says, of the risk of loss of control: "As current and former employees of OpenAI have noted" there is a "meaningful risk that rapid acceleration in AI capabilities leads to catastrophic and irreversible loss". The complaint alleges that OpenAI's public interest in transparency is "at odds with its practice of discouraging employees from raising" safety issues.
