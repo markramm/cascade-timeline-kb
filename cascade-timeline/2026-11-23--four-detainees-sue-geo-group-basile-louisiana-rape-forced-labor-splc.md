@@ -120,6 +120,15 @@ claims:
   id: u5
   outcome: verified
   checked: '2026-11-25'
+- type: attribution
+  value: David Courvelle
+  qualifier: sentenced
+  span: 'On June 26, 2026, David Courvelle, 56, a former Contract Detention Officer at the South Louisiana ICE Processing Center in Basile, Louisiana, was sentenced to three years in federal prison after his December 29, 2025, plea to one count of Sexual Abuse of a Ward.'
+  url: https://www.kedm.org/kedm-news/2026-07-02/former-louisiana-detention-officer-sentenced-to-three-years-in-federal-prison-for-sexual-abuse-of-a-detainee
+  read: fetched
+  source_kind: secondary
+  id: u6
+approved_names: [David Courvelle]
 tags:
 - detention
 - geo-group
@@ -129,6 +138,7 @@ tags:
 - louisiana
 actors:
 - GEO Group
+- David Courvelle
 - Southern Poverty Law Center
 - ACLU of Louisiana
 sources:
@@ -164,6 +174,7 @@ updates:
   - u3
   - u4
   - u5
+  - u6
   event_date_claim: u1
   verification: source-verified
   captured_by: capture-watch
@@ -172,10 +183,10 @@ updates:
 
 
 
-Four formerly detained immigrants filed a federal lawsuit on November 23, 2026 against GEO Group, a former assistant warden and a former detention officer at the South Louisiana ICE Processing Center in Basile, Louisiana. The plaintiffs claim the for-profit group and its employees targeted primarily transgender and nonbinary immigrants at the facility; the former assistant warden coerced plaintiffs to perform hard physical labor, sex acts, or both. Plaintiffs were denied basic necessities, life-sustaining medical care, and placed in solitary confinement in retaliation for filing complaints. the former detention officer pleaded guilty to sexual abuse of a ward and was sentenced in June to three years in federal prison. SPLC, Kennedy Human Rights Center, NIJC, National Immigration Project, and ACLU of Louisiana brought the suit under the Trafficking Victims Protection Reauthorization Act in the Western District of Louisiana.
+Four formerly detained immigrants filed a federal lawsuit on November 23, 2026 against GEO Group, a former assistant warden and a former detention officer at the South Louisiana ICE Processing Center in Basile, Louisiana. The plaintiffs claim the for-profit group and its employees targeted primarily transgender and nonbinary immigrants at the facility; the former assistant warden coerced plaintiffs to perform hard physical labor, sex acts, or both. Plaintiffs were denied basic necessities, life-sustaining medical care, and placed in solitary confinement in retaliation for filing complaints. The former detention officer pleaded guilty to sexual abuse of a ward and was sentenced in June to three years in federal prison, according to SPLC. The U.S. Attorney's Office names him as David Courvelle (see the update below). SPLC, Kennedy Human Rights Center, NIJC, National Immigration Project, and ACLU of Louisiana brought the suit under the Trafficking Victims Protection Reauthorization Act in the Western District of Louisiana.
 
 Related events: [[2026-05-26--delaney-hall-newark-hunger-strike-geo-group-protests-pepper-ball-clashes-sen-andy-kim]], [[2026-11-02--geo-group-settles-aurora-detainee-forced-labor-class-action-vacating-jury-trial]], [[2026-08-20--federal-judge-blocks-colorado-health-inspection-authority-geo-aurora]]
 
 ## Update (2026-06-26, sentencing date): Docket record of the criminal case
 
-The CourtListener docket for the criminal case in the Western District of Louisiana shows the defendant was sentenced to 36 months imprisonment on 6/26/2026. The U.S. Attorney's Office, in a release reprinted by KEDM, says the defendant was a former Contract Detention Officer at the South Louisiana ICE Processing Center and entered a plea on December 29, 2025. The release says the investigation was conducted by the Department of Homeland Security Office of Inspector General.
+The CourtListener docket for the criminal case in the Western District of Louisiana shows the defendant was sentenced to 36 months imprisonment on 6/26/2026. The U.S. Attorney's Office, in a release reprinted by KEDM, says David Courvelle was a former Contract Detention Officer at the South Louisiana ICE Processing Center and entered a plea on December 29, 2025. The release says the investigation was conducted by the Department of Homeland Security Office of Inspector General.
