@@ -69,6 +69,16 @@ sources:
     publisher: PBS NewsHour / AP
     date: '2026-07-27'
     tier: 1
+  - title: A Tiny Firm Was Hired to Run ICE's Biggest Detention Facility. Here's How It All Imploded.
+    url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+    publisher: Mother Jones
+    date: '2026-11-19'
+    tier: 2
+  - title: GAO-26-108886, report to congressional requesters on Camp East Montana (June 2026)
+    url: https://files.gao.gov/reports/GAO-26-108886/index.html
+    publisher: Government Accountability Office
+    date: '2026-06-09'
+    tier: 1
 capture_lanes:
   - Military-Industrial Complex
   - Civil Rights Suppression
@@ -216,6 +226,68 @@ claims:
   read: fetched
   outcome: verified
   checked: '2026-11-16'
+- type: date
+  value: November 19, 2026
+  qualifier: November 19, 2026
+  span: 'November 19, 2026
+
+    A Tiny Firm Was Hired to Run ICE’s Biggest Detention Facility. Here’s How It All Imploded.'
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: March 12, 2026
+  qualifier: ICE awarded
+  span: On March 12, 2026, ICE awarded a new undefinitized contract to a different vendor to begin operating Camp East Montana from April 18, 2026, through the end of September 2026.
+  url: https://files.gao.gov/reports/GAO-26-108886/index.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: April 18, 2026
+  qualifier: begin operating from
+  span: On March 12, 2026, ICE awarded a new undefinitized contract to a different vendor to begin operating Camp East Montana from April 18, 2026, through the end of September 2026.
+  url: https://files.gao.gov/reports/GAO-26-108886/index.html
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: unilaterally
+  qualifier: Amentum decided to cut food intake
+  span: For one, in February, subcontractor Amentum Services “unilaterally” decided to cut detainees’ food intake below the contractual minimum of 3,000 calories a day.
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
+- type: figure
+  value: 3,000 calories a day
+  qualifier: contractual minimum
+  span: For one, in February, subcontractor Amentum Services “unilaterally” decided to cut detainees’ food intake below the contractual minimum of 3,000 calories a day.
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-25'
+- type: attribution
+  value: Freedom of Information Act
+  qualifier: records obtained in
+  span: records obtained in a Freedom of Information Act request show that ICE privately blamed its contractor for failing to stop Diaz’s death
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-25'
 corrections:
 - date: '2026-11-16'
   was: DHS terminated its $1.24 billion contract with Acquisition Logistics LLC
@@ -232,6 +304,21 @@ corrections:
   now: 49 deficiencies is ODO's February 10-12, 2026 inspection (9 of 24 standards deficient, acceptable/adequate); at least 60 standards is the Washington Post's report of a September 2025 inspection, report not located
   why: https://www.ice.gov/doclib/foia/odo-compliance-inspections/eroElPasoCampEastMontana_ElPasoTX_Feb10-12_2026.pdf ; Washington Post via https://escobar.house.gov/news/email/show.aspx?ID=2TJLUN2M3JB3FIRZOJFPX32KZE
   found_by: task-correct-canon-camp-east-montana-1-24b-ceiling-and-incumbency-claims 2026-11-16
+updates:
+- date: '2026-11-19'
+  date_kind: publication date
+  heading: Replacement contract dates and a February meal cut
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: camp-east-montana
 ---
 
 On March 11, 2026, DHS issued a notice of intent to award a sole-source contract to Amentum Services, Inc. for detention, transportation, and medical services at Camp East Montana, the largest immigration detention facility in the United States. Amentum took over operations on March 12. The no-bid contract runs through September 30, 2026 (a 180-day term); Public Citizen characterizes it as "a no-bid, sole-sourced contract of an undetermined amount" — the contracting notice did not state a ceiling value, and tier-1 reporting (AP/WTOP) does not cite one. **The federal contracting record now supplies both the amount and independent confirmation of the no-bid characterization** (verified 2026-08-28): USAspending PIID `70CDCR26C00000016`, recipient Amentum Services, Inc. (UEI QEMLRQA7PLG4), a DEFINITIVE CONTRACT with **$452,855,435.04 obligated**, period of performance 2026-03-13 to 2026-09-30. `extent_competed` = **"NOT COMPETED"**, `solicitation_procedures` = **"ONLY ONE SOURCE"**, `number_of_offers_received` = **1**, `other_than_full_and_open` = **"ONE"** (only one responsible source), `type_set_aside` = NONE, no parent IDV — i.e. this is a standalone ICE sole-source contract, **not** a WEXMAC task order. The sole-source characterization here is confirmed against the award's own record, in contrast to the WEXMAC warehouse task orders (GardaWorld, KVG), which the same audit found were competed.
@@ -282,3 +369,9 @@ The contract figure, the account of the justification and the violation counts i
 The justification posted on SAM.gov for the extension of this award does not rest on Amentum's status as a subcontractor. It says competition is limited "due to a termination of the incumbent contract", meaning Acquisition Logistics', and that because of the facility's infrastructure "only they possess the unique qualifications and immediate operational control necessary" to continue. AP, reading the same notice, reported that a different contractor would require replacing Amentum's "proprietary infrastructure".
 
 The 49 comes from a three-day February inspection by ICE's Office of Detention Oversight, which counted 49 deficiencies and gave the camp an "acceptable/adequate" rating. The 60 comes from a Washington Post report on an inspection that ended Sept. 5, which found conditions that violated at least 60 federal standards. We have not read that inspection report. El Paso Matters called the February report the first inspection released by that office for the camp. The counts come from different inspections.
+
+## Update (2026-11-19, publication date): Replacement contract dates and a February meal cut
+
+The Government Accountability Office's June 2026 report says ICE awarded a new undefinitized contract to a different vendor on March 12, 2026. The report says that contract began operations at Camp East Montana on April 18, 2026.
+
+Mother Jones, citing ICE records obtained through a Freedom of Information Act request, reports that in February Amentum Services, then a subcontractor, "unilaterally" cut detainees' food intake below the contractual minimum of 3,000 calories a day. See [[2026-11-19--mother-jones-foia-records-ice-notices-to-acquisition-logistics-cite-diaz-death-amentum-meal-cut-akima-logbook]].
