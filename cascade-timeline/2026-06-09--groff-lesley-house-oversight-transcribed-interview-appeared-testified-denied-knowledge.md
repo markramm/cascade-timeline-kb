@@ -74,6 +74,12 @@ sources:
     publisher: PBS NewsHour
     date: '2026-06-23'
     tier: 1
+corrections:
+- date: '2026-11-25'
+  was: "in the only confirmed in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle"
+  now: "in the scheduling around the October 7, 2016 lunch that Epstein's calendar lists with Peter Thiel and Vitaly Churkin. Whether that lunch took place is not established by the documents read for this entry."
+  why: "the rebuilt 2016-10-07 entry (cascade-kb 130e6abe) shows a calendar listing and a Thiel remark carried by The Independent, not a confirmed meeting"
+  found_by: "investigation-conductor tick1125 repoint task"
 ---
 
 # Lesley Groff Appears Before House Oversight, Testifies Voluntarily, Denies Knowledge of Epstein Crimes
@@ -146,7 +152,7 @@ Evidence basis:
 
 **Residual ambiguity**: A fully-redacted closed-session exchange on Thiel/Churkin cannot be ruled out by transcript scan alone. The public transcript contains no redaction indicators, but the committee could have asked about this subject in a portion not released. This is the narrower remaining gap; the three-way ambiguity (gap-in-questioning / gap-in-reporting / redaction in public text) is resolved as gap-in-questioning for the public record.
 
-Groff remains the sole living witness with documented email-level involvement (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682) in the only confirmed in-person convergence of Peter Thiel and Russia's UN Ambassador Vitaly Churkin during the 2016 election cycle — and the public record of this proceeding contains no sworn questioning on that event.
+Groff remains the sole living witness with documented email-level involvement (EFTA00317537, EFTA00317522, EFTA02040252, EFTA02329682) in the scheduling around the October 7, 2016 lunch that Epstein's calendar lists with Peter Thiel and Vitaly Churkin. Whether that lunch took place is not established by the documents read for this entry. The public record of this proceeding contains no sworn questioning on that event.
 
 ## Background
 
@@ -159,5 +165,5 @@ This is the most significant witness event in the Epstein congressional investig
 Cross-references:
 - [[groff-lesley]] (actor profile)
 - [[groff-witness-deposition-transcripts-october-2016]] (prior testimony sweep)
-- [[2016-10-07--scheduled-epstein-thiel-churkin-meeting-access-hollywood-day-two-of-three-now-dead]] (the lunch itself)
+- [[2016-10-07--epstein-calendar-lists-lunch-with-thiel-and-churkin-thiel-later-called-an-october-2016-meeting-nothing-memorable]] (the calendar entry for the lunch)
 - [[efta-groff-october-2016-churkin-thiel-correspondence-full-thread]] (documentary basis)

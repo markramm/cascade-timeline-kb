@@ -39,7 +39,7 @@ sources:
     note: "Contains FEC breakdown: $250K to Trump Victory (received early October), $1M to Make America Number 1 (received October 26)"
 ---
 
-On October 15, 2016, the New York Times first reported that Peter Thiel — PayPal co-founder, Palantir chairman, and Founders Fund managing partner — had committed $1.25 million to Donald Trump's presidential campaign. The announcement came **eight days after** Epstein's office had scheduled a lunch bringing Thiel together with Russia's UN Ambassador Vitaly Churkin at Epstein's Manhattan townhouse (see [[2016-10-07--scheduled-epstein-thiel-churkin-meeting-access-hollywood-day-two-of-three-now-dead]]).
+On October 15, 2016, the New York Times first reported that Peter Thiel — PayPal co-founder, Palantir chairman, and Founders Fund managing partner — had committed $1.25 million to Donald Trump's presidential campaign. The announcement came **eight days after** Epstein's office had scheduled a lunch bringing Thiel together with Russia's UN Ambassador Vitaly Churkin at Epstein's Manhattan townhouse (see [[2016-10-07--epstein-calendar-lists-lunch-with-thiel-and-churkin-thiel-later-called-an-october-2016-meeting-nothing-memorable]]).
 
 ## Donation Structure
 
@@ -80,6 +80,6 @@ On **October 31, 2016**, Thiel gave a full public defense of his Trump support a
 
 ## Cross-References
 
-- [[2016-10-07--scheduled-epstein-thiel-churkin-meeting-access-hollywood-day-two-of-three-now-dead]] — eight days prior; scheduled Churkin-Thiel lunch
+- [[2016-10-07--epstein-calendar-lists-lunch-with-thiel-and-churkin-thiel-later-called-an-october-2016-meeting-nothing-memorable]] — eight days prior; scheduled Churkin-Thiel lunch
 - [[2016-07-21--thiel-rnc-speech]] — prior public Trump endorsement; financial commitment followed four months later
 - [[epstein-thiel-vance-pipeline]] — 15-year arc context
