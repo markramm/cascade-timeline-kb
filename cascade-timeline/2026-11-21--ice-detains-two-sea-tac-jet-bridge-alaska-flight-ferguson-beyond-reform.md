@@ -175,6 +175,9 @@ sources:
   tier: 2
   publisher: KOMO News
   date: '2026-11-22'
+coverage:
+  - url: https://theramm.transparencycascade.org/p/the-mask-law-washington-already-has
+    title: "The Mask Law Washington Already Has"
 source_published_date: '2026-11-21'
 ---
 
