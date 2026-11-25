@@ -78,6 +78,42 @@ claims:
   url: https://www.supremecourt.gov/DocketPDF/26/26-491/429429/20261014091943719_TMA%20v.%20HHS%20Petition.pdf
   read: fetched
   source_kind: primary
+- type: date
+  value: Oct 29 2026
+  span: Oct 29 2026 Motion to extend the time to file a response is granted and the time is extended to and including December 14, 2026, for all respondents.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: December 14, 2026
+  span: Motion to extend the time to file a response is granted and the time is extended to and including December 14, 2026, for all respondents.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: Nov 13 2026
+  span: Nov 13 2026 Brief amicus curiae of The New Civil Liberties Alliance in support of neither party filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: Landmark Legal Foundation
+  span: Nov 13 2026 Brief amicus curiae of Landmark Legal Foundation filed.
+  url: https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
 tags:
 - judicial-capture
 - scotus
@@ -107,6 +143,19 @@ related_events:
 - 2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy
 - 2026-10-16--doj-moves-stay-pending-appeal-sooknanan-voter-list-maintenance-vacatur
 coverage: []
+updates:
+- date: '2026-10-29'
+  date_kind: order date
+  heading: Docket update
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: universal-vacatur
 ---
 
 The Solicitor General's petition on universal vacatur is **No. 26-491, *Department of Health and Human Services, et al. v. Texas Medical Association, et al.***. It was docketed on the Supreme Court's own docket on Oct 14 2026 (docketing and filing date). The response is due November 13, 2026 (as of the docket page read for this entry; no extension is shown).. The docket lists only the petition so far: no response, waiver, extension, distribution date or conference date.
@@ -122,3 +171,7 @@ The Solicitor General's petition on universal vacatur is **No. 26-491, *Departme
 - The SAVE database ruling, where the court ordered DHS to set aside and vacate the 2025 modifications: [[2026-06-22--sooknanan-blocks-save-voter-purge-database-unlawful]].
 
 The petition is pending. The earlier entry's page-count figure is the press's description of the filing, and this entry does not repeat it.
+
+## Update (2026-10-29, order date): Docket update
+
+The Supreme Court docket shows an order of Oct 29 2026 extending the time to file a response to and including December 14, 2026, for all respondents. The docket lists a brief amicus curiae of The New Civil Liberties Alliance in support of neither party, and a brief amicus curiae of Landmark Legal Foundation, both filed Nov 13 2026.

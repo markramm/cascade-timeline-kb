@@ -75,6 +75,51 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-25'
+- type: date
+  value: 6/26/2026
+  span: 'Count 1: Defendant sentenced to 36 months imprisonment; 3 years supervised release; $100 special assessment. Defendant to report for service of sentence at the institution designated by the Bureau of Prisons before 2:00 pm on 10/2/2026. Signed by Judge Robert R Summerhays on 6/26/2026.'
+  url: https://www.courtlistener.com/docket/72043470/united-states-v-courvelle/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-25'
+- type: figure
+  value: 36 months
+  span: 'Count 1: Defendant sentenced to 36 months imprisonment; 3 years supervised release; $100 special assessment.'
+  url: https://www.courtlistener.com/docket/72043470/united-states-v-courvelle/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: former Contract Detention Officer
+  span: a former Contract Detention Officer at the South Louisiana ICE Processing Center in Basile, Louisiana, was sentenced to three years in federal prison after his December 29, 2025, plea to one count of Sexual Abuse of a Ward.
+  url: https://www.kedm.org/kedm-news/2026-07-02/former-louisiana-detention-officer-sentenced-to-three-years-in-federal-prison-for-sexual-abuse-of-a-detainee
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: December 29, 2025
+  span: a former Contract Detention Officer at the South Louisiana ICE Processing Center in Basile, Louisiana, was sentenced to three years in federal prison after his December 29, 2025, plea to one count of Sexual Abuse of a Ward.
+  url: https://www.kedm.org/kedm-news/2026-07-02/former-louisiana-detention-officer-sentenced-to-three-years-in-federal-prison-for-sexual-abuse-of-a-detainee
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: Department of Homeland Security Office of Inspector General
+  span: The investigation was conducted by the Department of Homeland Security Office of Inspector General.
+  url: https://www.kedm.org/kedm-news/2026-07-02/former-louisiana-detention-officer-sentenced-to-three-years-in-federal-prison-for-sexual-abuse-of-a-detainee
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-25'
 tags:
 - detention
 - geo-group
@@ -99,6 +144,30 @@ sources:
   url: https://www.kplctv.com/2026/11/23/four-ice-detainees-sue-geo-group-alleging-sex-abuse-forced-labor/
   tier: 2
   publisher: Southern Poverty Law Center
+- title: Criminal case docket, Western District of Louisiana (CourtListener RECAP)
+  url: https://www.courtlistener.com/docket/72043470/united-states-v-courvelle/
+  publisher: CourtListener (RECAP)
+  date: '2026-07-09'
+  tier: 1
+- title: Former Louisiana detention officer sentenced to three years in federal prison for sexual abuse of a detainee (USAO release via KEDM)
+  url: https://www.kedm.org/kedm-news/2026-07-02/former-louisiana-detention-officer-sentenced-to-three-years-in-federal-prison-for-sexual-abuse-of-a-detainee
+  publisher: KEDM
+  date: '2026-07-02'
+  tier: 2
+updates:
+- date: '2026-06-26'
+  date_kind: sentencing date
+  heading: Docket record of the criminal case
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: geo-basile
 ---
 
 
@@ -106,3 +175,7 @@ sources:
 Four formerly detained immigrants filed a federal lawsuit on November 23, 2026 against GEO Group, a former assistant warden and a former detention officer at the South Louisiana ICE Processing Center in Basile, Louisiana. The plaintiffs claim the for-profit group and its employees targeted primarily transgender and nonbinary immigrants at the facility; the former assistant warden coerced plaintiffs to perform hard physical labor, sex acts, or both. Plaintiffs were denied basic necessities, life-sustaining medical care, and placed in solitary confinement in retaliation for filing complaints. the former detention officer pleaded guilty to sexual abuse of a ward and was sentenced in June to three years in federal prison. SPLC, Kennedy Human Rights Center, NIJC, National Immigration Project, and ACLU of Louisiana brought the suit under the Trafficking Victims Protection Reauthorization Act in the Western District of Louisiana.
 
 Related events: [[2026-05-26--delaney-hall-newark-hunger-strike-geo-group-protests-pepper-ball-clashes-sen-andy-kim]], [[2026-11-02--geo-group-settles-aurora-detainee-forced-labor-class-action-vacating-jury-trial]], [[2026-08-20--federal-judge-blocks-colorado-health-inspection-authority-geo-aurora]]
+
+## Update (2026-06-26, sentencing date): Docket record of the criminal case
+
+The CourtListener docket for the criminal case in the Western District of Louisiana shows the defendant was sentenced to 36 months imprisonment on 6/26/2026. The U.S. Attorney's Office, in a release reprinted by KEDM, says the defendant was a former Contract Detention Officer at the South Louisiana ICE Processing Center and entered a plea on December 29, 2025. The release says the investigation was conducted by the Department of Homeland Security Office of Inspector General.

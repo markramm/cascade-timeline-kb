@@ -51,6 +51,11 @@ sources:
     publisher: KUT
     date: '2026-10-21'
     tier: 2
+  - title: Austin police, Travis County turn to subpoenas to identify ICE agent who shot delivery driver (Austin American-Statesman)
+    url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+    publisher: Austin American-Statesman
+    date: '2026-11-17'
+    tier: 2
 related_events:
   - 2026-09-20--ice-agent-shoots-venezuelan-delivery-driver-austin-hsi-fbi-investigate
 coverage: []
@@ -164,6 +169,60 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: Nov 17, 2026
+  span: Nov 17, 2026 Add Us With federal investigators providing little information, Austin police and Travis County prosecutors have turned to subpoenas, search warrants and cellphone tower data to piece together the identify of the ICE agent who shot a 28-year-old Venezuelan food delivery driver on Sept. 20 in North Austin.
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: has not confirmed his identity
+  span: Yet the Department of Homeland Security has not confirmed his identity in what experts say is highly unusual in cases involving overlapping local and federal jurisdiction.
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: subpoenas, search warrants and cellphone tower data
+  span: Austin police and Travis County prosecutors have turned to subpoenas, search warrants and cellphone tower data to piece together the identify of the ICE agent
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-11-25'
+- type: date
+  value: Oct. 14
+  span: Travis County District Attorney Jose Garza declined to comment on the lack of cooperation from federal officials, but pointed to an Oct. 14 letter to U.S. Rep. Bennie Thompson, D-Miss., ranking member of the U.S. House Committee on Homeland Security.
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: has yet to benefit from the cooperation of the federal government
+  span: However, it has yet to benefit from the cooperation of the federal government.
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u17
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: not naming the agent
+  span: is not naming the agent until it can independently confirm his identity or criminal charges are filed against him
+  url: https://www.statesman.com/news/local/article/austin-ice-agent-shooting-investigation-22530624.php
+  read: fetched
+  source_kind: secondary
+  id: u18
+  outcome: verified
+  checked: '2026-11-25'
 updates:
 - date: '2026-10-27'
   date_kind: court filing date, per the Texas Tribune
@@ -190,6 +249,20 @@ updates:
   - u11
   - u12
   event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-use-of-force
+- date: '2026-11-17'
+  date_kind: publication date
+  heading: Local investigation and federal cooperation
+  claims:
+  - u13
+  - u14
+  - u15
+  - u16
+  - u17
+  - u18
+  event_date_claim: u13
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-use-of-force
@@ -238,3 +311,7 @@ The Texas Tribune reports that Wilber Rafael Garces Perez entered the not guilty
 ## Update (2026-10-21, publication date of the KUT report): KUT publishes audio from the second agent's body camera, taken from the court's recording of the hearing
 
 KUT reported that it obtained an audio recording from the traffic stop and car chase that preceded the shooting, which it says came from the body camera of the ICE agent identified in court as D.F. KUT says the court made an audio recording of the entire hearing, which it requested and obtained. KUT says the video itself “is sealed from public view” and that it describes what its reporters watched in court. On the audio, KUT says D.F. turned off his body camera soon after the exchange in which he said he had lost the location of the chase. KUT quotes D.F. telling a friend at DPS: “Hey, bro are you working? Because we’re in the middle of a pursuit right now.” This is KUT's account of the recording; the video and the court's recording were not reviewed here.
+
+## Update (2026-11-17, publication date): Local investigation and federal cooperation
+
+The Austin American-Statesman reported on Nov 17, 2026 that the Department of Homeland Security has not confirmed his identity. The Statesman says Austin police and Travis County prosecutors have turned to subpoenas, search warrants and cellphone tower data to identify the agent. Travis County District Attorney Jose Garza pointed to an Oct. 14 letter to Rep. Bennie Thompson that says APD's investigation "has yet to benefit from the cooperation of the federal government." The Statesman says it is not naming the agent until it can independently confirm his identity or criminal charges are filed against him.

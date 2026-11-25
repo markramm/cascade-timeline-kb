@@ -159,6 +159,33 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-29'
+- type: date
+  value: '2026-10-28'
+  span: '"piid":"70CDCR27D00000002","date_signed":"2026-10-28"'
+  url: https://api.usaspending.gov/api/v2/awards/363766341/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: unreachable
+  checked: '2026-11-25'
+- type: figure
+  value: '1'
+  span: '"solicitation_procedures":"NP","number_of_offers_received":"1","extent_competed":"A"'
+  url: https://api.usaspending.gov/api/v2/awards/363766341/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: FULL AND OPEN COMPETITION
+  span: '"extent_competed":"A","extent_competed_description":"FULL AND OPEN COMPETITION"'
+  url: https://api.usaspending.gov/api/v2/awards/363766341/
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: unreachable
+  checked: '2026-11-25'
 related_events:
 - 2026-08-16--tacoma-nipc-fourth-hunger-strike-congressional-inspection-ice-takeover
 - 2026-09-11--ice-turnkey-detention-solicitation-four-aors-deadline-extended
@@ -175,6 +202,23 @@ sources:
   publisher: The Seattle Times
   date: '2026-10-29'
   tier: 2
+- title: USAspending award, parent IDV of the Tacoma task order
+  url: https://api.usaspending.gov/api/v2/awards/363766341/
+  publisher: USAspending.gov (FPDS data)
+  date: '2026-11-25'
+  tier: 1
+updates:
+- date: '2026-10-28'
+  date_kind: award date
+  heading: Federal procurement record of the parent contract
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: captured
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 ---
 
 On Wednesday, Oct. 28, 2026 (award date), ICE's detention compliance and removals office signed a contract with the GEO Group worth about $1.5 billion to keep operating the 1,575-bed Northwest ICE Processing Center in Tacoma, Washington, for up to 10 years, according to federal procurement records on SAM.gov as reported by Project Salt Box. ICE received one offer. No money has been committed yet, Project Salt Box reports, because funds under this type of contract are committed through separate orders.
@@ -182,3 +226,7 @@ On Wednesday, Oct. 28, 2026 (award date), ICE's detention compliance and removal
 The award follows a sole-source agreement with GEO that ran from March 28 through Oct. 27, under which USAspending.gov shows $63.2 million obligated, and a previous 10-year contract that was worth at least $700 million. Project Salt Box assesses the new contract is highly likely to stem from ICE's August solicitation for four turnkey detention centers, but says ICE has not said whether it did. The Seattle Times, which credits Salt Box with first reporting the contract, says the notice does not make clear whether GEO will continue to own the facility, and that the terms of the contract have not been released publicly. It also reports that the August request for proposals said "If any conflicts between federal, state, or local laws or rules arise, the federal rules shall be followed"; whether the Tacoma contract carries that language is not established in either account.
 
 Earlier on the turnkey solicitation: [[2026-09-11--ice-turnkey-detention-solicitation-four-aors-deadline-extended]], [[2026-09-29--ice-turnkey-detention-rfp-auto-archived-no-award-notice]].
+
+## Update (2026-10-28, award date): Federal procurement record of the parent contract
+
+The USAspending record for the parent contract lists 1 offer received. The same record lists FULL AND OPEN COMPETITION.

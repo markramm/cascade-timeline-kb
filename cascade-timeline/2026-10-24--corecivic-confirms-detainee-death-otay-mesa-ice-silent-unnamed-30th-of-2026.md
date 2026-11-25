@@ -59,6 +59,16 @@ sources:
   publisher: U.S. Immigration and Customs Enforcement
   date: '2026-09-23'
   tier: 1
+- title: Illegal alien from Venezuela passes away in Texas after lengthy hospital stay (ICE release)
+  url: https://www.ice.gov/news/releases/illegal-alien-venezuela-passes-away-texas-after-lengthy-hospital-stay
+  publisher: U.S. Immigration and Customs Enforcement
+  date: '2026-11-02'
+  tier: 1
+- title: ICE_custody_mortality README (UCLA Law Behind Bars Data Project)
+  url: https://github.com/uclalawbehindbars/ICE_custody_mortality
+  publisher: UCLA Law Behind Bars Data Project
+  date: '2026-11-25'
+  tier: 2
 related_events:
 - 2026-07-02--dhs-buys-corecivic-otay-mesa-california-city-1-5b-oversight-shield
 - 2026-09-17--marchena-dies-winn-correctional-25th-ice-custody-death-2026
@@ -463,6 +473,33 @@ claims:
   id: u38
   outcome: verified
   checked: '2026-11-17'
+- type: date
+  value: Oct. 29, 2026
+  span: SAN ANTONIO, Texas — Fran Gregory Portillo-Zapata, a 53-year-old illegal alien from Venezuela, died Oct. 29, 2026, at North Central Baptist Hospital in San Antonio, Texas.
+  url: https://www.ice.gov/news/releases/illegal-alien-venezuela-passes-away-texas-after-lengthy-hospital-stay
+  read: fetched
+  source_kind: primary
+  id: u39
+  outcome: verified
+  checked: '2026-11-25'
+- type: posture
+  value: Karnes County Immigration Processing Center
+  span: Portillo-Zapata was detained at the Karnes County Immigration Processing Center and was admitted to the hospital on Sept. 30.
+  url: https://www.ice.gov/news/releases/illegal-alien-venezuela-passes-away-texas-after-lengthy-hospital-stay
+  read: fetched
+  source_kind: primary
+  id: u40
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: BBDP's final validated ICE Detention Deaths dataset
+  span: 'ice_deaths_validated.csv : BBDP''s final validated ICE Detention Deaths dataset.'
+  url: https://github.com/uclalawbehindbars/ICE_custody_mortality
+  read: fetched
+  source_kind: secondary
+  id: u41
+  outcome: verified
+  checked: '2026-11-25'
 verification_note: Daylight San Diego updated its article after ICE's notice and the original sentences on CoreCivic withholding the person's identity, gender and nationality and on ICE not yet having published information are gone from the live page; no Wayback snapshot of the article exists, so those two points were re-sourced to KGTV's dated text (claims c3 and c4).
 updates:
 - date: '2026-10-27'
@@ -551,6 +588,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
+- date: '2026-10-29'
+  date_kind: date of death
+  heading: ICE release on a later death
+  claims:
+  - u39
+  - u40
+  - u41
+  event_date_claim: u39
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
 approved_names:
 - Roberto Jimenez Gutierrez
 - Guillermo Pascual Verganza
@@ -602,3 +650,7 @@ ICE did not respond to the outlet's request for comment about the death.
 ## Update (2026-08-23, date of death of the newest person ICE's page lists): ICE's death page lists no death after August 23, 2026
 
 ICE's Detainee Death Reporting page lists no death after August 23, 2026. Counts for this death come from ICE's separate death notifications and from press and advocacy tallies, not from that page.
+
+## Update (2026-10-29, date of death): ICE release on a later death
+
+ICE's release says a detainee held at the Karnes County Immigration Processing Center died Oct. 29, 2026, at North Central Baptist Hospital in San Antonio, Texas. UCLA Law's Behind Bars Data Project README describes its ice_deaths_validated.csv file as "BBDP's final validated ICE Detention Deaths dataset."
