@@ -101,7 +101,9 @@ sources:
 related_events:
 - 2026-08-07--nj-ag-davenport-civil-rights-subpoenas-delaney-hall-geo-group
 - 2026-06-02--nj-sues-geo-group-delaney-hall-health-inspector-access
-coverage: []
+coverage:
+- https://www.njoag.gov/attorney-general-davenport-sues-dhs-for-failing-to-respond-to-subpoena-in-delaney-hall-civil-rights-investigation/
+- https://www.eyesonice.net/p/leaked-audio-from-delaney-hall-hunger
 summary: New Jersey Monitor reports that Attorney General Jennifer Davenport sued DHS over its failure to respond to a civil rights subpoena about Delaney Hall.
 verification_note: Sourced to the New Jersey Monitor; the complaint itself was not read and no docket number is yet identified.
 verification: source-verified
