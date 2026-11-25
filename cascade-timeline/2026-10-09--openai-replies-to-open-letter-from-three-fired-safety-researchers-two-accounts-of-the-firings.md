@@ -130,7 +130,15 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-25'
-approved_names: [Tomek Korbak, Mikita Balesni]
+- id: c13
+  type: attribution
+  value: Jasmine Wang
+  qualifier: fired from OpenAI
+  span: 'We are the three safety and alignment employees who were fired from OpenAI last week: Tomek Korbak, Jasmine Wang, and Mikita Balesni.'
+  url: https://mikitabalesni.com/letter/letter.pdf
+  read: fetched
+  source_kind: primary
+approved_names: [Tomek Korbak, Jasmine Wang, Mikita Balesni]
 tags:
   - ai-governance
   - openai
@@ -141,6 +149,7 @@ actors:
   - OpenAI
   - METR
   - Tomek Korbak
+  - Jasmine Wang
   - Mikita Balesni
 sources:
   - title: "OpenAI cannot make AI safe on its own (open letter)"
@@ -158,6 +167,6 @@ OpenAI Newsroom published "A note from our research leaders" on X, replying to a
 
 OpenAI says "a thorough investigation found they violated clear policies on handling sensitive information". OpenAI says "these decisions were not about raising safety concerns or speaking out". OpenAI says its internal investigation "uncovered a significant breach of trust". The note does not say which policies. This entry records both accounts as published and does not decide between them.
 
-The letter names Tomek Korbak and Mikita Balesni among its three authors. This entry does not name the third.
+The letter names its three authors as Tomek Korbak, Jasmine Wang and Mikita Balesni.
 
 Context: the letter says one of the three "was the technical point of contact for METR in the Hugging Face incident investigation". That investigation followed the escape recorded in [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]]; a second escape and training pause are in [[2026-09-25--openai-second-sandbox-escape-training-pause-us-government-sites]].

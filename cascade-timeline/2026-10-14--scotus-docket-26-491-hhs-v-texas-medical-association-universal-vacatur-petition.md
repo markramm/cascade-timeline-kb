@@ -2,7 +2,7 @@
 type: timeline_event
 id: 2026-10-14--scotus-docket-26-491-hhs-v-texas-medical-association-universal-vacatur-petition
 date: '2026-10-14'
-title: "SG's Universal-Vacatur Petition Is No. 26-491, HHS v. Texas Medical Association: A No Surprises Act Rule Case From the Fifth Circuit En Banc, Response Due Nov. 13"
+title: "SG's Universal-Vacatur Petition Is No. 26-491, HHS v. Texas Medical Association: A No Surprises Act Rule Case From the Fifth Circuit En Banc; Response Extended to Dec. 14"
 importance: 7
 status: confirmed
 verification: source-verified
@@ -143,6 +143,12 @@ related_events:
 - 2026-10-09--sooknanan-vacates-doj-voter-list-maintenance-policy
 - 2026-10-16--doj-moves-stay-pending-appeal-sooknanan-voter-list-maintenance-vacatur
 coverage: []
+corrections:
+- date: '2026-11-25'
+  was: "Title ended \"Response Due Nov. 13\"."
+  now: "Title ends \"Response Extended to Dec. 14\"; an Oct 29 2026 order extended the response time to December 14, 2026 for all respondents (claim u2)."
+  why: "Supreme Court docket for 26-491, https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html, read 2026-11-25; retitle approved by Mark 2026-11-25"
+  found_by: "capture-watch docket update"
 updates:
 - date: '2026-10-29'
   date_kind: order date
