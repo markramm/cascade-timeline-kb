@@ -139,6 +139,27 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-25'
+- id: c14
+  type: attribution
+  value: Geraldo Lunas Campos
+  qualifier: after Geraldo Lunas Campos died
+  span: Another subcontractor, Akima, let its guards track daily operations at the facility in a damaged logbook with missing pages—which became a problem, ICE wrote, after Geraldo Lunas Campos died.
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+- id: c15
+  type: attribution
+  value: Victor Manuel Diaz
+  qualifier: likely suicide
+  span: Victor Manuel Diaz, a 36-year-old from Nicaragua, had been found with “a ligature around his neck”—likely suicide.
+  url: https://www.motherjones.com/politics/2026/11/ice-camp-east-montana-cquisition-logistics-contractor-detainee-suicide-homicide-death-detention-conditions/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+approved_names: [Victor Manuel Diaz, Geraldo Lunas Campos]
 tags:
 - detention
 - deaths-in-custody
@@ -151,6 +172,8 @@ actors:
 - Acquisition Logistics
 - Amentum Services
 - Akima
+- Victor Manuel Diaz
+- Geraldo Lunas Campos
 - Government Accountability Office
 sources:
 - title: A Tiny Firm Was Hired to Run ICE's Biggest Detention Facility. Here's How It All Imploded.
@@ -169,9 +192,9 @@ Mother Jones, in a report by Samantha Michaels, says ICE records obtained throug
 
 Mother Jones reports that in February, subcontractor Amentum Services "unilaterally" decided to cut detainees' food intake below the contractual minimum of 3,000 calories a day. Mother Jones says ICE wrote that this resulted in "active hunger strikes" and "threats of riots."
 
-Mother Jones reports that another subcontractor, Akima, let its guards track daily operations at the facility in a damaged logbook with missing pages. Mother Jones says ICE wrote, after a detainee's January death, that "Lack of timely and complete information regarding the destruction of the logbook impeded" the Detainee Death Review panel's work.
+Mother Jones reports that another subcontractor, Akima, let its guards track daily operations at the facility in a damaged logbook with missing pages. Mother Jones says ICE wrote, after the death of Geraldo Lunas Campos, that "Lack of timely and complete information regarding the destruction of the logbook impeded" the Detainee Death Review panel's work.
 
-Mother Jones reports that ICE's notice on a separate January death, a suicide, said the facility's medical holding rooms lacked "vision panel doors." Mother Jones quotes the notice as calling the failure to fix this "a material contributing factor in the inability to prevent or timely intervene in the suicide of Mr. Diaz."
+Mother Jones reports that ICE's notice on the death of Victor Manuel Diaz, which Mother Jones describes as a suicide, said the facility's medical holding rooms lacked "vision panel doors." Mother Jones quotes the notice as calling the failure to fix this "a material contributing factor in the inability to prevent or timely intervene in the suicide of Mr. Diaz."
 
 Mother Jones writes that the records it obtained show no signs of financial sanctions.
 

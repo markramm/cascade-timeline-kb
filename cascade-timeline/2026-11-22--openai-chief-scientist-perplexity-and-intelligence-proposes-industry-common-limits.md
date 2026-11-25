@@ -48,6 +48,17 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-25'
+- id: c5
+  type: attribution
+  value: Jakub Pachocki
+  qualifier: By
+  span: By Jakub Pachocki, Chief Scientist at OpenAI
+  url: https://openai.com/index/perplexity-and-intelligence/
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+approved_names: [Jakub Pachocki]
 lane: ai-governance
 tags:
   - ai-governance
@@ -58,6 +69,7 @@ tags:
 actors:
   - OpenAI
   - Sam Altman
+  - Jakub Pachocki
 sources:
   - title: "Perplexity and Intelligence"
     url: https://openai.com/index/perplexity-and-intelligence/
@@ -71,7 +83,7 @@ sources:
     tier: 1
 ---
 
-OpenAI's chief scientist published "Perplexity and Intelligence" on November 22, 2026. In it the author writes, "I further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone." The author also writes, "I'd like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs."
+OpenAI's chief scientist, Jakub Pachocki, published "Perplexity and Intelligence" on November 22, 2026. In it the author writes, "I further propose common limits, based on perplexity and other measurements, that developers are committed to not crossing until our ability to understand and monitor AI behavior achieves a certain concrete milestone." The author also writes, "I'd like an industry standard that specifies a first limit on development, measured by some key metric we can track across labs."
 
 The proposal is for a voluntary industry standard on development. The paper does not use the word moratorium. It names no bill, agency or signatory, and it gives no value for a first limit. OpenAI CEO Sam Altman posted on X that "This is the most important thing OpenAI has published in awhile."
 
