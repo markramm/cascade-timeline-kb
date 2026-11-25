@@ -11,6 +11,9 @@ actors:
 - Pete Hegseth
 - Brett Sylvia
 - Joseph McGee
+approved_names:
+- Brett Sylvia
+- Joseph McGee
 tags:
 - military-politicization
 - general-officer-purge

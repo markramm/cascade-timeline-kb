@@ -10,6 +10,8 @@ date_is_publication_date: true
 actors:
 - Pete Hegseth
 - Christopher Donahue
+approved_names:
+- Christopher Donahue
 tags:
 - military-politicization
 - general-officer-purge
