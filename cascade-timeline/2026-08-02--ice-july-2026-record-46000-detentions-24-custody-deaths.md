@@ -38,6 +38,11 @@ sources:
     publisher: U.S. Immigration and Customs Enforcement
     date: '2026-09-23'
     tier: 1
+  - title: ICE Detainee Death Reporting page (Wayback 2026-11-01)
+    url: http://web.archive.org/web/20261101045132/https://www.ice.gov/detain/detainee-death-reporting
+    publisher: U.S. Immigration and Customs Enforcement
+    date: '2026-09-23'
+    tier: 1
 coverage:
   - path: daily-capture-reports/headline/2026-07-31--ice-july-2026-record-arrests-49571.md
     note: "NPR (Aug 26) reports 49,571 July arrests from Deportation Data Project data (c1), against June 43,021 (c3), a third July arrest count beside the 46,000 and 51,000 recorded here; unresolved. Dropped as duplicate 2026-10-01."
@@ -97,6 +102,24 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-17'
+- type: date
+  value: August 23, 2026
+  span: August 23, 2026 Wei, Lianyong August 1, 2026 Lopez Cornejo, Edwin
+  url: http://web.archive.org/web/20261101045132/https://www.ice.gov/detain/detainee-death-reporting
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-25'
+- read: fetched
+  source_kind: primary
+  url: http://web.archive.org/web/20261101045132/https://www.ice.gov/detain/detainee-death-reporting
+  type: date
+  value: August 1, 2026
+  span: August 1, 2026 Lopez Cornejo, Edwin
+  id: u8
+  outcome: verified
+  checked: '2026-11-25'
 updates:
 - date: '2026-09-11'
   date_kind: publication date (NBC News report)
@@ -117,6 +140,16 @@ updates:
   claims:
   - u6
   event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-custody-deaths
+- date: '2026-08-23'
+  date_kind: date of death of the newest person ICE's page lists
+  heading: 'Correction note: the headline''s death count is a tracker figure, not ICE''s own list'
+  claims:
+  - u7
+  - u8
+  event_date_claim: u7
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-custody-deaths
@@ -141,3 +174,7 @@ NBC News reported, citing DHS, that ICE officers and agents arrested a record-br
 ## Update (2026-08-23, date of death of the newest person ICE's page lists): ICE's death page, which lists deaths by date, has no death after August 23, 2026
 
 ICE's Detainee Death Reporting page lists no death after August 23, 2026. The page gives no total; the headline's count is a tracker count that the page does not state.
+
+## Update (2026-08-23, date of death of the newest person ICE's page lists): Correction note: the headline's death count is a tracker figure, not ICE's own list
+
+ICE's Detainee Death Reporting page lists a death on August 1, 2026 as its newest 2026 entry before one dated August 23, 2026, so ICE's own list held one fewer death than this headline's tracker count at the date of this entry. Basis for any count here is calendar 2026, by date of death, as ICE lists it.
