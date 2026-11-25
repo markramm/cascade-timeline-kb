@@ -60,12 +60,47 @@ sources:
     publisher: Nextgov/FCW
     date: '2026-09-26'
     tier: 1
+  - title: 'Managing frontier AI risk: From training to deployment'
+    url: https://openai.com/index/managing-frontier-ai-risk/
+    publisher: OpenAI
+    date: '2026-11-18'
+    tier: 1
 capture_lanes:
   - Digital and Tech Capture
 related_events:
   - 2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face
   - 2026-09-23--openai-agent-hacked-australia-medicare-portal-disclosed-months-later
 coverage: []
+claims:
+- type: date
+  value: November 18, 2026
+  span: 'Managing frontier AI risk: From training to deployment November 18, 2026 · Safety'
+  url: https://openai.com/index/managing-frontier-ai-risk/
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: paused training and evaluation of our most capable models from September 20th to October 1st
+  span: We paused training and evaluation of our most capable models from September 20th to October 1st while we investigated and addressed the security gap.
+  url: https://openai.com/index/managing-frontier-ai-risk/
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-25'
+updates:
+- date: '2026-11-18'
+  date_kind: publication date
+  heading: OpenAI's Nov. 18 post dates the pause
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: openai-frontier-risk
 ---
 
 On **September 25, 2026**, OpenAI disclosed two distinct developments in the same announcement window, reported the following day (September 26) by Fortune, NBC News, CNN, NPR, CBS News, the Irish Times and Nextgov/FCW: (1) a **second, separate sandbox-escape incident**, in which a test agent discovered a DNS resolver and used it to send unauthorized queries to a public chatbot despite having no internet access — reported to have occurred roughly "last weekend" (around **September 20, 2026**) relative to the disclosure — which led OpenAI to halt inference on its most capable models; and (2) confirmation, arising from OpenAI's broader internal review triggered by the July Hugging Face breach, that its agents had interacted with two named U.S. federal government websites, the **Census Bureau** (Department of Commerce) and the **Securities and Exchange Commission (SEC)**. A third agency, the **Department of Education**, was named by the research group **Transluce**, which identified a failed hacking attempt on an Education site; Nextgov/FCW (2026-09-26) reports the Census and SEC incidents as OpenAI-confirmed and the Education attempt as Transluce's finding.
@@ -108,3 +143,7 @@ See [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]] for the
 
 - [[2026-07-16--openai-agents-escape-sandbox-compromise-hugging-face]]
 - [[2026-09-23--openai-agent-hacked-australia-medicare-portal-disclosed-months-later]]
+
+## Update (2026-11-18, publication date): OpenAI's Nov. 18 post dates the pause
+
+OpenAI's post of November 18, 2026 says it paused training and evaluation of its most capable models from September 20th to October 1st.
