@@ -188,6 +188,26 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-10-21'
+- type: date
+  value: Nov 25, 2026
+  qualifier: ET
+  span: Nov 25, 2026 7:22PM ET
+  url: https://www.rawstory.com/unusual-us-govt-website-detected-in-russian-campaign-ahead-of-russ-vought-rollout/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-26'
+- type: date
+  value: at the end of October
+  qualifier: left
+  span: Coristine left his job at the White House's National Design Studio at the end of October, he announced on X at the time.
+  url: https://www.rawstory.com/unusual-us-govt-website-detected-in-russian-campaign-ahead-of-russ-vought-rollout/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-26'
 tags:
 - america-gov
 - national-design-studio
@@ -238,9 +258,25 @@ sources:
   publisher: CNBC Television
   date: '2026-09-29'
   tier: 2
+- title: Unusual US govt website detected in Russian campaign ahead of Russ Vought rollout
+  url: https://www.rawstory.com/unusual-us-govt-website-detected-in-russian-campaign-ahead-of-russ-vought-rollout/
+  publisher: Raw Story
+  date: '2026-11-25'
+  tier: 2
 coverage:
   - url: https://theramm.transparencycascade.org/p/the-trump-administration-will-pay
     title: "The Trump Administration Will Pay Up to $30,000 for a Fraud Tip About Your Neighbor"
+updates:
+- date: '2026-11-25'
+  date_kind: Raw Story publication date
+  heading: Raw Story reports Coristine left the National Design Studio at the end of October
+  claims:
+  - u1
+  - u2
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: coristine-nds
 ---
 
 **Date kind.** Sept. 29 is the event date and the site's go-live date: Fox News says America.gov "launched Sept. 29" and the White House fact sheet of that day says the President launched it. The orders signed that day were published in the Federal Register later (see the linked order entries).
@@ -262,3 +298,9 @@ coverage:
 **Update, added after the original entry: Gebbia names the AI vendors on camera.** CNBC reports that the America.gov chatbot "powered by artificial intelligence from Google's Gemini and Elon Musk's Grok", citing Gebbia, who told CNBC's Squawk Box "We have great partners behind the scenes". The English auto-generated caption of that CNBC Television interview (YouTube), at roughly 0:25, carries the words Gemini and Grok are both powering America.gov, as caption text only; the caption is machine-generated and the saved caption file is held in the research record. The CNBC article is the written corroboration. Vendor-by-vendor detail is outside this entry.
 
 **Update, added after the original entry: conflict-of-interest posture.** CNBC places Gebbia's studio role next to a Tesla board seat: "Gebbia sits on the board of directors of Tesla, which is led by Musk, owns a piece of SpaceXAI and uses Grok in its vehicles." CNBC also writes that xAI "which was acquired by SpaceX and renamed SpaceXAI" did not respond to its request for comment. Those ownership statements are CNBC's and are not independently verified here. The studio was created within the White House Office of the Executive Office of the President by [[2025-08-21--eo-14338-creates-nds-ndstudio-gov-pre-registered-day-prior]]. Gebbia's federal employment classification is not documented in the public record, and no public or confidential financial disclosure has been located, so this entry draws no conclusion that a legal conflict exists. His arrival at DOGE is at [[2025-02-13--nyt-reports-joe-gebbia-joining-doge-gebbia-confirms-opm-retirement-process-project-volunteering]].
+
+## Update (2026-11-25, Raw Story publication date): Raw Story reports Coristine left the National Design Studio at the end of October
+
+Raw Story reports that Coristine left his job at the White House's National Design Studio at the end of October, and that he announced it on X at the time.
+
+The lead-engineer title Trump gave him at the launch event is therefore a past title in Raw Story's account. We did not read the X post itself.

@@ -30,6 +30,11 @@ sources:
   publisher: U.S. Department of Energy
   date: '2026-02-12'
   tier: 1
+- title: 'FACT SHEET: The Energy Department is Delivering on President Trump''s Genesis Mission'
+  url: https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission
+  publisher: U.S. Department of Energy
+  date: '2026-11-24'
+  tier: 1
 status: reported
 event_date_claim: c1
 claims:
@@ -111,6 +116,36 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-18'
+- type: date
+  value: November 24, 2026
+  qualifier: one-year anniversary
+  span: On Tuesday, November 24, 2026, the Energy Department marks the one-year anniversary of President Trump's historic Genesis Mission
+  url: https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-26'
+- type: figure
+  value: 20 federal agencies
+  qualifier: had joined by July 2026
+  span: By July 2026, 20 federal agencies had joined the Genesis Mission to strengthen government-wide collaboration on national science and technology priorities.
+  url: https://www.energy.gov/articles/fact-sheet-energy-department-delivering-president-trumps-genesis-mission
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-26'
+- type: figure
+  value: More than 15 Federal agencies
+  qualifier: will contribute
+  span: More than 15 Federal agencies will contribute research awards, funding opportunities, specialized scientific datasets, and research facilities to the National Science and Technology Challenges.
+  url: https://www.whitehouse.gov/releases/2026/07/45502/
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-26'
 updates:
 - date: '2026-07-22'
   date_kind: announcement date
@@ -123,6 +158,17 @@ updates:
   - u5
   - u6
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: genesis-mission
+- date: '2026-11-24'
+  date_kind: fact sheet date
+  heading: DOE's one-year fact sheet counts 20 federal agencies for the same period
+  claims:
+  - u7
+  - u8
+  - u9
+  event_date_claim: u7
   verification: source-verified
   captured_by: capture-watch
   cluster: genesis-mission
@@ -153,3 +199,9 @@ The pediatric cancer challenge names "electronic patient and family health recor
 The veterans challenge names "VA’s vast electronic health record data (EHR)" and genomic data from the Million Veteran Program.
 
 The research note [[genesis-26-challenges-data-table]] compares the February and July lists.
+
+## Update (2026-11-24, fact sheet date): DOE's one-year fact sheet counts 20 federal agencies for the same period
+
+DOE's one-year Genesis Mission fact sheet says that by July 2026, 20 federal agencies had joined the mission.
+
+The White House release this entry records says more than 15 federal agencies will contribute to the challenges. The documents give different counts, and neither reconciles them.
