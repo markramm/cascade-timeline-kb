@@ -137,6 +137,42 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-11-02'
+- type: date
+  value: on Friday
+  span: A federal judge on Friday declined to issue a long-term ban on the Trump administration’s controversial taxpayer-funded political advertisements, leaving their future in the hands of a different judge who is overseeing a similar case.
+  url: https://apnews.com/article/trump-ad-taxpayer-funded-politics-midterms-judge-422486bbd1d7be2586f28b3374322531
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: declined to issue a long-term ban
+  span: A federal judge on Friday declined to issue a long-term ban on the Trump administration’s controversial taxpayer-funded political advertisements, leaving their future in the hands of a different judge who is overseeing a similar case.
+  url: https://apnews.com/article/trump-ad-taxpayer-funded-politics-midterms-judge-422486bbd1d7be2586f28b3374322531
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: imminent and irreparable harm
+  span: U.S. District Judge Jennifer L. Rochon in New York argued that the suing coalition, which includes the government watchdog group Common Cause, didn’t convincingly prove the ads were still causing them “imminent and irreparable harm” now that November’s midterm elections are over.
+  url: https://apnews.com/article/trump-ad-taxpayer-funded-politics-midterms-judge-422486bbd1d7be2586f28b3374322531
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: Those elections have now passed
+  span: “The urgency of the earlier requests for temporary injunctive relief in this case centered around the November 3, 2026, midterm and state elections,” Rochon wrote in a court filing. “Those elections have now passed.”
+  url: https://apnews.com/article/trump-ad-taxpayer-funded-politics-midterms-judge-422486bbd1d7be2586f28b3374322531
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-25'
 sources:
   - title: "Order (TRO and Section 705 stay), Common Cause v. Department of Homeland Security, No. 1:26-cv-08882 (JLR) (S.D.N.Y.), ECF 41"
     url: https://storage.courtlistener.com/recap/gov.uscourts.nysd.674638/gov.uscourts.nysd.674638.41.0.pdf
@@ -157,6 +193,11 @@ sources:
     url: https://www.inquirer.com/politics/nation/judge-blocks-trump-ads-20261012.html
     publisher: Philadelphia Inquirer
     date: '2026-10-12'
+    tier: 2
+  - title: Judge declines long-term ban on Trump’s taxpayer-funded ads that aired during the midterm elections
+    url: https://apnews.com/article/trump-ad-taxpayer-funded-politics-midterms-judge-422486bbd1d7be2586f28b3374322531
+    publisher: Associated Press
+    date: '2026-11-20'
     tier: 2
 tags:
   - election-2026
@@ -187,6 +228,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: guardrails
+- date: '2026-11-20'
+  date_kind: date of the ruling, per AP
+  heading: AP reports Rochon declined a long-term ban on the ads
+  claims:
+  - u4
+  - u5
+  - u6
+  - u7
+  event_date_claim: u4
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: taxpayer-funded-ads
 ---
 
 Judge Jennifer L. Rochon's order in *Common Cause v. Department of Homeland Security* (S.D.N.Y.) is stamped Filed 10/11/26 (order filing date). Granting a temporary restraining order and a stay under the Administrative Procedure Act, it stays the purchase order entered into on or about September 20, 2026 (purchase order date) between Customs and Border Protection and LMD Agency, and stays OMB's apportionment of $20 million for the advertisements that purchase order covers.
@@ -212,3 +265,7 @@ Trump posted on Oct. 5 (post date, per CNN) that "I have decided to do the Patri
 ## Update (2026-10-12, publication date of the report): Two ads reported on air after the court's deadline
 
 The Washington Post "reported Monday that two of the ads aired numerous times after the deadline passed at 6:45 p.m. Eastern time Sunday," citing AdImpact data, in the account carried by the Inquirer. White House officials said the MAGA Inc. plan would apply only "moving forward" and that Trump would not reimburse taxpayers for what had already been spent.
+
+## Update (2026-11-20, date of the ruling, per AP): AP reports Rochon declined a long-term ban on the ads
+
+The Associated Press reports that Judge Rochon declined to issue a long-term ban on the administration's political advertisements. AP quotes Rochon as writing in a court filing, "Those elections have now passed." AP reports she argued that the plaintiffs, including Common Cause, did not convincingly prove the ads were still causing "imminent and irreparable harm".
