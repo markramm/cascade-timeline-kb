@@ -94,6 +94,60 @@ claims:
   speaker: JD Vance
   outcome: verified
   checked: '2026-11-25'
+- type: date
+  value: Nov. 24, 2026
+  span: This story published first on CBS News at 4:57 p.m. on Nov. 24, 2026.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-26'
+- type: attribution
+  value: still holds a security clearance
+  span: Nvidia CEO Jensen Huang still holds a security clearance, multiple sources familiar with the matter told CBS News.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-26'
+- type: attribution
+  value: multiple sources familiar with the matter
+  span: Nvidia CEO Jensen Huang still holds a security clearance, multiple sources familiar with the matter told CBS News.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-26'
+- type: posture
+  value: Revoking Huang's clearance was discussed
+  span: Revoking Huang's clearance was discussed, sources said.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-26'
+- type: date
+  value: Tuesday
+  span: Earlier Tuesday, Attorney General Todd Blanche told reporters he wasn't sure whether Huang still held a security clearance.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-26'
+- type: attribution
+  value: he wasn't sure whether Huang still held a security clearance
+  span: Earlier Tuesday, Attorney General Todd Blanche told reporters he wasn't sure whether Huang still held a security clearance.
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-26'
 tags:
 - nvidia
 - doj
@@ -111,6 +165,26 @@ sources:
   publisher: Reuters (via Yahoo Finance UK)
   date: '2026-11-25'
   tier: 2
+- title: Nvidia's Jensen Huang still has security clearance, sources say
+  url: https://www.cbsnews.com/colorado/news/nvidia-jensen-huang-security-clearance-todd-blanche/
+  publisher: CBS News
+  date: '2026-11-24'
+  tier: 2
+updates:
+- date: '2026-11-24'
+  date_kind: publication
+  heading: CBS News reports Huang still holds a security clearance
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
 ---
 
 Reuters reported on November 25 that the Justice Department did not conduct a formal investigation into Jensen Huang before President Trump pushed for his return as Nvidia chief executive, according to three people familiar with the matter. Reuters's sources said Attorney General Todd Blanche's conclusion that there was no evidence Huang had broken any laws rested on the department's ongoing investigations into two Nvidia clients. Reuters said that determination is "subject to change as the probes continue."
@@ -118,3 +192,9 @@ Reuters reported on November 25 that the Justice Department did not conduct a fo
 Reuters's sources said Nvidia was not a target of those investigations and cooperated. They said there was also no counterintelligence probe of Huang himself. Reuters reported that Blanche "repeatedly declined to answer questions" about how the administration determined Huang was not a national security threat, at a press conference on Tuesday. Reuters quoted Vice President Vance saying "We were told that he was under no investigation."
 
 Related events: [[2026-11-09--nbc-justice-dept-asked-commerce-pause-nvidia-customer-chip-probe-after-nvidia-outreach]], [[2026-11-23--nvidia-board-reinstates-jensen-huang-ceo-after-trump-says-he-convinced-board]], [[2026-11-23--commerce-adds-megaspeed-and-six-affiliates-to-entity-list-effective-nov-23]]
+
+## Update (2026-11-24, publication): CBS News reports Huang still holds a security clearance
+
+CBS News reported on November 24 that Nvidia CEO Jensen Huang still holds a security clearance, according to multiple sources familiar with the matter. CBS said revoking Huang's clearance was discussed, according to sources.
+
+CBS reported that earlier that Tuesday, Attorney General Todd Blanche told reporters he was not sure whether Huang still held a security clearance.
