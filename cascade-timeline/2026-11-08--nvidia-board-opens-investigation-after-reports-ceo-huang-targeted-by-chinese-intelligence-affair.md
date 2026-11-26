@@ -129,11 +129,48 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-11'
+- type: date
+  value: Nov 7, 2026
+  span: Nov 7, 2026 WASHINGTON – A memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businessperson who had a close relationship with Nvidia’s CEO was a spy for China’s Ministry of State Security, according to people briefed on the intelligence.
+  url: https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-26'
+- type: quote
+  value: A memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businessperson who had a close relationship with Nvidia’s CEO was a spy for China’s Ministry of State Security, according to people briefed on the intelligence.
+  span: A memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businessperson who had a close relationship with Nvidia’s CEO was a spy for China’s Ministry of State Security, according to people briefed on the intelligence.
+  url: https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-26'
+- type: quote
+  value: officials at the CIA also are not yet convinced that the intelligence collection on Huang to date, including intercepted communications, proves she was knowingly funneling information back to Beijing, a source told CNN.
+  span: And officials at the CIA also are not yet convinced that the intelligence collection on Huang to date, including intercepted communications, proves she was knowingly funneling information back to Beijing, a source told CNN.
+  url: https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-26'
 sources:
 - title: Nvidia opens investigation after CEO Jensen Huang's affair with alleged Chinese spy (NBC News)
   url: https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148
   publisher: NBC News
   date: '2026-11-08'
+  tier: 2
+- title: China's top spy agency recruited woman who targeted Nvidia's Jensen Huang (The New York Times, republished by The Japan Times)
+  url: https://www.japantimes.co.jp/news/2026/11/07/asia-pacific/china-nvidia-jensen-huang-spy/
+  publisher: The Japan Times (New York Times syndication)
+  date: '2026-11-07'
+  tier: 2
+- title: CNN, Nov. 12, 2026, on U.S. intelligence and the Alice Huang claim
+  url: https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia
+  publisher: CNN
+  date: '2026-11-12'
   tier: 2
 tags:
 - nvidia
@@ -149,6 +186,18 @@ actors:
 - Donald Trump
 summary: Nvidia's board opened an independent investigation in light of reporting that CEO Jensen Huang had been the target of a foreign intelligence effort, after the New York Times and Financial Times reported his relationship with Alice Huang, a Chinese businesswoman whose Singapore-based company bought Nvidia's advanced chips and who the papers said had been recruited to spy for China. Huang told staff he had been unfaithful to his wife. The board said it had no reason to believe national security or Nvidia secrets were compromised; China called the allegation unsubstantiated; Trump called Huang "an honorable guy." Nvidia shares fell more than 4%.
 verification: source-verified
+updates:
+- date: '2026-11-07'
+  date_kind: publication date
+  heading: Reporting by the Times and CNN
+  claims:
+  - u1
+  - u2
+  - u3
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: nvidia-huang-spy-claim
 ---
 
 Nvidia's board said it "is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort," overseen by independent directors with outside counsel ([NBC News](https://www.nbcnews.com/tech/tech-news/nvidia-ceo-jensen-huang-investigation-rcna608148)). The announcement followed New York Times and Financial Times reporting on Huang's relationship with Alice Huang, a Chinese businesswoman whose Singapore-based company was buying Nvidia's advanced chips and who the newspapers reported had been recruited to spy for China. A person familiar with the matter told NBC that U.S. intelligence agencies had determined she was a Chinese spy. That is an anonymous-source account; no charge has been filed.
@@ -156,3 +205,7 @@ Nvidia's board said it "is initiating an independent investigation in light of r
 In a memo to employees, Jensen Huang wrote: "I was unfaithful to my wife. My actions hurt her and our children. There is no excuse for what I did." The board said it "has no reason to believe that either national security or NVIDIA secrets were compromised" and that U.S. national and economic security "is paramount." Chinese Foreign Ministry spokesperson Guo Jiakun said "the so-called Chinese spy allegation is unsubstantiated." A congressional letter to Nvidia said "It is vital that Congress determines the extent to which U.S. national security has been placed at risk." Trump said "I think he's an honorable guy." Nvidia shares fell more than 4%, erasing almost $200 billion in value.
 
 Context: an earlier entry records Huang calling Nvidia's ties to the company "normal" after an executive was reported under U.S. scrutiny ([[2026-10-29--nvidia-huang-megaspeed-ties-normal-after-report-executive-under-us-scrutiny-china]]); chip-export policy to China is in [[2026-01-15--bis-rule-eases-h200-mi325x-ai-chip-exports-to-china-25-percent-surcharge]].
+
+## Update (2026-11-07, publication date): Reporting by the Times and CNN
+
+The New York Times reported, in a story the Japan Times republished, that "A memo that circulated among top policymakers in the Trump administration last spring cited intelligence that a Chinese businessperson who had a close relationship with Nvidia’s CEO was a spy for China’s Ministry of State Security, according to people briefed on the intelligence." CNN reported that "officials at the CIA also are not yet convinced that the intelligence collection on Huang to date, including intercepted communications, proves she was knowingly funneling information back to Beijing, a source told CNN."

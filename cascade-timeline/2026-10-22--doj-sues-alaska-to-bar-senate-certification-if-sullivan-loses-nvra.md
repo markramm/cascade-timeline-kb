@@ -1858,6 +1858,42 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-22'
+- type: date
+  value: November 19, 2026
+  span: 'Dated: November 19, 2026 Respectfully submitted,'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.39.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u194
+  outcome: verified
+  checked: '2026-11-26'
+- type: quote
+  value: the case is now moot
+  span: However, as explained below, the case is now moot.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.39.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u195
+  outcome: verified
+  checked: '2026-11-26'
+- type: quote
+  value: vacate the underlying order, and remand for dismissal on that ground
+  span: For the foregoing reasons, this Court should hold that this case is moot, vacate the underlying order, and remand for dismissal on that ground.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.39.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u196
+  outcome: verified
+  checked: '2026-11-26'
+- type: attribution
+  value: deny Movants’ requests for summary affirmance and sanctions
+  span: In all events, this Court should deny Movants’ requests for summary affirmance and sanctions.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.39.0.pdf
+  read: fetched
+  source_kind: primary
+  id: u197
+  outcome: verified
+  checked: '2026-11-26'
 tags:
   - election-2026
   - certification
@@ -2084,6 +2120,11 @@ sources:
     date: '2026-11-19'
     url: https://abcnews.com/Politics/doj-dropping-alaska-midterms-senate-certification-lawsuit-case/story?id=138307517
     tier: 2
+  - title: United States v. Alaska, No. 26-7304 (9th Cir.), DktEntry 39, Brief for the United States in Opposition to Motion for Summary Affirmance
+    url: https://storage.courtlistener.com/recap/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5/gov.uscourts.ca9.8a0b432c-0e24-4384-bbb1-a17023532ab5.39.0.pdf
+    publisher: 9th Cir. via CourtListener RECAP
+    date: '2026-11-19'
+    tier: 1
 coverage:
 - url: https://theramm.transparencycascade.org/p/dojs-lawyer-said-its-fair-to-say
   title: "The Supreme Court Rejected DOJ's Bid to Set Aside California Ballots. DOJ's Own Lawyer Said It's 'Fair' to Say the List Has a High Error Rate."
@@ -2511,6 +2552,18 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: certification
+- date: '2026-11-19'
+  date_kind: filing
+  heading: US tells Ninth Circuit the case is moot and asks for Munsingwear vacatur
+  claims:
+  - u194
+  - u195
+  - u196
+  - u197
+  event_date_claim: u194
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: doj-v-alaska-certification
 approved_names:
   - Daniel Sullivan
 ---
@@ -2634,3 +2687,7 @@ On November 13, 2026, amicus briefs were filed in the Ninth Circuit appeal in su
 ## Update (2026-11-19, filing): DOJ tells the Ninth Circuit the case is moot and asks it to vacate the dismissal
 
 In a Thursday filing signed by Stanley Woodward, DOJ's third-ranked official, the Justice Department told the Ninth Circuit that its lawsuit had become "moot." It asked the court to deny the motion to summarily affirm and instead to "vacate the district court's order dismissing this lawsuit, because the case has become moot." The filing said the United States "reluctantly acknowledges" that there is no longer any means of determining whether votes cast for Daniel J. Sullivan were meant for Senator Sullivan. ABC News reported that the AP had projected Peltola the winner on Tuesday.
+
+## Update (2026-11-19, filing): US tells Ninth Circuit the case is moot and asks for Munsingwear vacatur
+
+The United States wrote on November 19, 2026 that "the case is now moot." It asks the court to "vacate the underlying order, and remand for dismissal on that ground." It also asks the court to deny the appellees' requests for summary affirmance and sanctions.

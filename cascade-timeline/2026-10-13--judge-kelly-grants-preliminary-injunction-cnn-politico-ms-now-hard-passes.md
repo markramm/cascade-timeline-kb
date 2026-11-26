@@ -35,6 +35,11 @@ sources:
     publisher: D.D.C. via CourtListener RECAP
     date: '2026-10-28'
     tier: 1
+  - title: CNN v. Trump, ECF 61, Reply in Support of Plaintiffs' Motion for a Further Preliminary Injunction
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.61.0.pdf
+    publisher: D.D.C. via CourtListener RECAP
+    date: '2026-11-25'
+    tier: 1
 related_events:
   - 2026-09-24--judge-kelly-grants-tro-cnn-politico-msnow-press-passes
   - 2026-10-08--judge-kelly-extends-tro-press-ban-pi-hearing-cnn-ms-now-politico
@@ -61,6 +66,33 @@ claims:
     id: u2
     outcome: verified
     checked: '2026-11-01'
+  - type: date
+    value: 11/25/26
+    span: Case 1:26-cv-03287-TJK Document 61 Filed 11/25/26
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.61.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u3
+    outcome: verified
+    checked: '2026-11-26'
+  - type: quote
+    value: to hold the motion in abeyance pending a decision from the merits panel in Associated Press
+    span: This Court also should reject Defendants’ invitation (at 30) to hold the motion in abeyance pending a decision from the merits panel in Associated Press.
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.61.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u4
+    outcome: verified
+    checked: '2026-11-26'
+  - type: quote
+    value: Holding a request for emergency relief in abeyance would be a constructive denial of the motion
+    span: Holding a request for emergency relief in abeyance would be a constructive denial of the motion with “‘the practical effect of refusing an injunction.’”
+    url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.296754/gov.uscourts.dcd.296754.61.0.pdf
+    read: fetched
+    source_kind: primary
+    id: u5
+    outcome: verified
+    checked: '2026-11-26'
 event_date_claim: c1
 coverage:
   - url: https://theramm.transparencycascade.org/p/doj-defended-the-cnn-ban-in-court
@@ -76,6 +108,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: press-access-cnn-v-trump
+- date: '2026-11-25'
+  date_kind: filing date
+  heading: Plaintiffs reply and oppose abeyance
+  claims:
+  - u3
+  - u4
+  - u5
+  event_date_claim: u3
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: press-access-cnn-v-trump
 ---
 
 On **October 13, 2026**, Judge Timothy J. Kelly granted the preliminary injunction in *Cable News Network, Inc. v. Trump*, No. 1:26-cv-03287 (D.D.C.). The order bars defendants other than President Trump from executing, implementing or enforcing the September 18 decision to revoke the hard passes of CNN, MS NOW and POLITICO employees, which keeps in place the status quo set by the September 24 TRO. Plaintiffs post a $1.00 bond by October 19.
@@ -87,3 +130,7 @@ Defendants asked in two sentences for a stay pending appeal; the court denied it
 ## Update (2026-10-28, filing date): Amended complaint filed
 
 The plaintiffs filed an amended complaint on 10/28/26. It alleges that the defendants "have continued to bar Plaintiffs from specific White House press areas".
+
+## Update (2026-11-25, filing date): Plaintiffs reply and oppose abeyance
+
+The plaintiffs filed a reply in support of their motion for a further preliminary injunction on 11/25/26. The reply asks the court to reject the defendants' invitation "to hold the motion in abeyance pending a decision from the merits panel in Associated Press." The plaintiffs write that "Holding a request for emergency relief in abeyance would be a constructive denial of the motion."
