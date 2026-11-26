@@ -128,6 +128,36 @@ claims:
   read: fetched
   source_kind: secondary
   id: u6
+- type: date
+  value: March 17-19, 2026
+  qualifier: Inspection
+  span: South Louisiana Detention Center Inspection 2026-001-100 March 17-19, 2026
+  url: https://www.ice.gov/doclib/foia/odo-compliance-inspections/SouthLouisianaDetCntr_BasileLA_Mar17-19_2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-25'
+- type: figure
+  value: 2026-001-100
+  qualifier: Inspection
+  span: South Louisiana Detention Center Inspection 2026-001-100 March 17-19, 2026
+  url: https://www.ice.gov/doclib/foia/odo-compliance-inspections/SouthLouisianaDetCntr_BasileLA_Mar17-19_2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-25'
+- type: attribution
+  value: Office of Professional Responsibility
+  qualifier: Office
+  span: Unclassified Office of Professional Responsibility South Louisiana Detention Center Inspection 2026-001-100
+  url: https://www.ice.gov/doclib/foia/odo-compliance-inspections/SouthLouisianaDetCntr_BasileLA_Mar17-19_2026.pdf
+  read: fetched
+  source_kind: primary
+  id: u9
+  outcome: verified
+  checked: '2026-11-25'
 approved_names: [David Courvelle]
 tags:
 - detention
@@ -164,6 +194,11 @@ sources:
   publisher: KEDM
   date: '2026-07-02'
   tier: 2
+- title: ICE ODO inspection report, South Louisiana Detention Center, Mar. 17-19, 2026 (text layer)
+  url: https://www.ice.gov/doclib/foia/odo-compliance-inspections/SouthLouisianaDetCntr_BasileLA_Mar17-19_2026.pdf
+  publisher: U.S. Immigration and Customs Enforcement
+  date: '2026-03-19'
+  tier: 1
 updates:
 - date: '2026-06-26'
   date_kind: sentencing date
@@ -179,6 +214,17 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: geo-basile
+- date: '2026-03-17'
+  date_kind: inspection start date
+  heading: ICE inspection report on the facility
+  claims:
+  - u7
+  - u8
+  - u9
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: geo-basile
 ---
 
 
@@ -190,3 +236,7 @@ Related events: [[2026-05-26--delaney-hall-newark-hunger-strike-geo-group-protes
 ## Update (2026-06-26, sentencing date): Docket record of the criminal case
 
 The CourtListener docket for the criminal case in the Western District of Louisiana shows the defendant was sentenced to 36 months imprisonment on 6/26/2026. The U.S. Attorney's Office, in a release reprinted by KEDM, says David Courvelle was a former Contract Detention Officer at the South Louisiana ICE Processing Center and entered a plea on December 29, 2025. The release says the investigation was conducted by the Department of Homeland Security Office of Inspector General.
+
+## Update (2026-03-17, inspection start date): ICE inspection report on the facility
+
+ICE's Office of Professional Responsibility published Inspection 2026-001-100 of the South Louisiana Detention Center, dated March 17-19, 2026.

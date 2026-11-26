@@ -220,6 +220,26 @@ claims:
   id: u12
   outcome: verified
   checked: '2026-11-17'
+- type: date
+  value: November 23, 2026
+  qualifier: ordered
+  span: 'MINUTE ORDER: The Court ORDERS that the Clerk''s Office is DIRECTED to place on the Court''s public website all documents from the 26-sw-318 docket in redacted form. So ORDERED by Chief Judge James E. Boasberg on November 23, 2026.'
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u13
+  outcome: verified
+  checked: '2026-11-25'
+- type: quote
+  value: place on the Court's public website all documents from the 26-sw-318 docket in redacted form
+  qualifier: directed
+  span: 'MINUTE ORDER: The Court ORDERS that the Clerk''s Office is DIRECTED to place on the Court''s public website all documents from the 26-sw-318 docket in redacted form. So ORDERED by Chief Judge James E. Boasberg on November 23, 2026.'
+  url: https://www.courtlistener.com/docket/74969880/in-re-application-of-fourteen-press-organizations-for-access-to-sealed/?order_by=desc
+  read: fetched
+  source_kind: primary
+  id: u14
+  outcome: verified
+  checked: '2026-11-25'
 tags:
 - omar
 - hsi
@@ -301,6 +321,16 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: hsi-election-program
+- date: '2026-11-23'
+  date_kind: order date (minute order)
+  heading: Boasberg directs the Clerk to post the 26-sw-318 documents in redacted form
+  claims:
+  - u13
+  - u14
+  event_date_claim: u13
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: omar-search-warrant-unsealing
 ---
 
 The government did not respond to the Omar search-warrant unsealing applications by the deadline the court had set. It asked for more time, and on October 22 Chief Judge James E. Boasberg granted that motion in part and denied it in part.
@@ -328,3 +358,7 @@ On November 12, 2026, Chief Judge James E. Boasberg ordered the parties to appea
 On November 17, 2026, after the motion hearing, Chief Judge James E. Boasberg ordered that by November 20, 2026 the government submit to the court ex parte all documents on the search-warrant docket, excluding the affidavit but including the docket sheet, in redboxed and redacted forms. Absent a stay, the court will publish the documents in redacted form on its website no earlier than 5:00 p.m. on November 23, 2026.
 
 Applicants may file a response to the redactions by November 30, 2026. The court will not publish any redacted material without speaking to the government first.
+
+## Update (2026-11-23, order date (minute order)): Boasberg directs the Clerk to post the 26-sw-318 documents in redacted form
+
+On November 23, 2026, Chief Judge James E. Boasberg ordered the Clerk's Office to place all documents from the 26-sw-318 docket on the court's public website in redacted form. What the posted records state is in [[2026-11-23--court-posts-redacted-26-sw-318-search-warrant-records-omar-home-search]].

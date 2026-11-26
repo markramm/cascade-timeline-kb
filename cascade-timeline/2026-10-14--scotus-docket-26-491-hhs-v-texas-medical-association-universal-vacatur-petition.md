@@ -149,6 +149,11 @@ corrections:
   now: "Title ends \"Response Extended to Dec. 14\"; an Oct 29 2026 order extended the response time to December 14, 2026 for all respondents (claim u2)."
   why: "Supreme Court docket for 26-491, https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html, read 2026-11-25; retitle approved by Mark 2026-11-25"
   found_by: "capture-watch docket update"
+- date: '2026-11-25'
+  was: "Body said \"The response is due November 13, 2026 (as of the docket page read for this entry; no extension is shown)\" and that the docket listed no extension."
+  now: "Body says the docket page read gave November 13, 2026, and that an Oct 29 2026 order extended the response time to December 14, 2026 (claim u2)."
+  why: "Supreme Court docket for 26-491, https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-491.html, read 2026-11-25; the body contradicted the update below it"
+  found_by: "investigation-conductor promotion pass"
 updates:
 - date: '2026-10-29'
   date_kind: order date
@@ -164,7 +169,7 @@ updates:
   cluster: universal-vacatur
 ---
 
-The Solicitor General's petition on universal vacatur is **No. 26-491, *Department of Health and Human Services, et al. v. Texas Medical Association, et al.***. It was docketed on the Supreme Court's own docket on Oct 14 2026 (docketing and filing date). The response is due November 13, 2026 (as of the docket page read for this entry; no extension is shown).. The docket lists only the petition so far: no response, waiver, extension, distribution date or conference date.
+The Solicitor General's petition on universal vacatur is **No. 26-491, *Department of Health and Human Services, et al. v. Texas Medical Association, et al.***. It was docketed on the Supreme Court's own docket on Oct 14 2026 (docketing and filing date). The docket page read for this entry gave a response due date of November 13, 2026; an order of Oct 29 2026 later extended that to December 14, 2026 (see the update below). When the entry was written, the docket listed only the petition: no response, waiver, extension, distribution date or conference date.
 
 **The vehicle is a No Surprises Act rule case, not an election or DHS case.** The Fifth Circuit sitting en banc entered judgment on August 11, 2026 (decision date) in the case below. The underlying suit is a challenge by a medical association, a Texas hospital and air-ambulance providers to the 2021 interim final rule on how insurers compute the "qualifying payment amount" for out-of-network billing. The district court (E.D. Tex.) vacated provisions of the rule, and the en banc court upheld universal vacatur of them. That settles the open item in the earlier entry [[2026-10-14--trump-admin-petitions-scotus-limit-courts-universal-vacatur-agency-rules-fifth-circuit]]: the court is the Fifth Circuit, and the capture lead's "No Surprises Act" description is correct. Both describe one case.
 
