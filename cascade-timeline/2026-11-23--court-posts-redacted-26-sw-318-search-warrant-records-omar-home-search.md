@@ -108,6 +108,106 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-25'
+- id: u1
+  type: date
+  value: November 24, 2026
+  span: 'Further, to be clear, during these exchanges the House General Counsel was not informed of which Member’s residence was at issue. Respectfully submitted, Dated: November 24, 2026'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u2
+  type: quote
+  value: refused to be involved in the search
+  span: But House Counsel refused to be involved in the search. Echoing the United States’s position, he explained that, in his view, Speech or Debate Clause protections do not extend to a Member’s private residence.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u3
+  type: quote
+  value: requires correction
+  span: The final sentence quoted above requires correction.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u4
+  type: attribution
+  value: took no position on the scope of Speech or Debate Clause protections
+  span: but it was actually premised only on House equities regarding the place of a search, and the House General Counsel took no position on the scope of Speech or Debate Clause protections.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u5
+  type: attribution
+  value: drew a distinction between a Member’s office and private residence
+  span: General Counsel drew a distinction between a Member’s office and private residence, noting that the House does not have the “same equities” in a search that is conducted “on private property”
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u6
+  type: quote
+  value: inadvertent misunderstanding
+  span: The United States apologizes for this inadvertent misunderstanding.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u7
+  type: attribution
+  value: was not informed of which Member’s residence was at issue
+  span: Further, to be clear, during these exchanges the House General Counsel was not informed of which Member’s residence was at issue.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u8
+  type: attribution
+  value: 26-mc-159
+  span: The Court also received at the hearing an oral motion from the Applicants to unseal documents in a separate sealed matter (26-mc-159, referenced as the “Separate Docket”)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.32.0.pdf
+  read: fetched
+  source_kind: primary
+  qualifier: Separate Docket
+  outcome: verified
+  checked: '2026-11-25'
+- id: u9
+  type: posture
+  value: should remain sealed
+  span: For these reasons, it should remain sealed at this time, with a decision on unsealing postponed until the present sensitive phase of the Separate Docket has passed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.32.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u10
+  type: attribution
+  value: has filed a motion to intervene and unseal
+  span: Applicant Judicial Watch, therefore, has filed a motion to intervene and unseal the docket and sealed materials in No. 26-mc-159, a copy of which is attached as Attachment 1.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.33.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u11
+  type: posture
+  value: ERRATA
+  span: THE UNITED STATES OF AMERICA’S ERRATA In various filings in this and related proceedings, the United States has stated that it
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
 tags:
 - omar
 - hsi
@@ -142,6 +242,41 @@ sources:
   publisher: Judicial Watch
   date: '2026-11-25'
   tier: 2
+- title: United States' Errata, In re Application of Fourteen Press Organizations, 1:26-mc-00144 (D.D.C.), Dkt. 34
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.34.0.pdf
+  publisher: D.D.C. via CourtListener RECAP
+  date: '2026-11-24'
+  tier: 1
+- title: United States' Second Notice Regarding Unsealing, Dkt. 32
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.32.0.pdf
+  publisher: D.D.C. via CourtListener RECAP
+  date: '2026-11-23'
+  tier: 1
+- title: Judicial Watch Notice of Filing, Dkt. 33
+  url: https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.33.0.pdf
+  publisher: D.D.C. via CourtListener RECAP
+  date: '2026-11-23'
+  tier: 1
+updates:
+- date: '2026-11-24'
+  date_kind: filing date
+  heading: DOJ corrects its account of the House General Counsel's position on the Omar search
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: hsi-election-program
 ---
 
 On November 23, 2026, Chief Judge James E. Boasberg issued a minute order directing the Clerk's Office to place all documents from the 26-sw-318 docket on the court's public website in redacted form. That is the sealed docket for the search warrant HSI agents executed at Rep. Ilhan Omar's residence on October 12.
@@ -151,3 +286,9 @@ On November 23, 2026, Chief Judge James E. Boasberg issued a minute order direct
 **What the other records say, as posted by Judicial Watch.** The remaining records read for this entry come from a copy hosted by Judicial Watch, which has filed in the unsealing case; the court-hosted file read for this entry is the Memorandum Order only. In the government's own brief, the warrant application sought records of violations "occurring between 1980 to the present." The statutes are redacted. The same brief says the government applied at about 10:33 a.m. on Friday, October 2, 2026, and a government filing says the warrant was signed on October 9, 2026. The government's status report says HSI executed it on October 12, 2026.
 
 **Context.** This entry records the unsealing and what the posted documents state. It makes no finding about purpose, and no charges appear on the dockets read. The unsealing fight is tracked in [[2026-10-22--boasberg-sets-oct-27-government-response-omar-search-warrant-unsealing-applications-government-ex-parte-sealed-filing]]; the search itself is [[2026-10-12--hsi-searches-rep-ilhan-omar-dc-home-doj-warrant-22-days-before-midterms]].
+
+## Update (2026-11-24, filing date): DOJ corrects its account of the House General Counsel's position on the Omar search
+
+On November 24, 2026, the United States filed an errata in the unsealing case about a statement it had made in various filings. The government had said that the House General Counsel "refused to be involved in the search" and explained that Speech or Debate Clause protections do not extend to a Member's private residence. The errata says that last sentence requires correction: the General Counsel drew a distinction between a Member's office and private residence, based only on House equities regarding the place of a search, and took no position on the scope of Speech or Debate Clause protections. The filing says government counsel misunderstood him and apologizes for an inadvertent misunderstanding. It adds that the General Counsel was not informed which Member's residence was at issue.
+
+A day earlier, in a second notice regarding unsealing, the government argued that a separate sealed docket, 26-mc-159, should remain sealed for now and that the press applicants should be required to file papers showing why they are entitled to it. Judicial Watch then filed a motion to intervene and unseal that docket.

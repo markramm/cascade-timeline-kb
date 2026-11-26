@@ -46,6 +46,62 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-11-16'
+- id: u1
+  type: date
+  value: 11/18/26
+  span: 'Case 2:26-cv-12025-DOC-ADS Document 183 #:2532 Filed 11/18/26 Page 1 of 1 Page ID'
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u2
+  type: attribution
+  value: Federal Rule of Appellate Procedure 42(b)
+  span: Plaintiff-Appellant moved to dismiss this appeal pursuant to Federal Rule of Appellate Procedure 42(b).
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u3
+  type: posture
+  value: GRANTED
+  qualifier: motion to dismiss
+  span: The motion to dismiss is GRANTED without prejudice to
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u4
+  type: attribution
+  value: serves as the mandate of the court
+  span: This order serves as the mandate of the court.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u5
+  type: attribution
+  value: reserved the right to seek costs and fees
+  span: have reserved the right to seek costs and fees.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u6
+  type: attribution
+  value: 26-7231
+  qualifier: No.
+  span: No. 26-7231 D.C. No. 2:26-cv-12025-DOC-ADS Central District of California, Los Angeles ORDER
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  read: fetched
+  source_kind: primary
+  outcome: verified
+  checked: '2026-11-25'
 tags:
 - election-2026
 - us-v-california
@@ -61,6 +117,11 @@ sources:
   publisher: CourtListener RECAP
   date: '2026-11-10'
   tier: 1
+- title: Ninth Circuit order, No. 26-7231 (Dkt. 183 in 2:26-cv-12025)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.cacd.1043513/gov.uscourts.cacd.1043513.183.0.pdf
+  publisher: Ninth Circuit via CourtListener
+  date: '2026-11-18'
+  tier: 1
 related_events:
 - 2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built
 - 2026-10-15--doj-sues-california-weber-la-county-logan-cd-cal-2-26-cv-12025-block-tabulating-ballots-of-20000-flagged-voters
@@ -71,8 +132,27 @@ coverage:
   - url: https://theramm.transparencycascade.org/p/doj-asked-a-judge-to-sanction-an
     title: "DOJ Asked a Judge to Sanction an Immigrant-Rights Group Over Its Analysis of the Voter List. He Said No."
 summary: Judge Carter closed United States v. California after DOJ withdrew its complaint, and vacated the Nov. 13 hearing on the government's list.
+updates:
+- date: '2026-11-18'
+  date_kind: order date
+  heading: Ninth Circuit grants DOJ's motion to dismiss its appeal
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ca-voter-list
 ---
 
 Judge David O. Carter closed the Justice Department's suit against California on Nov. 10 after the Department of Justice withdrew its complaint "in its entirety," and vacated the expedited hearing the court had set on the validity of the government's list for Nov. 13. Carter wrote that the lawsuit "attempted to disrupt an ongoing election and create confusion and uncertainty for voters and election workers alike." The order does not say why the Department withdrew.
 
 Related: [[2026-10-15--doj-sues-california-weber-la-county-logan-cd-cal-2-26-cv-12025-block-tabulating-ballots-of-20000-flagged-voters]], [[2026-10-19--doj-seeks-tro-us-v-california-sworn-dhs-declarations-describe-how-20000-voter-list-was-built]], [[2026-10-28--carter-denies-doj-tro-us-v-california-20000-ballots-not-credible-dkt-149]], [[2026-11-02--doj-asks-supreme-court-make-california-set-aside-20000-flagged-mail-ballots-sauer-application]], [[2026-11-02--supreme-court-denies-doj-application-for-injunction-pending-appeal-united-states-v-california]].
+
+## Update (2026-11-18, order date): Ninth Circuit grants DOJ's motion to dismiss its appeal
+
+The Ninth Circuit granted the Justice Department's motion to dismiss its appeal in No. 26-7231 under Federal Rule of Appellate Procedure 42(b). The motion states that the state and intervenor appellees consent to dismissal but have reserved the right to seek costs and fees, and the order grants dismissal without prejudice to their seeking costs and fees. The order serves as the mandate of the court.

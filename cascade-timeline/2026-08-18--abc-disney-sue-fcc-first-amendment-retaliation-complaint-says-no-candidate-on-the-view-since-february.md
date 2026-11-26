@@ -41,6 +41,11 @@ sources:
     publisher: CourtListener RECAP
     date: '2026-10-12'
     tier: 1
+  - title: Judge blocks FCC from early license review for ABC, which network says has had a chilling effect (AP, via WKMG)
+    url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+    publisher: Associated Press
+    date: '2026-11-25'
+    tier: 2
 related_events:
   - 2026-04-28--fcc-media-bureau-da-26-416-calls-in-abc-eight-station-licenses-for-early-renewal
   - 2026-02-19--fcc-investigates-abc-the-view-equal-time-violations
@@ -238,10 +243,69 @@ claims:
   source_kind: primary
   outcome: verified
   checked: '2026-10-17'
+- id: u1
+  type: date
+  value: Wednesday
+  span: WASHINGTON – A federal judge agreed Wednesday to block the Federal Communications Commission from conducting an early review of ABC’s broadcast licenses, agreeing with the network that the Trump administration was chilling the network's free speech rights.
+  url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u2
+  type: posture
+  value: granted
+  span: U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC’s request for a temporary restraining order and a preliminary injunction on First Amendment grounds.
+  url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u3
+  type: quote
+  value: This is not a close case
+  span: “This is not a close case,” she wrote.
+  url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u4
+  type: posture
+  value: rejected
+  span: The judge rejected ABC’s additional request to block the FCC from “any actions, formal or informal,” to coerce or threaten sanctions in an effort to alter the network’s “exercise of editorial discretion.”
+  url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
+- id: u5
+  type: attribution
+  value: wrong on the facts and wrong on the law
+  span: An FCC spokesperson said in a statement that the part of the decision granting ABC’s motion “is wrong on the facts and wrong on the law,” adding that the agency “looks forward to prevailing in full on this matter.”
+  url: https://www.clickorlando.com/news/politics/2026/11/26/judge-blocks-fcc-from-early-license-review-for-abc-which-network-says-has-had-a-chilling-effect/
+  read: fetched
+  source_kind: secondary
+  outcome: verified
+  checked: '2026-11-25'
 event_date_claim: c1
 coverage:
 - url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
   title: "ABC Says No Candidate Has Been on The View Since February, and Says Why"
+updates:
+- date: '2026-11-25'
+  date_kind: order date
+  heading: Judge AliKhan blocks the FCC's early review of ABC's licenses
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-at-polls
 ---
 
 On August 18, 2026 (filing date), ABC, Disney and ABC's eight owned stations sued the FCC, Chairman Brendan Carr, Commissioners Anna Gomez and Olivia Trusty, and unnamed commissioners in the U.S. District Court for the District of Columbia, *American Broadcasting Companies, Inc. v. FCC*, No. 1:26-cv-02902 (Judge Loren L. AliKhan). The single count is First Amendment retaliation: the plaintiffs ask the court to declare the April early-renewal order retaliatory and to bar further action on the renewal applications, "including issuing a Hearing Designation Order." They moved for a TRO and preliminary injunction the same day. Statements attributed to ABC below are pleadings, not findings.
@@ -261,3 +325,7 @@ On August 18, 2026 (filing date), ABC, Disney and ABC's eight owned stations sue
 - [ ] The hearing transcript (docketed, about a hundred pages) was not read; whether RECAP holds it is unknown.
 - [ ] No ruling on the TRO/PI motion or the motion to dismiss as of the RECAP copy; re-check the docket.
 - [ ] Petitions and oppositions filed in the FCC's renewal docket were not read; the complaint refers to some seeking non-renewal on the basis of guests' political affiliations.
+
+## Update (2026-11-25, order date): Judge AliKhan blocks the FCC's early review of ABC's licenses
+
+A federal judge agreed Wednesday to block the Federal Communications Commission from conducting an early review of ABC's broadcast licenses. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC's request for a temporary restraining order and a preliminary injunction on First Amendment grounds. She wrote, "This is not a close case." She rejected ABC's additional request to block the FCC from any actions, formal or informal, to coerce or threaten sanctions over the network's editorial discretion. An FCC spokesperson said the part of the decision granting ABC's motion is wrong on the facts and wrong on the law.
