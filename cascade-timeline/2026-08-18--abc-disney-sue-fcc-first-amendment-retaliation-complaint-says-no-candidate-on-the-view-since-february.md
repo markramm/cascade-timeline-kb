@@ -46,6 +46,11 @@ sources:
     publisher: Associated Press
     date: '2026-11-25'
     tier: 2
+  - title: Judge rules FCC violated ABC's free speech rights to please Trump (NPR via OPB)
+    url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+    publisher: NPR / OPB
+    date: '2026-11-26'
+    tier: 2
 related_events:
   - 2026-04-28--fcc-media-bureau-da-26-416-calls-in-abc-eight-station-licenses-for-early-renewal
   - 2026-02-19--fcc-investigates-abc-the-view-equal-time-violations
@@ -288,6 +293,83 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-25'
+- type: date
+  value: Wednesday
+  span: In her preliminary injunction filed Wednesday, U.S. District Court Judge Loren AliKhan found that the federal agency’s early reviews represented retaliation for speech the Trump administration resented.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-27'
+- type: attribution
+  value: blocked President Trump and his administration from taking action to challenge the ABC television network’s broadcast licenses
+  span: A federal judge has blocked President Trump and his administration from taking action to challenge the ABC television network’s broadcast licenses, finding it to be an unconstitutional punishment for satire, commentary and news coverage that Trump doesn’t like.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-27'
+- type: attribution
+  value: rejected the Trump administration’s motion to dismiss
+  span: She rejected the Trump administration’s motion to dismiss the lawsuit from ABC and Disney challenging the review of the local licenses.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-27'
+- type: quote
+  value: Chairman Carr has taken President Trump’s rhetoric as his marching orders
+  speaker: Judge Loren AliKhan
+  span: “Chairman Carr has taken President Trump’s rhetoric as his marching orders,” Judge AliKhan wrote.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-27'
+- type: figure
+  value: eleven
+  qualifier: calls made by President Trump
+  span: “The court counts eleven such calls made by President Trump over the past two years -- the most recent being in July 2026.”
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-27'
+- type: attribution
+  value: racial discrimination through its diversity, equity and inclusion actions
+  speaker: Brendan Carr
+  span: Carr, the agency’s chief, has said it initiated the review of Disney’s broadcast licenses over concerns that the company engaged in racial discrimination through its diversity, equity and inclusion actions.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-27'
+- type: quote
+  value: Obviously, the Disney lawsuit is without merit
+  speaker: Brendan Carr
+  span: “Obviously, the Disney lawsuit is without merit,” Carr told NPR in August.
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-27'
+- type: quote
+  value: an important victory for the First Amendment
+  speaker: ABC
+  span: ABC hailed the ruling in a statement as “an important victory for the First Amendment.”
+  url: https://www.opb.org/article/2026/11/26/fcc-abc-license-review-judge-ruling/
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-27'
 event_date_claim: c1
 coverage:
 - url: https://theramm.substack.com/p/abc-says-no-candidate-has-been-on
@@ -306,6 +388,22 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: ice-at-polls
+- date: '2026-11-25'
+  date_kind: order date
+  heading: Judge AliKhan enjoins the FCC's early review of ABC's licenses as retaliation for speech
+  claims:
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u6
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: guardrails
 ---
 
 On August 18, 2026 (filing date), ABC, Disney and ABC's eight owned stations sued the FCC, Chairman Brendan Carr, Commissioners Anna Gomez and Olivia Trusty, and unnamed commissioners in the U.S. District Court for the District of Columbia, *American Broadcasting Companies, Inc. v. FCC*, No. 1:26-cv-02902 (Judge Loren L. AliKhan). The single count is First Amendment retaliation: the plaintiffs ask the court to declare the April early-renewal order retaliatory and to bar further action on the renewal applications, "including issuing a Hearing Designation Order." They moved for a TRO and preliminary injunction the same day. Statements attributed to ABC below are pleadings, not findings.
@@ -329,3 +427,9 @@ On August 18, 2026 (filing date), ABC, Disney and ABC's eight owned stations sue
 ## Update (2026-11-25, order date): Judge AliKhan blocks the FCC's early review of ABC's licenses
 
 A federal judge agreed Wednesday to block the Federal Communications Commission from conducting an early review of ABC's broadcast licenses. U.S. District Judge Loren AliKhan in Washington, D.C., granted ABC's request for a temporary restraining order and a preliminary injunction on First Amendment grounds. She wrote, "This is not a close case." She rejected ABC's additional request to block the FCC from any actions, formal or informal, to coerce or threaten sanctions over the network's editorial discretion. An FCC spokesperson said the part of the decision granting ABC's motion is wrong on the facts and wrong on the law.
+
+## Update (2026-11-25, order date): Judge AliKhan enjoins the FCC's early review of ABC's licenses as retaliation for speech
+
+In a preliminary injunction filed Wednesday, U.S. District Judge Loren AliKhan blocked President Trump and his administration from taking action to challenge the ABC television network's broadcast licenses, finding the Federal Communications Commission's early reviews to be retaliation for speech. She rejected the administration's motion to dismiss the ABC and Disney suit. "Chairman Carr has taken President Trump's rhetoric as his marching orders," she wrote, and the court counted eleven calls by Trump for action against ABC's licenses.
+
+FCC Chairman Brendan Carr has said the review began over concerns that Disney engaged in racial discrimination through its diversity, equity and inclusion actions, and told NPR the suit was without merit. ABC called the ruling "an important victory for the First Amendment."
