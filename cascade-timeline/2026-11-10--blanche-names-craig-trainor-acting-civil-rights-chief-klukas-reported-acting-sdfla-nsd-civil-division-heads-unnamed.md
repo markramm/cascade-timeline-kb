@@ -92,6 +92,24 @@ claims:
   id: u3
   outcome: verified
   checked: '2026-11-16'
+- type: attribution
+  value: Acting United States Attorney for the Southern District of Florida
+  span: 'Yara Klukas serves as the Acting United States Attorney for the Southern District of Florida.'
+  url: https://www.justice.gov/usao-sdfl/meet-us-attorney
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-27'
+- type: attribution
+  value: Craig W. Trainor Acting Assistant Attorney General
+  span: 'Craig W. Trainor Acting Assistant Attorney General'
+  url: https://www.justice.gov/crt
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-27'
 sources:
 - title: 'Justice Department: Jonathan Guynn staff profile, Civil Division'
   url: https://www.justice.gov/civil/staff-profile/principal-deputy-acting-assistant-attorney-general
@@ -157,3 +175,7 @@ No reporting found names a successor or acting head at the National Security Div
 ## Update (2026-11-16, page date): the Civil Division has a named acting head
 
 The Justice Department's own Civil Division pages name Jonathan D. Guynn as Acting Assistant Attorney General, and his staff profile says he was appointed Principal Deputy Assistant Attorney General on November 9, 2026. The profile does not say whom he replaces. The sentence above that no reporting names a Civil Division head reflects news reporting only, not the department's pages. The National Security Division's page lists M. Scott Proctor as Principal Deputy Assistant Attorney General and names no acting head.
+
+## Update (2026-11-27, page date): the Justice Department's pages name Klukas and Trainor; the National Security Division still lists no acting head
+
+The Justice Department's Southern District of Florida page for the U.S. attorney says Yara Klukas serves as the Acting United States Attorney for the Southern District of Florida. The page gives no appointment date. The Civil Rights Division's page lists Craig W. Trainor as Acting Assistant Attorney General. The National Security Division page still names M. Scott Proctor as Principal Deputy Assistant Attorney General and no acting assistant attorney general.
