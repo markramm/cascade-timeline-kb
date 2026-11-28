@@ -34,6 +34,11 @@ sources:
   publisher: Newsweek
   date: '2026-11-18'
   tier: 2
+- title: Sen. Dan Sullivan concedes Alaska’s U.S. Senate race to Mary Peltola
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  publisher: Anchorage Daily News
+  date: '2026-11-24'
+  tier: 2
 coverage: []
 claims:
 - id: c1
@@ -142,12 +147,82 @@ claims:
   url: https://www.newsweek.com/mary-peltola-wins-alaska-senate-election-in-final-democratic-flip-12638493
   read: fetched
   source_kind: secondary
+- type: date
+  value: Tuesday
+  qualifier: conceded
+  span: Republican Sen. Dan Sullivan on Tuesday conceded Alaska’s U.S. Senate race to Democrat Mary Peltola, a week after the Associated Press called the race and six days after the state counted the last of the ballots.
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: a week after the Associated Press called the race
+  span: Republican Sen. Dan Sullivan on Tuesday conceded Alaska’s U.S. Senate race to Democrat Mary Peltola, a week after the Associated Press called the race and six days after the state counted the last of the ballots.
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: I accept the results certified by the Division of Elections
+  span: “As I’ve always said I would, and out of respect for the people of Alaska and our democratic process, I accept the results certified by the Division of Elections,” he said.
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: the ongoing federal and state investigations will provide answers to the questions that remain
+  span: “Alaskans deserve confidence in the integrity of their elections, and I trust that the ongoing federal and state investigations will provide answers to the questions that remain.”
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: the biggest election cheating scandal
+  span: Sullivan, who had previously accused the Peltola campaign of participating in “the biggest election cheating scandal” in Alaska history, said he would accept the results out of respect for the democratic process.
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: The newspaper found no illegal activity
+  span: The newspaper found no illegal activity, and political observers and legal experts say ballot-stacking efforts don’t appear to be unlawful.
+  url: https://www.adn.com/politics/2026/11/24/sen-dan-sullivan-concedes-alaskas-us-senate-race-to-mary-peltola/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-28'
 summary: The Associated Press called the Alaska Senate race for the Democratic candidate, Peltola, on the night of Nov. 17, per Newsweek; Sullivan's campaign has not conceded, and the state has targeted Nov. 25 to certify.
 related_events:
 - 2026-11-09--peltola-leads-sullivan-by-2517-first-choice-votes-alaska-beacon-projection-says-lead-outweighs-ranked-choice-edge
 - 2026-11-01--judge-gleason-dismisses-doj-suit-to-block-alaska-senate-certification-doj-to-appeal
 - 2026-10-22--doj-sues-alaska-to-bar-senate-certification-if-sullivan-loses-nvra
 verification: source-verified
+updates:
+- date: '2026-11-24'
+  date_kind: statement date
+  heading: Sullivan concedes, accepting the certified result while pointing to the open investigations
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: certification
 ---
 
 The Associated Press called the Alaska Senate race for the Democratic candidate, Peltola, at 10:19 p.m. Eastern time on Tuesday, November 17, according to Newsweek. In the Alaska Division of Elections' unofficial Election Summary of November 17, Peltola has 144,302 votes. Sen. Dan Sullivan has 131,844 in the same summary. The summary counts 287,896 total votes in the contest. Peltola's share is 50.12% in the Division's summary. Newsweek attributes the 144,302 to 131,844 figures to the AP, and a 50.1 percent first-choice share. The Division's results page said ranked-choice results would not be available until November 18, 2026.
@@ -159,3 +234,7 @@ Sullivan's campaign has not conceded. On Monday, the day before the call, his ca
 Trump argued in a November 5 Truth Social post that the votes for Daniel J. Sullivan Jr. should be handed to the "REAL Dan Sullivan," according to Newsweek. These are Trump's statements. The Justice Department has appealed the dismissal of its certification suit to the 9th Circuit, according to Newsweek.
 
 Related: [[2026-11-09--peltola-leads-sullivan-by-2517-first-choice-votes-alaska-beacon-projection-says-lead-outweighs-ranked-choice-edge]], [[2026-11-01--judge-gleason-dismisses-doj-suit-to-block-alaska-senate-certification-doj-to-appeal]], [[2026-10-22--doj-sues-alaska-to-bar-senate-certification-if-sullivan-loses-nvra]].
+
+## Update (2026-11-24, statement date): Sullivan concedes, accepting the certified result while pointing to the open investigations
+
+Republican Sen. Dan Sullivan conceded the race to Mary Peltola on Tuesday in a statement from his campaign, a week after the AP call. "I accept the results certified by the Division of Elections," he said, adding that he trusts "the ongoing federal and state investigations will provide answers to the questions that remain." He had earlier accused the Peltola campaign of "the biggest election cheating scandal" in Alaska history; the Anchorage Daily News reports that the New York Times story behind that charge found no illegal activity.

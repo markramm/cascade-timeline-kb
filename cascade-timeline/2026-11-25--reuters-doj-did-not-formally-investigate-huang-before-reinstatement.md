@@ -148,6 +148,70 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-26'
+- type: date
+  value: Tuesday
+  qualifier: press conference
+  span: Attorney General Todd Blanche dodged straightforward questions at a Tuesday press conference about Donald Trump’s remarks that Nvidia CEO Jensen Huang was not a national security risk—and Trump’s assertion that Blanche had supposedly confirmed to the president that there was no evidence of unlawful conduct by Huang.
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: whether they were aware of their chips being diverted to China despite US export restrictions
+  span: “You guys are asking me to comment about investigations to the extent that they exist, but the president is free to talk about whatever he wants to talk about. That’s different than the question you’re asking me,” Blanche replied when asked if Nvidia and Jensen Huang were cooperating with a Justice Department probe into whether they were aware of their chips being diverted to China despite US export restrictions.
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: the president is free to talk about whatever he wants to talk about
+  span: “You guys are asking me to comment about investigations to the extent that they exist, but the president is free to talk about whatever he wants to talk about. That’s different than the question you’re asking me,” Blanche replied when asked if Nvidia and Jensen Huang were cooperating with a Justice Department probe into whether they were aware of their chips being diverted to China despite US export restrictions.
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: What I will say is yes, Nvidia is a good corporate citizen
+  span: “What I will say is yes, Nvidia is a good corporate citizen. That [statement] shouldn’t be groundbreaking.”
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: very thorough investigation
+  span: The president also said on Monday that his administration did a “very thorough investigation” and found that Huang “did nothing wrong.”
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: did nothing wrong
+  span: The president also said on Monday that his administration did a “very thorough investigation” and found that Huang “did nothing wrong.”
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: told CNBC
+  span: On Monday, Trump said that “the correct and proper decision” was made to reinstate Huang, and told CNBC that he spoke directly with the board to convince them that Huang was not a security threat, and that they should allow him to return.
+  url: https://www.motherjones.com/?p=1264464
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-28'
 tags:
 - nvidia
 - doj
@@ -170,6 +234,11 @@ sources:
   publisher: CBS News
   date: '2026-11-24'
   tier: 2
+- title: Todd Blanche Suddenly Knows Nothing About the Jensen Huang Investigation
+  url: https://www.motherjones.com/?p=1264464
+  publisher: Mother Jones
+  date: '2026-11-24'
+  tier: 2
 updates:
 - date: '2026-11-24'
   date_kind: publication
@@ -182,6 +251,21 @@ updates:
   - u5
   - u6
   event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: enforcement-funnel
+- date: '2026-11-24'
+  date_kind: press conference date
+  heading: At the same press conference, Blanche calls Nvidia a good corporate citizen
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  event_date_claim: u7
   verification: source-verified
   captured_by: capture-watch
   cluster: enforcement-funnel
@@ -198,3 +282,7 @@ Related events: [[2026-11-09--nbc-justice-dept-asked-commerce-pause-nvidia-custo
 CBS News reported on November 24 that Nvidia CEO Jensen Huang still holds a security clearance, according to multiple sources familiar with the matter. CBS said revoking Huang's clearance was discussed, according to sources.
 
 CBS reported that earlier that Tuesday, Attorney General Todd Blanche told reporters he was not sure whether Huang still held a security clearance.
+
+## Update (2026-11-24, press conference date): At the same press conference, Blanche calls Nvidia a good corporate citizen
+
+At the Tuesday press conference, asked whether Nvidia and Huang were cooperating with a Justice Department probe into whether they knew their chips were diverted to China despite US export restrictions, Blanche said "the president is free to talk about whatever he wants to talk about" and added: "What I will say is yes, Nvidia is a good corporate citizen." Mother Jones reports that Trump told CNBC his administration did a "very thorough investigation" and found that Huang "did nothing wrong."
