@@ -37,6 +37,21 @@ sources:
   publisher: NBC News
   date: '2025-12-15'
   tier: 2
+- title: Order Granting Second Joint Motion to Extend and Requiring Conferral and Scheduling of Plaintiff's Deposition, ECF 223, Trump v. British Broadcasting Corp., No. 1:25-cv-25894 (S.D. Fla. Nov. 17, 2026)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.223.0_5.pdf
+  publisher: CourtListener (RECAP)
+  date: '2026-11-17'
+  tier: 1
+- title: Joint Notice Regarding Scheduling of Plaintiff's Deposition, ECF 229, Trump v. British Broadcasting Corp. (S.D. Fla. Nov. 20, 2026)
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.229.0_1.pdf
+  publisher: CourtListener (RECAP)
+  date: '2026-11-20'
+  tier: 1
+- title: Trump granted delay in $10 billion BBC lawsuit deposition
+  url: https://www.yahoo.com/news/politics/articles/trump-granted-delay-10-billion-084827066.html
+  publisher: Newsweek via Yahoo News
+  date: '2026-11-18'
+  tier: 2
 verification: source-verified
 claims:
 - id: c1
@@ -119,10 +134,105 @@ claims:
   source_kind: secondary
   outcome: verified
   checked: '2026-11-14'
+- type: date
+  value: November 17, 2026
+  span: pursuant to the November 17, 2026 Order Granting Second Joint Motion to Extend and Requiring Conferral and Scheduling of Plaintiff’s Deposition
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.229.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: January 22, 2027
+  span: The deposition shall be scheduled to occur, and shall be completed, on or before January 22, 2027.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.223.0_5.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: January 29
+  span: The deadline for discovery was also pushed back from December 18 to January 29.
+  url: https://www.yahoo.com/news/politics/articles/trump-granted-delay-10-billion-084827066.html
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: May 3, 2027
+  span: The trial date for the case was scheduled for May 3, 2027, in Fort Lauderdale, Florida.
+  url: https://www.yahoo.com/news/politics/articles/trump-granted-delay-10-billion-084827066.html
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: It is Trump's case, so he should expect to be deposed.
+  span: It is Trump’s case, so he should expect to be deposed.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.223.0_5.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: Expedited Motion to Stay Enforcement
+  span: Trump filed an Expedited Motion to Stay Enforcement of the order requiring him to sit for his deposition on or by December
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.223.0_5.pdf
+  read: fetched
+  source_kind: primary
+  id: u6
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: No date and time were provided.
+  span: No date and time were provided.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.229.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u7
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: President Trump intends to fully comply with this Court’s Scheduling Order
+  span: President Trump intends to fully comply with this Court’s Scheduling Order
+  url: https://storage.courtlistener.com/recap/gov.uscourts.flsd.703382/gov.uscourts.flsd.703382.229.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u8
+  outcome: verified
+  checked: '2026-11-28'
 event_date_claim: c1
 source_published_date: '2025-12-15'
+updates:
+- date: '2026-11-17'
+  date_kind: order date
+  heading: Kuntz moves Trump's deposition deadline to January 22 and discovery to January 29
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: trump-v-bbc
 ---
 
 Trump sued the BBC in the Southern District of Florida on Monday, the day this entry is dated, in a $10 billion defamation lawsuit over a documentary edit. No money has been paid: this is a pending suit, not a settlement, and it belongs in the ledger only as the next candidate.
 
 Where it stands: on the 10th day of November, 2026, District Judge Jeffrey T. Kuntz denied the BBC's motion to dismiss Count I, the defamation claim, granted it as to Count II, the Florida Deceptive and Unfair Trade Practices Act claim, and ordered the BBC to answer Count I on or before December 1, 2026. Magistrate Judge Enjoliqué Lett ordered Trump to sit for a deposition by Dec. 11, or face sanctions up to dismissal of his lawsuit; discovery is scheduled to end Dec. 18.
+
+## Update (2026-11-17, order date): Kuntz moves Trump's deposition deadline to January 22 and discovery to January 29
+
+Judge Kuntz extended the schedule in an order dated November 17, 2026. The order says Trump's deposition shall be completed on or before January 22, 2027. According to Newsweek, the deadline for discovery was pushed back from December 18 to January 29. Newsweek also reported that the trial date was scheduled for May 3, 2027, in Fort Lauderdale. Kuntz wrote that "It is Trump's case, so he should expect to be deposed." The order recounts that Trump had filed an Expedited Motion to Stay Enforcement of the order requiring him to sit for his deposition.
+
+In a joint notice filed in response, the BBC told the court that "No date and time were provided." In the same notice, Trump's counsel wrote that "President Trump intends to fully comply with this Court's Scheduling Order."
