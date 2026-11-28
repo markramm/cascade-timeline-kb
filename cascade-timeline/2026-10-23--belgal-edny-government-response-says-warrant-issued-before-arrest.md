@@ -64,6 +64,51 @@ claims:
   url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.18.0_1.pdf
   read: fetched
   source_kind: primary
+- type: date
+  value: 11/20/26
+  span: 1:26-cv-06607-HG Document 31 Filed 11/20/26
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u1
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: Petition for a writ of habeas corpus, ECF No. 1, is DENIED
+  span: and his Petition for a writ of habeas corpus, ECF No. 1, is DENIED.
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u2
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: any technical error concerning the timing of the NTA is not enough to independently render the warrant invalid
+  span: And, because any technical error concerning the timing of the NTA is not enough to independently render the warrant invalid
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u3
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: cannot serve as a basis for habeas relief
+  span: that conduct cannot serve as a basis for habeas relief
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u4
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: a determination of Petitioner’s ability to seek an individualized bond hearing before an IJ
+  span: nothing in this Order shall be construed as a determination of Petitioner’s ability to seek an individualized bond hearing before an IJ
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  read: fetched
+  source_kind: primary
+  id: u5
+  outcome: verified
+  checked: '2026-11-28'
 tags:
 - ice-shooting
 - habeas
@@ -84,6 +129,25 @@ sources:
   publisher: U.S. Attorney's Office, E.D.N.Y. (via CourtListener RECAP)
   date: '2026-10-23'
   tier: 1
+- title: Order denying habeas petition, Belgal v. Genalo, No. 1:26-cv-06607, ECF 31
+  url: https://storage.courtlistener.com/recap/gov.uscourts.nyed.552742/gov.uscourts.nyed.552742.31.0_1.pdf
+  publisher: E.D.N.Y. via RECAP
+  date: '2026-11-20'
+  tier: 1
+updates:
+- date: '2026-11-20'
+  date_kind: order date
+  heading: Order in Belgal v. Genalo
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: ice-shootings-belgal
 ---
 
 The government filed its brief and exhibits in Belgal v. Genalo, No. 26-cv-6607 (E.D.N.Y.), on October 23, 2026 (filing date). This is the government's account, not a finding.
@@ -91,3 +155,7 @@ The government filed its brief and exhibits in Belgal v. Genalo, No. 26-cv-6607 
 The brief says Belgal was arrested under a warrant that ICE issued on September 18, 2026, and that ICE was unable to serve the original warrant due to the active investigation into Petitioner’s arrest, so a second warrant was issued and served. It says he was admitted to MDC Brooklyn on October 9, 2026.
 
 The government asks for dismissal for failure to exhaust, saying Belgal withdrew his request for a bond hearing on October 15, 2026. The brief recites the government's account of Belgal's criminal history; it is not reproduced here. The arrest record exhibit was filed under seal, and other filings on the docket, including bail and medical papers, are sealed and not in RECAP.
+
+## Update (2026-11-20, order date): Order in Belgal v. Genalo
+
+The order in Belgal v. Genalo is dated 11/20/26. The order says the "Petition for a writ of habeas corpus, ECF No. 1, is DENIED". The order says "any technical error concerning the timing of the NTA is not enough to independently render the warrant invalid". The order says excessive force "cannot serve as a basis for habeas relief". The order says nothing in it is "a determination of Petitioner’s ability to seek an individualized bond hearing before an IJ".
