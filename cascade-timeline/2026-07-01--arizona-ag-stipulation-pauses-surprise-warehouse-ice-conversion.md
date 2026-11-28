@@ -25,6 +25,141 @@ sources:
     publisher: Cronkite News
     date: '2026-07-01'
     tier: 2
+  - title: DHS review clears chemical-hazard concerns at Surprise ICE detention center site
+    url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+    publisher: Arizona Mirror
+    date: '2026-11-27'
+    tier: 2
+claims:
+- type: date
+  value: Nov. 9
+  span: A draft of that report was published on Nov. 9, and the public comment period ends on Dec. 9.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u1
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: Dec. 9
+  span: A draft of that report was published on Nov. 9, and the public comment period ends on Dec. 9.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u2
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: November 27, 2026
+  span: November 27, 2026 9:31 am
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u3
+  outcome: verified
+  checked: '2026-11-28'
+- type: figure
+  value: 10 days
+  span: In July, DHS agreed to pause construction efforts and not hold anyone at the Surprise warehouse until 10 days after a final impact report has been completed.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u4
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: substances that pose the greatest risk of harm from accidental releases
+  span: The report acknowledges that the chemical storage facility houses “substances that pose the greatest risk of harm from accidental releases.”
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u5
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: the facility has had no accidental releases to date
+  span: But the review goes on to note that the facility has had no accidental releases to date.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u6
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: DHS made no mention of the chemical storage facility
+  span: And in a section outlining potential mitigation strategies for hazardous situations, DHS made no mention of the chemical storage facility or the potential for a chemical fire or spill at the neighboring building.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: Hazardous Materials Management Plan
+  span: Instead, the assessment stated that the detention center would operate under a “Hazardous Materials Management Plan,” but didn’t outline what that would consist of.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: declined to comment on whether Mayes anticipates reinitiating litigation
+  span: In an emailed statement, Richie Taylor, a spokesman for Mayes, said her office is still reviewing the environmental report and declined to comment on whether Mayes anticipates reinitiating litigation in light of the report’s lack of acknowledgement of the chemical storage facility.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: doesn’t prevent Mayes from continuing the lawsuit
+  span: The legal agreement to pause construction of the detention center doesn’t prevent Mayes from continuing the lawsuit after the environmental review is finalized, and in a statement accompanying an announcement of the delay in July, Mayes vowed to do just that if she disagrees with the review’s outcome.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-28'
+- type: figure
+  value: 418,400-square-foot
+  span: Earlier this year, the U.S. Department of Homeland Security purchased 11 warehouses across the country in a bid to increase detention space, including a 418,400-square-foot building in Surprise in January that is slated to hold as many as 1,500 immigrants.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-28'
+- type: figure
+  value: 1,500 immigrants
+  span: Earlier this year, the U.S. Department of Homeland Security purchased 11 warehouses across the country in a bid to increase detention space, including a 418,400-square-foot building in Surprise in January that is slated to hold as many as 1,500 immigrants.
+  url: https://azmirror.com/2026/11/27/dhs-review-clears-chemical-hazard-concerns-at-surprise-ice-detention-center-site/
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-28'
+updates:
+- date: '2026-11-09'
+  date_kind: draft report publication date
+  heading: DHS's draft environmental review of the Surprise warehouse offers no mitigation for the chemical facility across the street
+  claims:
+  - u1
+  - u2
+  - u3
+  - u4
+  - u5
+  - u6
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  event_date_claim: u1
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: surveillance-data-brokers
 ---
 
 Arizona AG Kris Mayes announced July 1 a binding stipulated agreement with DHS and ICE pausing all conversion work on the Surprise, AZ warehouse — a 418,400 sq ft industrial facility ICE purchased for approximately $70M in January 2026 ([[2026-01-23--dhs-purchases-rockefeller-surprise-az-warehouse]]). ICE cannot detain anyone or take further physical conversion steps until a federal environmental assessment is completed; Mayes's office projects a minimum nine-month delay. The site sits directly across from a chemical storage facility, and Mayes had filed the underlying NEPA lawsuit in April. This is the first instance of a state AG winning a binding pre-construction pause on the warehouse-to-detention conversion program nationally.
@@ -50,3 +185,9 @@ stores hazardous materials with no confirmed evacuation plan — the proximity u
 NEPA theory.
 
 *Source: noiceinsurprise.com facts-and-timeline compilation (tier 2, community-advocacy compilation — the 1,500-bed NEPA scope and 60-day reporting schedule warrant confirmation against the stipulated order itself before the discrepancy is published).*
+
+## Update (2026-11-09, draft report publication date): DHS's draft environmental review of the Surprise warehouse offers no mitigation for the chemical facility across the street
+
+A draft of the environmental report that the July pause depends on was published on Nov. 9, and the public comment period ends on Dec. 9, the Arizona Mirror reported on November 27, 2026. Under the July agreement, DHS will not hold anyone at the Surprise warehouse until 10 days after a final impact report has been completed. The draft acknowledges that the chemical storage facility houses “substances that pose the greatest risk of harm from accidental releases,” but notes the facility has had no accidental releases to date. According to the Mirror, its section on mitigation for hazardous situations makes no mention of the chemical storage facility, and says only that the detention center would operate under a “Hazardous Materials Management Plan” it does not outline.
+
+The Mirror reports that the attorney general's office is still reviewing the report and declined to comment on whether Mayes anticipates reinitiating litigation. The pause agreement does not prevent her from continuing the lawsuit after the review is finalized. The warehouse is a 418,400-square-foot building slated to hold as many as 1,500 immigrants.

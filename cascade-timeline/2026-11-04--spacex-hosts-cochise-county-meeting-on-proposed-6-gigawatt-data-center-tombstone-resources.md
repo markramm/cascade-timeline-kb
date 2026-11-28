@@ -142,6 +142,96 @@ claims:
   id: u6
   outcome: verified
   checked: '2026-11-17'
+- type: date
+  value: Nov. 27, 2026
+  span: 'Published: Nov. 27, 2026 at 6:01 PM MST|Updated: 17 hours ago'
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u7
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: directed staff to write a response letter to Mayes
+  span: The Cochise County Board of Supervisors directed staff to write a response letter to Mayes.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u8
+  outcome: verified
+  checked: '2026-11-28'
+- type: date
+  value: Late last week
+  span: Late last week, her office asked the county Planning and Zoning Commission to delay a vote on the project.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u9
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: water, power, noise and the environment
+  span: In her letter, Mayes cited concerns about water, power, noise and the environment.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u10
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: Colossus 3
+  span: 'SpaceX’s proposed $50 billion supercomputer campus in southeastern Arizona has a name: Colossus 3.'
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u11
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: announced the name on X
+  span: Elon Musk, the billionaire founder of the aerospace company, announced the name on X, writing it “will greatly benefit the Arizona community.”
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u12
+  outcome: verified
+  checked: '2026-11-28'
+- type: attribution
+  value: questioned Mayes’ authority to request a delay on the vote
+  span: In the draft letter, county staff questioned Mayes’ authority to request a delay on the vote.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u13
+  outcome: verified
+  checked: '2026-11-28'
+- type: quote
+  value: It’s unfortunate that you continue to operate under the mistaken belief that you have the ultimate authority in these areas
+  span: 'The letter says: “It’s unfortunate that you continue to operate under the mistaken belief that you have the ultimate authority in these areas.”'
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u14
+  outcome: verified
+  checked: '2026-11-28'
+- type: figure
+  value: $3.6 billion
+  span: It also said it would pay for $3.6 billion in grid upgrades and use treated wastewater.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u15
+  outcome: verified
+  checked: '2026-11-28'
+- type: figure
+  value: 1,000 jobs
+  span: SpaceX said the project would bring 1,000 jobs to the community.
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  read: fetched
+  source_kind: secondary
+  id: u16
+  outcome: verified
+  checked: '2026-11-28'
 sources:
 - title: '13 News (azfamily): SpaceX hosts community meeting about proposed massive data center in Cochise County'
   url: https://www.azfamily.com/2026/11/05/spacex-behind-proposed-data-center-cochise-county/
@@ -157,6 +247,11 @@ sources:
   url: https://www.azfamily.com/2026/11/17/spacex-plans-50b-data-center-campus-cochise-county/
   publisher: AZFamily
   date: '2026-11-16'
+  tier: 2
+- title: SpaceX data center campus in Cochise County named Colossus 3
+  url: https://www.azfamily.com/2026/11/28/spacex-data-center-campus-cochise-county-named-colossus-3/
+  publisher: AZFamily (KTVK/KPHO)
+  date: '2026-11-27'
   tier: 2
 captured_by: capture-watch
 cluster: ai-industry-policy
@@ -184,6 +279,24 @@ updates:
   verification: source-verified
   captured_by: capture-watch
   cluster: data-center-buildout
+- date: '2026-11-27'
+  date_kind: publication date
+  heading: Cochise County supervisors direct staff to answer AG Mayes's request to delay the vote on SpaceX's campus, now named Colossus 3
+  claims:
+  - u7
+  - u8
+  - u9
+  - u10
+  - u11
+  - u12
+  - u13
+  - u14
+  - u15
+  - u16
+  event_date_claim: u7
+  verification: source-verified
+  captured_by: capture-watch
+  cluster: data-center-buildout
 ---
 
 SpaceX hosted a community meeting on Wednesday evening about a proposed data center in rural Cochise County, Arizona, Arizona's Family reported. The project, near the Apache Generating Station along U.S. Highway 191, would cover approximately 747 acres and include nine data center buildings for artificial intelligence. A special use application filed with the county under Tombstone Resources LLC says the facility would require up to 6,000 megawatts of electricity at full build-out. The application names Tombstone Resources LLC as the applicant, and the station reports that the relationship between it and SpaceX is unclear. The Cochise County Planning and Zoning Commission is scheduled to hold a formal public hearing on Dec. 9.
@@ -195,3 +308,9 @@ The applicant's own notice of the meeting, on Tombstone Resources letterhead and
 AZFamily reported on Nov. 16 that SpaceX has announced plans to build a $50 billion data center campus in Cochise County, and that several community groups are organizing to stop it. The outlet says the campus would sit on nearly 750 acres near Willcox Playa. According to the company's application, SpaceX would invest more than $3 billion in power grid upgrades.
 
 Arizona Attorney General Kris Mayes told AZFamily that she has concerns and that her office is taking a closer look. The project still must go before the county's Planning and Zoning Board, which will hold a hearing Dec. 9. The $50 billion figure is AZFamily's report of SpaceX's announcement; the company's application was not read for this update.
+
+## Update (2026-11-27, publication date): Cochise County supervisors direct staff to answer AG Mayes's request to delay the vote on SpaceX's campus, now named Colossus 3
+
+AZFamily reported on Nov. 27, 2026 that the Cochise County Board of Supervisors directed staff to write a response letter to Arizona Attorney General Kris Mayes, whose office had asked the county Planning and Zoning Commission late last week to delay a vote on the project. AZFamily says Mayes's letter cited concerns about water, power, noise and the environment. Elon Musk announced the campus's name, Colossus 3, on X.
+
+According to AZFamily, the county's draft letter questions Mayes' authority to request a delay on the vote and says: "It’s unfortunate that you continue to operate under the mistaken belief that you have the ultimate authority in these areas." SpaceX said it would pay for $3.6 billion in grid upgrades, use treated wastewater, and bring 1,000 jobs. The letter is a staff draft; AZFamily does not give the date of the supervisors' meeting.
